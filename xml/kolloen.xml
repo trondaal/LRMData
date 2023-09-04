@@ -1,0 +1,3087 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record>
+        <marc:leader>03118cam a2200601 c 4500</marc:leader>
+        <marc:controlfield tag="001">990315435294702202</marc:controlfield>
+        <marc:controlfield tag="005">20220317084527.0</marc:controlfield>
+        <marc:controlfield tag="007">cr||||||||||||</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">150727s2003    no#||||| |||||000|0|nob| </marc:controlfield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">8205300690</marc:subfield>
+            <marc:subfield code="q">ib.</marc:subfield>
+            <marc:subfield code="q">Gyldendal</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">8252545297</marc:subfield>
+            <marc:subfield code="q">ib.</marc:subfield>
+            <marc:subfield code="q">Bokklubben nye bøker</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="q">ib.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-OsNB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">norbibl</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="044" ind1=" " ind2=" ">
+            <marc:subfield code="c">no</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="060" ind1=" " ind2="4">
+            <marc:subfield code="a">PN</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="080" ind1=" " ind2=" ">
+            <marc:subfield code="a">839.6</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="080" ind1=" " ind2=" ">
+            <marc:subfield code="a">839.82</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="080" ind1=" " ind2=" ">
+            <marc:subfield code="a">92</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="080" ind1=" " ind2=" ">
+            <marc:subfield code="a">929Hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">839.823</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">5/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/49458459</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="0" ind2="0">
+            <marc:subfield code="a">Svermeren</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/315057230/1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Hamsun</marc:subfield>
+            <marc:subfield code="n">[1]</marc:subfield>
+            <marc:subfield code="p">Svermeren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Oslo]</marc:subfield>
+            <marc:subfield code="b">Gyldendal</marc:subfield>
+            <marc:subfield code="c">2003</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">494 s.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tekst</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">uformidlet</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">bind</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="533" ind1=" " ind2=" ">
+            <marc:subfield code="a">Elektronisk reproduksjon</marc:subfield>
+            <marc:subfield code="b">[Norge]</marc:subfield>
+            <marc:subfield code="c">Nasjonalbiblioteket Digital</marc:subfield>
+            <marc:subfield code="d">2011-06-09</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="536" ind1=" " ind2=" ">
+            <marc:subfield code="a">Støttet av Det faglitterære fond</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="648" ind1=" " ind2="7">
+            <marc:subfield code="a">1800-tallet</marc:subfield>
+            <marc:subfield code="2">humord</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)HUME10978</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="648" ind1=" " ind2="7">
+            <marc:subfield code="a">1900-tallet</marc:subfield>
+            <marc:subfield code="2">humord</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)HUME10975</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="7">
+            <marc:subfield code="a">Norsk litteratur</marc:subfield>
+            <marc:subfield code="2">humord</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)HUME06959</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="4">
+            <marc:subfield code="a">Norge</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="653" ind1=" " ind2=" ">
+            <marc:subfield code="a">biografier</marc:subfield>
+            <marc:subfield code="a">skjønnlitteratur</marc:subfield>
+            <marc:subfield code="a">norsk</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografi</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Hamsun : Svermeren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="773" ind1="0" ind2="8">
+            <marc:subfield code="i">Inkludert i</marc:subfield>
+            <marc:subfield code="a">Kolloen, Ingar Sletten, 1951-</marc:subfield>
+            <marc:subfield code="t">Hamsun</marc:subfield>
+            <marc:subfield code="d">[Oslo] : Gyldendal, 2003-2004.</marc:subfield>
+            <marc:subfield code="g">[1]</marc:subfield>
+            <marc:subfield code="w">990314675124702201</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="800" ind1=" " ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="t">Hamsun: sværmer og erobrer</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/315057230</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="0">
+            <marc:subfield code="3"/>
+            <marc:subfield code="y">NB Digital</marc:subfield>
+            <marc:subfield code="u">http://urn.nb.no/URN:NBN:no-nb_digibok_2011060905082</marc:subfield>
+            <marc:subfield code="z"/>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="3">Fulltekst</marc:subfield>
+            <marc:subfield code="u">https://www.nb.no/search?q=oaiid:&quot;oai:nb.bibsys.no:990315435294702202&quot;&amp;mediatype=bøker</marc:subfield>
+            <marc:subfield code="y">Nettbiblioteket</marc:subfield>
+            <marc:subfield code="z">Søke-URL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Beskrivelse fra forlaget (kort)</marc:subfield>
+            <marc:subfield code="u">http://content.bibsys.no/content/?type=descr_publ_brief&amp;isbn=8205300690</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Beskrivelse fra forlaget (kort)</marc:subfield>
+            <marc:subfield code="u">http://content.bibsys.no/content/?type=descr_publ_brief&amp;isbn=9788205300699</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Beskrivelse fra Forlagssentralen</marc:subfield>
+            <marc:subfield code="u">http://content.bibsys.no/content/?type=descr_forlagssentr&amp;isbn=8205300690</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Forlagets beskrivelse (lang)</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/content/?isbn=9788205300699</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Innholdsfortegnelse</marc:subfield>
+            <marc:subfield code="u">http://content.bibsys.no/content/?type=toc&amp;isbn=8205300690</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Miniatyrbilde</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/files/images/small/9/9/9788205300699.jpg</marc:subfield>
+            <marc:subfield code="q">image/jpeg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Omslagsbilde</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/files/images/large/9/9/9788205300699.jpg</marc:subfield>
+            <marc:subfield code="q">image/jpeg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Originalt bilde</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/files/images/original/9/9/9788205300699.jpg</marc:subfield>
+            <marc:subfield code="q">image/jpeg</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>03155cam a2200589 c 4500</marc:leader>
+        <marc:controlfield tag="001">990420788654702202</marc:controlfield>
+        <marc:controlfield tag="005">20220406131459.0</marc:controlfield>
+        <marc:controlfield tag="007">cr||||||||||||</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">150727s2004    no#||||| |||||000|0bnob| </marc:controlfield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">8205315914</marc:subfield>
+            <marc:subfield code="q">ib.</marc:subfield>
+            <marc:subfield code="q">Gyldendal</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">8252558739</marc:subfield>
+            <marc:subfield code="q">ib.</marc:subfield>
+            <marc:subfield code="q">De norske bokklubbene</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="q">ib.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-OsNB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">norbibl</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="044" ind1=" " ind2=" ">
+            <marc:subfield code="c">no</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="060" ind1=" " ind2="4">
+            <marc:subfield code="a">PN</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="080" ind1=" " ind2=" ">
+            <marc:subfield code="a">839.6</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="080" ind1=" " ind2=" ">
+            <marc:subfield code="a">92</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="080" ind1=" " ind2=" ">
+            <marc:subfield code="a">929Hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">839.823</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">5/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/49458459</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="0" ind2="0">
+            <marc:subfield code="a">Erobreren</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/315057230/2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Hamsun</marc:subfield>
+            <marc:subfield code="n">[2]</marc:subfield>
+            <marc:subfield code="p">Erobreren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Oslo]</marc:subfield>
+            <marc:subfield code="b">Gyldendal</marc:subfield>
+            <marc:subfield code="c">2004</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">494 s.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tekst</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">uformidlet</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">bind</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="533" ind1=" " ind2=" ">
+            <marc:subfield code="a">Elektronisk reproduksjon</marc:subfield>
+            <marc:subfield code="b">[Norge]</marc:subfield>
+            <marc:subfield code="c">Nasjonalbiblioteket Digital</marc:subfield>
+            <marc:subfield code="d">2011-05-16</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="536" ind1=" " ind2=" ">
+            <marc:subfield code="a">Støttet av Det faglitterære fond</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="648" ind1=" " ind2="7">
+            <marc:subfield code="a">1800-tallet</marc:subfield>
+            <marc:subfield code="2">humord</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)HUME10978</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="648" ind1=" " ind2="7">
+            <marc:subfield code="a">1900-tallet</marc:subfield>
+            <marc:subfield code="2">humord</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)HUME10975</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="7">
+            <marc:subfield code="a">Norsk litteratur</marc:subfield>
+            <marc:subfield code="2">humord</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)HUME06959</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="653" ind1=" " ind2=" ">
+            <marc:subfield code="a">biografier</marc:subfield>
+            <marc:subfield code="a">norske</marc:subfield>
+            <marc:subfield code="a">forfattere</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografi</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografier</marc:subfield>
+            <marc:subfield code="0">https://id.nb.no/vocabulary/ntsf/36</marc:subfield>
+            <marc:subfield code="0">(NO-OsNB)ntsf36 </marc:subfield>
+            <marc:subfield code="2">ntsf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Hamsun : Erobreren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="773" ind1="0" ind2="8">
+            <marc:subfield code="i">Inkludert i</marc:subfield>
+            <marc:subfield code="a">Kolloen, Ingar Sletten, 1951-</marc:subfield>
+            <marc:subfield code="t">Hamsun</marc:subfield>
+            <marc:subfield code="d">[Oslo] : Gyldendal, 2003-2004.</marc:subfield>
+            <marc:subfield code="g">[2]</marc:subfield>
+            <marc:subfield code="w">990314675124702201</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="800" ind1=" " ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="t">Hamsun: sværmer og erobrer</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/315057230</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="0">
+            <marc:subfield code="3"/>
+            <marc:subfield code="y">NB Digital</marc:subfield>
+            <marc:subfield code="u">http://urn.nb.no/URN:NBN:no-nb_digibok_2011051608070</marc:subfield>
+            <marc:subfield code="z"/>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="3">Fulltekst</marc:subfield>
+            <marc:subfield code="u">https://www.nb.no/search?q=oaiid:&quot;oai:nb.bibsys.no:990420788654702202&quot;&amp;mediatype=bøker</marc:subfield>
+            <marc:subfield code="y">Nettbiblioteket</marc:subfield>
+            <marc:subfield code="z">Søke-URL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Beskrivelse fra forlaget (kort)</marc:subfield>
+            <marc:subfield code="u">http://content.bibsys.no/content/?type=descr_publ_brief&amp;isbn=8205315914</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Beskrivelse fra forlaget (kort)</marc:subfield>
+            <marc:subfield code="u">http://content.bibsys.no/content/?type=descr_publ_brief&amp;isbn=9788205315914</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Beskrivelse fra Forlagssentralen</marc:subfield>
+            <marc:subfield code="u">http://content.bibsys.no/content/?type=descr_forlagssentr&amp;isbn=8205315914</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Forlagets beskrivelse (lang)</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/content/?isbn=9788205315914</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Innholdsfortegnelse</marc:subfield>
+            <marc:subfield code="u">http://content.bibsys.no/content/?type=toc&amp;isbn=8205315914</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Miniatyrbilde</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/files/images/small/4/1/9788205315914.jpg</marc:subfield>
+            <marc:subfield code="q">image/jpeg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Omslagsbilde</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/files/images/large/4/1/9788205315914.jpg</marc:subfield>
+            <marc:subfield code="q">image/jpeg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Originalt bilde</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/files/images/original/4/1/9788205315914.jpg</marc:subfield>
+            <marc:subfield code="q">image/jpeg</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>02496cam a2200445 c 4500</marc:leader>
+        <marc:controlfield tag="001">990517162594702202</marc:controlfield>
+        <marc:controlfield tag="005">20211102053442.0</marc:controlfield>
+        <marc:controlfield tag="007">cr||||||||||||</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">131220s2005    no#||||| |||||000|0|nob| </marc:controlfield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">8205343233</marc:subfield>
+            <marc:subfield code="q">h.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-OsNB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">norbibl</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="044" ind1=" " ind2=" ">
+            <marc:subfield code="c">no</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="080" ind1=" " ind2=" ">
+            <marc:subfield code="a">839.6</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">839.823</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">5/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/49458459</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="0" ind2="0">
+            <marc:subfield code="a">Svermeren</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/315057230/1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Hamsun</marc:subfield>
+            <marc:subfield code="p">Svermeren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Oslo]</marc:subfield>
+            <marc:subfield code="b">Gyldendal</marc:subfield>
+            <marc:subfield code="c">2005</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">494 s.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tekst</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">uformidlet</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">bind</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">1. utg. 2003</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="533" ind1=" " ind2=" ">
+            <marc:subfield code="a">Elektronisk reproduksjon</marc:subfield>
+            <marc:subfield code="b">[Norge]</marc:subfield>
+            <marc:subfield code="c">Nasjonalbiblioteket Digital</marc:subfield>
+            <marc:subfield code="d">2013-12-06</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografi</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="773" ind1="0" ind2="8">
+            <marc:subfield code="i">Inkludert i</marc:subfield>
+            <marc:subfield code="a">Kolloen, Ingar Sletten, 1951-</marc:subfield>
+            <marc:subfield code="t">Hamsun</marc:subfield>
+            <marc:subfield code="d">[Oslo] : Gyldendal, 2005</marc:subfield>
+            <marc:subfield code="w">990517162244702201</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="800" ind1=" " ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="t">Hamsun: sværmer og erobrer</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/315057230</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="0">
+            <marc:subfield code="3"/>
+            <marc:subfield code="y">NB Digital</marc:subfield>
+            <marc:subfield code="u">http://urn.nb.no/URN:NBN:no-nb_digibok_2013120608105</marc:subfield>
+            <marc:subfield code="z"/>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="3">Fulltekst</marc:subfield>
+            <marc:subfield code="u">https://www.nb.no/search?q=oaiid:&quot;oai:nb.bibsys.no:990517162594702202&quot;&amp;mediatype=bøker</marc:subfield>
+            <marc:subfield code="y">Nettbiblioteket</marc:subfield>
+            <marc:subfield code="z">Søke-URL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Beskrivelse fra forlaget (kort)</marc:subfield>
+            <marc:subfield code="u">http://content.bibsys.no/content/?type=descr_publ_brief&amp;isbn=8205343233</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Beskrivelse fra Forlagssentralen</marc:subfield>
+            <marc:subfield code="u">http://content.bibsys.no/content/?type=descr_forlagssentr&amp;isbn=8205343233</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Forlagets beskrivelse (lang)</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/content/?isbn=9788205343238</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Innholdsfortegnelse</marc:subfield>
+            <marc:subfield code="u">http://content.bibsys.no/content/?type=toc&amp;isbn=8205343233</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Miniatyrbilde</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/files/images/small/8/3/9788205343238.jpg</marc:subfield>
+            <marc:subfield code="q">image/jpeg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Omslagsbilde</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/files/images/large/8/3/9788205343238.jpg</marc:subfield>
+            <marc:subfield code="q">image/jpeg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Originalt bilde</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/files/images/original/8/3/9788205343238.jpg</marc:subfield>
+            <marc:subfield code="q">image/jpeg</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>02701cam a2200481 c 4500</marc:leader>
+        <marc:controlfield tag="001">990519234244702202</marc:controlfield>
+        <marc:controlfield tag="005">20211104051542.0</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">120216s2005    no#|||||||||||000|0|nob| </marc:controlfield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">8205343403</marc:subfield>
+            <marc:subfield code="q">h.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-OsNB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">norbibl</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="044" ind1=" " ind2=" ">
+            <marc:subfield code="c">no</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="080" ind1=" " ind2=" ">
+            <marc:subfield code="a">839.6</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">839.823</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">5/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/49458459</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="0" ind2="0">
+            <marc:subfield code="a">Svermeren</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/315057230/1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Hamsun</marc:subfield>
+            <marc:subfield code="p">Svermeren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Oslo]</marc:subfield>
+            <marc:subfield code="b">Gyldendal</marc:subfield>
+            <marc:subfield code="c">2005</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">494 s.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tekst</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">uformidlet</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">bind</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">1. utg. 2003</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="533" ind1=" " ind2=" ">
+            <marc:subfield code="a">Elektronisk reproduksjon</marc:subfield>
+            <marc:subfield code="b">[Norge]</marc:subfield>
+            <marc:subfield code="c">Nasjonalbiblioteket Digital</marc:subfield>
+            <marc:subfield code="d">2018-04-20</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="648" ind1=" " ind2="7">
+            <marc:subfield code="a">1800-tallet</marc:subfield>
+            <marc:subfield code="2">humord</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)HUME10978</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="648" ind1=" " ind2="7">
+            <marc:subfield code="a">1900-tallet</marc:subfield>
+            <marc:subfield code="2">humord</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)HUME10975</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografier</marc:subfield>
+            <marc:subfield code="2">humord</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)HUME06697</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="7">
+            <marc:subfield code="a">Norsk litteratur</marc:subfield>
+            <marc:subfield code="2">humord</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)HUME06959</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografi</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="773" ind1="0" ind2="8">
+            <marc:subfield code="i">Inkludert i</marc:subfield>
+            <marc:subfield code="a">Kolloen, Ingar Sletten, 1951-</marc:subfield>
+            <marc:subfield code="t">Hamsun</marc:subfield>
+            <marc:subfield code="d">[Oslo] : Gyldendal, 2005</marc:subfield>
+            <marc:subfield code="w">990519410744702201</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="800" ind1=" " ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="t">Hamsun: sværmer og erobrer</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/315057230</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="0">
+            <marc:subfield code="3"/>
+            <marc:subfield code="y">NB Digital</marc:subfield>
+            <marc:subfield code="u">http://urn.nb.no/URN:NBN:no-nb_digibok_2018042048171</marc:subfield>
+            <marc:subfield code="z"/>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="3">Fulltekst</marc:subfield>
+            <marc:subfield code="u">https://www.nb.no/search?q=oaiid:&quot;oai:nb.bibsys.no:990519234244702202&quot;&amp;mediatype=bøker</marc:subfield>
+            <marc:subfield code="y">Nettbiblioteket</marc:subfield>
+            <marc:subfield code="z">Søke-URL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Beskrivelse fra forlaget (kort)</marc:subfield>
+            <marc:subfield code="u">http://content.bibsys.no/content/?type=descr_publ_brief&amp;isbn=8205343403</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Beskrivelse fra Forlagssentralen</marc:subfield>
+            <marc:subfield code="u">http://content.bibsys.no/content/?type=descr_forlagssentr&amp;isbn=8205343403</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Forlagets beskrivelse (lang)</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/content/?isbn=9788205343405</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Innholdsfortegnelse</marc:subfield>
+            <marc:subfield code="u">http://content.bibsys.no/content/?type=toc&amp;isbn=8205343403</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Miniatyrbilde</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/files/images/small/5/0/9788205343405.jpg</marc:subfield>
+            <marc:subfield code="q">image/jpeg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Omslagsbilde</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/files/images/large/5/0/9788205343405.jpg</marc:subfield>
+            <marc:subfield code="q">image/jpeg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Originalt bilde</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/files/images/original/5/0/9788205343405.jpg</marc:subfield>
+            <marc:subfield code="q">image/jpeg</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>02042cam a2200397 c 4500</marc:leader>
+        <marc:controlfield tag="001">990519234674702202</marc:controlfield>
+        <marc:controlfield tag="005">20211102054516.0</marc:controlfield>
+        <marc:controlfield tag="007">cr||||||||||||</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">130828s2005    no#||||| |||||000|0|nob| </marc:controlfield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">8205343241</marc:subfield>
+            <marc:subfield code="q">h.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-OsNB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">norbibl</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="044" ind1=" " ind2=" ">
+            <marc:subfield code="c">no</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="080" ind1=" " ind2=" ">
+            <marc:subfield code="a">839.6</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">839.823</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">5/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/49458459</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="0" ind2="0">
+            <marc:subfield code="a">Erobreren</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/315057230/2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Hamsun</marc:subfield>
+            <marc:subfield code="p">Erobreren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Oslo]</marc:subfield>
+            <marc:subfield code="b">Gyldendal</marc:subfield>
+            <marc:subfield code="c">2005</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">494 s.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tekst</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">uformidlet</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">bind</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">1. utg. 2004</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="533" ind1=" " ind2=" ">
+            <marc:subfield code="a">Elektronisk reproduksjon</marc:subfield>
+            <marc:subfield code="b">[Norge]</marc:subfield>
+            <marc:subfield code="c">Nasjonalbiblioteket Digital</marc:subfield>
+            <marc:subfield code="d">2011-07-29</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografi</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="773" ind1="0" ind2="8">
+            <marc:subfield code="i">Inkludert i</marc:subfield>
+            <marc:subfield code="a">Kolloen, Ingar Sletten, 1951-</marc:subfield>
+            <marc:subfield code="t">Hamsun</marc:subfield>
+            <marc:subfield code="d">[Oslo] : Gyldendal, 2005</marc:subfield>
+            <marc:subfield code="w">990517162244702201</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="800" ind1=" " ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="t">Hamsun: sværmer og erobrer</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/315057230</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="0">
+            <marc:subfield code="3"/>
+            <marc:subfield code="y">NB Digital</marc:subfield>
+            <marc:subfield code="u">http://urn.nb.no/URN:NBN:no-nb_digibok_2011072908011</marc:subfield>
+            <marc:subfield code="z"/>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="3">Fulltekst</marc:subfield>
+            <marc:subfield code="u">https://www.nb.no/search?q=oaiid:&quot;oai:nb.bibsys.no:990519234674702202&quot;&amp;mediatype=bøker</marc:subfield>
+            <marc:subfield code="y">Nettbiblioteket</marc:subfield>
+            <marc:subfield code="z">Søke-URL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Beskrivelse fra forlaget (kort)</marc:subfield>
+            <marc:subfield code="u">http://content.bibsys.no/content/?type=descr_publ_brief&amp;isbn=8205343241</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Beskrivelse fra Forlagssentralen</marc:subfield>
+            <marc:subfield code="u">http://content.bibsys.no/content/?type=descr_forlagssentr&amp;isbn=8205343241</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Forlagets beskrivelse (lang)</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/content/?isbn=9788205343245</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>02728cam a2200493 c 4500</marc:leader>
+        <marc:controlfield tag="001">990519411984702202</marc:controlfield>
+        <marc:controlfield tag="005">20211102054533.0</marc:controlfield>
+        <marc:controlfield tag="007">cr||||||||||||</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">120126s2005    no#||||| |||||000|0|nob| </marc:controlfield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">8205343411</marc:subfield>
+            <marc:subfield code="q">h.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-OsNB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">norbibl</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="044" ind1=" " ind2=" ">
+            <marc:subfield code="c">no</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="080" ind1=" " ind2=" ">
+            <marc:subfield code="a">839.6</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">839.823</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">5/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/49458459</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="0" ind2="0">
+            <marc:subfield code="a">Erobreren</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/315057230/2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Hamsun</marc:subfield>
+            <marc:subfield code="p">Erobreren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Oslo]</marc:subfield>
+            <marc:subfield code="b">Gyldendal</marc:subfield>
+            <marc:subfield code="c">2005</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">494 s.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tekst</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">uformidlet</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">bind</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">1. utg. 2004</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="533" ind1=" " ind2=" ">
+            <marc:subfield code="a">Elektronisk reproduksjon</marc:subfield>
+            <marc:subfield code="b">[Norge]</marc:subfield>
+            <marc:subfield code="c">Nasjonalbiblioteket Digital</marc:subfield>
+            <marc:subfield code="d">2011-07-29</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="648" ind1=" " ind2="7">
+            <marc:subfield code="a">1800-tallet</marc:subfield>
+            <marc:subfield code="2">humord</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)HUME10978</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="648" ind1=" " ind2="7">
+            <marc:subfield code="a">1900-tallet</marc:subfield>
+            <marc:subfield code="2">humord</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)HUME10975</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografier</marc:subfield>
+            <marc:subfield code="2">humord</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)HUME06697</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="7">
+            <marc:subfield code="a">Norsk litteratur</marc:subfield>
+            <marc:subfield code="2">humord</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)HUME06959</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografi</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="773" ind1="0" ind2="8">
+            <marc:subfield code="i">Inkludert i</marc:subfield>
+            <marc:subfield code="a">Kolloen, Ingar Sletten, 1951-</marc:subfield>
+            <marc:subfield code="t">Hamsun</marc:subfield>
+            <marc:subfield code="d">[Oslo] : Gyldendal, 2005</marc:subfield>
+            <marc:subfield code="w">990519410744702201</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="800" ind1=" " ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="t">Hamsun: sværmer og erobrer</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/315057230</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="0">
+            <marc:subfield code="3"/>
+            <marc:subfield code="y">NB Digital</marc:subfield>
+            <marc:subfield code="u">http://urn.nb.no/URN:NBN:no-nb_digibok_2011072908012</marc:subfield>
+            <marc:subfield code="z"/>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="3">Fulltekst</marc:subfield>
+            <marc:subfield code="u">https://www.nb.no/search?q=oaiid:&quot;oai:nb.bibsys.no:990519411984702202&quot;&amp;mediatype=bøker</marc:subfield>
+            <marc:subfield code="y">Nettbiblioteket</marc:subfield>
+            <marc:subfield code="z">Søke-URL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Beskrivelse fra forlaget (kort)</marc:subfield>
+            <marc:subfield code="u">http://content.bibsys.no/content/?type=descr_publ_brief&amp;isbn=8205343411</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Beskrivelse fra Forlagssentralen</marc:subfield>
+            <marc:subfield code="u">http://content.bibsys.no/content/?type=descr_forlagssentr&amp;isbn=8205343411</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Forlagets beskrivelse (lang)</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/content/?isbn=9788205343412</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Innholdsfortegnelse</marc:subfield>
+            <marc:subfield code="u">http://content.bibsys.no/content/?type=toc&amp;isbn=8205343411</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Miniatyrbilde</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/files/images/small/2/1/9788205343412.jpg</marc:subfield>
+            <marc:subfield code="q">image/jpeg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Omslagsbilde</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/files/images/large/2/1/9788205343412.jpg</marc:subfield>
+            <marc:subfield code="q">image/jpeg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Originalt bilde</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/files/images/original/2/1/9788205343412.jpg</marc:subfield>
+            <marc:subfield code="q">image/jpeg</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01745cam a2200409 c 4500</marc:leader>
+        <marc:controlfield tag="001">990704400264702202</marc:controlfield>
+        <marc:controlfield tag="005">20160620190307.0</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">120702s2007    xx#|||||||||||000|0|dan| </marc:controlfield>
+        <marc:datafield tag="015" ind1=" " ind2=" ">
+            <marc:subfield code="a">0708640</marc:subfield>
+            <marc:subfield code="2">nbf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">8702044080</marc:subfield>
+            <marc:subfield code="q">ib.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">9788702044089</marc:subfield>
+            <marc:subfield code="q">ib.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-OsNB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="1" ind2=" ">
+            <marc:subfield code="h">nob</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">norbibl</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="044" ind1=" " ind2=" ">
+            <marc:subfield code="c">dk</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">839.823</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">5/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/49458459</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="0" ind2="0">
+            <marc:subfield code="a">Hamsun: sværmer og erobrer</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/315057230</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Hamsun :</marc:subfield>
+            <marc:subfield code="b">sværmer og erobrer</marc:subfield>
+            <marc:subfield code="c">Ingar Sletten Kolloen ; på dansk ved Niels Lyngsø og Karen Fastrup</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="1" ind2=" ">
+            <marc:subfield code="a">Hamsun - erobreren</marc:subfield>
+            <marc:subfield code="i">Originaltittel</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="1" ind2=" ">
+            <marc:subfield code="a">Hamsun - svermeren</marc:subfield>
+            <marc:subfield code="i">Originaltittel</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[København]</marc:subfield>
+            <marc:subfield code="b">Gyldendal</marc:subfield>
+            <marc:subfield code="c">2007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">550 s.</marc:subfield>
+            <marc:subfield code="b">ill.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tekst</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">uformidlet</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">bind</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Redigert utg. av det norske tobindsverket</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografi</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Fastrup, Karen</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/102784385</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20037</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Lyngsø, Niels</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/102807285</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20037</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Erobreren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Svermeren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="960" ind1=" " ind2=" ">
+            <marc:subfield code="a">n</marc:subfield>
+            <marc:subfield code="9">LOCAL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="997" ind1=" " ind2=" ">
+            <marc:subfield code="a">n</marc:subfield>
+            <marc:subfield code="9">LOCAL</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01715cam a2200385 c 4500</marc:leader>
+        <marc:controlfield tag="001">990707189464702202</marc:controlfield>
+        <marc:controlfield tag="005">20220406132007.0</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">130806s2007    xx#|||||||||||000|0best| </marc:controlfield>
+        <marc:datafield tag="015" ind1=" " ind2=" ">
+            <marc:subfield code="a">0710068</marc:subfield>
+            <marc:subfield code="2">nbf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">9789985655979</marc:subfield>
+            <marc:subfield code="q">ib.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-OsNB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="1" ind2=" ">
+            <marc:subfield code="h">nob</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">norbibl</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="044" ind1=" " ind2=" ">
+            <marc:subfield code="c">ee</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">839.823</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">5/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/49458459</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="0" ind2="0">
+            <marc:subfield code="a">Hamsun: sværmer og erobrer</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/315057230</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Kirjanik ja diktaator :</marc:subfield>
+            <marc:subfield code="b">Knut Hamsuni looming, elu ja aeg</marc:subfield>
+            <marc:subfield code="c">Ingar Sletten Kolloen ; tõlkinud Elvi Lumet</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Tallinn</marc:subfield>
+            <marc:subfield code="b">Eesti Raamat</marc:subfield>
+            <marc:subfield code="c">cop. 2007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">461 s.</marc:subfield>
+            <marc:subfield code="b">ill.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tekst</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">uformidlet</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">bind</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Bearbeidet versjon for det internasjonale markedet av tobindsverket: Hamsun - svermeren ; Hamsun - erobreren. Norsk arbeidstittel: Dikteren og diktatoren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografi</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografier</marc:subfield>
+            <marc:subfield code="0">https://id.nb.no/vocabulary/ntsf/36</marc:subfield>
+            <marc:subfield code="0">(NO-OsNB)ntsf36 </marc:subfield>
+            <marc:subfield code="2">ntsf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">Lumet, Elvi</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/286145258</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20037</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Erobreren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Svermeren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="960" ind1=" " ind2=" ">
+            <marc:subfield code="a">n</marc:subfield>
+            <marc:subfield code="9">LOCAL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="997" ind1=" " ind2=" ">
+            <marc:subfield code="a">n</marc:subfield>
+            <marc:subfield code="9">LOCAL</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>02196cim a2200421 c 4500</marc:leader>
+        <marc:controlfield tag="001">990714590304702202</marc:controlfield>
+        <marc:controlfield tag="005">20210629211644.0</marc:controlfield>
+        <marc:controlfield tag="007">sd f||||||||||</marc:controlfield>
+        <marc:controlfield tag="008">140122s2007    no#|||| ||||||||||||nob| </marc:controlfield>
+        <marc:datafield tag="015" ind1=" " ind2=" ">
+            <marc:subfield code="a">0714241</marc:subfield>
+            <marc:subfield code="2">nbf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">9788242122681</marc:subfield>
+            <marc:subfield code="c">Nkr 499.00</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-OsNB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">norbibl</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="044" ind1=" " ind2=" ">
+            <marc:subfield code="c">no</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="080" ind1=" " ind2=" ">
+            <marc:subfield code="a">839.6</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">839.823</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">5/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/49458459</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="0" ind2="0">
+            <marc:subfield code="a">Hamsun: sværmer og erobrer</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/315057230</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Hamsun :</marc:subfield>
+            <marc:subfield code="b">svermer og erobrer</marc:subfield>
+            <marc:subfield code="c">Ingar Sletten Kolloen</marc:subfield>
+            <marc:subfield code="h">[lydopptak]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Melhus]</marc:subfield>
+            <marc:subfield code="b">Lydbokforl.</marc:subfield>
+            <marc:subfield code="c">2007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">17 plater (CD) (20 t, 35 min)</marc:subfield>
+            <marc:subfield code="b">digital</marc:subfield>
+            <marc:subfield code="c">12 cm, i eske</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tale</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1013</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">lydmedier</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1001</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">dataplate</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1013</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Bearbeidet utgave av Hamsun : Svermeren og Hamsun : Erobreren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Lest av Ola B. Johannessen</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">På esken: Biografi</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografi</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Johannessen, Ola B.</marc:subfield>
+            <marc:subfield code="d">1939-</marc:subfield>
+            <marc:subfield code="e">medarb.</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90128089</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/60725885</marc:subfield>
+            <marc:subfield code="4">nrt</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20022</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Erobreren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Svermeren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Beskrivelse fra Forlagssentralen</marc:subfield>
+            <marc:subfield code="u">http://content.bibsys.no/content/?type=descr_forlagssentr&amp;isbn=8242122687</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Lydfil</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/files/audio/mp3/1/8/9788242122681.mp3</marc:subfield>
+            <marc:subfield code="q">audio/mpeg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Omslagsbilde</marc:subfield>
+            <marc:subfield code="u">http://innhold.bibsys.no/bilde/forside/?size=mini&amp;id=LITE_150087622.jpg</marc:subfield>
+            <marc:subfield code="q">image/jpeg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Omslagsbilde</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/files/images/large/1/8/9788242122681.jpg</marc:subfield>
+            <marc:subfield code="q">image/jpeg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Originalt bilde</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/files/images/original/1/8/9788242122681.jpg</marc:subfield>
+            <marc:subfield code="q">image/jpeg</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>02599cam a2200529 c 4500</marc:leader>
+        <marc:controlfield tag="001">990829122034702202</marc:controlfield>
+        <marc:controlfield tag="005">20220406123443.0</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">130806s2009    xx#|||||||||||000|0beng| </marc:controlfield>
+        <marc:datafield tag="015" ind1=" " ind2=" ">
+            <marc:subfield code="a">0914421</marc:subfield>
+            <marc:subfield code="2">nbf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">9780300123562</marc:subfield>
+            <marc:subfield code="q">ib.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-OsNB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="1" ind2=" ">
+            <marc:subfield code="h">nob</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">norbibl</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="044" ind1=" " ind2=" ">
+            <marc:subfield code="c">us</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">839.823</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">5/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/49458459</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="0" ind2="0">
+            <marc:subfield code="a">Hamsun: sværmer og erobrer</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/315057230</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Knut Hamsun :</marc:subfield>
+            <marc:subfield code="b">dreamer and dissenter</marc:subfield>
+            <marc:subfield code="c">Ingar Sletten Kolloen ; translated by Deborah Dawkin and Erik Skuggevik</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="1" ind2=" ">
+            <marc:subfield code="a">Hamsun : svermer og erobrer</marc:subfield>
+            <marc:subfield code="i">Originaltittel</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">New Haven, Conn.</marc:subfield>
+            <marc:subfield code="b">Yale University Press</marc:subfield>
+            <marc:subfield code="c">2009</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">XII, 378 s., pl.</marc:subfield>
+            <marc:subfield code="b">ill.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tekst</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">uformidlet</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">bind</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Oversettelse av forkortet utg. av tobindsverket &quot;Hamsun : Svermeren&quot; og &quot;Hamsun : Erobreren&quot; (2003-2004)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="653" ind1=" " ind2=" ">
+            <marc:subfield code="a">norwegian</marc:subfield>
+            <marc:subfield code="a">authors</marc:subfield>
+            <marc:subfield code="a">biography</marc:subfield>
+            <marc:subfield code="a">norske</marc:subfield>
+            <marc:subfield code="a">forfattere</marc:subfield>
+            <marc:subfield code="a">biografier</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografi</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografier</marc:subfield>
+            <marc:subfield code="0">https://id.nb.no/vocabulary/ntsf/36</marc:subfield>
+            <marc:subfield code="0">(NO-OsNB)ntsf36 </marc:subfield>
+            <marc:subfield code="2">ntsf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Dawkin, Deborah</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/6840702</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20037</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Skuggevik, Erik</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/19129035</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20037</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Dreamer and dissenter</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Drømmer og erobrer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Erobreren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Hamsun : Erobreren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Hamsun : Svermeren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Svermer og erobrer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Svermeren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Beskrivelse fra forlaget (kort)</marc:subfield>
+            <marc:subfield code="u">http://content.bibsys.no/content/?type=descr_publ_brief&amp;isbn=0300123566</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Beskrivelse fra forlaget (lang)</marc:subfield>
+            <marc:subfield code="u">http://content.bibsys.no/content/?type=descr_publ_full&amp;isbn=0300123566</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Forlagets beskrivelse (lang)</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/content/?isbn=9780300123562</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Omslagsbilde</marc:subfield>
+            <marc:subfield code="u">http://innhold.bibsys.no/bilde/forside/?size=mini&amp;id=9780300123562.jpg</marc:subfield>
+            <marc:subfield code="q">image/jpeg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="960" ind1=" " ind2=" ">
+            <marc:subfield code="a">n</marc:subfield>
+            <marc:subfield code="9">LOCAL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="997" ind1=" " ind2=" ">
+            <marc:subfield code="a">n</marc:subfield>
+            <marc:subfield code="9">LOCAL</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01566cam a2200349 c 4500</marc:leader>
+        <marc:controlfield tag="001">990829216444702202</marc:controlfield>
+        <marc:controlfield tag="005">20220406131516.0</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">130806s2011    xx#|||||||||||000|0bger| </marc:controlfield>
+        <marc:datafield tag="015" ind1=" " ind2=" ">
+            <marc:subfield code="a">1116243</marc:subfield>
+            <marc:subfield code="2">nbf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">9783938844151</marc:subfield>
+            <marc:subfield code="q">ib.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-OsNB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="1" ind2=" ">
+            <marc:subfield code="h">nob</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">norbibl</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="044" ind1=" " ind2=" ">
+            <marc:subfield code="c">de</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">839.823</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">5/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/49458459</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="0" ind2="0">
+            <marc:subfield code="a">Hamsun: sværmer og erobrer</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/315057230</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Knut Hamsun :</marc:subfield>
+            <marc:subfield code="b">Schwärmer und Eroberer, Narzisst und Nobelpreisträger</marc:subfield>
+            <marc:subfield code="c">Ingar Sletten Kolloen ; aus dem Norwegischen übertragen von Gabriele Haefs</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Berlin</marc:subfield>
+            <marc:subfield code="b">Landt</marc:subfield>
+            <marc:subfield code="c">2011</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">492 s.</marc:subfield>
+            <marc:subfield code="b">ill.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tekst</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">uformidlet</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">bind</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografi</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografier</marc:subfield>
+            <marc:subfield code="0">https://id.nb.no/vocabulary/ntsf/36</marc:subfield>
+            <marc:subfield code="0">(NO-OsNB)ntsf36 </marc:subfield>
+            <marc:subfield code="2">ntsf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Haefs, Gabriele</marc:subfield>
+            <marc:subfield code="d">1953-</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90353340</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/100856812</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20037</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="960" ind1=" " ind2=" ">
+            <marc:subfield code="a">n</marc:subfield>
+            <marc:subfield code="9">LOCAL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="991" ind1=" " ind2=" ">
+            <marc:subfield code="a">volumes</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="997" ind1=" " ind2=" ">
+            <marc:subfield code="a">n</marc:subfield>
+            <marc:subfield code="9">LOCAL</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01152caa a2200229 c 4500</marc:leader>
+        <marc:controlfield tag="001">990917640764702202</marc:controlfield>
+        <marc:controlfield tag="005">20180601111814.0</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">140410s2003    xx#|||||||||||000|u|nob| </marc:controlfield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-OsNB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Karterud, Sigmund</marc:subfield>
+            <marc:subfield code="d">1945-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90179984</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="3">
+            <marc:subfield code="a">En personlighetsvurdering av Knut Hamsun</marc:subfield>
+            <marc:subfield code="c">Sigmund Karterud og Ingar Sletten Kolloen</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="c">2003</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">S. [108]-119</marc:subfield>
+            <marc:subfield code="b">ill.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tekst</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">uformidlet</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">bind</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="7">
+            <marc:subfield code="a">Personlighet</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/49458459</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="773" ind1="0" ind2=" ">
+            <marc:subfield code="t">Samtiden (trykt utg.). </marc:subfield>
+            <marc:subfield code="d">Oslo : Aschehoug</marc:subfield>
+            <marc:subfield code="g">2003 nr 3</marc:subfield>
+            <marc:subfield code="x">0036-3928</marc:subfield>
+            <marc:subfield code="w">997521921244702201</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>02586cam a2200517 c 4500</marc:leader>
+        <marc:controlfield tag="001">990924977724702202</marc:controlfield>
+        <marc:controlfield tag="005">20220406130505.0</marc:controlfield>
+        <marc:controlfield tag="007">cr||||||||||||</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">140807s2009    no#||||| |||||000|0bnob| </marc:controlfield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">9788205390461</marc:subfield>
+            <marc:subfield code="q">ib.</marc:subfield>
+            <marc:subfield code="c">Nkr 399.00</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-OsNB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">norbibl</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="044" ind1=" " ind2=" ">
+            <marc:subfield code="c">no</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="080" ind1=" " ind2=" ">
+            <marc:subfield code="a">839.6</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">839.823</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">5/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/49458459</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="0" ind2="0">
+            <marc:subfield code="a">Hamsun: sværmer og erobrer</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/315057230</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Hamsun :</marc:subfield>
+            <marc:subfield code="b">svermer og erobrer</marc:subfield>
+            <marc:subfield code="c">Ingar Sletten Kolloen</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Oslo]</marc:subfield>
+            <marc:subfield code="b">Gyldendal</marc:subfield>
+            <marc:subfield code="c">2009</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">428 s.</marc:subfield>
+            <marc:subfield code="b">ill.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tekst</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">uformidlet</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">bind</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Forkortet utg. av tobindsverket &quot;Hamsun&quot;, 2003-2004</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="533" ind1=" " ind2=" ">
+            <marc:subfield code="a">Elektronisk reproduksjon</marc:subfield>
+            <marc:subfield code="b">[Norge]</marc:subfield>
+            <marc:subfield code="c">Nasjonalbiblioteket Digital</marc:subfield>
+            <marc:subfield code="d">2014-06-25</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="648" ind1=" " ind2="7">
+            <marc:subfield code="a">1800-tallet</marc:subfield>
+            <marc:subfield code="2">humord</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)HUME10978</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="648" ind1=" " ind2="7">
+            <marc:subfield code="a">1900-tallet</marc:subfield>
+            <marc:subfield code="2">humord</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)HUME10975</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="7">
+            <marc:subfield code="a">Norsk litteratur</marc:subfield>
+            <marc:subfield code="2">humord</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)HUME06959</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografi</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografier</marc:subfield>
+            <marc:subfield code="0">https://id.nb.no/vocabulary/ntsf/36</marc:subfield>
+            <marc:subfield code="0">(NO-OsNB)ntsf36 </marc:subfield>
+            <marc:subfield code="2">ntsf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografier</marc:subfield>
+            <marc:subfield code="2">humord</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)HUME01057</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Erobreren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Hamsun : Erobreren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Hamsun : Svermeren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Svermer og erobrer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Svermeren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="767" ind1="0" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="t">Hamsunas :</marc:subfield>
+            <marc:subfield code="w">991326017374702201</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="0">
+            <marc:subfield code="3"/>
+            <marc:subfield code="y">NB Digital</marc:subfield>
+            <marc:subfield code="u">http://urn.nb.no/URN:NBN:no-nb_digibok_2014062506145</marc:subfield>
+            <marc:subfield code="z"/>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="3">Fulltekst</marc:subfield>
+            <marc:subfield code="u">https://www.nb.no/search?q=oaiid:&quot;oai:nb.bibsys.no:990924977724702202&quot;&amp;mediatype=bøker</marc:subfield>
+            <marc:subfield code="y">Nettbiblioteket</marc:subfield>
+            <marc:subfield code="z">Søke-URL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Beskrivelse fra Forlagssentralen</marc:subfield>
+            <marc:subfield code="u">http://content.bibsys.no/content/?type=descr_forlagssentr&amp;isbn=8205390460</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Omslagsbilde</marc:subfield>
+            <marc:subfield code="u">http://innhold.bibsys.no/bilde/forside/?size=mini&amp;id=LITE_150104455.jpg</marc:subfield>
+            <marc:subfield code="q">image/jpeg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Omslagsbilde</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/files/images/large/1/6/9788205390461.jpg</marc:subfield>
+            <marc:subfield code="q">image/jpeg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="3">Originalt bilde</marc:subfield>
+            <marc:subfield code="u">https://contents.bibs.aws.unit.no/files/images/original/1/6/9788205390461.jpg</marc:subfield>
+            <marc:subfield code="q">image/jpeg</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01066caa a2200241 c 4500</marc:leader>
+        <marc:controlfield tag="001">990926355124702202</marc:controlfield>
+        <marc:controlfield tag="005">20190130102932.0</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">130806s2004    xx#|||||||||||000|u|nob| </marc:controlfield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-OsNB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">norbibl</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/49458459</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Hamsuns kvinner</marc:subfield>
+            <marc:subfield code="c">Ingar Sletten Kolloen</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="c">2004</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">S. 9-21</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tekst</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">uformidlet</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">bind</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="7">
+            <marc:subfield code="a">Kjønn</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="7">
+            <marc:subfield code="a">Kvinner</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="773" ind1="0" ind2=" ">
+            <marc:subfield code="a">Hamsun-dagene(2004 Hamarøy)</marc:subfield>
+            <marc:subfield code="t">Hamsun[s] kvinner</marc:subfield>
+            <marc:subfield code="d">Hamarøy : Hamsun-selskapet, 2004</marc:subfield>
+            <marc:subfield code="z">8291002371</marc:subfield>
+            <marc:subfield code="w">990500838564702201</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01057caa a2200241 c 4500</marc:leader>
+        <marc:controlfield tag="001">990926910564702202</marc:controlfield>
+        <marc:controlfield tag="005">20190130102944.0</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">130806s2002    xx#|||||||||||000|u|nob| </marc:controlfield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-OsNB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">norbibl</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/49458459</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="3">
+            <marc:subfield code="a">Et uunngåelig havari?</marc:subfield>
+            <marc:subfield code="c">Ingar Sletten Kolloen</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="c">2002</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">S. 94-[111]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tekst</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">uformidlet</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">bind</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="7">
+            <marc:subfield code="a">Landssvik</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="7">
+            <marc:subfield code="a">Nazisme</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="773" ind1="0" ind2=" ">
+            <marc:subfield code="a">Hamsun-symposium(2002 Oslo)</marc:subfield>
+            <marc:subfield code="t">Hamsun-symposium</marc:subfield>
+            <marc:subfield code="d">[Oslo] : Gyldendal, 2002</marc:subfield>
+            <marc:subfield code="w">990300102844702201</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01112caa a2200229 c 4500</marc:leader>
+        <marc:controlfield tag="001">990929821074702202</marc:controlfield>
+        <marc:controlfield tag="005">20190130103009.0</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">130806s2009    xx#|||||||||||000|u|nob| </marc:controlfield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-OsNB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">norbibl</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/49458459</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Bjørnson og Hamsun - mester og arvtakeren</marc:subfield>
+            <marc:subfield code="c">av Ingar Sletten Kolloen</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="c">2009</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">S. 81-91</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tekst</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">uformidlet</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">bind</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Bjørnson, Bjørnstjerne</marc:subfield>
+            <marc:subfield code="d">1832-1910</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90056157</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/295290572</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="773" ind1="0" ind2=" ">
+            <marc:subfield code="t">Knut Hamsuns stier</marc:subfield>
+            <marc:subfield code="d">[Oslo] : Forlag1, cop. 2009</marc:subfield>
+            <marc:subfield code="z">9788292735428</marc:subfield>
+            <marc:subfield code="w">990925983234702201</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01885cam a2200445 c 4500</marc:leader>
+        <marc:controlfield tag="001">991000342094702202</marc:controlfield>
+        <marc:controlfield tag="005">20220406130003.0</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">130806s2009    xx#|||||||||||000|0bspa| </marc:controlfield>
+        <marc:datafield tag="015" ind1=" " ind2=" ">
+            <marc:subfield code="a">1005455</marc:subfield>
+            <marc:subfield code="2">nbf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">9788492683123</marc:subfield>
+            <marc:subfield code="q">h.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-OsNB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="1" ind2=" ">
+            <marc:subfield code="h">nob</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">norbibl</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="044" ind1=" " ind2=" ">
+            <marc:subfield code="c">es</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">839.823</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">5/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/49458459</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="0" ind2="0">
+            <marc:subfield code="a">Hamsun: sværmer og erobrer</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/315057230</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Knut Hamsun :</marc:subfield>
+            <marc:subfield code="b">soñador y conquistador</marc:subfield>
+            <marc:subfield code="c">Ingar Sletten Kolloen ; traducción Anne-Lise Cloetta e Inés Armesto</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="1" ind2=" ">
+            <marc:subfield code="a">Hamsun : svermer og erobrer</marc:subfield>
+            <marc:subfield code="i">Originaltittel</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Madrid</marc:subfield>
+            <marc:subfield code="b">Nordica libros</marc:subfield>
+            <marc:subfield code="c">2009</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">597 s.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tekst</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">uformidlet</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">bind</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="1" ind2=" ">
+            <marc:subfield code="a">Letras nórdicas</marc:subfield>
+            <marc:subfield code="v">14</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografi</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografier</marc:subfield>
+            <marc:subfield code="0">https://id.nb.no/vocabulary/ntsf/36</marc:subfield>
+            <marc:subfield code="0">(NO-OsNB)ntsf36 </marc:subfield>
+            <marc:subfield code="2">ntsf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Armesto, Inés</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/305865982</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20037</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Cloetta, Anne-Lise</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/86719522</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20037</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Erobreren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Hamsun : Erobreren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Hamsun : Svermeren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Svermer og erobrer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Svermeren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="830" ind1=" " ind2="0">
+            <marc:subfield code="a">Letras nórdicas</marc:subfield>
+            <marc:subfield code="v">14</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="960" ind1=" " ind2=" ">
+            <marc:subfield code="a">n</marc:subfield>
+            <marc:subfield code="9">LOCAL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="997" ind1=" " ind2=" ">
+            <marc:subfield code="a">n</marc:subfield>
+            <marc:subfield code="9">LOCAL</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01549cam a2200349 c 4500</marc:leader>
+        <marc:controlfield tag="001">991003421754702202</marc:controlfield>
+        <marc:controlfield tag="005">20220406123249.0</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">130806s2010    xx#|||||||||||000|0bfre| </marc:controlfield>
+        <marc:datafield tag="015" ind1=" " ind2=" ">
+            <marc:subfield code="a">1006981</marc:subfield>
+            <marc:subfield code="2">nbf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">9782847201581</marc:subfield>
+            <marc:subfield code="q">h.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-OsNB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="1" ind2=" ">
+            <marc:subfield code="h">nob</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">norbibl</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="044" ind1=" " ind2=" ">
+            <marc:subfield code="c">fr</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">839.823</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">5/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/49458459</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="0" ind2="0">
+            <marc:subfield code="a">Hamsun: sværmer og erobrer</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/315057230</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Knut Hamsun :</marc:subfield>
+            <marc:subfield code="b">rêveur et conquérant : biographie</marc:subfield>
+            <marc:subfield code="c">Ingar Sletten Kolloen ; traduit du norvégien par Éric Eydoux</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="1" ind2=" ">
+            <marc:subfield code="a">Hamsun : svermer og erobrer</marc:subfield>
+            <marc:subfield code="i">Originaltittel</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Montfort-en-Chalosse</marc:subfield>
+            <marc:subfield code="b">Gaïa</marc:subfield>
+            <marc:subfield code="c">2010</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">749 s., pl.</marc:subfield>
+            <marc:subfield code="b">ill.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tekst</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">uformidlet</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">bind</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografi</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografier</marc:subfield>
+            <marc:subfield code="0">https://id.nb.no/vocabulary/ntsf/36</marc:subfield>
+            <marc:subfield code="0">(NO-OsNB)ntsf36 </marc:subfield>
+            <marc:subfield code="2">ntsf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Eydoux, Éric</marc:subfield>
+            <marc:subfield code="4"/>
+            <marc:subfield code="1">http://viaf.org/viaf/22141509</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20037</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="960" ind1=" " ind2=" ">
+            <marc:subfield code="a">n</marc:subfield>
+            <marc:subfield code="9">LOCAL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="997" ind1=" " ind2=" ">
+            <marc:subfield code="a">n</marc:subfield>
+            <marc:subfield code="9">LOCAL</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01628cam a2200361 c 4500</marc:leader>
+        <marc:controlfield tag="001">991008088404702202</marc:controlfield>
+        <marc:controlfield tag="005">20220406131442.0</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">130806s2010    xx#|||||||||||000|0brus| </marc:controlfield>
+        <marc:datafield tag="015" ind1=" " ind2=" ">
+            <marc:subfield code="a">1008872</marc:subfield>
+            <marc:subfield code="2">nbf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">9785933812906</marc:subfield>
+            <marc:subfield code="q">ib.</marc:subfield>
+            <marc:subfield code="q">B.S.G.-Press</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">9785942825867</marc:subfield>
+            <marc:subfield code="q">ib.</marc:subfield>
+            <marc:subfield code="q">OGI</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-OsNB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="1" ind2=" ">
+            <marc:subfield code="h">nob</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">norbibl</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="044" ind1=" " ind2=" ">
+            <marc:subfield code="c">ru</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">839.823</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">5/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/49458459</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="0" ind2="0">
+            <marc:subfield code="a">Hamsun: sværmer og erobrer</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/315057230</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Gamsun :</marc:subfield>
+            <marc:subfield code="b">mečtatel' i zavoevatel'</marc:subfield>
+            <marc:subfield code="c">Ingvar Sletten Kolloen ; perevod s norvežskogo pod redakciej Eleonory Pankratovoj</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="1" ind2=" ">
+            <marc:subfield code="a">Hamsun</marc:subfield>
+            <marc:subfield code="b">svermer og erobrer</marc:subfield>
+            <marc:subfield code="i">Originaltittel</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Moskva</marc:subfield>
+            <marc:subfield code="b">OGI</marc:subfield>
+            <marc:subfield code="b">B.S.G.-Press</marc:subfield>
+            <marc:subfield code="c">2010</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">639 s., pl.</marc:subfield>
+            <marc:subfield code="b">ill.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tekst</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">uformidlet</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">bind</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografi</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografier</marc:subfield>
+            <marc:subfield code="0">https://id.nb.no/vocabulary/ntsf/36</marc:subfield>
+            <marc:subfield code="0">(NO-OsNB)ntsf36 </marc:subfield>
+            <marc:subfield code="2">ntsf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Pankratova, Eleonora</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/103145970087532250913</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20037</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="960" ind1=" " ind2=" ">
+            <marc:subfield code="a">n</marc:subfield>
+            <marc:subfield code="9">LOCAL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="997" ind1=" " ind2=" ">
+            <marc:subfield code="a">n</marc:subfield>
+            <marc:subfield code="9">LOCAL</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01142caa a2200289 c 4500</marc:leader>
+        <marc:controlfield tag="001">991123346524702202</marc:controlfield>
+        <marc:controlfield tag="005">20190130104119.0</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">130806s2011    xx#|||||||||||000|u|ger| </marc:controlfield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-OsNB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/49458459</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Nachwort</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="c">2011</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">S. [471]-474</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tekst</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">uformidlet</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">bind</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="630" ind1="0" ind2="4">
+            <marc:subfield code="a">Erobreren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="630" ind1="0" ind2="4">
+            <marc:subfield code="a">Hamsun : Erobreren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="630" ind1="0" ind2="4">
+            <marc:subfield code="a">Hamsun : Svermeren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="630" ind1="0" ind2="4">
+            <marc:subfield code="a">Svermeren</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Forord</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="773" ind1="0" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten, 1951-</marc:subfield>
+            <marc:subfield code="t">Knut Hamsun</marc:subfield>
+            <marc:subfield code="d">Berlin : Landt, 2011</marc:subfield>
+            <marc:subfield code="z">9783938844151</marc:subfield>
+            <marc:subfield code="w">990829216444702201</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="960" ind1=" " ind2=" ">
+            <marc:subfield code="a">n</marc:subfield>
+            <marc:subfield code="9">LOCAL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="997" ind1=" " ind2=" ">
+            <marc:subfield code="a">n</marc:subfield>
+            <marc:subfield code="9">LOCAL</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>00859caa a22002057c 4500</marc:leader>
+        <marc:controlfield tag="001">991133108704702202</marc:controlfield>
+        <marc:controlfield tag="005">20180601141016.0</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">110630s2003    xx#|||||||||||000|u|nob|d</marc:controlfield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-TrBIB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Karterud, Sigmund</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">En personlighetsvurdering av Knut Hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">S.[108]-119.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tekst</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">uformidlet</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">bind</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="0" ind2=" ">
+            <marc:subfield code="a">Ingar Sletten Kolloen</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="773" ind1="0" ind2=" ">
+            <marc:subfield code="t">Samtiden (trykt utg.). </marc:subfield>
+            <marc:subfield code="d">Oslo : Aschehoug</marc:subfield>
+            <marc:subfield code="g">2003 : 3</marc:subfield>
+            <marc:subfield code="x">0036-3928</marc:subfield>
+            <marc:subfield code="w">997521921244702201</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01442cam a2200361 c 4500</marc:leader>
+        <marc:controlfield tag="001">991147172224702202</marc:controlfield>
+        <marc:controlfield tag="005">20220406130747.0</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">130806s2010    xx#|||||||||||000|0bchi| </marc:controlfield>
+        <marc:datafield tag="015" ind1=" " ind2=" ">
+            <marc:subfield code="a">1135192</marc:subfield>
+            <marc:subfield code="2">nbf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">9787020084098</marc:subfield>
+            <marc:subfield code="q">h.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-OsNB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="1" ind2=" ">
+            <marc:subfield code="h">eng</marc:subfield>
+            <marc:subfield code="h">nob</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">norbibl</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="044" ind1=" " ind2=" ">
+            <marc:subfield code="c">cn</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">839.823</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">5/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/49458459</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="0" ind2="0">
+            <marc:subfield code="a">Hamsun: sværmer og erobrer</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/315057230</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Hanmu zhuan</marc:subfield>
+            <marc:subfield code="c">Kelun ; Wang yiguo yi</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="1" ind2=" ">
+            <marc:subfield code="a">Hamsun</marc:subfield>
+            <marc:subfield code="i">Originaltittel</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Beijing</marc:subfield>
+            <marc:subfield code="b">Renmin wenxue chubanshe</marc:subfield>
+            <marc:subfield code="c">2010</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">487 s., pl.</marc:subfield>
+            <marc:subfield code="b">ill.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tekst</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">uformidlet</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">bind</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Oversatt etter &quot;Knut Hamsun : dreamer and dissenter&quot;</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografi</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografier</marc:subfield>
+            <marc:subfield code="0">https://id.nb.no/vocabulary/ntsf/36</marc:subfield>
+            <marc:subfield code="0">(NO-OsNB)ntsf36 </marc:subfield>
+            <marc:subfield code="2">ntsf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Knut Hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="960" ind1=" " ind2=" ">
+            <marc:subfield code="a">n</marc:subfield>
+            <marc:subfield code="9">LOCAL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="997" ind1=" " ind2=" ">
+            <marc:subfield code="a">n</marc:subfield>
+            <marc:subfield code="9">LOCAL</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01638cam a2200373 c 4500</marc:leader>
+        <marc:controlfield tag="001">991326017374702202</marc:controlfield>
+        <marc:controlfield tag="005">20220406131702.0</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">130827s2013    xx#|||||||||||000|0blit| </marc:controlfield>
+        <marc:datafield tag="015" ind1=" " ind2=" ">
+            <marc:subfield code="a">1325441</marc:subfield>
+            <marc:subfield code="2">nbf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">9789955164739</marc:subfield>
+            <marc:subfield code="q">ib.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-OsNB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="1" ind2=" ">
+            <marc:subfield code="h">nob</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">norbibl</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="044" ind1=" " ind2=" ">
+            <marc:subfield code="c">lt</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">839.823</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">5/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/49458459</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="0" ind2="0">
+            <marc:subfield code="a">Hamsun: sværmer og erobrer</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/315057230</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Hamsunas :</marc:subfield>
+            <marc:subfield code="b">svajotojas ir užkariautojas</marc:subfield>
+            <marc:subfield code="c">Ingar Sletten Kolloen ; iš norvegu̢ kalbos vertė Agnė Guigaitė</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="1" ind2=" ">
+            <marc:subfield code="a">Hamsun</marc:subfield>
+            <marc:subfield code="b">svermer og erobrer</marc:subfield>
+            <marc:subfield code="i">Originaltittel</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Vilnius</marc:subfield>
+            <marc:subfield code="b">Gimtasis žodis</marc:subfield>
+            <marc:subfield code="c">cop. 2013</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">574 s.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tekst</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">uformidlet</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">bind</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="536" ind1=" " ind2=" ">
+            <marc:subfield code="a">NORLA</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografi</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Biografier</marc:subfield>
+            <marc:subfield code="0">https://id.nb.no/vocabulary/ntsf/36</marc:subfield>
+            <marc:subfield code="0">(NO-OsNB)ntsf36 </marc:subfield>
+            <marc:subfield code="2">ntsf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="0" ind2=" ">
+            <marc:subfield code="a">Guigaitė, Agne</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/58153833158764330037</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20037</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="765" ind1="0" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="t">Hamsun :</marc:subfield>
+            <marc:subfield code="w">990924977724702201</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="960" ind1=" " ind2=" ">
+            <marc:subfield code="a">n</marc:subfield>
+            <marc:subfield code="9">LOCAL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="997" ind1=" " ind2=" ">
+            <marc:subfield code="a">n</marc:subfield>
+            <marc:subfield code="9">LOCAL</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01179caa a2200229 c 4500</marc:leader>
+        <marc:controlfield tag="001">999920194294402202</marc:controlfield>
+        <marc:controlfield tag="005">20220224155843.0</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">130806s1987    no |||||||||||000|0|nob|c</marc:controlfield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-TrBIB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/49458459</marc:subfield>
+            <marc:subfield code="4">aut</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Hamsun-manus på auksjon i dag</marc:subfield>
+            <marc:subfield code="c">Ingar Sletten Kolloen</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">S. 11</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tekst</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">uformidlet</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">bind</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="t">Men Livet lever</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/191146462599827770953</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="7">
+            <marc:subfield code="a">Bokauksjoner</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Avisartikler</marc:subfield>
+            <marc:subfield code="0">https://id.nb.no/vocabulary/ntsf/21</marc:subfield>
+            <marc:subfield code="2">ntsf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="773" ind1="0" ind2=" ">
+            <marc:subfield code="t">Aftenposten (morgenutg. : trykt utg.)</marc:subfield>
+            <marc:subfield code="g">1987, 21/5</marc:subfield>
+            <marc:subfield code="x">0804-3116</marc:subfield>
+            <marc:subfield code="w">999431109804702201</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01202caa a2200229 c 4500</marc:leader>
+        <marc:controlfield tag="001">999920194295902202</marc:controlfield>
+        <marc:controlfield tag="005">20220224130915.0</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">130806s1987    no a||||||||||000|0|nob|c</marc:controlfield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-TrBIB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/49458459</marc:subfield>
+            <marc:subfield code="4">aut</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Hamsun 77 år efter :</marc:subfield>
+            <marc:subfield code="b">Hamsuns barnebarn i vold</marc:subfield>
+            <marc:subfield code="c">Ingar Sletten Kolloen</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">S. 1</marc:subfield>
+            <marc:subfield code="b">ill.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tekst</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">uformidlet</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">bind</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Regine</marc:subfield>
+            <marc:subfield code="d">1962-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)1642068396978</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/6164718151002092728</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="7">
+            <marc:subfield code="a">Teaterforestillinger</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Avisartikler</marc:subfield>
+            <marc:subfield code="0">https://id.nb.no/vocabulary/ntsf/21</marc:subfield>
+            <marc:subfield code="2">ntsf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="773" ind1="0" ind2=" ">
+            <marc:subfield code="t">Aftenposten (morgenutg. : trykt utg.)</marc:subfield>
+            <marc:subfield code="g">1987 nr. 526, 13/11</marc:subfield>
+            <marc:subfield code="x">0804-3116</marc:subfield>
+            <marc:subfield code="w">999431109804702201</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01462caa a2200265 c 4500</marc:leader>
+        <marc:controlfield tag="001">999920194297002202</marc:controlfield>
+        <marc:controlfield tag="005">20220223150210.0</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">130806s1987    no |||||||||||000|0|nob|c</marc:controlfield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NO-TrBIB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kolloen, Ingar Sletten</marc:subfield>
+            <marc:subfield code="d">1951-</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90053139</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/49458459</marc:subfield>
+            <marc:subfield code="4">ivr</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10057</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Johan Kvandal om sin Hamsun-opera :</marc:subfield>
+            <marc:subfield code="b">Jeg leter efter det egentlige hos ham</marc:subfield>
+            <marc:subfield code="c">Ingar Sletten Kolloen</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">S. 6</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">tekst</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">uformidlet</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">bind</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="1">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Intervju med Johan Kvandal</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="t">Mysterier</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90052521</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/206863699</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Kvandal, Johan</marc:subfield>
+            <marc:subfield code="d">1919-1999</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90400522</marc:subfield>
+            <marc:subfield code="2">bare</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/17645971</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="7">
+            <marc:subfield code="a">Musikk</marc:subfield>
+            <marc:subfield code="2">hamsun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Avisartikler</marc:subfield>
+            <marc:subfield code="0">https://id.nb.no/vocabulary/ntsf/21</marc:subfield>
+            <marc:subfield code="2">ntsf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Intervjuer</marc:subfield>
+            <marc:subfield code="0">https://id.nb.no/vocabulary/ntsf/135</marc:subfield>
+            <marc:subfield code="2">ntsf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kvandal, Johan</marc:subfield>
+            <marc:subfield code="d">1919-1999</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90400522</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/17645971</marc:subfield>
+            <marc:subfield code="4">ive</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10059</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

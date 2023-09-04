@@ -1,0 +1,1853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    
+    <!-- 
+    Tolkien, J. R. R.: http://www.wikidata.org/entity/Q892 
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+    
+    
+    Lord of the rings: http://www.wikidata.org/entity/Q15228
+    The hobbit: http://www.wikidata.org/entity/Q74287
+    The fellowship of the ring: http://www.wikidata.org/entity/Q208002
+    The two towers: http://www.wikidata.org/entity/Q332388
+    The return of the king: http://www.wikidata.org/entity/Q332581
+    
+    Hammond, Wayne G. : http://viaf.org/viaf/59153962
+    Scull, Christina: http://viaf.org/viaf/54260077
+    Lord of the rings a reader's companion: http://viaf.org/viaf/9014152502908610800009
+    -->
+    
+    <record>
+        <leader>01828cam a2200469 i 4500</leader>
+        <controlfield tag="001">021051948</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20180123094207.0</controlfield>
+        <controlfield tag="008">170621s2017    enkab         000|f eng d</controlfield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GBB7D4969</subfield>
+            <subfield code="2">bnb</subfield>
+        </datafield>
+        <datafield tag="016" ind1="7" ind2=" ">
+            <subfield code="a">018457948</subfield>
+            <subfield code="2">Uk</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780008260187</subfield>
+            <subfield code="q">set</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9780007440849</subfield>
+            <subfield code="q">The hobbit</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780008264062</subfield>
+            <subfield code="q">The fellowship of the ring</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780008264079</subfield>
+            <subfield code="q">The two towers</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780008264222</subfield>
+            <subfield code="q">The return of the king</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(Uk)018457948</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">StDuBDS</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">StDuBDS</subfield>
+            <subfield code="d">UkOxU</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823.912</subfield>
+            <subfield code="2">23</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973,</subfield>
+            <subfield code="e">author.</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Novels.</subfield>
+            <subfield code="k">Selections</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The hobbit ; The lord of the rings /</subfield>
+            <subfield code="c">J.R.R. Tolkien.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">HarperCollinsPublishers,</subfield>
+            <subfield code="c">2017.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">©2017.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">4 volumes :</subfield>
+            <subfield code="b">illustrations (some colour), maps ;</subfield>
+            <subfield code="c">16 cm</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">still image</subfield>
+            <subfield code="2">rdacontent</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Title from slip case.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Issued in slip case.</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">The hobbit : there and back agains (2011) - The fellowship of the ring (2017) - The two towers (2017) - The return of the king (2017)</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Middle Earth (Imaginary place)</subfield>
+            <subfield code="v">Fiction.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Fantasy fiction, English.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Hobbit.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Fellowship of the ring.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Two towers.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Return of the king.</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+            <subfield code="h">Week 48 (17)</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>02052nam a2200457 i 4500</leader>
+        <controlfield tag="001">023331790</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20230605102703.0</controlfield>
+        <controlfield tag="008">230418t20221966enkb          001|1 eng d</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780008537807</subfield>
+            <subfield code="q">set</subfield>
+            <subfield code="q">paperback</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0008537801</subfield>
+            <subfield code="q">set</subfield>
+            <subfield code="q">paperback</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780008537753</subfield>
+            <subfield code="q">set</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0008537755</subfield>
+            <subfield code="q">set</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9780008537722</subfield>
+            <subfield code="q">The Fellowship of the Ring</subfield>
+            <subfield code="q">paperback</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9780008537739</subfield>
+            <subfield code="q">The Two Towers</subfield>
+            <subfield code="q">paperback</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9780008537746</subfield>
+            <subfield code="q">The Return of the King</subfield>
+            <subfield code="q">paperback</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">coutts063702735</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">UkOxU</subfield>
+            <subfield code="d">NNfCLS</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823.9</subfield>
+            <subfield code="2">23</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973,</subfield>
+            <subfield code="e">author.</subfield>
+            <subfield code="1">https://isni.org/isni/0000000121441970</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Novels.</subfield>
+            <subfield code="k">Selections</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The lord of the rings /</subfield>
+            <subfield code="c">J.R.R. Tolkien.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">HarperCollinsPublishers,</subfield>
+            <subfield code="c">2022.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">©1966</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">3 volumes :</subfield>
+            <subfield code="b">maps ;</subfield>
+            <subfield code="c">20 cm</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes index.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Issued in slip case.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">&quot;A new legend begins : The Rings of Power, prime video&quot;</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">This paperback edition is based on the reset edition first published 2014, which is a revised version of the reset edition first published 2004.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">First published by HarperCollinsPublishers in 1991.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">First published in Great Britain by George Allen &amp; Unwin 1954, second edition 1966.</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Part 1. The fellowship of the ring -- Part 2. The two towers -- Part 3. The return of the king.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Middle Earth (Imaginary place)</subfield>
+            <subfield code="v">Fiction.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Fantasy fiction, English.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Fellowship of the ring.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Two towers.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Return of the king.</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01775cam a2200421 a 4500</leader>
+        <controlfield tag="001">019458902</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20130903123338.0</controlfield>
+        <controlfield tag="008">130228s2012    enkab    b    001 1 eng d</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780007509843 (set : pbk.)</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9780007487295 (Hobbit)</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9780007488308 (Fellowship of the ring)</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9780007488322 (Two towers)</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9780007488346 (Return of the king)</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(StEdNL)4915935</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(UkLCURL)704915935</subfield>
+        </datafield>
+        <datafield tag="038" ind1=" " ind2=" ">
+            <subfield code="a">UkLCURL</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">StEdNL</subfield>
+            <subfield code="d">UkOxU</subfield>
+        </datafield>
+        <datafield tag="049" ind1=" " ind2=" ">
+            <subfield code="j">CU</subfield>
+            <subfield code="k">704915935</subfield>
+            <subfield code="l">c</subfield>
+        </datafield>
+        <datafield tag="090" ind1=" " ind2=" ">
+            <subfield code="a">NLS</subfield>
+            <subfield code="b">HB1.213.3.6</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The hobbit ;</subfield>
+            <subfield code="b">[and], The Lord of the Rings /</subfield>
+            <subfield code="c">J.R.R. Tolkien.</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">Film tie-in ed.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">HarperCollins Pub.,</subfield>
+            <subfield code="c">2012.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">4 v. :</subfield>
+            <subfield code="b">ill., maps ;</subfield>
+            <subfield code="c">18 cm.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">In slip case.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Title from slipcase.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Volumes also issued separately.</subfield>
+        </datafield>
+        <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and indexes.</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">The hobbit, or, There and back again -- 1. The fellowship of the ring : being the first part of The Lord of the Rings -- 2. The two towers : being the second part of The Lord of the Rings -- 3. The return of the king : being the third part of The Lord of the Rings.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Hobbit.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Fellowship of the ring.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Two towers.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Return of the king.</subfield>
+        </datafield>
+        <datafield tag="852" ind1=" " ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+            <subfield code="h">XWeek 07 (13)</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01970nam a2200493 i 4500</leader>
+        <controlfield tag="001">019629613</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20140219114623.0</controlfield>
+        <controlfield tag="008">130612s2013    enka          000 1 eng d</controlfield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GBB368755</subfield>
+            <subfield code="2">bnb</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780007522934</subfield>
+            <subfield code="q">set</subfield>
+            <subfield code="c">£59.99</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9780007487301</subfield>
+            <subfield code="q">Hobbit</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9780007522903</subfield>
+            <subfield code="q">Fellowship of the ring</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9780007522910</subfield>
+            <subfield code="q">Two towers</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9780007522927</subfield>
+            <subfield code="q">Return of the king</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973,</subfield>
+            <subfield code="e">author.</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Novels.</subfield>
+            <subfield code="k">Selections</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The Hobbit ; The fellowship of the ring ; The two towers ; [and] The return of the king [box set] /</subfield>
+            <subfield code="c">J.R.R. Tolkien.</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">Collector's edition.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">HarperCollinsPublishers,</subfield>
+            <subfield code="c">2013.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">4 volumes :</subfield>
+            <subfield code="b">illustrations ;</subfield>
+            <subfield code="c">23 cm</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">In case.</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">The hobbit : or there and back again. This edition first published: 2012 -- The fellowship of the ring -- The two towers -- The return of the king.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Middle Earth (Imaginary place)</subfield>
+            <subfield code="v">Fiction.</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Baggins, Bilbo</subfield>
+            <subfield code="v">Fiction.</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Baggins, Frodo</subfield>
+            <subfield code="v">Fiction.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Hobbits (Fictitious characters)</subfield>
+            <subfield code="v">Fiction.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Fantasy fiction, English.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Hobbit.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Fellowship of the ring.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Two towers.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Return of the king.</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>02098nam a2200505 i 4500</leader>
+        <controlfield tag="001">019926782</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20141209111247.0</controlfield>
+        <controlfield tag="008">140210s2014    enkab         001 1 eng d</controlfield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GBB437326</subfield>
+            <subfield code="2">bnb</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780007581146</subfield>
+            <subfield code="q">set</subfield>
+            <subfield code="q">hardback</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9780007203543</subfield>
+            <subfield code="q">Part 1</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9780007203550</subfield>
+            <subfield code="q">Part 2</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9780007203567</subfield>
+            <subfield code="q">Part 3</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9780007556908</subfield>
+            <subfield code="q">Reader's companion</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823.912</subfield>
+            <subfield code="2">23</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973,</subfield>
+            <subfield code="e">author.</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The lord of the rings [boxed set] /</subfield>
+            <subfield code="c">J.R.R. Tolkien.</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">60th anniversary edition.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">HarperCollinsPublishers,</subfield>
+            <subfield code="c">2014.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">4 volumes :</subfield>
+            <subfield code="b">illustrations (some colour), maps ;</subfield>
+            <subfield code="c">24 cm</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">still image</subfield>
+            <subfield code="2">rdacontent</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">In case.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Volumes also issued separately.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Set ISBN from plastic wrapper.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes index.</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Part 1. The fellowship of the ring -- Part 2. The two towers -- Part 3. The return of the king -- Lord of the rings : a reader's companion / by Wayne G. Hammond and Christina Scull.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Middle Earth (Imaginary place)</subfield>
+            <subfield code="v">Fiction.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Fantasy fiction, English.</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Lord of the rings.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Lord of the rings.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Fellowship of the ring.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Two towers.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Return of the king.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Hammond, Wayne G.</subfield>
+            <subfield code="t">Lord of the rings : a reader's companion.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Scull, Christina,</subfield>
+            <subfield code="e">author.</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00836nam a2200241 a 4500</leader>
+        <controlfield tag="001">016027832</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20070511140847.0</controlfield>
+        <controlfield tag="008">050425s2005    enk    e      001 0 eng  </controlfield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GBA554028</subfield>
+            <subfield code="2">bnb</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">000720308X (hbk.) :</subfield>
+            <subfield code="c">£18.99</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">000720907X (pbk.) :</subfield>
+            <subfield code="c">£7.99</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(Uk)013239600</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">StDuBDS</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823.912</subfield>
+            <subfield code="2">22</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Hammond, Wayne G.</subfield>
+            <subfield code="1">http://viaf.org/viaf/59153962</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The Lord of the rings :</subfield>
+            <subfield code="b">a reader's companion /</subfield>
+            <subfield code="c">by Wayne G. Hammond and Christina Scull.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">HarperCollins,</subfield>
+            <subfield code="c">2005.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">lxxxii, 894 p. ;</subfield>
+            <subfield code="c">23 cm.</subfield>
+        </datafield>
+        <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references (p. [813]-829) and index.</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Lord of the rings.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Scull, Christina.</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+            <subfield code="c">WESO6</subfield>
+            <subfield code="h">X.11.100/TOLKIEN 17</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01068cam a2200313 i 4500</leader>
+        <controlfield tag="001">019862727</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20141222222308.0</controlfield>
+        <controlfield tag="008">130926t20142014enka     b    001 0 eng d</controlfield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GBB437280</subfield>
+            <subfield code="2">bnb</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780007556908 (hbk.) :</subfield>
+            <subfield code="c">£25.00</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(UkCU)5809454</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(Uk)016682264</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">StDuBDS</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">StDuBDS</subfield>
+            <subfield code="d">UkCU</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">ukscp</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823.912</subfield>
+            <subfield code="2">23</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Hammond, Wayne G.,</subfield>
+            <subfield code="e">author.</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The Lord of the rings :</subfield>
+            <subfield code="b">a reader's companion /</subfield>
+            <subfield code="c">by Wayne G. Hammond and Christina Scull.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">HarperCollinsPublishers,</subfield>
+            <subfield code="c">2014.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">©2014</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">lxxxii, 894 pages :</subfield>
+            <subfield code="b">illustrations (colour) ;</subfield>
+            <subfield code="c">23 cm</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">First published: 2005.</subfield>
+        </datafield>
+        <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index.</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Lord of the rings.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Scull, Christina,</subfield>
+            <subfield code="e">author.</subfield>
+        </datafield>
+        <datafield tag="852" ind1=" " ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+            <subfield code="h">XWeek 41 (14)</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00623nam a2200193 a 4500</leader>
+        <controlfield tag="001">010273140</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">19960621123517.0</controlfield>
+        <controlfield tag="008">890607r19881968enkbj         000 1 eng d</controlfield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GB-8902376</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0044403054</subfield>
+        </datafield>
+        <datafield tag="082" ind1=" " ind2=" ">
+            <subfield code="a">823.914</subfield>
+            <subfield code="d">F</subfield>
+            <subfield code="2">19</subfield>
+        </datafield>
+        <datafield tag="092" ind1=" " ind2=" ">
+            <subfield code="a">D0400609435</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The Lord of the rings /</subfield>
+            <subfield code="c">J.R.R. Tolkien</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Unwin Hyman,</subfield>
+            <subfield code="c">1988</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1193 p ;</subfield>
+            <subfield code="c">23 cm</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Contents: Part 1. The fellowship of the ring - Part 2. The two towers - Part 3. The return of the king.</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+            <subfield code="h">M90.E04508</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00811cam a2200253 a 4500</leader>
+        <controlfield tag="001">010490845</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20040309135639.0</controlfield>
+        <controlfield tag="008">910822s1991    enkabj        000 1 eng d</controlfield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GB 91-50054</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0261102303</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">BNB issue 2154</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)59853251</subfield>
+        </datafield>
+        <datafield tag="050" ind1=" " ind2="4">
+            <subfield code="a">PR6039.O32</subfield>
+            <subfield code="b">L6 1991</subfield>
+        </datafield>
+        <datafield tag="082" ind1=" " ind2=" ">
+            <subfield code="a">823.912</subfield>
+            <subfield code="2">20</subfield>
+        </datafield>
+        <datafield tag="092" ind1=" " ind2=" ">
+            <subfield code="a">D0400978175</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The Lord of the rings /</subfield>
+            <subfield code="c">J.R.R. Tolkien ; illustrated by Alan Lee.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Harper Collins,</subfield>
+            <subfield code="c">1991.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1193 p., [50] leaves of plates :</subfield>
+            <subfield code="b">ill. (some col.), geneal. tables, maps ;</subfield>
+            <subfield code="c">26 cm.</subfield>
+        </datafield>
+        <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes index.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lee, Alan.</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+            <subfield code="c">BODGL</subfield>
+            <subfield code="k">(UBHU)</subfield>
+            <subfield code="h">M91.D02138</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">QUECL</subfield>
+            <subfield code="h">Gen Tolk</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00970nam a2200277 a 4500</leader>
+        <controlfield tag="001">010881045</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">19980428095636.0</controlfield>
+        <controlfield tag="008">931110s1991    enk           000 1 eng d</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0261102354 (Part1)</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0261102362 (Part2)</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0261102370 (Part3)</subfield>
+        </datafield>
+        <datafield tag="092" ind1=" " ind2=" ">
+            <subfield code="a">D0501311191</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The Lord of the rings /</subfield>
+            <subfield code="c">J.R.R. Tolkien</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">Three book ed</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Grafton,</subfield>
+            <subfield code="c">1991</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">3 v. ;</subfield>
+            <subfield code="c">18 cm</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Part 1. The fellowship of the ring -- Part 2. The two towers -- Part 3. The return of the king</subfield>
+        </datafield>
+        <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">Fellowship of the ring</subfield>
+        </datafield>
+        <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">Two towers</subfield>
+        </datafield>
+        <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">Return of the king</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+            <subfield code="h">X93.H03515</subfield>
+            <subfield code="m">(Part 1) (Box B000000002563)</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+            <subfield code="h">X93.H03516</subfield>
+            <subfield code="m">(Part 2) (Box B000000002563)</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+            <subfield code="h">X93.H03517</subfield>
+            <subfield code="m">(Part 3) (Box B000000002563)</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">SOMCL</subfield>
+            <subfield code="h">L TOLK 6</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01247nam a22003372  4500</leader>
+        <controlfield tag="001">012525966</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">19980423123237.0</controlfield>
+        <controlfield tag="008">780106r19771954enkab         001 1 eng d</controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">gb 78001763</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GB78-1763</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">OCLC ocm16430475 from D970130M</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">UKM</subfield>
+            <subfield code="c">UKM</subfield>
+            <subfield code="d">EQO</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2=" ">
+            <subfield code="a">823/.9/1</subfield>
+            <subfield code="2">18</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The Lord of the rings /</subfield>
+            <subfield code="c">J.R.R. Tolkien ; illustrations by Ingahild Grathmer, drawn by Eric Fraser.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Folio Society,</subfield>
+            <subfield code="c">1977.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">3 v. (459 p.; 372 p.; 487 p.) :</subfield>
+            <subfield code="b">ill., maps (on lining papers) ;</subfield>
+            <subfield code="c">24 cm.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">In slip case.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Originally published: London : Allen and Unwin, 1954-55.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes index.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">English fiction.</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+            <subfield code="h">25615 d.48</subfield>
+            <subfield code="m">(v.3)</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+            <subfield code="h">25615 d.48</subfield>
+            <subfield code="m">(v.2)</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+            <subfield code="h">25615 d.48</subfield>
+            <subfield code="m">(v.1)</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">SPCCL</subfield>
+            <subfield code="c">SPCLL</subfield>
+            <subfield code="h">YIO TOL 6LO [tol]</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">SPCCL</subfield>
+            <subfield code="c">SPCLL</subfield>
+            <subfield code="h">YIO TOL 6LO [tol]</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">SPCCL</subfield>
+            <subfield code="c">SPCLL</subfield>
+            <subfield code="h">YIO TOL 6LO [tol]</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">TRICL</subfield>
+            <subfield code="h">NK 1684.05/1 v.1</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">TRICL</subfield>
+            <subfield code="h">NK 1684.05/2 v.2</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">TRICL</subfield>
+            <subfield code="h">NK 1684.05/3 v.3</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01031nam a2200265 a 4500</leader>
+        <controlfield tag="001">013161843</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20080516142400.0</controlfield>
+        <controlfield tag="008">901114s1954    enka          000 1 eng d</controlfield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The fellowship of the ring :</subfield>
+            <subfield code="b">being the first part of The Lord of the Rings /</subfield>
+            <subfield code="c">by J. R. R. Tolkien.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Oxford :</subfield>
+            <subfield code="b">George Allen &amp; Unwin,</subfield>
+            <subfield code="c">1954.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">423 p.,</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">23 cm.</subfield>
+        </datafield>
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">The Lord of the rings ;</subfield>
+            <subfield code="v">1</subfield>
+        </datafield>
+        <datafield tag="800" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Lord of the rings (1954) ;</subfield>
+            <subfield code="v">v. 1.</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">HUGCL</subfield>
+            <subfield code="c">HUGST</subfield>
+            <subfield code="h">STACK 824/T58</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BLFCL</subfield>
+            <subfield code="h">PR 6039.O32 TOL 1954</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+            <subfield code="h">Arch. H d.54</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+            <subfield code="h">25615 d.33/1</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">MERCL</subfield>
+            <subfield code="c">MERRR</subfield>
+            <subfield code="h">YK:TOL/T1(b)(i)</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">OUSNU</subfield>
+            <subfield code="c">OUSCS</subfield>
+            <subfield code="h">EF.TOL</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">CATCL</subfield>
+            <subfield code="h">821 TOL 1</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">HUGCL</subfield>
+            <subfield code="h">829.3 TOL</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">WOLCL</subfield>
+            <subfield code="c">WOLFL</subfield>
+            <subfield code="h">823 TOL</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">LMHCL</subfield>
+            <subfield code="c">LMHGF</subfield>
+            <subfield code="h">824.29</subfield>
+            <subfield code="m">32</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01201nam a2200349 i 4500</leader>
+        <controlfield tag="001">010109954</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20130826105212.0</controlfield>
+        <controlfield tag="008">880808s1966    enkb          000 0 eng d</controlfield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">oxf98306507</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)12783233</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">EQO</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">EQO</subfield>
+        </datafield>
+        <datafield tag="050" ind1=" " ind2="4">
+            <subfield code="a">PR6039.O32</subfield>
+        </datafield>
+        <datafield tag="092" ind1=" " ind2=" ">
+            <subfield code="a">D0400253934</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973,</subfield>
+            <subfield code="e">author.</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The fellowship of the ring :</subfield>
+            <subfield code="b">being the first part of The Lord of the Rings.</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">2nd edition</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">George Allen &amp; Unwin,</subfield>
+            <subfield code="c">1966.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">©1966</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">423 pages :</subfield>
+            <subfield code="b">maps ;</subfield>
+            <subfield code="c">23 cm.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+        </datafield>
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">The Lord of the rings ;</subfield>
+            <subfield code="v">v. 1.</subfield>
+        </datafield>
+        <datafield tag="800" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Lord of the rings (1966) ;</subfield>
+            <subfield code="v">v. 1.</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">ANNCL</subfield>
+            <subfield code="c">ANNHH</subfield>
+            <subfield code="h">823.51 TOL:Lor (1)</subfield>
+        </datafield>
+        <datafield tag="852" ind1="0" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">EFLBL</subfield>
+            <subfield code="h">PR6039.O32 L6</subfield>
+            <subfield code="i">TOL 1966</subfield>
+            <subfield code="m">Vol.1</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+            <subfield code="h">25615 d.34</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">EXECL</subfield>
+            <subfield code="h">YIK 85f</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">MERCL</subfield>
+            <subfield code="c">MERRR</subfield>
+            <subfield code="h">YK:TOL/T1(a)(i)</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">ORLCL</subfield>
+            <subfield code="h">E 118 TOL</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">OUSNU</subfield>
+            <subfield code="c">OUSPR</subfield>
+            <subfield code="h">EF.TOL</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01171nam a2200301 a 4500</leader>
+        <controlfield tag="001">013171596</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20130723092753.0</controlfield>
+        <controlfield tag="008">901114s1955    enkb          000 1 eng d</controlfield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">UkOxU</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The return of the king :</subfield>
+            <subfield code="b">being the third part of The lord of the rings /</subfield>
+            <subfield code="c">by J.R.R. Tolkien.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">George Allen &amp; Unwin,</subfield>
+            <subfield code="c">1955.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">416 p. :</subfield>
+            <subfield code="b">maps ;</subfield>
+            <subfield code="c">23 cm.</subfield>
+        </datafield>
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">The lord of the rings ;</subfield>
+            <subfield code="v">pt. 3</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Map on folded sheet attached to inside cover.</subfield>
+        </datafield>
+        <datafield tag="800" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Lord of the rings (1954) ;</subfield>
+            <subfield code="v">pt. 3.</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">HUGCL</subfield>
+            <subfield code="c">HUGST</subfield>
+            <subfield code="h">STACK 824/T58</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">WOLCL</subfield>
+            <subfield code="c">WOLFL</subfield>
+            <subfield code="h">823 TOL</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BLFCL</subfield>
+            <subfield code="h">PR 6039.O32 TOL 1955(b)</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+            <subfield code="h">Arch. H d.56</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+            <subfield code="h">25615 d.33/3</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">OUSNU</subfield>
+            <subfield code="c">OUSCS</subfield>
+            <subfield code="h">EF.TOL</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">CATCL</subfield>
+            <subfield code="h">821 TOL 1</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">HUGCL</subfield>
+            <subfield code="h">829.3 TOL</subfield>
+        </datafield>
+        <datafield tag="852" ind1="1" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">HILCL</subfield>
+            <subfield code="h">826.9 TOL 3 (b)</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">CAMCL</subfield>
+            <subfield code="c">CAMML</subfield>
+            <subfield code="h">E.4.2 Tol1</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">LMHCL</subfield>
+            <subfield code="c">LMHGF</subfield>
+            <subfield code="h">824.29</subfield>
+            <subfield code="m">34</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01116nam a2200313 a 4500</leader>
+        <controlfield tag="001">010289727</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20130723092101.0</controlfield>
+        <controlfield tag="008">900702s1966    enka          000 1 eng d</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0048230464</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">oxf990026979</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)13037731</subfield>
+        </datafield>
+        <datafield tag="050" ind1=" " ind2="4">
+            <subfield code="a">PR6039.O32</subfield>
+            <subfield code="b">L6 v.2</subfield>
+        </datafield>
+        <datafield tag="092" ind1=" " ind2=" ">
+            <subfield code="a">D0400625022</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The two towers :</subfield>
+            <subfield code="b">being the second part of The lord of the rings /</subfield>
+            <subfield code="c">by J.R.R. Tolkien.</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">2nd ed.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Allen &amp; Unwin,</subfield>
+            <subfield code="c">1966</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">352 p. :</subfield>
+            <subfield code="b">ill., 1 map ;</subfield>
+            <subfield code="c">23 cm.</subfield>
+        </datafield>
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">The Lord of the rings ;</subfield>
+            <subfield code="v">v. 2</subfield>
+        </datafield>
+        <datafield tag="800" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Lord of the rings (1966) ;</subfield>
+            <subfield code="v">v. 2.</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+            <subfield code="h">25615 d.34</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">EXECL</subfield>
+            <subfield code="h">YIK 85t</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">MAGCL</subfield>
+            <subfield code="c">MAGNW</subfield>
+            <subfield code="h">823.912 TOL (LOR)</subfield>
+            <subfield code="m">1966</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">MERCL</subfield>
+            <subfield code="c">MERRR</subfield>
+            <subfield code="h">YK:TOL/T1(b)(ii)</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">OUSNU</subfield>
+            <subfield code="c">OUSPR</subfield>
+            <subfield code="h">EF.TOL</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">SOMCL</subfield>
+            <subfield code="h">L TOLK 4</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">ORLCL</subfield>
+            <subfield code="h">E 118 TOL</subfield>
+        </datafield>
+        <datafield tag="852" ind1="0" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">EFLBL</subfield>
+            <subfield code="h">PR6039.O32 L6</subfield>
+            <subfield code="i">TOL 1966</subfield>
+            <subfield code="m">Vol.2</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01145nam a2200313 a 4500</leader>
+        <controlfield tag="001">010289734</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20130723092216.0</controlfield>
+        <controlfield tag="008">500101s1966    enkabfh       000 1 eng d</controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">LC 67-84547</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GB 66-21834</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0048230472</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)62223651</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">m.c</subfield>
+            <subfield code="d">EUX</subfield>
+            <subfield code="d">UkOxU</subfield>
+        </datafield>
+        <datafield tag="050" ind1=" " ind2="0">
+            <subfield code="a">PZ3.T576</subfield>
+            <subfield code="b">Lo4</subfield>
+        </datafield>
+        <datafield tag="092" ind1=" " ind2=" ">
+            <subfield code="a">D0400625037</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The return of the king :</subfield>
+            <subfield code="b">being the third part of The lord of the rings /</subfield>
+            <subfield code="c">by J.R.R. Tolkien.</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">2nd ed.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Allen &amp; Unwin,</subfield>
+            <subfield code="c">1966.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">440 p. :</subfield>
+            <subfield code="b">ill., facsims., table, diagrs. ;</subfield>
+            <subfield code="c">23 cm.</subfield>
+        </datafield>
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">The Lord of the rings ;</subfield>
+            <subfield code="v">v.3</subfield>
+        </datafield>
+        <datafield tag="800" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="t">Lord of the rings (1966) ;</subfield>
+            <subfield code="v">v. 3.</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+            <subfield code="h">25615 d.34</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">MAGCL</subfield>
+            <subfield code="c">MAGNW</subfield>
+            <subfield code="h">823.912 TOL (LOR)</subfield>
+            <subfield code="m">1966</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">MERCL</subfield>
+            <subfield code="c">MERRR</subfield>
+            <subfield code="h">YK:TOL/T1(a)(iii)</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">MERCL</subfield>
+            <subfield code="c">MERRR</subfield>
+            <subfield code="h">YK:TOL/T1(b)(iii)</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">OUSNU</subfield>
+            <subfield code="c">OUSPR</subfield>
+            <subfield code="h">EF.TOL</subfield>
+        </datafield>
+        <datafield tag="852" ind1="0" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">EFLBL</subfield>
+            <subfield code="h">PR6039.O32 L6</subfield>
+            <subfield code="i">TOL 1966</subfield>
+            <subfield code="m">Vol.3</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01244nam a2200361 a 4500</leader>
+        <controlfield tag="001">017177865</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20100316223002.0</controlfield>
+        <controlfield tag="008">080404s2006    nyuab  j      000 0 eng d</controlfield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GBA948441</subfield>
+            <subfield code="2">bnb</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780261102668 (pbk.) :</subfield>
+            <subfield code="c">£12.99</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0261102664 (pbk.) :</subfield>
+            <subfield code="c">£12.99</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)221156507</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(Uk)013603372</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(UkLCURL)72013603372</subfield>
+        </datafield>
+        <datafield tag="038" ind1=" " ind2=" ">
+            <subfield code="a">OCoLC</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">BTCTA</subfield>
+            <subfield code="c">BTCTA</subfield>
+            <subfield code="d">SO</subfield>
+            <subfield code="d">Uk</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">ukblsr</subfield>
+        </datafield>
+        <datafield tag="049" ind1=" " ind2=" ">
+            <subfield code="j">CU</subfield>
+            <subfield code="k">72013603372</subfield>
+            <subfield code="l">o</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823.92</subfield>
+            <subfield code="2">22</subfield>
+        </datafield>
+        <datafield tag="090" ind1=" " ind2=" ">
+            <subfield code="a">BLI</subfield>
+            <subfield code="b">YK.2009.b.3651</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The hobbit , or there and back again :</subfield>
+            <subfield code="b">[an illustrated edition of the fantasy classic] /</subfield>
+            <subfield code="c">J.R.R. Tolkien ; illustrated by David Wenzel ; adapted by Charles Dixon with Sean Deming.</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">Rev ed.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Harper Collins,</subfield>
+            <subfield code="c">2006.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">133 p. :</subfield>
+            <subfield code="b">col. ill., col. map ;</subfield>
+            <subfield code="c">26 cm.</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Baggins, Bilbo</subfield>
+            <subfield code="v">Comic books, strips, etc.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Middle Earth (Imaginary place)</subfield>
+            <subfield code="v">Comic books, strips, etc.</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="0">
+            <subfield code="a">Graphic novels.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Dixon, Chuck,</subfield>
+            <subfield code="d">1954-</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Wenzel, David,</subfield>
+            <subfield code="d">1950-</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Deming, Sean.</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00585nam a22002055i 4500</leader>
+        <controlfield tag="001">022896191</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20220719093036.0</controlfield>
+        <controlfield tag="008">220719t19871987|||           ||| | eng d</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0044400918</subfield>
+            <subfield code="q">hardback</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">UkOxU</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973.</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="245" ind1="0" ind2="4">
+            <subfield code="a">The hobbit or there and back again /</subfield>
+            <subfield code="c">J. R. R. Tolkien.</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">Anniversary super de luxe edition.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Unwin Hyman Limited,</subfield>
+            <subfield code="c">1987.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">© 1987</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 volume.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UkOxU</subfield>
+            <subfield code="b">BODBL</subfield>
+        </datafield>
+    </record>
+</collection>

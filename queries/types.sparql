@@ -1,0 +1,16 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdac: <http://rdaregistry.info/Elements/c/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX rdae: <http://rdaregistry.info/Elements/e/datatype/>
+prefix rdam: <http://rdaregistry.info/Elements/m/datatype/>
+prefix rdaw: <http://rdaregistry.info/Elements/w/datatype/>
+prefix rdax: <http://rdaregistry.info/Elements/x/datatype/>
+
+select distinct ?s ?p (ucase(?label) as ?l) ?o WHERE {
+    			?s (rdaw:P10004|rdae:P20001|rdae:P20006|rdae:P20065|rdam:P30002|rdam:P30001) ?o.
+    			?s ?p ?o.
+    			?p rdfs:label ?label.
+    			?o rdf:type skos:Concept.
+    			FILTER(LANG(?label) = "gden")
+}order by asc(?p)

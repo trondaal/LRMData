@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:map="http://www.w3.org/2005/xpath-functions/map"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:marc="http://www.loc.gov/MARC21/slim"
+         xmlns:rdac="http://rdaregistry.info/Elements/c/"
+         xmlns:rdaad="http://rdaregistry.info/Elements/a/datatype/"
+         xmlns:rdaao="http://rdaregistry.info/Elements/a/object/"
+         xmlns:rdawd="http://rdaregistry.info/Elements/w/datatype/"
+         xmlns:rdawo="http://rdaregistry.info/Elements/w/object/"
+         xmlns:rdaed="http://rdaregistry.info/Elements/e/datatype/"
+         xmlns:rdaeo="http://rdaregistry.info/Elements/e/object/"
+         xmlns:rdamd="http://rdaregistry.info/Elements/m/datatype/"
+         xmlns:rdamo="http://rdaregistry.info/Elements/m/object/"
+         xmlns:rdaxd="http://rdaregistry.info/Elements/x/datatype/"
+         xmlns:mads="http://www.loc.gov/mads/rdf/v1#"
+         xmlns:mmmm="http://www.loc.gov/MARC21/slim/"
+         xmlns:rdaco="http://rdaregistry.info/termList/RDAContentType/"
+         xmlns:rdact="http://rdaregistry.info/termList/RDACarrierType/"
+         xmlns:rdamt="http://rdaregistry.info/termList/RDAMediaType/"
+         xmlns:rdat="http://rdaregistry.info/termList/"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/110145970341832252710/eksempeluri">
+      <rdaxd:P00018>http://viaf.org/viaf/110145970341832252710/eksempeluri</rdaxd:P00018>
+      <rdawd:P10088>Warriors and other men</rdawd:P10088>
+      <rdfs:label>Warriors and other men</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/110145970341832252710"/>
+   </rdac:C10001>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/110145970341832252710">
+      <rdaxd:P00018>http://viaf.org/viaf/110145970341832252710</rdaxd:P00018>
+      <rdaad:P50385>Skogstrand, Lisbeth</rdaad:P50385>
+      <rdfs:label>Skogstrand, Lisbeth</rdfs:label>
+      <rdaad:P50339>1973-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/110145970341832252710/eksempeluri/exp/eng/1002/1014/1020">
+      <rdaed:P20316>Warriors and other men</rdaed:P20316>
+      <rdaed:P20312>Warriors and other men : notions of masculinity from the late Bronze Age to the early Iron Age in Scandinavia</rdaed:P20312>
+      <rdfs:label>Warriors and other men / text / still image / cartographic image</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1014"/>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1002"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/110145970341832252710/eksempeluri"/>
+   </rdac:C10006>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9781784914172">
+      <rdamd:P30004>ISBN 978-1-78491-417-2</rdamd:P30004>
+      <rdaxd:P00018>isbn-9781784914172</rdaxd:P00018>
+      <rdfs:label>ISBN978-1-78491-417-2</rdfs:label>
+      <rdamd:P30156>Warriors and other men</rdamd:P30156>
+      <rdamd:P30142>notions of masculinity from the late Bronze Age to the early Iron Age in Scandinavia</rdamd:P30142>
+      <rdamd:P30117>Lisbeth Skogstrand</rdamd:P30117>
+      <rdamd:P30088>Oxford</rdamd:P30088>
+      <rdamd:P30111>Oxford : Archaeopress Publishing Ltd, [2016].</rdamd:P30111>
+      <rdamd:P30083>Archaeopress Publishing Ltd</rdamd:P30083>
+      <rdamd:P30011>[2016]</rdamd:P30011>
+      <rdamd:P30182>VI, 182 sider : illustrasjoner, kart ; 30 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>Archaeopress archaeology</rdamd:P30106>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/110145970341832252710/eksempeluri/exp/eng/1002/1014/1020"/>
+   </rdac:C10007>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/eng">
+      <rdfs:label>eng</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1049">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1049</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1002">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1002</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1014">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1014</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1020">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1020</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1007">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1007</skos:subjectIndicator>
+   </skos:Concept>
+</rdf:RDF>

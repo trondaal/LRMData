@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+    <marc:record>
+        <marc:leader>00966pam a2200289 a 4500</marc:leader>
+        <marc:controlfield tag="003">IeDuTC</marc:controlfield>
+        <marc:controlfield tag="005">20060511153801.0</marc:controlfield>
+        <marc:controlfield tag="008">050329s2005    enk    e      000 1 eng  </marc:controlfield>
+        <marc:datafield tag="015" ind1=" " ind2=" ">
+            <marc:subfield code="a">GBA548659</marc:subfield>
+            <marc:subfield code="2">bnb</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">StDuBDS</marc:subfield>
+            <marc:subfield code="b">eng</marc:subfield>
+            <marc:subfield code="c">StDuBDS</marc:subfield>
+            <marc:subfield code="d">Uk</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="1" ind2=" ">
+            <marc:subfield code="a">eng</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">ukblsr</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="0" ind2="4">
+            <marc:subfield code="a">823.914</marc:subfield>
+            <marc:subfield code="2">22</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Gaiman, Neil</marc:subfield>
+            <marc:subfield code="d">1960-</marc:subfield>
+            <marc:subfield code="4">aut</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/103859257</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1=" " ind2=" ">
+            <marc:subfield code="a">Anansi boys</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/310504431</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Anansi boys</marc:subfield>
+            <marc:subfield code="c">Neil Gaiman.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">London</marc:subfield>
+            <marc:subfield code="b">Review</marc:subfield>
+            <marc:subfield code="b">Review</marc:subfield>
+            <marc:subfield code="a">Oslo</marc:subfield>
+            <marc:subfield code="b">Review</marc:subfield>
+            <marc:subfield code="c">2005.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">348 pages</marc:subfield>
+            <marc:subfield code="c">24 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">555 pages ;</marc:subfield>
+            <marc:subfield code="c">24 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">xxx pages</marc:subfield>
+            <marc:subfield code="b">something else</marc:subfield>
+            <marc:subfield code="c">24 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
+            <marc:subfield code="b">txt</marc:subfield>
+            <marc:subfield code="2">rdacontent</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">unmediated</marc:subfield>
+            <marc:subfield code="b">n</marc:subfield>
+            <marc:subfield code="2">rdamedia</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">volume</marc:subfield>
+            <marc:subfield code="b">nc</marc:subfield>
+            <marc:subfield code="2">rdacarrier</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">Språkbasert verk</marc:subfield>
+            <marc:subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Formerly CIP.</marc:subfield>
+            <marc:subfield code="5">Uk.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Suspense fiction.</marc:subfield>
+            <marc:subfield code="2">gsafd.</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

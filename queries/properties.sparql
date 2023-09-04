@@ -1,0 +1,18 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdac: <http://rdaregistry.info/Elements/c/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdax: <http://rdaregistry.info/Elements/x/datatype/>
+select distinct ?entity ?label ?value WHERE {
+  	  ?entity ?property ?value.
+        ?entity rdf:type ?class.
+        ?class rdfs:subClassOf rdac:C10013.
+    	?property rdfs:label ?label.
+    	FILTER(LANG(?label) = "gden" && contains(str(?property), 'datatype')
+        && !contains(str(?property), 'P00018')
+    	&& !contains(str(?property), 'P10004')
+        && !contains(str(?property), 'P20006')
+        && !contains(str(?property), 'P20001')
+        && !contains(str(?property), 'P30001')
+    	&& !contains(str(?property), 'P30002'))
+}
+

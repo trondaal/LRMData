@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+    <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:rdac="http://rdaregistry.info/Elements/c/"
+        xmlns:rdaad="http://rdaregistry.info/Elements/a/datatype/"
+        xmlns:rdaao="http://rdaregistry.info/Elements/a/object/"
+        xmlns:rdawd="http://rdaregistry.info/Elements/w/datatype/"
+        xmlns:rdawo="http://rdaregistry.info/Elements/w/object/"
+        xmlns:rdaed="http://rdaregistry.info/Elements/e/datatype/"
+        xmlns:rdaeo="http://rdaregistry.info/Elements/e/object/"
+        xmlns:rdamd="http://rdaregistry.info/Elements/m/datatype/"
+        xmlns:rdamo="http://rdaregistry.info/Elements/m/object/"
+        xmlns:rdaxd="http://rdaregistry.info/Elements/x/datatype/"
+        xmlns:mads="http://www.loc.gov/mads/rdf/v1#" xmlns:mmmm="http://www.loc.gov/MARC21/slim/"
+        xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+        xmlns:rdaco="http://rdaregistry.info/termList/RDAContentType/"
+        xmlns:rdact="http://rdaregistry.info/termList/RDACarrierType/"
+        xmlns:rdamt="http://rdaregistry.info/termList/RDAMediaType/"
+        xmlns:rdat="http://rdaregistry.info/termList/"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#" id="http://viaf.org/viaf/293611582"
+        type="http://rdaregistry.info/Elements/c/C10001">
+        <marc:datafield tag="130" ind1="1" ind2="0">
+            <marc:subfield code="1" type="http://rdaregistry.info/Elements/x/datatype/P00018"
+                >http://viaf.org/viaf/293611582</marc:subfield>
+            <marc:subfield code="a" type="http://rdaregistry.info/Elements/w/datatype/P10088"
+                >Empire of the sun</marc:subfield>
+            <marc:subfield code="a" type="http://www.w3.org/2000/01/rdf-schema#label"
+                >Empire of the sun</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1="3" ind2=" ">
+            <marc:subfield code="a" type="http://rdaregistry.info/Elements/w/datatype/P10330"
+                >Jim es un niño inglés de familia acomodada que se pierde de sus padres cuando las tropas japonesas entran en Shanghai. Pocos días después es capturado y enviado a un campo de concentración donde vivirá casi cuatro años</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1="3" ind2=" ">
+            <marc:subfield code="a" type="http://rdaregistry.info/Elements/w/datatype/P10330"
+                >Cuando, en diciembre de 1941, el ejército japonés ocupa Shanghai, la privilegiada vida de James Graham, un niño inglés de clase alta, toca a su fin. Es separado de sus padres y confinado en un campo de concentración próximo a un aeropuerto militar chino</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a" type="http://rdaregistry.info/Elements/w/datatype/P10330"
+                >Following the attack on Pearl Harbor, young Jim Graham is sent to a Japanese concentration camp. In desperately brutal conditions he struggles to prevent his family and friends from dying, while keeping his hopes and heroic dreams alive. A powerful epic, drawn from the childhood experiences of author J.G. Ballard.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="730" ind1="1" ind2=" ">
+            <marc:subfield code="1" type="http://rdaregistry.info/Elements/x/datatype/P00018"
+                >http://viaf.org/viaf/293611582</marc:subfield>
+            <marc:subfield code="a" type="http://rdaregistry.info/Elements/w/datatype/P10088"
+                >Empire of the sun</marc:subfield>
+            <marc:subfield code="a" type="http://www.w3.org/2000/01/rdf-schema#label"
+                >Empire of the sun</marc:subfield>
+        </marc:datafield>
+        <frbrizer:relationship xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
+            type="http://rdaregistry.info/Elements/w/datatype/P10004"
+            href="https://schema.nb.no/Bibliographic/Values/V1002"/>
+        <frbrizer:relationship xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
+            type="http://rdaregistry.info/Elements/w/object/P10129"
+            href="http://viaf.org/viaf/180997771"/>
+        <frbrizer:relationship xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
+            type="http://rdaregistry.info/Elements/w/object/P10129*/"
+            href="http://viaf.org/viaf/180997771"/>
+    </marc:record>
+</marc:collection>

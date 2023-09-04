@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:map="http://www.w3.org/2005/xpath-functions/map"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:marc="http://www.loc.gov/MARC21/slim"
+         xmlns:rdac="http://rdaregistry.info/Elements/c/"
+         xmlns:rdaad="http://rdaregistry.info/Elements/a/datatype/"
+         xmlns:rdaao="http://rdaregistry.info/Elements/a/object/"
+         xmlns:rdawd="http://rdaregistry.info/Elements/w/datatype/"
+         xmlns:rdawo="http://rdaregistry.info/Elements/w/object/"
+         xmlns:rdaed="http://rdaregistry.info/Elements/e/datatype/"
+         xmlns:rdaeo="http://rdaregistry.info/Elements/e/object/"
+         xmlns:rdamd="http://rdaregistry.info/Elements/m/datatype/"
+         xmlns:rdamo="http://rdaregistry.info/Elements/m/object/"
+         xmlns:rdaxd="http://rdaregistry.info/Elements/x/datatype/"
+         xmlns:mads="http://www.loc.gov/mads/rdf/v1#"
+         xmlns:mmmm="http://www.loc.gov/MARC21/slim/"
+         xmlns:rdaco="http://rdaregistry.info/termList/RDAContentType/"
+         xmlns:rdact="http://rdaregistry.info/termList/RDACarrierType/"
+         xmlns:rdamt="http://rdaregistry.info/termList/RDAMediaType/"
+         xmlns:rdat="http://rdaregistry.info/termList/"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/191146462599827770953">
+      <rdaxd:P00018>http://viaf.org/viaf/191146462599827770953</rdaxd:P00018>
+      <rdawd:P10088>Men Livet lever</rdawd:P10088>
+      <rdfs:label>Men Livet lever</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/206863699">
+      <rdaxd:P00018>http://viaf.org/viaf/206863699</rdaxd:P00018>
+      <rdawd:P10088>Mysterier</rdawd:P10088>
+      <rdfs:label>Mysterier</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/315057230">
+      <rdaxd:P00018>http://viaf.org/viaf/315057230</rdaxd:P00018>
+      <rdawd:P10088>Hamsun: sværmer og erobrer</rdawd:P10088>
+      <rdfs:label>Hamsun: sværmer og erobrer</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/49458459"/>
+      <rdawo:P10319 rdf:resource="http://viaf.org/viaf/59083692"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/315057230/1">
+      <rdaxd:P00018>http://viaf.org/viaf/315057230/1</rdaxd:P00018>
+      <rdawd:P10088>Svermeren</rdawd:P10088>
+      <rdfs:label>Svermeren</rdfs:label>
+      <rdawo:P10019 rdf:resource="http://viaf.org/viaf/315057230"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/49458459"/>
+      <rdawo:P10319 rdf:resource="http://viaf.org/viaf/59083692"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/315057230/2">
+      <rdaxd:P00018>http://viaf.org/viaf/315057230/2</rdaxd:P00018>
+      <rdawd:P10088>Erobreren</rdawd:P10088>
+      <rdfs:label>Erobreren</rdfs:label>
+      <rdawo:P10019 rdf:resource="http://viaf.org/viaf/315057230"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/49458459"/>
+      <rdawo:P10319 rdf:resource="http://viaf.org/viaf/59083692"/>
+   </rdac:C10001>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/100856812">
+      <rdaxd:P00018>http://viaf.org/viaf/100856812</rdaxd:P00018>
+      <rdaad:P50385>Haefs, Gabriele</rdaad:P50385>
+      <rdfs:label>Haefs, Gabriele</rdfs:label>
+      <rdaad:P50339>1953-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/102784385">
+      <rdaxd:P00018>http://viaf.org/viaf/102784385</rdaxd:P00018>
+      <rdaad:P50385>Fastrup, Karen</rdaad:P50385>
+      <rdfs:label>Fastrup, Karen</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/102807285">
+      <rdaxd:P00018>http://viaf.org/viaf/102807285</rdaxd:P00018>
+      <rdaad:P50385>Lyngsø, Niels</rdaad:P50385>
+      <rdfs:label>Lyngsø, Niels</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/103145970087532250913">
+      <rdaxd:P00018>http://viaf.org/viaf/103145970087532250913</rdaxd:P00018>
+      <rdaad:P50385>Pankratova, Eleonora</rdaad:P50385>
+      <rdfs:label>Pankratova, Eleonora</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/17645971">
+      <rdaxd:P00018>http://viaf.org/viaf/17645971</rdaxd:P00018>
+      <rdaad:P50385>Kvandal, Johan</rdaad:P50385>
+      <rdfs:label>Kvandal, Johan</rdfs:label>
+      <rdaad:P50339>1919-1999</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/19129035">
+      <rdaxd:P00018>http://viaf.org/viaf/19129035</rdaxd:P00018>
+      <rdaad:P50385>Skuggevik, Erik</rdaad:P50385>
+      <rdfs:label>Skuggevik, Erik</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/22141509">
+      <rdaxd:P00018>http://viaf.org/viaf/22141509</rdaxd:P00018>
+      <rdaad:P50385>Eydoux, Éric</rdaad:P50385>
+      <rdfs:label>Eydoux, Éric</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/286145258">
+      <rdaxd:P00018>http://viaf.org/viaf/286145258</rdaxd:P00018>
+      <rdaad:P50385>Lumet, Elvi</rdaad:P50385>
+      <rdfs:label>Lumet, Elvi</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/295290572">
+      <rdaxd:P00018>http://viaf.org/viaf/295290572</rdaxd:P00018>
+      <rdaad:P50385>Bjørnson, Bjørnstjerne</rdaad:P50385>
+      <rdfs:label>Bjørnson, Bjørnstjerne</rdfs:label>
+      <rdaad:P50339>1832-1910</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/305865982">
+      <rdaxd:P00018>http://viaf.org/viaf/305865982</rdaxd:P00018>
+      <rdaad:P50385>Armesto, Inés</rdaad:P50385>
+      <rdfs:label>Armesto, Inés</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/49458459">
+      <rdaxd:P00018>http://viaf.org/viaf/49458459</rdaxd:P00018>
+      <rdaad:P50385>Kolloen, Ingar Sletten</rdaad:P50385>
+      <rdfs:label>Kolloen, Ingar Sletten</rdfs:label>
+      <rdaad:P50339>1951-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/58153833158764330037">
+      <rdaxd:P00018>http://viaf.org/viaf/58153833158764330037</rdaxd:P00018>
+      <rdaad:P50385>Guigaitė, Agne</rdaad:P50385>
+      <rdfs:label>Guigaitė, Agne</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/59083692">
+      <rdaxd:P00018>http://viaf.org/viaf/59083692</rdaxd:P00018>
+      <rdaad:P50385>Hamsun, Knut</rdaad:P50385>
+      <rdfs:label>Hamsun, Knut</rdfs:label>
+      <rdaad:P50339>1859-1952</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/60725885">
+      <rdaxd:P00018>http://viaf.org/viaf/60725885</rdaxd:P00018>
+      <rdaad:P50385>Johannessen, Ola B</rdaad:P50385>
+      <rdfs:label>Johannessen, Ola B</rdfs:label>
+      <rdaad:P50339>1939-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/6164718151002092728">
+      <rdaxd:P00018>http://viaf.org/viaf/6164718151002092728</rdaxd:P00018>
+      <rdaad:P50385>Hamsun, Regine</rdaad:P50385>
+      <rdfs:label>Hamsun, Regine</rdfs:label>
+      <rdaad:P50339>1962-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/6840702">
+      <rdaxd:P00018>http://viaf.org/viaf/6840702</rdaxd:P00018>
+      <rdaad:P50385>Dawkin, Deborah</rdaad:P50385>
+      <rdfs:label>Dawkin, Deborah</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/86719522">
+      <rdaxd:P00018>http://viaf.org/viaf/86719522</rdaxd:P00018>
+      <rdaad:P50385>Cloetta, Anne-Lise</rdaad:P50385>
+      <rdfs:label>Cloetta, Anne-Lise</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/315057230/1/exp/nob/1020">
+      <rdaed:P20316>Svermeren</rdaed:P20316>
+      <rdaed:P20312>Hamsun</rdaed:P20312>
+      <rdfs:label>Hamsun / tekst</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/315057230/1"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/315057230/2/exp/nob/1020">
+      <rdaed:P20316>Erobreren</rdaed:P20316>
+      <rdaed:P20312>Hamsun</rdaed:P20312>
+      <rdfs:label>Hamsun / tekst</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/315057230/2"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/315057230/exp/chi/1020">
+      <rdaed:P20316>Hamsun: sværmer og erobrer</rdaed:P20316>
+      <rdaed:P20312>Hanmu zhuan</rdaed:P20312>
+      <rdfs:label>Hanmu zhuan / tekst</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/chi"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/315057230"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/315057230/exp/dan/1020/102784385/102807285">
+      <rdaed:P20316>Hamsun: sværmer og erobrer</rdaed:P20316>
+      <rdaed:P20312>Hamsun : sværmer og erobrer</rdaed:P20312>
+      <rdfs:label>Hamsun / tekst</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dan"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/102784385"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/102807285"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/315057230"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/315057230/exp/eng/1020/19129035/6840702">
+      <rdaed:P20316>Hamsun: sværmer og erobrer</rdaed:P20316>
+      <rdaed:P20312>Knut Hamsun : dreamer and dissenter</rdaed:P20312>
+      <rdfs:label>Knut Hamsun / tekst</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/6840702"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/19129035"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/315057230"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/315057230/exp/est/1020/286145258">
+      <rdaed:P20316>Hamsun: sværmer og erobrer</rdaed:P20316>
+      <rdaed:P20312>Kirjanik ja diktaator : Knut Hamsuni looming, elu ja aeg</rdaed:P20312>
+      <rdfs:label>Kirjanik ja diktaator / tekst</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/est"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/286145258"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/315057230"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/315057230/exp/fre/1020/22141509">
+      <rdaed:P20316>Hamsun: sværmer og erobrer</rdaed:P20316>
+      <rdaed:P20312>Knut Hamsun : rêveur et conquérant : biographie</rdaed:P20312>
+      <rdfs:label>Knut Hamsun / tekst</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/fre"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/22141509"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/315057230"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/315057230/exp/ger/1020/100856812">
+      <rdaed:P20316>Hamsun: sværmer og erobrer</rdaed:P20316>
+      <rdaed:P20312>Knut Hamsun : Schwärmer und Eroberer, Narzisst und Nobelpreisträger</rdaed:P20312>
+      <rdfs:label>Knut Hamsun / tekst</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/100856812"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/315057230"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/315057230/exp/lit/1020/58153833158764330037">
+      <rdaed:P20316>Hamsun: sværmer og erobrer</rdaed:P20316>
+      <rdaed:P20312>Hamsunas : svajotojas ir užkariautojas</rdaed:P20312>
+      <rdfs:label>Hamsunas / tekst</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/lit"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/58153833158764330037"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/315057230"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/315057230/exp/nob/1013/60725885">
+      <rdaed:P20316>Hamsun: sværmer og erobrer</rdaed:P20316>
+      <rdaed:P20312>Hamsun : svermer og erobrer</rdaed:P20312>
+      <rdfs:label>Hamsun / tale</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20022 rdf:resource="http://viaf.org/viaf/60725885"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/315057230"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/315057230/exp/nob/1020">
+      <rdaed:P20316>Hamsun: sværmer og erobrer</rdaed:P20316>
+      <rdaed:P20312>Hamsun : svermer og erobrer</rdaed:P20312>
+      <rdfs:label>Hamsun / tekst</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/315057230"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/315057230/exp/rus/1020/103145970087532250913">
+      <rdaed:P20316>Hamsun: sværmer og erobrer</rdaed:P20316>
+      <rdaed:P20312>Gamsun : mečtatel' i zavoevatel'</rdaed:P20312>
+      <rdfs:label>Gamsun / tekst</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/rus"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/103145970087532250913"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/315057230"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/315057230/exp/spa/1020/305865982/86719522">
+      <rdaed:P20316>Hamsun: sværmer og erobrer</rdaed:P20316>
+      <rdaed:P20312>Knut Hamsun : soñador y conquistador</rdaed:P20312>
+      <rdfs:label>Knut Hamsun / tekst</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/305865982"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/86719522"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/315057230"/>
+   </rdac:C10006>
+   <rdac:C10007 rdf:about="http://example.org/990917640764702202">
+      <rdamd:P30156>En personlighetsvurdering av Knut Hamsun</rdamd:P30156>
+      <rdamd:P30117>Sigmund Karterud og Ingar Sletten Kolloen</rdamd:P30117>
+      <rdamd:P30011>2003</rdamd:P30011>
+      <rdamd:P30111>, 2003.</rdamd:P30111>
+      <rdamd:P30182>S. [108]-119 : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30050>Samtiden (trykt utg.), Oslo : Aschehoug, 2003 nr 3.</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/990926355124702202">
+      <rdamd:P30156>Hamsuns kvinner</rdamd:P30156>
+      <rdamd:P30117>Ingar Sletten Kolloen</rdamd:P30117>
+      <rdamd:P30011>2004</rdamd:P30011>
+      <rdamd:P30111>, 2004.</rdamd:P30111>
+      <rdamd:P30182>S. 9-21.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30050>Hamsun[s] kvinner, Hamarøy : Hamsun-selskapet, 2004.</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/990926910564702202">
+      <rdamd:P30156>Et uunngåelig havari?</rdamd:P30156>
+      <rdamd:P30117>Ingar Sletten Kolloen</rdamd:P30117>
+      <rdamd:P30011>2002</rdamd:P30011>
+      <rdamd:P30111>, 2002.</rdamd:P30111>
+      <rdamd:P30182>S. 94-[111].</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30050>Hamsun-symposium, [Oslo] : Gyldendal, 2002.</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/990929821074702202">
+      <rdamd:P30156>Bjørnson og Hamsun - mester og arvtakeren</rdamd:P30156>
+      <rdamd:P30117>av Ingar Sletten Kolloen</rdamd:P30117>
+      <rdamd:P30011>2009</rdamd:P30011>
+      <rdamd:P30111>, 2009.</rdamd:P30111>
+      <rdamd:P30182>S. 81-91.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30050>Knut Hamsuns stier, [Oslo] : Forlag1, cop. 2009.</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/991123346524702202">
+      <rdamd:P30156>Nachwort</rdamd:P30156>
+      <rdamd:P30011>2011</rdamd:P30011>
+      <rdamd:P30111>, 2011.</rdamd:P30111>
+      <rdamd:P30182>S. [471]-474.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30050>Knut Hamsun, Berlin : Landt, 2011.</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/991133108704702202">
+      <rdamd:P30156>En personlighetsvurdering av Knut Hamsun</rdamd:P30156>
+      <rdamd:P30182>S.[108]-119.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30050>Samtiden (trykt utg.), Oslo : Aschehoug, 2003 : 3.</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/999920194294402202">
+      <rdamd:P30156>Hamsun-manus på auksjon i dag</rdamd:P30156>
+      <rdamd:P30117>Ingar Sletten Kolloen</rdamd:P30117>
+      <rdamd:P30182>S. 11.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30050>Aftenposten (morgenutg. : trykt utg.), 1987, 21/5.</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/999920194295902202">
+      <rdamd:P30156>Hamsun 77 år efter</rdamd:P30156>
+      <rdamd:P30142>Hamsuns barnebarn i vold</rdamd:P30142>
+      <rdamd:P30117>Ingar Sletten Kolloen</rdamd:P30117>
+      <rdamd:P30182>S. 1 : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30050>Aftenposten (morgenutg. : trykt utg.), 1987 nr. 526, 13/11.</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/999920194297002202">
+      <rdamd:P30156>Johan Kvandal om sin Hamsun-opera</rdamd:P30156>
+      <rdamd:P30142>Jeg leter efter det egentlige hos ham</rdamd:P30142>
+      <rdamd:P30117>Ingar Sletten Kolloen</rdamd:P30117>
+      <rdamd:P30182>S. 6.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8205300690">
+      <rdamd:P30004>ISBN 8205300690</rdamd:P30004>
+      <rdaxd:P00018>isbn-8205300690</rdaxd:P00018>
+      <rdfs:label>ISBN8205300690</rdfs:label>
+      <rdamd:P30004>ISBN 8252545297</rdamd:P30004>
+      <rdaxd:P00018>isbn-8252545297</rdaxd:P00018>
+      <rdfs:label>ISBN8252545297</rdfs:label>
+      <rdamd:P30156>Hamsun</rdamd:P30156>
+      <rdamd:P30014>[1]</rdamd:P30014>
+      <rdamd:P30134>Svermeren</rdamd:P30134>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Gyldendal, 2003.</rdamd:P30111>
+      <rdamd:P30083>Gyldendal</rdamd:P30083>
+      <rdamd:P30011>2003</rdamd:P30011>
+      <rdamd:P30182>494 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/315057230/1/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8205315914">
+      <rdamd:P30004>ISBN 8205315914</rdamd:P30004>
+      <rdaxd:P00018>isbn-8205315914</rdaxd:P00018>
+      <rdfs:label>ISBN8205315914</rdfs:label>
+      <rdamd:P30004>ISBN 8252558739</rdamd:P30004>
+      <rdaxd:P00018>isbn-8252558739</rdaxd:P00018>
+      <rdfs:label>ISBN8252558739</rdfs:label>
+      <rdamd:P30156>Hamsun</rdamd:P30156>
+      <rdamd:P30014>[2]</rdamd:P30014>
+      <rdamd:P30134>Erobreren</rdamd:P30134>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Gyldendal, 2004.</rdamd:P30111>
+      <rdamd:P30083>Gyldendal</rdamd:P30083>
+      <rdamd:P30011>2004</rdamd:P30011>
+      <rdamd:P30182>494 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/315057230/2/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8205343233">
+      <rdamd:P30004>ISBN 8205343233</rdamd:P30004>
+      <rdaxd:P00018>isbn-8205343233</rdaxd:P00018>
+      <rdfs:label>ISBN8205343233</rdfs:label>
+      <rdamd:P30156>Hamsun</rdamd:P30156>
+      <rdamd:P30134>Svermeren</rdamd:P30134>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Gyldendal, 2005.</rdamd:P30111>
+      <rdamd:P30083>Gyldendal</rdamd:P30083>
+      <rdamd:P30011>2005</rdamd:P30011>
+      <rdamd:P30182>494 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/315057230/1/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8205343241">
+      <rdamd:P30004>ISBN 8205343241</rdamd:P30004>
+      <rdaxd:P00018>isbn-8205343241</rdaxd:P00018>
+      <rdfs:label>ISBN8205343241</rdfs:label>
+      <rdamd:P30156>Hamsun</rdamd:P30156>
+      <rdamd:P30134>Erobreren</rdamd:P30134>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Gyldendal, 2005.</rdamd:P30111>
+      <rdamd:P30083>Gyldendal</rdamd:P30083>
+      <rdamd:P30011>2005</rdamd:P30011>
+      <rdamd:P30182>494 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/315057230/2/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8205343403">
+      <rdamd:P30004>ISBN 8205343403</rdamd:P30004>
+      <rdaxd:P00018>isbn-8205343403</rdaxd:P00018>
+      <rdfs:label>ISBN8205343403</rdfs:label>
+      <rdamd:P30156>Hamsun</rdamd:P30156>
+      <rdamd:P30134>Svermeren</rdamd:P30134>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Gyldendal, 2005.</rdamd:P30111>
+      <rdamd:P30083>Gyldendal</rdamd:P30083>
+      <rdamd:P30011>2005</rdamd:P30011>
+      <rdamd:P30182>494 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/315057230/1/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8205343411">
+      <rdamd:P30004>ISBN 8205343411</rdamd:P30004>
+      <rdaxd:P00018>isbn-8205343411</rdaxd:P00018>
+      <rdfs:label>ISBN8205343411</rdfs:label>
+      <rdamd:P30156>Hamsun</rdamd:P30156>
+      <rdamd:P30134>Erobreren</rdamd:P30134>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Gyldendal, 2005.</rdamd:P30111>
+      <rdamd:P30083>Gyldendal</rdamd:P30083>
+      <rdamd:P30011>2005</rdamd:P30011>
+      <rdamd:P30182>494 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/315057230/2/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8702044080">
+      <rdamd:P30004>ISBN 8702044080</rdamd:P30004>
+      <rdaxd:P00018>isbn-8702044080</rdaxd:P00018>
+      <rdfs:label>ISBN8702044080</rdfs:label>
+      <rdamd:P30004>ISBN 9788702044089</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788702044089</rdaxd:P00018>
+      <rdfs:label>ISBN9788702044089</rdfs:label>
+      <rdamd:P30156>Hamsun</rdamd:P30156>
+      <rdamd:P30142>sværmer og erobrer</rdamd:P30142>
+      <rdamd:P30117>Ingar Sletten Kolloen ; på dansk ved Niels Lyngsø og Karen Fastrup</rdamd:P30117>
+      <rdamd:P30088>[København]</rdamd:P30088>
+      <rdamd:P30111>[København] : Gyldendal, 2007.</rdamd:P30111>
+      <rdamd:P30083>Gyldendal</rdamd:P30083>
+      <rdamd:P30011>2007</rdamd:P30011>
+      <rdamd:P30182>550 s. : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/315057230/exp/dan/1020/102784385/102807285"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9780300123562">
+      <rdamd:P30004>ISBN 9780300123562</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780300123562</rdaxd:P00018>
+      <rdfs:label>ISBN9780300123562</rdfs:label>
+      <rdamd:P30156>Knut Hamsun</rdamd:P30156>
+      <rdamd:P30142>dreamer and dissenter</rdamd:P30142>
+      <rdamd:P30117>Ingar Sletten Kolloen ; translated by Deborah Dawkin and Erik Skuggevik</rdamd:P30117>
+      <rdamd:P30088>New Haven, Conn</rdamd:P30088>
+      <rdamd:P30111>New Haven, Conn. : Yale University Press, 2009.</rdamd:P30111>
+      <rdamd:P30083>Yale University Press</rdamd:P30083>
+      <rdamd:P30011>2009</rdamd:P30011>
+      <rdamd:P30182>XII, 378 s., pl. : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/315057230/exp/eng/1020/19129035/6840702"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9782847201581">
+      <rdamd:P30004>ISBN 9782847201581</rdamd:P30004>
+      <rdaxd:P00018>isbn-9782847201581</rdaxd:P00018>
+      <rdfs:label>ISBN9782847201581</rdfs:label>
+      <rdamd:P30156>Knut Hamsun</rdamd:P30156>
+      <rdamd:P30142>rêveur et conquérant : biographie</rdamd:P30142>
+      <rdamd:P30117>Ingar Sletten Kolloen ; traduit du norvégien par Éric Eydoux</rdamd:P30117>
+      <rdamd:P30088>Montfort-en-Chalosse</rdamd:P30088>
+      <rdamd:P30111>Montfort-en-Chalosse : Gaïa, 2010.</rdamd:P30111>
+      <rdamd:P30083>Gaïa</rdamd:P30083>
+      <rdamd:P30011>2010</rdamd:P30011>
+      <rdamd:P30182>749 s., pl. : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/315057230/exp/fre/1020/22141509"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9783938844151">
+      <rdamd:P30004>ISBN 9783938844151</rdamd:P30004>
+      <rdaxd:P00018>isbn-9783938844151</rdaxd:P00018>
+      <rdfs:label>ISBN9783938844151</rdfs:label>
+      <rdamd:P30156>Knut Hamsun</rdamd:P30156>
+      <rdamd:P30142>Schwärmer und Eroberer, Narzisst und Nobelpreisträger</rdamd:P30142>
+      <rdamd:P30117>Ingar Sletten Kolloen ; aus dem Norwegischen übertragen von Gabriele Haefs</rdamd:P30117>
+      <rdamd:P30088>Berlin</rdamd:P30088>
+      <rdamd:P30111>Berlin : Landt, 2011.</rdamd:P30111>
+      <rdamd:P30083>Landt</rdamd:P30083>
+      <rdamd:P30011>2011</rdamd:P30011>
+      <rdamd:P30182>492 s. : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/315057230/exp/ger/1020/100856812"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9785933812906">
+      <rdamd:P30004>ISBN 9785933812906</rdamd:P30004>
+      <rdaxd:P00018>isbn-9785933812906</rdaxd:P00018>
+      <rdfs:label>ISBN9785933812906</rdfs:label>
+      <rdamd:P30004>ISBN 9785942825867</rdamd:P30004>
+      <rdaxd:P00018>isbn-9785942825867</rdaxd:P00018>
+      <rdfs:label>ISBN9785942825867</rdfs:label>
+      <rdamd:P30156>Gamsun</rdamd:P30156>
+      <rdamd:P30142>mečtatel' i zavoevatel'</rdamd:P30142>
+      <rdamd:P30117>Ingvar Sletten Kolloen ; perevod s norvežskogo pod redakciej Eleonory Pankratovoj</rdamd:P30117>
+      <rdamd:P30088>Moskva</rdamd:P30088>
+      <rdamd:P30111>Moskva : OGI : B.S.G.-Press, 2010.</rdamd:P30111>
+      <rdamd:P30083>OGI</rdamd:P30083>
+      <rdamd:P30083>B.S.G.-Press</rdamd:P30083>
+      <rdamd:P30011>2010</rdamd:P30011>
+      <rdamd:P30182>639 s., pl. : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/315057230/exp/rus/1020/103145970087532250913"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9787020084098">
+      <rdamd:P30004>ISBN 9787020084098</rdamd:P30004>
+      <rdaxd:P00018>isbn-9787020084098</rdaxd:P00018>
+      <rdfs:label>ISBN9787020084098</rdfs:label>
+      <rdamd:P30156>Hanmu zhuan</rdamd:P30156>
+      <rdamd:P30117>Kelun ; Wang yiguo yi</rdamd:P30117>
+      <rdamd:P30088>Beijing</rdamd:P30088>
+      <rdamd:P30111>Beijing : Renmin wenxue chubanshe, 2010.</rdamd:P30111>
+      <rdamd:P30083>Renmin wenxue chubanshe</rdamd:P30083>
+      <rdamd:P30011>2010</rdamd:P30011>
+      <rdamd:P30182>487 s., pl. : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/315057230/exp/chi/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788205390461">
+      <rdamd:P30004>ISBN 9788205390461</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788205390461</rdaxd:P00018>
+      <rdfs:label>ISBN9788205390461</rdfs:label>
+      <rdamd:P30156>Hamsun</rdamd:P30156>
+      <rdamd:P30142>svermer og erobrer</rdamd:P30142>
+      <rdamd:P30117>Ingar Sletten Kolloen</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Gyldendal, 2009.</rdamd:P30111>
+      <rdamd:P30083>Gyldendal</rdamd:P30083>
+      <rdamd:P30011>2009</rdamd:P30011>
+      <rdamd:P30182>428 s. : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/315057230/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788242122681">
+      <rdamd:P30004>ISBN 9788242122681</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788242122681</rdaxd:P00018>
+      <rdfs:label>ISBN9788242122681</rdfs:label>
+      <rdamd:P30156>Hamsun</rdamd:P30156>
+      <rdamd:P30142>svermer og erobrer</rdamd:P30142>
+      <rdamd:P30117>Ingar Sletten Kolloen</rdamd:P30117>
+      <rdamd:P30088>[Melhus]</rdamd:P30088>
+      <rdamd:P30111>[Melhus] : Lydbokforl., 2007.</rdamd:P30111>
+      <rdamd:P30083>Lydbokforl</rdamd:P30083>
+      <rdamd:P30011>2007</rdamd:P30011>
+      <rdamd:P30182>17 plater (CD) (20 t, 35 min) : digital ; 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1013</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1013"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/315057230/exp/nob/1013/60725885"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788492683123">
+      <rdamd:P30004>ISBN 9788492683123</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788492683123</rdaxd:P00018>
+      <rdfs:label>ISBN9788492683123</rdfs:label>
+      <rdamd:P30156>Knut Hamsun</rdamd:P30156>
+      <rdamd:P30142>soñador y conquistador</rdamd:P30142>
+      <rdamd:P30117>Ingar Sletten Kolloen ; traducción Anne-Lise Cloetta e Inés Armesto</rdamd:P30117>
+      <rdamd:P30088>Madrid</rdamd:P30088>
+      <rdamd:P30111>Madrid : Nordica libros, 2009.</rdamd:P30111>
+      <rdamd:P30083>Nordica libros</rdamd:P30083>
+      <rdamd:P30011>2009</rdamd:P30011>
+      <rdamd:P30182>597 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>Letras nórdicas</rdamd:P30106>
+      <rdamd:P30165>14</rdamd:P30165>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/315057230/exp/spa/1020/305865982/86719522"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789955164739">
+      <rdamd:P30004>ISBN 9789955164739</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789955164739</rdaxd:P00018>
+      <rdfs:label>ISBN9789955164739</rdfs:label>
+      <rdamd:P30156>Hamsunas</rdamd:P30156>
+      <rdamd:P30142>svajotojas ir užkariautojas</rdamd:P30142>
+      <rdamd:P30117>Ingar Sletten Kolloen ; iš norvegu̢ kalbos vertė Agnė Guigaitė</rdamd:P30117>
+      <rdamd:P30088>Vilnius</rdamd:P30088>
+      <rdamd:P30111>Vilnius : Gimtasis žodis, cop. 2013.</rdamd:P30111>
+      <rdamd:P30083>Gimtasis žodis</rdamd:P30083>
+      <rdamd:P30011>cop. 2013</rdamd:P30011>
+      <rdamd:P30182>574 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/315057230/exp/lit/1020/58153833158764330037"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789985655979">
+      <rdamd:P30004>ISBN 9789985655979</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789985655979</rdaxd:P00018>
+      <rdfs:label>ISBN9789985655979</rdfs:label>
+      <rdamd:P30156>Kirjanik ja diktaator</rdamd:P30156>
+      <rdamd:P30142>Knut Hamsuni looming, elu ja aeg</rdamd:P30142>
+      <rdamd:P30117>Ingar Sletten Kolloen ; tõlkinud Elvi Lumet</rdamd:P30117>
+      <rdamd:P30088>Tallinn</rdamd:P30088>
+      <rdamd:P30111>Tallinn : Eesti Raamat, cop. 2007.</rdamd:P30111>
+      <rdamd:P30083>Eesti Raamat</rdamd:P30083>
+      <rdamd:P30011>cop. 2007</rdamd:P30011>
+      <rdamd:P30182>461 s. : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/315057230/exp/est/1020/286145258"/>
+   </rdac:C10007>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/chi">
+      <rdfs:label>chi</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/dan">
+      <rdfs:label>dan</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/eng">
+      <rdfs:label>eng</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/est">
+      <rdfs:label>est</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/fre">
+      <rdfs:label>fre</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/ger">
+      <rdfs:label>ger</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/lit">
+      <rdfs:label>lit</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/nob">
+      <rdfs:label>nob</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/rus">
+      <rdfs:label>rus</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/spa">
+      <rdfs:label>spa</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1013">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1013</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1049">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1049</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1013">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1013</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1020">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1020</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1001">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1001</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1007">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1007</skos:subjectIndicator>
+   </skos:Concept>
+</rdf:RDF>

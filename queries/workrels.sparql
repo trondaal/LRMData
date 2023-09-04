@@ -1,0 +1,23 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdac: <http://rdaregistry.info/Elements/c/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdae: <http://rdaregistry.info/Elements/e/object/>
+prefix rdaw: <http://rdaregistry.info/Elements/w/object/>
+prefix rdax: <http://rdaregistry.info/Elements/x/object/>
+#excluding subject relationships, part of
+
+select distinct ?s ?p ?l ?o WHERE {
+  	            ?s ?p ?o.
+                ?s rdf:type rdac:C10001.
+                ?o rdf:type rdac:C10001.
+    	        ?p rdfs:label ?l.
+    	        FILTER(LANG(?l) = "en" &&
+                (!contains(str(?p),   'P10187')
+    	        && !contains(str(?p), 'P10140')
+                && !contains(str(?p), 'P10257')
+                && !contains(str(?p), 'P10319')
+                && !contains(str(?p), 'P10010')
+        		&& !contains(str(?p), 'P10019'))
+        
+        )
+}order by ?l

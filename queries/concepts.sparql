@@ -1,0 +1,13 @@
+PREFIX rdawd: <http://rdaregistry.info/Elements/w/datatype/>
+PREFIX rdamd: <http://rdaregistry.info/Elements/m/datatype/>
+PREFIX rdaed: <http://rdaregistry.info/Elements/e/datatype/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+select distinct ?concept ?label WHERE {
+    ?entity (rdawd:P10004|rdamd:P30002|rdamd:P30001|rdaed:P20006|rdaed:P20065|rdaed:P20001) ?concept.
+        ?concept skos:prefLabel ?label.
+    	?concept rdf:type ?t.
+        ?t rdf:subType* skos:Concept.
+        FILTER(LANG(?label) = "gden")
+}order by asc(?concept)

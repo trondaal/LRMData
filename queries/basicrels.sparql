@@ -1,0 +1,13 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdac: <http://rdaregistry.info/Elements/c/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdaeo: <http://rdaregistry.info/Elements/e/object/>
+PREFIX rdamo: <http://rdaregistry.info/Elements/m/object/>
+
+PREFIX rdaed: <http://rdaregistry.info/Elements/e/datatype/>
+select distinct   ?s ?l ?o WHERE {
+    			  ?s ?p ?o .
+    			  ?p rdfs:label ?l.
+    FILTER ((?p = rdamo:P30139 || ?p = rdaeo:P20231)  && LANG(?l) = "gden")
+}
+

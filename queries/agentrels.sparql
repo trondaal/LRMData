@@ -1,0 +1,16 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdac: <http://rdaregistry.info/Elements/c/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdae: <http://rdaregistry.info/Elements/e/object/>
+prefix rdaw: <http://rdaregistry.info/Elements/w/object/>
+prefix rdax: <http://rdaregistry.info/Elements/x/object/>
+#excluding subject relationships
+
+select distinct ?s ?p ?l ?o WHERE {
+  	  ?s ?p ?o.
+        ?s rdf:type ?class.
+        ?class rdfs:subClassOf rdac:C10013.
+    	?p rdfs:subPropertyOf* rdax:P00006.
+    	?p rdfs:label ?l.
+    	FILTER(LANG(?l) = "gden" && contains(str(?p), 'object') && !contains(str(?p), 'P10319'))
+}

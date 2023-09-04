@@ -1,0 +1,584 @@
+{
+  "head" : {
+    "vars" : [
+      "s",
+      "p",
+      "l",
+      "o"
+    ]
+  },
+  "results" : {
+    "bindings" : [
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/179547589"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10129"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "is motion picture adaptation of work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/179309327"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/bluesteyedramatization"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10127"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "is dramatization of work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/199028164"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/5144152381783001950000"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10226"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "is continuation of work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/13146332821318731404"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/5144152381783001950000"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10191"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "is continued by work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/4028158070673708780004"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/Drommen_om_et_tre"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10226"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "is continuation of work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/4028158070673708780004"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/4028158070673708780004"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10264"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "is subject work of"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/Skriver_der_det_brenner"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "https://ui.eidr.org/view/content?id=10.5240/A228-BAC1-802E-657E-0C19-Q"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10127"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "is dramatization of work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/4057158491035711920008"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/13146332821318731404"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10191"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "is continued by work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/5144152381783001950000"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/4028158070673708780004"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10226"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "is continuation of work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/5144152381783001950000"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/4028158070673708780004"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10191"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "is continued by work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/Drommen_om_et_tre"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://www.wikidata.org/entity/Q1130034"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10251"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "is adapted as graphic novel work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/Kvitebjorn"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/Kvitebjorn"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10252"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "is graphic novelization of work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://www.wikidata.org/entity/Q1130034"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "https://ui.eidr.org/view/content?id=10.5240/57B5-6C08-A02E-B626-6042-H"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10127"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "is dramatization of work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "https://www.wikidata.org/wiki/Q112127177"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/6120153834760464450008"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10290"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "is inspired by"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/2304161819210527960001"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "https://www.imdb.com/title/tt1614989"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10129"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "is motion picture adaptation of work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/2490154501856639210005"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "https://www.imdb.com/title/tt5057300"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10129"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "is motion picture adaptation of work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/310491475"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "https://www.imdb.com/title/tt2835494"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10129"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "is motion picture adaptation of work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/312386681"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/312386681/teatermanus"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10133"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "is screenplay based on work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/312386681"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/284399371/degaleshus"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10129"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "is motion picture adaptation of work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://www.wikidata.org/entity/Q17979279"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://wikidata.org/wiki/Q1766342"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10129"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "is motion picture adaptation of work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://www.wikidata.org/entity/Q5688989"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/180610197"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10142"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "is adaptation of work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/185456521"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/kubricks-clock-book"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10142"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "is adaptation of work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/185456521"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://www.wikidata.org/entity/Q107089140"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10142"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "is adaptation of work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/185456521"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/1120152865726504940006"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10122"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "has prequel work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/308006238"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/cyrano"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10142"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "is adaptation of work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/177423809"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/308006238"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10020"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "has sequel work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/1120152865726504940006"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/308055543"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10122"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "has prequel work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/1324145424618186830799"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/308582315"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10122"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "has prequel work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/308055543"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/1324145424618186830799"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10020"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "has sequel work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/308055543"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/308055543"
+        },
+        "p" : {
+          "type" : "uri",
+          "value" : "http://rdaregistry.info/Elements/w/object/P10020"
+        },
+        "l" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "has sequel work"
+        },
+        "o" : {
+          "type" : "uri",
+          "value" : "http://viaf.org/viaf/308582315"
+        }
+      }
+    ]
+  }
+}

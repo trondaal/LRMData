@@ -1,0 +1,13 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdac: <http://rdaregistry.info/Elements/c/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdae: <http://rdaregistry.info/Elements/e/object/>
+prefix rdaw: <http://rdaregistry.info/Elements/w/object/>
+prefix rdax: <http://rdaregistry.info/Elements/x/object/>
+
+select distinct ?s ?p ?l ?o WHERE {
+  	    ?s ?p ?o.
+        ?s rdf:type rdac:C10001.
+    	?p rdfs:subPropertyOf* rdaw:P10019.
+    	?p rdfs:label ?l.
+}
