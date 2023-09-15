@@ -1,10 +1,10 @@
 #!/bin/sh
 
 echo "Creating xslt conversion for lrm"
-java -cp "../../marc2entities/jar/saxon/saxon9he.jar"  net.sf.saxon.Transform -xsl:"../..//marc2entities/xslt/make.xslt" -s:"conversionrules.xml" -o:"marc2lrm.xslt"
+java -cp "../marc2entities/jar/saxon/saxon9he.jar"  net.sf.saxon.Transform -xsl:"../marc2entities/xslt/make.xslt" -s:"conversionrules.xml" -o:"marc2lrm.xslt"
 
 echo "Running transformation and reports for all"
-FILES="./xml/ballard.xml"
+FILES="./xml/LordOfTheRings.xml"
 for f in $FILES
 do
     base="${f##*/}"

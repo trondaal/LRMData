@@ -6,7 +6,9 @@ prefix rdaw: <http://rdaregistry.info/Elements/w/object/>
 prefix rdax: <http://rdaregistry.info/Elements/x/object/>
 #excluding subject relationships
 
-select distinct ?s ?p ?l ?o WHERE {
+select distinct ?s ?p ?l ?o
+	FROM DEFAULT
+	WHERE {
   	  ?s ?p ?o.
         ?s rdf:type ?class.
         ?class rdfs:subClassOf rdac:C10013.

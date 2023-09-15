@@ -110,8 +110,8 @@ RETURN rel;
 WITH "labels.json" AS url
 CALL apoc.load.json(url) YIELD value
 UNWIND value.results.bindings AS e
-WITH e.entity.value as e, e.label.value as l
-MERGE (x:Resource {uri: e})
+WITH e.subject.value as s, e.label.value as l
+MERGE (x:Resource {uri: s})
 WITH x, l
 CALL apoc.create.setProperty(x, "label", l)
 YIELD node

@@ -1,0 +1,13 @@
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdac: <http://rdaregistry.info/Elements/c/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+select distinct ?s ?p ?l ?o
+                FROM DEFAULT
+                WHERE {
+  	            ?s ?p ?o.
+                ?s rdf:type rdac:C10006.
+                ?o rdf:type rdac:C10006.
+    	        ?p rdfs:label ?l.
+    	        FILTER(LANG(?l) = "en")
+}order by ?l

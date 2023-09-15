@@ -1,8 +1,11 @@
+#Data properties
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX rdac: <http://rdaregistry.info/Elements/c/>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdax: <http://rdaregistry.info/Elements/x/datatype/>
-select distinct ?entity ?label ?value WHERE {
+select distinct ?entity ?label ?value
+    FROM DEFAULT
+    WHERE {
   	  ?entity ?property ?value.
         ?entity rdf:type ?class.
         ?class rdfs:subClassOf rdac:C10013.
@@ -15,4 +18,3 @@ select distinct ?entity ?label ?value WHERE {
         && !contains(str(?property), 'P30001')
     	&& !contains(str(?property), 'P30002'))
 }
-

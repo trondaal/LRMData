@@ -1,0 +1,111 @@
+{
+    "head": {
+        "vars": [
+            "concept",
+            "label"
+        ]
+    },
+    "results": {
+        "bindings": [
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "English"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1004"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Audio disc"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1049"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Volume"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1014"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Illustrations"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Text"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1001"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Audio"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1007"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Unmediated"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "https://schema.nb.no/Bibliographic/Values/V1000"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Language-based"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "https://schema.nb.no/Bibliographic/Values/V1008"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Composite"
+                }
+            }
+        ]
+    }
+}
