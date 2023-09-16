@@ -21,6 +21,17 @@
             {
                 "concept": {
                     "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/nob"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Norwegian"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
                     "value": "http://rdaregistry.info/termList/RDACarrierType/1004"
                 },
                 "label": {
@@ -38,6 +49,17 @@
                     "xml:lang": "gden",
                     "type": "literal",
                     "value": "Volume"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1013"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Audio book"
                 }
             },
             {
@@ -93,17 +115,6 @@
                     "xml:lang": "gden",
                     "type": "literal",
                     "value": "Language-based"
-                }
-            },
-            {
-                "concept": {
-                    "type": "uri",
-                    "value": "https://schema.nb.no/Bibliographic/Values/V1008"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Composite"
                 }
             }
         ]

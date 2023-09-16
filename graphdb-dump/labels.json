@@ -24,6 +24,16 @@
                 },
                 "label": {
                     "type": "literal",
+                    "value": "The Lord of the rings (Tolkien, J. R. R.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q15228"
+                },
+                "label": {
+                    "type": "literal",
                     "value": "Lord of the rings"
                 }
             },
@@ -44,7 +54,7 @@
                 },
                 "label": {
                     "type": "literal",
-                    "value": "The Fellowship of the ring (Tolkien, J. R. R.)"
+                    "value": "Fellowship of the ring (Tolkien, J. R. R.)"
                 }
             },
             {
@@ -54,17 +64,7 @@
                 },
                 "label": {
                     "type": "literal",
-                    "value": "Fellowship of the ring (Tolkien, J. R. R.)"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q332388"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "The Two towers (Tolkien, J. R. R.)"
+                    "value": "The fellowship of the ring (Tolkien, J.R.R.)"
                 }
             },
             {
@@ -75,6 +75,16 @@
                 "label": {
                     "type": "literal",
                     "value": "Two towers (Tolkien, J. R. R.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q332388"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "The two towers (Tolkien, J.R.R.)"
                 }
             },
             {
@@ -114,7 +124,7 @@
                 },
                 "label": {
                     "type": "literal",
-                    "value": "The Hobbit & Lord of the rings (Tolkien, J. R. R.)"
+                    "value": "The Hobbit ; Lord of the rings (Tolkien, J. R. R.)"
                 }
             },
             {
@@ -240,6 +250,26 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/35315716"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Fraser, Eric"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/49263415"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Grathmer, Ingahild"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/9014152502908610800009/exp/eng/1020"
                 },
                 "label": {
@@ -250,11 +280,21 @@
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q15228/exp/eng/1020"
+                    "value": "http://viaf.org/viaf/9014152502908610800009/exp/eng/1020"
                 },
                 "label": {
                     "type": "literal",
-                    "value": "The lord of the rings / eng / text"
+                    "value": "Lord of the rings : a reader's companion / eng / text"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/95218067/exp/nob/1013/24701800/65245833"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Ringenes herre III / nob / spoken word"
                 }
             },
             {
@@ -264,7 +304,7 @@
                 },
                 "label": {
                     "type": "literal",
-                    "value": "Lord of the rings / eng / text"
+                    "value": "The lord of the rings / eng / text"
                 }
             },
             {
@@ -330,6 +370,26 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q208002/exp/nob/1013/24701800/65245833"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Ringenes herre I / nob / spoken word"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q332388/exp/nob/1013/24701800/65245833"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Ringenes herre II / nob / spoken word"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q74287/exp/eng/1014/1020/102370266/85751968"
                 },
                 "label": {
@@ -360,27 +420,7 @@
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/9014152502908610800009/exp"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Lord of the rings : a reader's companion / eng / text"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/95218067/exp"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Ringenes herre III / nob / spoken word"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q15228/companioned/exp"
+                    "value": "http://www.wikidata.org/entity/Q15228/companioned/exp/eng/1020"
                 },
                 "label": {
                     "type": "literal",
@@ -390,7 +430,7 @@
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q15228/exp"
+                    "value": "http://www.wikidata.org/entity/Q15228/exp/nob/1020/65245833"
                 },
                 "label": {
                     "type": "literal",
@@ -400,17 +440,7 @@
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q208002/exp"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Ringenes herre I / nob / spoken word"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q208002/exp"
+                    "value": "http://www.wikidata.org/entity/Q208002/exp/nob/1020/65245833"
                 },
                 "label": {
                     "type": "literal",
@@ -420,17 +450,7 @@
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q332388/exp"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Ringenes herre II / nob / spoken word"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q332388/exp"
+                    "value": "http://www.wikidata.org/entity/Q332388/exp/nob/1020/65245833"
                 },
                 "label": {
                     "type": "literal",
@@ -440,7 +460,7 @@
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q332581/exp"
+                    "value": "http://www.wikidata.org/entity/Q332581/exp/nob/1020/65245833"
                 },
                 "label": {
                     "type": "literal",
@@ -450,7 +470,7 @@
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q15228/extended/exp"
+                    "value": "http://www.wikidata.org/entity/Q15228/extended/exp/eng/1020"
                 },
                 "label": {
                     "type": "literal",
@@ -460,17 +480,7 @@
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q15228/extended/exp"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "The hobbit ; / eng / text"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q15228/extended/exp"
+                    "value": "http://www.wikidata.org/entity/Q15228/extended/exp/eng/1020"
                 },
                 "label": {
                     "type": "literal",
@@ -550,36 +560,6 @@
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://example.org/isbn-02611023541"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "ISBN0261102354 (Part1)"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-02611023541"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "ISBN0261102362 (Part2)"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-02611023541"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "ISBN0261102370 (Part3)"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
                     "value": "http://example.org/isbn-8278441618"
                 },
                 "label": {
@@ -605,16 +585,6 @@
                 "label": {
                     "type": "literal",
                     "value": "ISBN8278441634"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-9780007509843"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "ISBN9780007509843 (set : pbk.)"
                 }
             },
             {
@@ -665,36 +635,6 @@
                 "label": {
                     "type": "literal",
                     "value": "ISBN9780008537807"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-9780008537807"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "ISBN0008537801"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-9780008537807"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "ISBN9780008537753"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-9780008537807"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "ISBN0008537755"
                 }
             },
             {

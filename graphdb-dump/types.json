@@ -31,6 +31,25 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/95218067/exp/nob/1013/24701800/65245833"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1013"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q15228/exp/eng/1020"
                 },
                 "p": {
@@ -102,6 +121,44 @@
                 "o": {
                     "type": "uri",
                     "value": "http://rdaregistry.info/termList/RDAContentType/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q208002/exp/nob/1013/24701800/65245833"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1013"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q332388/exp/nob/1013/24701800/65245833"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1013"
                 }
             },
             {
@@ -164,6 +221,120 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q15228/companioned/exp/eng/1020"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q15228/exp/nob/1020/65245833"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q208002/exp/nob/1020/65245833"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q332388/exp/nob/1020/65245833"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q332581/exp/nob/1020/65245833"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q15228/extended/exp/eng/1020"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/9014152502908610800009/exp/eng/1020"
                 },
                 "p": {
@@ -178,6 +349,25 @@
                 "o": {
                     "type": "uri",
                     "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/95218067/exp/nob/1013/24701800/65245833"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/nob"
                 }
             },
             {
@@ -259,6 +449,44 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q208002/exp/nob/1013/24701800/65245833"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/nob"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q332388/exp/nob/1013/24701800/65245833"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/nob"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q74287/exp/eng/1014/1020/102370266/85751968"
                 },
                 "p": {
@@ -279,6 +507,120 @@
                 "s": {
                     "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q74287/exp/eng/1020"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q15228/companioned/exp/eng/1020"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q15228/exp/nob/1020/65245833"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/nob"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q208002/exp/nob/1020/65245833"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/nob"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q332388/exp/nob/1020/65245833"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/nob"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q332581/exp/nob/1020/65245833"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/nob"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q15228/extended/exp/eng/1020"
                 },
                 "p": {
                     "type": "uri",
@@ -487,25 +829,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://example.org/isbn-02611023541"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "CARRIER"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/termList/RDACarrierType/1049"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://example.org/isbn-8278441618"
                 },
                 "p": {
@@ -558,25 +881,6 @@
                 "o": {
                     "type": "uri",
                     "value": "http://rdaregistry.info/termList/RDACarrierType/1004"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-9780007509843"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "CARRIER"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/termList/RDACarrierType/1049"
                 }
             },
             {
@@ -905,25 +1209,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://example.org/isbn-02611023541"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "MEDIATYPE"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/termList/RDAMediaType/1007"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://example.org/isbn-8278441618"
                 },
                 "p": {
@@ -976,25 +1261,6 @@
                 "o": {
                     "type": "uri",
                     "value": "http://rdaregistry.info/termList/RDAMediaType/1001"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-9780007509843"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "MEDIATYPE"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/termList/RDAMediaType/1007"
                 }
             },
             {
@@ -1171,6 +1437,25 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/95218067"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/datatype/P10004"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "TYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://schema.nb.no/Bibliographic/Values/V1000"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q208002"
                 },
                 "p": {
@@ -1228,6 +1513,25 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q15228/companioned"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/datatype/P10004"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "TYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://schema.nb.no/Bibliographic/Values/V1000"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q15228/extended"
                 },
                 "p": {
@@ -1241,7 +1545,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "https://schema.nb.no/Bibliographic/Values/V1008"
+                    "value": "https://schema.nb.no/Bibliographic/Values/V1000"
                 }
             },
             {

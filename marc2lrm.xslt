@@ -758,6 +758,24 @@
                               </xsl:call-template>
                            </xsl:copy>
                         </xsl:if>
+                        <xsl:if test="@code = 'a' and ../@ind1 ne '0' and exists($record/*:datafield[@tag='700' and @ind2='2' and *:subfield[@code='t']])">
+                           <xsl:copy>
+                              <xsl:call-template name="copy-content">
+                                 <xsl:with-param name="type"
+                                                 select="'http://rdaregistry.info/Elements/x/datatype/P00029'"/>
+                                 <xsl:with-param name="select" select="'parent'"/>
+                              </xsl:call-template>
+                           </xsl:copy>
+                        </xsl:if>
+                        <xsl:if test="@code = 'a' and ../@ind1 eq '0' and exists($record/*:datafield[@tag='700' and @ind2='2' and *:subfield[@code='t']])">
+                           <xsl:copy>
+                              <xsl:call-template name="copy-content">
+                                 <xsl:with-param name="type"
+                                                 select="'http://rdaregistry.info/Elements/x/datatype/P00029'"/>
+                                 <xsl:with-param name="select" select="'collection'"/>
+                              </xsl:call-template>
+                           </xsl:copy>
+                        </xsl:if>
                      </xsl:for-each>
                   </xsl:copy>
                </xsl:for-each>
@@ -1002,7 +1020,7 @@
                      </xsl:if>
                   </xsl:for-each>
                </xsl:for-each>
-               <xsl:if test="$this_field/@ind2 != '2'">
+               <xsl:if test="$this_field/@ind1 != '0'">
                   <xsl:for-each select="$record/node()[@tag=('700','710','711','730')][exists(*:subfield[@code = '1']/starts-with(., 'http'))  and  @ind2='2' and (if (@tag eq '730') then true() else *:subfield/@code = 't')]">
                      <xsl:variable name="target_template_name" select="'MARC21-700-Expression-Analytical'"/>
                      <xsl:variable name="target_tag_value" select="'700, 710, 711, 730'"/>
@@ -1291,7 +1309,7 @@
                      </xsl:if>
                   </xsl:for-each>
                </xsl:for-each>
-               <xsl:if test="$this_field/@ind2 != '2'">
+               <xsl:if test="$this_field/@ind1 != '0'">
                   <xsl:for-each select="$record/node()[@tag=('700','710','711','730')][exists(*:subfield[@code = '1']/starts-with(., 'http'))  and @ind2='2' and (if (@tag eq '730') then true() else *:subfield/@code = 't')]">
                      <xsl:variable name="target_template_name" select="'MARC21-700-Work-Analytical'"/>
                      <xsl:variable name="target_tag_value" select="'700, 710, 711, 730'"/>
@@ -2086,8 +2104,7 @@
                                    as="xs:string"
                                    select="string(position())"/>
                      <frbrizer:relationship>
-                        <xsl:attribute name="type"
-                                       select="'http://rdaregistry.info/Elements/m/object/P30139X'"/>
+                        <xsl:attribute name="type" select="'http://rdaregistry.info/Elements/m/object/P30139'"/>
                         <xsl:attribute name="href"
                                        select="string-join(($record/@id,$target_template_name,$target_tag_value,$target_subfield_code,$target_field_position,$target_subfield_position), ':')"/>
                         <xsl:if test="$include_internal_key">
@@ -2136,8 +2153,7 @@
                              as="xs:string"
                              select="string(position())"/>
                <frbrizer:relationship>
-                  <xsl:attribute name="type"
-                                 select="'http://rdaregistry.info/Elements/m/object/P30139X'"/>
+                  <xsl:attribute name="type" select="'http://rdaregistry.info/Elements/m/object/P30139'"/>
                   <xsl:attribute name="href"
                                  select="string-join(($record/@id,$target_template_name,$target_tag_value,$target_field_position), ':')"/>
                   <xsl:if test="$include_internal_key">
@@ -2663,7 +2679,7 @@
                            <xsl:call-template name="copy-content">
                               <xsl:with-param name="type"
                                               select="'http://rdaregistry.info/Elements/x/datatype/P00029'"/>
-                              <xsl:with-param name="select" select="'analyt'"/>
+                              <xsl:with-param name="select" select="'part'"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -5078,7 +5094,7 @@
                 </xsl:when>
                 <xsl:otherwise>
                     <!-- returns true if the two fields have the same marc 21 link ($8), or if there is no linking subfields in target -->
-                    <xsl:sequence select="(some $x in $source/*:subfield[@code = '8'] satisfies $x = $target/*:subfield[@code = '8']) or (not(exists($target/*:subfield[@code='8'])) and not(exists($source/*:subfield[@code = '8'])))"/>                 
+                    <xsl:sequence select="(some $x in $source/*:subfield[@code = '8'] satisfies $x = $target/*:subfield[@code = '8']) or (not(exists($target/*:subfield[@code='8'])))"/>                 
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:function>
