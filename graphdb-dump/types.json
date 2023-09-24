@@ -335,44 +335,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q74287/exp/1020/267471594"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "CONTENT"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/termList/RDAContentType/1020"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q74287/exp/1020/9349441"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "CONTENT"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/termList/RDAContentType/1020"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q74287/exp/nob/1013/1169314213724530007/224621493/aasenfinn"
                 },
                 "p": {
@@ -387,6 +349,44 @@
                 "o": {
                     "type": "uri",
                     "value": "http://rdaregistry.info/termList/RDAContentType/1013"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287/exp/nno/1020/267471594"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287/exp/nob/1020/9349441"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1020"
                 }
             },
             {
@@ -697,6 +697,44 @@
                 "s": {
                     "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q74287/exp/nob/1013/1169314213724530007/224621493/aasenfinn"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/nob"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287/exp/nno/1020/267471594"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/nno"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287/exp/nob/1020/9349441"
                 },
                 "p": {
                     "type": "uri",

@@ -300,6 +300,9 @@
                 <subfield code="0" select="." type="http://rdaregistry.info/Elements/e/datatype/P20001" label="has content type"/>
                 <subfield code="1" select="." type="http://rdaregistry.info/Elements/e/datatype/P20001" label="has content type"/>
             </datafield>-->
+            <datafield tag="505">
+                <subfield code="a" type="http://rdaregistry.info/Elements/e/datatype/P20071" label="has note"/>
+            </datafield>
         </attributes>
         <label select="string-join((*:datafield[@tag='336']/*:subfield[@code='a'], *:datafield[@tag='041']/*:subfield[@code=('a', 'd')][1]), '/')"/>
         <key order="2">

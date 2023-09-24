@@ -139,44 +139,6 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/54260077"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q15228/companioned"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Author"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/59153962"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q15228/companioned"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Author"
-                },
-                "o": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/95218067"
                 }
             },
@@ -468,44 +430,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q74287/exp/1020/267471594"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/object/P20037"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Translator"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/267471594"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q74287/exp/1020/9349441"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/object/P20037"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Translator"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/9349441"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q74287/exp/nob/1013/1169314213724530007/224621493/aasenfinn"
                 },
                 "p": {
@@ -558,6 +482,44 @@
                 "o": {
                     "type": "uri",
                     "value": "http://www.example.com/aasenfinn"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287/exp/nno/1020/267471594"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20037"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Translator"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/267471594"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287/exp/nob/1020/9349441"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20037"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Translator"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9349441"
                 }
             },
             {

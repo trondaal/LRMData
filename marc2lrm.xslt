@@ -821,6 +821,22 @@
                      </xsl:for-each>
                   </xsl:copy>
                </xsl:for-each>
+               <xsl:for-each select="$record/*:datafield[@tag='505'][*:subfield/@code = ('a')]">
+                  <xsl:copy>
+                     <xsl:call-template name="copy-attributes"/>
+                     <xsl:for-each select="*:subfield[@code = ('a')]">
+                        <xsl:if test="@code = 'a'">
+                           <xsl:copy>
+                              <xsl:call-template name="copy-content">
+                                 <xsl:with-param name="type"
+                                                 select="'http://rdaregistry.info/Elements/e/datatype/P20071'"/>
+                                 <xsl:with-param name="select" select="."/>
+                              </xsl:call-template>
+                           </xsl:copy>
+                        </xsl:if>
+                     </xsl:for-each>
+                  </xsl:copy>
+               </xsl:for-each>
                <xsl:for-each select="$record/node()[@tag=('130','240')][*:subfield/@code = '1']">
                   <xsl:variable name="target_template_name" select="'MARC21-130240-Work'"/>
                   <xsl:variable name="target_tag_value" select="'130, 240'"/>

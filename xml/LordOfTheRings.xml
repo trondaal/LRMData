@@ -409,12 +409,12 @@
             <subfield code="8">1/c</subfield>
         </datafield>
         <datafield tag="240" ind1="0" ind2="2">
-            <subfield code="a">The Hobbit ; Lord of the rings [boxed set]</subfield>
+            <subfield code="a">The Hobbit ; Lord of the rings</subfield>
             <subfield code="1">http://www.wikidata.org/entity/Q15228/extended</subfield>
             <subfield code="8">1/c</subfield>
         </datafield>
         <datafield tag="740" ind1="0" ind2="2">
-            <subfield code="a">The Hobbit ; Lord of the rings [boxed set]</subfield>
+            <subfield code="a">The Hobbit ; Lord of the rings</subfield>
             <subfield code="8">1/c</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="4">
@@ -465,7 +465,7 @@
             <subfield code="a">Issued in slip case.</subfield>
         </datafield>
         <datafield tag="505" ind1="0" ind2=" ">
-            <subfield code="a">The hobbit : there and back agains (2011) - The fellowship of the ring (2017) - The two towers (2017) - The return of the king (2017)</subfield>
+            <subfield code="a">The hobbit, or there and back again -- The fellowship of the ring -- The two towers -- The return of the king</subfield>
         </datafield>
         <datafield tag="700" ind1="1" ind2="2">
             <subfield code="a">Tolkien, J. R. R.</subfield>
@@ -535,7 +535,7 @@
             <subfield code="a">eng</subfield>
         </datafield>
         <datafield tag="240" ind1="0" ind2="2">
-            <subfield code="a">The Hobbit ; Lord of the rings [boxed set]</subfield>
+            <subfield code="a">The Hobbit ; Lord of the rings</subfield>
             <subfield code="1">http://www.wikidata.org/entity/Q15228/extended</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="4">
@@ -579,7 +579,7 @@
             <subfield code="a">In case.</subfield>
         </datafield>
         <datafield tag="505" ind1="0" ind2=" ">
-            <subfield code="a">The hobbit : or there and back again. This edition first published: 2012 -- The fellowship of the ring -- The two towers -- The return of the king.</subfield>
+            <subfield code="a">The hobbit, or there and back again -- The fellowship of the ring -- The two towers -- The return of the king</subfield>
         </datafield>
         <datafield tag="600" ind1="1" ind2="0">
             <subfield code="a">Baggins, Bilbo</subfield>
@@ -663,12 +663,12 @@
             <subfield code="8">2/c</subfield>
         </datafield>
         <datafield tag="240" ind1="0" ind2="2">
-            <subfield code="a">Lord of the rings [boxed set]</subfield>
+            <subfield code="a">Lord of the rings</subfield>
             <subfield code="1">http://www.wikidata.org/entity/Q15228/companioned</subfield>
             <subfield code="8">2/c</subfield>
         </datafield>
         <datafield tag="740" ind1="0" ind2="0">
-            <subfield code="a">Lord of the rings [boxed set]</subfield>
+            <subfield code="a">Lord of the rings</subfield>
             <subfield code="8">2/c</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="4">
@@ -725,7 +725,7 @@
             <subfield code="a">Includes index.</subfield>
         </datafield>
         <datafield tag="505" ind1="0" ind2=" ">
-            <subfield code="a">Part 1. The fellowship of the ring -- Part 2. The two towers -- Part 3. The return of the king -- Lord of the rings : a reader's companion / by Wayne G. Hammond and Christina Scull.</subfield>
+            <subfield code="a">The fellowship of the ring -- The two towers -- The return of the king -- Lord of the rings : a reader's companion / by Wayne G. Hammond and Christina Scull.</subfield>
         </datafield>
         <!--<datafield tag="600" ind1="1" ind2="0">
             <subfield code="a">Tolkien, J. R. R.</subfield>
@@ -760,7 +760,7 @@
             <subfield code="8">1/c</subfield>
             <subfield code="1">http://viaf.org/viaf/9014152502908610800009</subfield>
         </datafield>
-        <datafield tag="700" ind1="1" ind2=" ">
+        <!--<datafield tag="700" ind1="1" ind2=" ">
             <subfield code="a">Hammond, Wayne G.</subfield>
             <subfield code="1">http://viaf.org/viaf/59153962</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
@@ -774,7 +774,7 @@
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
             <subfield code="8">1/c</subfield>
             <subfield code="8">2/c</subfield>
-        </datafield>
+        </datafield>-->
     </record>
     <!-- A readers companion as individual publication -->
     <record>
@@ -2168,7 +2168,7 @@
         <controlfield tag="001">990513562284702202</controlfield>
         <controlfield tag="005">20230303124922.0</controlfield>
         <controlfield tag="007">sd f||||||||||</controlfield>
-        <controlfield tag="008">151023s2005 no#|||| ||||||||||||nob| </controlfield>
+        <controlfield tag="008">151023s2005 no#|||| |||||||||||||||nob| </controlfield>
         <datafield tag="020" ind1=" " ind2=" ">
             <subfield code="a">8278441960</subfield>
             <subfield code="q">Fono</subfield>
@@ -2179,6 +2179,7 @@
             <subfield code="q">Aller</subfield>
         </datafield>
         <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="a">nob</subfield>
             <subfield code="h">eng</subfield>
             <subfield code="d">nob</subfield>
         </datafield>
@@ -2279,7 +2280,7 @@
         <controlfield tag="005">20230531173902.0</controlfield>
         <controlfield tag="007">cr||||||||||||</controlfield>
         <controlfield tag="007">ta</controlfield>
-        <controlfield tag="008">150129s2008 no#||||j |||||000|f|nno| </controlfield>
+        <controlfield tag="008">150129s2008 no#||||j |||||000||||f|nno| </controlfield>
         <datafield tag="020" ind1=" " ind2=" ">
             <subfield code="a">9788210050381</subfield>
             <subfield code="q">ib.</subfield>
@@ -2393,6 +2394,7 @@
             <subfield code="c">Nkr 499.00</subfield>
         </datafield>
         <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="a">nob</subfield>
             <subfield code="h">eng</subfield>
         </datafield>
         <datafield tag="080" ind1=" " ind2=" ">
@@ -2418,7 +2420,7 @@
             <subfield code="8">1/c</subfield>
         </datafield>
         <datafield tag="740" ind1=" " ind2=" ">
-            <subfield code="a">The hobbit, or there and back again</subfield>
+            <subfield code="a">Hobbiten, eller Fram og tilbake igjen</subfield>
             <subfield code="8">1/c</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="0">

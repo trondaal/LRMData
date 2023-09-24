@@ -45,17 +45,15 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://www.wikidata.org/entity/Q15228/companioned">
       <rdaxd:P00018>http://www.wikidata.org/entity/Q15228/companioned</rdaxd:P00018>
-      <rdawd:P10088>Lord of the rings [boxed set]</rdawd:P10088>
-      <rdfs:label>Lord of the rings [boxed set] (Tolkien, J. R. R.)</rdfs:label>
+      <rdawd:P10088>Lord of the rings</rdawd:P10088>
+      <rdfs:label>Lord of the rings (Tolkien, J. R. R.)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/95218067"/>
-      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59153962"/>
-      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/54260077"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://www.wikidata.org/entity/Q15228/extended">
       <rdaxd:P00018>http://www.wikidata.org/entity/Q15228/extended</rdaxd:P00018>
-      <rdawd:P10088>The Hobbit ; Lord of the rings [boxed set]</rdawd:P10088>
-      <rdfs:label>The Hobbit ; Lord of the rings [boxed set] (Tolkien, J. R. R.)</rdfs:label>
+      <rdawd:P10088>The Hobbit ; Lord of the rings</rdawd:P10088>
+      <rdfs:label>The Hobbit ; Lord of the rings (Tolkien, J. R. R.)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/95218067"/>
    </rdac:C10001>
@@ -202,11 +200,12 @@
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9014152502908610800009"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q15228/companioned/exp/eng/1020">
-      <rdaed:P20316>Lord of the rings [boxed set]</rdaed:P20316>
+      <rdaed:P20316>Lord of the rings</rdaed:P20316>
       <rdaxd:P00029>collection</rdaxd:P00029>
       <rdaed:P20312>The lord of the rings [boxed set]</rdaed:P20312>
       <rdfs:label>The lord of the rings [boxed set] / eng / text</rdfs:label>
-      <rdaed:P20315>Lord of the rings [boxed set]</rdaed:P20315>
+      <rdaed:P20071>The fellowship of the ring -- The two towers -- The return of the king -- Lord of the rings : a reader's companion / by Wayne G. Hammond and Christina Scull.</rdaed:P20071>
+      <rdaed:P20315>Lord of the rings</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q15228/companioned"/>
@@ -216,6 +215,7 @@
       <rdaxd:P00029>parent</rdaxd:P00029>
       <rdaed:P20312>The lord of the rings</rdaed:P20312>
       <rdfs:label>The lord of the rings / eng / text</rdfs:label>
+      <rdaed:P20071>Part 1. The fellowship of the ring -- Part 2. The two towers -- Part 3. The return of the king.</rdaed:P20071>
       <rdaed:P20315>Lord of the rings</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -229,6 +229,7 @@
       <rdaxd:P00029>parent</rdaxd:P00029>
       <rdaed:P20312>Ringenes herre</rdaed:P20312>
       <rdfs:label>Ringenes herre / text</rdfs:label>
+      <rdaed:P20071>Ringens brorskap ; To tårn ; Atter en konge</rdaed:P20071>
       <rdaed:P20315>Krigen om ringen</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
@@ -239,13 +240,14 @@
       <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q15228"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q15228/extended/exp/eng/1020">
-      <rdaed:P20316>The Hobbit ; Lord of the rings [boxed set]</rdaed:P20316>
+      <rdaed:P20316>The Hobbit ; Lord of the rings</rdaed:P20316>
       <rdaxd:P00029>collection</rdaxd:P00029>
       <rdaed:P20312>The hobbit ; The lord of the rings</rdaed:P20312>
       <rdfs:label>The hobbit ; The lord of the rings / eng / text</rdfs:label>
       <rdaed:P20312>The Hobbit ; The fellowship of the ring ; The two towers ; [and] The return of the king [box set]</rdaed:P20312>
       <rdfs:label>The Hobbit ; The fellowship of the ring ; The two towers ; [and] The return of the king [box set] / eng / text</rdfs:label>
-      <rdaed:P20315>The Hobbit ; Lord of the rings [boxed set]</rdaed:P20315>
+      <rdaed:P20071>The hobbit, or there and back again -- The fellowship of the ring -- The two towers -- The return of the king</rdaed:P20071>
+      <rdaed:P20315>The Hobbit ; Lord of the rings</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q15228/extended"/>
@@ -350,24 +352,6 @@
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/65245833"/>
       <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q332581"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q74287/exp/1020/267471594">
-      <rdaed:P20316>The hobbit, or there and back again</rdaed:P20316>
-      <rdaed:P20312>Hobbiten, eller Ditut og attende</rdaed:P20312>
-      <rdfs:label>Hobbiten, eller Ditut og attende / text</rdfs:label>
-      <rdaed:P20315>Hobbiten, eller Ditut og attende</rdaed:P20315>
-      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
-      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/267471594"/>
-      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q74287"/>
-   </rdac:C10006>
-   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q74287/exp/1020/9349441">
-      <rdaed:P20316>The hobbit, or there and back again</rdaed:P20316>
-      <rdaed:P20312>Hobbiten, eller Fram og tilbake igjen</rdaed:P20312>
-      <rdfs:label>Hobbiten, eller Fram og tilbake igjen / text</rdfs:label>
-      <rdaed:P20315>The hobbit, or there and back again</rdaed:P20315>
-      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
-      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/9349441"/>
-      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q74287"/>
-   </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q74287/exp/eng/1014/1020/102370266/85751968">
       <rdaed:P20316>The hobbit, or there and back again</rdaed:P20316>
       <rdaed:P20312>The hobbit , or there and back again : [an illustrated edition of the fantasy classic]</rdaed:P20312>
@@ -391,6 +375,16 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q74287"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q74287/exp/nno/1020/267471594">
+      <rdaed:P20316>The hobbit, or there and back again</rdaed:P20316>
+      <rdaed:P20312>Hobbiten, eller Ditut og attende</rdaed:P20312>
+      <rdfs:label>Hobbiten, eller Ditut og attende / text</rdfs:label>
+      <rdaed:P20315>Hobbiten, eller Ditut og attende</rdaed:P20315>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/267471594"/>
+      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q74287"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q74287/exp/nob/1013/1169314213724530007/224621493/aasenfinn">
       <rdaed:P20316>The hobbit, or there and back again</rdaed:P20316>
       <rdaed:P20312>Hobbiten</rdaed:P20312>
@@ -401,6 +395,16 @@
       <rdaeo:P20022 rdf:resource="http://viaf.org/viaf/224621493"/>
       <rdaeo:P20037 rdf:resource="http://www.example.com/aasenfinn"/>
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/1169314213724530007"/>
+      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q74287"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q74287/exp/nob/1020/9349441">
+      <rdaed:P20316>The hobbit, or there and back again</rdaed:P20316>
+      <rdaed:P20312>Hobbiten, eller Fram og tilbake igjen</rdaed:P20312>
+      <rdfs:label>Hobbiten, eller Fram og tilbake igjen / nob / text</rdfs:label>
+      <rdaed:P20315>Hobbiten, eller Fram og tilbake igjen</rdaed:P20315>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/9349441"/>
       <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q74287"/>
    </rdac:C10006>
    <rdac:C10007 rdf:about="http://example.org/010109954">
@@ -721,7 +725,7 @@
       <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>In case.</rdamd:P30137>
-      <rdamd:P30137>The hobbit : or there and back again. This edition first published: 2012 -- The fellowship of the ring -- The two towers -- The return of the king.</rdamd:P30137>
+      <rdamd:P30137>The hobbit, or there and back again -- The fellowship of the ring -- The two towers -- The return of the king</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q15228/extended/exp/eng/1020"/>
@@ -768,7 +772,7 @@
       <rdamd:P30137>Volumes also issued separately.</rdamd:P30137>
       <rdamd:P30137>Set ISBN from plastic wrapper.</rdamd:P30137>
       <rdamd:P30137>Includes index.</rdamd:P30137>
-      <rdamd:P30137>Part 1. The fellowship of the ring -- Part 2. The two towers -- Part 3. The return of the king -- Lord of the rings : a reader's companion / by Wayne G. Hammond and Christina Scull.</rdamd:P30137>
+      <rdamd:P30137>The fellowship of the ring -- The two towers -- The return of the king -- Lord of the rings : a reader's companion / by Wayne G. Hammond and Christina Scull.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q15228/companioned/exp/eng/1020"/>
@@ -793,7 +797,7 @@
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>Title from slip case.</rdamd:P30137>
       <rdamd:P30137>Issued in slip case.</rdamd:P30137>
-      <rdamd:P30137>The hobbit : there and back agains (2011) - The fellowship of the ring (2017) - The two towers (2017) - The return of the king (2017)</rdamd:P30137>
+      <rdamd:P30137>The hobbit, or there and back again -- The fellowship of the ring -- The two towers -- The return of the king</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q15228/extended/exp/eng/1020"/>
@@ -871,7 +875,7 @@
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30069 rdf:resource="http://viaf.org/viaf/223273427"/>
-      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q74287/exp/1020/267471594"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q74287/exp/nno/1020/267471594"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788210051197">
       <rdamd:P30004>ISBN 9788210051197</rdamd:P30004>
@@ -890,12 +894,15 @@
       <rdamd:P30137>1. norske utg. 1972</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q74287/exp/1020/9349441"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q74287/exp/nob/1020/9349441"/>
       <rdamo:P30321 rdf:resource="http://viaf.org/viaf/112458453"/>
    </rdac:C10007>
    <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/eng">
       <rdfs:label>eng</rdfs:label>
       <skos:subjectIndicator>eng</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/nno">
+      <rdfs:label>nno</rdfs:label>
    </skos:Concept>
    <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/nob">
       <rdfs:label>nob</rdfs:label>
