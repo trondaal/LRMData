@@ -246,27 +246,6 @@
         <datafield tag="500" ind1=" " ind2=" ">
             <subfield code="a">Contents: Part 1. The fellowship of the ring - Part 2. The two towers - Part 3. The return of the king.</subfield>
         </datafield>
-        <datafield tag="700" ind1="1" ind2="2">
-            <subfield code="a">Tolkien, J. R. R.</subfield>
-            <subfield code="q">(John Ronald Reuel),</subfield>
-            <subfield code="d">1892-1973.</subfield>
-            <subfield code="t">Fellowship of the ring</subfield>
-            <subfield code="1">http://www.wikidata.org/entity/Q208002</subfield>
-        </datafield>
-        <datafield tag="700" ind1="1" ind2="2">
-            <subfield code="a">Tolkien, J. R. R.</subfield>
-            <subfield code="q">(John Ronald Reuel),</subfield>
-            <subfield code="d">1892-1973.</subfield>
-            <subfield code="t">Two towers</subfield>
-            <subfield code="1">http://www.wikidata.org/entity/Q332388</subfield>
-        </datafield>
-        <datafield tag="700" ind1="1" ind2="2">
-            <subfield code="a">Tolkien, J. R. R.</subfield>
-            <subfield code="q">(John Ronald Reuel),</subfield>
-            <subfield code="d">1892-1973.</subfield>
-            <subfield code="t">Return of the king</subfield>
-            <subfield code="1">http://www.wikidata.org/entity/Q332581</subfield>
-        </datafield>
     </record>
     <record>
         <leader>00811cam a2200253 a 4500</leader>
@@ -409,13 +388,8 @@
             <subfield code="8">1/c</subfield>
         </datafield>
         <datafield tag="240" ind1="0" ind2="2">
-            <subfield code="a">The Hobbit ; Lord of the rings [boxed set]</subfield>
+            <subfield code="a">The Hobbit ; Lord of the rings</subfield>
             <subfield code="1">http://www.wikidata.org/entity/Q15228/extended</subfield>
-            <subfield code="8">1/c</subfield>
-        </datafield>
-        <datafield tag="740" ind1="0" ind2="2">
-            <subfield code="a">The Hobbit ; Lord of the rings [boxed set]</subfield>
-            <subfield code="8">1/c</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="4">
             <subfield code="a">The hobbit ; The lord of the rings /</subfield>
@@ -471,7 +445,7 @@
             <subfield code="a">Tolkien, J. R. R.</subfield>
             <subfield code="q">(John Ronald Reuel),</subfield>
             <subfield code="d">1892-1973.</subfield>
-            <subfield code="t">The hobbit, or there and back again</subfield>
+            <subfield code="t">The Hobbit</subfield>
             <subfield code="1">http://www.wikidata.org/entity/Q74287</subfield>
         </datafield>
         <datafield tag="700" ind1="1" ind2="2">
@@ -535,7 +509,7 @@
             <subfield code="a">eng</subfield>
         </datafield>
         <datafield tag="240" ind1="0" ind2="2">
-            <subfield code="a">The Hobbit ; Lord of the rings [boxed set]</subfield>
+            <subfield code="a">The Hobbit ; Lord of the rings</subfield>
             <subfield code="1">http://www.wikidata.org/entity/Q15228/extended</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="4">
@@ -593,7 +567,7 @@
             <subfield code="a">Tolkien, J. R. R.</subfield>
             <subfield code="q">(John Ronald Reuel),</subfield>
             <subfield code="d">1892-1973.</subfield>
-            <subfield code="t">The hobbit, or there and back again</subfield>
+            <subfield code="t">The Hobbit</subfield>
             <subfield code="1">http://www.wikidata.org/entity/Q74287</subfield>
         </datafield>
         <datafield tag="700" ind1="1" ind2="2">
@@ -1182,10 +1156,6 @@
             <subfield code="a">The Lord of the rings ;</subfield>
             <subfield code="v">v. 2</subfield>
         </datafield>
-        <datafield tag="758"  ind1="1" ind2=" ">
-            <subfield code="1">http://www.wikidata.org/entity/Q208002</subfield>
-            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10122</subfield>
-        </datafield>
         <datafield tag="800" ind1="1" ind2=" ">
             <subfield code="a">Tolkien, J. R. R.</subfield>
             <subfield code="q">(John Ronald Reuel),</subfield>
@@ -1255,10 +1225,6 @@
         </datafield>
         <datafield tag="500" ind1=" " ind2=" ">
             <subfield code="a">Map on folded sheet attached to inside cover.</subfield>
-        </datafield>
-        <datafield tag="758"  ind1="1" ind2=" ">
-            <subfield code="1">http://www.wikidata.org/entity/Q332388</subfield>
-            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10122</subfield>
         </datafield>
         <datafield tag="800" ind1="1" ind2=" ">
             <subfield code="a">Tolkien, J. R. R.</subfield>
@@ -1377,12 +1343,12 @@
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
         </datafield>
         <datafield tag="240" ind1=" " ind2=" ">
-            <subfield code="a">Lord of the rings</subfield>
+            <subfield code="a">The Lord of the rings</subfield>
             <subfield code="1">http://www.wikidata.org/entity/Q15228</subfield>
             <subfield code="8">1/c</subfield>
         </datafield>
         <datafield tag="740" ind1=" " ind2=" ">
-            <subfield code="a">Lord of the rings</subfield>
+            <subfield code="a">The Lord of the rings</subfield>
             <subfield code="8">1/c</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="4">
@@ -1446,7 +1412,7 @@
             <subfield code="a">Tolkien, J. R. R.</subfield>
             <subfield code="q">(John Ronald Reuel),</subfield>
             <subfield code="d">1892-1973.</subfield>
-            <subfield code="t">Return of the king</subfield>
+            <subfield code="t">The Return of the king</subfield>
             <subfield code="1">http://www.wikidata.org/entity/Q332581</subfield>
         </datafield>
         <datafield tag="700" ind1="1" ind2="0">
@@ -1460,10 +1426,6 @@
             <subfield code="4">ill</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/m/object/P30321</subfield>
             <subfield code="1">http://viaf.org/viaf/35315716</subfield>
-        </datafield>
-        <datafield tag="758"  ind1="1" ind2=" ">
-            <subfield code="1">http://www.wikidata.org/entity/Q74287</subfield>
-            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10122</subfield>
         </datafield>
     </record>
     <record>
@@ -1743,11 +1705,6 @@
             <subfield code="2">rdacarrier</subfield>
             <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
         </datafield>
-        <datafield tag="758" ind1=" " ind2=" ">
-            <subfield code="a">Lord of the rings</subfield>
-            <subfield code="1">http://www.wikidata.org/entity/Q15228</subfield>
-            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10020</subfield>
-        </datafield>
     </record>
     <!-- Norske poster -->
     <record>
@@ -1775,7 +1732,7 @@
             <subfield code="0">(NO-TrBIB)90056310</subfield>
         </datafield>
         <datafield tag="240" ind1="1" ind2=" ">
-            <subfield code="a">Return of the king</subfield>
+            <subfield code="a">The return of the king</subfield>
             <subfield code="1">http://www.wikidata.org/entity/Q332581</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
             <subfield code="8">1/c</subfield>
@@ -1873,7 +1830,7 @@
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
         </datafield>
         <datafield tag="240" ind1="1" ind2=" ">
-            <subfield code="a">Two towers</subfield>
+            <subfield code="a">The two towers</subfield>
             <subfield code="1">http://www.wikidata.org/entity/Q332388</subfield>
             <subfield code="8">1/c</subfield>
         </datafield>
@@ -2195,15 +2152,6 @@
             <subfield code="d">1892-1973</subfield>
             <subfield code="0">(NO-TrBIB)90056310</subfield>
         </datafield>
-        <datafield tag="240" ind1=" " ind2=" ">
-            <subfield code="a">The hobbit, or there and back again</subfield>
-            <subfield code="1">http://www.wikidata.org/entity/Q74287</subfield>
-            <subfield code="8">1/c</subfield>
-        </datafield>
-        <datafield tag="740" ind1=" " ind2=" ">
-            <subfield code="a">Hobbiten</subfield>
-            <subfield code="8">1/c</subfield>
-        </datafield>
         <datafield tag="245" ind1="1" ind2="0">
             <subfield code="a">Hobbiten</subfield>
             <subfield code="c">J.R.R. Tolkien ; [oversatt av: Finn Åsen, Oddrun Grønnvik]</subfield>
@@ -2223,26 +2171,6 @@
             <subfield code="b">digital</subfield>
             <subfield code="c">12 cm, i eske</subfield>
         </datafield>
-        <datafield tag="336" ind1=" " ind2=" ">
-            <subfield code="a">spoken word</subfield>
-            <subfield code="2">rdacontent</subfield>
-            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1013</subfield>
-        </datafield>
-        <datafield tag="337" ind1=" " ind2=" ">
-            <subfield code="a">audio</subfield>
-            <subfield code="2">rdamedia</subfield>
-            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1001</subfield>
-        </datafield>
-        <datafield tag="338" ind1=" " ind2=" ">
-            <subfield code="a">audio disc</subfield>
-            <subfield code="2">rdacarrier</subfield>
-            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1004</subfield>
-        </datafield>
-        <datafield tag="380" ind1=" " ind2=" ">
-            <subfield code="a">Language-based work</subfield>
-            <subfield code="2">rdacarrier</subfield>
-            <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
-        </datafield>
         <datafield tag="500" ind1=" " ind2=" ">
             <subfield code="a">1. norske lydbokutg. 1995</subfield>
         </datafield>
@@ -2255,22 +2183,16 @@
         <datafield tag="700" ind1="1" ind2=" ">
             <subfield code="a">Åsen, Finn</subfield>
             <subfield code="4">trl</subfield>
-            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20037</subfield>
-            <subfield code="1">http://www.example.com/aasenfinn</subfield>
         </datafield>
         <datafield tag="700" ind1="1" ind2=" ">
             <subfield code="a">Grønnvik, Oddrun</subfield>
             <subfield code="4">trl</subfield>
-            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20037</subfield>
-            <subfield code="1">http://viaf.org/viaf/1169314213724530007</subfield>
         </datafield>
         <datafield tag="700" ind1="1" ind2=" ">
             <subfield code="a">Røe, Knut</subfield>
             <subfield code="d">1949-</subfield>
             <subfield code="e">medarb.</subfield>
             <subfield code="0">(NO-TrBIB)90088212</subfield>
-            <subfield code="1">http://viaf.org/viaf/224621493</subfield>
-            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20022</subfield>
         </datafield>
     </record>
     <record>
@@ -2280,13 +2202,61 @@
         <controlfield tag="007">cr||||||||||||</controlfield>
         <controlfield tag="007">ta</controlfield>
         <controlfield tag="008">150129s2008 no#||||j |||||000|f|nno| </controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">090868048</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">090868048</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">090868048</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">0910436</subfield>
+            <subfield code="2">nbf</subfield>
+        </datafield>
         <datafield tag="020" ind1=" " ind2=" ">
             <subfield code="a">9788210050381</subfield>
             <subfield code="q">ib.</subfield>
             <subfield code="c">Nkr 349.00</subfield>
         </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(EXLNZ-47BIBSYS_NETWORK)990908680484702201</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-TrBIB)090868048</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-TrBIB)150159730</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">08tm63939-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">090868048-47bibsys_network</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">09ga30486-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">09sa03060-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
         <datafield tag="041" ind1="1" ind2=" ">
             <subfield code="h">eng</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">norbibl</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
         </datafield>
         <datafield tag="080" ind1=" " ind2=" ">
             <subfield code="a">820</subfield>
@@ -2300,19 +2270,14 @@
             <subfield code="q">NO-OsNB</subfield>
             <subfield code="2">5/nor</subfield>
         </datafield>
+        <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">S 13b/UK</subfield>
+            <subfield code="2">oosk</subfield>
+        </datafield>
         <datafield tag="100" ind1="1" ind2=" ">
             <subfield code="a">Tolkien, J.R.R.</subfield>
             <subfield code="d">1892-1973</subfield>
             <subfield code="0">(NO-TrBIB)90056310</subfield>
-        </datafield>
-        <datafield tag="240" ind1=" " ind2=" ">
-            <subfield code="a">The hobbit, or there and back again</subfield>
-            <subfield code="1">http://www.wikidata.org/entity/Q74287</subfield>
-            <subfield code="8">1/c</subfield>
-        </datafield>
-        <datafield tag="740" ind1=" " ind2=" ">
-            <subfield code="a">Hobbiten, eller Ditut og attende</subfield>
-            <subfield code="8">1/c</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="0">
             <subfield code="a">Hobbiten, eller Ditut og attende</subfield>
@@ -2330,54 +2295,165 @@
         <datafield tag="300" ind1=" " ind2=" ">
             <subfield code="a">267 s.</subfield>
         </datafield>
-        <datafield tag="336" ind1=" " ind2=" ">
-            <subfield code="a">text</subfield>
-            <subfield code="2">rdacontent</subfield>
-            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
-        </datafield>
-        <datafield tag="337" ind1=" " ind2=" ">
-            <subfield code="a">unmediated</subfield>
-            <subfield code="2">rdamedia</subfield>
-            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
-        </datafield>
-        <datafield tag="338" ind1=" " ind2=" ">
-            <subfield code="a">volume</subfield>
-            <subfield code="2">rdacarrier</subfield>
-            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
-        </datafield>
-        <datafield tag="380" ind1=" " ind2=" ">
-            <subfield code="a">Language-based work</subfield>
-            <subfield code="2">rdacarrier</subfield>
-            <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
-        </datafield>
         <datafield tag="500" ind1=" " ind2=" ">
             <subfield code="a">1. norske utg. 1972</subfield>
         </datafield>
         <datafield tag="500" ind1=" " ind2=" ">
             <subfield code="a">På omslag: Nynorsk</subfield>
         </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2014-12-04</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">engelsk</subfield>
+            <subfield code="a">litteratur</subfield>
+            <subfield code="a">fantasi</subfield>
+            <subfield code="a">fantasy</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Romaner</subfield>
+            <subfield code="0">(uri)https://id.nb.no/vocabulary/ntsf/258</subfield>
+            <subfield code="2">ntsf</subfield>
+        </datafield>
         <datafield tag="700" ind1="1" ind2=" ">
             <subfield code="a">Engelsen, Janniche</subfield>
             <subfield code="d">1958-</subfield>
             <subfield code="4">bjd</subfield>
             <subfield code="0">(NO-TrBIB)10048270</subfield>
-            <subfield code="1">http://viaf.org/viaf/223273427</subfield>
-            <subfield code="4">http://rdaregistry.info/Elements/m/object/P30069</subfield>
         </datafield>
         <datafield tag="700" ind1="1" ind2=" ">
             <subfield code="a">Myhren, Eilev Groven</subfield>
             <subfield code="d">1973-</subfield>
             <subfield code="e">overs.</subfield>
             <subfield code="4">trl</subfield>
-            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20037</subfield>
             <subfield code="0">(NO-TrBIB)1007721</subfield>
-            <subfield code="1">http://viaf.org/viaf/267471594</subfield>
         </datafield>
         <datafield tag="740" ind1="0" ind2=" ">
             <subfield code="a">Ditut og attende</subfield>
         </datafield>
         <datafield tag="740" ind1="0" ind2=" ">
             <subfield code="a">Hobbiten</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0030100</subfield>
+            <subfield code="c">g00005</subfield>
+            <subfield code="h">NA/A 2009:3515</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0030100</subfield>
+            <subfield code="c">g00048</subfield>
+            <subfield code="h">ft Tol</subfield>
+            <subfield code="t">1</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0183334</subfield>
+            <subfield code="c">g00001</subfield>
+            <subfield code="h">b</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="0">
+            <subfield code="3"/>
+            <subfield code="y">NB Digital</subfield>
+            <subfield code="u">http://urn.nb.no/URN:NBN:no-nb_digibok_2014120408017</subfield>
+            <subfield code="z"/>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="3">Fulltekst</subfield>
+            <subfield code="u">https://urn.nb.no/URN:NBN:no-nb_digibok_2014120408017</subfield>
+            <subfield code="y">Nettbiblioteket</subfield>
+            <subfield code="z">Digital representasjon</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Forlagets beskrivelse (kort)</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/?isbn=8210050389</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Forlagets beskrivelse (kort)</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/?isbn=9788210050381</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Forlagets beskrivelse (lang)</subfield>
+            <subfield code="u"
+                >https://contents.bibs.aws.unit.no/content/?isbn=9788210050381</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Miniatyrbilde</subfield>
+            <subfield code="u"
+                >https://contents.bibs.aws.unit.no/files/images/small/1/8/9788210050381.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Omslagsbilde</subfield>
+            <subfield code="u"
+                >https://contents.bibs.aws.unit.no/files/images/large/1/8/9788210050381.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Originalt bilde</subfield>
+            <subfield code="u"
+                >https://contents.bibs.aws.unit.no/files/images/original/1/8/9788210050381.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0030100</subfield>
+            <subfield code="b">g00005</subfield>
+            <subfield code="c">NA/A 2009:3515</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0030100</subfield>
+            <subfield code="b">g00048</subfield>
+            <subfield code="c">ft Tol</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0183334</subfield>
+            <subfield code="b">g00001</subfield>
+            <subfield code="c">b</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">08tm63939</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">08tm63939</subfield>
+            <subfield code="r">08tm63939</subfield>
+            <subfield code="w">BOOK</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">09ga30486</subfield>
+            <subfield code="d">20090427</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">09ga30486</subfield>
+            <subfield code="r">09ga30486</subfield>
+            <subfield code="w">BOOK</subfield>
+            <subfield code="z">(ib.) (Til bruk på NB Oslos lesesal)</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">09sa03060</subfield>
+            <subfield code="d">20090225</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">09sa03060</subfield>
+            <subfield code="r">09sa03060</subfield>
+            <subfield code="w">BOOK</subfield>
+        </datafield>
+        <datafield tag="901" ind1=" " ind2=" ">
+            <subfield code="a">90</subfield>
+        </datafield>
+        <datafield tag="913" ind1=" " ind2=" ">
+            <subfield code="a">Kulturfond</subfield>
+            <subfield code="b">NB</subfield>
+        </datafield>
+        <datafield tag="913" ind1=" " ind2=" ">
+            <subfield code="a">Norbok</subfield>
+            <subfield code="b">NB</subfield>
         </datafield>
     </record>
     <record>
@@ -2387,13 +2463,54 @@
         <controlfield tag="007">cr||||||||||||</controlfield>
         <controlfield tag="007">ta</controlfield>
         <controlfield tag="008">140911s2011 no#||||| |||||000|f|nob| </controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">114733236</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">114733236</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">1135304</subfield>
+            <subfield code="2">nbf</subfield>
+        </datafield>
         <datafield tag="020" ind1=" " ind2=" ">
             <subfield code="a">9788210051197</subfield>
             <subfield code="q">ib.</subfield>
             <subfield code="c">Nkr 499.00</subfield>
         </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(EXLNZ-47BIBSYS_NETWORK)991147332364702201</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-TrBIB)114733236</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-TrBIB)143071890</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">114733236-47bibsys_network</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">11g151625-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">11g151627-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
         <datafield tag="041" ind1="1" ind2=" ">
             <subfield code="h">eng</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">norbibl</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
         </datafield>
         <datafield tag="080" ind1=" " ind2=" ">
             <subfield code="a">820</subfield>
@@ -2407,19 +2524,14 @@
             <subfield code="q">NO-OsNB</subfield>
             <subfield code="2">5/nor</subfield>
         </datafield>
+        <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">S 13b/UK</subfield>
+            <subfield code="2">oosk</subfield>
+        </datafield>
         <datafield tag="100" ind1="1" ind2=" ">
             <subfield code="a">Tolkien, J.R.R.</subfield>
             <subfield code="d">1892-1973</subfield>
             <subfield code="0">(NO-TrBIB)90056310</subfield>
-        </datafield>
-        <datafield tag="240" ind1=" " ind2=" ">
-            <subfield code="a">The hobbit, or there and back again</subfield>
-            <subfield code="1">http://www.wikidata.org/entity/Q74287</subfield>
-            <subfield code="8">1/c</subfield>
-        </datafield>
-        <datafield tag="740" ind1=" " ind2=" ">
-            <subfield code="a">The hobbit, or there and back again</subfield>
-            <subfield code="8">1/c</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="0">
             <subfield code="a">Hobbiten, eller Fram og tilbake igjen</subfield>
@@ -2442,47 +2554,137 @@
             <subfield code="a">293 s.</subfield>
             <subfield code="b">ill.</subfield>
         </datafield>
-        <datafield tag="336" ind1=" " ind2=" ">
-            <subfield code="a">text</subfield>
-            <subfield code="2">rdacontent</subfield>
-            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
-        </datafield>
-        <datafield tag="337" ind1=" " ind2=" ">
-            <subfield code="a">unmediated</subfield>
-            <subfield code="2">rdamedia</subfield>
-            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
-        </datafield>
-        <datafield tag="338" ind1=" " ind2=" ">
-            <subfield code="a">volume</subfield>
-            <subfield code="2">rdacarrier</subfield>
-            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
-        </datafield>
-        <datafield tag="380" ind1=" " ind2=" ">
-            <subfield code="a">Language-based work</subfield>
-            <subfield code="2">rdacarrier</subfield>
-            <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
-        </datafield>
         <datafield tag="500" ind1=" " ind2=" ">
             <subfield code="a">1. norske utg. 1972</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2014-06-03</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">engelsk</subfield>
+            <subfield code="a">litteratur</subfield>
+            <subfield code="a">fantasy</subfield>
+            <subfield code="a">engelske</subfield>
+            <subfield code="a">romaner</subfield>
+            <subfield code="a">fantastisk</subfield>
+            <subfield code="a">1930-tallet</subfield>
+            <subfield code="a">fiksjon</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Romaner</subfield>
+            <subfield code="0">(uri)https://id.nb.no/vocabulary/ntsf/258</subfield>
+            <subfield code="2">ntsf</subfield>
         </datafield>
         <datafield tag="700" ind1="1" ind2=" ">
             <subfield code="a">Agøy, Nils Ivar</subfield>
             <subfield code="d">1959-</subfield>
             <subfield code="4">trl</subfield>
-            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20037</subfield>
             <subfield code="0">(NO-TrBIB)90202784</subfield>
-            <subfield code="1">http://viaf.org/viaf/9349441</subfield>
         </datafield>
         <datafield tag="700" ind1="1" ind2=" ">
-            <subfield code="a">Lee, Alan.</subfield>
+            <subfield code="a">Lee, Alan</subfield>
             <subfield code="d">1947-</subfield>
             <subfield code="4">ill</subfield>
             <subfield code="0">(NO-TrBIB)90705124</subfield>
-            <subfield code="1">http://viaf.org/viaf/112458453</subfield>
-            <subfield code="4">http://rdaregistry.info/Elements/m/object/P30321</subfield>
         </datafield>
         <datafield tag="740" ind1="4" ind2=" ">
             <subfield code="a">The illustrated Hobbit</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0030100</subfield>
+            <subfield code="c">g00005</subfield>
+            <subfield code="h">NA/A 2011:9401</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0183334</subfield>
+            <subfield code="c">g00001</subfield>
+            <subfield code="h">b</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="0">
+            <subfield code="3"/>
+            <subfield code="y">NB Digital</subfield>
+            <subfield code="u">http://urn.nb.no/URN:NBN:no-nb_digibok_2014060306008</subfield>
+            <subfield code="z"/>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="3">Fulltekst</subfield>
+            <subfield code="u">https://urn.nb.no/URN:NBN:no-nb_digibok_2014060306008</subfield>
+            <subfield code="y">Nettbiblioteket</subfield>
+            <subfield code="z">Digital representasjon</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Forlagets beskrivelse (kort)</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/?isbn=8210051199</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Forlagets beskrivelse (kort)</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/?isbn=9788210051197</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Forlagets beskrivelse (lang)</subfield>
+            <subfield code="u"
+                >https://contents.bibs.aws.unit.no/content/?isbn=9788210051197</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Omslagsbilde</subfield>
+            <subfield code="u"
+                >https://contents.bibs.aws.unit.no/files/images/large/7/9/9788210051197.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Omslagsbilde</subfield>
+            <subfield code="u"
+                >https://contents.bibs.aws.unit.no/files/images/small/7/9/9788210051197.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Originalt bilde</subfield>
+            <subfield code="u"
+                >https://contents.bibs.aws.unit.no/files/images/original/7/9/9788210051197.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0030100</subfield>
+            <subfield code="b">g00005</subfield>
+            <subfield code="c">NA/A 2011:9401</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0183334</subfield>
+            <subfield code="b">g00001</subfield>
+            <subfield code="c">b</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">11g151625</subfield>
+            <subfield code="d">20111102</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">11g151625</subfield>
+            <subfield code="r">11g151625</subfield>
+            <subfield code="w">BOOK</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">11g151627</subfield>
+            <subfield code="d">20111102</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">11g151627</subfield>
+            <subfield code="r">11g151627</subfield>
+            <subfield code="w">BOOK</subfield>
+            <subfield code="z">(ib.) (Til bruk på NB Oslos lesesal)</subfield>
+        </datafield>
+        <datafield tag="901" ind1=" " ind2=" ">
+            <subfield code="a">90</subfield>
+        </datafield>
+        <datafield tag="913" ind1=" " ind2=" ">
+            <subfield code="a">Norbok</subfield>
+            <subfield code="b">NB</subfield>
         </datafield>
     </record>
 </collection>

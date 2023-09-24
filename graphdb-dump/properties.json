@@ -35,13 +35,13 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "The Lord of the rings"
+                    "value": "Lord of the rings"
                 }
             },
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q15228"
+                    "value": "http://www.wikidata.org/entity/Q208002"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -50,7 +50,7 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "Lord of the rings"
+                    "value": "The Fellowship of the ring"
                 }
             },
             {
@@ -71,21 +71,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q208002"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "The fellowship of the ring"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q332388"
                 },
                 "label": {
@@ -96,36 +81,6 @@
                 "value": {
                     "type": "literal",
                     "value": "Two towers"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q332388"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "The two towers"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q332581"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "The Return of the king"
                 }
             },
             {
@@ -155,7 +110,7 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "Lord of the rings & A reader's companion"
+                    "value": "Lord of the rings [boxed set]"
                 }
             },
             {
@@ -170,7 +125,7 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "The Hobbit ; Lord of the rings"
+                    "value": "The Hobbit ; Lord of the rings [boxed set]"
                 }
             },
             {
@@ -186,21 +141,6 @@
                 "value": {
                     "type": "literal",
                     "value": "The hobbit, or there and back again"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q74287"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "The Hobbit"
                 }
             },
             {
@@ -266,21 +206,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/95218067"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "The return of the king"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/102370266"
                 },
                 "label": {
@@ -306,6 +231,21 @@
                 "value": {
                     "type": "literal",
                     "value": "Dixon, Chuck"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/112458453"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "dates"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1947-"
                 }
             },
             {
@@ -446,6 +386,156 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/1169314213724530007"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "name"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Gr\u00f8nnvik, Oddrun"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/223273427"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "dates"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1958-"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/223273427"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "name"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Engelsen, Janniche"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/224621493"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "dates"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1949-"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/224621493"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "name"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "R\u00f8e, Knut"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/267471594"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "dates"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1973-"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/267471594"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "name"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Myhren, Eilev Groven"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9349441"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "dates"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1959-"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9349441"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "name"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Ag\u00f8y, Nils Ivar"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.example.com/aasenfinn"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "name"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "\u00c5sen, Finn"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/9014152502908610800009/exp/eng/1020"
                 },
                 "label": {
@@ -521,51 +611,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/95218067/exp/nob/1013/24701800/65245833"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "titlepreferred"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Atter en konge"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/95218067/exp/nob/1013/24701800/65245833"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Ringenes herre III : atter en konge"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/95218067/exp/nob/1013/24701800/65245833"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "titlevariant"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "The return of the king"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q15228/exp/eng/1020"
                 },
                 "label": {
@@ -590,7 +635,7 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "The Lord of the rings"
+                    "value": "Lord of the rings"
                 }
             },
             {
@@ -606,21 +651,6 @@
                 "value": {
                     "type": "literal",
                     "value": "The lord of the rings"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q15228/exp/eng/1020"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "titlevariant"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "The Lord of the rings"
                 }
             },
             {
@@ -845,21 +875,6 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "The Return of the king"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q332581/exp/eng/1020"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
                     "value": "Return of the king"
                 }
             },
@@ -935,7 +950,7 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "The fellowship of the ring"
+                    "value": "Fellowship of the ring"
                 }
             },
             {
@@ -980,7 +995,7 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "The two towers"
+                    "value": "Two towers"
                 }
             },
             {
@@ -1051,7 +1066,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "title"
+                    "value": "titlepreferred"
                 },
                 "value": {
                     "type": "literal",
@@ -1070,7 +1085,7 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "The Hobbit"
+                    "value": "The hobbit, or there and back again"
                 }
             },
             {
@@ -1111,6 +1126,21 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
+                    "value": "titlepreferred"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Lord of the rings [boxed set]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q15228/companioned/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
                     "value": "title"
                 },
                 "value": {
@@ -1130,7 +1160,7 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "Lord of the rings & A reader's companion"
+                    "value": "Lord of the rings [boxed set]"
                 }
             },
             {
@@ -1351,6 +1381,21 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
+                    "value": "titlepreferred"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The Hobbit ; Lord of the rings [boxed set]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q15228/extended/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
                     "value": "title"
                 },
                 "value": {
@@ -1385,7 +1430,187 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "The Hobbit ; Lord of the rings"
+                    "value": "The Hobbit ; Lord of the rings [boxed set]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q332581/exp/nob/1013/24701800/65245833"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlepreferred"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Atter en konge"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q332581/exp/nob/1013/24701800/65245833"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Ringenes herre III : atter en konge"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q332581/exp/nob/1013/24701800/65245833"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Return of the king"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287/exp/1020/267471594"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlepreferred"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Hobbiten, eller Ditut og attende"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287/exp/1020/267471594"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Hobbiten, eller Ditut og attende"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287/exp/1020/267471594"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The hobbit, or there and back again"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287/exp/1020/9349441"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlepreferred"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The hobbit, or there and back again"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287/exp/1020/9349441"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Hobbiten, eller Fram og tilbake igjen"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287/exp/1020/9349441"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The hobbit, or there and back again"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287/exp/nob/1013/1169314213724530007/224621493/aasenfinn"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlepreferred"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Hobbiten"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287/exp/nob/1013/1169314213724530007/224621493/aasenfinn"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Hobbiten"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287/exp/nob/1013/1169314213724530007/224621493/aasenfinn"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The hobbit, or there and back again"
                 }
             },
             {
@@ -4251,6 +4476,396 @@
                 "value": {
                     "type": "literal",
                     "value": "1999"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278441960"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 8278441960"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278441960"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 9788278441961"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278441960"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Hobbiten"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278441960"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "J.R.R. Tolkien ; [oversatt av: Finn \u00c5sen, Oddrun Gr\u00f8nnvik]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278441960"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "8 plater (CD) (10 t) : digital, 12 cm, i eske."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278441960"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Billingstad : Fono forl., 2005."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278441960"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Billingstad"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278441960"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Fono forl"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278441960"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "2005"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788210050381"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 9788210050381"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788210050381"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Hobbiten, eller Ditut og attende"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788210050381"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "J.R.R. Tolkien ; omsett fr\u00e5 engelsk av Eilev Groven Myhren"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788210050381"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "267 s."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788210050381"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Oslo : Tiden, 2008."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788210050381"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Oslo"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788210050381"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Tiden"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788210050381"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "2008"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788210051197"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 9788210051197"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788210051197"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Hobbiten, eller Fram og tilbake igjen"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788210051197"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "J.R.R. Tolkien ; illustrert av Alan Lee ; oversatt av Nils Ivar Ag\u00f8y"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788210051197"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "edition"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "7. utg."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788210051197"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "293 s. : ill."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788210051197"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo] : Tiden, 2011."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788210051197"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788210051197"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Tiden"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788210051197"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "2011"
                 }
             }
         ]

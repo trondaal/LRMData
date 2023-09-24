@@ -219,18 +219,73 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/9014152502908610800009/exp/eng/1020"
+                    "value": "http://viaf.org/viaf/1169314213724530007"
                 },
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "Expression"
+                    "value": "Agent"
                 }
             },
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/95218067/exp/nob/1013/24701800/65245833"
+                    "value": "http://viaf.org/viaf/223273427"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Agent"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/224621493"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Agent"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/267471594"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Agent"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9349441"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Agent"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.example.com/aasenfinn"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Agent"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9014152502908610800009/exp/eng/1020"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -385,6 +440,50 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q15228/extended/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q332581/exp/nob/1013/24701800/65245833"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287/exp/1020/267471594"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287/exp/1020/9349441"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287/exp/nob/1013/1169314213724530007/224621493/aasenfinn"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -605,6 +704,39 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://example.org/isbn-8210044478"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Manifestation"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278441960"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Manifestation"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788210050381"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Manifestation"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788210051197"
                 },
                 "label": {
                     "xml:lang": "gden",

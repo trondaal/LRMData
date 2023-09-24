@@ -161,6 +161,51 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-0044403054"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q208002/exp/eng/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0044403054"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q332388/exp/eng/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0044403054"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q332581/exp/eng/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-0048230464"
                 },
                 "l": {
@@ -290,7 +335,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/95218067/exp/nob/1013/24701800/65245833"
+                    "value": "http://www.wikidata.org/entity/Q332581/exp/nob/1013/24701800/65245833"
                 }
             },
             {
@@ -671,6 +716,51 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-8278441960"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287/exp/nob/1013/1169314213724530007/224621493/aasenfinn"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788210050381"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287/exp/1020/267471594"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788210051197"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287/exp/1020/9349441"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/9014152502908610800009/exp/eng/1020"
                 },
                 "l": {
@@ -681,21 +771,6 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/9014152502908610800009"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/95218067/exp/nob/1013/24701800/65245833"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "REALIZES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/95218067"
                 }
             },
             {
@@ -906,6 +981,66 @@
                 "o": {
                     "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q15228/extended"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q332581/exp/nob/1013/24701800/65245833"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q332581"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287/exp/1020/267471594"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287/exp/1020/9349441"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287/exp/nob/1013/1169314213724530007/224621493/aasenfinn"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287"
                 }
             }
         ]

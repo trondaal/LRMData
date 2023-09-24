@@ -4,28 +4,37 @@ BIB2201 rapport over datasamling - oppdatert 5/6
 -------------------------------------------------------
 
 
-Antall poster i samlingen:21
+Antall poster i samlingen:24
 -------------------------------------------------------
 
 
 Agenter identifisert med URI
 -------------------------------------------------------
+* http://viaf.org/viaf/9349441 (700) : Agøy, Nils Ivar
 * http://viaf.org/viaf/85751968 (700) : Deming, Sean
 * http://viaf.org/viaf/102370266 (700) : Dixon, Chuck
+* http://viaf.org/viaf/223273427 (700) : Engelsen, Janniche
 * http://viaf.org/viaf/35315716 (700) : Fraser, Eric
 * http://viaf.org/viaf/49263415 (700) : Grathmer, Ingahild
+* http://viaf.org/viaf/1169314213724530007 (700) : Grønnvik, Oddrun
 * http://viaf.org/viaf/59153962 (700, 100) : Hammond, Wayne G
 * http://viaf.org/viaf/65245833 (700) : Høverstad, Torstein Bugge
 * http://viaf.org/viaf/112458453 (700) : Lee, Alan
+* http://viaf.org/viaf/267471594 (700) : Myhren, Eilev Groven
 * http://viaf.org/viaf/24701800 (700) : Ribu, Anders
+* http://viaf.org/viaf/224621493 (700) : Røe, Knut
 * http://viaf.org/viaf/54260077 (700) : Scull, Christina
 * http://viaf.org/viaf/95218067 (100) : Tolkien, J. R. R / Tolkien, J.R.R
 * http://viaf.org/viaf/14887593 (700) : Wenzel, David
+* http://www.example.com/aasenfinn (700) : Åsen, Finn
 
 
 Agent-innførsler som IKKE er identifiser med URI i $1
 men dere velger selv hvilke agenter som skal være med
 -------------------------------------------------------
+* 100  1#  $aTolkien, J.R.R.  $d1892-1973  $0(NO-TrBIB)90056310
+* 100  1#  $aTolkien, J.R.R.  $d1892-1973  $0(NO-TrBIB)90056310
+* 100  1#  $aTolkien, J.R.R.  $d1892-1973  $0(NO-TrBIB)90056310
 * 100  1#  $aTolkien, J.R.R.  $d1892-1973  $0(NO-TrBIB)90056310
 * 600  10  $aBaggins, Bilbo  $vFiction.
 * 600  10  $aBaggins, Bilbo  $vComic books, strips, etc.
@@ -35,13 +44,13 @@ men dere velger selv hvilke agenter som skal være med
 Verk identifisert med URI
 -------------------------------------------------------
 * http://viaf.org/viaf/9014152502908610800009 = Lord of the rings : a reader's companion / Lord of the rings : a reader's companion. (Language-based work)
-* http://www.wikidata.org/entity/Q15228 = Lord of the rings / The Lord of the rings (Language-based work)
+* http://www.wikidata.org/entity/Q15228 = Lord of the rings (Language-based work)
 * http://www.wikidata.org/entity/Q15228/companioned = Lord of the rings [boxed set] (Language-based work)
-* http://www.wikidata.org/entity/Q15228/extended = The Hobbit ; Lord of the rings (Language-based work)
+* http://www.wikidata.org/entity/Q15228/extended = The Hobbit ; Lord of the rings [boxed set] (Language-based work)
 * http://www.wikidata.org/entity/Q208002 = Fellowship of the ring / Fellowship of the ring. / The Fellowship of the ring (Language-based work)
-* http://www.wikidata.org/entity/Q332388 = Two towers / The two towers (Language-based work)
-* http://www.wikidata.org/entity/Q332581 = Return of the king / The return of the king / The Return of the king (Language-based work)
-* http://www.wikidata.org/entity/Q74287 = The hobbit, or there and back again / The Hobbit (Language-based work)
+* http://www.wikidata.org/entity/Q332388 = Two towers (Language-based work)
+* http://www.wikidata.org/entity/Q332581 = Return of the king (Language-based work)
+* http://www.wikidata.org/entity/Q74287 = The hobbit, or there and back again (Language-based work)
 
 
 Innførsler som IKKE er identifisert som verk på grunn av manglende URI i $1
@@ -57,38 +66,50 @@ men det er jo ikke nødvendigvis feil!
 Oversikt over MARC 21 relator koder brukt i samlingen
 sjekker bare feltene 100, 110, 111, 700, 710, 711
 -------------------------------------------------------
-* ill  : 2 
-* trl  : 4 
+* bjd  : 1 
+* ill  : 3 
+* trl  : 8 
 
 
 Oversikt over URI relasjonstyper for Agent brukt i samlingen
 verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 -------------------------------------------------------
-* http://rdaregistry.info/Elements/e/object/P20022 (has narrator agent) : 3 
-* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent) : 4 
+* http://rdaregistry.info/Elements/e/object/P20022 (has narrator agent) : 4 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent) : 8 
 * http://rdaregistry.info/Elements/e/object/P20283 (has colourist agent) : 1 
 * http://rdaregistry.info/Elements/e/object/P20330 (has editor agent) : 2 
-* http://rdaregistry.info/Elements/m/object/P30321 (has contributor agent of still image) : 5 
+* http://rdaregistry.info/Elements/m/object/P30069 (has book designer agent) : 1 
+* http://rdaregistry.info/Elements/m/object/P30321 (has contributor agent of still image) : 6 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 24 
 
 
 Personer med URI og relasjonstyper som er brukt for disse
 -------------------------------------------------------
+http://viaf.org/viaf/9349441 (700) : Agøy, Nils Ivar 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
 http://viaf.org/viaf/85751968 (700) : Deming, Sean 
 * http://rdaregistry.info/Elements/e/object/P20330 (has editor agent)
 http://viaf.org/viaf/102370266 (700) : Dixon, Chuck 
 * http://rdaregistry.info/Elements/e/object/P20330 (has editor agent)
+http://viaf.org/viaf/223273427 (700) : Engelsen, Janniche 
+* http://rdaregistry.info/Elements/m/object/P30069 (has book designer agent)
 http://viaf.org/viaf/35315716 (700) : Fraser, Eric 
 * http://rdaregistry.info/Elements/m/object/P30321 (has contributor agent of still image)
 http://viaf.org/viaf/49263415 (700) : Grathmer, Ingahild 
 * http://rdaregistry.info/Elements/m/object/P30321 (has contributor agent of still image)
+http://viaf.org/viaf/1169314213724530007 (700) : Grønnvik, Oddrun 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
 http://viaf.org/viaf/59153962 (700, 100) : Hammond, Wayne G 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/65245833 (700) : Høverstad, Torstein Bugge 
 * http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
 http://viaf.org/viaf/112458453 (700) : Lee, Alan 
 * http://rdaregistry.info/Elements/m/object/P30321 (has contributor agent of still image)
+http://viaf.org/viaf/267471594 (700) : Myhren, Eilev Groven 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
 http://viaf.org/viaf/24701800 (700) : Ribu, Anders 
+* http://rdaregistry.info/Elements/e/object/P20022 (has narrator agent)
+http://viaf.org/viaf/224621493 (700) : Røe, Knut 
 * http://rdaregistry.info/Elements/e/object/P20022 (has narrator agent)
 http://viaf.org/viaf/54260077 (700) : Scull, Christina 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
@@ -97,6 +118,8 @@ http://viaf.org/viaf/95218067 (100) : Tolkien, J. R. R / Tolkien, J.R.R
 http://viaf.org/viaf/14887593 (700) : Wenzel, David 
 * http://rdaregistry.info/Elements/e/object/P20283 (has colourist agent)
 * http://rdaregistry.info/Elements/m/object/P30321 (has contributor agent of still image)
+http://www.example.com/aasenfinn (700) : Åsen, Finn 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
 
 
 Verk til verk RDA relasjonstyper i 7XX $4-subfelt + label fra RDA registry
@@ -114,6 +137,13 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  12  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $tFellowship of the ring  $1http://www.wikidata.org/entity/Q208002
 * 700  12  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $tReturn of the king  $1http://www.wikidata.org/entity/Q332581
 * 700  12  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $tTwo towers  $1http://www.wikidata.org/entity/Q332388
+001 = 010273140 
+* 100  1#  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $1http://viaf.org/viaf/95218067  $4http://rdaregistry.info/Elements/w/object/P10061
+* 240  ##  $aLord of the rings  $1http://www.wikidata.org/entity/Q15228
+* 245  14  $aThe Lord of the rings /  $cJ.R.R. Tolkien
+* 700  12  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $tFellowship of the ring  $1http://www.wikidata.org/entity/Q208002
+* 700  12  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $tReturn of the king  $1http://www.wikidata.org/entity/Q332581
+* 700  12  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $tTwo towers  $1http://www.wikidata.org/entity/Q332388
 001 = 010490845 
 * 100  1#  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $1http://viaf.org/viaf/95218067  $4http://rdaregistry.info/Elements/w/object/P10061
 * 240  ##  $aLord of the rings  $1http://www.wikidata.org/entity/Q15228
@@ -123,19 +153,19 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  12  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $tTwo towers  $1http://www.wikidata.org/entity/Q332388
 001 = 021051948 
 * 100  1#  $aTolkien, J. R. R.  $d1892-1973,  $q(John Ronald Reuel),  $1http://viaf.org/viaf/95218067  $4http://rdaregistry.info/Elements/w/object/P10061 $81/c
-* 240  02  $aThe Hobbit ; Lord of the rings  $1http://www.wikidata.org/entity/Q15228/extended
+* 240  02  $aThe Hobbit ; Lord of the rings [boxed set]  $1http://www.wikidata.org/entity/Q15228/extended $81/c
 * 245  14  $aThe hobbit ; The lord of the rings /  $cJ.R.R. Tolkien.
 * 700  12  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $tFellowship of the ring.  $1http://www.wikidata.org/entity/Q208002
 * 700  12  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $tReturn of the king  $1http://www.wikidata.org/entity/Q332581
-* 700  12  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $tThe Hobbit  $1http://www.wikidata.org/entity/Q74287
+* 700  12  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $tThe hobbit, or there and back again  $1http://www.wikidata.org/entity/Q74287
 * 700  12  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $tTwo towers  $1http://www.wikidata.org/entity/Q332388
 001 = 019629613 
 * 100  1#  $aTolkien, J. R. R.  $d1892-1973,  $eauthor.  $q(John Ronald Reuel),  $1http://viaf.org/viaf/95218067  $4http://rdaregistry.info/Elements/w/object/P10061
-* 240  02  $aThe Hobbit ; Lord of the rings  $1http://www.wikidata.org/entity/Q15228/extended
+* 240  02  $aThe Hobbit ; Lord of the rings [boxed set]  $1http://www.wikidata.org/entity/Q15228/extended
 * 245  14  $aThe Hobbit ; The fellowship of the ring ; The two towers ; [and] The return of the king [box set] /  $cJ.R.R. Tolkien.
 * 700  12  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $tFellowship of the ring  $1http://www.wikidata.org/entity/Q208002
 * 700  12  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $tReturn of the king  $1http://www.wikidata.org/entity/Q332581
-* 700  12  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $tThe Hobbit  $1http://www.wikidata.org/entity/Q74287
+* 700  12  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $tThe hobbit, or there and back again  $1http://www.wikidata.org/entity/Q74287
 * 700  12  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $tTwo towers  $1http://www.wikidata.org/entity/Q332388
 001 = 019926782 
 * 100  1#  $aTolkien, J. R. R.  $d1892-1973,  $eauthor.  $q(John Ronald Reuel),  $1http://viaf.org/viaf/95218067  $4http://rdaregistry.info/Elements/w/object/P10061 $82/c
@@ -147,10 +177,10 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  12  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $tTwo towers  $1http://www.wikidata.org/entity/Q332388
 001 = 012525966 
 * 100  1#  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $1http://viaf.org/viaf/95218067  $4http://rdaregistry.info/Elements/w/object/P10061
-* 240  ##  $aThe Lord of the rings  $1http://www.wikidata.org/entity/Q15228 $81/c
+* 240  ##  $aLord of the rings  $1http://www.wikidata.org/entity/Q15228 $81/c
 * 245  14  $aThe Lord of the rings /  $cJ.R.R. Tolkien ; illustrations by Ingahild Grathmer, drawn by Eric Fraser.
+* 700  12  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $tReturn of the king  $1http://www.wikidata.org/entity/Q332581
 * 700  12  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $tThe Fellowship of the ring  $1http://www.wikidata.org/entity/Q208002
-* 700  12  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $tThe Return of the king  $1http://www.wikidata.org/entity/Q332581
 * 700  12  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $tTwo towers  $1http://www.wikidata.org/entity/Q332388
 001 = 010490845 
 * 100  1#  $aTolkien, J. R. R.  $d1892-1973.  $q(John Ronald Reuel),  $1http://viaf.org/viaf/95218067  $4http://rdaregistry.info/Elements/w/object/P10061
@@ -174,6 +204,14 @@ Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke an
 * http://rdaregistry.info/Elements/w/P10257 (has subject work) -> Lord of the rings / Tolkien, J. R. R. (600)
 001 = 019862727, Lord of the rings : a reader's companion / Hammond, Wayne G., / Language-based work 
 * http://rdaregistry.info/Elements/w/P10257 (has subject work) -> Lord of the rings / Tolkien, J. R. R. (600)
+001 = 010289727, Two towers / Tolkien, J. R. R. / Language-based work 
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) -> (758)
+001 = 013171596, Return of the king / Tolkien, J. R. R. / Language-based work 
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) -> (758)
+001 = 012525966, Lord of the rings / Tolkien, J. R. R. / Language-based work 
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) -> (758)
+001 = 022896191, The hobbit, or there and back again / Tolkien, J. R. R. / Language-based work 
+* http://rdaregistry.info/Elements/w/object/P10020 (has sequel work) -> Lord of the rings (758)
 
 
 Opplisting som viser bruken av 336 $a, $b, $0, $2
