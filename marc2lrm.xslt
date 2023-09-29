@@ -2062,38 +2062,11 @@
                   </xsl:for-each>
                </xsl:copy>
             </xsl:for-each>
-            <xsl:for-each select="$record/*:datafield[@tag='505'][*:subfield/@code = ('a','g','r','t')]">
+            <xsl:for-each select="$record/*:datafield[@tag='505'][*:subfield/@code = ('a')]">
                <xsl:copy>
                   <xsl:call-template name="copy-attributes"/>
-                  <xsl:for-each select="*:subfield[@code = ('a','g','r','t')]">
+                  <xsl:for-each select="*:subfield[@code = ('a')]">
                      <xsl:if test="@code = 'a'">
-                        <xsl:copy>
-                           <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type"
-                                              select="'http://rdaregistry.info/Elements/m/datatype/P30137'"/>
-                              <xsl:with-param name="select" select="."/>
-                           </xsl:call-template>
-                        </xsl:copy>
-                     </xsl:if>
-                     <xsl:if test="@code = 'g'">
-                        <xsl:copy>
-                           <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type"
-                                              select="'http://rdaregistry.info/Elements/m/datatype/P30137'"/>
-                              <xsl:with-param name="select" select="."/>
-                           </xsl:call-template>
-                        </xsl:copy>
-                     </xsl:if>
-                     <xsl:if test="@code = 'r'">
-                        <xsl:copy>
-                           <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type"
-                                              select="'http://rdaregistry.info/Elements/m/datatype/P30137'"/>
-                              <xsl:with-param name="select" select="."/>
-                           </xsl:call-template>
-                        </xsl:copy>
-                     </xsl:if>
-                     <xsl:if test="@code = 't'">
                         <xsl:copy>
                            <xsl:call-template name="copy-content">
                               <xsl:with-param name="type"

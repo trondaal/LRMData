@@ -445,9 +445,9 @@
             </datafield>
             <datafield tag="505">
                 <subfield code="a" type="http://rdaregistry.info/Elements/m/datatype/P30137" label="note"/>
-                <subfield code="g" type="http://rdaregistry.info/Elements/m/datatype/P30137" label="note"/>
+                <!--<subfield code="g" type="http://rdaregistry.info/Elements/m/datatype/P30137" label="note"/>
                 <subfield code="r" type="http://rdaregistry.info/Elements/m/datatype/P30137" label="note"/>
-                <subfield code="t" type="http://rdaregistry.info/Elements/m/datatype/P30137" label="note"/>
+                <subfield code="t" type="http://rdaregistry.info/Elements/m/datatype/P30137" label="note"/>-->
             </datafield>
             <datafield tag="773">
                 <subfield code="t" condition=". ne $record/*:datafield[@tag='245']/*:subfield[@code='a']" type="http://rdaregistry.info/Elements/m/datatype/P30050" select="string-join((frbrizer:trim(.), frbrizer:trim(../*:subfield[@code='d']), frbrizer:trim(../*:subfield[@code='g'])), ', ') || '.'" label="has note on issue, part..."/>

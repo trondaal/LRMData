@@ -2036,6 +2036,21 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://example.org/021072547"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/315947516/exp/eng/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-0520050894"
                 },
                 "l": {
@@ -2046,6 +2061,36 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/176284998/exp/eng/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780393284164"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/178806136/exp/eng/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9781789559569"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/178211495/exp/eng/1020"
                 }
             },
             {
@@ -3066,6 +3111,21 @@
                 "o": {
                     "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q28806254"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/315947516/exp/eng/1020"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/315947516"
                 }
             }
         ]

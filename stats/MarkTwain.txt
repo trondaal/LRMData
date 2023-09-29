@@ -4,14 +4,16 @@ BIB2201 rapport over datasamling - oppdatert 5/6
 -------------------------------------------------------
 
 
-Antall poster i samlingen:26
+Antall poster i samlingen:28
 -------------------------------------------------------
 
 
 Agenter identifisert med URI
 -------------------------------------------------------
+* http://viaf.org/viaf/31149912620506212729 (700) : Albon, James
 * http://viaf.org/viaf/17220001 (700) : Burroughs, Edgar Rice
 * http://viaf.org/viaf/14767483 (700) : Chambers, Robert W
+* http://viaf.org/viaf/109828492 (700) : Cooley, Thomas
 * http://viaf.org/viaf/100175928 (700) : Crane, Stephen
 * http://viaf.org/viaf/270703833 (700) : Dawson, Emma Frances
 * http://viaf.org/viaf/49205550 (700) : Eddison, Eric Rücker
@@ -42,7 +44,9 @@ men dere velger selv hvilke agenter som skal være med
 * 100  1#  $aTwain, Mark,  $d1835-1910,  $eauthor.
 * 600  10  $aFinn, Huckleberry  $c(Fictitious character)  $vFiction.
 * 600  10  $aFinn, Huckleberry  $c(Fictitious character)  $vFiction.
+* 600  10  $aFinn, Huckleberry  $c(Fictitious character)  $vFiction.
 * 600  10  $aSawyer, Tom  $c(Fictitious character)  $vJuvenile fiction.
+* 600  10  $aSawyer, Tom  $c(Fictitious character)  $vFiction.
 * 600  10  $aSawyer, Tom  $c(Fictitious character)  $vFiction.
 * 600  10  $aSawyer, Tom  $c(Fictitious character)  $vFiction.
 * 600  17  $aTwain, Mark,  $d1835-1910  $0(OCoLC)fst00031622 $2fast
@@ -56,7 +60,6 @@ men dere velger selv hvilke agenter som skal være med
 
 Verk identifisert med URI
 -------------------------------------------------------
-*  =  
 * http://viaf.org/viaf/14767483/mask = Mask (Language-based work)
 * http://viaf.org/viaf/14907223/americanmidnight = American midnight : tales of the dark (Language-based work)
 * http://viaf.org/viaf/17230986/eyes = Eyes. (Language-based work)
@@ -84,6 +87,7 @@ Verk identifisert med URI
 * http://viaf.org/viaf/310521814 = The notorious jumping frog of Calaveras County (Language-based work)
 * http://viaf.org/viaf/310534325 = Tom Sawyer abroad / Tom Sawyer abroad. (Language-based work)
 * http://viaf.org/viaf/313868151 = The man that corrupted Hadleyburg / The man that corrupted Hadleyburg. (Language-based work)
+* http://viaf.org/viaf/315947516 = The innocents abroad / (Language-based work)
 * http://viaf.org/viaf/50566653/10booksin1 = Mark Twain : 10 books in 1 (Language-based work)
 * http://viaf.org/viaf/50566653/4classicalamericannovels = 4 classic American novels (Language-based work)
 * http://viaf.org/viaf/50566653/adventurecollection = The adventure collection (Language-based work)
@@ -137,18 +141,22 @@ Finner ingen MARC 21 relator koder i $4
 Oversikt over URI relasjonstyper for Agent brukt i samlingen
 verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 -------------------------------------------------------
-* http://rdaregistry.info/Elements/m/object/P30267 (has related agent of manifestation) : 4 
+* http://rdaregistry.info/Elements/m/object/P30267 (has related agent of manifestation) : 5 
 * http://rdaregistry.info/Elements/m/object/P30321 (has contributor agent of still image) : 2 
 * http://rdaregistry.info/Elements/m/object/P30328 (has contributor agent of text) : 6 
-* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 40 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 42 
 
 
 Personer med URI og relasjonstyper som er brukt for disse
 -------------------------------------------------------
+http://viaf.org/viaf/31149912620506212729 (700) : Albon, James 
+* http://rdaregistry.info/Elements/m/object/P30321 (has contributor agent of still image)
 http://viaf.org/viaf/17220001 (700) : Burroughs, Edgar Rice 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/14767483 (700) : Chambers, Robert W 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+http://viaf.org/viaf/109828492 (700) : Cooley, Thomas 
+* http://rdaregistry.info/Elements/m/object/P30267 (has related agent of manifestation)
 http://viaf.org/viaf/100175928 (700) : Crane, Stephen 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/270703833 (700) : Dawson, Emma Frances 

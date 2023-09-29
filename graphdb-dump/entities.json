@@ -637,6 +637,17 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/315947516"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Work"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/54260077"
                 },
                 "label": {
@@ -1089,6 +1100,28 @@
                 "entity": {
                     "type": "uri",
                     "value": "https://isni.org/isni/0000000121266025"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Agent"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/109828492"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Agent"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/31149912620506212729"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -1847,6 +1880,17 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/315947516/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://example.org/010109954"
                 },
                 "label": {
@@ -2376,6 +2420,28 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://example.org/isbn-0520050894"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Manifestation"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780393284164"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Manifestation"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9781789559569"
                 },
                 "label": {
                     "xml:lang": "gden",

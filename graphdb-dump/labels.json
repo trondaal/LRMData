@@ -620,6 +620,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/315947516"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "The innocents abroad (Twain, Mark)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/54260077"
                 },
                 "label": {
@@ -974,16 +984,6 @@
                 },
                 "label": {
                     "type": "literal",
-                    "value": "Albon, James"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://example.org/"
-                },
-                "label": {
-                    "type": "literal",
                     "value": "Theroux, Paul"
                 }
             },
@@ -1055,6 +1055,26 @@
                 "label": {
                     "type": "literal",
                     "value": "Ingpen, Robert"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/109828492"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Cooley, Thomas"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/31149912620506212729"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Albon, James"
                 }
             },
             {
@@ -1860,6 +1880,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/315947516/exp/eng/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "The innocents abroad / still image / text"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-000720308"
                 },
                 "label": {
@@ -2425,6 +2455,26 @@
                 "label": {
                     "type": "literal",
                     "value": "ISBN0520051092"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780393284164"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN9780393284164 (pbk.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9781789559569"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN9781789559569 (pbk.)"
                 }
             }
         ]

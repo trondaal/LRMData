@@ -1646,6 +1646,21 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/315947516"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The innocents abroad"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/54260077"
                 },
                 "label": {
@@ -2570,21 +2585,6 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "Albon, James"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "name"
-                },
-                "value": {
-                    "type": "literal",
                     "value": "Theroux, Paul"
                 }
             },
@@ -2721,6 +2721,51 @@
                 "value": {
                     "type": "literal",
                     "value": "Ingpen, Robert"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/109828492"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "dates"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1942-"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/109828492"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "name"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Cooley, Thomas"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/31149912620506212729"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "name"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Albon, James"
                 }
             },
             {
@@ -5796,6 +5841,36 @@
                 "value": {
                     "type": "literal",
                     "value": "The \u00a31,000,000 bank-note"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/315947516/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The innocents abroad"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/315947516/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The innocents abroad"
                 }
             },
             {
@@ -11561,291 +11636,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://example.org/isbn-1782275959"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "contentsnote"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Introduction --"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-1782275959"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "contentsnote"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Edgar Allan Poe --"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-1782275959"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "contentsnote"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Nathaniel Hawthorne --"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-1782275959"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "contentsnote"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Edith Wharton --"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-1782275959"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "contentsnote"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Robert W. Chambers --"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-1782275959"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "contentsnote"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Shirley Jackson --"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-1782275959"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "contentsnote"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Mark Twain --"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-1782275959"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "contentsnote"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Zora Neale Hurston --"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-1782275959"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "contentsnote"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Charlotte Perkins Gilman --"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-1782275959"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "contentsnote"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Emma Frances Dawson."
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-1782275959"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "contentsnote"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "The masque of the red death /"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-1782275959"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "contentsnote"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Young Goodman Brown /"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-1782275959"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "contentsnote"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "The eyes /"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-1782275959"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "contentsnote"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "The mask /"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-1782275959"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "contentsnote"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Home /"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-1782275959"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "contentsnote"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "A ghost story /"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-1782275959"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "contentsnote"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Spunk /"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-1782275959"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "contentsnote"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "The yellow wallpaper /"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-1782275959"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "contentsnote"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "An itinerant house /"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "http://example.org/isbn-1931082103"
                 },
                 "label": {
@@ -13971,6 +13761,276 @@
                 "value": {
                     "type": "literal",
                     "value": "\"A publication of the Mark Twain Project of the Bancroft Library\"."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780393284164"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 9780393284164 (pbk.) :"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780393284164"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The adventures of Huckleberry Finn"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780393284164"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Mark Twain"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780393284164"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "edition"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "New edition / edited by Thomas Cooley"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780393284164"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "New York : W.W. Norton and Company, 2021."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780393284164"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "New York"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780393284164"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "W.W. Norton and Company"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780393284164"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "2021"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780393284164"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "series"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Norton critical editions"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9781789559569"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 9781789559569 (pbk.) :"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9781789559569"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The adventures of Tom Sawyer"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9781789559569"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Mark Twain"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9781789559569"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1 volume, 20 cm."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9781789559569"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "London : Legend Press, 2021."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9781789559569"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "London"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9781789559569"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Legend Press"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9781789559569"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "2021"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9781789559569"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "series"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Legend classics"
                 }
             }
         ]

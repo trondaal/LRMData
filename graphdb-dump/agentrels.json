@@ -1038,6 +1038,25 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/315947516"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/50566653"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q208002/exp/nob/1013/24701800/65245833"
                 },
                 "p": {
@@ -1697,7 +1716,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://example.org/"
+                    "value": "http://viaf.org/viaf/31149912620506212729"
                 }
             },
             {
@@ -1717,6 +1736,25 @@
                 "o": {
                     "type": "uri",
                     "value": "http://example.org/"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780393284164"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/object/P30267"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Editor"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/109828492"
                 }
             }
         ]

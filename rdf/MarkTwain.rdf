@@ -240,6 +240,13 @@
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/50566653"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/315947516">
+      <rdaxd:P00018>http://viaf.org/viaf/315947516</rdaxd:P00018>
+      <rdawd:P10088>The innocents abroad</rdawd:P10088>
+      <rdfs:label>The innocents abroad (Twain, Mark)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/50566653"/>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/50566653/10booksin1">
       <rdaxd:P00018>http://viaf.org/viaf/50566653/10booksin1</rdaxd:P00018>
       <rdawd:P10088>Mark Twain : 10 books in 1</rdawd:P10088>
@@ -416,8 +423,7 @@
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/50566653"/>
    </rdac:C10001>
    <rdac:C10002 rdf:about="http://example.org/">
-      <rdaad:P50385>Albon, James</rdaad:P50385>
-      <rdfs:label>Albon, James</rdfs:label>
+      <rdaxd:P00018>Theroux, Paul</rdaxd:P00018>
       <rdaad:P50385>Theroux, Paul</rdaad:P50385>
       <rdfs:label>Theroux, Paul</rdfs:label>
       <rdaxd:P00018>Bear, Greg</rdaxd:P00018>
@@ -430,6 +436,12 @@
       <rdaad:P50385>Crane, Stephen</rdaad:P50385>
       <rdfs:label>Crane, Stephen</rdfs:label>
       <rdaad:P50339>1871-1900</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/109828492">
+      <rdaxd:P00018>http://viaf.org/viaf/109828492</rdaxd:P00018>
+      <rdaad:P50385>Cooley, Thomas</rdaad:P50385>
+      <rdfs:label>Cooley, Thomas</rdfs:label>
+      <rdaad:P50339>1942-</rdaad:P50339>
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://viaf.org/viaf/110033000">
       <rdaxd:P00018>http://viaf.org/viaf/110033000</rdaxd:P00018>
@@ -469,6 +481,11 @@
       <rdaxd:P00018>http://viaf.org/viaf/270703833</rdaxd:P00018>
       <rdaad:P50385>Dawson, Emma Frances</rdaad:P50385>
       <rdfs:label>Dawson, Emma Frances</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/31149912620506212729">
+      <rdaxd:P00018>http://viaf.org/viaf/31149912620506212729</rdaxd:P00018>
+      <rdaad:P50385>Albon, James</rdaad:P50385>
+      <rdfs:label>Albon, James</rdfs:label>
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://viaf.org/viaf/34528021">
       <rdaxd:P00018>http://viaf.org/viaf/34528021</rdaxd:P00018>
@@ -789,6 +806,14 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/313868151"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/315947516/exp/eng/1020">
+      <rdaed:P20316>The innocents abroad</rdaed:P20316>
+      <rdaed:P20312>The innocents abroad</rdaed:P20312>
+      <rdfs:label>The innocents abroad / still image / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/315947516"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/50566653/10booksin1/exp/eng/1020">
       <rdaed:P20316>Mark Twain : 10 books in 1</rdaed:P20316>
       <rdaxd:P00029>collection</rdaxd:P00029>
@@ -1003,7 +1028,8 @@
       <rdamd:P30137>Originally published: Hartford, Conn. : American Pub. Co., 1869.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30321 rdf:resource="http://example.org/"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/315947516/exp/eng/1020"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/31149912620506212729"/>
       <rdamo:P30328 rdf:resource="http://example.org/"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/1712416">
@@ -1310,25 +1336,6 @@
       <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>Introduction -- The masque of the red death / Edgar Allan Poe -- Young Goodman Brown / Nathaniel Hawthorne -- The eyes / Edith Wharton -- The mask / Robert W. Chambers -- Home / Shirley Jackson -- A ghost story / Mark Twain -- Spunk / Zora Neale Hurston -- The yellow wallpaper / Charlotte Perkins Gilman -- An itinerant house / Emma Frances Dawson.</rdamd:P30137>
-      <rdamd:P30137>Introduction --</rdamd:P30137>
-      <rdamd:P30137>Edgar Allan Poe --</rdamd:P30137>
-      <rdamd:P30137>Nathaniel Hawthorne --</rdamd:P30137>
-      <rdamd:P30137>Edith Wharton --</rdamd:P30137>
-      <rdamd:P30137>Robert W. Chambers --</rdamd:P30137>
-      <rdamd:P30137>Shirley Jackson --</rdamd:P30137>
-      <rdamd:P30137>Mark Twain --</rdamd:P30137>
-      <rdamd:P30137>Zora Neale Hurston --</rdamd:P30137>
-      <rdamd:P30137>Charlotte Perkins Gilman --</rdamd:P30137>
-      <rdamd:P30137>Emma Frances Dawson.</rdamd:P30137>
-      <rdamd:P30137>The masque of the red death /</rdamd:P30137>
-      <rdamd:P30137>Young Goodman Brown /</rdamd:P30137>
-      <rdamd:P30137>The eyes /</rdamd:P30137>
-      <rdamd:P30137>The mask /</rdamd:P30137>
-      <rdamd:P30137>Home /</rdamd:P30137>
-      <rdamd:P30137>A ghost story /</rdamd:P30137>
-      <rdamd:P30137>Spunk /</rdamd:P30137>
-      <rdamd:P30137>The yellow wallpaper /</rdamd:P30137>
-      <rdamd:P30137>An itinerant house /</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/14907223/americanmidnight/exp/eng/1020"/>
@@ -1457,6 +1464,25 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/50566653/prosper/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q3208053/exp/eng/1020"/>
    </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9780393284164">
+      <rdamd:P30004>ISBN 9780393284164 (pbk.) :</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780393284164</rdaxd:P00018>
+      <rdfs:label>ISBN9780393284164 (pbk.)</rdfs:label>
+      <rdamd:P30156>The adventures of Huckleberry Finn</rdamd:P30156>
+      <rdamd:P30117>Mark Twain</rdamd:P30117>
+      <rdamd:P30107>New edition / edited by Thomas Cooley</rdamd:P30107>
+      <rdamd:P30088>New York</rdamd:P30088>
+      <rdamd:P30111>New York : W.W. Norton and Company, 2021.</rdamd:P30111>
+      <rdamd:P30083>W.W. Norton and Company</rdamd:P30083>
+      <rdamd:P30011>2021</rdamd:P30011>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>Norton critical editions</rdamd:P30106>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/178806136/exp/eng/1020"/>
+      <rdamo:P30267 rdf:resource="http://viaf.org/viaf/109828492"/>
+   </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9780785839903">
       <rdamd:P30004>ISBN 9780785839903 (hbk.) :</rdamd:P30004>
       <rdaxd:P00018>isbn-9780785839903</rdaxd:P00018>
@@ -1563,6 +1589,24 @@
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/235238105/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9781789559569">
+      <rdamd:P30004>ISBN 9781789559569 (pbk.) :</rdamd:P30004>
+      <rdaxd:P00018>isbn-9781789559569</rdaxd:P00018>
+      <rdfs:label>ISBN9781789559569 (pbk.)</rdfs:label>
+      <rdamd:P30156>The adventures of Tom Sawyer</rdamd:P30156>
+      <rdamd:P30117>Mark Twain</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Legend Press, 2021.</rdamd:P30111>
+      <rdamd:P30083>Legend Press</rdamd:P30083>
+      <rdamd:P30011>2021</rdamd:P30011>
+      <rdamd:P30182>1 volume, 20 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1003</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1018</rdamd:P30001>
+      <rdamd:P30106>Legend classics</rdamd:P30106>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/178211495/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9781803380315">
       <rdamd:P30004>ISBN 9781803380315 (hbk.) :</rdamd:P30004>
