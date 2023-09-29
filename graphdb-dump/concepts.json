@@ -54,6 +54,17 @@
             {
                 "concept": {
                     "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1018"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Online resource"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
                     "value": "http://rdaregistry.info/termList/RDACarrierType/1049"
                 },
                 "label": {
@@ -104,6 +115,17 @@
                     "xml:lang": "gden",
                     "type": "literal",
                     "value": "Audio"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1003"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Computer"
                 }
             },
             {
