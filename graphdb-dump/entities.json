@@ -2360,6 +2360,28 @@
                     "type": "literal",
                     "value": "Manifestation"
                 }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/021072547"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Manifestation"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0520050894"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Manifestation"
+                }
             }
         ]
     }

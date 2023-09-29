@@ -164,7 +164,7 @@
                 },
                 "label": {
                     "type": "literal",
-                    "value": "Connecticut Yankee in King Arthur's court (Twain, Mark)"
+                    "value": "A Connecticut Yankee in King Arthur's court (Twain, Mark)"
                 }
             },
             {
@@ -970,6 +970,26 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://example.org/"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Albon, James"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Theroux, Paul"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/110033000"
                 },
                 "label": {
@@ -1384,7 +1404,7 @@
                 },
                 "label": {
                     "type": "literal",
-                    "value": "Connecticut Yankee in King Arthur's court / text"
+                    "value": "A Connecticut Yankee in King Arthur's court / text"
                 }
             },
             {
@@ -2385,6 +2405,26 @@
                 "label": {
                     "type": "literal",
                     "value": "ISBN9781838573898 (hbk.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0520050894"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN0520050894"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0520050894"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN0520051092"
                 }
             }
         ]

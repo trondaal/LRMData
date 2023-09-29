@@ -28,7 +28,7 @@
             <subfield code="1">http://viaf.org/viaf/50566653</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
         </datafield>
-        <datafield tag="240" ind1="0" ind2="4">
+        <datafield tag="240" ind1="1" ind2="4">
             <subfield code="a">The adventures of Tom Sawyer</subfield>
             <subfield code="k">Novel</subfield>
             <subfield code="1">http://viaf.org/viaf/178211495</subfield>
@@ -192,7 +192,7 @@
             <subfield code="1">http://viaf.org/viaf/50566653</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
         </datafield>
-        <datafield tag="240" ind1="0" ind2="4">
+        <datafield tag="240" ind1="1" ind2="4">
             <subfield code="a">The adventures of Tom Sawyer</subfield>
             <subfield code="k">Novel</subfield>
             <subfield code="1">http://viaf.org/viaf/178211495</subfield>
@@ -291,7 +291,7 @@
             <subfield code="1">http://viaf.org/viaf/50566653</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
         </datafield>
-        <datafield tag="240" ind1="0" ind2="4">
+        <datafield tag="240" ind1="1" ind2="4">
             <subfield code="a">The adventures of Huckleberry Finn</subfield>
             <subfield code="k">Novel</subfield>
             <subfield code="1">http://viaf.org/viaf/178806136</subfield>
@@ -366,7 +366,7 @@
             <subfield code="1">http://viaf.org/viaf/50566653</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
         </datafield>
-        <datafield tag="240" ind1="0" ind2="4">
+        <datafield tag="240" ind1="1" ind2="4">
             <subfield code="a">The adventures of Huckleberry Finn</subfield>
             <subfield code="k">Novel</subfield>
             <subfield code="1">http://viaf.org/viaf/178806136</subfield>
@@ -447,7 +447,7 @@
             <subfield code="1">http://viaf.org/viaf/50566653</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
         </datafield>
-        <datafield tag="240" ind1="0" ind2="4">
+        <datafield tag="240" ind1="1" ind2="4">
             <subfield code="a">The prince and the pauper</subfield>
             <subfield code="k">Novel</subfield>
             <subfield code="1">http://viaf.org/viaf/235238105</subfield>
@@ -513,7 +513,7 @@
             <subfield code="1">http://viaf.org/viaf/50566653</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
         </datafield>
-        <datafield tag="240" ind1="0" ind2="4">
+        <datafield tag="240" ind1="1" ind2="4">
             <subfield code="a">The prince and the pauper</subfield>
             <subfield code="k">Novel</subfield>
             <subfield code="1">http://viaf.org/viaf/235238105</subfield>
@@ -603,7 +603,7 @@
             <subfield code="1">http://viaf.org/viaf/50566653</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
         </datafield>
-        <datafield tag="240" ind1=" " ind2="2">
+        <datafield tag="240" ind1="1" ind2="2">
             <subfield code="a">The gilded age</subfield>
             <subfield code="k">Novel</subfield>
             <subfield code="1">http://viaf.org/viaf/236105897</subfield>
@@ -741,8 +741,173 @@
             <subfield code="a">Penguin classics.</subfield>
         </datafield>
     </record>
-    
-
+    <!-- A Connecticut Yankee in King Arthur's court -->
+    <record>
+        <leader>01168cam a2200289 c 4500</leader>
+        <controlfield tag="001">998530974454702202</controlfield>
+        <controlfield tag="003">Bibsys</controlfield>
+        <controlfield tag="005">20221018090201.0</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">130425s1983    xx#|||||||||||000|u|eng|d</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0520050894</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0520051092</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Twain, Mark,</subfield>
+            <subfield code="d">1835-1910.</subfield>
+            <subfield code="1">http://viaf.org/viaf/50566653</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="2">
+            <subfield code="a">A Connecticut Yankee in King Arthur's court</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="1">http://viaf.org/viaf/176284998</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="2">
+            <subfield code="a">A Connecticut Yankee in King Arthur's court</subfield>
+            <subfield code="c">Mark Twain ; edited by Bernard L. Stein</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Berkeley</subfield>
+            <subfield code="b">Published in cooperation with the University of Iowa [by] University of California Press</subfield>
+            <subfield code="c">c1983</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">XVII, 479 s.</subfield>
+            <subfield code="b">ill.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Language-based work</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
+        </datafield>
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">The Mark Twain library</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"A publication of the Mark Twain Project of the Bancroft Library".</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Stein, Bernard L.</subfield>
+            <subfield code="0">(NO-TrBIB)90109907</subfield>
+        </datafield>
+        <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">The Mark Twain library</subfield>
+        </datafield>
+    </record>
+    <!-- The innocents abroad -->
+    <record>
+        <leader>01407nam a2200361 i 4500</leader>
+        <controlfield tag="001">021072547</controlfield>
+        <controlfield tag="003">Uk</controlfield>
+        <controlfield tag="005">20230607215824.0</controlfield>
+        <controlfield tag="008">230602r20231869enkabf       |0|0 0|eng  </controlfield>
+        <datafield tag="016" ind1="7" ind2=" ">
+            <subfield code="a">021072547</subfield>
+            <subfield code="2">Uk</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">914.0286</subfield>
+            <subfield code="2">23</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Twain, Mark,</subfield>
+            <subfield code="d">1835-1910.</subfield>
+            <subfield code="1">http://viaf.org/viaf/50566653</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="4">
+            <subfield code="a">The innocents abroad /</subfield>
+            <subfield code="1"></subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The innocents abroad /</subfield>
+            <subfield code="c">Mark Twain ; introduced by Paul Theroux ; illustrated by James Albon.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">The Folio Society,</subfield>
+            <subfield code="c">2023.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xxvii, 561 pages, 7 unnumbered pages of plates :</subfield>
+            <subfield code="b">illustrations (black and white, and colour), 1 map (colour) ;</subfield>
+            <subfield code="c">26 cm</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">still image</subfield>
+            <subfield code="2">rdacontent</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Language-based work</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Follows text of the 1869 edition with minor emendations.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">In slip case.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Originally published: Hartford, Conn. : American Pub. Co., 1869.</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="7">
+            <subfield code="a">Twain, Mark,</subfield>
+            <subfield code="d">1835-1910</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst00031622</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Albon, James,</subfield>
+            <subfield code="e">illustrator.</subfield>
+            <subfield code="1"></subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/m/object/P30321</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Theroux, Paul,</subfield>
+            <subfield code="e">writer of introduction.</subfield>
+            <subfield code="1"></subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/m/object/P30328</subfield>
+        </datafield>
+        <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Folio Society (London, England),</subfield>
+            <subfield code="e">publisher.</subfield>
+        </datafield>
+    </record>
     <!-- Collections -->
     <record>
         <leader>01253 am a2200373 a 4500</leader>
@@ -1377,7 +1542,7 @@
         <datafield tag="700" ind1="1" ind2="2">
             <subfield code="a">Twain, Mark,</subfield>
             <subfield code="d">1835-1910.</subfield>
-            <subfield code="t">Connecticut Yankee in King Arthur's court</subfield>
+            <subfield code="t">A Connecticut Yankee in King Arthur's court</subfield>
             <subfield code="k">Novel</subfield>
             <subfield code="1">http://viaf.org/viaf/176284998</subfield>
         </datafield>
@@ -1846,7 +2011,7 @@
         <datafield tag="700" ind1="1" ind2="2">
             <subfield code="a">Twain, Mark,</subfield>
             <subfield code="d">1835-1910.</subfield>
-            <subfield code="t">Connecticut Yankee in King Arthur's court</subfield>
+            <subfield code="t">A Connecticut Yankee in King Arthur's court</subfield>
             <subfield code="k">Novel</subfield>
             <subfield code="1">http://viaf.org/viaf/176284998</subfield>
         </datafield>

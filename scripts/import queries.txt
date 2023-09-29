@@ -160,6 +160,9 @@ set e.titles = e.titles + m.title + " : ";
 MATCH (e:Expression)-[:EMBODIES]-(m:Manifestation) where m.part IS NOT NULL
 set e.titles = e.titles + m.title + " : ";
 
+MATCH (e:Expression)-[:EMBODIES]-(m:Manifestation) where m.contentsnote IS NOT NULL
+set e.titles = e.titles + m.contentsnote + " : ";
+
 MATCH (from:Expression)-[:PARTOF]-(to:Expression) where to.title IS NOT NULL
 set from.titles = from.titles + to.title + " : ";
 

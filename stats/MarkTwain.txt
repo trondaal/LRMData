@@ -4,7 +4,7 @@ BIB2201 rapport over datasamling - oppdatert 5/6
 -------------------------------------------------------
 
 
-Antall poster i samlingen:24
+Antall poster i samlingen:26
 -------------------------------------------------------
 
 
@@ -45,20 +45,24 @@ men dere velger selv hvilke agenter som skal være med
 * 600  10  $aSawyer, Tom  $c(Fictitious character)  $vJuvenile fiction.
 * 600  10  $aSawyer, Tom  $c(Fictitious character)  $vFiction.
 * 600  10  $aSawyer, Tom  $c(Fictitious character)  $vFiction.
+* 600  17  $aTwain, Mark,  $d1835-1910  $0(OCoLC)fst00031622 $2fast
 * 700  1#  $aBudd, Louis J.
 * 700  1#  $aMelville, Herman,  $d1819-1891.  $4http://rdaregistry.info/Elements/w/object/P10061 $81/c
+* 700  1#  $aStein, Bernard L.  $0(NO-TrBIB)90109907
 * 700  12  $aTwain, Mark,  $d1835-1910.
 * 700  1#  $aWarner, Charles Dudley,  $d1829-1900.
+* 710  2#  $aFolio Society (London, England),  $epublisher.
 
 
 Verk identifisert med URI
 -------------------------------------------------------
+*  =  
 * http://viaf.org/viaf/14767483/mask = Mask (Language-based work)
 * http://viaf.org/viaf/14907223/americanmidnight = American midnight : tales of the dark (Language-based work)
 * http://viaf.org/viaf/17230986/eyes = Eyes. (Language-based work)
 * http://viaf.org/viaf/174717427 = Treasure Island. (Language-based work)
 * http://viaf.org/viaf/174762947 = Tom Sawyer, detective (Language-based work)
-* http://viaf.org/viaf/176284998 = Connecticut Yankee in King Arthur's court (Language-based work)
+* http://viaf.org/viaf/176284998 = A Connecticut Yankee in King Arthur's court (Language-based work)
 * http://viaf.org/viaf/177620548 = Masque of the red death. (Language-based work)
 * http://viaf.org/viaf/178211495 = The adventures of Tom Sawyer / The adventures of Tom Sawyer. (Language-based work)
 * http://viaf.org/viaf/178306412 = Tragedy of Pudd'nhead Wilson / The tragedy of Pudd'nhead Wilson (Language-based work)
@@ -115,6 +119,7 @@ men det er jo ikke nødvendigvis feil!
 * 830  #0  $aPenguin classics.
 * 830  #0  $aPenguin little black classics ;  $v88.
 * 830  #4  $aThe Library of America  $v130
+* 830  #0  $aThe Mark Twain library
 
 
 Poster hvor vi ikke finner noe verk identifisert med URI
@@ -133,9 +138,9 @@ Oversikt over URI relasjonstyper for Agent brukt i samlingen
 verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 -------------------------------------------------------
 * http://rdaregistry.info/Elements/m/object/P30267 (has related agent of manifestation) : 4 
-* http://rdaregistry.info/Elements/m/object/P30321 (has contributor agent of still image) : 1 
-* http://rdaregistry.info/Elements/m/object/P30328 (has contributor agent of text) : 5 
-* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 38 
+* http://rdaregistry.info/Elements/m/object/P30321 (has contributor agent of still image) : 2 
+* http://rdaregistry.info/Elements/m/object/P30328 (has contributor agent of text) : 6 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 40 
 
 
 Personer med URI og relasjonstyper som er brukt for disse
@@ -238,7 +243,7 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 100  1#  $aTwain, Mark,  $d1835-1910.  $1http://viaf.org/viaf/50566653  $4http://rdaregistry.info/Elements/w/object/P10061
 * 240  00  $aMark Twain : 10 books in 1  $kNovels  $1http://viaf.org/viaf/50566653/10booksin1
 * 245  10  $aMark Twain :  $b10 books in 1.
-* 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tConnecticut Yankee in King Arthur's court  $1http://viaf.org/viaf/176284998
+* 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tA Connecticut Yankee in King Arthur's court  $1http://viaf.org/viaf/176284998
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tFollowing the Equator  $1http://viaf.org/viaf/186390341
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tLife on the Mississippi  $1http://viaf.org/viaf/179374558
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tRoughing it  $1http://viaf.org/viaf/179374907
@@ -274,7 +279,7 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  12  $aBurroughs, Edgar Rice,  $d1875-1950.  $kNovel  $tPrincess of Mars.  $1http://viaf.org/viaf/309258253 $81/c
 * 700  12  $aEddison, Eric Rücker,  $d1882-1945.  $kNovel  $tWorm ouroboros.  $1http://viaf.org/viaf/309258431 $82/c
 * 700  12  $aLindsay, David,  $d1876-1945.  $kNovel  $tVoyage to Arcturus.  $1http://viaf.org/viaf/8459151051841033530006 $83/c
-* 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tConnecticut Yankee in King Arthur's court  $1http://viaf.org/viaf/176284998
+* 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tA Connecticut Yankee in King Arthur's court  $1http://viaf.org/viaf/176284998
 * 700  12  $aWells, H. G.  $d1866-1946.  $kNovel  $q(Herbert George),  $tTime machine.  $1http://viaf.org/viaf/306075793 $84/c
 001 = 990208327454702202 
 * 100  1#  $aTwain, Mark  $d1835-1910  $0(NO-TrBIB)90056487  $1http://viaf.org/viaf/50566653  $4http://rdaregistry.info/Elements/w/object/P10061

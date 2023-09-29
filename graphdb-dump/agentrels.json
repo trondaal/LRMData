@@ -1680,6 +1680,44 @@
                     "type": "uri",
                     "value": "https://isni.org/isni/0000000121266025"
                 }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/021072547"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/object/P30321"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Illustrator"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://example.org/"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/021072547"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/object/P30328"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Contributor (additions)"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://example.org/"
+                }
             }
         ]
     }

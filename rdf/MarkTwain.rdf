@@ -64,9 +64,9 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/176284998">
       <rdaxd:P00018>http://viaf.org/viaf/176284998</rdaxd:P00018>
+      <rdawd:P10088>A Connecticut Yankee in King Arthur's court</rdawd:P10088>
+      <rdfs:label>A Connecticut Yankee in King Arthur's court (Twain, Mark)</rdfs:label>
       <rdaxd:P00029>Novel</rdaxd:P00029>
-      <rdawd:P10088>Connecticut Yankee in King Arthur's court</rdawd:P10088>
-      <rdfs:label>Connecticut Yankee in King Arthur's court (Twain, Mark)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/50566653"/>
    </rdac:C10001>
@@ -416,6 +416,10 @@
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/50566653"/>
    </rdac:C10001>
    <rdac:C10002 rdf:about="http://example.org/">
+      <rdaad:P50385>Albon, James</rdaad:P50385>
+      <rdfs:label>Albon, James</rdfs:label>
+      <rdaad:P50385>Theroux, Paul</rdaad:P50385>
+      <rdfs:label>Theroux, Paul</rdfs:label>
       <rdaxd:P00018>Bear, Greg</rdaxd:P00018>
       <rdaad:P50385>Bear, Greg</rdaad:P50385>
       <rdfs:label>Bear, Greg</rdfs:label>
@@ -602,9 +606,10 @@
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/174762947"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/176284998/exp/eng/1020">
-      <rdaed:P20312>Connecticut Yankee in King Arthur's court</rdaed:P20312>
+      <rdaed:P20316>A Connecticut Yankee in King Arthur's court</rdaed:P20316>
+      <rdaed:P20312>A Connecticut Yankee in King Arthur's court</rdaed:P20312>
+      <rdfs:label>A Connecticut Yankee in King Arthur's court / text</rdfs:label>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Connecticut Yankee in King Arthur's court / text</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/176284998"/>
@@ -983,6 +988,24 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q7766574"/>
    </rdac:C10006>
+   <rdac:C10007 rdf:about="http://example.org/021072547">
+      <rdamd:P30156>The innocents abroad</rdamd:P30156>
+      <rdamd:P30117>Mark Twain ; introduced by Paul Theroux ; illustrated by James Albon</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : The Folio Society, 2023.</rdamd:P30111>
+      <rdamd:P30083>The Folio Society</rdamd:P30083>
+      <rdamd:P30011>2023</rdamd:P30011>
+      <rdamd:P30182>xxvii, 561 pages, 7 unnumbered pages of plates : illustrations (black and white, and colour), 1 map (colour), 26 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>Follows text of the 1869 edition with minor emendations.</rdamd:P30137>
+      <rdamd:P30137>In slip case.</rdamd:P30137>
+      <rdamd:P30137>Originally published: Hartford, Conn. : American Pub. Co., 1869.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30321 rdf:resource="http://example.org/"/>
+      <rdamo:P30328 rdf:resource="http://example.org/"/>
+   </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/1712416">
       <rdamd:P30156>4 classic American novels</rdamd:P30156>
       <rdamd:P30117>With an introd. by Willard Thorp</rdamd:P30117>
@@ -1148,6 +1171,28 @@
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q28806254/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/313868151/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q2582895/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0520050894">
+      <rdamd:P30004>ISBN 0520050894</rdamd:P30004>
+      <rdaxd:P00018>isbn-0520050894</rdaxd:P00018>
+      <rdfs:label>ISBN0520050894</rdfs:label>
+      <rdamd:P30004>ISBN 0520051092</rdamd:P30004>
+      <rdaxd:P00018>isbn-0520051092</rdaxd:P00018>
+      <rdfs:label>ISBN0520051092</rdfs:label>
+      <rdamd:P30156>A Connecticut Yankee in King Arthur's court</rdamd:P30156>
+      <rdamd:P30117>Mark Twain ; edited by Bernard L. Stein</rdamd:P30117>
+      <rdamd:P30088>Berkeley</rdamd:P30088>
+      <rdamd:P30111>Berkeley : Published in cooperation with the University of Iowa [by] University of California Press, c1983.</rdamd:P30111>
+      <rdamd:P30083>Published in cooperation with the University of Iowa [by] University of California Press</rdamd:P30083>
+      <rdamd:P30011>c1983</rdamd:P30011>
+      <rdamd:P30182>XVII, 479 s. : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>The Mark Twain library</rdamd:P30106>
+      <rdamd:P30137>"A publication of the Mark Twain Project of the Bancroft Library".</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/176284998/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0752546139">
       <rdamd:P30004>ISBN 0752546139 (pbk.) :</rdamd:P30004>
