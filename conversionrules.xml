@@ -240,6 +240,7 @@
             <relationship type="{$target_subfield}">
                 <target entity="MARC21-700-Related-Work" type="http://rdaregistry.info/Elements/c/C10001" condition="starts-with($target_subfield, 'http://rdaregistry.info/Elements/w/') and frbrizer:linked($anchor_field, $target_field, false())"/>
             </relationship>
+            <!-- hack: using ind1 with value > 0 to indicate that a part of relationship is to be created with added analytical entries -->
             <relationship type="http://rdaregistry.info/Elements/w/object/P10147" condition="$this_field/@ind1 != '0'" label="part of work">
                 <target entity="MARC21-700-Work-Analytical" type="http://rdaregistry.info/Elements/c/C10001"/>
             </relationship>
@@ -334,8 +335,12 @@
             <relationship type="http://rdaregistry.info/Elements/e/datatype/P20331" label="has category">
                 <target entity="MARC381" condition="frbrizer:linked($anchor_field, $target_field, false())"/>
             </relationship>
+            <!-- hack: using ind1 with value > 0 to indicate that a part of relationship is to be created with added analytical entries -->
             <relationship type="http://rdaregistry.info/Elements/e/object/P20145" condition="$this_field/@ind1 != '0'" label="has part expression">
                 <target entity="MARC21-700-Expression-Analytical"/>
+            </relationship>
+            <relationship type="{$target_subfield}">
+                <target entity="MARC21-758-Related-Entity" condition="starts-with($target_subfield, 'http://rdaregistry.info/Elements/e/') and frbrizer:linked($anchor_field, $target_field, false())"/>
             </relationship>
         </relationships>
     </entity>
@@ -369,7 +374,7 @@
                 <subfield code="p" type="http://rdaregistry.info/Elements/m/datatype/P30134" select="frbrizer:trim(.)" label="has title of manifestation (part)"/>
             </datafield>
             <datafield tag="250">
-                <subfield code="a" type="http://rdaregistry.info/Elements/m/datatype/P30107" label="has edition statement"/>
+                <subfield code="a" type="http://rdaregistry.info/Elements/m/datatype/P30107" select="string-join((frbrizer:trim(.), frbrizer:trim(../*:subfield[@code='b'])), ' / ')" label="has edition statement"/>
             </datafield>
             <datafield tag="260">
                 <subfield code="x" type="http://rdaregistry.info/Elements/m/datatype/P30111" select="frbrizer:publication(..)" label="has publication statement"/>
@@ -745,6 +750,20 @@
     </entity>
     
     <entity tag="758" code="4" code-condition="starts-with(., 'http') and exists($this_field/*:subfield[@code = '1']/starts-with(., 'http')) " type="http://rdaregistry.info/Elements/c/C10001" templatename="MARC21-758-Related-Work">
+        <attributes>
+            <datafield tag="758">
+                <subfield code="a" type="http://www.w3.org/2000/01/rdf-schema#label" select="frbrizer:trim(.)" label="rdf label"/>
+                <subfield code="1" type="http://rdaregistry.info/Elements/x/datatype/P00018" label="has identifier for work"/>
+            </datafield>
+        </attributes>
+        <key order="1">
+            <element>frbrizer:trim(*:datafield[@tag=('758')]/*:subfield[@code='1'][starts-with(., 'http')][1])</element>
+        </key>
+        <relationships>          
+        </relationships>
+    </entity>
+    
+    <entity tag="758" code="4" code-condition="starts-with(., 'http') and exists($this_field/*:subfield[@code = '1']/starts-with(., 'http')) " templatename="MARC21-758-Related-Entity">
         <attributes>
             <datafield tag="758">
                 <subfield code="a" type="http://www.w3.org/2000/01/rdf-schema#label" select="frbrizer:trim(.)" label="rdf label"/>

@@ -230,7 +230,7 @@
       <rdaed:P20312>Ringenes herre</rdaed:P20312>
       <rdfs:label>Ringenes herre / text</rdfs:label>
       <rdaed:P20071>Ringens brorskap -- To tårn -- Atter en konge</rdaed:P20071>
-      <rdaed:P20315>Krigen om ringen</rdaed:P20315>
+      <rdaed:P20315>Ringenes herre</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/65245833"/>
@@ -371,6 +371,8 @@
       <rdfs:label>The hobbit, or there and back again / eng / text</rdfs:label>
       <rdaxd:P00029>part</rdaxd:P00029>
       <rdaed:P20315>The hobbit, or there and back again</rdaed:P20315>
+      <rdaxd:P00018>http://www.wikidata.org/entity/Q74287/exp/eng/1020</rdaxd:P00018>
+      <rdfs:label>nynorsk oversettelse</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q74287"/>
@@ -383,6 +385,7 @@
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/267471594"/>
+      <rdaeo:P20141 rdf:resource="http://www.wikidata.org/entity/Q74287/exp/eng/1020"/>
       <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q74287"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q74287/exp/nob/1013/1169314213724530007/224621493/aasenfinn">
