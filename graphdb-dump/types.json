@@ -1342,6 +1342,25 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/50566653/puddnheadwilsonandotherstories/exp/eng/1020"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/9014152502908610800009/exp/eng/1020"
                 },
                 "p": {
@@ -2635,6 +2654,25 @@
                 "s": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/315947516/exp/eng/1020"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/50566653/puddnheadwilsonandotherstories/exp/eng/1020"
                 },
                 "p": {
                     "type": "uri",
@@ -5675,6 +5713,25 @@
                 "s": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/315947516"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/datatype/P10004"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "TYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://schema.nb.no/Bibliographic/Values/V1000"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/50566653/puddnheadwilsonandotherstories"
                 },
                 "p": {
                     "type": "uri",

@@ -16,6 +16,21 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Non-fiction"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9014152502908610800009"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
                     "value": "title"
                 },
                 "value": {
@@ -31,11 +46,41 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Novel"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q15228"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
                     "value": "title"
                 },
                 "value": {
                     "type": "literal",
                     "value": "Lord of the rings"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q208002"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Novel"
                 }
             },
             {
@@ -76,11 +121,41 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Novel"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q332388"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
                     "value": "title"
                 },
                 "value": {
                     "type": "literal",
                     "value": "Two towers"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q332581"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Novel"
                 }
             },
             {
@@ -106,11 +181,41 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Collection"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q15228/companioned"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
                     "value": "title"
                 },
                 "value": {
                     "type": "literal",
                     "value": "Lord of the rings"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q15228/extended"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Collection"
                 }
             },
             {
@@ -136,6 +241,21 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Novel"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74287"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
                     "value": "title"
                 },
                 "value": {
@@ -151,7 +271,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -181,11 +301,11 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
-                    "value": "Short stories"
+                    "value": "Collection"
                 }
             },
             {
@@ -211,7 +331,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -241,7 +361,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -271,7 +391,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -301,7 +421,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -331,7 +451,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -361,7 +481,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -391,7 +511,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -436,7 +556,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -466,7 +586,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -496,7 +616,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -526,7 +646,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -556,7 +676,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -586,7 +706,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -616,7 +736,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -646,7 +766,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -676,7 +796,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -706,7 +826,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -736,7 +856,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -766,7 +886,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -796,7 +916,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -826,7 +946,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -856,7 +976,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -886,7 +1006,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -916,7 +1036,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -946,7 +1066,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -976,7 +1096,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -1006,7 +1126,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -1036,7 +1156,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -1066,7 +1186,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -1096,7 +1216,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -1126,7 +1246,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -1156,7 +1276,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -1186,11 +1306,11 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
-                    "value": "Novels"
+                    "value": "Collection"
                 }
             },
             {
@@ -1216,7 +1336,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -1246,7 +1366,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -1276,7 +1396,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -1306,11 +1426,11 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
-                    "value": "Novels"
+                    "value": "Collection"
                 }
             },
             {
@@ -1336,11 +1456,26 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
                     "value": "Novels"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/50566653/marktwainselectednovels"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Collection"
                 }
             },
             {
@@ -1381,7 +1516,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -1411,11 +1546,11 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
-                    "value": "Stories"
+                    "value": "Collection"
                 }
             },
             {
@@ -1441,11 +1576,11 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
-                    "value": "Short stories"
+                    "value": "Collection"
                 }
             },
             {
@@ -1471,7 +1606,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -1501,7 +1636,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -1531,7 +1666,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -1561,7 +1696,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -1591,7 +1726,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -1621,7 +1756,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -1656,6 +1791,21 @@
                 "value": {
                     "type": "literal",
                     "value": "The innocents abroad"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/50566653/puddnheadwilsonandotherstories"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Pudd'nhead Wilson and other tales"
                 }
             },
             {
@@ -2776,7 +2926,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -2851,7 +3001,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -2926,7 +3076,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -3016,7 +3166,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -3091,7 +3241,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -3301,7 +3451,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -3361,7 +3511,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -3436,7 +3586,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -3511,7 +3661,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -3556,7 +3706,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -3601,7 +3751,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -3646,7 +3796,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -3916,7 +4066,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -3946,7 +4096,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4006,7 +4156,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4036,7 +4186,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4066,7 +4216,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4096,7 +4246,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4141,7 +4291,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4171,7 +4321,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4216,7 +4366,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4261,7 +4411,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4306,7 +4456,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4336,7 +4486,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4366,7 +4516,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4396,7 +4546,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4426,7 +4576,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4456,7 +4606,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4486,7 +4636,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4516,7 +4666,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4546,7 +4696,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4591,7 +4741,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4636,7 +4786,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4666,7 +4816,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4696,7 +4846,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4726,7 +4876,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4756,7 +4906,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4786,7 +4936,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4816,7 +4966,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4846,7 +4996,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4906,7 +5056,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -4981,7 +5131,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -5011,7 +5161,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -5071,7 +5221,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -5131,7 +5281,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -5161,7 +5311,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -5191,7 +5341,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -5251,7 +5401,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -5281,7 +5431,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -5341,7 +5491,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -5371,7 +5521,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -5431,7 +5581,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -5521,7 +5671,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -5551,7 +5701,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -5611,7 +5761,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -5671,7 +5821,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -5701,7 +5851,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -5731,7 +5881,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -5761,7 +5911,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -5791,7 +5941,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -5821,7 +5971,7 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "expressionrole"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
@@ -5871,6 +6021,66 @@
                 "value": {
                     "type": "literal",
                     "value": "The innocents abroad"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/50566653/puddnheadwilsonandotherstories/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "collection"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/50566653/puddnheadwilsonandotherstories/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "contentsnote"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The tragedy of Pudd'nhead Wilson -- The man that corrupted Hadleyburg -- Those extraordinary twins"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/50566653/puddnheadwilsonandotherstories/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Pudd'nhead Wilson ; : Those extraordinary twins ; The man that corrupted Hadleyburg"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/50566653/puddnheadwilsonandotherstories/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Pudd'nhead Wilson and other tales"
                 }
             },
             {
@@ -12261,6 +12471,21 @@
                 "value": {
                     "type": "literal",
                     "value": "Previously issued in print: 1992."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780191921957"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "contentsnote"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The tragedy of Pudd'nhead Wilson -- The man that corrupted Hadleyburg -- Those extraordinary twins"
                 }
             },
             {

@@ -1104,7 +1104,7 @@
         </datafield>
         <datafield tag="130" ind1="0" ind2="0">
             <subfield code="a">Great books of the western world</subfield>
-            <subfield code="k">Novels</subfield>
+            <subfield code="k">Collection</subfield>
             <subfield code="v">48</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="0">
@@ -1208,7 +1208,7 @@
         </datafield>
         <datafield tag="240" ind1="0" ind2="0">
             <subfield code="a">Great novels of Mark Twain</subfield>
-            <subfield code="k">Novels</subfield>
+            <subfield code="k">Collection</subfield>
             <subfield code="1">http://viaf.org/viaf/50566653/greatnovels</subfield>
         </datafield> 
         <datafield tag="245" ind1="1" ind2="0">
@@ -1288,12 +1288,12 @@
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
         </datafield>
         <!--<datafield tag="240" ind1="1" ind2="0">
-            <subfield code="a">Novels</subfield>
+            <subfield code="a">Collection</subfield>
             <subfield code="k">N</subfield>
         </datafield>-->
         <datafield tag="240" ind1="0" ind2="0">
             <subfield code="a">Mark Twain</subfield>
-            <subfield code="k">Novels</subfield>
+            <subfield code="k">Collection</subfield>
             <subfield code="1">http://viaf.org/viaf/50566653/marktwain</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="0">
@@ -1391,12 +1391,12 @@
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
         </datafield>
         <!-- <datafield tag="240" ind1="1" ind2="0">
-            <subfield code="a">Novels.</subfield>
+            <subfield code="a">Collection.</subfield>
             <subfield code="k">Selections</subfield>
         </datafield>-->
         <datafield tag="240" ind1="0" ind2="0">
             <subfield code="a">Mark Twain</subfield>
-            <subfield code="k">Novels</subfield>
+            <subfield code="k">Collection</subfield>
             <subfield code="1">http://viaf.org/viaf/50566653/marktwainselectednovels</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="0">
@@ -2334,7 +2334,7 @@
         </datafield>
         <datafield tag="240" ind1="0" ind2="0">
             <subfield code="a">American midnight : tales of the dark</subfield>
-            <subfield code="k">Short stories</subfield>
+            <subfield code="k">Collection</subfield>
             <subfield code="1">http://viaf.org/viaf/14907223/americanmidnight</subfield>
         </datafield>
         <datafield tag="245" ind1="0" ind2="0">
@@ -2596,7 +2596,7 @@
         </datafield>
         <datafield tag="240" ind1="0" ind2="0">
             <subfield code="a">The stolen white elephant</subfield>
-            <subfield code="k">Short stories</subfield>
+            <subfield code="k">Collection</subfield>
             <subfield code="1">http://viaf.org/viaf/50566653/thestolenwhiteelephantcollection</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="4">
@@ -2701,7 +2701,7 @@
         </datafield>
         <datafield tag="240" ind1="0" ind2="4">
             <subfield code="a">The mysterious stranger and other stories</subfield>
-            <subfield code="k">Stories</subfield>
+            <subfield code="k">Collection</subfield>
             <subfield code="1">http://viaf.org/viaf/50566653/strangerandotherstories</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="4">
@@ -2795,9 +2795,12 @@
             <subfield code="a">Twain, Mark,</subfield>
             <subfield code="d">1835-1910,</subfield>
             <subfield code="e">author.</subfield>
+            <subfield code="1">http://viaf.org/viaf/50566653</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
         </datafield>
         <datafield tag="240" ind1="0" ind2="0">
             <subfield code="a">Pudd'nhead Wilson and other tales</subfield>
+            <subfield code="1">http://viaf.org/viaf/50566653/puddnheadwilsonandotherstories</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="0">
             <subfield code="a">Pudd'nhead Wilson ;</subfield>
@@ -2843,6 +2846,9 @@
         </datafield>
         <datafield tag="504" ind1=" " ind2=" ">
             <subfield code="a">Includes bibliographical references.</subfield>
+        </datafield>
+        <datafield tag="505" ind1=" " ind2=" ">
+            <subfield code="a">The tragedy of Pudd'nhead Wilson -- The man that corrupted Hadleyburg -- Those extraordinary twins</subfield>
         </datafield>
         <datafield tag="588" ind1=" " ind2=" ">
             <subfield code="a">Description based on publisher information.</subfield>

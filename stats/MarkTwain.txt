@@ -41,7 +41,6 @@ Agenter identifisert med URI
 Agent-innførsler som IKKE er identifiser med URI i $1
 men dere velger selv hvilke agenter som skal være med
 -------------------------------------------------------
-* 100  1#  $aTwain, Mark,  $d1835-1910,  $eauthor.
 * 600  10  $aFinn, Huckleberry  $c(Fictitious character)  $vFiction.
 * 600  10  $aFinn, Huckleberry  $c(Fictitious character)  $vFiction.
 * 600  10  $aFinn, Huckleberry  $c(Fictitious character)  $vFiction.
@@ -98,6 +97,7 @@ Verk identifisert med URI
 * http://viaf.org/viaf/50566653/marktwain = Mark Twain (Language-based work)
 * http://viaf.org/viaf/50566653/marktwainselectednovels = Mark Twain / Mark Twain : selected novels (Language-based work)
 * http://viaf.org/viaf/50566653/prosper = The story of the good little boy who did not prosper (Language-based work)
+* http://viaf.org/viaf/50566653/puddnheadwilsonandotherstories = Pudd'nhead Wilson and other tales (Language-based work)
 * http://viaf.org/viaf/50566653/strangerandotherstories = The mysterious stranger and other stories (Language-based work)
 * http://viaf.org/viaf/50566653/thestolenwhiteelephantcollection = The stolen white elephant (Language-based work)
 * http://viaf.org/viaf/5357147270653335700002 = Billy Budd. (Language-based work)
@@ -116,8 +116,7 @@ Verk identifisert med URI
 Innførsler som IKKE er identifisert som verk på grunn av manglende URI i $1
 men det er jo ikke nødvendigvis feil!
 -------------------------------------------------------
-* 130  00  $aGreat books of the western world  $kNovels  $v48
-* 240  00  $aPudd'nhead Wilson and other tales
+* 130  00  $aGreat books of the western world  $kCollection  $v48
 * 700  12  $aMelville, Herman,  $d1819-1891.  $kNovels  $tMoby Dick, or, The Whale / $81/c
 * 830  #0  $aDover thrift editions.
 * 830  #0  $aPenguin classics.
@@ -144,7 +143,7 @@ verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 * http://rdaregistry.info/Elements/m/object/P30267 (has related agent of manifestation) : 5 
 * http://rdaregistry.info/Elements/m/object/P30321 (has contributor agent of still image) : 2 
 * http://rdaregistry.info/Elements/m/object/P30328 (has contributor agent of text) : 6 
-* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 42 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 43 
 
 
 Personer med URI og relasjonstyper som er brukt for disse
@@ -220,20 +219,20 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tThe adventures of Huckleberry Finn.  $1http://viaf.org/viaf/178806136
 001 = 005604756 
 * 100  1#  $aTwain, Mark,  $d1835-1910,  $eauthor.  $1http://viaf.org/viaf/50566653  $4http://rdaregistry.info/Elements/w/object/P10061
-* 240  00  $aGreat novels of Mark Twain  $kNovels  $1http://viaf.org/viaf/50566653/greatnovels
+* 240  00  $aGreat novels of Mark Twain  $kCollection  $1http://viaf.org/viaf/50566653/greatnovels
 * 245  10  $aGreat novels of Mark Twain.
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tThe adventures of Huckleberry Finn.  $1http://viaf.org/viaf/178806136
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tThe adventures of Tom Sawyer.  $1http://viaf.org/viaf/178211495
 001 = 019998896 
 * 100  1#  $aTwain, Mark,  $d1835-1910,  $eauthor.  $1http://viaf.org/viaf/50566653  $4http://rdaregistry.info/Elements/w/object/P10061
-* 240  00  $aMark Twain  $kNovels  $1http://viaf.org/viaf/50566653/marktwain
+* 240  00  $aMark Twain  $kCollection  $1http://viaf.org/viaf/50566653/marktwain
 * 245  10  $aMark Twain.
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tThe adventures of Huckleberry Finn.  $1http://viaf.org/viaf/178806136
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tThe adventures of Tom Sawyer.  $1http://viaf.org/viaf/178211495
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tThe prince and the pauper  $1http://viaf.org/viaf/235238105
 001 = 016530864 
 * 100  1#  $aTwain, Mark,  $d1835-1910,  $eauthor.  $1http://viaf.org/viaf/50566653  $4http://rdaregistry.info/Elements/w/object/P10061
-* 240  00  $aMark Twain  $kNovels  $1http://viaf.org/viaf/50566653/marktwainselectednovels
+* 240  00  $aMark Twain  $kCollection  $1http://viaf.org/viaf/50566653/marktwainselectednovels
 * 245  10  $aMark Twain :  $bselected novels /  $cby Mark Twain ; introduction by Stephen Railton.
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tThe adventures of Huckleberry Finn.  $1http://viaf.org/viaf/178806136
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tThe adventures of Tom Sawyer.  $1http://viaf.org/viaf/178211495
@@ -299,7 +298,7 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tTom Sawyer abroad  $1http://viaf.org/viaf/310534325
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tTom Sawyer, detective  $1http://viaf.org/viaf/174762947
 001 = 22316251 
-* 240  00  $aAmerican midnight : tales of the dark  $kShort stories  $1http://viaf.org/viaf/14907223/americanmidnight
+* 240  00  $aAmerican midnight : tales of the dark  $kCollection  $1http://viaf.org/viaf/14907223/americanmidnight
 * 245  00  $aAmerican midnight :  $btales of the dark /  $cselected and introduced by Laird Hunt.
 * 700  12  $aChambers, Robert W.  $d1865-1933.  $iContainer of (work) :  $kShort story  $q(Robert William),  $tMask  $1http://viaf.org/viaf/14767483/mask $84/c
 * 700  12  $aDawson, Emma Frances.  $iContainer of (work) :  $kShort story  $tItinerant house.  $1http://viaf.org/viaf/270703833/itineranthouse $89/c
@@ -311,7 +310,7 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  12  $aWharton, Edith,  $d1862-1937.  $iContainer of (work) :  $kShort story  $tEyes.  $1http://viaf.org/viaf/17230986/eyes $83/c
 001 = 017692504 
 * 100  1#  $aTwain, Mark,  $d1835-1910,  $eauthor.  $1http://viaf.org/viaf/50566653  $4http://rdaregistry.info/Elements/w/object/P10061
-* 240  00  $aThe stolen white elephant  $kShort stories  $1http://viaf.org/viaf/50566653/thestolenwhiteelephantcollection
+* 240  00  $aThe stolen white elephant  $kCollection  $1http://viaf.org/viaf/50566653/thestolenwhiteelephantcollection
 * 245  14  $aThe stolen white elephant /  $cMark Twain.
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kShort story  $tThe celebrated jumping frog of Calaveras County  $1http://www.wikidata.org/entity/Q3208053
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kShort story  $tThe stolen white elephant  $1http://www.wikidata.org/entity/Q7766574
@@ -319,13 +318,15 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kShort story  $tThe story of the good little boy who did not prosper  $1http://viaf.org/viaf/50566653/prosper
 001 = 006727844 
 * 100  1#  $aTwain, Mark,  $d1835-1910.  $1http://viaf.org/viaf/50566653  $4http://rdaregistry.info/Elements/w/object/P10061
-* 240  04  $aThe mysterious stranger and other stories  $kStories  $1http://viaf.org/viaf/50566653/strangerandotherstories
+* 240  04  $aThe mysterious stranger and other stories  $kCollection  $1http://viaf.org/viaf/50566653/strangerandotherstories
 * 245  14  $aThe mysterious stranger and other stories /  $cMark Twain.
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tThe man that corrupted Hadleyburg  $1http://viaf.org/viaf/313868151
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tThe mysterious stranger  $1http://www.wikidata.org/entity/Q2582895
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kShort story  $tThe notorious jumping frog of Calaveras County  $1http://viaf.org/viaf/310521814
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kShort story  $tThe £1,000,000 bank-note  $1http://www.wikidata.org/entity/Q28806254
 001 = 020014793 
+* 100  1#  $aTwain, Mark,  $d1835-1910,  $eauthor.  $1http://viaf.org/viaf/50566653  $4http://rdaregistry.info/Elements/w/object/P10061
+* 240  00  $aPudd'nhead Wilson and other tales  $1http://viaf.org/viaf/50566653/puddnheadwilsonandotherstories
 * 245  10  $aPudd'nhead Wilson ;  $bThose extraordinary twins ; The man that corrupted Hadleyburg /  $cMark Twain ; edited with an introduction and notes by R.D. Gooder.
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tThe man that corrupted Hadleyburg.  $1http://viaf.org/viaf/313868151
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tThe tragedy of Pudd'nhead Wilson  $1http://viaf.org/viaf/178306412

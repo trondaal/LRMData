@@ -1676,6 +1676,21 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-9780191921957"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/50566653/puddnheadwilsonandotherstories/exp/eng/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-9780241251744"
                 },
                 "l": {
@@ -3126,6 +3141,21 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/315947516"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/50566653/puddnheadwilsonandotherstories/exp/eng/1020"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/50566653/puddnheadwilsonandotherstories"
                 }
             }
         ]

@@ -34,7 +34,7 @@
       <rdaxd:P00018>http://viaf.org/viaf/14907223/americanmidnight</rdaxd:P00018>
       <rdawd:P10088>American midnight : tales of the dark</rdawd:P10088>
       <rdfs:label>American midnight : tales of the dark ()</rdfs:label>
-      <rdaxd:P00029>Short stories</rdaxd:P00029>
+      <rdaxd:P00029>Collection</rdaxd:P00029>
       <rdawd:P10330>A masquerade ball cut short by a mysterious plague, a strange nocturnal ritual in the woods, a black bobcat howling in the night: these ten tales are some of the most strange and unsettling in all of American literature, filled with unforgettable imagery and simmering with tension. From Edgar Allan Poe to Shirley Jackson, Nathaniel Hawthorne to Zora Neale Hurston, the authors of these classics of supernatural suspense have inspired generations of writers to explore the dark heart of the land of the free. The stories in this collection have been selected and introduced by Laird Hunt, an author of seven acclaimed novels which explore the shadowy corners of American history.</rdawd:P10330>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
    </rdac:C10001>
@@ -150,6 +150,7 @@
       <rdawd:P10088>Those extraordinary twins</rdawd:P10088>
       <rdfs:label>Those extraordinary twins (Twain, Mark)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/50566653"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/185973459">
       <rdaxd:P00018>http://viaf.org/viaf/185973459</rdaxd:P00018>
@@ -281,7 +282,7 @@
       <rdaxd:P00018>http://viaf.org/viaf/50566653/greatnovels</rdaxd:P00018>
       <rdawd:P10088>Great novels of Mark Twain</rdawd:P10088>
       <rdfs:label>Great novels of Mark Twain (Twain, Mark)</rdfs:label>
-      <rdaxd:P00029>Novels</rdaxd:P00029>
+      <rdaxd:P00029>Collection</rdaxd:P00029>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/50566653"/>
    </rdac:C10001>
@@ -304,7 +305,7 @@
       <rdaxd:P00018>http://viaf.org/viaf/50566653/marktwain</rdaxd:P00018>
       <rdawd:P10088>Mark Twain</rdawd:P10088>
       <rdfs:label>Mark Twain (Twain, Mark)</rdfs:label>
-      <rdaxd:P00029>Novels</rdaxd:P00029>
+      <rdaxd:P00029>Collection</rdaxd:P00029>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/50566653"/>
    </rdac:C10001>
@@ -312,9 +313,10 @@
       <rdaxd:P00018>http://viaf.org/viaf/50566653/marktwainselectednovels</rdaxd:P00018>
       <rdawd:P10088>Mark Twain</rdawd:P10088>
       <rdfs:label>Mark Twain (Twain, Mark)</rdfs:label>
-      <rdaxd:P00029>Novels</rdaxd:P00029>
+      <rdaxd:P00029>Collection</rdaxd:P00029>
       <rdawd:P10088>Mark Twain : selected novels</rdawd:P10088>
       <rdfs:label>Mark Twain : selected novels (Twain, Mark)</rdfs:label>
+      <rdaxd:P00029>Novels</rdaxd:P00029>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/50566653"/>
    </rdac:C10001>
@@ -326,11 +328,18 @@
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/50566653"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/50566653/puddnheadwilsonandotherstories">
+      <rdaxd:P00018>http://viaf.org/viaf/50566653/puddnheadwilsonandotherstories</rdaxd:P00018>
+      <rdawd:P10088>Pudd'nhead Wilson and other tales</rdawd:P10088>
+      <rdfs:label>Pudd'nhead Wilson and other tales (Twain, Mark)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/50566653"/>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/50566653/strangerandotherstories">
       <rdaxd:P00018>http://viaf.org/viaf/50566653/strangerandotherstories</rdaxd:P00018>
       <rdawd:P10088>The mysterious stranger and other stories</rdawd:P10088>
       <rdfs:label>The mysterious stranger and other stories (Twain, Mark)</rdfs:label>
-      <rdaxd:P00029>Stories</rdaxd:P00029>
+      <rdaxd:P00029>Collection</rdaxd:P00029>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/50566653"/>
    </rdac:C10001>
@@ -338,7 +347,7 @@
       <rdaxd:P00018>http://viaf.org/viaf/50566653/thestolenwhiteelephantcollection</rdaxd:P00018>
       <rdawd:P10088>The stolen white elephant</rdawd:P10088>
       <rdfs:label>The stolen white elephant (Twain, Mark)</rdfs:label>
-      <rdaxd:P00029>Short stories</rdaxd:P00029>
+      <rdaxd:P00029>Collection</rdaxd:P00029>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/50566653"/>
    </rdac:C10001>
@@ -913,6 +922,16 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/50566653/prosper"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/50566653/puddnheadwilsonandotherstories/exp/eng/1020">
+      <rdaed:P20316>Pudd'nhead Wilson and other tales</rdaed:P20316>
+      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaed:P20312>Pudd'nhead Wilson ; : Those extraordinary twins ; The man that corrupted Hadleyburg</rdaed:P20312>
+      <rdfs:label>Pudd'nhead Wilson ; / text</rdfs:label>
+      <rdaed:P20071>The tragedy of Pudd'nhead Wilson -- The man that corrupted Hadleyburg -- Those extraordinary twins</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/50566653/puddnheadwilsonandotherstories"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/50566653/strangerandotherstories/exp/eng/1020">
       <rdaed:P20316>The mysterious stranger and other stories</rdaed:P20316>
       <rdaxd:P00029>collection</rdaxd:P00029>
@@ -1431,8 +1450,10 @@
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1018</rdamd:P30001>
       <rdamd:P30106>Oxford world's classics</rdamd:P30106>
       <rdamd:P30137>Previously issued in print: 1992.</rdamd:P30137>
+      <rdamd:P30137>The tragedy of Pudd'nhead Wilson -- The man that corrupted Hadleyburg -- Those extraordinary twins</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/50566653/puddnheadwilsonandotherstories/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/178306412/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/313868151/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/185283433/exp/eng/1020"/>
