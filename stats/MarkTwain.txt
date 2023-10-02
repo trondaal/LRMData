@@ -117,7 +117,7 @@ Innførsler som IKKE er identifisert som verk på grunn av manglende URI i $1
 men det er jo ikke nødvendigvis feil!
 -------------------------------------------------------
 * 130  00  $aGreat books of the western world  $kCollection  $v48
-* 700  12  $aMelville, Herman,  $d1819-1891.  $kNovels  $tMoby Dick, or, The Whale / $81/c
+* 700  12  $aMelville, Herman,  $d1819-1891.  $kNovel  $tMoby Dick, or, The Whale / $81/c
 * 830  #0  $aDover thrift editions.
 * 830  #0  $aPenguin classics.
 * 830  #0  $aPenguin little black classics ;  $v88.
@@ -215,7 +215,7 @@ I praksis er det 700-felter med ind2=2, $t og $1
 -------------------------------------------------------
 001 = 005630987 
 * 245  10  $aMoby Dick, or, The Whale /  $cHerman Melville.
-* 700  12  $aMelville, Herman,  $d1819-1891.  $kNovels  $tMoby Dick, or, The Whale / $81/c
+* 700  12  $aMelville, Herman,  $d1819-1891.  $kNovel  $tMoby Dick, or, The Whale / $81/c
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tThe adventures of Huckleberry Finn.  $1http://viaf.org/viaf/178806136
 001 = 005604756 
 * 100  1#  $aTwain, Mark,  $d1835-1910,  $eauthor.  $1http://viaf.org/viaf/50566653  $4http://rdaregistry.info/Elements/w/object/P10061
@@ -240,7 +240,7 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tTom Sawyer, detective  $1http://viaf.org/viaf/174762947
 001 = 016094836 
 * 100  1#  $aTwain, Mark,  $d1835-1910.  $1http://viaf.org/viaf/50566653  $4http://rdaregistry.info/Elements/w/object/P10061
-* 240  00  $aMark Twain : selected novels  $kNovels  $1http://viaf.org/viaf/50566653/marktwainselectednovels
+* 240  00  $aMark Twain : selected novels  $kCollection  $1http://viaf.org/viaf/50566653/marktwainselectednovels
 * 245  10  $aMark Twain :  $bselected novels /  $cby Mark Twain.
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tThe adventures of Huckleberry Finn.  $1http://viaf.org/viaf/178806136
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tThe adventures of Tom Sawyer.  $1http://viaf.org/viaf/178211495
@@ -248,7 +248,7 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tTom Sawyer, detective  $1http://viaf.org/viaf/174762947
 001 = 013684727 
 * 100  1#  $aTwain, Mark,  $d1835-1910.  $1http://viaf.org/viaf/50566653  $4http://rdaregistry.info/Elements/w/object/P10061
-* 240  00  $aMark Twain : 10 books in 1  $kNovels  $1http://viaf.org/viaf/50566653/10booksin1
+* 240  00  $aMark Twain : 10 books in 1  $kCollection  $1http://viaf.org/viaf/50566653/10booksin1
 * 245  10  $aMark Twain :  $b10 books in 1.
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tA Connecticut Yankee in King Arthur's court  $1http://viaf.org/viaf/176284998
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tFollowing the Equator  $1http://viaf.org/viaf/186390341
@@ -261,27 +261,27 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tTom Sawyer, detective  $1http://viaf.org/viaf/174762947
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tTragedy of Pudd'nhead Wilson  $1http://viaf.org/viaf/178306412
 001 = 014626425 
-* 240  00  $aThe adventure collection  $kNovels  $1http://viaf.org/viaf/50566653/adventurecollection
+* 240  00  $aThe adventure collection  $kCollection  $1http://viaf.org/viaf/50566653/adventurecollection
 * 245  04  $aThe adventure collection /  $cRobert Louis Stevenson, Kenneth Grahame, Mark Twain ; introductions by Eoin Colfer, Brian Jacques, Richard Peck.
 * 700  12  $aGrahame, Kenneth,  $d1859-1932.  $kNovel  $tWind in the willows.  $1http://viaf.org/viaf/181441476 $81/c
 * 700  12  $aStevenson, Robert Louis,  $d1850-1894.  $kNovel  $tTreasure Island.  $1http://viaf.org/viaf/174717427 $82/c
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tThe adventures of Tom Sawyer.  $1http://viaf.org/viaf/178211495 $83/c
 001 = 15031529 
-* 240  00  $a4 classic American novels  $kNovels  $1http://viaf.org/viaf/50566653/4classicalamericannovels
+* 240  00  $a4 classic American novels  $kCollection  $1http://viaf.org/viaf/50566653/4classicalamericannovels
 * 245  00  $a4 classic American novels /  $cwith a new introduction by Sandra Newman.
 * 700  12  $aCrane, Stephen,  $d1871-1900.  $kNovel  $tRed badge of courage.  $1http://viaf.org/viaf/181799290 $81/c
 * 700  12  $aHawthorne, Nathaniel,  $d1804-1864.  $kNovel  $tScarlet letter.  $1http://viaf.org/viaf/182657402 $82/c
 * 700  12  $aMelville, Herman,  $d1819-1891.  $kNovel  $tBilly Budd.  $1http://viaf.org/viaf/5357147270653335700002 $83/c
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tThe adventures of Huckleberry Finn.  $1http://viaf.org/viaf/178806136
 001 = 1712416 
-* 240  00  $a4 classic American novels  $kNovels  $1http://viaf.org/viaf/50566653/4classicalamericannovels
+* 240  00  $a4 classic American novels  $kCollection  $1http://viaf.org/viaf/50566653/4classicalamericannovels
 * 245  00  $a4 classic American novels.  $cWith an introd. by Willard Thorp.
 * 700  12  $aCrane, Stephen,  $d1871-1900.  $kNovel  $tRed badge of courage.  $1http://viaf.org/viaf/181799290
 * 700  12  $aHawthorne, Nathaniel,  $d1804-1864.  $kNovel  $tScarlet letter.  $1http://viaf.org/viaf/182657402
 * 700  12  $aMelville, Herman,  $d1819-1891.  $kNovel  $tBilly Budd.  $1http://viaf.org/viaf/5357147270653335700002
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tThe adventures of Huckleberry Finn.  $1http://viaf.org/viaf/178806136
 001 = 018345377 
-* 240  00  $aJourneys through time & space  $kNovels  $1http://viaf.org/viaf/50566653/journeysthroughtimeandspace
+* 240  00  $aJourneys through time & space  $kCollection  $1http://viaf.org/viaf/50566653/journeysthroughtimeandspace
 * 245  00  $aJourneys through time & space :  $b5 classic novels of science fiction and fantasy /  $cH.G. Wells, E.R. Eddison, David Lindsay, Edgar R. Burroughs, Mark Twain ; edited by Greg Bear.
 * 700  12  $aBurroughs, Edgar Rice,  $d1875-1950.  $kNovel  $tPrincess of Mars.  $1http://viaf.org/viaf/309258253 $81/c
 * 700  12  $aEddison, Eric Rücker,  $d1882-1945.  $kNovel  $tWorm ouroboros.  $1http://viaf.org/viaf/309258431 $82/c
@@ -290,7 +290,7 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  12  $aWells, H. G.  $d1866-1946.  $kNovel  $q(Herbert George),  $tTime machine.  $1http://viaf.org/viaf/306075793 $84/c
 001 = 990208327454702202 
 * 100  1#  $aTwain, Mark  $d1835-1910  $0(NO-TrBIB)90056487  $1http://viaf.org/viaf/50566653  $4http://rdaregistry.info/Elements/w/object/P10061
-* 240  04  $aThe gilded age and later novels  $kNovels  $1http://viaf.org/viaf/50566653/gildedageandlaternovels
+* 240  04  $aThe gilded age and later novels  $kCollection  $1http://viaf.org/viaf/50566653/gildedageandlaternovels
 * 245  14  $aThe gilded age and later novels  $cMark Twain
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tThe American claimant  $1http://www.wikidata.org/entity/Q7713449
 * 700  12  $aTwain, Mark,  $d1835-1910.  $kNovel  $tThe gilded age  $1http://viaf.org/viaf/236105897
