@@ -3079,6 +3079,17 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-9780008483623"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Manifestation"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://example.org/010109954"
                 },
                 "label": {
@@ -3640,28 +3651,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://example.org/011558601"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Manifestation"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-0002313219"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Manifestation"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "http://example.org/isbn-000649630"
                 },
                 "label": {
@@ -3850,6 +3839,17 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://example.org/isbn-9780008255398"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Manifestation"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-1444802593"
                 },
                 "label": {
                     "xml:lang": "gden",

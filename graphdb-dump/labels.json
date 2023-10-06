@@ -3000,6 +3000,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-9780008483623"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN9780008483623 (pbk.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-000720308"
                 },
                 "label": {
@@ -3590,16 +3600,6 @@
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://example.org/isbn-0002313219"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "ISBN0002313219"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
                     "value": "http://example.org/isbn-000649630"
                 },
                 "label": {
@@ -3785,6 +3785,26 @@
                 "label": {
                     "type": "literal",
                     "value": "ISBN9780008255398 (pbk.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-1444802593"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN1444802593 (pbk.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-1444802593"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN9781444802597 (pbk.)"
                 }
             }
         ]

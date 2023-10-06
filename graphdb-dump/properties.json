@@ -8930,21 +8930,6 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "The hound of death : and other stories 1933"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/8905164661901103390006/exp/eng/1020"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
                     "value": "The hound of death"
                 }
             },
@@ -10131,6 +10116,141 @@
                 "value": {
                     "type": "literal",
                     "value": "Boxed."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780008483623"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 9780008483623 (pbk.) :"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780008483623"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Death on the Nile"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780008483623"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Agatha Christie"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780008483623"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1 volume, 20 cm."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780008483623"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "London : HarperCollinsPublishers, 2022."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780008483623"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "London"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780008483623"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "HarperCollinsPublishers"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780008483623"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "2022"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780008483623"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "series"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Poirot"
                 }
             },
             {
@@ -18311,276 +18431,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://example.org/011558601"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "The Hound of Death and other stories"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/011558601"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "extent"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "219 pages, 18 cm."
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/011558601"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "publisher"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Pan books"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/011558601"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "publicationdate"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "1960"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/011558601"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "contentsnote"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "The Hound of Death -- The Red Signal -- The Fourth Man -- The Gypsy -- The Lamp -- Wireless -- The Witness for the Prosecution -- The Mystery of the Blue Jar -- The Strange Case of Sir Arthur Carmichael -- The Call of Wings -- The Last S\u00e9ance -- SOS"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/011558601"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "contentsnote"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Originally published, Collins, 1933."
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-0002313219"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "identifier"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "ISBN 0002313219 :"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-0002313219"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "The hound of death"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-0002313219"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "subtitle"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "and other stories 1933"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-0002313219"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "responsibility"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Agatha Christie"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-0002313219"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "extent"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "218p., 22cm."
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-0002313219"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "publication"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "London : HarperCollins, 1997."
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-0002313219"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "publicationplace"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "London"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-0002313219"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "publisher"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "HarperCollins"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-0002313219"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "publicationdate"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "1997"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-0002313219"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "series"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "The Agatha Christie collection ;"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-0002313219"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "seriesnumbering"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "v.18"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-0002313219"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "contentsnote"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "The Hound of Death -- The Red Signal -- The Fourth Man -- The Gypsy -- The Lamp -- Wireless -- The Witness for the Prosecution -- The Mystery of the Blue Jar -- The Strange Case of Sir Arthur Carmichael -- The Call of Wings -- The Last S\u00e9ance -- SOS"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "http://example.org/isbn-000649630"
                 },
                 "label": {
@@ -21456,6 +21306,171 @@
                 "value": {
                     "type": "literal",
                     "value": "The Hound of Death -- The Red Signal -- The Fourth Man -- The Gypsy -- The Lamp -- Wireless -- The Witness for the Prosecution -- The Mystery of the Blue Jar -- The Strange Case of Sir Arthur Carmichael -- The Call of Wings -- The Last S\u00e9ance -- SOS"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-1444802593"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 1444802593 (pbk.) :"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-1444802593"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 9781444802597 (pbk.) :"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-1444802593"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Appointment with death"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-1444802593"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Agatha Christie"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-1444802593"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1 v. (large print), 23 cm."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-1444802593"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Leicester : Ulverscroft, 2010."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-1444802593"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Leicester"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-1444802593"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Ulverscroft"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-1444802593"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "2010"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-1444802593"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "contentsnote"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Formerly CIP."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-1444802593"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "contentsnote"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Originally published: London: Collins, 1938."
                 }
             }
         ]
