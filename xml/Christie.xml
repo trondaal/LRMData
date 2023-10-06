@@ -429,7 +429,7 @@
             <subfield code="1">https://isni.org/isni/0000000121022127</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
         </datafield>
-        <datafield tag="240" ind1="1" ind2="0">
+        <datafield tag="240" ind1="0" ind2="0">
             <subfield code="a">Poirot : the French collection</subfield>
             <subfield code="k">Collection</subfield>
             <subfield code="1">https://isni.org/isni/0000000121022127/frenchcollection</subfield>
@@ -1609,84 +1609,84 @@
         <datafield tag="700" ind1="1" ind2="2">
             <subfield code="a">Christie, Agatha,</subfield>
             <subfield code="d">1890-1976.</subfield>
-            <subfield code="k">Novel</subfield>
+            <subfield code="k">Short story</subfield>
             <subfield code="t">The Hound of Death</subfield>
             <subfield code="1">http://viaf.org/viaf/890516466190110339000601</subfield>
         </datafield>
         <datafield tag="700" ind1="1" ind2="2">
             <subfield code="a">Christie, Agatha,</subfield>
             <subfield code="d">1890-1976.</subfield>
-            <subfield code="k">Novel</subfield>
+            <subfield code="k">Short story</subfield>
             <subfield code="t">The Red Signal</subfield>
             <subfield code="1">http://viaf.org/viaf/8905164661901103390006/02</subfield>
         </datafield>
         <datafield tag="700" ind1="1" ind2="2">
             <subfield code="a">Christie, Agatha,</subfield>
             <subfield code="d">1890-1976.</subfield>
-            <subfield code="k">Novel</subfield>
+            <subfield code="k">Short story</subfield>
             <subfield code="t">The Fourth Man</subfield>
             <subfield code="1">http://viaf.org/viaf/8905164661901103390006/03</subfield>
         </datafield>
         <datafield tag="700" ind1="1" ind2="2">
             <subfield code="a">Christie, Agatha,</subfield>
             <subfield code="d">1890-1976.</subfield>
-            <subfield code="k">Novel</subfield>
+            <subfield code="k">Short story</subfield>
             <subfield code="t">The Gypsy</subfield>
             <subfield code="1">http://viaf.org/viaf/8905164661901103390006/04</subfield>
         </datafield>
         <datafield tag="700" ind1="1" ind2="2">
             <subfield code="a">Christie, Agatha,</subfield>
             <subfield code="d">1890-1976.</subfield>
-            <subfield code="k">Novel</subfield>
+            <subfield code="k">Short story</subfield>
             <subfield code="t">The Lamp</subfield>
             <subfield code="1">http://viaf.org/viaf/8905164661901103390006/05</subfield>
         </datafield>
         <datafield tag="700" ind1="1" ind2="2">
             <subfield code="a">Christie, Agatha,</subfield>
             <subfield code="d">1890-1976.</subfield>
-            <subfield code="k">Novel</subfield>
+            <subfield code="k">Short story</subfield>
             <subfield code="t">Wireless</subfield>
             <subfield code="1">http://viaf.org/viaf/8905164661901103390006/06</subfield>
         </datafield>
         <datafield tag="700" ind1="1" ind2="2">
             <subfield code="a">Christie, Agatha,</subfield>
             <subfield code="d">1890-1976.</subfield>
-            <subfield code="k">Novel</subfield>
+            <subfield code="k">Short story</subfield>
             <subfield code="t">The Witness for the Prosecution</subfield>
             <subfield code="1">http://viaf.org/viaf/8905164661901103390006/07</subfield>
         </datafield>
         <datafield tag="700" ind1="1" ind2="2">
             <subfield code="a">Christie, Agatha,</subfield>
             <subfield code="d">1890-1976.</subfield>
-            <subfield code="k">Novel</subfield>
+            <subfield code="k">Short story</subfield>
             <subfield code="t">The Mystery of the Blue Jar</subfield>
             <subfield code="1">http://viaf.org/viaf/8905164661901103390006/08</subfield>
         </datafield>
         <datafield tag="700" ind1="1" ind2="2">
             <subfield code="a">Christie, Agatha,</subfield>
             <subfield code="d">1890-1976.</subfield>
-            <subfield code="k">Novel</subfield>
+            <subfield code="k">Short story</subfield>
             <subfield code="t">The Strange Case of Sir Arthur Carmichael</subfield>
             <subfield code="1">http://viaf.org/viaf/8905164661901103390006/09</subfield>
         </datafield>
         <datafield tag="700" ind1="1" ind2="2">
             <subfield code="a">Christie, Agatha,</subfield>
             <subfield code="d">1890-1976.</subfield>
-            <subfield code="k">Novel</subfield>
+            <subfield code="k">Short story</subfield>
             <subfield code="t">The Call of Wings</subfield>
             <subfield code="1">http://viaf.org/viaf/8905164661901103390006/10</subfield>
         </datafield>
         <datafield tag="700" ind1="1" ind2="2">
             <subfield code="a">Christie, Agatha,</subfield>
             <subfield code="d">1890-1976.</subfield>
-            <subfield code="k">Novel</subfield>
+            <subfield code="k">Short story</subfield>
             <subfield code="t">The Last Séance</subfield>
             <subfield code="1">http://viaf.org/viaf/8905164661901103390006/11</subfield>
         </datafield>
         <datafield tag="700" ind1="1" ind2="2">
             <subfield code="a">Christie, Agatha,</subfield>
             <subfield code="d">1890-1976.</subfield>
-            <subfield code="k">Novel</subfield>
+            <subfield code="k">Short story</subfield>
             <subfield code="t">SOS</subfield>
             <subfield code="1">http://viaf.org/viaf/8905164661901103390006/12</subfield>
         </datafield>
@@ -1900,14 +1900,22 @@
         <datafield tag="336" ind1=" " ind2=" ">
             <subfield code="a">text</subfield>
             <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
         </datafield>
         <datafield tag="337" ind1=" " ind2=" ">
             <subfield code="a">unmediated</subfield>
             <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
         </datafield>
         <datafield tag="338" ind1=" " ind2=" ">
             <subfield code="a">volume</subfield>
             <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Language-based work</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
         </datafield>
         <datafield tag="490" ind1="1" ind2=" ">
             <subfield code="a">The Agatha Christie collection ;</subfield>
@@ -2054,14 +2062,22 @@
         <datafield tag="336" ind1=" " ind2=" ">
             <subfield code="a">text</subfield>
             <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
         </datafield>
         <datafield tag="337" ind1=" " ind2=" ">
             <subfield code="a">unmediated</subfield>
             <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
         </datafield>
         <datafield tag="338" ind1=" " ind2=" ">
             <subfield code="a">volume</subfield>
             <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Language-based work</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
         </datafield>
         <datafield tag="490" ind1="1" ind2=" ">
             <subfield code="a">Ulverscroft large print series. [mystery]</subfield>
@@ -2207,14 +2223,22 @@
         <datafield tag="336" ind1=" " ind2=" ">
             <subfield code="a">text</subfield>
             <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
         </datafield>
         <datafield tag="337" ind1=" " ind2=" ">
             <subfield code="a">computer</subfield>
             <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1003</subfield>
         </datafield>
         <datafield tag="338" ind1=" " ind2=" ">
             <subfield code="a">online resource</subfield>
             <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1018</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Language-based work</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
         </datafield>
         <datafield tag="588" ind1=" " ind2=" ">
             <subfield code="a">Description based on CIP data; resource not viewed.</subfield>
@@ -2245,6 +2269,11 @@
             <subfield code="a">The hound of death, and other stories</subfield>
             <subfield code="k">Collection</subfield>
             <subfield code="1">http://viaf.org/viaf/8905164661901103390006</subfield>
+            <subfield code="8">1/c</subfield>
+        </datafield>
+        <datafield tag="740" ind1="1" ind2="4">
+            <subfield code="a">The hound of death, and other stories</subfield>
+            <subfield code="8">1/c</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="4">
             <subfield code="a">The Hound of Death and other stories.</subfield>
@@ -2260,14 +2289,22 @@
         <datafield tag="336" ind1=" " ind2=" ">
             <subfield code="a">text</subfield>
             <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
         </datafield>
         <datafield tag="337" ind1=" " ind2=" ">
             <subfield code="a">unmediated</subfield>
             <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
         </datafield>
         <datafield tag="338" ind1=" " ind2=" ">
             <subfield code="a">volume</subfield>
             <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Language-based work</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
         </datafield>
         <datafield tag="500" ind1=" " ind2=" ">
             <subfield code="a">Originally published, Collins, 1933.</subfield>
