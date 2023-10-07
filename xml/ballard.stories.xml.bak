@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<collection xmlns="http://www.loc.gov/MARC21/slim"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <record>
+        <leader>01020 am a2200289ua 4500</leader>
+        <controlfield tag="001">011818370</controlfield>
+        <controlfield tag="003">UK</controlfield>
+        <controlfield tag="005">20160601115100.0</controlfield>
+        <controlfield tag="008">880706s1988    enk    ||     000 h|eng  </controlfield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GB8846166</subfield>
+            <subfield code="2">bnb</subfield>
+        </datafield>
+        <datafield tag="019" ind1="1" ind2=" ">
+            <subfield code="a">b8846166</subfield>
+        </datafield>
+        <datafield tag="019" ind1="9" ind2=" ">
+            <subfield code="a">b8846166</subfield>
+        </datafield>
+        <datafield tag="019" ind1="y" ind2=" ">
+            <subfield code="a">b8846166</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="c">No price (pbk)</subfield>
+        </datafield>
+        <datafield tag="039" ind1="0" ind2=" ">
+            <subfield code="a">1996</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">Uk</subfield>
+            <subfield code="c">Uk</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823/.914</subfield>
+            <subfield code="2">19</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="1">http://viaf.org/viaf/9842556</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1=" " ind2=" ">
+            <subfield code="a">Why I want to fuck Ronald Reagan</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?1274485</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Why I want to fuck Ronald Reagan.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="b">Plashet,</subfield>
+            <subfield code="c">1988.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">[7]leaves.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Humor, satire</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">Fiction in English</subfield>
+            <subfield code="a">1945-</subfield>
+        </datafield>
+    </record>
+    
+    <record>
+        <leader>01194 am a2200337ua 4500</leader>
+        <controlfield tag="001">010077516</controlfield>
+        <controlfield tag="003">UK</controlfield>
+        <controlfield tag="005">20160601115100.0</controlfield>
+        <controlfield tag="008">841105s1984    enkb    |     000 1 eng  </controlfield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GB8421998</subfield>
+            <subfield code="2">bnb</subfield>
+        </datafield>
+        <datafield tag="019" ind1="1" ind2=" ">
+            <subfield code="a">0575034831</subfield>
+        </datafield>
+        <datafield tag="019" ind1="9" ind2=" ">
+            <subfield code="a">0575034831</subfield>
+        </datafield>
+        <datafield tag="019" ind1="y" ind2=" ">
+            <subfield code="a">b8421998</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0575034831 :</subfield>
+            <subfield code="c">£8.95</subfield>
+        </datafield>
+        <datafield tag="039" ind1="0" ind2=" ">
+            <subfield code="a">1815</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">Uk</subfield>
+            <subfield code="c">Uk</subfield>
+        </datafield>
+        <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PR6052.A46</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823/.914</subfield>
+            <subfield code="2">19</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="1">http://viaf.org/viaf/9842556</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Empire of the sun</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="1">http://viaf.org/viaf/180997771</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Empire of the sun /</subfield>
+            <subfield code="c">J.G. Ballard.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Gollancz,</subfield>
+            <subfield code="c">1984.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">278p. :</subfield>
+            <subfield code="b">1map ;</subfield>
+            <subfield code="c">24cm.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Fiction</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">World War, 1939-1945</subfield>
+            <subfield code="z">China</subfield>
+            <subfield code="z">Shanghai</subfield>
+            <subfield code="x">Fiction.</subfield>
+        </datafield>
+        <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Shanghai (China)</subfield>
+            <subfield code="x">Fiction.</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">Fiction in English</subfield>
+            <subfield code="a">1945-</subfield>
+            <subfield code="a">Texts</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">War stories.</subfield>
+            <subfield code="2">gsafd</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00983 am a22002897a 4500</leader>
+        <controlfield tag="001">009376216</controlfield>
+        <controlfield tag="003">UK</controlfield>
+        <controlfield tag="005">20160601115100.0</controlfield>
+        <controlfield tag="008">940621r19931987enk    ||     000 1|eng  </controlfield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GB9449332</subfield>
+            <subfield code="2">bnb</subfield>
+        </datafield>
+        <datafield tag="019" ind1="1" ind2=" ">
+            <subfield code="a">0006545947</subfield>
+        </datafield>
+        <datafield tag="019" ind1="9" ind2=" ">
+            <subfield code="a">0006545947</subfield>
+        </datafield>
+        <datafield tag="019" ind1="y" ind2=" ">
+            <subfield code="a">b9449332</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0006545947 (pbk) :</subfield>
+            <subfield code="c">£5.99</subfield>
+        </datafield>
+        <datafield tag="039" ind1="0" ind2=" ">
+            <subfield code="a">2295</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">Uk</subfield>
+            <subfield code="c">Uk</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823.914</subfield>
+            <subfield code="2">20</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="1">http://viaf.org/viaf/9842556</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">The day of creation</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="1">http://viaf.org/viaf/308025936</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The day of creation.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Flamingo,</subfield>
+            <subfield code="c">1993.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">287p.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Fiction</subfield>
+        </datafield>
+        <datafield tag="653" ind1="1" ind2=" ">
+            <subfield code="a">English fiction</subfield>
+        </datafield>
+    </record>
+    <!-- The four-dimensional nightmare /Vermillion Sands Collection -->
+    <record>
+        <leader>02222cam a2200349 i 4500</leader>
+        <controlfield tag="001">021119950</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20180207120407.0</controlfield>
+        <controlfield tag="008">180207s1977    enk           000 1 eng d</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0140023453</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="e">author</subfield>
+            <subfield code="1">http://viaf.org/viaf/9842556</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">The four-dimensional nightmare</subfield>
+            <subfield code="k">Collection</subfield>
+            <subfield code="1">http://viaf.org/viaf/183430784</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The four-dimensional nightmare /</subfield>
+            <subfield code="c">J.G. Ballard.</subfield>
+        </datafield>
+        <datafield tag="246" ind1="1" ind2=" ">
+            <subfield code="a">Fourdimensional nightmare</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Harmondsworth, Middlesex, England :</subfield>
+            <subfield code="b">Penguin Books,</subfield>
+            <subfield code="c">1977</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">©1977</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">210 pages ;</subfield>
+            <subfield code="c">19 cm</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Fiction</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">&quot;First published by Victor Gollancz 1963. Published in Penguin Books 1965. Reprinted with the two stories 'Prima Belladonna' and 'Studio 5, The Stars' replaced by 'The Overloaded Man' and 'Thirteen to Centaurus', 1977&quot; -- title page verso.</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">The voices of time -- The sound-sweep -- The overloaded man -- Thirteen to Centaurus -- The garden of time -- The cage of sand -- The watch-tower -- Chronopolis.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="t">The voices of time</subfield>
+            <subfield code="1">http://viaf.org/viaf/311471559</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="t">The sound-sweep</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?44514</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="t">The overloaded man</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?57613</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="t">Thirteen to Centaurus</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?57628</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="t">The garden of time</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?44458</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="t">The cage of sand</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?44123</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="t">The watch-tower</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?57635</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="t">Chronopolis</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?41557</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00815nam a22002053  4500</leader>
+        <controlfield tag="001">000184366</controlfield>
+        <controlfield tag="003">UK</controlfield>
+        <controlfield tag="005">20160601115100.0</controlfield>
+        <controlfield tag="008">871103|1974||||enk    ||     ||| ||eng  </controlfield>
+        <datafield tag="019" ind1="x" ind2=" ">
+            <subfield code="a">0173840280</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0575018593</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">Uk</subfield>
+            <subfield code="c">Uk</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="1">http://viaf.org/viaf/9842556</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">The four-dimensional nightmare</subfield>
+            <subfield code="k">Collection</subfield>
+            <subfield code="1">http://viaf.org/viaf/183430784</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The four-dimensional nightmare.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Gollancz,</subfield>
+            <subfield code="c">1974.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">197 pages ;</subfield>
+            <subfield code="c">21 cm.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01118 am a2200313ua 4500</leader>
+        <controlfield tag="001">010077546</controlfield>
+        <controlfield tag="003">UK</controlfield>
+        <controlfield tag="005">20160601115100.0</controlfield>
+        <controlfield tag="008">850325r19851963enk    ||     000 j|eng  </controlfield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GB8423190</subfield>
+            <subfield code="2">bnb</subfield>
+        </datafield>
+        <datafield tag="019" ind1="1" ind2=" ">
+            <subfield code="a">0575035153</subfield>
+        </datafield>
+        <datafield tag="019" ind1="9" ind2=" ">
+            <subfield code="a">0575035153</subfield>
+        </datafield>
+        <datafield tag="019" ind1="y" ind2=" ">
+            <subfield code="a">b8423190</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0575035153 :</subfield>
+            <subfield code="c">£8.95</subfield>
+        </datafield>
+        <datafield tag="039" ind1="0" ind2=" ">
+            <subfield code="a">1834</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">Uk</subfield>
+            <subfield code="c">Uk</subfield>
+        </datafield>
+        <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PR6052.A46</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823/.914</subfield>
+            <subfield code="2">19</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="1">http://viaf.org/viaf/9842556</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">The Four-Dimensional Nightmare</subfield>
+            <subfield code="1">http://viaf.org/viaf/307977932</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The voices of time /</subfield>
+            <subfield code="c">J.G. Ballard.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Gollancz,</subfield>
+            <subfield code="c">1985, c1963.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">197p. ;</subfield>
+            <subfield code="c">22cm.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Short story</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Originally published: 1963.</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">Short stories in English</subfield>
+            <subfield code="a">1945-</subfield>
+            <subfield code="a">Texts</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00996cam a2200241 a 4500</leader>
+        <controlfield tag="001">013126573</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20090706100631.0</controlfield>
+        <controlfield tag="008">980414r19971963enk           000 1 eng d</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0575401303</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">SUC</subfield>
+            <subfield code="c">SUC</subfield>
+        </datafield>
+        <datafield tag="050" ind1=" " ind2="4">
+            <subfield code="a">PR6052.A46</subfield>
+            <subfield code="b">V6 1997</subfield>
+        </datafield>
+        <datafield tag="090" ind1=" " ind2=" ">
+            <subfield code="a">PR6052.A46</subfield>
+            <subfield code="b">V6 1997</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="1">http://viaf.org/viaf/9842556</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">The Four-Dimensional Nightmare</subfield>
+            <subfield code="1">http://viaf.org/viaf/307977932</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The voices of time /</subfield>
+            <subfield code="c">J.G. Ballard.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Indigo,</subfield>
+            <subfield code="c">1997.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">197 pages ;</subfield>
+            <subfield code="c">20 cm.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Fiction</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">First published as: The four-dimensional nightmare. London : Gollancz, 1963.</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01162 am a2200325ua 4500</leader>
+        <controlfield tag="001">007390701</controlfield>
+        <controlfield tag="003">UK</controlfield>
+        <controlfield tag="005">20160601115100.0</controlfield>
+        <controlfield tag="008">841126r19841963enk    ||     000 1|eng  </controlfield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GB8421716</subfield>
+            <subfield code="2">bnb</subfield>
+        </datafield>
+        <datafield tag="019" ind1="1" ind2=" ">
+            <subfield code="a">0460022660</subfield>
+        </datafield>
+        <datafield tag="019" ind1="9" ind2=" ">
+            <subfield code="a">0460022660</subfield>
+        </datafield>
+        <datafield tag="019" ind1="y" ind2=" ">
+            <subfield code="a">b8421716</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0460022660 (pbk) :</subfield>
+            <subfield code="c">£2.95</subfield>
+        </datafield>
+        <datafield tag="039" ind1="0" ind2=" ">
+            <subfield code="a">1818</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">Uk</subfield>
+            <subfield code="c">Uk</subfield>
+        </datafield>
+        <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PR6052.A46</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823/.914</subfield>
+            <subfield code="2">19</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="1">http://viaf.org/viaf/9842556</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">The Four-Dimensional Nightmare</subfield>
+            <subfield code="1">http://viaf.org/viaf/307977932</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The voices of time /</subfield>
+            <subfield code="c">J.G. Ballard.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Dent,</subfield>
+            <subfield code="c">1984, c1974.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">197p. ;</subfield>
+            <subfield code="c">20cm.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Fiction</subfield>
+        </datafield>
+        <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Everyman fiction</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Originally published: London : Gollancz, 1963.</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">Fiction in English</subfield>
+            <subfield code="a">1945-</subfield>
+            <subfield code="a">Texts</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01025 am a22002897a 4500</leader>
+        <controlfield tag="001">007452727</controlfield>
+        <controlfield tag="003">UK</controlfield>
+        <controlfield tag="005">20160601115100.0</controlfield>
+        <controlfield tag="008">930712r19921974enk    ||     000 j|eng  </controlfield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GB9335112</subfield>
+            <subfield code="2">bnb</subfield>
+        </datafield>
+        <datafield tag="019" ind1="1" ind2=" ">
+            <subfield code="a">1857990005</subfield>
+        </datafield>
+        <datafield tag="019" ind1="9" ind2=" ">
+            <subfield code="a">1857990005</subfield>
+        </datafield>
+        <datafield tag="019" ind1="y" ind2=" ">
+            <subfield code="a">b9335112</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">1857990005 (pbk) :</subfield>
+            <subfield code="c">£4.99</subfield>
+        </datafield>
+        <datafield tag="039" ind1="0" ind2=" ">
+            <subfield code="a">2248</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">Uk</subfield>
+            <subfield code="c">Uk</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823.914</subfield>
+            <subfield code="2">20</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="1">http://viaf.org/viaf/9842556</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">The Four-Dimensional Nightmare</subfield>
+            <subfield code="1">http://viaf.org/viaf/307977932</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The voices of time /</subfield>
+            <subfield code="c">J.G. Ballard.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Orion,</subfield>
+            <subfield code="c">1992.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">197p.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Short story</subfield>
+        </datafield>
+        <datafield tag="653" ind1="1" ind2=" ">
+            <subfield code="a">English fiction</subfield>
+            <subfield code="a">Short stories</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00842nam a22002053  4500</leader>
+        <controlfield tag="001">000184365</controlfield>
+        <controlfield tag="003">UK</controlfield>
+        <controlfield tag="005">20200424185629.0</controlfield>
+        <controlfield tag="008">871103|1965||||enk    ||     ||| ||eng  </controlfield>
+        <datafield tag="019" ind1="x" ind2=" ">
+            <subfield code="a">0173840272</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">Uk</subfield>
+            <subfield code="c">Uk</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="1">http://viaf.org/viaf/9842556</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">The four-dimensional nightmare</subfield>
+            <subfield code="1">http://viaf.org/viaf/183430784</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The Four-Dimensional Nightmare.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Harmondsworth :</subfield>
+            <subfield code="b">Penguin Books,</subfield>
+            <subfield code="c">1965.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">222 pages ;</subfield>
+            <subfield code="c">(8º)</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">[Penguin Books. no. 2345.]</subfield>
+        </datafield>
+    </record>
+</collection>
+
