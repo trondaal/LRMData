@@ -8,6 +8,26 @@
         ]
     },
     "results": {
-        "bindings": []
+        "bindings": [
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9014152502908610800009"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10257"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has subject work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q15228"
+                }
+            }
+        ]
     }
 }

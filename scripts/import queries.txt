@@ -7,7 +7,7 @@ DROP INDEX resource_uri;
 
 CREATE INDEX resource_uri FOR (n:Resource) ON n.uri;
 
-CREATE FULLTEXT INDEX expressions FOR (n:Expression) ON EACH [n.title, n.titles, n.titlevariant, n.titlepreferred, n.names, n.types];
+CREATE FULLTEXT INDEX expressions FOR (n:Expression) ON EACH [n.title, n.titles, n.titlevariant, n.titlepreferred, n.contentsnote, n.names, n.types];
 CREATE FULLTEXT INDEX works FOR (n:Work) ON EACH [n.title, n.titles, n.titlevariant, n.titlepreferred, n.names, n.types];
 
 WITH "entities.json" AS url
@@ -150,6 +150,9 @@ set e.names = e.names + a.name + " : ";
 //TITLES
 MATCH (e:Expression)-[:REALIZES]-(w:Work) where w.title IS NOT NULL
 set e.titles = e.titles + w.title + " : ";
+
+MATCH (e:Expression)-[:REALIZES]-(w:Work) where w.name IS NOT NULL
+set e.names = e.names + w.name + " : ";
 
 MATCH (e:Expression)-[:EMBODIES]-(m:Manifestation) where m.title IS NOT NULL
 set e.titles = e.titles + m.title + " : ";
