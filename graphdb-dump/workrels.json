@@ -316,6 +316,25 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q5114250"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10147"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has part work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/311471559"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/183430784"
                 },
                 "p": {
@@ -748,25 +767,6 @@
                 "o": {
                     "type": "uri",
                     "value": "http://www.isfdb.org/cgi-bin/title.cgi?37126"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q5114250"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/w/object/P10147"
-                },
-                "l": {
-                    "xml:lang": "en",
-                    "type": "literal",
-                    "value": "has part work"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://www.isfdb.org/cgi-bin/title.cgi?40816"
                 }
             },
             {

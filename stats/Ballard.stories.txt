@@ -4,15 +4,26 @@ BIB2201 rapport over datasamling - oppdatert 5/6
 -------------------------------------------------------
 
 
-Antall poster i samlingen:20
+Antall poster i samlingen:26
 -------------------------------------------------------
 
 
 Agenter identifisert med URI
 -------------------------------------------------------
 * http://viaf.org/viaf/2465493 (700) : Aldiss, Brian W
+* http://viaf.org/viaf/12304119 (700) : Anderson, Poul
 * http://viaf.org/viaf/9842556 (100, 700) : Ballard, J. G
+* http://viaf.org/viaf/103212466 (700) : Brunner, John Kilian Houston
+* http://viaf.org/viaf/79304712 (700) : Carr, Terry
+* http://viaf.org/viaf/27062571 (700) : Clarke, Arthur C
+* http://viaf.org/viaf/172050597 (100) : Elder, Joseph
+* https://isni.org/isni/000000008169370X (700) : Jakes, John Williams
+* https://isni.org/isni/0000000109520828 (700) : Laumer, K
+* https://isni.org/isni/0000000064014891 (700) : McKimmey, J
 * http://viaf.org/viaf/24606270 (700) : Peake, Mervyn Laurence
+* http://viaf.org/viaf/109386240 (700) : Silverberg, Robert
+* http://viaf.org/viaf/54154517 (700) : Spinrad, Norman
+* http://viaf.org/viaf/111614127 (700) : Vance, Jack
 
 
 Agent-innførsler som IKKE er identifiser med URI i $1
@@ -25,9 +36,12 @@ men dere velger selv hvilke agenter som skal være med
 Verk identifisert med URI
 -------------------------------------------------------
 * http://example.com/innerlandscape = The inner landscape (Språkbasert verk)
+* http://viaf.org/viaf/172050597/reaches = The farthest reaches (Språkbasert verk)
 * http://viaf.org/viaf/180997771 = Empire of the sun (Fiction)
 * http://viaf.org/viaf/183421260 = Danger, Religion! 
 * http://viaf.org/viaf/183430784 = The four-dimensional nightmare (Fiction / Short story)
+* http://viaf.org/viaf/202977755 = Hello America (Fiction / Språkbasert verk)
+* http://viaf.org/viaf/305922109 = Crash (Fiction / Novel)
 * http://viaf.org/viaf/307992426 = The day of forever (Fiction / Short story)
 * http://viaf.org/viaf/308025936 = The day of creation (Fiction)
 * http://viaf.org/viaf/309308512 = Boy in darkness (Språkbasert verk)
@@ -37,8 +51,9 @@ Verk identifisert med URI
 * http://www.isfdb.org/cgi-bin/title.cgi?1042032 = Report from an obscure planet (Short story)
 * http://www.isfdb.org/cgi-bin/title.cgi?1274485 = Why I want to fuck Ronald Reagan (Humor, satire / Short story)
 * http://www.isfdb.org/cgi-bin/title.cgi?37126 = The terminal beach (Short story / Fiction / Språkbasert verk)
-* http://www.isfdb.org/cgi-bin/title.cgi?40816 = The voices of time (Short story / Fiction / Språkbasert verk)
+* http://www.isfdb.org/cgi-bin/title.cgi?41235 = Kyrie (Språkbasert verk)
 * http://www.isfdb.org/cgi-bin/title.cgi?41280 = The insane ones (Short story / Fiction)
+* http://www.isfdb.org/cgi-bin/title.cgi?41516 = The dance of the changer and the three (Språkbasert verk)
 * http://www.isfdb.org/cgi-bin/title.cgi?41557 = Chronopolis (Fiction / Short story / Språkbasert verk)
 * http://www.isfdb.org/cgi-bin/title.cgi?42206 = The recognition (Short story)
 * http://www.isfdb.org/cgi-bin/title.cgi?43928 = The volcano dances (Short story)
@@ -74,6 +89,7 @@ Verk identifisert med URI
 * http://www.isfdb.org/cgi-bin/title.cgi?54044 = The cloud-sculptors of Coral D (Short story)
 * http://www.isfdb.org/cgi-bin/title.cgi?54219 = Venus smiles (Short story)
 * http://www.isfdb.org/cgi-bin/title.cgi?54304 = The Comsat angels (Short story)
+* http://www.isfdb.org/cgi-bin/title.cgi?56908 = The worm that flies (Språkbasert verk)
 * http://www.isfdb.org/cgi-bin/title.cgi?57575 = The 60 minute zoom (Short story)
 * http://www.isfdb.org/cgi-bin/title.cgi?57577 = Answers to a quesionnaire (Short story)
 * http://www.isfdb.org/cgi-bin/title.cgi?57579 = The assassination of John Fitzgerald Kennedy considered as a downhill motor race (Short story / Fiction)
@@ -125,39 +141,78 @@ Verk identifisert med URI
 * http://www.isfdb.org/cgi-bin/title.cgi?57628 = Thirteen to Centaurus (Fiction / Short story)
 * http://www.isfdb.org/cgi-bin/title.cgi?57629 = The thousand dreams of Stellavista (Short story)
 * http://www.isfdb.org/cgi-bin/title.cgi?57630 = Time of passage (Short story)
-* http://www.isfdb.org/cgi-bin/title.cgi?57631 = Tomorrow is a million years (Short story / Fiction)
+* http://www.isfdb.org/cgi-bin/title.cgi?57631 = Tomorrow is a million years (Short story / Fiction / Språkbasert verk)
 * http://www.isfdb.org/cgi-bin/title.cgi?57632 = Track 12 (Short story)
 * http://www.isfdb.org/cgi-bin/title.cgi?57633 = The Venus hunters (Short story)
 * http://www.isfdb.org/cgi-bin/title.cgi?57635 = The watch-tower / The watch-towers / The watchtowers (Fiction / Short story / Språkbasert verk)
 * http://www.isfdb.org/cgi-bin/title.cgi?57636 = Zodiac 2000 (Short story)
 * http://www.isfdb.org/cgi-bin/title.cgi?57637 = Zone of terror (Short story / Fiction / Språkbasert verk)
+* http://www.isfdb.org/cgi-bin/title.cgi?57905 = Mind out of time (Språkbasert verk)
+* http://www.isfdb.org/cgi-bin/title.cgi?62005 = Crusade (Språkbasert verk)
+* http://www.isfdb.org/cgi-bin/title.cgi?64948 = To the dark star (Språkbasert verk)
 * http://www.isfdb.org/cgi-bin/title.cgi?65075 = Billenium (Short story / Fiction / Språkbasert verk)
-* http://www.wikidata.org/entity/Q5114250 = Chronopolis, and other stories (Språkbasert verk)
+* http://www.isfdb.org/cgi-bin/title.cgi?71516 = A night in elf hill (Språkbasert verk)
+* http://www.isfdb.org/cgi-bin/title.cgi?94038 = Pond water (Språkbasert verk)
+* http://www.isfdb.org/cgi-bin/title.cgi?97136 = Sulwen's planet (Språkbasert verk)
+* http://www.isfdb.org/cgi-bin/title.cgi?97137 = The inspector (Språkbasert verk)
+* http://www.isfdb.org/cgi-bin/title.cgi?97138 = Ranging (Språkbasert verk)
+* http://www.wikidata.org/entity/Q5114250 = Chronopolis, and other short stories / Chronopolis, and other stories (Fiction / Språkbasert verk)
 * http://www.wikidata.org/entity/Q6692707 = Low-flying aircraft, and other stories (Short story)
-* http://www.wikidata.org/entity/Q6815642 = Memories of the space age. (Språkbasert verk)
+* http://www.wikidata.org/entity/Q6815642 = Memories of the space age (Språkbasert verk)
 * https://www.isfdb.org/cgi-bin/title.cgi?57598 = The Last World of Mr Goddard (Fiction / Short story)
+
+
+Innførsler som IKKE er identifisert som verk på grunn av manglende URI i $1
+men det er jo ikke nødvendigvis feil!
+-------------------------------------------------------
+* 830  #0  $aHarper Perennial modern classics.
 
 
 Oversikt over MARC 21 relator koder brukt i samlingen
 sjekker bare feltene 100, 110, 111, 700, 710, 711
 -------------------------------------------------------
 * aui  : 2 
+* edc  : 1 
+* edt  : 1 
 * ill  : 1 
 
 
 Oversikt over URI relasjonstyper for Agent brukt i samlingen
 verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 -------------------------------------------------------
-* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 21 
+* http://rdaregistry.info/Elements/m/object/P30267 (has related agent of manifestation) : 1 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 37 
 
 
 Personer med URI og relasjonstyper som er brukt for disse
 -------------------------------------------------------
 http://viaf.org/viaf/2465493 (700) : Aldiss, Brian W 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+http://viaf.org/viaf/12304119 (700) : Anderson, Poul 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/9842556 (100, 700) : Ballard, J. G 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+http://viaf.org/viaf/103212466 (700) : Brunner, John Kilian Houston 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+http://viaf.org/viaf/79304712 (700) : Carr, Terry 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+http://viaf.org/viaf/27062571 (700) : Clarke, Arthur C 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+http://viaf.org/viaf/172050597 (100) : Elder, Joseph 
+* http://rdaregistry.info/Elements/m/object/P30267 (has related agent of manifestation)
+https://isni.org/isni/000000008169370X (700) : Jakes, John Williams 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+https://isni.org/isni/0000000109520828 (700) : Laumer, K 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+https://isni.org/isni/0000000064014891 (700) : McKimmey, J 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/24606270 (700) : Peake, Mervyn Laurence 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+http://viaf.org/viaf/109386240 (700) : Silverberg, Robert 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+http://viaf.org/viaf/54154517 (700) : Spinrad, Norman 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+http://viaf.org/viaf/111614127 (700) : Vance, Jack 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 
 
@@ -171,7 +226,7 @@ I praksis er det 700-felter med ind2=2, $t og $1
 -------------------------------------------------------
 001 = 021119950 
 * 100  1#  $aBallard, J. G.  $d1930-2009  $eauthor  $1http://viaf.org/viaf/9842556  $4http://rdaregistry.info/Elements/w/object/P10061
-* 240  10  $aThe four-dimensional nightmare  $kCollection  $1http://viaf.org/viaf/183430784
+* 240  10  $aThe four-dimensional nightmare  $kCollection  $1http://viaf.org/viaf/183430784 $81/c
 * 245  14  $aThe four-dimensional nightmare /  $cJ.G. Ballard.
 * 700  12  $aBallard, J. G.  $d1930-2009  $kShort story  $tChronopolis  $1http://www.isfdb.org/cgi-bin/title.cgi?41557
 * 700  12  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe cage of sand  $1http://www.isfdb.org/cgi-bin/title.cgi?44123
@@ -341,7 +396,7 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe thousand dreams of Stellavista  $1http://www.isfdb.org/cgi-bin/title.cgi?57629
 * 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe time-tombs  $1http://www.isfdb.org/cgi-bin/title.cgi?44461
 * 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe ultimate city  $1http://www.isfdb.org/cgi-bin/title.cgi?44466
-* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe voices of time  $1http://www.isfdb.org/cgi-bin/title.cgi?40816
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe voices of time  $1http://viaf.org/viaf/311471559
 * 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe volcano dances  $1http://www.isfdb.org/cgi-bin/title.cgi?43928
 * 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe waiting grounds  $1http://www.isfdb.org/cgi-bin/title.cgi?44455
 * 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe watch-towers  $1http://www.isfdb.org/cgi-bin/title.cgi?57635
@@ -357,8 +412,8 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tZone of terror  $1http://www.isfdb.org/cgi-bin/title.cgi?57637
 001 = 011691312 
 * 100  1#  $aBallard, J. G.  $d1930-2009  $1http://viaf.org/viaf/9842556  $4http://rdaregistry.info/Elements/w/object/P10061
+* 240  00  $aChronopolis, and other short stories  $kCollection  $1http://www.wikidata.org/entity/Q5114250
 * 245  10  $aChronopolis,  $band other stories /  $cby J. G. Ballard
-* 245  00  $aChronopolis, and other short stories  $kCollection  $1http://www.wikidata.org/entity/Q5114250
 * 700  12  $aBallard, J. G.  $d1930-2009  $kShort story  $tBillenium  $1http://www.isfdb.org/cgi-bin/title.cgi?65075
 * 700  12  $aBallard, J. G.  $d1930-2009  $kShort story  $tBuild-up  $1http://www.isfdb.org/cgi-bin/title.cgi?44451
 * 700  12  $aBallard, J. G.  $d1930-2009  $kShort story  $tChronopolis  $1http://www.isfdb.org/cgi-bin/title.cgi?41557
@@ -372,7 +427,7 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  12  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe garden of time  $1http://www.isfdb.org/cgi-bin/title.cgi?44458
 * 700  12  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe sound-sweep  $1http://www.isfdb.org/cgi-bin/title.cgi?44514
 * 700  12  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe terminal beach  $1http://www.isfdb.org/cgi-bin/title.cgi?37126
-* 700  12  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe voices of time  $1http://www.isfdb.org/cgi-bin/title.cgi?40816
+* 700  12  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe voices of time  $1http://viaf.org/viaf/311471559
 * 700  12  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe watchtowers  $1http://www.isfdb.org/cgi-bin/title.cgi?57635
 * 700  12  $aBallard, J. G.  $d1930-2009  $kShort story  $tZone of terror  $1http://www.isfdb.org/cgi-bin/title.cgi?57637
 001 = 1264899 
@@ -392,12 +447,12 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe garden of time  $1http://www.isfdb.org/cgi-bin/title.cgi?44458
 * 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe sound-sweep  $1http://www.isfdb.org/cgi-bin/title.cgi?44514
 * 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe terminal beach  $1http://www.isfdb.org/cgi-bin/title.cgi?37126
-* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe voices of time  $1http://www.isfdb.org/cgi-bin/title.cgi?40816
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe voices of time  $1http://viaf.org/viaf/311471559
 * 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe watchtowers  $1http://www.isfdb.org/cgi-bin/title.cgi?57635
 * 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tZone of terror  $1http://www.isfdb.org/cgi-bin/title.cgi?57637
 001 = 009145814 
 * 100  1#  $aBallard, J. G.  $1http://viaf.org/viaf/9842556  $4http://rdaregistry.info/Elements/w/object/P10061
-* 240  00  $aMemories of the space age.  $kCollection  $1http://www.wikidata.org/entity/Q6815642
+* 240  00  $aMemories of the space age  $kCollection  $1http://www.wikidata.org/entity/Q6815642
 * 245  10  $aMemories of the space age.
 * 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tA Question of Re-entry  $1http://www.isfdb.org/cgi-bin/title.cgi?44460
 * 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tMemories of the Space Age  $1http://www.isfdb.org/cgi-bin/title.cgi?45330
@@ -477,6 +532,22 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 245  04  $aThe inner landscape /  $cMervyn Peake, J. G. Ballard, Brian W. Aldiss.
 * 700  12  $aBallard, J. G.  $d1930-2009  $tThe voices of time  $1http://viaf.org/viaf/311471559
 * 700  12  $aPeake, Mervyn Laurence  $d1911-1968  $tBoy in darkness  $1http://viaf.org/viaf/309308512 $82/c
+001 = 4540466 
+* 100  1#  $aElder, Joseph  $1http://viaf.org/viaf/172050597  $4edt  $4edc  $4http://rdaregistry.info/Elements/m/object/P30267
+* 240  04  $aThe farthest reaches  $kCollection  $1http://viaf.org/viaf/172050597/reaches
+* 245  14  $aThe farthest reaches.  $cEdited by Joseph Elder.
+* 700  #2  $aAldiss, Brian W.  $kShort story  $tThe worm that flies  $1http://www.isfdb.org/cgi-bin/title.cgi?56908 $81/c
+* 700  #2  $aAnderson, Poul  $kShort story  $tKyrie  $1http://www.isfdb.org/cgi-bin/title.cgi?41235 $82/c
+* 700  #2  $aBallard, J. G.  $d1930-2009  $tTomorrow is a million years  $1http://www.isfdb.org/cgi-bin/title.cgi?57631
+* 700  #2  $aBrunner, J.  $kShort story  $tPond water  $1http://www.isfdb.org/cgi-bin/title.cgi?94038 $84/c
+* 700  #2  $aCarr, Terry  $kShort story  $tThe dance of the changer and the three  $1http://www.isfdb.org/cgi-bin/title.cgi?41516 $85/c
+* 700  #2  $aClarke, Arthur C.  $kShort story  $tCrusade  $1http://www.isfdb.org/cgi-bin/title.cgi?62005 $86/c
+* 700  #2  $aJakes, J.  $kShort story  $tRanging  $1http://www.isfdb.org/cgi-bin/title.cgi?97138 $87/c
+* 700  #2  $aLaumer, K.  $kShort story  $tMind out of time  $1http://www.isfdb.org/cgi-bin/title.cgi?57905 $88/c
+* 700  #2  $aMcKimmey, J.  $kShort story  $tThe inspector  $1http://www.isfdb.org/cgi-bin/title.cgi?97137 $89/c
+* 700  #2  $aSilverberg, Robert  $kShort story  $tTo the dark star  $1http://www.isfdb.org/cgi-bin/title.cgi?64948 $810/c
+* 700  #2  $aSpinrad, Norman  $kShort story  $tA night in elf hill  $1http://www.isfdb.org/cgi-bin/title.cgi?71516 $811/c
+* 700  #2  $aVance, J.  $kShort story  $tSulwen's planet  $1http://www.isfdb.org/cgi-bin/title.cgi?97136
 
 
 Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke analytter)
@@ -516,8 +587,9 @@ Opplisting som viser bruken av 380 $a, $0, $2
 -------------------------------------------------------
 * 380  ##  $aHumor, satire
 * 380  ##  $aFiction
-* 380  ##  $aShort story
+* 380  ##  $aNovel
 * 380  ##  $aSpråkbasert verk  $1https://schema.nb.no/Bibliographic/Values/V1000
+* 380  ##  $aShort story
 
 
 Poster som mangler 336, 337, 338, 380

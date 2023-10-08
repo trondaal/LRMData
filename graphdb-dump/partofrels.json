@@ -316,6 +316,25 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/311471559"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10019"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "is part of work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q5114250"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://www.isfdb.org/cgi-bin/title.cgi?44514"
                 },
                 "p": {
@@ -735,25 +754,6 @@
                 "s": {
                     "type": "uri",
                     "value": "http://www.isfdb.org/cgi-bin/title.cgi?37126"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/w/object/P10019"
-                },
-                "l": {
-                    "xml:lang": "en",
-                    "type": "literal",
-                    "value": "is part of work"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q5114250"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://www.isfdb.org/cgi-bin/title.cgi?40816"
                 },
                 "p": {
                     "type": "uri",
@@ -1475,6 +1475,25 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/311471559/exp/eng/1020"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20074"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "is part of expression"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q5114250/exp/eng/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://www.isfdb.org/cgi-bin/title.cgi?44514/exp/eng/1020"
                 },
                 "p": {
@@ -1894,25 +1913,6 @@
                 "s": {
                     "type": "uri",
                     "value": "http://www.isfdb.org/cgi-bin/title.cgi?37126/exp/eng/1020"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/object/P20074"
-                },
-                "l": {
-                    "xml:lang": "en",
-                    "type": "literal",
-                    "value": "is part of expression"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q5114250/exp/eng/1020"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://www.isfdb.org/cgi-bin/title.cgi?40816/exp/eng/1020"
                 },
                 "p": {
                     "type": "uri",
