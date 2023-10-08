@@ -1883,10 +1883,11 @@
         </datafield>
         <datafield tag="240" ind1="0" ind2="0">
             <subfield code="a">Chronopolis, and other stories</subfield>
+            <subfield code="k">Collection</subfield>
             <subfield code="1">http://www.wikidata.org/entity/Q5114250</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="0">
-            <subfield code="a">Chronopolis,</subfield>
+            <subfield code="a">Chronopolis</subfield>
             <subfield code="b">and other stories,</subfield>
             <subfield code="c">by J. G. Ballard.</subfield>
         </datafield>
@@ -3237,6 +3238,10 @@
             <subfield code="a">808.83/8762</subfield>
             <subfield code="2">20</subfield>
         </datafield>
+        <datafield tag="240" ind1="0" ind2="4">
+            <subfield code="a">The world treasury of science fiction</subfield>
+            <subfield code="k">Collection</subfield>
+        </datafield>
         <datafield tag="245" ind1="0" ind2="4">
             <subfield code="a">The world treasury of science fiction /</subfield>
             <subfield code="c">edited by David G. Hartwell ; with a foreword by Clifton Fadiman, general editor.</subfield>
@@ -3315,6 +3320,7 @@
             <subfield code="a">Ballard, J. G.</subfield>
             <subfield code="d">1930-2009</subfield>
             <subfield code="t">Chronopolis</subfield>
+            <subfield code="k">Short story</subfield>
             <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?41557</subfield>
         </datafield>
         <datafield tag="700" ind1="0" ind2="2">
@@ -3557,5 +3563,537 @@
             <subfield code="t">Way to Amalteia</subfield>
             <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?670081</subfield>
         </datafield>
+    </record>
+    <record>
+        <leader>01085cam a22002772i 4500</leader>
+        <controlfield tag="001">011691325</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20110705083054.0</controlfield>
+        <controlfield tag="008">500101s1977    enk           000 1 eng d</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0860079430</subfield>
+        </datafield>
+        <datafield tag="090" ind1=" " ind2=" ">
+            <subfield code="a">PZ2001.B189</subfield>
+            <subfield code="b">B4</subfield>
+        </datafield>
+        <datafield tag="092" ind1=" " ind2=" ">
+            <subfield code="a">D0503362978</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="1">http://viaf.org/viaf/9842556</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">The best short stories of J.G. Ballard</subfield>
+            <subfield code="k">Collection</subfield>
+            <subfield code="1">http://viaf.org/viaf/9842556/bestof77</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The best of J. G. Ballard /</subfield>
+            <subfield code="c">J. G. Ballard.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Futura Publications Limited,</subfield>
+            <subfield code="c">1977</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">411 pages ;</subfield>
+            <subfield code="c">18 cm. --</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Fiction</subfield>
+        </datafield>
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">An Orbit book</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Title on cover: The best science fiction of J. G. Ballard</subfield>
+        </datafield>
+        <datafield tag="505" ind1=" " ind2=" ">
+            <subfield code="a">Introduction (The Best Short Stories of J. G. Ballard) / essay by Anthony Burgess -- 
+                The Concentration City --
+                Manhole 69 --
+                The waiting grounds --
+                The sound sweep --
+                Chronopolis -- 
+                The Overloaded Man --  
+                Billennium --
+                The insane ones --
+                The Garden of Time --  
+                Thirteen to Centaurus -- 
+                Passport to eternity --
+                The Cage of Sand -- 
+                A question of re-entry --
+                The Terminal Beach -- 
+                The day of forever</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The concentration city</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?44451</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">Manhole 69</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?44454</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The waiting grounds</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?44455</subfield>
+        </datafield>
+        <datafield tag="700" ind1="0" ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="t">The sound sweep</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?575437</subfield>
+        </datafield>
+        <datafield tag="700" ind1="0" ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="t">Chronopolis</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?41557</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The voices of time</subfield>
+            <subfield code="1">http://viaf.org/viaf/311471559</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The overloaded man</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?57613</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">Billenium</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?65075</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The insane ones</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?41280</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The garden of time</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?44458</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">Thirteen to Centaurus</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?57628</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The subliminal man</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?44459</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The subliminal man</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?44459</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">Passport to eternity</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?57614</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The cage of sand</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?44123</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">A Question of Re-entry</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?44460</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The terminal beach</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?37126</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The day of forever</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?57582</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Burgess, Anthony</subfield>
+            <subfield code="4">aui</subfield>
+            <subfield code="1">http://viaf.org/viaf/71388189</subfield>
+        </datafield>
+        <datafield tag="740" ind1="4" ind2=" ">
+            <subfield code="a">The best science fiction of J. G. Ballard</subfield>
+        </datafield>
+        <datafield tag="830" ind1=" " ind2="3">
+            <subfield code="a">An Orbit book</subfield>
+        </datafield>
+    </record>
+    
+    <record>
+        <leader>00790cam a2200241 i 4500</leader>
+        <controlfield tag="001">1304678</controlfield>
+        <controlfield tag="005">20090421105937.0</controlfield>
+        <controlfield tag="008">771223s1978    nyu           000 1 eng  </controlfield>
+        <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ocip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+        </datafield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   77028234 </subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0030425069 :</subfield>
+            <subfield code="c">$12.95.</subfield>
+            <subfield code="a">0030456614</subfield>
+            <subfield code="b">pbk.</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   77028234</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+        </datafield>
+        <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PZ4.B1893</subfield>
+            <subfield code="b">Be 1978</subfield>
+            <subfield code="a">PR6052.A46</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">823/.9/14</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Ballard, J. G.,</subfield>
+            <subfield code="d">1930-2009.</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Short stories.</subfield>
+            <subfield code="k">Selections</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The best short stories of J.G. Ballard.</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">1st ed.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York :</subfield>
+            <subfield code="b">Holt, Rinehart and Winston,</subfield>
+            <subfield code="c">c1978.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">ix, 302 p. ;</subfield>
+            <subfield code="c">24 cm.</subfield>
+        </datafield>
+
+        <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PZ4.B1893</subfield>
+            <subfield code="i">Be 1978</subfield>
+            <subfield code="p">00022766284</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01148pam a2200289 a 4500</leader>
+        <controlfield tag="001">3962305</controlfield>
+        <controlfield tag="005">20090421105954.0</controlfield>
+        <controlfield tag="008">941018r19951978nyu           000 1 eng  </controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   94042290 </subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0805038760 (alk. paper)</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   94042290</subfield>
+        </datafield>
+        <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PR6052.A46</subfield>
+            <subfield code="b">A6 1995</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">823/.914</subfield>
+            <subfield code="2">20</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="1">http://viaf.org/viaf/9842556</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">The best short stories of J.G. Ballard</subfield>
+            <subfield code="k">Collection</subfield>
+            <subfield code="1">http://viaf.org/viaf/9842556/bestof95</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The best short stories of J.G. Ballard /</subfield>
+            <subfield code="c">introduction by Anthony Burgess.</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">1st Owl Book ed.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York :</subfield>
+            <subfield code="b">H. Holt,</subfield>
+            <subfield code="c">1995.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xiii, 302 p. ;</subfield>
+            <subfield code="c">23 cm.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">&quot;An Owl book.&quot;</subfield>
+        </datafield>
+        <datafield tag="505" ind1=" " ind2=" ">
+            <subfield code="a">Introduction (The Best Short Stories of J. G. Ballard) / essay by Anthony Burgess -- The Concentration City --
+                Manhole 69 -- Chronopolis -- The Voices of Time -- Deep End -- The Overloaded Man --  Billennium -- The Garden of Time --  Thirteen to Centaurus -- 
+                The Subliminal Man -- The Cage of Sand -- The Drowned Giant -- The Terminal Beach -- The Cloud-Sculptors of Coral D -- The Assassination of John Fitzgerald Kennedy Considered As a Downhill Motor Race --
+                The Atrocity Exhibition -- Plan for the Assassination of Jacqueline Kennedy -- Why I Want to Fuck Ronald Reagan </subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The concentration city</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?44451</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">Manhole 69</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?44454</subfield>
+        </datafield>
+        <datafield tag="700" ind1="0" ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="t">Chronopolis</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?41557</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The voices of time</subfield>
+            <subfield code="1">http://viaf.org/viaf/311471559</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">Deep end</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?44457</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The overloaded man</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?57613</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">Billenium</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?65075</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The garden of time</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?44458</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">Thirteen to Centaurus</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?57628</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The subliminal man</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?44459</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The cage of sand</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?44123</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">End-game</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?57586</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The drowned giant</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?43949</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The terminal beach</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?37126</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The cloud-sculptors of Coral D</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?54044</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The assassination of John Fitzgerald Kennedy considered as a downhill motor race</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?57579</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The atrocity exhibition</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?57580</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">Plan for the Assassination of Jacqueline Kennedy</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?57616</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">Why I want to fuck Ronald Reagan</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?1274485</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Burgess, Anthony</subfield>
+            <subfield code="4">aui</subfield>
+            <subfield code="1">http://viaf.org/viaf/71388189</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Science fiction, English.</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Contributor biographical information</subfield>
+            <subfield code="u">http://www.loc.gov/catdir/enhancements/fy0667/94042290-b.html</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Publisher description</subfield>
+            <subfield code="u">http://www.loc.gov/catdir/enhancements/fy0667/94042290-d.html</subfield>
+        </datafield>
+        <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PR6052.A46</subfield>
+            <subfield code="i">A6 1995</subfield>
+            <subfield code="p">00023606458</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+        </datafield>
+        <!-- vii • Introduction (The Best Short Stories of J. G. Ballard) • (1978) • essay by Anthony Burgess
+1 • The Concentration City • (1957) • short story by J. G. Ballard (variant of Build-Up)
+21 • Manhole 69 • (1957) • short story by J. G. Ballard
+43 • Chronopolis • (1960) • novelette by J. G. Ballard
+67 • The Voices of Time • (1960) • novelette by J. G. Ballard
+100 • Deep End • (1961) • short story by J. G. Ballard
+112 • The Overloaded Man • (1961) • short story by J. G. Ballard
+125 • Billennium • (1961) • short story by J. G. Ballard
+141 • The Garden of Time • (1962) • short story by J. G. Ballard
+149 • Thirteen to Centaurus • (1962) • novelette by J. G. Ballard
+171 • The Subliminal Man • (1963) • short story by J. G. Ballard
+189 • The Cage of Sand • (1962) • novelette by J. G. Ballard
+212 • End-Game • (1963) • novelette by J. G. Ballard
+233 • The Drowned Giant • (1964) • short story by J. G. Ballard
+244 • The Terminal Beach • (1964) • novelette by J. G. Ballard
+265 • The Cloud-Sculptors of Coral D • [Vermilion Sands] • (1967) • short story by J. G. Ballard
+281 • The Assassination of John Fitzgerald Kennedy Considered As a Downhill Motor Race • (1966) • short story by J. G. Ballard
+284 • The Atrocity Exhibition • (1966) • short story by J. G. Ballard
+295 • Plan for the Assassination of Jacqueline Kennedy • (1966) • short story by J. G. Ballard
+299 • Why I Want to Fuck Ronald Reagan • (1968) • short story by J. G. Ballard -->
     </record>
 </collection>

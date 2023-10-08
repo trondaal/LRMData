@@ -4,7 +4,7 @@ BIB2201 rapport over datasamling - oppdatert 5/6
 -------------------------------------------------------
 
 
-Antall poster i samlingen:22
+Antall poster i samlingen:25
 -------------------------------------------------------
 
 
@@ -14,6 +14,7 @@ Agenter identifisert med URI
 * http://viaf.org/viaf/12304119 (700) : Anderson, Poul
 * http://viaf.org/viaf/9842556 (100, 700) : Ballard, J. G
 * http://viaf.org/viaf/103212466 (700) : Brunner, John Kilian Houston
+* http://viaf.org/viaf/71388189 (700) : Burgess, Anthony
 * http://viaf.org/viaf/79304712 (700) : Carr, Terry
 * http://viaf.org/viaf/27062571 (700) : Clarke, Arthur C
 * http://viaf.org/viaf/172050597 (100) : Elder, Joseph
@@ -29,6 +30,7 @@ Agenter identifisert med URI
 Agent-innførsler som IKKE er identifiser med URI i $1
 men dere velger selv hvilke agenter som skal være med
 -------------------------------------------------------
+* 100  1#  $aBallard, J. G.,  $d1930-2009.
 * 700  1#  $aFadiman, Clifton  $d1904-1999.  $4aui  $4edt  $4http://rdaregistry.info/Elements/m/object/P30267
 * 700  1#  $aHartwell, David G.  $edc  $4edt  $4http://rdaregistry.info/Elements/m/object/P30267
 * 700  0#  $aMartin Amis  $4aui
@@ -48,6 +50,8 @@ Verk identifisert med URI
 * http://viaf.org/viaf/308025936 = The day of creation (Fiction)
 * http://viaf.org/viaf/309308512 = Boy in darkness (Språkbasert verk)
 * http://viaf.org/viaf/311471559 = The voices of time (Fiction / Short story / Språkbasert verk)
+* http://viaf.org/viaf/9842556/bestof77 = The best short stories of J.G. Ballard (Fiction)
+* http://viaf.org/viaf/9842556/bestof95 = The best short stories of J.G. Ballard 
 * http://viaf.org/viaf/9842556/complete = The complete stories of J.G. Ballard (Short story)
 * http://www.isfdb.org/cgi-bin/pe.cgi?41887 = The fifth head of Cerberus (Fiction)
 * http://www.isfdb.org/cgi-bin/title.cgi?1042004 = Notes towards a mental breakdown (Short story)
@@ -69,7 +73,7 @@ Verk identifisert med URI
 * http://www.isfdb.org/cgi-bin/title.cgi?1947904 = On the inside track (Fiction)
 * http://www.isfdb.org/cgi-bin/title.cgi?2608858 = How Erg the Self-inducting slew a paleface (Fiction)
 * http://www.isfdb.org/cgi-bin/title.cgi?2825264 = Zero hour (Fiction)
-* http://www.isfdb.org/cgi-bin/title.cgi?37126 = The terminal beach (Short story / Språkbasert verk)
+* http://www.isfdb.org/cgi-bin/title.cgi?37126 = The terminal beach (Short story / Språkbasert verk / Fiction)
 * http://www.isfdb.org/cgi-bin/title.cgi?37575 = Second variety (Fiction)
 * http://www.isfdb.org/cgi-bin/title.cgi?40842 = Two dooms (Fiction)
 * http://www.isfdb.org/cgi-bin/title.cgi?40903 = Stranger station (Fiction)
@@ -99,14 +103,14 @@ Verk identifisert med URI
 * http://www.isfdb.org/cgi-bin/title.cgi?44123 = The cage of sand / The Cage of Sand (Fiction / Short story / Språkbasert verk)
 * http://www.isfdb.org/cgi-bin/title.cgi?44449 = Escapement (Short story)
 * http://www.isfdb.org/cgi-bin/title.cgi?44450 = Prima belladonna (Short story)
-* http://www.isfdb.org/cgi-bin/title.cgi?44451 = The concentration city / Build-up (Short story / Språkbasert verk)
-* http://www.isfdb.org/cgi-bin/title.cgi?44454 = Manhole 69 (Short story / Språkbasert verk)
+* http://www.isfdb.org/cgi-bin/title.cgi?44451 = The concentration city / Build-up (Short story / Språkbasert verk / Fiction)
+* http://www.isfdb.org/cgi-bin/title.cgi?44454 = Manhole 69 (Short story / Språkbasert verk / Fiction)
 * http://www.isfdb.org/cgi-bin/title.cgi?44455 = The waiting grounds (Short story / Fiction)
 * http://www.isfdb.org/cgi-bin/title.cgi?44456 = Studio 5, the stars (Short story)
 * http://www.isfdb.org/cgi-bin/title.cgi?44457 = Deep end (Short story / Språkbasert verk)
 * http://www.isfdb.org/cgi-bin/title.cgi?44458 = The garden of time (Fiction / Short story / Språkbasert verk)
-* http://www.isfdb.org/cgi-bin/title.cgi?44459 = The subliminal man (Short story)
-* http://www.isfdb.org/cgi-bin/title.cgi?44460 = A question of re-entry / A Question of Re-entry / A Question of re-entry (Short story / Språkbasert verk)
+* http://www.isfdb.org/cgi-bin/title.cgi?44459 = The subliminal man (Short story / Fiction)
+* http://www.isfdb.org/cgi-bin/title.cgi?44460 = A question of re-entry / A Question of Re-entry / A Question of re-entry (Short story / Språkbasert verk / Fiction)
 * http://www.isfdb.org/cgi-bin/title.cgi?44461 = The time-tombs (Short story)
 * http://www.isfdb.org/cgi-bin/title.cgi?44463 = The air disaster (Short story)
 * http://www.isfdb.org/cgi-bin/title.cgi?44464 = The smile (Short story)
@@ -171,7 +175,7 @@ Verk identifisert med URI
 * http://www.isfdb.org/cgi-bin/title.cgi?57611 = Now : zero (Short story)
 * http://www.isfdb.org/cgi-bin/title.cgi?57612 = One afternoon at Utah Beach (Short story)
 * http://www.isfdb.org/cgi-bin/title.cgi?57613 = The overloaded man (Fiction / Short story)
-* http://www.isfdb.org/cgi-bin/title.cgi?57614 = Passport to eternity (Short story)
+* http://www.isfdb.org/cgi-bin/title.cgi?57614 = Passport to eternity (Short story / Fiction)
 * http://www.isfdb.org/cgi-bin/title.cgi?57615 = A place and a time to die (Short story)
 * http://www.isfdb.org/cgi-bin/title.cgi?57617 = Prisoner of the coral deep (Short story / Fiction)
 * http://www.isfdb.org/cgi-bin/title.cgi?57618 = Report on an unidentified space station (Short story)
@@ -197,7 +201,7 @@ Verk identifisert med URI
 * http://www.isfdb.org/cgi-bin/title.cgi?59665 = Vintage season (Fiction)
 * http://www.isfdb.org/cgi-bin/title.cgi?62005 = Crusade (Språkbasert verk)
 * http://www.isfdb.org/cgi-bin/title.cgi?64948 = To the dark star (Språkbasert verk)
-* http://www.isfdb.org/cgi-bin/title.cgi?65075 = Billenium (Short story / Språkbasert verk)
+* http://www.isfdb.org/cgi-bin/title.cgi?65075 = Billenium (Short story / Språkbasert verk / Fiction)
 * http://www.isfdb.org/cgi-bin/title.cgi?670081 = Way to Amalteia (Fiction)
 * http://www.isfdb.org/cgi-bin/title.cgi?68283 = The hurkle is a happy beast (Fiction)
 * http://www.isfdb.org/cgi-bin/title.cgi?68754 = Aye, and Gomorrah (Fiction)
@@ -212,20 +216,32 @@ Verk identifisert med URI
 * http://www.wikidata.org/entity/Q5114250 = Chronopolis, and other stories (Språkbasert verk)
 * http://www.wikidata.org/entity/Q6692707 = Low-flying aircraft, and other stories (Short story)
 * http://www.wikidata.org/entity/Q6815642 = Memories of the space age (Språkbasert verk)
+* https://www.isfdb.org/cgi-bin/title.cgi?575437 = The sound sweep (Fiction)
+* https://www.isfdb.org/cgi-bin/title.cgi?57580 = The atrocity exhibition 
 * https://www.isfdb.org/cgi-bin/title.cgi?57598 = The Last World of Mr Goddard (Fiction / Short story)
+* https://www.isfdb.org/cgi-bin/title.cgi?57616 = Plan for the Assassination of Jacqueline Kennedy 
 
 
 Innførsler som IKKE er identifisert som verk på grunn av manglende URI i $1
 men det er jo ikke nødvendigvis feil!
 -------------------------------------------------------
+* 240  10  $aShort stories.  $kSelections
+* 240  04  $aThe world treasury of science fiction  $kCollection
+* 830  #3  $aAn Orbit book
 * 830  #0  $aHarper Perennial modern classics.
 * 830  #0  $aWorld treasury.
+
+
+Poster hvor vi ikke finner noe verk identifisert med URI
+hverken som hovedinnførsel i 130/240 eller som analytt i 700
+-------------------------------------------------------
+001 = 1304678 / 245$a =  The best short stories of J.G. Ballard. 
 
 
 Oversikt over MARC 21 relator koder brukt i samlingen
 sjekker bare feltene 100, 110, 111, 700, 710, 711
 -------------------------------------------------------
-* aui  : 3 
+* aui  : 5 
 * edc  : 1 
 * edt  : 3 
 * ill  : 1 
@@ -235,7 +251,7 @@ Oversikt over URI relasjonstyper for Agent brukt i samlingen
 verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 -------------------------------------------------------
 * http://rdaregistry.info/Elements/m/object/P30267 (has related agent of manifestation) : 3 
-* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 32 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 34 
 
 
 Personer med URI og relasjonstyper som er brukt for disse
@@ -248,6 +264,7 @@ http://viaf.org/viaf/9842556 (100, 700) : Ballard, J. G
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/103212466 (700) : Brunner, John Kilian Houston 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+http://viaf.org/viaf/71388189 (700) : Burgess, Anthony 
 http://viaf.org/viaf/79304712 (700) : Carr, Terry 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/27062571 (700) : Clarke, Arthur C 
@@ -418,8 +435,8 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tZone of terror  $1http://www.isfdb.org/cgi-bin/title.cgi?57637
 001 = 1264899 
 * 100  1#  $aBallard, J. G.  $d1930-2009  $1http://viaf.org/viaf/9842556  $4http://rdaregistry.info/Elements/w/object/P10061
-* 240  00  $aChronopolis, and other stories  $1http://www.wikidata.org/entity/Q5114250
-* 245  10  $aChronopolis,  $band other stories,  $cby J. G. Ballard.
+* 240  00  $aChronopolis, and other stories  $kCollection  $1http://www.wikidata.org/entity/Q5114250
+* 245  10  $aChronopolis  $band other stories,  $cby J. G. Ballard.
 * 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tBillenium  $1http://www.isfdb.org/cgi-bin/title.cgi?65075
 * 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tBuild-up  $1http://www.isfdb.org/cgi-bin/title.cgi?44451
 * 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tChronopolis  $1http://www.isfdb.org/cgi-bin/title.cgi?41557
@@ -541,7 +558,7 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  02  $aAllen, Steve  $tThe public hating  $1http://www.isfdb.org/cgi-bin/title.cgi?41026
 * 700  02  $aArmer, Karl Michael  $tOn the inside track  $1http://www.isfdb.org/cgi-bin/title.cgi?1947904
 * 700  02  $aAsimov, Isaac  $tThe dead past  $1http://www.isfdb.org/cgi-bin/title.cgi?55741
-* 700  02  $aBallard, J. G.  $d1930-2009  $tChronopolis  $1http://www.isfdb.org/cgi-bin/title.cgi?41557
+* 700  02  $aBallard, J. G.  $d1930-2009  $kShort story  $tChronopolis  $1http://www.isfdb.org/cgi-bin/title.cgi?41557
 * 700  02  $aBerryman, John  $tSpecial flight  $1http://www.isfdb.org/cgi-bin/title.cgi?45279
 * 700  02  $aBester, Alfred  $tThe men who murdered Mohammed  $1http://www.isfdb.org/cgi-bin/title.cgi?41160
 * 700  02  $aBloch, Robert  $tI do not love thee, Doctor Fell  $1http://www.isfdb.org/cgi-bin/title.cgi?58525
@@ -589,6 +606,51 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  02  $aVian, Boris  $tThe dead fish  $1http://www.isfdb.org/cgi-bin/title.cgi?1733237
 * 700  02  $aWalter M. Miller, Jr  $tThe lineman  $1http://www.isfdb.org/cgi-bin/title.cgi?41205
 * 700  02  $aWolfe, Gene  $tThe fifth head of Cerberus  $1http://www.isfdb.org/cgi-bin/pe.cgi?41887
+001 = 011691325 
+* 100  1#  $aBallard, J. G.  $d1930-2009  $1http://viaf.org/viaf/9842556  $4http://rdaregistry.info/Elements/w/object/P10061
+* 240  10  $aThe best short stories of J.G. Ballard  $kCollection  $1http://viaf.org/viaf/9842556/bestof77
+* 245  14  $aThe best of J. G. Ballard /  $cJ. G. Ballard.
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tA Question of Re-entry  $1http://www.isfdb.org/cgi-bin/title.cgi?44460
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tBillenium  $1http://www.isfdb.org/cgi-bin/title.cgi?65075
+* 700  02  $aBallard, J. G.  $d1930-2009  $kShort story  $tChronopolis  $1http://www.isfdb.org/cgi-bin/title.cgi?41557
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tManhole 69  $1http://www.isfdb.org/cgi-bin/title.cgi?44454
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tPassport to eternity  $1http://www.isfdb.org/cgi-bin/title.cgi?57614
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe cage of sand  $1http://www.isfdb.org/cgi-bin/title.cgi?44123
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe concentration city  $1http://www.isfdb.org/cgi-bin/title.cgi?44451
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe day of forever  $1http://www.isfdb.org/cgi-bin/title.cgi?57582
+* 700  12  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe garden of time  $1http://www.isfdb.org/cgi-bin/title.cgi?44458
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe insane ones  $1http://www.isfdb.org/cgi-bin/title.cgi?41280
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe overloaded man  $1http://www.isfdb.org/cgi-bin/title.cgi?57613
+* 700  02  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe sound sweep  $1https://www.isfdb.org/cgi-bin/title.cgi?575437
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe subliminal man  $1http://www.isfdb.org/cgi-bin/title.cgi?44459
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe subliminal man  $1http://www.isfdb.org/cgi-bin/title.cgi?44459
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe terminal beach  $1http://www.isfdb.org/cgi-bin/title.cgi?37126
+* 700  12  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe voices of time  $1http://viaf.org/viaf/311471559
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe waiting grounds  $1http://www.isfdb.org/cgi-bin/title.cgi?44455
+* 700  12  $aBallard, J. G.  $d1930-2009  $kShort story  $tThirteen to Centaurus  $1http://www.isfdb.org/cgi-bin/title.cgi?57628
+001 = 3962305 
+* 100  1#  $aBallard, J. G.  $d1930-2009  $1http://viaf.org/viaf/9842556  $4http://rdaregistry.info/Elements/w/object/P10061
+* 240  10  $aThe best short stories of J.G. Ballard  $kCollection  $1http://viaf.org/viaf/9842556/bestof95
+* 245  14  $aThe best short stories of J.G. Ballard /  $cintroduction by Anthony Burgess.
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tBillenium  $1http://www.isfdb.org/cgi-bin/title.cgi?65075
+* 700  02  $aBallard, J. G.  $d1930-2009  $kShort story  $tChronopolis  $1http://www.isfdb.org/cgi-bin/title.cgi?41557
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tDeep end  $1http://www.isfdb.org/cgi-bin/title.cgi?44457
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tEnd-game  $1http://www.isfdb.org/cgi-bin/title.cgi?57586
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tManhole 69  $1http://www.isfdb.org/cgi-bin/title.cgi?44454
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tPlan for the Assassination of Jacqueline Kennedy  $1https://www.isfdb.org/cgi-bin/title.cgi?57616
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe assassination of John Fitzgerald Kennedy considered as a downhill motor race  $1http://www.isfdb.org/cgi-bin/title.cgi?57579
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe atrocity exhibition  $1https://www.isfdb.org/cgi-bin/title.cgi?57580
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe cage of sand  $1http://www.isfdb.org/cgi-bin/title.cgi?44123
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe cloud-sculptors of Coral D  $1http://www.isfdb.org/cgi-bin/title.cgi?54044
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe concentration city  $1http://www.isfdb.org/cgi-bin/title.cgi?44451
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe drowned giant  $1http://www.isfdb.org/cgi-bin/title.cgi?43949
+* 700  12  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe garden of time  $1http://www.isfdb.org/cgi-bin/title.cgi?44458
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe overloaded man  $1http://www.isfdb.org/cgi-bin/title.cgi?57613
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe subliminal man  $1http://www.isfdb.org/cgi-bin/title.cgi?44459
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe terminal beach  $1http://www.isfdb.org/cgi-bin/title.cgi?37126
+* 700  12  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe voices of time  $1http://viaf.org/viaf/311471559
+* 700  12  $aBallard, J. G.  $d1930-2009  $kShort story  $tThirteen to Centaurus  $1http://www.isfdb.org/cgi-bin/title.cgi?57628
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tWhy I want to fuck Ronald Reagan  $1http://www.isfdb.org/cgi-bin/title.cgi?1274485
 
 
 Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke analytter)
@@ -631,3 +693,9 @@ Opplisting som viser bruken av 380 $a, $0, $2
 * 380  ##  $aNovel
 * 380  ##  $aSpråkbasert verk  $1https://schema.nb.no/Bibliographic/Values/V1000
 * 380  ##  $aShort story
+
+
+Poster som mangler 336, 337, 338, 380
+-------------------------------------------------------
+001: 1304678 mangler følgende felt:  336, 337, 338, 380 
+001: 3962305 mangler følgende felt:  336, 337, 338, 380 
