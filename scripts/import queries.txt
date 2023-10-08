@@ -155,13 +155,13 @@ MATCH (e:Expression)-[:EMBODIES]-(m:Manifestation) where m.title IS NOT NULL
 set e.titles = e.titles + m.title + " : ";
 
 MATCH (e:Expression)-[:EMBODIES]-(m:Manifestation) where m.subtitle IS NOT NULL
-set e.titles = e.titles + m.title + " : ";
+set e.titles = e.titles + m.subtitle + " : ";
 
 MATCH (e:Expression)-[:EMBODIES]-(m:Manifestation) where m.part IS NOT NULL
-set e.titles = e.titles + m.title + " : ";
+set e.titles = e.titles + m.part + " : ";
 
-MATCH (e:Expression)-[:EMBODIES]-(m:Manifestation) where m.contentsnote IS NOT NULL
-set e.titles = e.titles + m.contentsnote + " : ";
+//MATCH (e:Expression)-[:EMBODIES]-(m:Manifestation) where m.contentsnote IS NOT NULL
+//set e.titles = e.titles + m.contentsnote + " : ";
 
 MATCH (from:Expression)-[:PARTOF]-(to:Expression) where to.title IS NOT NULL
 set from.titles = from.titles + to.title + " : ";

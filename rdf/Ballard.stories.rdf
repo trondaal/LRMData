@@ -77,16 +77,6 @@
       <rdfs:label>The day of forever (Ballard, J. G.)</rdfs:label>
       <rdaxd:P00029>Collection</rdaxd:P00029>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/9842556"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57582"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57617"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57631"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57603"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44455"/>
-      <rdawo:P10147 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?57598"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57587"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57626"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41280"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57579"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/308025936">
       <rdaxd:P00018>http://viaf.org/viaf/308025936</rdaxd:P00018>
@@ -115,6 +105,11 @@
       <rdaxd:P00029>Collection</rdaxd:P00029>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/9842556"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/pe.cgi?41887">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/pe.cgi?41887</rdaxd:P00018>
+      <rdawd:P10088>The fifth head of Cerberus</rdawd:P10088>
+      <rdfs:label>The fifth head of Cerberus (Wolfe, Gene)</rdfs:label>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1042004">
       <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?57609</rdaxd:P00018>
       <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?1042004</rdaxd:P00018>
@@ -130,6 +125,41 @@
       <rdfs:label>Report from an obscure planet (Ballard, J. G.)</rdfs:label>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/9842556"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1043438">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?1043438</rdaxd:P00018>
+      <rdawd:P10088>The new prehistory</rdawd:P10088>
+      <rdfs:label>The new prehistory (Rebetez-Cortes, René)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1044760">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?1044760</rdaxd:P00018>
+      <rdawd:P10088>A sign in space</rdawd:P10088>
+      <rdfs:label>A sign in space (Calvino, Italo)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1044769">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?1044769</rdaxd:P00018>
+      <rdawd:P10088>The spiral</rdawd:P10088>
+      <rdfs:label>The spiral (Calvino, Italo)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1193913">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?1193913</rdaxd:P00018>
+      <rdawd:P10088>Party line</rdawd:P10088>
+      <rdfs:label>Party line (Klein, Gérard)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1199713">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?1199713</rdaxd:P00018>
+      <rdawd:P10088>Pairpuppets</rdawd:P10088>
+      <rdfs:label>Pairpuppets (Loggem, Manuel van)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1227657">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?1227657</rdaxd:P00018>
+      <rdawd:P10088>The valley of echoes</rdawd:P10088>
+      <rdfs:label>The valley of echoes (Klein, Gérard)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1228232">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?1228232</rdaxd:P00018>
+      <rdawd:P10088>Captain Nemo's last adventure</rdawd:P10088>
+      <rdfs:label>Captain Nemo's last adventure (Nesvadba, Josef)</rdfs:label>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1274485">
       <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?1274485</rdaxd:P00018>
       <rdawd:P10088>Why I want to fuck Ronald Reagan</rdawd:P10088>
@@ -137,12 +167,122 @@
       <rdaxd:P00029>Short story</rdaxd:P00029>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/9842556"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1564888">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?1564888</rdaxd:P00018>
+      <rdawd:P10088>Tlön, Uqbar, Orbis Tertius</rdawd:P10088>
+      <rdfs:label>Tlön, Uqbar, Orbis Tertius (Borges, Jorge Luis)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1694589">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?1694589</rdaxd:P00018>
+      <rdawd:P10088>Codemus</rdawd:P10088>
+      <rdfs:label>Codemus (Bringsværd, Tor Åge)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1733237">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?1733237</rdaxd:P00018>
+      <rdawd:P10088>The dead fish</rdawd:P10088>
+      <rdfs:label>The dead fish (Vian, Boris)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1770589">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?1770589</rdaxd:P00018>
+      <rdawd:P10088>The blind pilot</rdawd:P10088>
+      <rdfs:label>The blind pilot (Henneberg, Nathalie-Charles)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1772115">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?1772115</rdaxd:P00018>
+      <rdawd:P10088>Triceratops</rdawd:P10088>
+      <rdfs:label>Triceratops (Tensei, Kono)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?189852">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?189852</rdaxd:P00018>
+      <rdawd:P10088>The proud robot</rdawd:P10088>
+      <rdfs:label>The proud robot (Padgett, Lewis)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1947904">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?1947904</rdaxd:P00018>
+      <rdawd:P10088>On the inside track</rdawd:P10088>
+      <rdfs:label>On the inside track (Armer, Karl Michael)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?2608858">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?2608858</rdaxd:P00018>
+      <rdawd:P10088>How Erg the Self-inducting slew a paleface</rdawd:P10088>
+      <rdfs:label>How Erg the Self-inducting slew a paleface (Lem, Stanislaw)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?2825264">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?2825264</rdaxd:P00018>
+      <rdawd:P10088>Zero hour</rdawd:P10088>
+      <rdfs:label>Zero hour (Bradbury, Ray)</rdfs:label>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?37126">
       <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?37126</rdaxd:P00018>
       <rdaxd:P00029>Short story</rdaxd:P00029>
       <rdawd:P10088>The terminal beach</rdawd:P10088>
       <rdfs:label>The terminal beach (Ballard, J. G.)</rdfs:label>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/9842556"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?37575">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?37575</rdaxd:P00018>
+      <rdawd:P10088>Second variety</rdawd:P10088>
+      <rdfs:label>Second variety (Dick, Philip K.)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?40842">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?40842</rdaxd:P00018>
+      <rdawd:P10088>Two dooms</rdawd:P10088>
+      <rdfs:label>Two dooms (Kornbluth, C.M.)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?40903">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?40903</rdaxd:P00018>
+      <rdawd:P10088>Stranger station</rdawd:P10088>
+      <rdfs:label>Stranger station (Knight, Damon)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41026">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?41026</rdaxd:P00018>
+      <rdawd:P10088>The public hating</rdawd:P10088>
+      <rdfs:label>The public hating (Allen, Steve)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41048">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?41048</rdaxd:P00018>
+      <rdawd:P10088>Poor superman</rdawd:P10088>
+      <rdfs:label>Poor superman (Leiber, Fritz)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41067">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?41067</rdaxd:P00018>
+      <rdawd:P10088>The phantom of Kansas</rdawd:P10088>
+      <rdfs:label>The phantom of Kansas (Varley, John)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41101">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?41101</rdaxd:P00018>
+      <rdawd:P10088>Nobody's home</rdawd:P10088>
+      <rdfs:label>Nobody's home (Russ, Joanna)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41107">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?41107</rdaxd:P00018>
+      <rdawd:P10088>Nine lives</rdawd:P10088>
+      <rdfs:label>Nine lives (Guin, Ursula K. Le)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41120">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?41120</rdaxd:P00018>
+      <rdawd:P10088>The muse</rdawd:P10088>
+      <rdfs:label>The muse (Burgess, Anthony)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41160">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?41160</rdaxd:P00018>
+      <rdawd:P10088>The men who murdered Mohammed</rdawd:P10088>
+      <rdfs:label>The men who murdered Mohammed (Bester, Alfred)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41178">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?41178</rdaxd:P00018>
+      <rdawd:P10088>The man who lost the sea</rdawd:P10088>
+      <rdfs:label>The man who lost the sea (Sturgeon, Theodore)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41205">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?41205</rdaxd:P00018>
+      <rdawd:P10088>The lineman</rdawd:P10088>
+      <rdfs:label>The lineman (Walter M. Miller, Jr)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41225">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?41225</rdaxd:P00018>
+      <rdawd:P10088>The lens</rdawd:P10088>
+      <rdfs:label>The lens (Ewyck, Annemarie van)</rdfs:label>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41235">
       <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?41235</rdaxd:P00018>
@@ -158,6 +298,26 @@
       <rdfs:label>The insane ones (Ballard, J. G.)</rdfs:label>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/9842556"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41283">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?41283</rdaxd:P00018>
+      <rdawd:P10088>Inconstant moon</rdawd:P10088>
+      <rdfs:label>Inconstant moon (Niven, Larry)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41335">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?41335</rdaxd:P00018>
+      <rdawd:P10088>Harrison Bergeron</rdawd:P10088>
+      <rdfs:label>Harrison Bergeron (Kurt Vonnegut, Jr)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41350">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?41350</rdaxd:P00018>
+      <rdawd:P10088>The green hills of Earth</rdawd:P10088>
+      <rdfs:label>The green hills of Earth (Heinlein, Robert A.)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41363">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?41363</rdaxd:P00018>
+      <rdawd:P10088>The Golem</rdawd:P10088>
+      <rdfs:label>The Golem (Davidson, Avram)</rdfs:label>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41516">
       <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?41516</rdaxd:P00018>
       <rdaxd:P00029>Short story</rdaxd:P00029>
@@ -171,6 +331,16 @@
       <rdawd:P10088>Chronopolis</rdawd:P10088>
       <rdfs:label>Chronopolis (Ballard, J. G.)</rdfs:label>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/9842556"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41564">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?41564</rdaxd:P00018>
+      <rdawd:P10088>The chaste planet</rdawd:P10088>
+      <rdfs:label>The chaste planet (Updike, John)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41658">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?41658</rdaxd:P00018>
+      <rdawd:P10088>Angouleme</rdawd:P10088>
+      <rdfs:label>Angouleme (Disch, Thomas M.)</rdfs:label>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?42206">
       <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?42206</rdaxd:P00018>
@@ -314,6 +484,11 @@
       <rdfs:label>The sound-sweep (Ballard, J. G.)</rdfs:label>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/9842556"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?45279">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?45279</rdaxd:P00018>
+      <rdawd:P10088>Special flight</rdawd:P10088>
+      <rdfs:label>Special flight (Berryman, John)</rdfs:label>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?45330">
       <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?45330</rdaxd:P00018>
       <rdaxd:P00029>Short story</rdaxd:P00029>
@@ -327,6 +502,11 @@
       <rdawd:P10088>The object of the attack</rdawd:P10088>
       <rdfs:label>The object of the attack (Ballard, J. G.)</rdfs:label>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/9842556"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?45804">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?45804</rdaxd:P00018>
+      <rdawd:P10088>Ghost V</rdawd:P10088>
+      <rdfs:label>Ghost V (Sheckley, Robert)</rdfs:label>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?46455">
       <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?46455</rdaxd:P00018>
@@ -370,6 +550,11 @@
       <rdfs:label>The secret autobiography of J.G.B (Ballard, J. G.)</rdfs:label>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/9842556"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?48020">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?48020</rdaxd:P00018>
+      <rdawd:P10088>Forgetfulness</rdawd:P10088>
+      <rdfs:label>Forgetfulness (John W. Campbell, Jr)</rdfs:label>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?48153">
       <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?48153</rdaxd:P00018>
       <rdaxd:P00029>Short story</rdaxd:P00029>
@@ -383,6 +568,16 @@
       <rdawd:P10088>Myths of the near future</rdawd:P10088>
       <rdfs:label>Myths of the near future (Ballard, J. G.)</rdfs:label>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/9842556"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?493181">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?493181</rdaxd:P00018>
+      <rdawd:P10088>A kind of artistry</rdawd:P10088>
+      <rdfs:label>A kind of artistry (Aldiss, Brian W.)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?51188">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?51188</rdaxd:P00018>
+      <rdawd:P10088>The gold at the starbow's end</rdawd:P10088>
+      <rdfs:label>The gold at the starbow's end (Pohl, Frederik)</rdfs:label>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?53869">
       <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?53869</rdaxd:P00018>
@@ -411,6 +606,16 @@
       <rdawd:P10088>The Comsat angels</rdawd:P10088>
       <rdfs:label>The Comsat angels (Ballard, J. G.)</rdfs:label>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/9842556"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?55741">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?55741</rdaxd:P00018>
+      <rdawd:P10088>The dead past</rdawd:P10088>
+      <rdfs:label>The dead past (Asimov, Isaac)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?56729">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?56729</rdaxd:P00018>
+      <rdawd:P10088>A meeting with Medusa</rdawd:P10088>
+      <rdfs:label>A meeting with Medusa (Clarke, Arthur C.)</rdfs:label>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?56908">
       <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?56908</rdaxd:P00018>
@@ -820,6 +1025,16 @@
       <rdfs:label>Mind out of time (Laumer, K.)</rdfs:label>
       <rdawo:P10061 rdf:resource="https://isni.org/isni/0000000109520828"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?58525">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?58525</rdaxd:P00018>
+      <rdawd:P10088>I do not love thee, Doctor Fell</rdawd:P10088>
+      <rdfs:label>I do not love thee, Doctor Fell (Bloch, Robert)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?59665">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?59665</rdaxd:P00018>
+      <rdawd:P10088>Vintage season</rdawd:P10088>
+      <rdfs:label>Vintage season (Moore, Henry Kuttner and C.L.)</rdfs:label>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?62005">
       <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?62005</rdaxd:P00018>
       <rdaxd:P00029>Short story</rdaxd:P00029>
@@ -841,12 +1056,37 @@
       <rdfs:label>Billenium (Ballard, J. G.)</rdfs:label>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/9842556"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?670081">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?670081</rdaxd:P00018>
+      <rdawd:P10088>Way to Amalteia</rdawd:P10088>
+      <rdfs:label>Way to Amalteia (Strugatsky, Arkady and Boris)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?68283">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?68283</rdaxd:P00018>
+      <rdawd:P10088>The hurkle is a happy beast</rdawd:P10088>
+      <rdfs:label>The hurkle is a happy beast (Sturgeon, Theodore)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?68754">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?68754</rdaxd:P00018>
+      <rdawd:P10088>Aye, and Gomorrah</rdawd:P10088>
+      <rdfs:label>Aye, and Gomorrah (Delany, Samuel R.)</rdfs:label>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?71516">
       <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?71516</rdaxd:P00018>
       <rdaxd:P00029>Short story</rdaxd:P00029>
       <rdawd:P10088>A night in elf hill</rdawd:P10088>
       <rdfs:label>A night in elf hill (Spinrad, Norman)</rdfs:label>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/54154517"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?77508">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?77508</rdaxd:P00018>
+      <rdawd:P10088>Weihnachtsabend</rdawd:P10088>
+      <rdfs:label>Weihnachtsabend (Roberts, Keith)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?837545">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?837545</rdaxd:P00018>
+      <rdawd:P10088>Tale of the computer that fought a dragon</rdawd:P10088>
+      <rdfs:label>Tale of the computer that fought a dragon (Lem, Stanislaw)</rdfs:label>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?94038">
       <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?94038</rdaxd:P00018>
@@ -855,6 +1095,11 @@
       <rdfs:label>Pond water (Brunner, J.)</rdfs:label>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/103212466"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/111614127"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?940652">
+      <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?940652</rdaxd:P00018>
+      <rdawd:P10088>I was the first to find you</rdawd:P10088>
+      <rdfs:label>I was the first to find you (Bulychev, Kirill)</rdfs:label>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?97136">
       <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?97136</rdaxd:P00018>
@@ -878,28 +1123,9 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://www.wikidata.org/entity/Q5114250">
       <rdaxd:P00018>http://www.wikidata.org/entity/Q5114250</rdaxd:P00018>
-      <rdawd:P10088>Chronopolis, and other short stories</rdawd:P10088>
-      <rdfs:label>Chronopolis, and other short stories (Ballard, J. G.)</rdfs:label>
-      <rdaxd:P00029>Collection</rdaxd:P00029>
       <rdawd:P10088>Chronopolis, and other stories</rdawd:P10088>
       <rdfs:label>Chronopolis, and other stories (Ballard, J. G.)</rdfs:label>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/9842556"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/311471559"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?43949"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?37126"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44454"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57625"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44514"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?65075"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41557"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44451"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44458"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57586"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57635"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57610"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57637"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44123"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44457"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://www.wikidata.org/entity/Q6692707">
       <rdaxd:P00018>http://www.wikidata.org/entity/Q6692707</rdaxd:P00018>
@@ -907,15 +1133,6 @@
       <rdfs:label>Low-flying aircraft, and other stories (Ballard, J. G.)</rdfs:label>
       <rdaxd:P00029>Collection</rdaxd:P00029>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/9842556"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44466"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57602"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57583"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57607"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57599"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57589"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57615"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?54304"/>
-      <rdawo:P10147 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57581"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://www.wikidata.org/entity/Q6815642">
       <rdaxd:P00018>http://www.wikidata.org/entity/Q6815642</rdaxd:P00018>
@@ -1039,6 +1256,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/183430784/exp/eng/1020">
       <rdaed:P20316>The four-dimensional nightmare</rdaed:P20316>
+      <rdaxd:P00029>collection</rdaxd:P00029>
       <rdaxd:P00029>parent</rdaxd:P00029>
       <rdaed:P20312>The four-dimensional nightmare</rdaed:P20312>
       <rdfs:label>The four-dimensional nightmare / text</rdfs:label>
@@ -1077,22 +1295,12 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/307992426/exp/eng/1020">
       <rdaed:P20316>The day of forever</rdaed:P20316>
-      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaxd:P00029>collection</rdaxd:P00029>
       <rdaed:P20312>The day of forever</rdaed:P20312>
       <rdfs:label>The day of forever / text</rdfs:label>
       <rdaed:P20071>The Day of Forever -- Prisoner of the Coral Deep -- Tomorrow is a Million Years -- The Man on the 99th Floor -- The Waiting Grounds -- The Last World of Mr Goddard -- The Gentle Assassin -- The Sudden Afternoon -- The Insane Ones -- The Assassination of John Fitzgerald Kennedy Considered as a Downhill Motor Race</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57582/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57617/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57631/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57603/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44455/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?57598/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57587/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57626/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41280/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57579/exp/eng/1020"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/307992426"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/308025936/exp/eng/1020">
@@ -1130,6 +1338,14 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9842556/complete"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/pe.cgi?41887/exp/eng/1020">
+      <rdaed:P20312>The fifth head of Cerberus</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The fifth head of Cerberus / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/pe.cgi?41887"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1042004/exp/eng/1020">
       <rdaed:P20312>Notes towards a mental breakdown</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
@@ -1146,6 +1362,62 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1042032"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1043438/exp/eng/1020">
+      <rdaed:P20312>The new prehistory</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The new prehistory / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1043438"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1044760/exp/eng/1020">
+      <rdaed:P20312>A sign in space</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>A sign in space / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1044760"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1044769/exp/eng/1020">
+      <rdaed:P20312>The spiral</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The spiral / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1044769"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1193913/exp/eng/1020">
+      <rdaed:P20312>Party line</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Party line / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1193913"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1199713/exp/eng/1020">
+      <rdaed:P20312>Pairpuppets</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Pairpuppets / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1199713"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1227657/exp/eng/1020">
+      <rdaed:P20312>The valley of echoes</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The valley of echoes / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1227657"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1228232/exp/eng/1020">
+      <rdaed:P20312>Captain Nemo's last adventure</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Captain Nemo's last adventure / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1228232"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1274485/exp/eng/1020">
       <rdaed:P20316>Why I want to fuck Ronald Reagan</rdaed:P20316>
       <rdaed:P20312>Why I want to fuck Ronald Reagan</rdaed:P20312>
@@ -1155,6 +1427,78 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1274485"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1564888/exp/eng/1020">
+      <rdaed:P20312>Tlön, Uqbar, Orbis Tertius</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Tlön, Uqbar, Orbis Tertius / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1564888"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1694589/exp/eng/1020">
+      <rdaed:P20312>Codemus</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Codemus / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1694589"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1733237/exp/eng/1020">
+      <rdaed:P20312>The dead fish</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The dead fish / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1733237"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1770589/exp/eng/1020">
+      <rdaed:P20312>The blind pilot</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The blind pilot / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1770589"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1772115/exp/eng/1020">
+      <rdaed:P20312>Triceratops</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Triceratops / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1772115"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?189852/exp/eng/1020">
+      <rdaed:P20312>The proud robot</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The proud robot / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?189852"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1947904/exp/eng/1020">
+      <rdaed:P20312>On the inside track</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>On the inside track / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1947904"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?2608858/exp/eng/1020">
+      <rdaed:P20312>How Erg the Self-inducting slew a paleface</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>How Erg the Self-inducting slew a paleface / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?2608858"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?2825264/exp/eng/1020">
+      <rdaed:P20312>Zero hour</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Zero hour / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?2825264"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?37126/exp/eng/1020">
       <rdaed:P20312>The terminal beach</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
@@ -1162,6 +1506,110 @@
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?37126"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?37575/exp/eng/1020">
+      <rdaed:P20312>Second variety</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Second variety / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?37575"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?40842/exp/eng/1020">
+      <rdaed:P20312>Two dooms</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Two dooms / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?40842"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?40903/exp/eng/1020">
+      <rdaed:P20312>Stranger station</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Stranger station / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?40903"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41026/exp/eng/1020">
+      <rdaed:P20312>The public hating</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The public hating / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41026"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41048/exp/eng/1020">
+      <rdaed:P20312>Poor superman</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Poor superman / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41048"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41067/exp/eng/1020">
+      <rdaed:P20312>The phantom of Kansas</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The phantom of Kansas / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41067"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41101/exp/eng/1020">
+      <rdaed:P20312>Nobody's home</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Nobody's home / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41101"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41107/exp/eng/1020">
+      <rdaed:P20312>Nine lives</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Nine lives / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41107"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41120/exp/eng/1020">
+      <rdaed:P20312>The muse</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The muse / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41120"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41160/exp/eng/1020">
+      <rdaed:P20312>The men who murdered Mohammed</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The men who murdered Mohammed / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41160"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41178/exp/eng/1020">
+      <rdaed:P20312>The man who lost the sea</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The man who lost the sea / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41178"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41205/exp/eng/1020">
+      <rdaed:P20312>The lineman</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The lineman / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41205"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41225/exp/eng/1020">
+      <rdaed:P20312>The lens</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The lens / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41225"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41235/exp/eng/1020">
       <rdaed:P20312>Kyrie</rdaed:P20312>
@@ -1179,6 +1627,38 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41280"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41283/exp/eng/1020">
+      <rdaed:P20312>Inconstant moon</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Inconstant moon / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41283"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41335/exp/eng/1020">
+      <rdaed:P20312>Harrison Bergeron</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Harrison Bergeron / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41335"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41350/exp/eng/1020">
+      <rdaed:P20312>The green hills of Earth</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The green hills of Earth / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41350"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41363/exp/eng/1020">
+      <rdaed:P20312>The Golem</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The Golem / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41363"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41516/exp/eng/1020">
       <rdaed:P20312>The dance of the changer and the three</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
@@ -1194,6 +1674,22 @@
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41557"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41564/exp/eng/1020">
+      <rdaed:P20312>The chaste planet</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The chaste planet / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41564"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41658/exp/eng/1020">
+      <rdaed:P20312>Angouleme</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Angouleme / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41658"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?42206/exp/eng/1020">
       <rdaed:P20312>The recognition</rdaed:P20312>
@@ -1219,17 +1715,11 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?43949"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?44123/exp/1020">
-      <rdaed:P20312>The Cage of Sand</rdaed:P20312>
-      <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The Cage of Sand / tekst</rdfs:label>
-      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
-      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44123"/>
-   </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?44123/exp/eng/1020">
       <rdaed:P20312>The cage of sand</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
       <rdfs:label>The cage of sand / text</rdfs:label>
+      <rdfs:label>The Cage of Sand / eng / tekst</rdfs:label>
       <rdfs:label>The Cage of Sand / tekst</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -1309,17 +1799,11 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44459"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?44460/exp/1020">
-      <rdaed:P20312>A Question of Re-entry</rdaed:P20312>
-      <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>A Question of Re-entry / tekst</rdfs:label>
-      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
-      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44460"/>
-   </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?44460/exp/eng/1020">
       <rdaed:P20312>A question of re-entry</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
       <rdfs:label>A question of re-entry / text</rdfs:label>
+      <rdfs:label>A Question of Re-entry / eng / tekst</rdfs:label>
       <rdfs:label>A Question of re-entry / tekst</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -1373,17 +1857,19 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44514"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?45330/exp/1020">
-      <rdaed:P20312>Memories of the Space Age</rdaed:P20312>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?45279/exp/eng/1020">
+      <rdaed:P20312>Special flight</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Memories of the Space Age / tekst</rdfs:label>
+      <rdfs:label>Special flight / text</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
-      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?45330"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?45279"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?45330/exp/eng/1020">
       <rdaed:P20312>Memories of the space age</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
       <rdfs:label>Memories of the space age / text</rdfs:label>
+      <rdfs:label>Memories of the Space Age / eng / tekst</rdfs:label>
       <rdfs:label>Memories of the space age / tekst</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -1397,17 +1883,19 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?45331"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?46455/exp/1020">
-      <rdaed:P20312>The Man Who Walked on the Moon</rdaed:P20312>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?45804/exp/eng/1020">
+      <rdaed:P20312>Ghost V</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The Man Who Walked on the Moon / tekst</rdfs:label>
+      <rdfs:label>Ghost V / text</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
-      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?46455"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?45804"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?46455/exp/eng/1020">
       <rdaed:P20312>The man who walked on the moon</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
       <rdfs:label>The man who walked on the moon / text</rdfs:label>
+      <rdfs:label>The Man Who Walked on the Moon / eng / tekst</rdfs:label>
       <rdfs:label>The Man Who Walked on the Moon / tekst</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -1453,6 +1941,14 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?47005"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?48020/exp/eng/1020">
+      <rdaed:P20312>Forgetfulness</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Forgetfulness / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?48020"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?48153/exp/eng/1020">
       <rdaed:P20312>War fever</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
@@ -1461,21 +1957,31 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?48153"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?49122/exp/1020">
-      <rdaed:P20312>Myths of the Near Future</rdaed:P20312>
-      <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Myths of the Near Future / tekst</rdfs:label>
-      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
-      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?49122"/>
-   </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?49122/exp/eng/1020">
       <rdaed:P20312>Myths of the near future</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
       <rdfs:label>Myths of the near future / text</rdfs:label>
+      <rdfs:label>Myths of the Near Future / eng / tekst</rdfs:label>
       <rdfs:label>Myths of the near future / tekst</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?49122"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?493181/exp/eng/1020">
+      <rdaed:P20312>A kind of artistry</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>A kind of artistry / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?493181"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?51188/exp/eng/1020">
+      <rdaed:P20312>The gold at the starbow's end</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The gold at the starbow's end / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?51188"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?53869/exp/eng/1020">
       <rdaed:P20312>Cry hope, cry fury!</rdaed:P20312>
@@ -1508,6 +2014,22 @@
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?54304"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?55741/exp/eng/1020">
+      <rdaed:P20312>The dead past</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The dead past / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?55741"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?56729/exp/eng/1020">
+      <rdaed:P20312>A meeting with Medusa</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>A meeting with Medusa / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?56729"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?56908/exp/eng/1020">
       <rdaed:P20312>The worm that flies</rdaed:P20312>
@@ -1557,17 +2079,11 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57582"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57583/exp/1020">
-      <rdaed:P20312>The Dead Astronaut</rdaed:P20312>
-      <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The Dead Astronaut / tekst</rdfs:label>
-      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
-      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57583"/>
-   </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57583/exp/eng/1020">
       <rdaed:P20312>The dead astronaut</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
       <rdfs:label>The dead astronaut / text</rdfs:label>
+      <rdfs:label>The Dead Astronaut / eng / tekst</rdfs:label>
       <rdfs:label>The dead astronaut / tekst</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -1757,33 +2273,21 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57606"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57607/exp/1020">
-      <rdaed:P20312>My Dream of Flying to Wake Island</rdaed:P20312>
-      <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>My Dream of Flying to Wake Island / tekst</rdfs:label>
-      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
-      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57607"/>
-   </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57607/exp/eng/1020">
       <rdaed:P20312>My dream of flying to Wake Island</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
       <rdfs:label>My dream of flying to Wake Island / text</rdfs:label>
+      <rdfs:label>My Dream of Flying to Wake Island / eng / tekst</rdfs:label>
       <rdfs:label>My dream of flying to wake island / tekst</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57607"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57608/exp/1020">
-      <rdaed:P20312>News from the Sun</rdaed:P20312>
-      <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>News from the Sun / tekst</rdfs:label>
-      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
-      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57608"/>
-   </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57608/exp/eng/1020">
       <rdaed:P20312>News from the sun</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
       <rdfs:label>News from the sun / text</rdfs:label>
+      <rdfs:label>News from the Sun / eng / tekst</rdfs:label>
       <rdfs:label>News from the sun / tekst</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -1999,6 +2503,22 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57905"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?58525/exp/eng/1020">
+      <rdaed:P20312>I do not love thee, Doctor Fell</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>I do not love thee, Doctor Fell / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?58525"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?59665/exp/eng/1020">
+      <rdaed:P20312>Vintage season</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Vintage season / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?59665"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?62005/exp/eng/1020">
       <rdaed:P20312>Crusade</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
@@ -2023,6 +2543,30 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?65075"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?670081/exp/eng/1020">
+      <rdaed:P20312>Way to Amalteia</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Way to Amalteia / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?670081"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?68283/exp/eng/1020">
+      <rdaed:P20312>The hurkle is a happy beast</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The hurkle is a happy beast / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?68283"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?68754/exp/eng/1020">
+      <rdaed:P20312>Aye, and Gomorrah</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Aye, and Gomorrah / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?68754"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?71516/exp/eng/1020">
       <rdaed:P20312>A night in elf hill</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
@@ -2031,6 +2575,22 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?71516"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?77508/exp/eng/1020">
+      <rdaed:P20312>Weihnachtsabend</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Weihnachtsabend / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?77508"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?837545/exp/eng/1020">
+      <rdaed:P20312>Tale of the computer that fought a dragon</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Tale of the computer that fought a dragon / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?837545"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?94038/exp/eng/1020">
       <rdaed:P20312>Pond water</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
@@ -2038,6 +2598,14 @@
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?94038"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?940652/exp/eng/1020">
+      <rdaed:P20312>I was the first to find you</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>I was the first to find you / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?940652"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?97136/exp/eng/1020">
       <rdaed:P20312>Sulwen's planet</rdaed:P20312>
@@ -2064,60 +2632,34 @@
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?97138"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q5114250/exp/eng/1020">
-      <rdaed:P20316>Chronopolis, and other short stories</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
       <rdaed:P20316>Chronopolis, and other stories</rdaed:P20316>
-      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaxd:P00029>collection</rdaxd:P00029>
       <rdaed:P20312>Chronopolis : and other stories</rdaed:P20312>
       <rdfs:label>Chronopolis / text</rdfs:label>
-      <rdaed:P20071>The voices of time -- The drowned giant.--The terminal beach.--Manhole 69.--Storm-bird, storm-dreamer.--The sound-sweep.--Billenium.--Chronopolis.--Build-up.--The garden of time.--End game.--The watchtowers.--Now wakes the sea.--Zone of terror.--The cage of sand.--Deep end</rdaed:P20071>
       <rdaed:P20071>The voices of time -- The drowned giant -- The terminal beach -- Manhole 69 -- Storm-bird, storm-dreamer -- The sound-sweep -- Millenium -- Chronopolis -- Build-up -- The garden of time -- End game -- The watchtowers -- Now wakes the sea -- Zone of terror -- The cage of sand -- Deep end.</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/311471559/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?43949/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?37126/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44454/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57625/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44514/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?65075/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41557/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44451/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44458/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57586/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57635/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57610/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57637/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44123/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44457/exp/eng/1020"/>
       <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q5114250"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q6692707/exp/eng/1020">
       <rdaed:P20316>Low-flying aircraft, and other stories</rdaed:P20316>
-      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaxd:P00029>collection</rdaxd:P00029>
       <rdaed:P20312>Low-flying aircraft, and other stories</rdaed:P20312>
       <rdfs:label>Low-flying aircraft, and other stories / text</rdfs:label>
       <rdaed:P20071>The ultimate city -- Low-flying aircraft -- The dead astronaut -- My dream of flying to Wake Island -- The life and death of God -- The greatest television show on earth -- A place and a time to die -- The Comsat angels -- The beach murders</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44466/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57602/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57583/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57607/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57599/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57589/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57615/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?54304/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57581/exp/eng/1020"/>
       <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q6692707"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q6815642/exp/1020">
+   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q6815642/exp/eng/1020">
       <rdaed:P20316>Memories of the space age</rdaed:P20316>
       <rdaxd:P00029>collection</rdaxd:P00029>
       <rdaed:P20312>Memories of the space age</rdaed:P20312>
+      <rdfs:label>Memories of the space age / eng / tekst</rdfs:label>
       <rdfs:label>Memories of the space age / tekst</rdfs:label>
       <rdaed:P20071>The Cage of Sand -- A Question of Re-entry -- The Dead Astronaut -- My Dream of Flying to Wake Island -- News from the Sun -- Memories of the Space Age -- Myths of the Near Future -- The Man Who Walked on the Moon</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q6815642"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?57598/exp/eng/1020">
@@ -2128,29 +2670,6 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?57598"/>
    </rdac:C10006>
-   <rdac:C10007 rdf:about="http://example.org/000184365">
-      <rdamd:P30156>The four-dimensional nightmare</rdamd:P30156>
-      <rdamd:P30088>Harmondsworth</rdamd:P30088>
-      <rdamd:P30111>Harmondsworth : Penguin Books, 1965.</rdamd:P30111>
-      <rdamd:P30083>Penguin Books</rdamd:P30083>
-      <rdamd:P30011>1965</rdamd:P30011>
-      <rdamd:P30182>222 pages, (8º).</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
-      <rdamd:P30106>[Penguin Books. no. 2345.]</rdamd:P30106>
-      <rdamd:P30137>The voices of time -- The sound-sweep -- The overloaded man -- Thirteen to Centaurus -- The garden of time -- The cage of sand -- The watch-tower -- Chronopolis.</rdamd:P30137>
-      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
-      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/183430784/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/311471559/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44514/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57613/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57628/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44458/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44123/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57635/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41557/exp/eng/1020"/>
-   </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/009145814">
       <rdamd:P30156>Memories of the space age</rdamd:P30156>
       <rdamd:P30088>London; New York</rdamd:P30088>
@@ -2163,15 +2682,15 @@
       <rdamd:P30050>The Penguin book of modern British short stories. -, London ; New York : Penguin, 1988. -.</rdamd:P30050>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q6815642/exp/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44123/exp/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44460/exp/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57583/exp/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57607/exp/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57608/exp/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?45330/exp/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?49122/exp/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?46455/exp/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q6815642/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44123/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44460/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57583/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57607/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57608/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?45330/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?49122/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?46455/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/009937949">
       <rdamd:P30156>The day of forever</rdamd:P30156>
@@ -2194,38 +2713,6 @@
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57626/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41280/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57579/exp/eng/1020"/>
-   </rdac:C10007>
-   <rdac:C10007 rdf:about="http://example.org/011691312">
-      <rdamd:P30156>Chronopolis</rdamd:P30156>
-      <rdamd:P30142>and other stories</rdamd:P30142>
-      <rdamd:P30117>by J. G. Ballard</rdamd:P30117>
-      <rdamd:P30088>New York</rdamd:P30088>
-      <rdamd:P30111>New York : Putnam, [1971].</rdamd:P30111>
-      <rdamd:P30083>Putnam</rdamd:P30083>
-      <rdamd:P30011>[1971]</rdamd:P30011>
-      <rdamd:P30182>319 pages, 21 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
-      <rdamd:P30137>The voices of time -- The drowned giant.--The terminal beach.--Manhole 69.--Storm-bird, storm-dreamer.--The sound-sweep.--Billenium.--Chronopolis.--Build-up.--The garden of time.--End game.--The watchtowers.--Now wakes the sea.--Zone of terror.--The cage of sand.--Deep end</rdamd:P30137>
-      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
-      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q5114250/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/311471559/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?43949/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?37126/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44454/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57625/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44514/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?65075/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41557/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44451/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44458/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57586/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57635/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57610/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57637/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44123/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44457/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/011818370">
       <rdamd:P30156>Why I want to fuck Ronald Reagan</rdamd:P30156>
@@ -2431,6 +2918,79 @@
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?54304/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57581/exp/eng/1020"/>
    </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0316349410">
+      <rdamd:P30004>ISBN 0316349410</rdamd:P30004>
+      <rdaxd:P00018>isbn-0316349410</rdaxd:P00018>
+      <rdfs:label>ISBN0316349410</rdfs:label>
+      <rdamd:P30004>ISBN 9780316349413</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780316349413</rdaxd:P00018>
+      <rdfs:label>ISBN9780316349413</rdfs:label>
+      <rdamd:P30156>The world treasury of science fiction</rdamd:P30156>
+      <rdamd:P30117>edited by David G. Hartwell ; with a foreword by Clifton Fadiman, general editor</rdamd:P30117>
+      <rdamd:P30107>1st ed</rdamd:P30107>
+      <rdamd:P30088>Boston</rdamd:P30088>
+      <rdamd:P30111>Boston : Little, Brown, ©1989.</rdamd:P30111>
+      <rdamd:P30083>Little, Brown</rdamd:P30083>
+      <rdamd:P30011>©1989</rdamd:P30011>
+      <rdamd:P30182>xix, 1083 pages, 25 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>Foreword -- Introduction -- Harrison Bergeron / Kurt Vonnegut, Jr. -- Forgetfulness / John W. Campbell, Jr. -- Special flight / John Berryman -- Chronopolis / J.G. Ballard -- Triceratops / Kono Tensei -- The man who lost the sea / Theodore Sturgeon -- On the inside track / Karl Michael Armer -- The Golem / Avram Davidson -- The new prehistory / René Rebetez-Cortes -- A meeting with Medusa / Arthur C. Clarke -- The valley of echoes / Gérard Klein -- The fifth head of Cerberus / Gene Wolfe -- The chaste planet / John Updike -- The blind pilot / Nathalie-Charles Henneberg -- The men who murdered Mohammed / Alfred Bester -- Pairpuppets / Manuel van Loggem -- Two dooms / C.M. Kornbluth -- Tale of the computer that fought a dragon / Stanislaw Lem -- The green hills of Earth / Robert A. Heinlein -- Ghost V / Robert Sheckley -- The phantom of Kansas / John Varley -- Captain Nemo's last adventure / Josef Nesvadba -- Inconstant moon / Larry Niven -- The gold at the starbow's end / Frederik Pohl -- A sign in space / Italo Calvino -- The spiral / Italo Calvino -- The dead past / Isaac Asimov -- The lens / Annemarie van Ewyck -- The hurkle is a happy beast / Theodore Sturgeon -- Zero hour / Ray Bradbury -- Nine lives / Ursula K. Le Guin -- The muse / Anthony Burgess -- The public hating / Steve Allen -- Poor superman / Fritz Leiber -- Angouleme / Thomas M. Disch -- Stranger station / Damon Knight -- The dead fish / Boris Vian -- I was the first to find you / Kirill Bulychev -- The lineman / Walter M. Miller, Jr. -- Tlön, Uqbar, Orbis Tertius / Jorge Luis Borges -- Codemus / Tor Åge Bringsvaerd -- A kind of artistry / Brian Aldiss -- Second variety / Philip K. Dick -- Weihnachtsabend / Keith Roberts -- I do not love thee, Doctor Fell / Robert Bloch -- Aye, and Gomorrah-- / Samuel R. Delany -- How Erg the Self-inducting slew a paleface / Stanislaw Lem -- Nobody's home / Joanna Russ -- Party line / Gérard Klein -- The proud robot / Lewis Padgett -- Vintage season / Henry Kuttner and C.L. Moore -- Way to Amalteia / Arkady and Boris Strugatsky.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41335/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?48020/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?45279/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41557/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1772115/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41178/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1947904/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41363/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1043438/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?56729/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1227657/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/pe.cgi?41887/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41564/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1770589/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41160/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1199713/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?40842/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?837545/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41350/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?45804/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41067/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1228232/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41283/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?51188/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1044760/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1044769/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?55741/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41225/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?68283/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?2825264/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41107/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41120/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41026/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41048/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41658/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?40903/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1733237/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?940652/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41205/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1564888/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1694589/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?493181/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?37575/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?77508/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?58525/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?68754/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?2608858/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41101/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1193913/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?189852/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?59665/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?670081/exp/eng/1020"/>
+   </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0393072622">
       <rdamd:P30004>ISBN 0393072622 (hbk.)</rdamd:P30004>
       <rdaxd:P00018>isbn-0393072622</rdaxd:P00018>
@@ -2581,31 +3141,6 @@
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57635/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41557/exp/eng/1020"/>
    </rdac:C10007>
-   <rdac:C10007 rdf:about="http://example.org/isbn-0575018593">
-      <rdamd:P30004>ISBN 0575018593</rdamd:P30004>
-      <rdaxd:P00018>isbn-0575018593</rdaxd:P00018>
-      <rdfs:label>ISBN0575018593</rdfs:label>
-      <rdamd:P30156>The four-dimensional nightmare</rdamd:P30156>
-      <rdamd:P30088>London</rdamd:P30088>
-      <rdamd:P30111>London : Gollancz, 1974.</rdamd:P30111>
-      <rdamd:P30083>Gollancz</rdamd:P30083>
-      <rdamd:P30011>1974</rdamd:P30011>
-      <rdamd:P30182>197 pages, 21 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
-      <rdamd:P30137>The voices of time -- The sound-sweep -- The overloaded man -- Thirteen to Centaurus -- The garden of time -- The cage of sand -- The watch-tower -- Chronopolis.</rdamd:P30137>
-      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
-      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/183430784/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/311471559/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44514/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57613/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57628/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44458/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44123/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57635/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41557/exp/eng/1020"/>
-   </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0575034831">
       <rdamd:P30004>ISBN 0575034831 :</rdamd:P30004>
       <rdaxd:P00018>isbn-0575034831</rdaxd:P00018>
@@ -2622,33 +3157,6 @@
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/180997771/exp/eng/1020"/>
-   </rdac:C10007>
-   <rdac:C10007 rdf:about="http://example.org/isbn-0575035153">
-      <rdamd:P30004>ISBN 0575035153 :</rdamd:P30004>
-      <rdaxd:P00018>isbn-0575035153</rdaxd:P00018>
-      <rdfs:label>ISBN0575035153</rdfs:label>
-      <rdamd:P30156>The voices of time</rdamd:P30156>
-      <rdamd:P30117>J.G. Ballard</rdamd:P30117>
-      <rdamd:P30088>London</rdamd:P30088>
-      <rdamd:P30111>London : Gollancz, 1985, c1963.</rdamd:P30111>
-      <rdamd:P30083>Gollancz</rdamd:P30083>
-      <rdamd:P30011>1985, c1963</rdamd:P30011>
-      <rdamd:P30182>197p., 22cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
-      <rdamd:P30137>Originally published: 1963.</rdamd:P30137>
-      <rdamd:P30137>The voices of time -- The sound-sweep -- The overloaded man -- Thirteen to Centaurus -- The garden of time -- The cage of sand -- The watch-tower -- Chronopolis.</rdamd:P30137>
-      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
-      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/183430784/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/311471559/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44514/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57613/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57628/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44458/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44123/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57635/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41557/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0575401303">
       <rdamd:P30004>ISBN 0575401303</rdamd:P30004>
@@ -2767,6 +3275,7 @@
       <rdamd:P30137>The cage of sand -- A question of re-entry -- The dead astronaut -- My dream of flying to Wake Island -- News from the sun -- Memories of the space age -- Myths of the near future -- The man who walked on the moon.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q6815642/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44123/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44460/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57583/exp/eng/1020"/>
@@ -2775,32 +3284,6 @@
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?45330/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?49122/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?46455/exp/eng/1020"/>
-   </rdac:C10007>
-   <rdac:C10007 rdf:about="http://example.org/isbn-1857990005">
-      <rdamd:P30004>ISBN 1857990005 (pbk) :</rdamd:P30004>
-      <rdaxd:P00018>isbn-1857990005</rdaxd:P00018>
-      <rdfs:label>ISBN1857990005 (pbk)</rdfs:label>
-      <rdamd:P30156>The voices of time</rdamd:P30156>
-      <rdamd:P30117>J.G. Ballard</rdamd:P30117>
-      <rdamd:P30088>London</rdamd:P30088>
-      <rdamd:P30111>London : Orion, 1992.</rdamd:P30111>
-      <rdamd:P30083>Orion</rdamd:P30083>
-      <rdamd:P30011>1992</rdamd:P30011>
-      <rdamd:P30182>197p.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
-      <rdamd:P30137>The voices of time -- The sound-sweep -- The overloaded man -- Thirteen to Centaurus -- The garden of time -- The cage of sand -- The watch-tower -- Chronopolis.</rdamd:P30137>
-      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
-      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/183430784/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/311471559/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44514/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57613/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57628/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44458/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44123/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57635/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41557/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9780871404183">
       <rdamd:P30004>ISBN 9780871404183 (pbk.)</rdamd:P30004>
