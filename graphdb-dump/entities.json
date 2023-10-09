@@ -3288,17 +3288,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/172957858/chronopolis"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Work"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "https://isni.org/isni/0000000372289205/dreamcargoes"
                 },
                 "label": {
@@ -3421,6 +3410,17 @@
                 "entity": {
                     "type": "uri",
                     "value": "https://isni.org/isni/000000043862402X/Kronopolis"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Work"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/172957858/culturecontrolcritique"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -7611,28 +7611,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/172957858/chronopolis/exp/eng/1020"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Expression"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/172957858/exp/eng/1020"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Expression"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "https://isni.org/isni/0000000372289205/dreamcargoes/1/exp/zxx/1011"
                 },
                 "label": {
@@ -7755,6 +7733,17 @@
                 "entity": {
                     "type": "uri",
                     "value": "https://isni.org/isni/000000043862402X/Kronopolis/exp/swe/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/172957858/culturecontrolcritique/exp/eng/1020"
                 },
                 "label": {
                     "xml:lang": "gden",

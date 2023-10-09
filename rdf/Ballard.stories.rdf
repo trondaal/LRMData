@@ -34,12 +34,15 @@
       <rdfs:label>The farthest reaches (Elder, Joseph)</rdfs:label>
       <rdaxd:P00029>Collection</rdaxd:P00029>
    </rdac:C10001>
-   <rdac:C10001 rdf:about="http://viaf.org/viaf/172957858/chronopolis">
-      <rdaxd:P00018>http://viaf.org/viaf/172957858/chronopolis</rdaxd:P00018>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/172957858/culturecontrolcritique">
+      <rdaxd:P00018>http://viaf.org/viaf/172957858/culturecontrolcritique</rdaxd:P00018>
+      <rdawd:P10088>Culture control critique : allegories of reading the present</rdawd:P10088>
+      <rdfs:label>Culture control critique : allegories of reading the present (Beckman, Frida)</rdfs:label>
       <rdaxd:P00029>Non-fiction</rdaxd:P00029>
       <rdawd:P10088>In and out of time: "Chronopolis" and in time</rdawd:P10088>
       <rdfs:label>In and out of time: "Chronopolis" and in time (Beckman, Frida)</rdfs:label>
       <rdawo:P10053 rdf:resource="http://viaf.org/viaf/172957858"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/172957858/culturecontrolcritique"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/180997771">
       <rdaxd:P00018>http://viaf.org/viaf/180997771</rdaxd:P00018>
@@ -1315,8 +1318,8 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://isni.org/isni/000000043862402X/Kronopolis">
       <rdaxd:P00018>https://isni.org/isni/000000043862402X/Kronopolis</rdaxd:P00018>
-      <rdawd:P10088>Chronopolis : Time, Power and Mediatization in Malmø/subfield</rdawd:P10088>
-      <rdfs:label>Chronopolis : Time, Power and Mediatization in Malmø/subfield (Edin, Fredrik)</rdfs:label>
+      <rdawd:P10088>Chronopolis : Time, Power and Mediatization in Malmø</rdawd:P10088>
+      <rdfs:label>Chronopolis : Time, Power and Mediatization in Malmø (Edin, Fredrik)</rdfs:label>
       <rdaxd:P00029>Thesis</rdaxd:P00029>
       <rdawo:P10061 rdf:resource="https://isni.org/isni/000000043862402X"/>
    </rdac:C10001>
@@ -1416,11 +1419,6 @@
       <rdaxd:P00018>http://viaf.org/viaf/172957858</rdaxd:P00018>
       <rdaad:P50385>Beckman, Frida</rdaad:P50385>
       <rdfs:label>Beckman, Frida</rdfs:label>
-      <rdawd:P10088>Culture control critique : allegories of reading the present</rdawd:P10088>
-      <rdfs:label>Culture control critique : allegories of reading the present (Beckman, Frida)</rdfs:label>
-      <rdaxd:P00029>Non-fiction</rdaxd:P00029>
-      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/172957858"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/172957858/chronopolis"/>
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://viaf.org/viaf/24606270">
       <rdaxd:P00018>http://viaf.org/viaf/24606270</rdaxd:P00018>
@@ -1550,24 +1548,19 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/172050597/reaches"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="http://viaf.org/viaf/172957858/chronopolis/exp/eng/1020">
-      <rdaed:P20312>In and out of time: "Chronopolis" and in time</rdaed:P20312>
-      <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>In and out of time: "Chronopolis" and in time / text</rdfs:label>
-      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
-      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
-      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/172957858/chronopolis"/>
-   </rdac:C10006>
-   <rdac:C10006 rdf:about="http://viaf.org/viaf/172957858/exp/eng/1020">
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/172957858/culturecontrolcritique/exp/eng/1020">
       <rdaed:P20316>Culture control critique : allegories of reading the present</rdaed:P20316>
       <rdaxd:P00029>parent</rdaxd:P00029>
       <rdaed:P20312>Culture control critique : allegories of reading the present</rdaed:P20312>
       <rdfs:label>Culture control critique / text</rdfs:label>
       <rdaed:P20071>Introduction -- Culture, control, critique. Cultural critique from the Frankfurt School until today -- Formalism, allegory, totality. Allegory and representation -- Allegory and the present -- Space, allegory, control. Spatial preoccupations -- Celebrating ruins: The drowned world, The drought, The crystal world -- Filling the gaps: Crash, Concrete island, High rise -- Coming into allegory: Cocaine nights, Super-Cannes, Millennium people, Kingdom come -- Totalities, allegories and revolutions -- Cultural critique and form -- Time, allegory, control. Timely preoccupations -- In and out of time: "Chronopolis" and in time -- Cultural critique and form -- Vision, allegory, control. Visual preoccupations -- bread and circuses: The hunger games -- Cultural critique and form -- Conclusion.</rdaed:P20071>
+      <rdaed:P20312>In and out of time: "Chronopolis" and in time</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>In and out of time: "Chronopolis" and in time / text</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/172957858/chronopolis/exp/eng/1020"/>
-      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/172957858"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/172957858/culturecontrolcritique/exp/eng/1020"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/172957858/culturecontrolcritique"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/180997771/exp/eng/1020">
       <rdaed:P20316>Empire of the sun</rdaed:P20316>
@@ -3168,10 +3161,10 @@
       <rdaeo:P20231 rdf:resource="https://isni.org/isni/0000000372289205/dreamcargoes"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="https://isni.org/isni/000000043862402X/Kronopolis/exp/swe/1020">
-      <rdaed:P20316>Chronopolis : Time, Power and Mediatization in Malmø/subfield</rdaed:P20316>
+      <rdaed:P20316>Chronopolis : Time, Power and Mediatization in Malmø</rdaed:P20316>
       <rdaed:P20312>Kronopolis : Tid, makt och medialisering i Malm̲</rdaed:P20312>
       <rdfs:label>Kronopolis / swe / text</rdfs:label>
-      <rdaed:P20315>Chronopolis : Time, Power and Mediatization in Malmø/subfield</rdaed:P20315>
+      <rdaed:P20315>Kronopolis : Tid, makt och medialisering i Malm̲</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/swe"/>
       <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -4152,8 +4145,7 @@
       <rdamd:P30137>Introduction -- Culture, control, critique. Cultural critique from the Frankfurt School until today -- Formalism, allegory, totality. Allegory and representation -- Allegory and the present -- Space, allegory, control. Spatial preoccupations -- Celebrating ruins: The drowned world, The drought, The crystal world -- Filling the gaps: Crash, Concrete island, High rise -- Coming into allegory: Cocaine nights, Super-Cannes, Millennium people, Kingdom come -- Totalities, allegories and revolutions -- Cultural critique and form -- Time, allegory, control. Timely preoccupations -- In and out of time: "Chronopolis" and in time -- Cultural critique and form -- Vision, allegory, control. Visual preoccupations -- bread and circuses: The hunger games -- Cultural critique and form -- Conclusion.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/172957858/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/172957858/chronopolis/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/172957858/culturecontrolcritique/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9789178672677">
       <rdamd:P30004>ISBN 9789178672677</rdamd:P30004>

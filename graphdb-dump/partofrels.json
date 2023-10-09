@@ -449,25 +449,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/172957858/chronopolis"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/w/object/P10019"
-                },
-                "l": {
-                    "xml:lang": "en",
-                    "type": "literal",
-                    "value": "is part of work"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/172957858"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "https://isni.org/isni/0000000372289205/dreamcargoes/1"
                 },
                 "p": {
@@ -653,6 +634,25 @@
                 "o": {
                     "type": "uri",
                     "value": "https://isni.org/isni/0000000372289205/dreamcargoes"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/172957858/culturecontrolcritique"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10019"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "is part of work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/172957858/culturecontrolcritique"
                 }
             },
             {
@@ -1152,25 +1152,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/172957858/chronopolis/exp/eng/1020"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/object/P20074"
-                },
-                "l": {
-                    "xml:lang": "en",
-                    "type": "literal",
-                    "value": "is part of expression"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/172957858/exp/eng/1020"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "https://isni.org/isni/0000000372289205/dreamcargoes/1/exp/zxx/1011"
                 },
                 "p": {
@@ -1356,6 +1337,25 @@
                 "o": {
                     "type": "uri",
                     "value": "https://isni.org/isni/0000000372289205/dreamcargoes/exp/zxx/1011"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/172957858/culturecontrolcritique/exp/eng/1020"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20074"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "is part of expression"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/172957858/culturecontrolcritique/exp/eng/1020"
                 }
             }
         ]
