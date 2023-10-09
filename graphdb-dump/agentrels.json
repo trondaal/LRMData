@@ -5070,12 +5070,50 @@
                 },
                 "p": {
                     "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/172957858"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/172957858/culturecontrolcritique"
+                },
+                "p": {
+                    "type": "uri",
                     "value": "http://rdaregistry.info/Elements/w/object/P10053"
                 },
                 "l": {
                     "xml:lang": "gden",
                     "type": "literal",
                     "value": "Composer"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/172957858"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/172957858/culturecontrolcritique/chronopolis"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
                 },
                 "o": {
                     "type": "uri",

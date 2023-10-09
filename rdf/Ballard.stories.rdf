@@ -39,7 +39,7 @@
       <rdawd:P10088>Culture control critique : allegories of reading the present</rdawd:P10088>
       <rdfs:label>Culture control critique : allegories of reading the present (Beckman, Frida)</rdfs:label>
       <rdaxd:P00029>Non-fiction</rdaxd:P00029>
-      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/172957858"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/172957858"/>
       <rdawo:P10147 rdf:resource="http://viaf.org/viaf/172957858/culturecontrolcritique/chronopolis"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/172957858/culturecontrolcritique/chronopolis">
@@ -47,7 +47,7 @@
       <rdaxd:P00029>Non-fiction</rdaxd:P00029>
       <rdawd:P10088>In and out of time: "Chronopolis" and in time</rdawd:P10088>
       <rdfs:label>In and out of time: "Chronopolis" and in time (Beckman, Frida)</rdfs:label>
-      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/172957858"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/172957858"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/180997771">
       <rdaxd:P00018>http://viaf.org/viaf/180997771</rdaxd:P00018>
@@ -127,6 +127,7 @@
       <rdaxd:P00029>Collection</rdaxd:P00029>
       <rdawd:P10330>"It has become increasingly accepted that important digital data must be retained and shared in order to preserve and promote knowledge, advance research in and across all disciplines of scholarly endeavor, and maximize the return on investment of public funds. To meet this challenge, colleges and universities are adding data services to existing infrastructures by drawing on the expertise of information professionals who are already involved in the acquisition, management and preservation of data in their daily jobs. Data services include planning and implementing good data management practices, thereby increasing researchers' ability to compete for grant funding and ensuring that data collections with continuing value are preserved for reuse. This volume provides a framework to guide information professionals in academic libraries, presses, and data centers through the process of managing research data from the planning stages through the life of a grant project and beyond. It illustrates principles of good practice with use-case examples and illuminates promising data service models through case studies of innovative, successful projects and collaborations"--</rdawd:P10330>
       <rdawo:P10055 rdf:resource="http://viaf.org/viaf/43347281"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis">
       <rdaxd:P00018>http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis</rdaxd:P00018>
@@ -1200,6 +1201,7 @@
       <rdawd:P10088>The isle is full of noises</rdawd:P10088>
       <rdfs:label>The isle is full of noises (Cella, Lisa.)</rdfs:label>
       <rdaxd:P00029>Collection</rdaxd:P00029>
+      <rdawo:P10147 rdf:resource="https://en.wikipedia.org/wiki/Franklin_Cox/chronopolis"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://isni.org/isni/0000000372289205/dreamcargoes">
       <rdaxd:P00018>https://isni.org/isni/0000000372289205/dreamcargoes</rdaxd:P00018>
@@ -1674,12 +1676,13 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/43347281/researchdatamanagement/exp/eng/1020">
       <rdaed:P20316>Research data management : practical strategies for information professionals</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>parent</rdaxd:P00029>
       <rdaed:P20312>Research data management : practical strategies for information professionals</rdaed:P20312>
       <rdfs:label>Research data management / text</rdfs:label>
       <rdaed:P20071>The policy and institutional framework / James L. Mullins -- Data governance : where technology and policy collide / MacKenzie Smith -- The use of life cycle models in developing and supporting data services / Jake Carlson -- Data management assessment and planning tools / Andrew Sallans and Sherry Lake -- Trustworthy data repositories : the value and benefits of auditing and certification / Bernard F. Reilly, Jr. and Marie E. Waltz -- Copyright, open data, and the availability-usability gap : challenges, opportunities, and approaches for libraries / Melissa Levine -- Metadata services / Jenn Riley -- Data citation : principles and practice / Jan Brase, Yvonne Socha, Sarah Callaghan, Christine Borgman, Paul Uhlir, and Bonnie Carroll -- Assimilating digital repositories into the active research process / Tyler Walters -- Partnering to curate and archive social science data / Jared Lyle, George Alter, and Ann Green -- Managing and archiving research data : local repository and Cloud-based practices / Michele Kimpton and Carol Minton Morris -- Chronopolis repository services / David Minor, Brian E. C. Schottlaender, and Ardys Kozbial -- Evaluating a complex project : DataONE / Suzanne Allard -- What to measure? : toward metrics for research data management / Angus Whyte, Laura Molloy, Neil Beagrie, and John Houghton -- An institutional perspective on data curation services : a view from Cornell University / Gail Steinhart -- Purdue University Research Repository : collaborations in data management / D. Scott Brandt -- Data curation for the humanities : perspectives from Rice University / Geneva Henry -- Developing data management services for researchers at the University of Oregon / Brian Westra.</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis/exp/eng/1020"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/43347281/researchdatamanagement"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/84181241/gateway/exp/eng/1020">
@@ -3038,7 +3041,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000033066226/islenoise/exp/zxx/1011">
       <rdaed:P20316>The isle is full of noises</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>parent</rdaxd:P00029>
       <rdaed:P20312>The isle is full of noises</rdaed:P20312>
       <rdfs:label>The isle is full of noises / performed music</rdfs:label>
       <rdaed:P20071>Nocturno for solo alto flute / by Mario Lavista (5:55) -- Fictions : eight pieces for solo flute / by Christopher Wendell Jones (7:41) -- [ga]:[ge]:[go]:[gu] : for bass flute and computer / by David Kim-Boyle (11:32) -- Re : for solo piccolo / by Steven Hoey (9:33) -- Family portraits. Embden Pond : for alto flute and two vibraphones / by Stuart Saunders Smith (12:29) -- Chronopolis : for solo flute / by Franklin Cox (15:00).</rdaed:P20071>
@@ -3046,6 +3049,7 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/zxx"/>
       <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20020 rdf:resource="https://isni.org/isni/0000000033066226"/>
+      <rdaeo:P20145 rdf:resource="https://en.wikipedia.org/wiki/Franklin_Cox/chronopolis/exp/zxx/1011"/>
       <rdaeo:P20231 rdf:resource="https://isni.org/isni/0000000033066226/islenoise"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000372289205/dreamcargoes/1/exp/zxx/1011">

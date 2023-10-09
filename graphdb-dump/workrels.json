@@ -449,6 +449,44 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/43347281/researchdatamanagement"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10147"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has part work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000033066226/islenoise"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10147"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has part work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://en.wikipedia.org/wiki/Franklin_Cox/chronopolis"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "https://isni.org/isni/0000000372289205/dreamcargoes"
                 },
                 "p": {
