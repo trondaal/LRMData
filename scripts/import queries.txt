@@ -7,8 +7,8 @@ DROP INDEX resource_uri;
 
 CREATE INDEX resource_uri FOR (n:Resource) ON n.uri;
 
-CREATE FULLTEXT INDEX expressions FOR (n:Expression) ON EACH [n.title, n.titles, n.titlevariant, n.titlepreferred, n.contentsnote, n.names, n.types];
-CREATE FULLTEXT INDEX works FOR (n:Work) ON EACH [n.title, n.titles, n.titlevariant, n.titlepreferred, n.names, n.types];
+CREATE FULLTEXT INDEX expressions FOR (n:Expression) ON EACH [n.title, n.titles, n.titlevariant, n.titlepreferred, n.contentsnote, n.names, n.form, n.types];
+CREATE FULLTEXT INDEX works FOR (n:Work) ON EACH [n.title, n.titles, n.titlevariant, n.titlepreferred, n.names, n.types, n.form];
 
 WITH "entities.json" AS url
 CALL apoc.load.json(url) YIELD value
@@ -55,7 +55,6 @@ MATCH
   (o:Resource {uri: object})
 CALL apoc.merge.relationship(s, r,{}, {}, o, {}) yield rel
 RETURN rel;
-
 
 WITH "agentrels.json" AS url
 CALL apoc.load.json(url) YIELD value
@@ -118,7 +117,7 @@ YIELD node
 RETURN node;
 
 MATCH (r:Resource)
-SET r += {titles: '', names: ''};
+SET r += {titles: '', names: '', types: ''};
 
 //UPDATE FIELDS FOR FULLTEXT INDEXING OF NODES
 //NAMES
@@ -154,14 +153,14 @@ set e.titles = e.titles + w.title + " : ";
 MATCH (e:Expression)-[:REALIZES]-(w:Work) where w.name IS NOT NULL
 set e.names = e.names + w.name + " : ";
 
-MATCH (e:Expression)-[:EMBODIES]-(m:Manifestation) where m.title IS NOT NULL
-set e.titles = e.titles + m.title + " : ";
+//MATCH (e:Expression)-[:EMBODIES]-(m:Manifestation) where m.title IS NOT NULL
+//set e.titles = e.titles + m.title + " : ";
 
-MATCH (e:Expression)-[:EMBODIES]-(m:Manifestation) where m.subtitle IS NOT NULL
-set e.titles = e.titles + m.subtitle + " : ";
+//MATCH (e:Expression)-[:EMBODIES]-(m:Manifestation) where m.subtitle IS NOT NULL
+//set e.titles = e.titles + m.subtitle + " : ";
 
-MATCH (e:Expression)-[:EMBODIES]-(m:Manifestation) where m.part IS NOT NULL
-set e.titles = e.titles + m.part + " : ";
+//MATCH (e:Expression)-[:EMBODIES]-(m:Manifestation) where m.part IS NOT NULL
+//set e.titles = e.titles + m.part + " : ";
 
 //MATCH (e:Expression)-[:EMBODIES]-(m:Manifestation) where m.contentsnote IS NOT NULL
 //set e.titles = e.titles + m.contentsnote + " : ";
@@ -180,6 +179,11 @@ set e.titles = e.titles + w.title + " : ";
 
 MATCH (e:Expression)-[:REALIZES]-(:Work)-[:PARTOF]-(w:Work) where w.title IS NOT NULL
 set e.titles = e.titles + w.title + " : ";
+
+
+//FORM, TYPE AND LANGUAGE
+MATCH (e:Expression)-[:REALIZES]-(w:Work) where w.form IS NOT NULL
+set e.types = e.types + w.form + " : ";
 
 //NAMES FOR INDEXING WORKS
 MATCH (w:Work)-[:CREATOR]-(a:Agent) where a.name IS NOT NULL

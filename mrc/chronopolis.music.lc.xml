@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<collection xmlns="http://www.loc.gov/MARC21/slim"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <record>
+        <leader>01296cjm a22003257a 4500</leader>
+        <controlfield tag="001">18460565</controlfield>
+        <controlfield tag="005">20150130123001.0</controlfield>
+        <controlfield tag="007">sd fsngnnmmned</controlfield>
+        <controlfield tag="008">150123s2012    gw ppn|           | zxx d</controlfield>
+        <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-soundrec</subfield>
+        </datafield>
+        <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">2 shelf copies</subfield>
+            <subfield code="x">policy default</subfield>
+        </datafield>
+        <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">qr12 2015-01-23 z-client</subfield>
+            <subfield code="i">qr12 2015-01-23</subfield>
+        </datafield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2015616804</subfield>
+        </datafield>
+        <datafield tag="024" ind1="3" ind2=" ">
+            <subfield code="a">4250382412618</subfield>
+        </datafield>
+        <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">PFRCD30</subfield>
+            <subfield code="b">Poker Flat Recordings</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)794819529</subfield>
+            <subfield code="z">(OCoLC)779273190</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">TDF</subfield>
+            <subfield code="c">TDF</subfield>
+            <subfield code="d">BTCTA</subfield>
+            <subfield code="d">DLC</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+        </datafield>
+        <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">SDC 46687</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Van Moll, Erwin.</subfield>
+            <subfield code="4">prf</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Dream cargoes</subfield>
+            <subfield code="h">[sound recording] /</subfield>
+            <subfield code="c">TJ Kong &amp; Modular K.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Hamburg, Germany] :</subfield>
+            <subfield code="b">Poker Flat Recordings,</subfield>
+            <subfield code="c">p2012.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 sound disc :</subfield>
+            <subfield code="b">digital ;</subfield>
+            <subfield code="c">4 3/4 in.</subfield>
+        </datafield>
+        <datafield tag="511" ind1="0" ind2=" ">
+            <subfield code="a">Tj Kong, Modular K.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">&quot;All music composed and produced by A.J.E. van Moll and G. Janssen&quot;--Insert.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Compact disc.</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Chronopolis -- The last world of Mr. Goddard -- Dream cargoes -- The Delta at sunset -- End-game (feat. Edward Capel) -- Now wakes the sea -- Studio 5, the stars -- The sound-sweep -- Memories of the space age -- Now: zero.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">House music.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Techno music.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Modular K.</subfield>
+            <subfield code="4">prf</subfield>
+        </datafield>
+    </record>
+</collection>

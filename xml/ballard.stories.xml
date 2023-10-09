@@ -4627,6 +4627,13 @@
         <datafield tag="100" ind1="1" ind2=" ">
             <subfield code="a">Beckman, Frida,</subfield>
             <subfield code="e">author.</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10053</subfield>
+            <subfield code="1">http://viaf.org/viaf/172957858</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Culture control critique : allegories of reading the present</subfield>
+            <subfield code="k">Non-fiction</subfield>
+            <subfield code="1">http://viaf.org/viaf/172957858</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="0">
             <subfield code="a">Culture control critique :</subfield>
@@ -4679,6 +4686,12 @@
             <subfield code="x">Political aspects</subfield>
             <subfield code="x">History and criticism.</subfield>
         </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Beckman, Frida</subfield>
+            <subfield code="t">In and out of time: &quot;Chronopolis&quot; and in time</subfield>
+            <subfield code="k">Non-fiction</subfield>
+            <subfield code="1">http://viaf.org/viaf/172957858/chronopolis</subfield>
+        </datafield>       
         <datafield tag="776" ind1="0" ind2="8">
             <subfield code="i">Print version:</subfield>
             <subfield code="a">Beckman, Frida, author.</subfield>
@@ -4686,24 +4699,6 @@
             <subfield code="d">London ; New York : Rowman &amp; Littlefield International, 2016</subfield>
             <subfield code="z">9781783488001</subfield>
             <subfield code="w">(DLC)  2015047395</subfield>
-        </datafield>
-        <datafield tag="906" ind1=" " ind2=" ">
-            <subfield code="a">7</subfield>
-            <subfield code="b">cbc</subfield>
-            <subfield code="c">origcop</subfield>
-            <subfield code="d">1</subfield>
-            <subfield code="e">ecip</subfield>
-            <subfield code="f">20</subfield>
-            <subfield code="g">y-gencatlg</subfield>
-        </datafield>
-        <datafield tag="925" ind1="0" ind2=" ">
-            <subfield code="a">acquire</subfield>
-            <subfield code="e">ecip book</subfield>
-            <subfield code="x">policy default</subfield>
-        </datafield>
-        <datafield tag="955" ind1=" " ind2=" ">
-            <subfield code="a">ecip ebook 2016-02-19</subfield>
-            <subfield code="f">rm16 2020-12-21 to book rec'd (TW Situational)</subfield>
         </datafield>
     </record>
     <record>
@@ -4841,7 +4836,7 @@
         </datafield>
         <datafield tag="700" ind1="1" ind2="2">
             <subfield code="a">Cox, Frank,</subfield>
-            <subfield code="k">Performance</subfield>
+            <subfield code="k">Sound recording</subfield>
             <subfield code="t">Chronopolis</subfield>
             <subfield code="1">https://en.wikipedia.org/wiki/Franklin_Cox/chronopolis</subfield>
             <subfield code="8">c/1</subfield>
@@ -4869,6 +4864,375 @@
             <subfield code="d">1948-</subfield>
             <subfield code="t">Family portraits.</subfield>
             <subfield code="p">Embden Pond.</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>05309nam a22007093a 4500</leader>
+        <controlfield tag="001">8pfvpcx9683jtsn7</controlfield>
+        <controlfield tag="003">LIBRIS</controlfield>
+        <controlfield tag="005">20220226055504.0</controlfield>
+        <controlfield tag="007">cr |||   |||||         </controlfield>
+        <controlfield tag="008">220226s2022    sw |||||om|||o000 ||swe|c</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9789178672677</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9789178672578</subfield>
+        </datafield>
+        <datafield tag="024" ind1="7" ind2=" ">
+            <subfield code="a">http://urn.kb.se/resolve?urn=urn:nbn:se:kau:diva-88238</subfield>
+            <subfield code="2">uri</subfield>
+        </datafield>
+        <datafield tag="024" ind1="7" ind2=" ">
+            <subfield code="a">urn:nbn:se:kau:diva-88238</subfield>
+            <subfield code="2">urn</subfield>
+        </datafield>
+        <datafield tag="024" ind1="7" ind2=" ">
+            <subfield code="5">APIS</subfield>
+            <subfield code="a">urn:nbn:se:kau:diva-88238</subfield>
+            <subfield code="2">urn</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">S</subfield>
+            <subfield code="e">a</subfield>
+        </datafield>
+        <datafield tag="041" ind1=" " ind2=" ">
+            <subfield code="a">swe</subfield>
+            <subfield code="b">eng</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="9">EPLK</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Edin, Fredrik,</subfield>
+            <subfield code="d">1967-</subfield>
+            <subfield code="4">aut</subfield>
+            <subfield code="1">https://isni.org/isni/000000043862402X</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2=" ">
+            <subfield code="a">Chronopolis : Time, Power and Mediatization in Malm̲</subfield>
+            <subfield code="k">Thesis</subfield>
+            <subfield code="1">https://isni.org/isni/000000043862402X/Kronopolis</subfield>
+            <subfield code="8">p</subfield>
+        </datafield>
+        <datafield tag="740" ind1="1" ind2=" ">
+            <subfield code="a">Kronopolis : Tid, makt och medialisering i Malm̲</subfield>
+            <subfield code="8">p</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Kronopolis</subfield>
+            <subfield code="h">[Elektronisk resurs]</subfield>
+            <subfield code="b">Tid, makt och medialisering i Malm̲</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Karlstad :</subfield>
+            <subfield code="b">Karlstads universitet,</subfield>
+            <subfield code="c">2022</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">Karlstad University Studies,</subfield>
+            <subfield code="x">1403-8099</subfield>
+            <subfield code="x">1403-8099 ;</subfield>
+            <subfield code="v">2022:4</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">degree of Doctor of Philosophy</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Filosofie doktorsexamen</subfield>
+        </datafield>
+        <datafield tag="502" ind1=" " ind2=" ">
+            <subfield code="a">Diss.  Karlstad : Karlstads universitet, 2022</subfield>
+        </datafield>
+        <datafield tag="506" ind1="0" ind2=" ">
+            <subfield code="a">gratis</subfield>
+        </datafield>
+        <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">Syftet med den hr̃ etnografin r̃ att undersk̲a hur medialiseringen pv̄erkar stadslivet i Malm,̲ sr̃skilt ur ett tidsligt perspektiv.&amp;#xa0; Fr̲eml̄ fr̲ studien r̃ de tidsliga maktrelationer och linjr̃a rytmer  som arbete och konsumtion  som medialiseringen ger upphov till i det urbana rummet.&amp;#xa0; Fl̃tarbetet har genomfr̲ts i stadsdelarna Seved, Centrum, Frihamnen och Ml̲levn̄gen i Malm.̲ Studien innehl̄ler ocks ̄en reflexiv del om erfarenheterna av att br̃a smart klocka under fyra r̄.&amp;#xa0; Etnografins viktigaste upptc̃kt r̃ att medialiseringen gr̲ rumsligheter och tidsligheter abstrakta och fr̲eml̄ fr̲ konflikt. Det hr̃ skapar en nu typ av linjr̃a rytmer: spekulativa rytmer. Det r̃ en ny typ av linjr̃a rytmer som r̃ instabila, saknar kronologisk ordning och befinner sig i stñdig fr̲ñdring. Potentiellt kan vilken plats som helst vara vilken annan plats som helst och vilken tid som helst, vilken annan tid som helst. Utgn̄gen av de hr̃ konflikterna r̃ en konsekvens att de inblandade parternas respektive styrkefr̲hl̄lande i varje situation.&amp;#xa0; Etnografin bidrar med ett tidsligt perspektiv p ̄medialisering och ett k̲at tidsligt fr̲stēnde av samhl̃let vi lever i.</subfield>
+        </datafield>
+        <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">The purpose of this ethnographic study is to examine how mediatization affects urban life in the city of Malm,̲ with particular emphasis aspects of temporality.&amp;#xa0;&amp;#xa0; The object of study are the temporal power-relations and linear rhythms, such as patterns of work and consumption which are engendered by the mediatization of urban space.&amp;#xa0;&amp;#xa0; The fieldwork in this inquiry was conducted in the city center of Malm ̲&amp;#xa0;as well as in the districts of Seved, Frihamnen and Ml̲levn̄gen. The study also includes a reflexive component that relates the authors own experience of wearing a smart watch for the duration of four years.&amp;#xa0;&amp;#xa0; The most significant finding in this ethnography is that mediatization turns spatiality and temporality into abstractions and into sources of conflict. This in turn creates a new type of linear speculative rhythms which are unstable, lacking in chronological order and that exist in a constant state of change. This gives rise to a transformation whereby every place can potentially be turned into every other place and every point in time can be turned into every other. The outcomes of conflicts in this process are determined by the respective power relations and positions held by the parties involved in every respective situation. &amp;#xa0;&amp;#xa0; This ethnography provides a temporal perspective on mediatization and contributes to improving an understanding of the temporal aspects of the society in which we live.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Social Sciences</subfield>
+            <subfield code="2">hsv</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Media and Communications</subfield>
+            <subfield code="2">hsv</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Samhl̃lsvetenskap</subfield>
+            <subfield code="2">hsv</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Medie- och kommunikationsvetenskap</subfield>
+            <subfield code="2">hsv</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Media and Communication Studies</subfield>
+            <subfield code="2">kau</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Medie- och kommunikationsvetenskap</subfield>
+            <subfield code="2">kau</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">Mediatization</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">ethnography</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">power-chronography</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">speculative rhythms</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">temporal power relations</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">Medialisering</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">etnografi</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">maktkronografi</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">spekulativa rytmer</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">tids-liga maktrelationer.</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">government publication</subfield>
+            <subfield code="2">marcgt</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">&amp;#xd6;rnebring, Henrik,</subfield>
+            <subfield code="d">1972-</subfield>
+            <subfield code="4">ths</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Ryan Bengtsson, Linda,</subfield>
+            <subfield code="d">1976-</subfield>
+            <subfield code="4">ths</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Kingsepp, Eva,</subfield>
+            <subfield code="d">1961-</subfield>
+            <subfield code="4">ths</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Ericson, Staffan</subfield>
+            <subfield code="4">opn</subfield>
+        </datafield>
+        <datafield tag="710" ind1="1" ind2=" ">
+            <subfield code="a">Karlstads universitet</subfield>
+            <subfield code="b">Fakulteten fr̲ humaniora och samhl̃lsvetenskap (from 2013)</subfield>
+            <subfield code="4">pbl</subfield>
+        </datafield>
+        <datafield tag="772" ind1="0" ind2="8">
+            <subfield code="i">channel record</subfield>
+            <subfield code="w">dxq1b6fq10bns55</subfield>
+        </datafield>
+        <datafield tag="776" ind1="0" ind2="8">
+            <subfield code="i">Annat format</subfield>
+            <subfield code="z">9789178672578</subfield>
+        </datafield>
+        <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Karlstad University Studies,</subfield>
+            <subfield code="x">1403-8099</subfield>
+            <subfield code="x">1403-8099 ;</subfield>
+            <subfield code="v">2022:4</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01296cjm a22003257a 4500</leader>
+        <controlfield tag="001">18460565</controlfield>
+        <controlfield tag="005">20150130123001.0</controlfield>
+        <controlfield tag="007">sd fsngnnmmned</controlfield>
+        <controlfield tag="008">150123s2012    gw ppn|           | zxx d</controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2015616804</subfield>
+        </datafield>
+        <datafield tag="024" ind1="3" ind2=" ">
+            <subfield code="a">4250382412618</subfield>
+        </datafield>
+        <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">PFRCD30</subfield>
+            <subfield code="b">Poker Flat Recordings</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)794819529</subfield>
+            <subfield code="z">(OCoLC)779273190</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">TDF</subfield>
+            <subfield code="c">TDF</subfield>
+            <subfield code="d">BTCTA</subfield>
+            <subfield code="d">DLC</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+        </datafield>
+        <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">SDC 46687</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Van Moll, Erwin.</subfield>
+            <subfield code="1">https://isni.org/isni/0000000372289205</subfield>
+            <subfield code="4">cmp</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10053</subfield>
+            <subfield code="4">prd</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10304</subfield>
+            <subfield code="4">prf</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20039</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Dream cargoes</subfield>
+            <subfield code="k">Collection</subfield>
+            <subfield code="1">https://isni.org/isni/0000000372289205/dreamcargoes</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Dream cargoes</subfield>
+            <subfield code="h">[sound recording] /</subfield>
+            <subfield code="c">TJ Kong &amp; Modular K.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Hamburg, Germany] :</subfield>
+            <subfield code="b">Poker Flat Recordings,</subfield>
+            <subfield code="c">p2012.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 sound disc :</subfield>
+            <subfield code="b">digital ;</subfield>
+            <subfield code="c">4 3/4 in.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">performed music</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1011</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">audio</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1001</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">compact disc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1013</subfield>
+        </datafield>
+        <datafield tag="511" ind1="0" ind2=" ">
+            <subfield code="a">Tj Kong, Modular K.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">&quot;All music composed and produced by A.J.E. van Moll and G. Janssen&quot;--Insert.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Compact disc.</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Chronopolis -- The last world of Mr. Goddard -- Dream cargoes -- The Delta at sunset -- End-game (feat. Edward Capel) -- Now wakes the sea -- Studio 5, the stars -- The sound-sweep -- Memories of the space age -- Now: zero.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">House music.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Techno music.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Modular K.</subfield>
+            <subfield code="4">cmp</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10053</subfield>
+            <subfield code="4">prd</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10304</subfield>
+            <subfield code="4">prf</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20039</subfield>
+            <subfield code="1">https://isni.org/isni/000000044534099X</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Van Moll, Erwin</subfield>
+            <subfield code="k">Sound recording</subfield>
+            <subfield code="t">Chronopolis</subfield>
+            <subfield code="1">https://isni.org/isni/0000000372289205/dreamcargoes/1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Van Moll, Erwin</subfield>
+            <subfield code="k">Sound recording</subfield>
+            <subfield code="t">The last world of Mr. Goddard</subfield>
+            <subfield code="1">https://isni.org/isni/0000000372289205/dreamcargoes/2</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Van Moll, Erwin</subfield>
+            <subfield code="k">Sound recording</subfield>
+            <subfield code="t">Dream cargoes/subfield</subfield>
+            <subfield code="1">https://isni.org/isni/0000000372289205/dreamcargoes/3</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Van Moll, Erwin</subfield>
+            <subfield code="k">Sound recording</subfield>
+            <subfield code="t">The Delta at sunset</subfield>
+            <subfield code="1">https://isni.org/isni/0000000372289205/dreamcargoes/4</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Van Moll, Erwin</subfield>
+            <subfield code="k">Sound recording</subfield>
+            <subfield code="t">End-game (feat. Edward Capel)</subfield>
+            <subfield code="1">https://isni.org/isni/0000000372289205/dreamcargoes/5</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Van Moll, Erwin</subfield>
+            <subfield code="k">Sound recording</subfield>
+            <subfield code="t">Now wakes the sea</subfield>
+            <subfield code="1">https://isni.org/isni/0000000372289205/dreamcargoes/6</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Van Moll, Erwin</subfield>
+            <subfield code="k">Sound recording</subfield>
+            <subfield code="t">Studio 5, the stars</subfield>
+            <subfield code="1">https://isni.org/isni/0000000372289205/dreamcargoes/7</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Van Moll, Erwin</subfield>
+            <subfield code="k">Sound recording</subfield>
+            <subfield code="t">The sound-sweep</subfield>
+            <subfield code="1">https://isni.org/isni/0000000372289205/dreamcargoes/8</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Van Moll, Erwin</subfield>
+            <subfield code="k">Sound recording</subfield>
+            <subfield code="t">Memories of the space age</subfield>
+            <subfield code="1">https://isni.org/isni/0000000372289205/dreamcargoes/9</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Van Moll, Erwin</subfield>
+            <subfield code="k">Sound recording</subfield>
+            <subfield code="t">Now: zero</subfield>
+            <subfield code="1">https://isni.org/isni/0000000372289205/dreamcargoes/10</subfield>
         </datafield>
     </record>
 </collection>

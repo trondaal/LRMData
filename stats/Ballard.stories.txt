@@ -4,7 +4,7 @@ BIB2201 rapport over datasamling - oppdatert 5/6
 -------------------------------------------------------
 
 
-Antall poster i samlingen:30
+Antall poster i samlingen:32
 -------------------------------------------------------
 
 
@@ -14,12 +14,14 @@ Agenter identifisert med URI
 * http://viaf.org/viaf/12304119 (700) : Anderson, Poul
 * http://viaf.org/viaf/9842556 (100, 700) : Ballard, J. G
 * http://viaf.org/viaf/84181241 (100) : Bayley, Barrington J
+* http://viaf.org/viaf/172957858 (100) : Beckman, Frida
 * http://viaf.org/viaf/103212466 (700) : Brunner, John Kilian Houston
 * http://viaf.org/viaf/71388189 (700) : Burgess, Anthony
 * http://viaf.org/viaf/79304712 (700) : Carr, Terry
 * https://isni.org/isni/0000000033066226 (100) : Cella, Lisa
 * http://viaf.org/viaf/27062571 (700) : Clarke, Arthur C
 * https://en.wikipedia.org/wiki/Franklin_Cox (700) : Cox, Frank
+* https://isni.org/isni/000000043862402X (100) : Edin, Fredrik
 * http://viaf.org/viaf/172050597 (100) : Elder, Joseph
 * http://viaf.org/viaf/33278380 (700) : Hartwell, David G
 * https://isni.org/isni/000000008169370X (700) : Jakes, John Williams
@@ -27,29 +29,37 @@ Agenter identifisert med URI
 * https://isni.org/isni/0000000109520828 (700) : Laumer, K
 * https://isni.org/isni/0000000064014891 (700) : McKimmey, J
 * http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis/1 (700) : Minor, David
+* https://isni.org/isni/000000044534099X (700) : Modular K
 * http://viaf.org/viaf/24606270 (700) : Peake, Mervyn Laurence
 * http://viaf.org/viaf/43347281 (100) : Ray, Joyce M
 * http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis/2 (700) : Schottlaender, Brian E. C
 * http://viaf.org/viaf/109386240 (700) : Silverberg, Robert
 * http://viaf.org/viaf/54154517 (700) : Spinrad, Norman
+* https://isni.org/isni/0000000372289205 (100) : Van Moll, Erwin
 * http://viaf.org/viaf/111614127 (700) : Vance, Jack
 
 
 Agent-innførsler som IKKE er identifiser med URI i $1
 men dere velger selv hvilke agenter som skal være med
 -------------------------------------------------------
-* 100  1#  $aBeckman, Frida,  $eauthor.
+* 700  1#  $a&#xd6;rnebring, Henrik,  $d1972-  $4ths
+* 700  1#  $aEricson, Staffan  $4opn
 * 700  1#  $aFadiman, Clifton  $d1904-1999.  $4aui  $4edt  $4http://rdaregistry.info/Elements/m/object/P30267
 * 700  1#  $aGoldstein, Thomas  $c(Percussionist)  $4prf
+* 700  1#  $aKingsepp, Eva,  $d1961-  $4ths
 * 700  0#  $aMartin Amis  $4aui
 * 700  1#  $aPotter, J. K.  $eillustrator  $4ill
+* 700  1#  $aRyan Bengtsson, Linda,  $d1976-  $4ths
 * 700  1#  $aSmith, Sylvia H.  $4prf
+* 710  1#  $aKarlstads universitet  $bFakulteten fr̲ humaniora och samhl̃lsvetenskap (from 2013)  $4pbl
 
 
 Verk identifisert med URI
 -------------------------------------------------------
 * http://example.com/innerlandscape = The inner landscape (Språkbasert verk)
 * http://viaf.org/viaf/172050597/reaches = The farthest reaches (Språkbasert verk)
+* http://viaf.org/viaf/172957858 = Culture control critique : allegories of reading the present 
+* http://viaf.org/viaf/172957858/chronopolis = In and out of time: "Chronopolis" and in time 
 * http://viaf.org/viaf/180997771 = Empire of the sun (Fiction)
 * http://viaf.org/viaf/183421260 = Danger, Religion! 
 * http://viaf.org/viaf/183430784 = The four-dimensional nightmare (Fiction)
@@ -229,6 +239,18 @@ Verk identifisert med URI
 * http://www.wikidata.org/entity/Q6815642 = Memories of the space age (Språkbasert verk)
 * https://en.wikipedia.org/wiki/Franklin_Cox/chronopolis = Chronopolis 
 * https://isni.org/isni/0000000033066226/islenoise = The isle is full of noises 
+* https://isni.org/isni/0000000372289205/dreamcargoes = Dream cargoes 
+* https://isni.org/isni/0000000372289205/dreamcargoes/1 = Chronopolis 
+* https://isni.org/isni/0000000372289205/dreamcargoes/10 = Now: zero 
+* https://isni.org/isni/0000000372289205/dreamcargoes/2 = The last world of Mr. Goddard 
+* https://isni.org/isni/0000000372289205/dreamcargoes/3 = Dream cargoes/subfield 
+* https://isni.org/isni/0000000372289205/dreamcargoes/4 = The Delta at sunset 
+* https://isni.org/isni/0000000372289205/dreamcargoes/5 = End-game (feat. Edward Capel) 
+* https://isni.org/isni/0000000372289205/dreamcargoes/6 = Now wakes the sea 
+* https://isni.org/isni/0000000372289205/dreamcargoes/7 = Studio 5, the stars 
+* https://isni.org/isni/0000000372289205/dreamcargoes/8 = The sound-sweep 
+* https://isni.org/isni/0000000372289205/dreamcargoes/9 = Memories of the space age 
+* https://isni.org/isni/000000043862402X/Kronopolis = Chronopolis : Time, Power and Mediatization in Malm̲ 
 * https://www.isfdb.org/cgi-bin/pl.cgi?279033 = The best of J. G. Ballard / The best short stories of J.G. Ballard 
 * https://www.isfdb.org/cgi-bin/pl.cgi?35804 = The best of J. G. Ballard (Fiction)
 * https://www.isfdb.org/cgi-bin/title.cgi?37224 = Knights of the limits. 
@@ -250,33 +272,42 @@ men det er jo ikke nødvendigvis feil!
 * 700  12  $aSmith, Stuart Saunders,  $d1948-  $pEmbden Pond.  $tFamily portraits.
 * 830  #3  $aAn Orbit book
 * 830  #0  $aHarper Perennial modern classics.
+* 830  #0  $aKarlstad University Studies,  $v2022:4  $x1403-8099  $x1403-8099 ;
 * 830  #0  $aWorld treasury.
 
 
-Poster hvor vi ikke finner noe verk identifisert med URI
-hverken som hovedinnførsel i 130/240 eller som analytt i 700
+URIer som brukes til både verk og agent
+kan være fordi dere bruker feil URI, eller pga hvordan subfelt er brukt
 -------------------------------------------------------
-001 = 18980892 / 245$a =  Culture control critique : 
+http://viaf.org/viaf/172957858 
 
 
 Oversikt over MARC 21 relator koder brukt i samlingen
 sjekker bare feltene 100, 110, 111, 700, 710, 711
 -------------------------------------------------------
 * aui  : 6 
+* aut  : 1 
+* cmp  : 2 
 * edc  : 1 
 * edt  : 3 
 * ill  : 1 
-* prf  : 3 
+* opn  : 1 
+* pbl  : 1 
+* prd  : 2 
+* prf  : 5 
+* ths  : 3 
 
 
 Oversikt over URI relasjonstyper for Agent brukt i samlingen
 verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 -------------------------------------------------------
 * http://rdaregistry.info/Elements/e/object/P20020 (has instrumentalist agent) : 1 
+* http://rdaregistry.info/Elements/e/object/P20039 (has performer agent) : 2 
 * http://rdaregistry.info/Elements/m/object/P30267 (has related agent of manifestation) : 3 
-* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work) : 1 
+* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work) : 4 
 * http://rdaregistry.info/Elements/w/object/P10055 (has compiler agent) : 1 
-* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 40 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 41 
+* http://rdaregistry.info/Elements/w/object/P10304 (has audio producer agent) : 2 
 
 
 Personer med URI og relasjonstyper som er brukt for disse
@@ -289,6 +320,8 @@ http://viaf.org/viaf/9842556 (100, 700) : Ballard, J. G
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/84181241 (100) : Bayley, Barrington J 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+http://viaf.org/viaf/172957858 (100) : Beckman, Frida 
+* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work)
 http://viaf.org/viaf/103212466 (700) : Brunner, John Kilian Houston 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/71388189 (700) : Burgess, Anthony 
@@ -300,6 +333,8 @@ http://viaf.org/viaf/27062571 (700) : Clarke, Arthur C
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 https://en.wikipedia.org/wiki/Franklin_Cox (700) : Cox, Frank 
 * http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work)
+https://isni.org/isni/000000043862402X (100) : Edin, Fredrik 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/172050597 (100) : Elder, Joseph 
 * http://rdaregistry.info/Elements/m/object/P30267 (has related agent of manifestation)
 http://viaf.org/viaf/33278380 (700) : Hartwell, David G 
@@ -314,6 +349,10 @@ https://isni.org/isni/0000000064014891 (700) : McKimmey, J
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis/1 (700) : Minor, David 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+https://isni.org/isni/000000044534099X (700) : Modular K 
+* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work)
+* http://rdaregistry.info/Elements/w/object/P10304 (has audio producer agent)
+* http://rdaregistry.info/Elements/e/object/P20039 (has performer agent)
 http://viaf.org/viaf/24606270 (700) : Peake, Mervyn Laurence 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/43347281 (100) : Ray, Joyce M 
@@ -324,6 +363,10 @@ http://viaf.org/viaf/109386240 (700) : Silverberg, Robert
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/54154517 (700) : Spinrad, Norman 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+https://isni.org/isni/0000000372289205 (100) : Van Moll, Erwin 
+* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work)
+* http://rdaregistry.info/Elements/w/object/P10304 (has audio producer agent)
+* http://rdaregistry.info/Elements/e/object/P20039 (has performer agent)
 http://viaf.org/viaf/111614127 (700) : Vance, Jack 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 
@@ -728,16 +771,35 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 240  00  $aResearch data management : practical strategies for information professionals  $kCollection  $1http://viaf.org/viaf/43347281/researchdatamanagement $8p
 * 245  00  $aResearch data management :  $bpractical strategies for information professionals /  $cedited by Joyce M. Ray.
 * 700  #2  $aDavid Minor, Brian E. C. Schottlaender, and Ardys Kozbial  $kNon-fiction  $tChronopolis repository service  $1http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis $81/c
+001 = 18980892 
+* 100  1#  $aBeckman, Frida,  $eauthor.  $1http://viaf.org/viaf/172957858  $4http://rdaregistry.info/Elements/w/object/P10053
+* 240  10  $aCulture control critique : allegories of reading the present  $kNon-fiction  $1http://viaf.org/viaf/172957858
+* 245  10  $aCulture control critique :  $ballegories of reading the present /  $cFrida Beckman.
+* 700  12  $aBeckman, Frida  $kNon-fiction  $tIn and out of time: "Chronopolis" and in time  $1http://viaf.org/viaf/172957858/chronopolis
 001 = 17654605 
 * 100  1#  $aCella, Lisa.  $1https://isni.org/isni/0000000033066226  $4prf  $4http://rdaregistry.info/Elements/e/object/P20020
 * 240  04  $aThe isle is full of noises  $kCollection  $1https://isni.org/isni/0000000033066226/islenoise
 * 245  14  $aThe isle is full of noises  $h[sound recording].
-* 700  12  $aCox, Frank,  $kPerformance  $tChronopolis  $1https://en.wikipedia.org/wiki/Franklin_Cox/chronopolis $8c/1
+* 700  12  $aCox, Frank,  $kSound recording  $tChronopolis  $1https://en.wikipedia.org/wiki/Franklin_Cox/chronopolis $8c/1
 * 700  12  $aHoey, Steven.  $tRe.
 * 700  12  $aJones, Christopher Wendell.  $tFictions.
 * 700  12  $aKim-Boyle, David Robert.  $t[ga]:[ge]:[go]:[gu]
 * 700  12  $aLavista, Mario,  $d1943-2021.  $mflute.  $tNocturne,
 * 700  12  $aSmith, Stuart Saunders,  $d1948-  $pEmbden Pond.  $tFamily portraits.
+001 = 18460565 
+* 100  1#  $aVan Moll, Erwin.  $1https://isni.org/isni/0000000372289205  $4cmp  $4http://rdaregistry.info/Elements/w/object/P10053  $4prd  $4http://rdaregistry.info/Elements/w/object/P10304  $4prf  $4http://rdaregistry.info/Elements/e/object/P20039
+* 240  10  $aDream cargoes  $kCollection  $1https://isni.org/isni/0000000372289205/dreamcargoes
+* 245  10  $aDream cargoes  $cTJ Kong & Modular K.  $h[sound recording] /
+* 700  12  $aVan Moll, Erwin  $kSound recording  $tChronopolis  $1https://isni.org/isni/0000000372289205/dreamcargoes/1
+* 700  12  $aVan Moll, Erwin  $kSound recording  $tDream cargoes/subfield  $1https://isni.org/isni/0000000372289205/dreamcargoes/3
+* 700  12  $aVan Moll, Erwin  $kSound recording  $tEnd-game (feat. Edward Capel)  $1https://isni.org/isni/0000000372289205/dreamcargoes/5
+* 700  12  $aVan Moll, Erwin  $kSound recording  $tMemories of the space age  $1https://isni.org/isni/0000000372289205/dreamcargoes/9
+* 700  12  $aVan Moll, Erwin  $kSound recording  $tNow wakes the sea  $1https://isni.org/isni/0000000372289205/dreamcargoes/6
+* 700  12  $aVan Moll, Erwin  $kSound recording  $tNow: zero  $1https://isni.org/isni/0000000372289205/dreamcargoes/10
+* 700  12  $aVan Moll, Erwin  $kSound recording  $tStudio 5, the stars  $1https://isni.org/isni/0000000372289205/dreamcargoes/7
+* 700  12  $aVan Moll, Erwin  $kSound recording  $tThe Delta at sunset  $1https://isni.org/isni/0000000372289205/dreamcargoes/4
+* 700  12  $aVan Moll, Erwin  $kSound recording  $tThe last world of Mr. Goddard  $1https://isni.org/isni/0000000372289205/dreamcargoes/2
+* 700  12  $aVan Moll, Erwin  $kSound recording  $tThe sound-sweep  $1https://isni.org/isni/0000000372289205/dreamcargoes/8
 
 
 Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke analytter)
@@ -796,3 +858,5 @@ Poster som mangler 336, 337, 338, 380
 001: 17946229 mangler følgende felt:  380 
 001: 18980892 mangler følgende felt:  380 
 001: 17654605 mangler følgende felt:  380 
+001: 8pfvpcx9683jtsn7 mangler følgende felt:  380 
+001: 18460565 mangler følgende felt:  380 
