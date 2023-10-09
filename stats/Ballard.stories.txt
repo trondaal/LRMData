@@ -58,7 +58,8 @@ Verk identifisert med URI
 -------------------------------------------------------
 * http://example.com/innerlandscape = The inner landscape (Språkbasert verk)
 * http://viaf.org/viaf/172050597/reaches = The farthest reaches (Språkbasert verk)
-* http://viaf.org/viaf/172957858/culturecontrolcritique = Culture control critique : allegories of reading the present / In and out of time: "Chronopolis" and in time 
+* http://viaf.org/viaf/172957858/culturecontrolcritique = Culture control critique : allegories of reading the present 
+* http://viaf.org/viaf/172957858/culturecontrolcritique/chronopolis = In and out of time: "Chronopolis" and in time 
 * http://viaf.org/viaf/180997771 = Empire of the sun (Fiction)
 * http://viaf.org/viaf/183421260 = Danger, Religion! 
 * http://viaf.org/viaf/183430784 = The four-dimensional nightmare (Fiction)
@@ -768,7 +769,7 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 100  1#  $aBeckman, Frida,  $eauthor.  $1http://viaf.org/viaf/172957858  $4http://rdaregistry.info/Elements/w/object/P10053
 * 240  10  $aCulture control critique : allegories of reading the present  $kNon-fiction  $1http://viaf.org/viaf/172957858/culturecontrolcritique
 * 245  10  $aCulture control critique :  $ballegories of reading the present /  $cFrida Beckman.
-* 700  12  $aBeckman, Frida  $kNon-fiction  $tIn and out of time: "Chronopolis" and in time  $1http://viaf.org/viaf/172957858/culturecontrolcritique
+* 700  12  $aBeckman, Frida  $kNon-fiction  $tIn and out of time: "Chronopolis" and in time  $1http://viaf.org/viaf/172957858/culturecontrolcritique/chronopolis
 001 = 17654605 
 * 100  1#  $aCella, Lisa.  $1https://isni.org/isni/0000000033066226  $4prf  $4http://rdaregistry.info/Elements/e/object/P20020
 * 240  04  $aThe isle is full of noises  $kCollection  $1https://isni.org/isni/0000000033066226/islenoise

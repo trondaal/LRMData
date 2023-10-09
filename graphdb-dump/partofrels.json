@@ -658,6 +658,25 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/172957858/culturecontrolcritique/chronopolis"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10019"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "is part of work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/172957858/culturecontrolcritique"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q208002/exp/eng/1020"
                 },
                 "p": {
@@ -1343,6 +1362,25 @@
                 "s": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/172957858/culturecontrolcritique/exp/eng/1020"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20074"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "is part of expression"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/172957858/culturecontrolcritique/exp/eng/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/172957858/culturecontrolcritique/chronopolis/exp/eng/1020"
                 },
                 "p": {
                     "type": "uri",
