@@ -4,7 +4,7 @@ BIB2201 rapport over datasamling - oppdatert 5/6
 -------------------------------------------------------
 
 
-Antall poster i samlingen:31
+Antall poster i samlingen:30
 -------------------------------------------------------
 
 
@@ -28,13 +28,11 @@ Agenter identifisert med URI
 * https://isni.org/isni/0000000109520828 (700) : Laumer, K
 * https://isni.org/isni/0000000064014891 (700) : McKimmey, J
 * http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis/1 (700) : Minor, David
-* https://isni.org/isni/000000044534099X (700) : Modular K
 * http://viaf.org/viaf/24606270 (700) : Peake, Mervyn Laurence
 * http://viaf.org/viaf/43347281 (100) : Ray, Joyce M
 * http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis/2 (700) : Schottlaender, Brian E. C
 * http://viaf.org/viaf/109386240 (700) : Silverberg, Robert
 * http://viaf.org/viaf/54154517 (700) : Spinrad, Norman
-* https://isni.org/isni/0000000372289205 (100) : Van Moll, Erwin
 * http://viaf.org/viaf/111614127 (700) : Vance, Jack
 
 
@@ -233,17 +231,6 @@ Verk identifisert med URI
 * http://www.wikidata.org/entity/Q6815642 = Memories of the space age (Språkbasert verk)
 * https://en.wikipedia.org/wiki/Franklin_Cox/chronopolis = Chronopolis 
 * https://isni.org/isni/0000000033066226/islenoise = The isle is full of noises 
-* https://isni.org/isni/0000000372289205/dreamcargoes = Dream cargoes 
-* https://isni.org/isni/0000000372289205/dreamcargoes/1 = Chronopolis 
-* https://isni.org/isni/0000000372289205/dreamcargoes/10 = Now: zero 
-* https://isni.org/isni/0000000372289205/dreamcargoes/2 = The last world of Mr. Goddard 
-* https://isni.org/isni/0000000372289205/dreamcargoes/3 = Dream cargoes/subfield 
-* https://isni.org/isni/0000000372289205/dreamcargoes/4 = The Delta at sunset 
-* https://isni.org/isni/0000000372289205/dreamcargoes/5 = End-game (feat. Edward Capel) 
-* https://isni.org/isni/0000000372289205/dreamcargoes/6 = Now wakes the sea 
-* https://isni.org/isni/0000000372289205/dreamcargoes/7 = Studio 5, the stars 
-* https://isni.org/isni/0000000372289205/dreamcargoes/8 = The sound-sweep 
-* https://isni.org/isni/0000000372289205/dreamcargoes/9 = Memories of the space age 
 * https://www.isfdb.org/cgi-bin/pl.cgi?279033 = The best of J. G. Ballard / The best short stories of J.G. Ballard 
 * https://www.isfdb.org/cgi-bin/pl.cgi?35804 = The best of J. G. Ballard (Fiction)
 * https://www.isfdb.org/cgi-bin/title.cgi?37224 = Knights of the limits. 
@@ -278,24 +265,20 @@ Oversikt over MARC 21 relator koder brukt i samlingen
 sjekker bare feltene 100, 110, 111, 700, 710, 711
 -------------------------------------------------------
 * aui  : 6 
-* cmp  : 2 
 * edc  : 1 
 * edt  : 3 
 * ill  : 1 
-* prd  : 2 
-* prf  : 5 
+* prf  : 3 
 
 
 Oversikt over URI relasjonstyper for Agent brukt i samlingen
 verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 -------------------------------------------------------
 * http://rdaregistry.info/Elements/e/object/P20020 (has instrumentalist agent) : 1 
-* http://rdaregistry.info/Elements/e/object/P20039 (has performer agent) : 2 
 * http://rdaregistry.info/Elements/m/object/P30267 (has related agent of manifestation) : 3 
-* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work) : 4 
+* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work) : 2 
 * http://rdaregistry.info/Elements/w/object/P10055 (has compiler agent) : 1 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 40 
-* http://rdaregistry.info/Elements/w/object/P10304 (has audio producer agent) : 2 
 
 
 Personer med URI og relasjonstyper som er brukt for disse
@@ -335,10 +318,6 @@ https://isni.org/isni/0000000064014891 (700) : McKimmey, J
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis/1 (700) : Minor, David 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
-https://isni.org/isni/000000044534099X (700) : Modular K 
-* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work)
-* http://rdaregistry.info/Elements/w/object/P10304 (has audio producer agent)
-* http://rdaregistry.info/Elements/e/object/P20039 (has performer agent)
 http://viaf.org/viaf/24606270 (700) : Peake, Mervyn Laurence 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/43347281 (100) : Ray, Joyce M 
@@ -349,10 +328,6 @@ http://viaf.org/viaf/109386240 (700) : Silverberg, Robert
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/54154517 (700) : Spinrad, Norman 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
-https://isni.org/isni/0000000372289205 (100) : Van Moll, Erwin 
-* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work)
-* http://rdaregistry.info/Elements/w/object/P10304 (has audio producer agent)
-* http://rdaregistry.info/Elements/e/object/P20039 (has performer agent)
 http://viaf.org/viaf/111614127 (700) : Vance, Jack 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 
@@ -772,20 +747,6 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  12  $aKim-Boyle, David Robert.  $t[ga]:[ge]:[go]:[gu]
 * 700  12  $aLavista, Mario,  $d1943-2021.  $mflute.  $tNocturne,
 * 700  12  $aSmith, Stuart Saunders,  $d1948-  $pEmbden Pond.  $tFamily portraits.
-001 = 18460565 
-* 100  1#  $aVan Moll, Erwin.  $1https://isni.org/isni/0000000372289205  $4cmp  $4http://rdaregistry.info/Elements/w/object/P10053  $4prd  $4http://rdaregistry.info/Elements/w/object/P10304  $4prf  $4http://rdaregistry.info/Elements/e/object/P20039
-* 240  10  $aDream cargoes  $kCollection  $1https://isni.org/isni/0000000372289205/dreamcargoes
-* 245  10  $aDream cargoes  $cTJ Kong & Modular K.  $h[sound recording] /
-* 700  12  $aVan Moll, Erwin  $kSound recording  $tChronopolis  $1https://isni.org/isni/0000000372289205/dreamcargoes/1
-* 700  12  $aVan Moll, Erwin  $kSound recording  $tDream cargoes/subfield  $1https://isni.org/isni/0000000372289205/dreamcargoes/3
-* 700  12  $aVan Moll, Erwin  $kSound recording  $tEnd-game (feat. Edward Capel)  $1https://isni.org/isni/0000000372289205/dreamcargoes/5
-* 700  12  $aVan Moll, Erwin  $kSound recording  $tMemories of the space age  $1https://isni.org/isni/0000000372289205/dreamcargoes/9
-* 700  12  $aVan Moll, Erwin  $kSound recording  $tNow wakes the sea  $1https://isni.org/isni/0000000372289205/dreamcargoes/6
-* 700  12  $aVan Moll, Erwin  $kSound recording  $tNow: zero  $1https://isni.org/isni/0000000372289205/dreamcargoes/10
-* 700  12  $aVan Moll, Erwin  $kSound recording  $tStudio 5, the stars  $1https://isni.org/isni/0000000372289205/dreamcargoes/7
-* 700  12  $aVan Moll, Erwin  $kSound recording  $tThe Delta at sunset  $1https://isni.org/isni/0000000372289205/dreamcargoes/4
-* 700  12  $aVan Moll, Erwin  $kSound recording  $tThe last world of Mr. Goddard  $1https://isni.org/isni/0000000372289205/dreamcargoes/2
-* 700  12  $aVan Moll, Erwin  $kSound recording  $tThe sound-sweep  $1https://isni.org/isni/0000000372289205/dreamcargoes/8
 
 
 Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke analytter)
@@ -844,4 +805,3 @@ Poster som mangler 336, 337, 338, 380
 001: 17946229 mangler følgende felt:  380 
 001: 18980892 mangler følgende felt:  380 
 001: 17654605 mangler følgende felt:  380 
-001: 18460565 mangler følgende felt:  380 
