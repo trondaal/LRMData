@@ -5902,44 +5902,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/172957858/chronopolis/exp/eng/1020"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "CONTENT"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/termList/RDAContentType/1020"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/172957858/exp/eng/1020"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "CONTENT"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/termList/RDAContentType/1020"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/12155103895976200651/exp/eng/1020"
                 },
                 "p": {
@@ -11811,44 +11773,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/172957858/chronopolis/exp/eng/1020"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "LANGUAGE"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/172957858/exp/eng/1020"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "LANGUAGE"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "https://en.wikipedia.org/wiki/Franklin_Cox/chronopolis/exp/zxx/1011"
                 },
                 "p": {
@@ -13844,25 +13768,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://example.org/isbn-9781783488025"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "CARRIER"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/termList/RDACarrierType/1018"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://example.org/isbn-0007119321"
                 },
                 "p": {
@@ -15815,25 +15720,6 @@
                 "o": {
                     "type": "uri",
                     "value": "http://rdaregistry.info/termList/RDAMediaType/1007"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-9781783488025"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "MEDIATYPE"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/termList/RDAMediaType/1003"
                 }
             },
             {

@@ -4,7 +4,7 @@ BIB2201 rapport over datasamling - oppdatert 5/6
 -------------------------------------------------------
 
 
-Antall poster i samlingen:30
+Antall poster i samlingen:29
 -------------------------------------------------------
 
 
@@ -14,7 +14,6 @@ Agenter identifisert med URI
 * http://viaf.org/viaf/12304119 (700) : Anderson, Poul
 * http://viaf.org/viaf/9842556 (100, 700) : Ballard, J. G
 * http://viaf.org/viaf/84181241 (100) : Bayley, Barrington J
-* http://viaf.org/viaf/172957858 (100) : Beckman, Frida
 * http://viaf.org/viaf/103212466 (700) : Brunner, John Kilian Houston
 * http://viaf.org/viaf/71388189 (700) : Burgess, Anthony
 * http://viaf.org/viaf/79304712 (700) : Carr, Terry
@@ -50,8 +49,6 @@ Verk identifisert med URI
 -------------------------------------------------------
 * http://example.com/innerlandscape = The inner landscape (Språkbasert verk)
 * http://viaf.org/viaf/172050597/reaches = The farthest reaches (Språkbasert verk)
-* http://viaf.org/viaf/172957858 = Culture control critique : allegories of reading the present 
-* http://viaf.org/viaf/172957858/chronopolis = In and out of time: "Chronopolis" and in time 
 * http://viaf.org/viaf/180997771 = Empire of the sun (Fiction)
 * http://viaf.org/viaf/183421260 = Danger, Religion! 
 * http://viaf.org/viaf/183430784 = The four-dimensional nightmare (Fiction)
@@ -255,12 +252,6 @@ men det er jo ikke nødvendigvis feil!
 * 830  #0  $aWorld treasury.
 
 
-URIer som brukes til både verk og agent
-kan være fordi dere bruker feil URI, eller pga hvordan subfelt er brukt
--------------------------------------------------------
-http://viaf.org/viaf/172957858 
-
-
 Oversikt over MARC 21 relator koder brukt i samlingen
 sjekker bare feltene 100, 110, 111, 700, 710, 711
 -------------------------------------------------------
@@ -276,7 +267,7 @@ verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 -------------------------------------------------------
 * http://rdaregistry.info/Elements/e/object/P20020 (has instrumentalist agent) : 1 
 * http://rdaregistry.info/Elements/m/object/P30267 (has related agent of manifestation) : 3 
-* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work) : 2 
+* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work) : 1 
 * http://rdaregistry.info/Elements/w/object/P10055 (has compiler agent) : 1 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 40 
 
@@ -291,8 +282,6 @@ http://viaf.org/viaf/9842556 (100, 700) : Ballard, J. G
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/84181241 (100) : Bayley, Barrington J 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
-http://viaf.org/viaf/172957858 (100) : Beckman, Frida 
-* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work)
 http://viaf.org/viaf/103212466 (700) : Brunner, John Kilian Houston 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/71388189 (700) : Burgess, Anthony 
@@ -732,11 +721,6 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 240  00  $aResearch data management : practical strategies for information professionals  $kCollection  $1http://viaf.org/viaf/43347281/researchdatamanagement $8p
 * 245  00  $aResearch data management :  $bpractical strategies for information professionals /  $cedited by Joyce M. Ray.
 * 700  #2  $aDavid Minor, Brian E. C. Schottlaender, and Ardys Kozbial  $kNon-fiction  $tChronopolis repository service  $1http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis $81/c
-001 = 18980892 
-* 100  1#  $aBeckman, Frida,  $eauthor.  $1http://viaf.org/viaf/172957858  $4http://rdaregistry.info/Elements/w/object/P10053
-* 240  10  $aCulture control critique : allegories of reading the present  $kNon-fiction  $1http://viaf.org/viaf/172957858
-* 245  10  $aCulture control critique :  $ballegories of reading the present /  $cFrida Beckman.
-* 700  12  $aBeckman, Frida  $kNon-fiction  $tIn and out of time: "Chronopolis" and in time  $1http://viaf.org/viaf/172957858/chronopolis
 001 = 17654605 
 * 100  1#  $aCella, Lisa.  $1https://isni.org/isni/0000000033066226  $4prf  $4http://rdaregistry.info/Elements/e/object/P20020
 * 240  04  $aThe isle is full of noises  $kCollection  $1https://isni.org/isni/0000000033066226/islenoise
@@ -774,7 +758,6 @@ Opplisting som viser bruken av 337 $a, $b, $0, $2
 * 337  ##  $aunmediated  $0http://rdaregistry.info/termList/RDAMediaType/1007 $2rdamedia
 * 337  ##  $aunmediated  $bn  $0http://rdaregistry.info/termList/RDAMediaType/1007 $2rdamedia
 * 337  ##  $auformidlet  $0http://rdaregistry.info/termList/RDAMediaType/1007
-* 337  ##  $acomputer  $0http://rdaregistry.info/termList/RDAMediaType/1003 $2rdamedia
 * 337  ##  $aaudio  $0http://rdaregistry.info/termList/RDAMediaType/1001 $2rdamedia
 
 
@@ -783,7 +766,6 @@ Opplisting som viser bruken av 338 $a, $b, $0, $2
 * 338  ##  $avolume  $0http://rdaregistry.info/termList/RDACarrierType/1049 $2rdacarrier
 * 338  ##  $avolume  $bnc  $0http://rdaregistry.info/termList/RDACarrierType/1049 $2rdacarrier
 * 338  ##  $abind  $0http://rdaregistry.info/termList/RDACarrierType/1049
-* 338  ##  $aonline resource  $0http://rdaregistry.info/termList/RDACarrierType/1018 $2rdacarrier
 * 338  ##  $acompact disc  $0http://rdaregistry.info/termList/RDACarrierType/1013 $2rdacarrier
 
 
@@ -803,5 +785,4 @@ Poster som mangler 336, 337, 338, 380
 001: 016301958 mangler følgende felt:  380 
 001: 009371738 mangler følgende felt:  380 
 001: 17946229 mangler følgende felt:  380 
-001: 18980892 mangler følgende felt:  380 
 001: 17654605 mangler følgende felt:  380 
