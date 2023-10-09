@@ -1173,13 +1173,9 @@
       <rdaxd:P00029>Collection</rdaxd:P00029>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/9842556"/>
    </rdac:C10001>
-   <rdac:C10001 rdf:about="https://en.wikipedia.org/wiki/Franklin_Cox">
-      <rdaxd:P00018>https://en.wikipedia.org/wiki/Franklin_Cox</rdaxd:P00018>
-      <rdawd:P10088>Chronopolis</rdawd:P10088>
-      <rdfs:label>Chronopolis (Cox, Frank)</rdfs:label>
-   </rdac:C10001>
    <rdac:C10001 rdf:about="https://en.wikipedia.org/wiki/Franklin_Cox/chronopolis">
       <rdaxd:P00018>https://en.wikipedia.org/wiki/Franklin_Cox/chronopolis</rdaxd:P00018>
+      <rdaxd:P00029>Performance</rdaxd:P00029>
       <rdawd:P10088>Chronopolis</rdawd:P10088>
       <rdfs:label>Chronopolis (Cox, Frank)</rdfs:label>
       <rdawo:P10053 rdf:resource="https://en.wikipedia.org/wiki/Franklin_Cox"/>
@@ -1346,6 +1342,12 @@
       <rdaad:P50385>Ballard, J. G</rdaad:P50385>
       <rdfs:label>Ballard, J. G</rdfs:label>
       <rdaad:P50339>1930-2009</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="https://en.wikipedia.org/wiki/Franklin_Cox">
+      <rdaxd:P00018>https://en.wikipedia.org/wiki/Franklin_Cox</rdaxd:P00018>
+      <rdaad:P50385>Cox, Frank</rdaad:P50385>
+      <rdfs:label>Cox, Frank</rdfs:label>
+      <rdaad:P50339>1961-</rdaad:P50339>
    </rdac:C10002>
    <rdac:C10002 rdf:about="https://isni.org/isni/0000000033066226">
       <rdaxd:P00018>https://isni.org/isni/0000000033066226</rdaxd:P00018>

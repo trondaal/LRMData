@@ -3211,17 +3211,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "https://en.wikipedia.org/wiki/Franklin_Cox"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Work"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "https://en.wikipedia.org/wiki/Franklin_Cox/chronopolis"
                 },
                 "label": {
@@ -3993,6 +3982,17 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/84181241"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Agent"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://en.wikipedia.org/wiki/Franklin_Cox"
                 },
                 "label": {
                     "xml:lang": "gden",

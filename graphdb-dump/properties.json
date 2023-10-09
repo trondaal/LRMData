@@ -8066,16 +8066,16 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "https://en.wikipedia.org/wiki/Franklin_Cox"
+                    "value": "https://en.wikipedia.org/wiki/Franklin_Cox/chronopolis"
                 },
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "title"
+                    "value": "form"
                 },
                 "value": {
                     "type": "literal",
-                    "value": "Chronopolis"
+                    "value": "Performance"
                 }
             },
             {
@@ -9786,6 +9786,36 @@
                 "value": {
                     "type": "literal",
                     "value": "Bayley, Barrington J"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://en.wikipedia.org/wiki/Franklin_Cox"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "dates"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1961-"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://en.wikipedia.org/wiki/Franklin_Cox"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "name"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Cox, Frank"
                 }
             },
             {
