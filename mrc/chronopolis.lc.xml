@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<collection xmlns="http://www.loc.gov/MARC21/slim"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+    <record>
+        <leader>00969cam a2200229   4500</leader>
+        <controlfield tag="001">1264899</controlfield>
+        <controlfield tag="005">20160216102241.0</controlfield>
+        <controlfield tag="008">710901s1971    nyu           000 1 eng  </controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   74163404 </subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="9">(DLC)   74163404</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+        </datafield>
+        <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PZ4.B1893</subfield>
+            <subfield code="b">Ch</subfield>
+            <subfield code="a">PR6052.A46</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">823/.9/14</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Ballard, J. G.,</subfield>
+            <subfield code="d">1930-2009.</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Chronopolis,</subfield>
+            <subfield code="b">and other stories,</subfield>
+            <subfield code="c">by J. G. Ballard.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York,</subfield>
+            <subfield code="b">Putnam</subfield>
+            <subfield code="c">[1971]</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">319 p.</subfield>
+            <subfield code="c">21 cm.</subfield>
+        </datafield>
+        <datafield tag="350" ind1=" " ind2=" ">
+            <subfield code="a">$6.95</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">The voices of time -- The drowned giant  -- The terminal beach -- Manhole 69 -- Storm-bird, storm-dreamer -- The sound-sweep -- Millenium -- Chronopolis -- Build-up -- The garden of time -- End game -- The watchtowers -- Now wakes the sea -- Zone of terror -- The cage of sand -- Deep end.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Science fiction, English.</subfield>
+        </datafield>
+        <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">orignew</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">19</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+        </datafield>
+        <datafield tag="991" ind1=" " ind2=" ">
+            <subfield code="b">c-GenColl</subfield>
+            <subfield code="h">PZ4.B1893</subfield>
+            <subfield code="i">Ch</subfield>
+            <subfield code="p">00022766302</subfield>
+            <subfield code="t">Copy 1</subfield>
+            <subfield code="w">BOOKS</subfield>
+        </datafield>
+    </record>
+
+
+</collection>

@@ -4,7 +4,7 @@ BIB2201 rapport over datasamling - oppdatert 5/6
 -------------------------------------------------------
 
 
-Antall poster i samlingen:25
+Antall poster i samlingen:30
 -------------------------------------------------------
 
 
@@ -13,15 +13,22 @@ Agenter identifisert med URI
 * http://viaf.org/viaf/2465493 (700) : Aldiss, Brian W
 * http://viaf.org/viaf/12304119 (700) : Anderson, Poul
 * http://viaf.org/viaf/9842556 (100, 700) : Ballard, J. G
+* http://viaf.org/viaf/84181241 (100) : Bayley, Barrington J
 * http://viaf.org/viaf/103212466 (700) : Brunner, John Kilian Houston
 * http://viaf.org/viaf/71388189 (700) : Burgess, Anthony
 * http://viaf.org/viaf/79304712 (700) : Carr, Terry
+* https://isni.org/isni/0000000033066226 (100) : Cella, Lisa
 * http://viaf.org/viaf/27062571 (700) : Clarke, Arthur C
 * http://viaf.org/viaf/172050597 (100) : Elder, Joseph
+* http://viaf.org/viaf/33278380 (700) : Hartwell, David G
 * https://isni.org/isni/000000008169370X (700) : Jakes, John Williams
+* http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis/3 (700) : Kozbial, Ardys
 * https://isni.org/isni/0000000109520828 (700) : Laumer, K
 * https://isni.org/isni/0000000064014891 (700) : McKimmey, J
+* http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis/1 (700) : Minor, David
 * http://viaf.org/viaf/24606270 (700) : Peake, Mervyn Laurence
+* http://viaf.org/viaf/43347281 (100) : Ray, Joyce M
+* http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis/2 (700) : Schottlaender, Brian E. C
 * http://viaf.org/viaf/109386240 (700) : Silverberg, Robert
 * http://viaf.org/viaf/54154517 (700) : Spinrad, Norman
 * http://viaf.org/viaf/111614127 (700) : Vance, Jack
@@ -30,11 +37,12 @@ Agenter identifisert med URI
 Agent-innførsler som IKKE er identifiser med URI i $1
 men dere velger selv hvilke agenter som skal være med
 -------------------------------------------------------
-* 100  1#  $aBallard, J. G.,  $d1930-2009.
+* 100  1#  $aBeckman, Frida,  $eauthor.
 * 700  1#  $aFadiman, Clifton  $d1904-1999.  $4aui  $4edt  $4http://rdaregistry.info/Elements/m/object/P30267
-* 700  1#  $aHartwell, David G.  $edc  $4edt  $4http://rdaregistry.info/Elements/m/object/P30267
+* 700  1#  $aGoldstein, Thomas  $c(Percussionist)  $4prf
 * 700  0#  $aMartin Amis  $4aui
 * 700  1#  $aPotter, J. K.  $eillustrator  $4ill
+* 700  1#  $aSmith, Sylvia H.  $4prf
 
 
 Verk identifisert med URI
@@ -50,8 +58,10 @@ Verk identifisert med URI
 * http://viaf.org/viaf/308025936 = The day of creation (Fiction)
 * http://viaf.org/viaf/309308512 = Boy in darkness (Språkbasert verk)
 * http://viaf.org/viaf/311471559 = The voices of time (Fiction / Short story / Språkbasert verk)
-* http://viaf.org/viaf/9842556/bestof77 = The best short stories of J.G. Ballard (Fiction)
-* http://viaf.org/viaf/9842556/bestof95 = The best short stories of J.G. Ballard 
+* http://viaf.org/viaf/33278380/treasure = The world treasury of science fiction (Fiction)
+* http://viaf.org/viaf/43347281/researchdatamanagement = Research data management : practical strategies for information professionals 
+* http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis = Chronopolis repository service 
+* http://viaf.org/viaf/84181241/gateway = Barrington Bayley SF gateway omnibus 
 * http://viaf.org/viaf/9842556/complete = The complete stories of J.G. Ballard (Short story)
 * http://www.isfdb.org/cgi-bin/pe.cgi?41887 = The fifth head of Cerberus (Fiction)
 * http://www.isfdb.org/cgi-bin/title.cgi?1042004 = Notes towards a mental breakdown (Short story)
@@ -216,6 +226,14 @@ Verk identifisert med URI
 * http://www.wikidata.org/entity/Q5114250 = Chronopolis, and other stories (Språkbasert verk)
 * http://www.wikidata.org/entity/Q6692707 = Low-flying aircraft, and other stories (Short story)
 * http://www.wikidata.org/entity/Q6815642 = Memories of the space age (Språkbasert verk)
+* https://en.wikipedia.org/wiki/Franklin_Cox = Chronopolis. 
+* https://en.wikipedia.org/wiki/Franklin_Cox/chronopolis = Chronopolis 
+* https://isni.org/isni/0000000033066226/islenoise = The isle is full of noises 
+* https://www.isfdb.org/cgi-bin/pl.cgi?279033 = The best of J. G. Ballard / The best short stories of J.G. Ballard 
+* https://www.isfdb.org/cgi-bin/pl.cgi?35804 = The best of J. G. Ballard (Fiction)
+* https://www.isfdb.org/cgi-bin/title.cgi?37224 = Knights of the limits. 
+* https://www.isfdb.org/cgi-bin/title.cgi?4531 = Soul of the robot. 
+* https://www.isfdb.org/cgi-bin/title.cgi?4537 = Fall of Chronopolis. 
 * https://www.isfdb.org/cgi-bin/title.cgi?575437 = The sound sweep (Fiction)
 * https://www.isfdb.org/cgi-bin/title.cgi?57580 = The atrocity exhibition 
 * https://www.isfdb.org/cgi-bin/title.cgi?57598 = The Last World of Mr Goddard (Fiction / Short story)
@@ -225,8 +243,11 @@ Verk identifisert med URI
 Innførsler som IKKE er identifisert som verk på grunn av manglende URI i $1
 men det er jo ikke nødvendigvis feil!
 -------------------------------------------------------
-* 240  10  $aShort stories.  $kSelections
-* 240  04  $aThe world treasury of science fiction  $kCollection
+* 700  12  $aHoey, Steven.  $tRe.
+* 700  12  $aJones, Christopher Wendell.  $tFictions.
+* 700  12  $aKim-Boyle, David Robert.  $t[ga]:[ge]:[go]:[gu]
+* 700  12  $aLavista, Mario,  $d1943-2021.  $mflute.  $tNocturne,
+* 700  12  $aSmith, Stuart Saunders,  $d1948-  $pEmbden Pond.  $tFamily portraits.
 * 830  #3  $aAn Orbit book
 * 830  #0  $aHarper Perennial modern classics.
 * 830  #0  $aWorld treasury.
@@ -235,23 +256,26 @@ men det er jo ikke nødvendigvis feil!
 Poster hvor vi ikke finner noe verk identifisert med URI
 hverken som hovedinnførsel i 130/240 eller som analytt i 700
 -------------------------------------------------------
-001 = 1304678 / 245$a =  The best short stories of J.G. Ballard. 
+001 = 18980892 / 245$a =  Culture control critique : 
 
 
 Oversikt over MARC 21 relator koder brukt i samlingen
 sjekker bare feltene 100, 110, 111, 700, 710, 711
 -------------------------------------------------------
-* aui  : 5 
+* aui  : 6 
 * edc  : 1 
 * edt  : 3 
 * ill  : 1 
+* prf  : 3 
 
 
 Oversikt over URI relasjonstyper for Agent brukt i samlingen
 verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 -------------------------------------------------------
+* http://rdaregistry.info/Elements/e/object/P20020 (has instrumentalist agent) : 1 
 * http://rdaregistry.info/Elements/m/object/P30267 (has related agent of manifestation) : 3 
-* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 34 
+* http://rdaregistry.info/Elements/w/object/P10055 (has compiler agent) : 1 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 40 
 
 
 Personer med URI og relasjonstyper som er brukt for disse
@@ -262,22 +286,36 @@ http://viaf.org/viaf/12304119 (700) : Anderson, Poul
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/9842556 (100, 700) : Ballard, J. G 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+http://viaf.org/viaf/84181241 (100) : Bayley, Barrington J 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/103212466 (700) : Brunner, John Kilian Houston 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/71388189 (700) : Burgess, Anthony 
 http://viaf.org/viaf/79304712 (700) : Carr, Terry 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+https://isni.org/isni/0000000033066226 (100) : Cella, Lisa 
+* http://rdaregistry.info/Elements/e/object/P20020 (has instrumentalist agent)
 http://viaf.org/viaf/27062571 (700) : Clarke, Arthur C 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/172050597 (100) : Elder, Joseph 
 * http://rdaregistry.info/Elements/m/object/P30267 (has related agent of manifestation)
+http://viaf.org/viaf/33278380 (700) : Hartwell, David G 
+* http://rdaregistry.info/Elements/m/object/P30267 (has related agent of manifestation)
 https://isni.org/isni/000000008169370X (700) : Jakes, John Williams 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis/3 (700) : Kozbial, Ardys 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 https://isni.org/isni/0000000109520828 (700) : Laumer, K 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 https://isni.org/isni/0000000064014891 (700) : McKimmey, J 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis/1 (700) : Minor, David 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/24606270 (700) : Peake, Mervyn Laurence 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+http://viaf.org/viaf/43347281 (100) : Ray, Joyce M 
+* http://rdaregistry.info/Elements/w/object/P10055 (has compiler agent)
+http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis/2 (700) : Schottlaender, Brian E. C 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/109386240 (700) : Silverberg, Robert 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
@@ -289,7 +327,7 @@ http://viaf.org/viaf/111614127 (700) : Vance, Jack
 
 Verk til verk RDA relasjonstyper i 7XX $4-subfelt + label fra RDA registry
 -------------------------------------------------------
-Ser ut som dere mangler verk-til-verk relasjoner? 
+* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work) : 1 
 
 
 Analytter (dvs en publikasjon som har flere deler)
@@ -553,6 +591,7 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  #2  $aSpinrad, Norman  $kShort story  $tA night in elf hill  $1http://www.isfdb.org/cgi-bin/title.cgi?71516 $811/c
 * 700  #2  $aVance, J.  $kShort story  $tSulwen's planet  $1http://www.isfdb.org/cgi-bin/title.cgi?97136
 001 = 18716313 
+* 240  04  $aThe world treasury of science fiction  $kCollection  $1http://viaf.org/viaf/33278380/treasure
 * 245  04  $aThe world treasury of science fiction /  $cedited by David G. Hartwell ; with a foreword by Clifton Fadiman, general editor.
 * 700  02  $aAldiss, Brian W.  $tA kind of artistry  $1http://www.isfdb.org/cgi-bin/title.cgi?493181
 * 700  02  $aAllen, Steve  $tThe public hating  $1http://www.isfdb.org/cgi-bin/title.cgi?41026
@@ -608,7 +647,7 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  02  $aWolfe, Gene  $tThe fifth head of Cerberus  $1http://www.isfdb.org/cgi-bin/pe.cgi?41887
 001 = 011691325 
 * 100  1#  $aBallard, J. G.  $d1930-2009  $1http://viaf.org/viaf/9842556  $4http://rdaregistry.info/Elements/w/object/P10061
-* 240  10  $aThe best short stories of J.G. Ballard  $kCollection  $1http://viaf.org/viaf/9842556/bestof77
+* 240  00  $aThe best of J. G. Ballard  $kCollection  $1https://www.isfdb.org/cgi-bin/pl.cgi?35804
 * 245  14  $aThe best of J. G. Ballard /  $cJ. G. Ballard.
 * 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tA Question of Re-entry  $1http://www.isfdb.org/cgi-bin/title.cgi?44460
 * 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tBillenium  $1http://www.isfdb.org/cgi-bin/title.cgi?65075
@@ -628,9 +667,32 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  12  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe voices of time  $1http://viaf.org/viaf/311471559
 * 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe waiting grounds  $1http://www.isfdb.org/cgi-bin/title.cgi?44455
 * 700  12  $aBallard, J. G.  $d1930-2009  $kShort story  $tThirteen to Centaurus  $1http://www.isfdb.org/cgi-bin/title.cgi?57628
+001 = 1304678 
+* 100  1#  $aBallard, J. G.  $d1930-2009  $1http://viaf.org/viaf/9842556  $4http://rdaregistry.info/Elements/w/object/P10061
+* 240  00  $aThe best of J. G. Ballard  $kCollection  $1https://www.isfdb.org/cgi-bin/pl.cgi?279033
+* 245  14  $aThe best short stories of J.G. Ballard.
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tBillenium  $1http://www.isfdb.org/cgi-bin/title.cgi?65075
+* 700  02  $aBallard, J. G.  $d1930-2009  $kShort story  $tChronopolis  $1http://www.isfdb.org/cgi-bin/title.cgi?41557
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tDeep end  $1http://www.isfdb.org/cgi-bin/title.cgi?44457
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tEnd-game  $1http://www.isfdb.org/cgi-bin/title.cgi?57586
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tManhole 69  $1http://www.isfdb.org/cgi-bin/title.cgi?44454
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tPlan for the Assassination of Jacqueline Kennedy  $1https://www.isfdb.org/cgi-bin/title.cgi?57616
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe assassination of John Fitzgerald Kennedy considered as a downhill motor race  $1http://www.isfdb.org/cgi-bin/title.cgi?57579
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe atrocity exhibition  $1https://www.isfdb.org/cgi-bin/title.cgi?57580
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe cage of sand  $1http://www.isfdb.org/cgi-bin/title.cgi?44123
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe cloud-sculptors of Coral D  $1http://www.isfdb.org/cgi-bin/title.cgi?54044
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe concentration city  $1http://www.isfdb.org/cgi-bin/title.cgi?44451
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe drowned giant  $1http://www.isfdb.org/cgi-bin/title.cgi?43949
+* 700  12  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe garden of time  $1http://www.isfdb.org/cgi-bin/title.cgi?44458
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe overloaded man  $1http://www.isfdb.org/cgi-bin/title.cgi?57613
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe subliminal man  $1http://www.isfdb.org/cgi-bin/title.cgi?44459
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe terminal beach  $1http://www.isfdb.org/cgi-bin/title.cgi?37126
+* 700  12  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe voices of time  $1http://viaf.org/viaf/311471559
+* 700  12  $aBallard, J. G.  $d1930-2009  $kShort story  $tThirteen to Centaurus  $1http://www.isfdb.org/cgi-bin/title.cgi?57628
+* 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tWhy I want to fuck Ronald Reagan  $1http://www.isfdb.org/cgi-bin/title.cgi?1274485
 001 = 3962305 
 * 100  1#  $aBallard, J. G.  $d1930-2009  $1http://viaf.org/viaf/9842556  $4http://rdaregistry.info/Elements/w/object/P10061
-* 240  10  $aThe best short stories of J.G. Ballard  $kCollection  $1http://viaf.org/viaf/9842556/bestof95
+* 240  00  $aThe best short stories of J.G. Ballard  $kCollection  $1https://www.isfdb.org/cgi-bin/pl.cgi?279033
 * 245  14  $aThe best short stories of J.G. Ballard /  $cintroduction by Anthony Burgess.
 * 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tBillenium  $1http://www.isfdb.org/cgi-bin/title.cgi?65075
 * 700  02  $aBallard, J. G.  $d1930-2009  $kShort story  $tChronopolis  $1http://www.isfdb.org/cgi-bin/title.cgi?41557
@@ -651,11 +713,34 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  12  $aBallard, J. G.  $d1930-2009  $kShort story  $tThe voices of time  $1http://viaf.org/viaf/311471559
 * 700  12  $aBallard, J. G.  $d1930-2009  $kShort story  $tThirteen to Centaurus  $1http://www.isfdb.org/cgi-bin/title.cgi?57628
 * 700  #2  $aBallard, J. G.  $d1930-2009  $kShort story  $tWhy I want to fuck Ronald Reagan  $1http://www.isfdb.org/cgi-bin/title.cgi?1274485
+001 = 016301958 
+* 100  1#  $aBayley, Barrington J.,  $eauthor.  $1http://viaf.org/viaf/84181241  $4http://rdaregistry.info/Elements/w/object/P10061
+* 240  00  $aBarrington Bayley SF gateway omnibus  $kCollection  $1http://viaf.org/viaf/84181241/gateway
+* 245  10  $aBarrington Bayley SF gateway omnibus.
+* 700  12  $aBayley, Barrington J.  $kNovel  $tFall of Chronopolis.  $1https://www.isfdb.org/cgi-bin/title.cgi?4537
+* 700  12  $aBayley, Barrington J.  $kNovel  $tKnights of the limits.  $1https://www.isfdb.org/cgi-bin/title.cgi?37224
+* 700  12  $aBayley, Barrington J.  $kNovel  $tSoul of the robot.  $1https://www.isfdb.org/cgi-bin/title.cgi?4531
+001 = 17946229 
+* 100  1#  $aRay, Joyce M.  $1http://viaf.org/viaf/43347281  $4http://rdaregistry.info/Elements/w/object/P10055 $8p
+* 240  00  $aResearch data management : practical strategies for information professionals  $kCollection  $1http://viaf.org/viaf/43347281/researchdatamanagement $8p
+* 245  00  $aResearch data management :  $bpractical strategies for information professionals /  $cedited by Joyce M. Ray.
+* 700  #2  $aDavid Minor, Brian E. C. Schottlaender, and Ardys Kozbial  $kNon-fiction  $tChronopolis repository service  $1http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis $81/c
+001 = 17654605 
+* 100  1#  $aCella, Lisa.  $1https://isni.org/isni/0000000033066226  $4prf  $4http://rdaregistry.info/Elements/e/object/P20020
+* 240  04  $aThe isle is full of noises  $kCollection  $1https://isni.org/isni/0000000033066226/islenoise
+* 245  14  $aThe isle is full of noises  $h[sound recording].
+* 700  12  $aCox, Frank,  $k  $tChronopolis  $1https://en.wikipedia.org/wiki/Franklin_Cox/chronopolis $8c/1
+* 700  12  $aHoey, Steven.  $tRe.
+* 700  12  $aJones, Christopher Wendell.  $tFictions.
+* 700  12  $aKim-Boyle, David Robert.  $t[ga]:[ge]:[go]:[gu]
+* 700  12  $aLavista, Mario,  $d1943-2021.  $mflute.  $tNocturne,
+* 700  12  $aSmith, Stuart Saunders,  $d1948-  $pEmbden Pond.  $tFamily portraits.
 
 
 Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke analytter)
 -------------------------------------------------------
-Ser ut som dere mangler slike relasjoner? 
+001 = 17654605, The isle is full of noises / Cella, Lisa. /  
+* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work) -> Chronopolis. / Cox, Frank, (700)
 
 
 Poster med felt hvor $4 burde vært med i 700 felt
@@ -670,6 +755,7 @@ Opplisting som viser bruken av 336 $a, $b, $0, $2
 * 336  ##  $atext  $0http://rdaregistry.info/termList/RDAContentType/1020 $2rdacontent
 * 336  ##  $atext  $btxt  $0http://rdaregistry.info/termList/RDAContentType/1020 $2rdacontent
 * 336  ##  $atekst  $0http://rdaregistry.info/termList/RDAContentType/1020
+* 336  ##  $aperformed music  $0http://rdaregistry.info/termList/RDAContentType/1011 $2rdacontent
 
 
 Opplisting som viser bruken av 337 $a, $b, $0, $2
@@ -677,6 +763,8 @@ Opplisting som viser bruken av 337 $a, $b, $0, $2
 * 337  ##  $aunmediated  $0http://rdaregistry.info/termList/RDAMediaType/1007 $2rdamedia
 * 337  ##  $aunmediated  $bn  $0http://rdaregistry.info/termList/RDAMediaType/1007 $2rdamedia
 * 337  ##  $auformidlet  $0http://rdaregistry.info/termList/RDAMediaType/1007
+* 337  ##  $acomputer  $0http://rdaregistry.info/termList/RDAMediaType/1003 $2rdamedia
+* 337  ##  $aaudio  $0http://rdaregistry.info/termList/RDAMediaType/1001 $2rdamedia
 
 
 Opplisting som viser bruken av 338 $a, $b, $0, $2
@@ -684,6 +772,8 @@ Opplisting som viser bruken av 338 $a, $b, $0, $2
 * 338  ##  $avolume  $0http://rdaregistry.info/termList/RDACarrierType/1049 $2rdacarrier
 * 338  ##  $avolume  $bnc  $0http://rdaregistry.info/termList/RDACarrierType/1049 $2rdacarrier
 * 338  ##  $abind  $0http://rdaregistry.info/termList/RDACarrierType/1049
+* 338  ##  $aonline resource  $0http://rdaregistry.info/termList/RDACarrierType/1018 $2rdacarrier
+* 338  ##  $acompact disc  $0http://rdaregistry.info/termList/RDACarrierType/1013 $2rdacarrier
 
 
 Opplisting som viser bruken av 380 $a, $0, $2
@@ -697,5 +787,10 @@ Opplisting som viser bruken av 380 $a, $0, $2
 
 Poster som mangler 336, 337, 338, 380
 -------------------------------------------------------
-001: 1304678 mangler følgende felt:  336, 337, 338, 380 
-001: 3962305 mangler følgende felt:  336, 337, 338, 380 
+001: 1304678 mangler følgende felt:  380 
+001: 3962305 mangler følgende felt:  380 
+001: 016301958 mangler følgende felt:  380 
+001: 009371738 mangler følgende felt:  380 
+001: 17946229 mangler følgende felt:  380 
+001: 18980892 mangler følgende felt:  380 
+001: 17654605 mangler følgende felt:  380 

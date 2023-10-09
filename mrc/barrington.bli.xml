@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<collection xmlns="http://www.loc.gov/MARC21/slim"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <record>
+        <leader>01792aam a22004691i 4500</leader>
+        <controlfield tag="001">021221244</controlfield>
+        <controlfield tag="003">Uk</controlfield>
+        <controlfield tag="005">20231002170156.0</controlfield>
+        <controlfield tag="006">m    ||  d |      </controlfield>
+        <controlfield tag="007">cr |||||||||||</controlfield>
+        <controlfield tag="008">230919s2014    xxk||||go    |||| ||eng  </controlfield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GBC3I7868</subfield>
+            <subfield code="2">bnb</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">1473201942</subfield>
+            <subfield code="q">Electronic book (EPUB format)</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781473201941</subfield>
+            <subfield code="q">Electronic book (EPUB format)</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9780575103160</subfield>
+            <subfield code="q">print</subfield>
+        </datafield>
+        <datafield tag="037" ind1=" " ind2=" ">
+            <subfield code="a">9781473201941</subfield>
+            <subfield code="b">Hachette UK</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">Uk</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">Uk</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">ukblsr</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823.914</subfield>
+            <subfield code="2">23</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Bayley, Barrington J.,</subfield>
+            <subfield code="e">author.</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Novels.</subfield>
+            <subfield code="k">Selections</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Barrington Bayley SF gateway omnibus.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Gateway,</subfield>
+            <subfield code="c">2014.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 online resource (624 pages).</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">computer</subfield>
+            <subfield code="2">rdamedia</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">online resource</subfield>
+            <subfield code="2">rdacarrier</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">The soul of the robot -- The knights of the limits -- The fall of Chronopolis.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Science fiction, English.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Classic science fiction.</subfield>
+            <subfield code="2">bicssc</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">FICTION</subfield>
+            <subfield code="x">Science Fiction</subfield>
+            <subfield code="x">Action &amp; Adventure.</subfield>
+            <subfield code="2">bisacsh</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">FICTION</subfield>
+            <subfield code="x">Science Fiction</subfield>
+            <subfield code="x">Collections &amp; Anthologies.</subfield>
+            <subfield code="2">bisacsh</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">FICTION</subfield>
+            <subfield code="x">Science Fiction</subfield>
+            <subfield code="x">General.</subfield>
+            <subfield code="2">bisacsh</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">FICTION</subfield>
+            <subfield code="x">Science Fiction</subfield>
+            <subfield code="x">Military.</subfield>
+            <subfield code="2">bisacsh</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Science fiction.</subfield>
+            <subfield code="2">bicssc</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bayley, Barrington J.</subfield>
+            <subfield code="t">Fall of Chronopolis.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bayley, Barrington J.</subfield>
+            <subfield code="t">Knights of the limits.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bayley, Barrington J.</subfield>
+            <subfield code="t">Soul of the robot.</subfield>
+        </datafield>
+        <datafield tag="852" ind1=" " ind2=" ">
+            <subfield code="a">British Library</subfield>
+            <subfield code="b">HMNTS</subfield>
+            <subfield code="c">DRT</subfield>
+            <subfield code="j">ELD.DS.812780</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">ELD</subfield>
+            <subfield code="b">ebook</subfield>
+        </datafield>
+        <datafield tag="884" ind1=" " ind2=" ">
+            <subfield code="a">LDL ebooks ONIX to marcxml transformation using Record_Load-eBooks_Legal_Deposit_onix2marc_v2-1.xsl</subfield>
+            <subfield code="g">20230919</subfield>
+            <subfield code="k">HachetteUK176337</subfield>
+            <subfield code="q">Uk</subfield>
+        </datafield>
+        <datafield tag="903" ind1=" " ind2=" ">
+            <subfield code="a">ELD.DS.812780</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01171nam a2200361 i 4500</leader>
+        <controlfield tag="001">016690862</controlfield>
+        <controlfield tag="003">Uk</controlfield>
+        <controlfield tag="005">20150128113618.0</controlfield>
+        <controlfield tag="006">m    ||  d |      </controlfield>
+        <controlfield tag="007">cr |||||||||||</controlfield>
+        <controlfield tag="008">140414s2014    enk|||| o     0|| f|eng  </controlfield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GBB511257</subfield>
+            <subfield code="2">bnb</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">1473201942</subfield>
+            <subfield code="q">EPUB</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781473201941</subfield>
+            <subfield code="q">EPUB</subfield>
+        </datafield>
+        <datafield tag="037" ind1=" " ind2=" ">
+            <subfield code="a">9781473201941</subfield>
+            <subfield code="b">Ingram Content Group</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">Uk</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">Uk</subfield>
+            <subfield code="e">rda</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">ukblsr</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823.914</subfield>
+            <subfield code="2">23</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Bayley, Barrington J.,</subfield>
+            <subfield code="e">author.</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Novels.</subfield>
+            <subfield code="k">Selections</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">SF Gateway Omnibus /</subfield>
+            <subfield code="c">Barrington J. Bayley.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Gollancz,</subfield>
+            <subfield code="c">2014.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 online resource</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">computer</subfield>
+            <subfield code="2">rdamedia</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">online resource</subfield>
+            <subfield code="2">rdacarrier</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">The Soul of the Robot -- The Knights of the Limits -- The Fall of Chronopolis.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Science fiction, English.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Bayley, Barrington J.</subfield>
+            <subfield code="t">Fall of Chronopolis.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Bayley, Barrington J.</subfield>
+            <subfield code="t">Knights ofthe limits.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Bayley, Barrington J.</subfield>
+            <subfield code="t">Soul of the robot.</subfield>
+        </datafield>
+        <datafield tag="852" ind1=" " ind2=" ">
+            <subfield code="a">British Library</subfield>
+            <subfield code="b">HMNTS</subfield>
+            <subfield code="c">DRT</subfield>
+            <subfield code="j">ELD.DS.430</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">ELD</subfield>
+            <subfield code="b">ebook</subfield>
+        </datafield>
+    </record>
+
+    <record>
+        <leader>00871 am a2200301ui 4500</leader>
+        <controlfield tag="001">008111041</controlfield>
+        <controlfield tag="005">20091208033400.0</controlfield>
+        <controlfield tag="008">790517r19791974enk    ||     000 1|eng  </controlfield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GB7916148</subfield>
+            <subfield code="2">bnb</subfield>
+        </datafield>
+        <datafield tag="019" ind1="1" ind2=" ">
+            <subfield code="a">0850312353</subfield>
+        </datafield>
+        <datafield tag="019" ind1="9" ind2=" ">
+            <subfield code="a">0850312353</subfield>
+        </datafield>
+        <datafield tag="019" ind1="y" ind2=" ">
+            <subfield code="a">B7916148</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0850312353 :</subfield>
+            <subfield code="c">£4.95</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">Uk</subfield>
+            <subfield code="c">Uk</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823/.9/1</subfield>
+            <subfield code="2">18</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Bayley, Barrington J.</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The fall of Chronopolis /</subfield>
+            <subfield code="c">Barrington J. Bayley.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Allison and Busby,</subfield>
+            <subfield code="c">1979.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">175p. ;</subfield>
+            <subfield code="c">23cm.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Originally published: New York : Daw Books, 1974.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Fiction in English.</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">Fiction in English</subfield>
+            <subfield code="a">1900-</subfield>
+            <subfield code="a">Texts</subfield>
+        </datafield>
+        <datafield tag="852" ind1="4" ind2="1">
+            <subfield code="a">British Library</subfield>
+            <subfield code="b">HMNTS</subfield>
+            <subfield code="j">Nov.24522</subfield>
+        </datafield>
+        <datafield tag="957" ind1=" " ind2=" ">
+            <subfield code="a">790420c</subfield>
+        </datafield>
+        <datafield tag="958" ind1=" " ind2=" ">
+            <subfield code="a">Nov.38415</subfield>
+        </datafield>
+    </record>
+</collection>

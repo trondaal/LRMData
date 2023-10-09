@@ -3241,6 +3241,7 @@
         <datafield tag="240" ind1="0" ind2="4">
             <subfield code="a">The world treasury of science fiction</subfield>
             <subfield code="k">Collection</subfield>
+            <subfield code="1">http://viaf.org/viaf/33278380/treasure</subfield>
         </datafield>
         <datafield tag="245" ind1="0" ind2="4">
             <subfield code="a">The world treasury of science fiction /</subfield>
@@ -3297,6 +3298,7 @@
             <subfield code="4">edt</subfield>
             <subfield code="e">dc</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/m/object/P30267</subfield>
+            <subfield code="1">http://viaf.org/viaf/33278380</subfield>
         </datafield>
         <datafield tag="830" ind1=" " ind2="0">
             <subfield code="a">World treasury.</subfield>
@@ -3586,10 +3588,10 @@
             <subfield code="1">http://viaf.org/viaf/9842556</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
         </datafield>
-        <datafield tag="240" ind1="1" ind2="0">
-            <subfield code="a">The best short stories of J.G. Ballard</subfield>
+        <datafield tag="240" ind1="0" ind2="0">
+            <subfield code="a">The best of J. G. Ballard</subfield>
             <subfield code="k">Collection</subfield>
-            <subfield code="1">http://viaf.org/viaf/9842556/bestof77</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/pl.cgi?35804</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="4">
             <subfield code="a">The best of J. G. Ballard /</subfield>
@@ -3632,21 +3634,9 @@
             <subfield code="a">Title on cover: The best science fiction of J. G. Ballard</subfield>
         </datafield>
         <datafield tag="505" ind1=" " ind2=" ">
-            <subfield code="a">Introduction (The Best Short Stories of J. G. Ballard) / essay by Anthony Burgess -- 
-                The Concentration City --
-                Manhole 69 --
-                The waiting grounds --
-                The sound sweep --
-                Chronopolis -- 
-                The Overloaded Man --  
-                Billennium --
-                The insane ones --
-                The Garden of Time --  
-                Thirteen to Centaurus -- 
-                Passport to eternity --
-                The Cage of Sand -- 
-                A question of re-entry --
-                The Terminal Beach -- 
+            <subfield code="a">Introduction (The Best Short Stories of J. G. Ballard) / essay by Anthony Burgess -- The Concentration City --
+                Manhole 69 -- The waiting grounds -- The sound sweep -- Chronopolis -- The Overloaded Man -- Billennium -- The insane ones --
+                The Garden of Time -- Thirteen to Centaurus -- Passport to eternity -- The Cage of Sand -- A question of re-entry -- The Terminal Beach -- 
                 The day of forever</subfield>
         </datafield>
         <datafield tag="700" ind1=" " ind2="2">
@@ -3787,21 +3777,11 @@
             <subfield code="a">An Orbit book</subfield>
         </datafield>
     </record>
-    
     <record>
         <leader>00790cam a2200241 i 4500</leader>
         <controlfield tag="001">1304678</controlfield>
         <controlfield tag="005">20090421105937.0</controlfield>
         <controlfield tag="008">771223s1978    nyu           000 1 eng  </controlfield>
-        <datafield tag="906" ind1=" " ind2=" ">
-            <subfield code="a">7</subfield>
-            <subfield code="b">cbc</subfield>
-            <subfield code="c">orignew</subfield>
-            <subfield code="d">1</subfield>
-            <subfield code="e">ocip</subfield>
-            <subfield code="f">19</subfield>
-            <subfield code="g">y-gencatlg</subfield>
-        </datafield>
         <datafield tag="010" ind1=" " ind2=" ">
             <subfield code="a">   77028234 </subfield>
         </datafield>
@@ -3828,12 +3808,15 @@
             <subfield code="a">823/.9/14</subfield>
         </datafield>
         <datafield tag="100" ind1="1" ind2=" ">
-            <subfield code="a">Ballard, J. G.,</subfield>
-            <subfield code="d">1930-2009.</subfield>
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="1">http://viaf.org/viaf/9842556</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
         </datafield>
-        <datafield tag="240" ind1="1" ind2="0">
-            <subfield code="a">Short stories.</subfield>
-            <subfield code="k">Selections</subfield>
+        <datafield tag="240" ind1="0" ind2="0">
+            <subfield code="a">The best of J. G. Ballard</subfield>
+            <subfield code="k">Collection</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/pl.cgi?279033</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="4">
             <subfield code="a">The best short stories of J.G. Ballard.</subfield>
@@ -3850,14 +3833,167 @@
             <subfield code="a">ix, 302 p. ;</subfield>
             <subfield code="c">24 cm.</subfield>
         </datafield>
-
-        <datafield tag="991" ind1=" " ind2=" ">
-            <subfield code="b">c-GenColl</subfield>
-            <subfield code="h">PZ4.B1893</subfield>
-            <subfield code="i">Be 1978</subfield>
-            <subfield code="p">00022766284</subfield>
-            <subfield code="t">Copy 1</subfield>
-            <subfield code="w">BOOKS</subfield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="505" ind1=" " ind2=" ">
+            <subfield code="a">Introduction (The Best Short Stories of J. G. Ballard) / essay by Anthony Burgess -- The Concentration City --
+                Manhole 69 -- Chronopolis -- The Voices of Time -- Deep End -- The Overloaded Man --  Billennium -- The Garden of Time --  Thirteen to Centaurus -- 
+                The Subliminal Man -- The Cage of Sand -- The Drowned Giant -- The Terminal Beach -- The Cloud-Sculptors of Coral D -- The Assassination of John Fitzgerald Kennedy Considered As a Downhill Motor Race --
+                The Atrocity Exhibition -- Plan for the Assassination of Jacqueline Kennedy -- Why I Want to Fuck Ronald Reagan </subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The concentration city</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?44451</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">Manhole 69</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?44454</subfield>
+        </datafield>
+        <datafield tag="700" ind1="0" ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="t">Chronopolis</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?41557</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The voices of time</subfield>
+            <subfield code="1">http://viaf.org/viaf/311471559</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">Deep end</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?44457</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The overloaded man</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?57613</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">Billenium</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?65075</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The garden of time</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?44458</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">Thirteen to Centaurus</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?57628</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The subliminal man</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?44459</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The cage of sand</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?44123</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">End-game</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?57586</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The drowned giant</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?43949</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The terminal beach</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?37126</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The cloud-sculptors of Coral D</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?54044</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The assassination of John Fitzgerald Kennedy considered as a downhill motor race</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?57579</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">The atrocity exhibition</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?57580</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">Plan for the Assassination of Jacqueline Kennedy</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?57616</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">Ballard, J. G.</subfield>
+            <subfield code="d">1930-2009</subfield>
+            <subfield code="k">Short story</subfield>
+            <subfield code="t">Why I want to fuck Ronald Reagan</subfield>
+            <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?1274485</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Burgess, Anthony</subfield>
+            <subfield code="4">aui</subfield>
+            <subfield code="1">http://viaf.org/viaf/71388189</subfield>
         </datafield>
     </record>
     <record>
@@ -3888,10 +4024,10 @@
             <subfield code="1">http://viaf.org/viaf/9842556</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
         </datafield>
-        <datafield tag="240" ind1="1" ind2="0">
+        <datafield tag="240" ind1="0" ind2="0">
             <subfield code="a">The best short stories of J.G. Ballard</subfield>
             <subfield code="k">Collection</subfield>
-            <subfield code="1">http://viaf.org/viaf/9842556/bestof95</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/pl.cgi?279033</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="4">
             <subfield code="a">The best short stories of J.G. Ballard /</subfield>
@@ -3908,6 +4044,24 @@
         <datafield tag="300" ind1=" " ind2=" ">
             <subfield code="a">xiii, 302 p. ;</subfield>
             <subfield code="c">23 cm.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
         </datafield>
         <datafield tag="500" ind1=" " ind2=" ">
             <subfield code="a">&quot;An Owl book.&quot;</subfield>
@@ -4075,25 +4229,647 @@
             <subfield code="t">Copy 1</subfield>
             <subfield code="w">BOOKS</subfield>
         </datafield>
-        <!-- vii • Introduction (The Best Short Stories of J. G. Ballard) • (1978) • essay by Anthony Burgess
-1 • The Concentration City • (1957) • short story by J. G. Ballard (variant of Build-Up)
-21 • Manhole 69 • (1957) • short story by J. G. Ballard
-43 • Chronopolis • (1960) • novelette by J. G. Ballard
-67 • The Voices of Time • (1960) • novelette by J. G. Ballard
-100 • Deep End • (1961) • short story by J. G. Ballard
-112 • The Overloaded Man • (1961) • short story by J. G. Ballard
-125 • Billennium • (1961) • short story by J. G. Ballard
-141 • The Garden of Time • (1962) • short story by J. G. Ballard
-149 • Thirteen to Centaurus • (1962) • novelette by J. G. Ballard
-171 • The Subliminal Man • (1963) • short story by J. G. Ballard
-189 • The Cage of Sand • (1962) • novelette by J. G. Ballard
-212 • End-Game • (1963) • novelette by J. G. Ballard
-233 • The Drowned Giant • (1964) • short story by J. G. Ballard
-244 • The Terminal Beach • (1964) • novelette by J. G. Ballard
-265 • The Cloud-Sculptors of Coral D • [Vermilion Sands] • (1967) • short story by J. G. Ballard
-281 • The Assassination of John Fitzgerald Kennedy Considered As a Downhill Motor Race • (1966) • short story by J. G. Ballard
-284 • The Atrocity Exhibition • (1966) • short story by J. G. Ballard
-295 • Plan for the Assassination of Jacqueline Kennedy • (1966) • short story by J. G. Ballard
-299 • Why I Want to Fuck Ronald Reagan • (1968) • short story by J. G. Ballard -->
+    </record>
+    <!-- other works with the title chronopolis -->
+    <record>
+        <leader>01137nam a22003371i 4500</leader>
+        <controlfield tag="001">016301958</controlfield>
+        <controlfield tag="003">Uk</controlfield>
+        <controlfield tag="005">20150925092428.0</controlfield>
+        <controlfield tag="008">130709s2014    enk           000|f|eng|d</controlfield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GBB5D4649</subfield>
+            <subfield code="2">bnb</subfield>
+        </datafield>
+        <datafield tag="016" ind1="7" ind2=" ">
+            <subfield code="a">016301958</subfield>
+            <subfield code="2">Uk</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780575103160 (paperback) :</subfield>
+            <subfield code="c">£18.99</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9781473201941 (ePub ebook) :</subfield>
+            <subfield code="c">No price</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">StDuBDS</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">StDuBDS</subfield>
+            <subfield code="e">rda</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">ukblsr</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823.914</subfield>
+            <subfield code="2">23</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Bayley, Barrington J.,</subfield>
+            <subfield code="e">author.</subfield>
+            <subfield code="1">http://viaf.org/viaf/84181241</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="0" ind2="0">
+            <subfield code="a">Barrington Bayley SF gateway omnibus</subfield>
+            <subfield code="k">Collection</subfield>
+            <subfield code="1">http://viaf.org/viaf/84181241/gateway</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Barrington Bayley SF gateway omnibus.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Gollancz,</subfield>
+            <subfield code="c">2014.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">x, 479 pages ;</subfield>
+            <subfield code="c">24 cm</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes QR codes.</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">The soul of the robot -- The knights of the limits -- The fall of Chronopolis.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Science fiction, English.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bayley, Barrington J.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">Fall of Chronopolis.</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?4537</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bayley, Barrington J.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">Knights of the limits.</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?37224</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bayley, Barrington J.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">Soul of the robot.</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?4531</subfield>
+        </datafield>
+        <datafield tag="852" ind1="4" ind2="1">
+            <subfield code="a">British Library</subfield>
+            <subfield code="b">HMNTS</subfield>
+            <subfield code="j">H.2014/.8958</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00845 am a2200289ui 4500</leader>
+        <controlfield tag="001">009371738</controlfield>
+        <controlfield tag="005">20091214050800.0</controlfield>
+        <controlfield tag="008">800721r19801979xxc    ||     000 1|eng  </controlfield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GB8016794</subfield>
+            <subfield code="2">bnb</subfield>
+        </datafield>
+        <datafield tag="019" ind1="1" ind2=" ">
+            <subfield code="a">0006149081</subfield>
+        </datafield>
+        <datafield tag="019" ind1="9" ind2=" ">
+            <subfield code="a">0006149081</subfield>
+        </datafield>
+        <datafield tag="019" ind1="y" ind2=" ">
+            <subfield code="a">B8016794</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0006149081 (pbk) :</subfield>
+            <subfield code="c">£0.90</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">Uk</subfield>
+            <subfield code="c">Uk</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823/.9/1</subfield>
+            <subfield code="2">18</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Bayley, Barrington J.</subfield>
+            <subfield code="1">http://viaf.org/viaf/84181241</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="2">
+            <subfield code="a">Fall of Chronopolis.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?4537</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The fall of Chronopolis /</subfield>
+            <subfield code="c">Barrington Bayley.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Glasgow :</subfield>
+            <subfield code="b">Fontana,</subfield>
+            <subfield code="c">1980.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">191p. ;</subfield>
+            <subfield code="c">18cm.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Originally published : London : Allison and Busby, 1979.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Fiction in English.</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">Fiction in English</subfield>
+            <subfield code="a">1900-</subfield>
+            <subfield code="a">Texts</subfield>
+        </datafield>
+        <datafield tag="852" ind1="4" ind2="1">
+            <subfield code="a">British Library</subfield>
+            <subfield code="b">HMNTS</subfield>
+            <subfield code="j">H.80/452</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>04732cam a2200445 i 4500</leader>
+        <controlfield tag="001">17946229</controlfield>
+        <controlfield tag="005">20180824132005.0</controlfield>
+        <controlfield tag="008">131118s2014    inua     b    001 0 eng  </controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2013032058</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781557536648 (pbk.)</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9781612493015 (epdf)</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9781612493022 (epub)</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="d">DLC</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+        </datafield>
+        <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">Z667</subfield>
+            <subfield code="b">.R47 2014</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">025.04</subfield>
+            <subfield code="2">23</subfield>
+        </datafield>
+        <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">BUS083000</subfield>
+            <subfield code="a">REF020000</subfield>
+            <subfield code="2">bisacsh</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Ray, Joyce M.</subfield>
+            <subfield code="1">http://viaf.org/viaf/43347281</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10055</subfield>
+            <subfield code="8">p</subfield>
+        </datafield>
+        <datafield tag="240" ind1="0" ind2="0">
+            <subfield code="a">Research data management : practical strategies for information professionals</subfield>
+            <subfield code="k">Collection</subfield>
+            <subfield code="1">http://viaf.org/viaf/43347281/researchdatamanagement</subfield>
+            <subfield code="8">p</subfield>
+        </datafield>
+        <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Research data management :</subfield>
+            <subfield code="b">practical strategies for information professionals /</subfield>
+            <subfield code="c">edited by Joyce M. Ray.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">West Lafayette, Indiana :</subfield>
+            <subfield code="b">Purdue University Press,</subfield>
+            <subfield code="c">[2014]</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">436 pages :</subfield>
+            <subfield code="b">illustrations ;</subfield>
+            <subfield code="c">23 cm.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Charleston insights in library, archival, and information sciences</subfield>
+        </datafield>
+        <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index.</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">The policy and institutional framework / James L. Mullins -- Data governance : where technology and policy collide / MacKenzie Smith -- The use of life cycle models in developing and supporting data services / Jake Carlson -- Data management assessment and planning tools / Andrew Sallans and Sherry Lake -- Trustworthy data repositories : the value and benefits of auditing and certification / Bernard F. Reilly, Jr. and Marie E. Waltz -- Copyright, open data, and the availability-usability gap : challenges, opportunities, and approaches for libraries / Melissa Levine -- Metadata services / Jenn Riley -- Data citation : principles and practice / Jan Brase, Yvonne Socha, Sarah Callaghan, Christine Borgman, Paul Uhlir, and Bonnie Carroll -- Assimilating digital repositories into the active research process / Tyler Walters -- Partnering to curate and archive social science data / Jared Lyle, George Alter, and Ann Green -- Managing and archiving research data : local repository and Cloud-based practices / Michele Kimpton and Carol Minton Morris -- Chronopolis repository services / David Minor, Brian E. C. Schottlaender, and Ardys Kozbial -- Evaluating a complex project : DataONE / Suzanne Allard -- What to measure? : toward metrics for research data management / Angus Whyte, Laura Molloy, Neil Beagrie, and John Houghton -- An institutional perspective on data curation services : a view from Cornell University / Gail Steinhart -- Purdue University Research Repository : collaborations in data management / D. Scott Brandt -- Data curation for the humanities : perspectives from Rice University / Geneva Henry -- Developing data management services for researchers at the University of Oregon / Brian Westra.</subfield>
+        </datafield>
+        <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">&quot;It has become increasingly accepted that important digital data must be retained and shared in order to preserve and promote knowledge, advance research in and across all disciplines of scholarly endeavor, and maximize the return on investment of public funds. To meet this challenge, colleges and universities are adding data services to existing infrastructures by drawing on the expertise of information professionals who are already involved in the acquisition, management and preservation of data in their daily jobs. Data services include planning and implementing good data management practices, thereby increasing researchers' ability to compete for grant funding and ensuring that data collections with continuing value are preserved for reuse. This volume provides a framework to guide information professionals in academic libraries, presses, and data centers through the process of managing research data from the planning stages through the life of a grant project and beyond. It illustrates principles of good practice with use-case examples and illuminates promising data service models through case studies of innovative, successful projects and collaborations&quot;--</subfield>
+            <subfield code="c">Provided by publisher.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Communication in learning and scholarship</subfield>
+            <subfield code="x">Technological innovations.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Digital libraries</subfield>
+            <subfield code="x">Management.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Electronic information resources</subfield>
+            <subfield code="x">Management.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Information storage and retrieval systems.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Institutional repositories.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Libraries and scholars.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Research</subfield>
+            <subfield code="x">Information services.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">BUSINESS &amp; ECONOMICS / Information Management.</subfield>
+            <subfield code="2">bisacsh</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">REFERENCE / Research.</subfield>
+            <subfield code="2">bisacsh</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2="2">
+            <subfield code="a">David Minor, Brian E. C. Schottlaender, and Ardys Kozbial</subfield>
+            <subfield code="k">Non-fiction</subfield>
+            <subfield code="t">Chronopolis repository service</subfield>
+            <subfield code="1">http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis</subfield>
+            <subfield code="8">1/c</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">Minor, David</subfield>
+            <subfield code="1">http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis/1</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+            <subfield code="8">1/c</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">Schottlaender, Brian E. C.</subfield>
+            <subfield code="1">http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis/2</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+            <subfield code="8">1/c</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">Kozbial, Ardys</subfield>
+            <subfield code="1">http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis/3</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+            <subfield code="8">1/c</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>02335cam a2200385 i 4500</leader>
+        <controlfield tag="001">18980892</controlfield>
+        <controlfield tag="005">20210210155350.0</controlfield>
+        <controlfield tag="006">m    |o  d |      </controlfield>
+        <controlfield tag="007">cr_|||||||||||</controlfield>
+        <controlfield tag="008">160219s2016    enk     ob    001 0 eng  </controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2016008546</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781783488025</subfield>
+            <subfield code="q">(electronic)</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9781783488001</subfield>
+            <subfield code="q">(cloth ;</subfield>
+            <subfield code="q">alk. paper)</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">DLC</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">DLC</subfield>
+            <subfield code="d">DLC</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">pcc</subfield>
+        </datafield>
+        <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-uk--en</subfield>
+        </datafield>
+        <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PN56.A5</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">303.3/3</subfield>
+            <subfield code="2">23</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Beckman, Frida,</subfield>
+            <subfield code="e">author.</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Culture control critique :</subfield>
+            <subfield code="b">allegories of reading the present /</subfield>
+            <subfield code="c">Frida Beckman.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">London ;</subfield>
+            <subfield code="a">New York :</subfield>
+            <subfield code="b">Rowman &amp; Littlefield International,</subfield>
+            <subfield code="c">[2016]</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 online resource.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">computer</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1003</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">online resource</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1018</subfield>
+        </datafield>
+        <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index.</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Introduction -- Culture, control, critique. Cultural critique from the Frankfurt School until today -- Formalism, allegory, totality. Allegory and representation -- Allegory and the present -- Space, allegory, control. Spatial preoccupations -- Celebrating ruins: The drowned world, The drought, The crystal world -- Filling the gaps: Crash, Concrete island, High rise -- Coming into allegory: Cocaine nights, Super-Cannes, Millennium people, Kingdom come -- Totalities, allegories and revolutions -- Cultural critique and form -- Time, allegory, control. Timely preoccupations -- In and out of time: &quot;Chronopolis&quot; and in time -- Cultural critique and form -- Vision, allegory, control. Visual preoccupations -- bread and circuses: The hunger games -- Cultural critique and form -- Conclusion.</subfield>
+        </datafield>
+        <datafield tag="588" ind1=" " ind2=" ">
+            <subfield code="a">Description based on print version record and CIP data provided by publisher.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Allegories.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">English fiction</subfield>
+            <subfield code="y">20th century</subfield>
+            <subfield code="x">History and criticism.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Motion pictures</subfield>
+            <subfield code="x">Political aspects</subfield>
+            <subfield code="x">History and criticism.</subfield>
+        </datafield>
+        <datafield tag="776" ind1="0" ind2="8">
+            <subfield code="i">Print version:</subfield>
+            <subfield code="a">Beckman, Frida, author.</subfield>
+            <subfield code="t">Culture control critique</subfield>
+            <subfield code="d">London ; New York : Rowman &amp; Littlefield International, 2016</subfield>
+            <subfield code="z">9781783488001</subfield>
+            <subfield code="w">(DLC)  2015047395</subfield>
+        </datafield>
+        <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">origcop</subfield>
+            <subfield code="d">1</subfield>
+            <subfield code="e">ecip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+        </datafield>
+        <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="e">ecip book</subfield>
+            <subfield code="x">policy default</subfield>
+        </datafield>
+        <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="a">ecip ebook 2016-02-19</subfield>
+            <subfield code="f">rm16 2020-12-21 to book rec'd (TW Situational)</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>02306cjm a2200505 a 4500</leader>
+        <controlfield tag="001">17654605</controlfield>
+        <controlfield tag="005">20230712134811.0</controlfield>
+        <controlfield tag="007">sd fsngnnmmned</controlfield>
+        <controlfield tag="008">130311p20112007launcn|  efi      | zxx d</controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2013617394</subfield>
+        </datafield>
+        <datafield tag="024" ind1="1" ind2=" ">
+            <subfield code="a">044747309125</subfield>
+        </datafield>
+        <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">CRC 3091</subfield>
+            <subfield code="b">Centaur</subfield>
+        </datafield>
+        <datafield tag="033" ind1="2" ind2=" ">
+            <subfield code="a">2007----</subfield>
+            <subfield code="a">2009----</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)ocn727712075</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">BTCTA</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">BTCTA</subfield>
+            <subfield code="d">TDF</subfield>
+            <subfield code="d">CIN</subfield>
+            <subfield code="d">DLC</subfield>
+        </datafield>
+        <datafield tag="041" ind1="0" ind2=" ">
+            <subfield code="g">eng</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+        </datafield>
+        <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">SDC 23099</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Cella, Lisa.</subfield>
+            <subfield code="1">https://isni.org/isni/0000000033066226</subfield>
+            <subfield code="4">prf</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20020</subfield>
+        </datafield>
+        <datafield tag="240" ind1="0" ind2="4">
+            <subfield code="a">The isle is full of noises</subfield>
+            <subfield code="k">Collection</subfield>
+            <subfield code="1">https://isni.org/isni/0000000033066226/islenoise</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The isle is full of noises</subfield>
+            <subfield code="h">[sound recording].</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Baton Rouge, La.] :</subfield>
+            <subfield code="b">Centaur,</subfield>
+            <subfield code="c">p2010.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 sound disc (62 min., 12 sec.) :</subfield>
+            <subfield code="b">digital ;</subfield>
+            <subfield code="c">4 3/4 in.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">performed music</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1011</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">audio</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1001</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">compact disc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1013</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Compact disc.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Eds. recorded: Smith Publications (1st, 5th works); Rugginenti Editions (6th work).</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Program and biographical notes in English (5 p.) in container.</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Nocturno for solo alto flute / by Mario Lavista (5:55) -- 
+                Fictions : eight pieces for solo flute / by Christopher Wendell Jones (7:41) -- 
+                [ga]:[ge]:[go]:[gu] : for bass flute and computer / by David Kim-Boyle (11:32) -- 
+                Re : for solo piccolo / by Steven Hoey (9:33) -- 
+                Family portraits. Embden Pond : for alto flute and two vibraphones / by Stuart Saunders Smith (12:29) -- Chronopolis : for solo flute / by Franklin Cox (15:00).</subfield>
+        </datafield>
+        <datafield tag="511" ind1="0" ind2=" ">
+            <subfield code="a">Lisa Cella, flute ; Tom Goldstein, Sylvia Smith, vibraphones (5th work).</subfield>
+        </datafield>
+        <datafield tag="518" ind1=" " ind2=" ">
+            <subfield code="a">Recorded 2007-2009.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Alto flute music.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Bass flute and electronic music.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Flute music.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Piccolo music.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Trios (Flute, vibraphones (2))</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Goldstein, Thomas</subfield>
+            <subfield code="c">(Percussionist)</subfield>
+            <subfield code="4">prf</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Smith, Sylvia H.</subfield>
+            <subfield code="4">prf</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="0">
+            <subfield code="a">Cox, Frank,</subfield>
+            <subfield code="d">1961-</subfield>
+            <subfield code="t">Chronopolis.</subfield>
+            <subfield code="1">https://en.wikipedia.org/wiki/Franklin_Cox</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10053</subfield>
+            <subfield code="8">c/1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Cox, Frank,</subfield>
+            <subfield code="k"></subfield>
+            <subfield code="t">Chronopolis</subfield>
+            <subfield code="1">https://en.wikipedia.org/wiki/Franklin_Cox/chronopolis</subfield>
+            <subfield code="8">c/1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Hoey, Steven.</subfield>
+            <subfield code="t">Re.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Jones, Christopher Wendell.</subfield>
+            <subfield code="t">Fictions.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Kim-Boyle, David Robert.</subfield>
+            <subfield code="t">[ga]:[ge]:[go]:[gu]</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Lavista, Mario,</subfield>
+            <subfield code="d">1943-2021.</subfield>
+            <subfield code="t">Nocturne,</subfield>
+            <subfield code="m">flute.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Smith, Stuart Saunders,</subfield>
+            <subfield code="d">1948-</subfield>
+            <subfield code="t">Family portraits.</subfield>
+            <subfield code="p">Embden Pond.</subfield>
+        </datafield>
     </record>
 </collection>
