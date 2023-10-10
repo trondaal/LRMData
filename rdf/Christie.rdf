@@ -157,11 +157,6 @@
       <rdfs:label>Classic tales of mystery (Douglas, Traci L.)</rdfs:label>
       <rdaxd:P00029>Collection</rdaxd:P00029>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/185057844"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/5243165573959737800001"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/205790185"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/298756107"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/174556225"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/308552019">
       <rdaxd:P00018>http://viaf.org/viaf/308552019</rdaxd:P00018>
@@ -290,18 +285,6 @@
       <rdaxd:P00029>Collection</rdaxd:P00029>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="https://isni.org/isni/0000000121022127"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/890516466190110339000601"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/8905164661901103390006/02"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/8905164661901103390006/03"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/8905164661901103390006/04"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/8905164661901103390006/05"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/8905164661901103390006/06"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/8905164661901103390006/07"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/8905164661901103390006/08"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/8905164661901103390006/09"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/8905164661901103390006/10"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/8905164661901103390006/11"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/8905164661901103390006/12"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/8905164661901103390006/02">
       <rdaxd:P00018>http://viaf.org/viaf/8905164661901103390006/02</rdaxd:P00018>
@@ -657,18 +640,18 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/299042726/classictales/exp/eng/1020">
       <rdaed:P20316>Classic tales of mystery</rdaed:P20316>
-      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaxd:P00029>collection</rdaxd:P00029>
       <rdaed:P20312>Classic tales of mystery</rdaed:P20312>
       <rdfs:label>Classic tales of mystery / eng / text</rdfs:label>
       <rdaed:P20071>The murder on the links / Agatha Christie -- Whose body? / Dorothy L. Sayers -- The thirty-nine steps / John Buchan -- The Antarctic mystery / Jules Verne -- Room 13 / Edgar Wallace.</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/185057844/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/5243165573959737800001/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/205790185/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/298756107/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/174556225/exp/eng/1020"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/299042726/classictales"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/185057844/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/5243165573959737800001/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/205790185/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/298756107/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/174556225/exp/eng/1020"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/308552019/exp/eng/1020">
       <rdaed:P20312>ABC murders</rdaed:P20312>
@@ -884,7 +867,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/8905164661901103390006/exp/eng/1020">
       <rdaed:P20316>The hound of death, and other stories</rdaed:P20316>
-      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaxd:P00029>collection</rdaxd:P00029>
       <rdaed:P20312>The hound of death</rdaed:P20312>
       <rdfs:label>The hound of death / text</rdfs:label>
       <rdaed:P20312>The hound of death, and other stories</rdaed:P20312>
@@ -893,19 +876,19 @@
       <rdaed:P20315>The hound of death, and other stories</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/890516466190110339000601/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/8905164661901103390006/02/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/8905164661901103390006/03/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/8905164661901103390006/04/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/8905164661901103390006/05/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/8905164661901103390006/06/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/8905164661901103390006/07/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/8905164661901103390006/08/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/8905164661901103390006/09/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/8905164661901103390006/10/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/8905164661901103390006/11/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/8905164661901103390006/12/exp/eng/1020"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/8905164661901103390006"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/890516466190110339000601/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/8905164661901103390006/02/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/8905164661901103390006/03/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/8905164661901103390006/04/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/8905164661901103390006/05/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/8905164661901103390006/06/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/8905164661901103390006/07/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/8905164661901103390006/08/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/8905164661901103390006/09/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/8905164661901103390006/10/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/8905164661901103390006/11/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/8905164661901103390006/12/exp/eng/1020"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/890516466190110339000601/exp/eng/1020">
       <rdaed:P20316>The Hound of Death</rdaed:P20316>

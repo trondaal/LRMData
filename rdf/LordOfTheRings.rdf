@@ -92,6 +92,16 @@
       <rdawo:P10122 rdf:resource="http://www.wikidata.org/entity/Q332388"/>
       <rdawo:P10122 rdf:resource="http://www.wikidata.org/entity/Q74287"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.wikidata.org/entity/Q503325">
+      <rdaxd:P00018>http://www.wikidata.org/entity/Q503325</rdaxd:P00018>
+      <rdawd:P10088>The war of the ring</rdawd:P10088>
+      <rdfs:label>The war of the ring (Tolkien, J. R. R.)</rdfs:label>
+      <rdaxd:P00029>Novel</rdaxd:P00029>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10055 rdf:resource="http://viaf.org/viaf/12315790"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/95218067"/>
+      <rdawo:P10257 rdf:resource="http://www.wikidata.org/entity/Q15228"/>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://www.wikidata.org/entity/Q74287">
       <rdaxd:P00018>http://www.wikidata.org/entity/Q74287</rdaxd:P00018>
       <rdawd:P10088>The hobbit, or there and back again</rdawd:P10088>
@@ -117,6 +127,11 @@
       <rdaxd:P00018>http://viaf.org/viaf/1169314213724530007</rdaxd:P00018>
       <rdaad:P50385>Grønnvik, Oddrun</rdaad:P50385>
       <rdfs:label>Grønnvik, Oddrun</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/12315790">
+      <rdaxd:P00018>http://viaf.org/viaf/12315790</rdaxd:P00018>
+      <rdaad:P50385>Tolkien, Christopher</rdaad:P50385>
+      <rdfs:label>Tolkien, Christopher</rdfs:label>
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://viaf.org/viaf/14887593">
       <rdaxd:P00018>http://viaf.org/viaf/14887593</rdaxd:P00018>
@@ -391,6 +406,14 @@
       <rdaeo:P20141 rdf:resource="http://www.wikidata.org/entity/Q332581/exp/eng/1020"/>
       <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q332581"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q503325/exp/eng/1020">
+      <rdaed:P20316>The war of the ring</rdaed:P20316>
+      <rdaed:P20312>The war of the ring</rdaed:P20312>
+      <rdfs:label>The war of the ring / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q503325"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q74287/exp/eng/1014/1020/102370266/85751968">
       <rdaed:P20316>The hobbit, or there and back again</rdaed:P20316>
       <rdaed:P20312>The hobbit , or there and back again : [an illustrated edition of the fantasy classic]</rdaed:P20312>
@@ -526,6 +549,31 @@
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332581/exp/eng/1020"/>
    </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/019684439">
+      <rdamd:P30156>The war of the ring</rdamd:P30156>
+      <rdamd:P30117>J.R.R. Tolkien ; edited by Christopher Tolkien</rdamd:P30117>
+      <rdamd:P30107>[New] paperback edition</rdamd:P30107>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : HarperCollins Publishers, 2002.</rdamd:P30111>
+      <rdamd:P30083>HarperCollins Publishers</rdamd:P30083>
+      <rdamd:P30011>2002</rdamd:P30011>
+      <rdamd:P30007>©1990</rdamd:P30007>
+      <rdamd:P30182>xi, 476 pages : illustrations, maps, 20 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>The history of the Lord of the rings ;</rdamd:P30106>
+      <rdamd:P30165>part 3</rdamd:P30165>
+      <rdamd:P30106>The history of Middle-earth ;</rdamd:P30106>
+      <rdamd:P30165>8</rdamd:P30165>
+      <rdamd:P30137>"This paperback edition 2002." --Title page verso.</rdamd:P30137>
+      <rdamd:P30137>First published in Great Britain: London, Unwin Hyman, 1990. Previously published in paperback by Grafton 1992. First published in paperback by HarperCollins Publishers 1997.</rdamd:P30137>
+      <rdamd:P30137>Also issued as part of a 4 volumes set in slip-case with slip-case title: The history of the Lord of the rings.</rdamd:P30137>
+      <rdamd:P30137>Includes index.</rdamd:P30137>
+      <rdamd:P30137>ISBN is of 1992 Grafton edition.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q503325/exp/eng/1020"/>
+   </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-000720308">
       <rdamd:P30004>ISBN 000720308X (hbk.) :</rdamd:P30004>
       <rdaxd:P00018>isbn-000720308</rdaxd:P00018>
@@ -586,6 +634,24 @@
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q208002/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332388/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332581/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0044403984">
+      <rdamd:P30004>ISBN 0044403984</rdamd:P30004>
+      <rdaxd:P00018>isbn-0044403984</rdaxd:P00018>
+      <rdfs:label>ISBN0044403984</rdfs:label>
+      <rdamd:P30156>The lost road and other writings</rdamd:P30156>
+      <rdamd:P30142>language and legend before 'The Lord of the Rings'</rdamd:P30142>
+      <rdamd:P30117>J.R.R. Tolkien ; edited by Christopher Tolkien</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Unwin Paperbacks, 1989.</rdamd:P30111>
+      <rdamd:P30083>Unwin Paperbacks</rdamd:P30083>
+      <rdamd:P30011>1989</rdamd:P30011>
+      <rdamd:P30182>455 p. : maps, 20 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>Part one : The Fall of Numenor and The lost road -- Part two : Valinor and Middle Earth before The lord of the rings -- Part three : The etymologies</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0048230464">
       <rdamd:P30004>ISBN 0048230464</rdamd:P30004>

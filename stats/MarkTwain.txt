@@ -17,6 +17,7 @@ Agenter identifisert med URI
 * http://viaf.org/viaf/100175928 (700) : Crane, Stephen
 * http://viaf.org/viaf/270703833 (700) : Dawson, Emma Frances
 * http://viaf.org/viaf/49205550 (700) : Eddison, Eric Rücker
+* http://viaf.org/viaf/227145541821196601497 (600) : Finn, Huckleberry
 * http://viaf.org/viaf/59083135 (700) : Gilman, Charlotte Perkins
 * http://viaf.org/viaf/34528021 (700) : Gooder, R. D
 * http://viaf.org/viaf/36919188 (700) : Grahame, Kenneth
@@ -32,6 +33,7 @@ Agenter identifisert med URI
 * http://viaf.org/viaf/95207986 (700) : Stevenson, Robert Louis
 * http://viaf.org/viaf/93869368 (700) : Stoneley, Peter
 * http://viaf.org/viaf/110033000 (700) : Thorp, Willard
+* http://viaf.org/viaf/40149485617893421107 (600) : Tom Sawyer
 * http://viaf.org/viaf/50566653 (100, 700) : Twain, Mark
 * http://viaf.org/viaf/36956815 (700) : Warner, Charles Dudley
 * http://viaf.org/viaf/97006424 (700) : Wells, H. G
@@ -41,7 +43,6 @@ Agenter identifisert med URI
 Agent-innførsler som IKKE er identifiser med URI i $1
 men dere velger selv hvilke agenter som skal være med
 -------------------------------------------------------
-* 600  10  $aFinn, Huckleberry  $c(Fictitious character)  $vFiction.
 * 600  10  $aFinn, Huckleberry  $c(Fictitious character)  $vFiction.
 * 600  10  $aFinn, Huckleberry  $c(Fictitious character)  $vFiction.
 * 600  10  $aSawyer, Tom  $c(Fictitious character)  $vJuvenile fiction.
@@ -162,6 +163,7 @@ http://viaf.org/viaf/270703833 (700) : Dawson, Emma Frances
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/49205550 (700) : Eddison, Eric Rücker 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+http://viaf.org/viaf/227145541821196601497 (600) : Finn, Huckleberry 
 http://viaf.org/viaf/59083135 (700) : Gilman, Charlotte Perkins 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/34528021 (700) : Gooder, R. D 
@@ -195,6 +197,7 @@ http://viaf.org/viaf/93869368 (700) : Stoneley, Peter
 * http://rdaregistry.info/Elements/m/object/P30267 (has related agent of manifestation)
 http://viaf.org/viaf/110033000 (700) : Thorp, Willard 
 * http://rdaregistry.info/Elements/m/object/P30328 (has contributor agent of text)
+http://viaf.org/viaf/40149485617893421107 (600) : Tom Sawyer 
 http://viaf.org/viaf/50566653 (100, 700) : Twain, Mark 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/36956815 (700) : Warner, Charles Dudley 
@@ -335,7 +338,9 @@ I praksis er det 700-felter med ind2=2, $t og $1
 
 Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke analytter)
 -------------------------------------------------------
-Ser ut som dere mangler slike relasjoner? 
+001 = 020442241, The adventures of Huckleberry Finn / Twain, Mark, / Language-based work 
+* has subject agent -> Finn, Huckleberry (600)
+* has subject agent -> Tom Sawyer (600)
 
 
 Poster med felt hvor $4 burde vært med i 700 felt
