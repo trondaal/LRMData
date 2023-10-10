@@ -341,6 +341,9 @@
             <relationship type="http://rdaregistry.info/Elements/e/object/P20145" condition="$this_field/@ind1 != '0'" label="has part expression">
                 <target entity="MARC21-700-Expression-Analytical"/>
             </relationship>
+            <relationship type="http://rdaregistry.info/Elements/e/object/P20319" condition="$this_field/@ind1 eq '0'" label="aggregates">
+                <target entity="MARC21-700-Expression-Analytical"/>
+            </relationship>
             <relationship type="{$target_subfield}">
                 <target entity="MARC21-758-Related-Entity" condition="starts-with($target_subfield, 'http://rdaregistry.info/Elements/e/') and frbrizer:linked($anchor_field, $target_field, false())"/>
             </relationship>

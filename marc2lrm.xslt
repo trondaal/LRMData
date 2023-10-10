@@ -1057,6 +1057,26 @@
                      </frbrizer:relationship>
                   </xsl:for-each>
                </xsl:if>
+               <xsl:if test="$this_field/@ind1 eq '0'">
+                  <xsl:for-each select="$record/node()[@tag=('700','710','711','730')][exists(*:subfield[@code = '1']/starts-with(., 'http'))  and  @ind2='2' and (if (@tag eq '730') then true() else *:subfield/@code = 't')]">
+                     <xsl:variable name="target_template_name" select="'MARC21-700-Expression-Analytical'"/>
+                     <xsl:variable name="target_tag_value" select="'700, 710, 711, 730'"/>
+                     <xsl:variable name="target_field"
+                                   select="(ancestor-or-self::*:datafield, ancestor-or-self::*:controlfield)"/>
+                     <xsl:variable name="target_field_position"
+                                   as="xs:string"
+                                   select="string(position())"/>
+                     <frbrizer:relationship>
+                        <xsl:attribute name="type" select="'http://rdaregistry.info/Elements/e/object/P20319'"/>
+                        <xsl:attribute name="href"
+                                       select="string-join(($record/@id,$target_template_name,$target_tag_value,$target_field_position), ':')"/>
+                        <xsl:if test="$include_internal_key">
+                           <xsl:attribute name="intkey"
+                                          select="string-join(($record/@id,$target_template_name,$target_tag_value,$target_field_position), ':')"/>
+                        </xsl:if>
+                     </frbrizer:relationship>
+                  </xsl:for-each>
+               </xsl:if>
                <xsl:for-each select="$record/node()[@tag=('758')]">
                   <xsl:variable name="target_template_name" select="'MARC21-758-Related-Entity'"/>
                   <xsl:variable name="target_tag_value" select="'758'"/>

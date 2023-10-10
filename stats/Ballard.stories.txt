@@ -61,7 +61,7 @@ Verk identifisert med URI
 * http://viaf.org/viaf/172957858/culturecontrolcritique = Culture control critique : allegories of reading the present 
 * http://viaf.org/viaf/172957858/culturecontrolcritique/chronopolis = In and out of time: "Chronopolis" and in time 
 * http://viaf.org/viaf/180997771 = Empire of the sun (Fiction)
-* http://viaf.org/viaf/183421260 = Danger, Religion! 
+* http://viaf.org/viaf/183421260 = Danger, Religion! (Språkbasert verk)
 * http://viaf.org/viaf/183430784 = The four-dimensional nightmare (Fiction)
 * http://viaf.org/viaf/202977755 = Hello America (Fiction / Språkbasert verk)
 * http://viaf.org/viaf/305922109 = Crash (Fiction / Novel)
@@ -612,6 +612,7 @@ I praksis er det 700-felter med ind2=2, $t og $1
 001 = 017878414 
 * 240  04  $aThe inner landscape  $kCollection  $1http://example.com/innerlandscape
 * 245  04  $aThe inner landscape /  $cMervyn Peake, J. G. Ballard, Brian W. Aldiss.
+* 700  12  $aAldiss, Brian W.  $d1925-  $kShort story  $tDanger, Religion!  $1http://viaf.org/viaf/183421260 $81/c
 * 700  12  $aBallard, J. G.  $d1930-2009  $tThe voices of time  $1http://viaf.org/viaf/311471559
 * 700  12  $aPeake, Mervyn Laurence  $d1911-1968  $tBoy in darkness  $1http://viaf.org/viaf/309308512 $82/c
 001 = 4540466 
@@ -766,7 +767,7 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 245  00  $aResearch data management :  $bpractical strategies for information professionals /  $cedited by Joyce M. Ray.
 * 700  #2  $aDavid Minor, Brian E. C. Schottlaender, and Ardys Kozbial  $kNon-fiction  $tChronopolis repository service  $1http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis $81/c
 001 = 18980892 
-* 100  1#  $aBeckman, Frida,  $eauthor.  $1http://viaf.org/viaf/172957858  $4http://rdaregistry.info/Elements/w/object/P10061
+* 100  1#  $aBeckman, Frida  $eauthor.  $1http://viaf.org/viaf/172957858  $4http://rdaregistry.info/Elements/w/object/P10061
 * 240  10  $aCulture control critique : allegories of reading the present  $kNon-fiction  $1http://viaf.org/viaf/172957858/culturecontrolcritique
 * 245  10  $aCulture control critique :  $ballegories of reading the present /  $cFrida Beckman.
 * 700  12  $aBeckman, Frida  $kNon-fiction  $tIn and out of time: "Chronopolis" and in time  $1http://viaf.org/viaf/172957858/culturecontrolcritique/chronopolis
@@ -799,13 +800,6 @@ I praksis er det 700-felter med ind2=2, $t og $1
 Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke analytter)
 -------------------------------------------------------
 Ser ut som dere mangler slike relasjoner? 
-
-
-Poster med felt hvor $4 burde vært med i 700 felt
--------------------------------------------------------
-001  017878414 
-* 700  1#  $aAldiss, Brian W.  $d1925-  $kShort story  $tDanger, Religion!  $1http://viaf.org/viaf/183421260 $81/c
-
 
 
 Opplisting som viser bruken av 336 $a, $b, $0, $2
