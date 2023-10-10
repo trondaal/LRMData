@@ -4,13 +4,18 @@ BIB2201 rapport over datasamling - oppdatert 5/6
 -------------------------------------------------------
 
 
-Antall poster i samlingen:23
+Antall poster i samlingen:24
 -------------------------------------------------------
 
 
 Agenter identifisert med URI
 -------------------------------------------------------
+* http://viaf.org/viaf/66464527 (700) : Buchan, John
 * https://isni.org/isni/0000000121022127 (100) : Christie, Agatha
+* http://viaf.org/viaf/299042726 (100) : Douglas, Traci L
+* http://viaf.org/viaf/29540426 (700) : Sayers, Dorothy L
+* http://viaf.org/viaf/76323989 (700) : Verne, Jules
+* http://viaf.org/viaf/56617609 (700) : Wallace, Edgar
 
 
 Agent-innførsler som IKKE er identifiser med URI i $1
@@ -34,14 +39,19 @@ Verk identifisert med URI
 * http://viaf.org/viaf/1009145424587286830098 = Mystery of the blue train. (Language-based work)
 * http://viaf.org/viaf/12155103895976200651 = Murder in Mesopotamia. / Murder in Mesopotamia / Murder in Mesapotamia. (Language-based work)
 * http://viaf.org/viaf/174408071 = Hercule Poirot's Christmas. (Language-based work)
+* http://viaf.org/viaf/174556225 = Room 13. (Language-based work)
 * http://viaf.org/viaf/174999513 = Cat among the pigeons. (Language-based work)
 * http://viaf.org/viaf/176364162 = Secret adversary. (Language-based work)
 * http://viaf.org/viaf/180572444 = Why didn't they ask Evans?. (Language-based work)
 * http://viaf.org/viaf/1846151051771433530005 = The murder at the vicarage / / The murder at the vicarage (Language-based work)
 * http://viaf.org/viaf/184807703 = Evil under the sun. (Language-based work)
+* http://viaf.org/viaf/185057844 = Thirty-nine steps. (Language-based work)
 * http://viaf.org/viaf/186192338 = Hollow. (Language-based work)
+* http://viaf.org/viaf/205790185 = Whose body?. (Language-based work)
 * http://viaf.org/viaf/217048217 = Murder of Roger Ackroyd. (Language-based work)
 * http://viaf.org/viaf/228691003 = Mysterious affair at Styles. (Language-based work)
+* http://viaf.org/viaf/298756107 = Sphinx des glaces. (Language-based work)
+* http://viaf.org/viaf/299042726/classictales = Classic tales of mystery (Language-based work)
 * http://viaf.org/viaf/308552019 = ABC murders. (Language-based work)
 * http://viaf.org/viaf/309258229 = Death on the Nile / Death on the Nile. (Language-based work)
 * http://viaf.org/viaf/309260721 = Secret of Chimneys. / Secret of chimneys. (Language-based work)
@@ -101,12 +111,23 @@ Finner ingen MARC 21 relator koder i $4
 Oversikt over URI relasjonstyper for Agent brukt i samlingen
 verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 -------------------------------------------------------
-* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 23 
+* http://rdaregistry.info/Elements/m/object/P30329 (has creator agent of manifestation) : 1 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 27 
 
 
 Personer med URI og relasjonstyper som er brukt for disse
 -------------------------------------------------------
+http://viaf.org/viaf/66464527 (700) : Buchan, John 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 https://isni.org/isni/0000000121022127 (100) : Christie, Agatha 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+http://viaf.org/viaf/299042726 (100) : Douglas, Traci L 
+* http://rdaregistry.info/Elements/m/object/P30329 (has creator agent of manifestation)
+http://viaf.org/viaf/29540426 (700) : Sayers, Dorothy L 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+http://viaf.org/viaf/76323989 (700) : Verne, Jules 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+http://viaf.org/viaf/56617609 (700) : Wallace, Edgar 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 
 
@@ -232,6 +253,15 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  12  $aChristie, Agatha,  $d1890-1976.  $kShort story  $tThe Strange Case of Sir Arthur Carmichael  $1http://viaf.org/viaf/8905164661901103390006/09
 * 700  12  $aChristie, Agatha,  $d1890-1976.  $kShort story  $tThe Witness for the Prosecution  $1http://viaf.org/viaf/8905164661901103390006/07
 * 700  12  $aChristie, Agatha,  $d1890-1976.  $kShort story  $tWireless  $1http://viaf.org/viaf/8905164661901103390006/06
+001 = 020281292 
+* 100  1#  $aDouglas, Traci L.,  $d1968-  $eeditor.  $1http://viaf.org/viaf/299042726  $4http://rdaregistry.info/Elements/m/object/P30329
+* 240  #2  $aClassic tales of mystery  $kCollection  $1http://viaf.org/viaf/299042726/classictales
+* 245  00  $aClassic tales of mystery /  $ceditor: Traci Douglas.
+* 700  12  $aBuchan, John,  $d1875-1940.  $kNovel  $tThirty-nine steps.  $1http://viaf.org/viaf/185057844 $81/c
+* 700  12  $aChristie, Agatha,  $d1890-1976.  $tMurder on the links.  $1http://viaf.org/viaf/5243165573959737800001
+* 700  12  $aSayers, Dorothy L.  $d1893-1957.  $kNovel  $q(Dorothy Leigh),  $tWhose body?.  $1http://viaf.org/viaf/205790185 $83/c
+* 700  12  $aVerne, Jules,  $d1828-1905.  $kNovel  $lEnglish.  $tSphinx des glaces.  $1http://viaf.org/viaf/298756107 $84/c
+* 700  12  $aWallace, Edgar,  $d1875-1932.  $kNovel  $tRoom 13.  $1http://viaf.org/viaf/174556225 $85/c
 
 
 Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke analytter)

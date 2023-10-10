@@ -3240,6 +3240,56 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/174556225"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Room 13 (Wallace, Edgar)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/185057844"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Thirty-nine steps (Buchan, John)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/298756107"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Sphinx des glaces (Verne, Jules)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/299042726/classictales"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Classic tales of mystery (Douglas, Traci L.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/205790185"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Whose body? (Sayers, Dorothy L.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/54260077"
                 },
                 "label": {
@@ -3935,6 +3985,56 @@
                 "label": {
                     "type": "literal",
                     "value": "Edin, Fredrik"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/56617609"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Wallace, Edgar"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/66464527"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Buchan, John"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/76323989"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Verne, Jules"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/299042726"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Douglas, Traci L"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/29540426"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Sayers, Dorothy L"
                 }
             },
             {
@@ -5045,6 +5145,16 @@
                 "label": {
                     "type": "literal",
                     "value": "Murder on the links / text"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/5243165573959737800001/exp/eng/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Murder on the links / eng / text"
                 }
             },
             {
@@ -7590,6 +7700,56 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/174556225/exp/eng/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Room 13 / eng / text"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/185057844/exp/eng/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Thirty-nine steps / eng / text"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/205790185/exp/eng/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Whose body? / eng / text"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/298756107/exp/eng/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Sphinx des glaces / eng / text"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/299042726/classictales/exp/eng/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Classic tales of mystery / eng / text"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-0007119321"
                 },
                 "label": {
@@ -8715,6 +8875,16 @@
                 "label": {
                     "type": "literal",
                     "value": "ISBN9789178672677"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9781645178149"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN9781645178149"
                 }
             }
         ]
