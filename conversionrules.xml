@@ -755,6 +755,9 @@
             <relationship type="http://rdaregistry.info/Elements/e/datatype/P20001" label="has content type">
                 <target entity="MARC336" condition="frbrizer:linked($anchor_field, $target_field, false())"/>
             </relationship>
+            <relationship type="{$target_subfield}">
+                <target entity="MARC21-758-Related-Entity" condition="starts-with($target_subfield, 'http://rdaregistry.info/Elements/e/') and frbrizer:linked($anchor_field, $target_field, true())"/>
+            </relationship>
         </relationships>
     </entity>
     

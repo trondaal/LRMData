@@ -3037,6 +3037,35 @@
                   </xsl:if>
                </xsl:for-each>
             </xsl:for-each>
+            <xsl:for-each select="$record/node()[@tag=('758')]">
+               <xsl:variable name="target_template_name" select="'MARC21-758-Related-Entity'"/>
+               <xsl:variable name="target_tag_value" select="'758'"/>
+               <xsl:variable name="target_field"
+                             select="(ancestor-or-self::*:datafield, ancestor-or-self::*:controlfield)"/>
+               <xsl:variable name="target_field_position"
+                             as="xs:string"
+                             select="string(position())"/>
+               <xsl:for-each select="node()[@code=('4')][starts-with(., 'http') and exists($this_field/*:subfield[@code = '1']/starts-with(., 'http')) ]">
+                  <xsl:variable name="target_subfield" select="."/>
+                  <xsl:variable name="target_subfield_code"
+                                as="xs:string"
+                                select="$target_subfield/@code"/>
+                  <xsl:variable name="target_subfield_position"
+                                as="xs:string"
+                                select="string(position())"/>
+                  <xsl:if test="(starts-with($target_subfield, 'http://rdaregistry.info/Elements/e/') and frbrizer:linked($anchor_field, $target_field, true()))">
+                     <frbrizer:relationship>
+                        <xsl:attribute name="type" select="$target_subfield"/>
+                        <xsl:attribute name="href"
+                                       select="string-join(($record/@id,$target_template_name,$target_tag_value,$target_subfield_code,$target_field_position,$target_subfield_position), ':')"/>
+                        <xsl:if test="$include_internal_key">
+                           <xsl:attribute name="intkey"
+                                          select="string-join(($record/@id,$target_template_name,$target_tag_value,$target_subfield_code,$target_field_position,$target_subfield_position), ':')"/>
+                        </xsl:if>
+                     </frbrizer:relationship>
+                  </xsl:if>
+               </xsl:for-each>
+            </xsl:for-each>
          </xsl:element>
       </xsl:for-each>
    </xsl:template>
