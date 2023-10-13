@@ -418,7 +418,6 @@
       <rdawd:P10088>Murder on the Orient Express</rdawd:P10088>
       <rdfs:label>Murder on the Orient Express (Bennett, Richard Rodney.)</rdfs:label>
       <rdaxd:P00029>Music</rdaxd:P00029>
-      <rdfs:label>Murder on the Orient Express ()</rdfs:label>
       <rdawo:P10053 rdf:resource="http://viaf.org/viaf/61731028"/>
       <rdawo:P10238 rdf:resource="https://www.imdb.com/title/tt3402236"/>
    </rdac:C10001>
@@ -518,6 +517,13 @@
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="https://isni.org/isni/0000000121022127"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="https://isni.org/isni/0000000365729866/trio/corrientes">
+      <rdaxd:P00018>https://isni.org/isni/0000000365729866/trio/corrientes</rdaxd:P00018>
+      <rdawd:P10088>Corrientes</rdawd:P10088>
+      <rdfs:label>Corrientes (Per Einar Watle Trio)</rdfs:label>
+      <rdaxd:P00029>Collection</rdaxd:P00029>
+      <rdawo:P10058 rdf:resource="https://isni.org/isni/0000000365729866/trio"/>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="https://www.imdb.com/title/tt0071877">
       <rdaxd:P00018>https://www.imdb.com/title/tt0071877</rdaxd:P00018>
       <rdawd:P10088>Murder on the Orient Express</rdawd:P10088>
@@ -608,6 +614,11 @@
       <rdaad:P50385>Watle, Per Einar</rdaad:P50385>
       <rdfs:label>Watle, Per Einar</rdfs:label>
       <rdaad:P50339>1971-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="https://isni.org/isni/0000000365729866/trio">
+      <rdaxd:P00018>https://isni.org/isni/0000000365729866/trio</rdaxd:P00018>
+      <rdaad:P50385>Per Einar Watle Trio</rdaad:P50385>
+      <rdfs:label>Per Einar Watle Trio</rdfs:label>
    </rdac:C10002>
    <rdac:C10002 rdf:about="https://isni.org/isni/0000000368604401">
       <rdaxd:P00018>https://isni.org/isni/0000000368604401</rdaxd:P00018>
@@ -1134,25 +1145,17 @@
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Murder On The Orient Express (Theme)</rdaed:P20312>
       <rdfs:label>Murder On The Orient Express (Theme) / Music</rdfs:label>
-      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1010"/>
-      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9356154076013911860000"/>
-   </rdac:C10006>
-   <rdac:C10006 rdf:about="http://viaf.org/viaf/9356154076013911860000/exp/zxx/1010">
-      <rdaed:P20316>Murder on the Orient Express</rdaed:P20316>
-      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Murder on the Orient Express. Theme. &lt;Piano solo.&gt;</rdaed:P20312>
       <rdfs:label>Murder on the Orient Express. Theme. &lt;Piano solo.&gt; / notated music</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1010"/>
-      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/zxx"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9356154076013911860000"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="http://viaf.org/viaf/9356154076013911860000/exp/zxx/1011">
-      <rdaed:P20316>Murder on the Orient Express</rdaed:P20316>
-      <rdaxd:P00029>standalone</rdaxd:P00029>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/9356154076013911860000/exp/und/1011">
       <rdaed:P20312>Murder on the Orient Express</rdaed:P20312>
-      <rdfs:label>Murder on the Orient Express / performed music</rdfs:label>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Murder on the Orient Express / framført musikk</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
-      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/zxx"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/und"/>
       <rdaeo:P20039 rdf:resource="https://isni.org/isni/0000000361211867"/>
       <rdaeo:P20039 rdf:resource="https://isni.org/isni/0000000361531262"/>
       <rdaeo:P20039 rdf:resource="https://isni.org/isni/0000000365729866"/>
@@ -1325,6 +1328,21 @@
       <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/217048217/exp/eng/1020"/>
       <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/316741387/exp/eng/1020"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="https://isni.org/isni/0000000365729866/trio/corrientes/exp/und/1011">
+      <rdaed:P20316>Corrientes</rdaed:P20316>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>Corrientes</rdaed:P20312>
+      <rdfs:label>Corrientes / framført musikk</rdfs:label>
+      <rdaed:P20071>Swing for Simon -- Corrientes -- Lingo -- El Patio de Montserrat -- Bei Dir War Es Immer So Schön -- Here's That Rainy Day -- Yours is My Heart Alone -- Reine De Musette -- Melodie Concorde -- Murder On the Orient Express -- Dans monîle -- Choti</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/und"/>
+      <rdaeo:P20039 rdf:resource="https://isni.org/isni/0000000365729866/trio"/>
+      <rdaeo:P20039 rdf:resource="https://isni.org/isni/0000000361211867"/>
+      <rdaeo:P20039 rdf:resource="https://isni.org/isni/0000000361531262"/>
+      <rdaeo:P20039 rdf:resource="https://isni.org/isni/0000000365729866"/>
+      <rdaeo:P20231 rdf:resource="https://isni.org/isni/0000000365729866/trio/corrientes"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/9356154076013911860000/exp/und/1011"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="https://www.imdb.com/title/tt0071877/exp/1023">
       <rdaed:P20316>Murder on the Orient Express</rdaed:P20316>
       <rdaed:P20312>Murder on the orient express</rdaed:P20312>
@@ -1374,7 +1392,7 @@
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9356154076013911860000/exp/zxx/1010"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9356154076013911860000/exp/1010"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/019181043">
       <rdamd:P30156>Murder On The Orient Express (Theme)</rdamd:P30156>
@@ -1401,19 +1419,6 @@
       <rdamd:P30182>5 plater (DVD) : digital, 12 cm.</rdamd:P30182>
       <rdamd:P30137>SF Reg.nr. 53189</rdamd:P30137>
       <rdamo:P30139 rdf:resource="http://example.com/collections/christie/movies/exp/und"/>
-   </rdac:C10007>
-   <rdac:C10007 rdf:about="http://example.org/991007459034702202">
-      <rdamd:P30156>Murder on the Orient Express</rdamd:P30156>
-      <rdamd:P30117>Richard R. Bennett, Per Einar Watle Trio</rdamd:P30117>
-      <rdamd:P30011>c2010</rdamd:P30011>
-      <rdamd:P30111>, c2010.</rdamd:P30111>
-      <rdamd:P30182>3 min, 51 s.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1013</rdamd:P30001>
-      <rdamd:P30050>Corrientes, [Oslo] : CSSE Records, c2010, 10.</rdamd:P30050>
-      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1013"/>
-      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9356154076013911860000/exp/zxx/1011"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/999920609674902201">
       <rdamd:P30156>Murder on the Orient Express</rdamd:P30156>
@@ -1466,6 +1471,29 @@
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1060"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
       <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0071877/exp/1023"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/IAN-7041881220425">
+      <rdamd:P30004>IAN 7041881220425</rdamd:P30004>
+      <rdaxd:P00018>IAN-7041881220425</rdaxd:P00018>
+      <rdamd:P30156>Corrientes</rdamd:P30156>
+      <rdamd:P30117>Per Einar Watle Trio</rdamd:P30117>
+      <rdamd:P30088>[Norge]</rdamd:P30088>
+      <rdamd:P30111>[Norge] : CSSE Records, 2010-01-25.</rdamd:P30111>
+      <rdamd:P30083>CSSE Records</rdamd:P30083>
+      <rdamd:P30011>2010-01-25</rdamd:P30011>
+      <rdamd:P30085>[Oslo]</rdamd:P30085>
+      <rdamd:P30108>[Oslo] : Phonofile.</rdamd:P30108>
+      <rdamd:P30173>Phonofile</rdamd:P30173>
+      <rdamd:P30007>℗ 2010</rdamd:P30007>
+      <rdamd:P30182>1 online (nettilkoblet) ressurs.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1003</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1018</rdamd:P30001>
+      <rdamd:P30137>CSSE Records: CSSE04</rdamd:P30137>
+      <rdamd:P30137>Swing for Simon -- Corrientes -- Lingo -- El Patio de Montserrat -- Bei Dir War Es Immer So Schön -- Here's That Rainy Day -- Yours is My Heart Alone -- Reine De Musette -- Melodie Concorde -- Murder On the Orient Express -- Dans monîle -- Choti</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
+      <rdamo:P30139 rdf:resource="https://isni.org/isni/0000000365729866/trio/corrientes/exp/und/1011"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9356154076013911860000/exp/und/1011"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0002446855">
       <rdamd:P30004>ISBN 0002446855 :</rdamd:P30004>
@@ -2160,12 +2188,6 @@
    <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/und">
       <rdfs:label>und</rdfs:label>
    </skos:Concept>
-   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/zxx">
-      <rdfs:label>zxx</rdfs:label>
-   </skos:Concept>
-   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1013">
-      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1013</skos:subjectIndicator>
-   </skos:Concept>
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1018">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1018</skos:subjectIndicator>
    </skos:Concept>
@@ -2189,9 +2211,6 @@
    </skos:Concept>
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1023">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1023</skos:subjectIndicator>
-   </skos:Concept>
-   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1001">
-      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1001</skos:subjectIndicator>
    </skos:Concept>
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1003">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1003</skos:subjectIndicator>

@@ -15,7 +15,7 @@ Agenter identifisert med URI
 * https://www.imdb.com/name/nm0000002 (700) : Bacall, Lauren
 * https://www.imdb.com/name/nm0000842 (700) : Balsam, Martin
 * https://www.imdb.com/name/nm5290643 (700) : Bateman, Tom
-* http://viaf.org/viaf/61731028 (100, 700) : Bennett, Richard Rodney
+* http://viaf.org/viaf/61731028 (100) : Bennett, Richard Rodney
 * https://www.imdb.com/name/nm0000006 (700) : Bergman, Ingrid
 * https://www.imdb.com/name/nm0000302 (700) : Bisset, Jacqueline
 * https://isni.org/isni/0000000114794233 (700) : Branagh, Kenneth
@@ -31,6 +31,7 @@ Agenter identifisert med URI
 * https://www.imdb.com/name/nm0001215 (700) : Finney, Albert
 * https://isni.org/isni/0000000361531262 (700) : Larssen, Christian
 * https://www.imdb.com/name/nm0001486 (700) : Lumet, Sidney
+* https://isni.org/isni/0000000365729866/trio (100) : Per Einar Watle Trio
 * http://viaf.org/viaf/34462302 (100) : Rivière, François
 * http://viaf.org/viaf/29540426 (700) : Sayers, Dorothy L
 * https://isni.org/isni/0000000368604401 (700) : Solidor
@@ -57,7 +58,7 @@ men dere velger selv hvilke agenter som skal være med
 * 600  10  $aPoirot, Hercule  $c(Fictitious character)  $vFiction.
 * 600  10  $aPoirot, Hercule  $c(Fictitious character)  $vFiction.
 * 600  10  $aPoirot, Hercule  $c(Fictitious character)
-* 710  2#  $aPer Einar Watle Trio  $eutøver
+* 710  2#  $aPer Einar Watle Trio  $4https://id.nb.no/vocabulary/perfrel/1
 
 
 Verk identifisert med URI
@@ -111,7 +112,7 @@ Verk identifisert med URI
 * http://viaf.org/viaf/8905164661901103390006/12 = SOS (Language-based work)
 * http://viaf.org/viaf/890516466190110339000601 = The Hound of Death (Language-based work)
 * http://viaf.org/viaf/9180154501927439210001 = Poirot investigates. (Language-based work)
-* http://viaf.org/viaf/9356154076013911860000 = Murder on the Orient Express (Jazz)
+* http://viaf.org/viaf/9356154076013911860000 = Murder on the Orient Express 
 * http://viaf.org/viaf/algreen/orient = Murder on the Orient Express: The Graphic Novel 
 * https://isni.org/isni/0000000121022127/1930somnibus = 1930s omnibus / (Language-based work)
 * https://isni.org/isni/0000000121022127/bestofpoirot = The best of Poirot 
@@ -124,6 +125,7 @@ Verk identifisert med URI
 * https://isni.org/isni/0000000121022127/omnibus/x = Agatha Christie omnibus (Language-based work)
 * https://isni.org/isni/0000000121022127/orient = Poirot in the Orient / (Language-based work)
 * https://isni.org/isni/0000000121022127/theworldsfavourite = The world's favourite (Language-based work)
+* https://isni.org/isni/0000000365729866/trio/corrientes = Corrientes 
 * https://www.imdb.com/title/tt0071877 = Murder on the Orient Express 
 * https://www.imdb.com/title/tt3402236 = Murder on the Orient Express 
 
@@ -141,7 +143,7 @@ Oversikt over MARC 21 relator koder brukt i samlingen
 sjekker bare feltene 100, 110, 111, 700, 710, 711
 -------------------------------------------------------
 * act  : 13 
-* cmp  : 1 
+* art  : 1 
 * drt  : 2 
 * prf  : 3 
 
@@ -150,14 +152,15 @@ Oversikt over URI relasjonstyper for Agent brukt i samlingen
 verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 -------------------------------------------------------
 * http://rdaregistry.info/Elements/e/object/P20012 (has actor agent) : 16 
-* http://rdaregistry.info/Elements/e/object/P20039 (has performer agent) : 3 
+* http://rdaregistry.info/Elements/e/object/P20039 (has performer agent) : 4 
 * http://rdaregistry.info/Elements/m/object/P30321 (has contributor agent of still image) : 1 
 * http://rdaregistry.info/Elements/m/object/P30329 (has creator agent of manifestation) : 1 
 * http://rdaregistry.info/Elements/w/object/P10013 (has film director agent) : 3 
-* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work) : 3 
-* http://rdaregistry.info/Elements/w/object/P10058 (has artist agent) : 3 
+* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work) : 2 
+* http://rdaregistry.info/Elements/w/object/P10058 (has artist agent) : 4 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 31 
 * http://rdaregistry.info/Elements/w/object/P10437 (has creator person of work) : 1 
+* https://id.nb.no/vocabulary/perfrel/1 () : 1 
 
 
 Personer med URI og relasjonstyper som er brukt for disse
@@ -173,7 +176,7 @@ https://www.imdb.com/name/nm0000842 (700) : Balsam, Martin
 * http://rdaregistry.info/Elements/e/object/P20012 (has actor agent)
 https://www.imdb.com/name/nm5290643 (700) : Bateman, Tom 
 * http://rdaregistry.info/Elements/e/object/P20012 (has actor agent)
-http://viaf.org/viaf/61731028 (100, 700) : Bennett, Richard Rodney 
+http://viaf.org/viaf/61731028 (100) : Bennett, Richard Rodney 
 * http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work)
 https://www.imdb.com/name/nm0000006 (700) : Bergman, Ingrid 
 * http://rdaregistry.info/Elements/e/object/P20012 (has actor agent)
@@ -206,6 +209,9 @@ https://isni.org/isni/0000000361531262 (700) : Larssen, Christian
 * http://rdaregistry.info/Elements/e/object/P20039 (has performer agent)
 https://www.imdb.com/name/nm0001486 (700) : Lumet, Sidney 
 * http://rdaregistry.info/Elements/w/object/P10013 (has film director agent)
+https://isni.org/isni/0000000365729866/trio (100) : Per Einar Watle Trio 
+* http://rdaregistry.info/Elements/w/object/P10058 (has artist agent)
+* http://rdaregistry.info/Elements/e/object/P20039 (has performer agent)
 http://viaf.org/viaf/34462302 (100) : Rivière, François 
 * http://rdaregistry.info/Elements/w/object/P10058 (has artist agent)
 http://viaf.org/viaf/29540426 (700) : Sayers, Dorothy L 
@@ -230,6 +236,11 @@ Verk til verk RDA relasjonstyper i 7XX $4-subfelt + label fra RDA registry
 Analytter (dvs en publikasjon som har flere deler)
 I praksis er det 700-felter med ind2=2, $t og $1
 -------------------------------------------------------
+001 = 999921937688802201 
+* 100  1#  $aPer Einar Watle Trio  $1https://isni.org/isni/0000000365729866/trio  $4art  $4http://rdaregistry.info/Elements/w/object/P10058  $4http://rdaregistry.info/Elements/e/object/P20039 $8p
+* 240  00  $aCorrientes  $kCollection  $1https://isni.org/isni/0000000365729866/trio/corrientes $8p
+* 245  00  $aCorrientes  $cPer Einar Watle Trio
+* 700  12  $aBennett, Richard Rodney.  $kMusic  $tMurder on the Orient Express  $1http://viaf.org/viaf/9356154076013911860000
 001 = 006715657 
 * 100  1#  $aChristie, Agatha,  $d1890-1976.  $1https://isni.org/isni/0000000121022127  $4http://rdaregistry.info/Elements/w/object/P10061
 * 240  04  $aThe best of Poirot  $kCollection  $1https://isni.org/isni/0000000121022127/bestofpoirot
@@ -388,7 +399,7 @@ Opplisting som viser bruken av 336 $a, $b, $0, $2
 * 336  ##  $astill image  $0http://rdaregistry.info/termList/RDAContentType/1014 $2rdacontent
 * 336  ##  $aMusic  $0http://rdaregistry.info/termList/RDAContentType/1010 $2rdacontent
 * 336  ##  $anotated music  $0http://rdaregistry.info/termList/RDAContentType/1010 $2rdacontent
-* 336  ##  $aperformed music  $0http://rdaregistry.info/termList/RDAContentType/1011 $2rdacontent
+* 336  ##  $aframført musikk  $0http://rdaregistry.info/termList/RDAContentType/1011 $2rdaco
 * 336  ##  $atodimensjonalt levende bilde  $0http://rdaregistry.info/termList/RDAContentType/1023 $2rdaco
 
 
@@ -396,7 +407,7 @@ Opplisting som viser bruken av 337 $a, $b, $0, $2
 -------------------------------------------------------
 * 337  ##  $aunmediated  $0http://rdaregistry.info/termList/RDAMediaType/1007 $2rdamedia
 * 337  ##  $acomputer  $0http://rdaregistry.info/termList/RDAMediaType/1003 $2rdamedia
-* 337  ##  $aaudio  $0http://rdaregistry.info/termList/RDAMediaType/1001 $2rdamedia
+* 337  ##  $adatamaskin  $0http://rdaregistry.info/termList/RDAMediaType/1003 $2rdamt
 * 337  ##  $avideo  $0http://rdaregistry.info/termList/RDAMediaType/1008 $2rdamt
 
 
@@ -404,13 +415,12 @@ Opplisting som viser bruken av 338 $a, $b, $0, $2
 -------------------------------------------------------
 * 338  ##  $avolume  $0http://rdaregistry.info/termList/RDACarrierType/1049 $2rdacarrier
 * 338  ##  $aonline resource  $0http://rdaregistry.info/termList/RDACarrierType/1018 $2rdacarrier
-* 338  ##  $acompact disc  $0http://rdaregistry.info/termList/RDACarrierType/1013 $2rdacarrier
+* 338  ##  $aonline (nettilkoblet) ressurs  $0http://rdaregistry.info/termList/RDACarrierType/1018 $2rdact
 * 338  ##  $avideodisk  $0http://rdaregistry.info/termList/RDACarrierType/1060 $2rdact
 
 
 Opplisting som viser bruken av 380 $a, $0, $2
 -------------------------------------------------------
-* 380  ##  $aJazz $2emnmus
 * 380  ##  $aLanguage-based work  $0https://schema.nb.no/Bibliographic/Values/V1000 $2rdacarrier
 
 
@@ -423,6 +433,7 @@ Poster som mangler 336, 337, 338, 380
 001: xxxxxxxxx1111 mangler følgende felt:  380 
 001: 019181043 mangler følgende felt:  380 
 001: 004210640 mangler følgende felt:  380 
+001: 999921937688802201 mangler følgende felt:  380 
 001: 999920609674902201 mangler følgende felt:  380 
 001: 999920048196702202 mangler følgende felt:  380 
 001: 999921241891502201 mangler følgende felt:  380 
