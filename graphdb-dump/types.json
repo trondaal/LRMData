@@ -10044,6 +10044,101 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/34462302/orient/exp/eng/1014/1020"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1014"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/34462302/orient/exp/eng/1014/1020"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/algreen/orient/exp/eng/1014/1020"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1014"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/algreen/orient/exp/eng/1014/1020"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt3402236/exp/1023"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1023"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/12155103895976200651/exp/eng/1020"
                 },
                 "p": {
@@ -20323,44 +20418,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "https://www.imdb.com/title/tt3402236/exp/eng"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "LANGUAGE"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/34462302/orient/exp/eng"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "LANGUAGE"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/15590827/exp/nob/1020/222062902/271919237/444149066632065602506/48102666/7411743"
                 },
                 "p": {
@@ -20646,7 +20703,83 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "https://www.imdb.com/title/tt3402236/exp/eng"
+                    "value": "http://example.com/collections/christie/movies/exp/und"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/und"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/34462302/orient/exp/eng/1014/1020"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/algreen/orient/exp/eng/1014/1020"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt3402236/exp/1023"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt3402236/exp/1023"
                 },
                 "p": {
                     "type": "uri",
@@ -20798,7 +20931,7 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "https://www.imdb.com/title/tt3402236/exp/eng"
+                    "value": "https://www.imdb.com/title/tt3402236/exp/1023"
                 },
                 "p": {
                     "type": "uri",
@@ -20817,7 +20950,7 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "https://www.imdb.com/title/tt3402236/exp/eng"
+                    "value": "https://www.imdb.com/title/tt3402236/exp/1023"
                 },
                 "p": {
                     "type": "uri",
@@ -20836,7 +20969,7 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "https://www.imdb.com/title/tt3402236/exp/eng"
+                    "value": "https://www.imdb.com/title/tt3402236/exp/1023"
                 },
                 "p": {
                     "type": "uri",
@@ -20855,7 +20988,7 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "https://www.imdb.com/title/tt3402236/exp/eng"
+                    "value": "https://www.imdb.com/title/tt3402236/exp/1023"
                 },
                 "p": {
                     "type": "uri",
@@ -26441,6 +26574,25 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://example.org/999920609674902201"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CARRIER"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1060"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://example.org/999921241891502201"
                 },
                 "p": {
@@ -26480,6 +26632,25 @@
                 "s": {
                     "type": "uri",
                     "value": "http://example.org/isbn-0002446855"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CARRIER"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1049"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0007246587"
                 },
                 "p": {
                     "type": "uri",
@@ -26556,6 +26727,25 @@
                 "s": {
                     "type": "uri",
                     "value": "http://example.org/Deterlangttilhelvetefordensomikkevildit-d28e47"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CARRIER"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1049"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780063160354"
                 },
                 "p": {
                     "type": "uri",
@@ -32122,6 +32312,25 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://example.org/999920609674902201"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "MEDIATYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1008"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://example.org/999921241891502201"
                 },
                 "p": {
@@ -32161,6 +32370,25 @@
                 "s": {
                     "type": "uri",
                     "value": "http://example.org/isbn-0002446855"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "MEDIATYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1007"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0007246587"
                 },
                 "p": {
                     "type": "uri",
@@ -32237,6 +32465,25 @@
                 "s": {
                     "type": "uri",
                     "value": "http://example.org/Deterlangttilhelvetefordensomikkevildit-d28e47"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "MEDIATYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1007"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780063160354"
                 },
                 "p": {
                     "type": "uri",

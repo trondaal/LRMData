@@ -7166,6 +7166,36 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://example.com/collections/christie/movies"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The Agatha Christie collection"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/algreen/orient"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Murder on the Orient Express: The Graphic Novel"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/226306913"
                 },
                 "label": {
@@ -12920,7 +12950,7 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "Rivie\u0300re, Franc\u0327ois"
+                    "value": "Rivi\u00e8re, Franc\u0327ois"
                 }
             },
             {
@@ -12996,6 +13026,21 @@
                 "value": {
                     "type": "literal",
                     "value": "Saastad, Mona Helene"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/algreen"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "name"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Al-Greene, Bob"
                 }
             },
             {
@@ -25931,141 +25976,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "https://www.imdb.com/title/tt3402236/exp/eng"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "languagesadditional"
-                },
-                "value": {
-                    "type": "uri",
-                    "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "https://www.imdb.com/title/tt3402236/exp/eng"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "languagesadditional"
-                },
-                "value": {
-                    "type": "uri",
-                    "value": "http://id.loc.gov/vocabulary/iso639-2/nob"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "https://www.imdb.com/title/tt3402236/exp/eng"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "languagesadditional"
-                },
-                "value": {
-                    "type": "uri",
-                    "value": "http://id.loc.gov/vocabulary/iso639-2/swe"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "https://www.imdb.com/title/tt3402236/exp/eng"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "languagesadditional"
-                },
-                "value": {
-                    "type": "uri",
-                    "value": "http://id.loc.gov/vocabulary/iso639-2/dan"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "https://www.imdb.com/title/tt3402236/exp/eng"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "languagesadditional"
-                },
-                "value": {
-                    "type": "uri",
-                    "value": "http://id.loc.gov/vocabulary/iso639-2/fin"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "https://www.imdb.com/title/tt3402236/exp/eng"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Murder on the Orient Express"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "https://www.imdb.com/title/tt3402236/exp/eng"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "titlevariant"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Murder on the Orient Express"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/34462302/orient/exp/eng"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Murder on the Orient Express"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/34462302/orient/exp/eng"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "titlevariant"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Crime de l'Orient-Express"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/15590827/exp/nob/1020/222062902/271919237/444149066632065602506/48102666/7411743"
                 },
                 "label": {
@@ -26346,6 +26256,201 @@
                 "value": {
                     "type": "literal",
                     "value": "Charlie and the chocolate factory"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.com/collections/christie/movies/exp/und"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The Agatha Christie collection"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.com/collections/christie/movies/exp/und"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The Agatha Christie collection"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/34462302/orient/exp/eng/1014/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Murder on the Orient Express"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/34462302/orient/exp/eng/1014/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Crime de l'Orient-Express"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/algreen/orient/exp/eng/1014/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Murder on the Orient Express : The Graphic Novel"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/algreen/orient/exp/eng/1014/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Murder on the Orient Express: The Graphic Novel"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt3402236/exp/1023"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "languagesadditional"
+                },
+                "value": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt3402236/exp/1023"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "languagesadditional"
+                },
+                "value": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/nob"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt3402236/exp/1023"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "languagesadditional"
+                },
+                "value": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/swe"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt3402236/exp/1023"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "languagesadditional"
+                },
+                "value": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/dan"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt3402236/exp/1023"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "languagesadditional"
+                },
+                "value": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/fin"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt3402236/exp/1023"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Murder on the Orient Express"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt3402236/exp/1023"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Murder on the Orient Express"
                 }
             },
             {
@@ -71180,7 +71285,7 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "ISBN 9780007246588 :"
+                    "value": "ISBN 9780007246588"
                 }
             },
             {
@@ -71871,6 +71976,261 @@
                 "value": {
                     "type": "literal",
                     "value": "Og ordet ble ord, Oslo : Aschehoug, c1998."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/990424921304702201"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The Agatha Christie collection"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/990424921304702201"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "5 plater (DVD) : digital, 12 cm."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/990424921304702201"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo] : Star Media, 2004."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/990424921304702201"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/990424921304702201"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Star Media"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/990424921304702201"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "2004"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/990424921304702201"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "contentsnote"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "SF Reg.nr. 53189"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780063160354"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 978-0063160354"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780063160354"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Murder on the Orient Express"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780063160354"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "subtitle"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The Graphic Novel"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780063160354"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "adapted and illustrated by Bob Al-Greene"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780063160354"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "edition"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "First edition"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780063160354"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "288 pages : chiefly col. ill., 6 x 0.65 x 9 inches."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780063160354"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[New York] : William Morrow Paperbacks, 2023."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780063160354"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[New York]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780063160354"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "William Morrow Paperbacks"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780063160354"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "2023"
                 }
             }
         ]

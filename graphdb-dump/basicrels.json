@@ -12335,7 +12335,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "https://www.imdb.com/title/tt3402236/exp/eng"
+                    "value": "https://www.imdb.com/title/tt3402236/exp/1023"
                 }
             },
             {
@@ -12470,7 +12470,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/34462302/orient/exp/eng"
+                    "value": "http://viaf.org/viaf/34462302/orient/exp/eng/1014/1020"
                 }
             },
             {
@@ -12531,6 +12531,36 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/deterlangttilhelvete_eksempel/exp/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/990424921304702201"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://example.com/collections/christie/movies/exp/und"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780063160354"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/algreen/orient/exp/eng/1014/1020"
                 }
             },
             {
@@ -20231,36 +20261,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "https://www.imdb.com/title/tt3402236/exp/eng"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "REALIZES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "https://www.imdb.com/title/tt3402236"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/34462302/orient/exp/eng"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "REALIZES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/34462302/orient"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/15590827/exp/nob/1020/222062902/271919237/444149066632065602506/48102666/7411743"
                 },
                 "l": {
@@ -20481,6 +20481,66 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/187061730/play"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.com/collections/christie/movies/exp/und"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://example.com/collections/christie/movies"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/34462302/orient/exp/eng/1014/1020"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/34462302/orient"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/algreen/orient/exp/eng/1014/1020"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/algreen/orient"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt3402236/exp/1023"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt3402236"
                 }
             }
         ]

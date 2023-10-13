@@ -22,6 +22,11 @@
          xmlns:rdat="http://rdaregistry.info/termList/"
          xmlns:skos="http://www.w3.org/2004/02/skos/core#"
          xmlns:ex="http://www.example.org/">
+   <rdac:C10001 rdf:about="http://example.com/collections/christie/movies">
+      <rdaxd:P00018>http://example.com/collections/christie/movies</rdaxd:P00018>
+      <rdawd:P10088>The Agatha Christie collection</rdawd:P10088>
+      <rdfs:label>The Agatha Christie collection</rdfs:label>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/1009145424587286830098">
       <rdaxd:P00018>http://viaf.org/viaf/1009145424587286830098</rdaxd:P00018>
       <rdaxd:P00029>Novel</rdaxd:P00029>
@@ -249,7 +254,7 @@
    <rdac:C10001 rdf:about="http://viaf.org/viaf/34462302/orient">
       <rdaxd:P00018>http://viaf.org/viaf/34462302/orient</rdaxd:P00018>
       <rdawd:P10088>Crime de l'Orient-Express</rdawd:P10088>
-      <rdfs:label>Crime de l'Orient-Express (Rivière, François)</rdfs:label>
+      <rdfs:label>Crime de l'Orient-Express (Rivière, François)</rdfs:label>
       <rdaxd:P00029>Graphic Novel</rdaxd:P00029>
       <rdawo:P10058 rdf:resource="http://viaf.org/viaf/34462302"/>
       <rdawo:P10058 rdf:resource="https://isni.org/isni/0000000368604401"/>
@@ -412,11 +417,19 @@
       <rdaxd:P00018>http://viaf.org/viaf/9356154076013911860000</rdaxd:P00018>
       <rdawd:P10088>Murder on the Orient Express</rdawd:P10088>
       <rdfs:label>Murder on the Orient Express (Bennett, Richard Rodney.)</rdfs:label>
-      <rdaxd:P00029>Notated music</rdaxd:P00029>
+      <rdaxd:P00029>Music</rdaxd:P00029>
       <rdfs:label>Murder on the Orient Express ()</rdfs:label>
-      <rdaxd:P00029>Performed</rdaxd:P00029>
       <rdawo:P10053 rdf:resource="http://viaf.org/viaf/61731028"/>
       <rdawo:P10238 rdf:resource="https://www.imdb.com/title/tt3402236"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/algreen/orient">
+      <rdaxd:P00018>http://viaf.org/viaf/algreen/orient</rdaxd:P00018>
+      <rdawd:P10088>Murder on the Orient Express: The Graphic Novel</rdawd:P10088>
+      <rdfs:label>Murder on the Orient Express: The Graphic Novel (Al-Greene, Bob)</rdfs:label>
+      <rdaxd:P00029>Graphic Novel</rdaxd:P00029>
+      <rdawo:P10058 rdf:resource="http://viaf.org/viaf/algreen"/>
+      <rdawo:P10252 rdf:resource="http://viaf.org/viaf/316741387"/>
+      <rdawo:P10437 rdf:resource="http://viaf.org/viaf/algreen"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://isni.org/isni/0000000121022127/1930somnibus">
       <rdaxd:P00018>https://isni.org/isni/0000000121022127/1930somnibus</rdaxd:P00018>
@@ -509,6 +522,7 @@
       <rdaxd:P00018>https://www.imdb.com/title/tt0071877</rdaxd:P00018>
       <rdawd:P10088>Murder on the Orient Express</rdawd:P10088>
       <rdfs:label>Murder on the Orient Express</rdfs:label>
+      <rdaxd:P00029>Movie</rdaxd:P00029>
       <rdawo:P10013 rdf:resource="https://www.imdb.com/name/nm0001486"/>
       <rdawo:P10129 rdf:resource="http://viaf.org/viaf/316741387"/>
    </rdac:C10001>
@@ -516,6 +530,7 @@
       <rdaxd:P00018>https://www.imdb.com/title/tt3402236</rdaxd:P00018>
       <rdawd:P10088>Murder on the Orient Express</rdawd:P10088>
       <rdfs:label>Murder on the Orient Express</rdfs:label>
+      <rdaxd:P00029>Movie</rdaxd:P00029>
       <rdawo:P10013 rdf:resource="https://isni.org/isni/0000000114794233"/>
       <rdawo:P10129 rdf:resource="http://viaf.org/viaf/316741387"/>
    </rdac:C10001>
@@ -532,8 +547,8 @@
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://viaf.org/viaf/34462302">
       <rdaxd:P00018>http://viaf.org/viaf/34462302</rdaxd:P00018>
-      <rdaad:P50385>Rivière, François</rdaad:P50385>
-      <rdfs:label>Rivière, François</rdfs:label>
+      <rdaad:P50385>Rivière, François</rdaad:P50385>
+      <rdfs:label>Rivière, François</rdfs:label>
       <rdaad:P50339>1949-</rdaad:P50339>
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://viaf.org/viaf/56617609">
@@ -558,6 +573,11 @@
       <rdaad:P50385>Verne, Jules</rdaad:P50385>
       <rdfs:label>Verne, Jules</rdfs:label>
       <rdaad:P50339>1828-1905</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/algreen">
+      <rdaxd:P00018>http://viaf.org/viaf/algreen</rdaxd:P00018>
+      <rdaad:P50385>Al-Greene, Bob</rdaad:P50385>
+      <rdfs:label>Al-Greene, Bob</rdfs:label>
    </rdac:C10002>
    <rdac:C10002 rdf:about="https://isni.org/isni/0000000114794233">
       <rdaxd:P00018>https://isni.org/isni/0000000114794233</rdaxd:P00018>
@@ -671,6 +691,13 @@
       <rdfs:label>Bateman, Tom</rdfs:label>
       <rdaad:P50339>1989-</rdaad:P50339>
    </rdac:C10002>
+   <rdac:C10006 rdf:about="http://example.com/collections/christie/movies/exp/und">
+      <rdaed:P20316>The Agatha Christie collection</rdaed:P20316>
+      <rdaed:P20312>The Agatha Christie collection</rdaed:P20312>
+      <rdfs:label>The Agatha Christie collection</rdfs:label>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/und"/>
+      <rdaeo:P20231 rdf:resource="http://example.com/collections/christie/movies"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/1009145424587286830098/exp/eng/1020">
       <rdaed:P20312>Mystery of the blue train</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
@@ -914,11 +941,13 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/316741387"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="http://viaf.org/viaf/34462302/orient/exp/eng">
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/34462302/orient/exp/eng/1014/1020">
       <rdaed:P20316>Crime de l'Orient-Express</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Murder on the Orient Express</rdaed:P20312>
-      <rdfs:label>Murder on the Orient Express / eng / text</rdfs:label>
+      <rdfs:label>Murder on the Orient Express / eng / text / still image</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1014"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/34462302/orient"/>
    </rdac:C10006>
@@ -1104,7 +1133,7 @@
       <rdaed:P20316>Murder on the Orient Express</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Murder On The Orient Express (Theme)</rdaed:P20312>
-      <rdfs:label>Murder On The Orient Express (Theme) / notated music</rdfs:label>
+      <rdfs:label>Murder On The Orient Express (Theme) / Music</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1010"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9356154076013911860000"/>
    </rdac:C10006>
@@ -1128,6 +1157,16 @@
       <rdaeo:P20039 rdf:resource="https://isni.org/isni/0000000361531262"/>
       <rdaeo:P20039 rdf:resource="https://isni.org/isni/0000000365729866"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9356154076013911860000"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/algreen/orient/exp/eng/1014/1020">
+      <rdaed:P20316>Murder on the Orient Express: The Graphic Novel</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Murder on the Orient Express : The Graphic Novel</rdaed:P20312>
+      <rdfs:label>Murder on the Orient Express / eng / text / still image</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1014"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/algreen/orient"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000121022127/1930somnibus/exp/eng/1020">
       <rdaed:P20316>1930s omnibus</rdaed:P20316>
@@ -1305,10 +1344,11 @@
       <rdaeo:P20012 rdf:resource="https://www.imdb.com/name/nm0000125"/>
       <rdaeo:P20231 rdf:resource="https://www.imdb.com/title/tt0071877"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="https://www.imdb.com/title/tt3402236/exp/eng">
+   <rdac:C10006 rdf:about="https://www.imdb.com/title/tt3402236/exp/1023">
       <rdaed:P20316>Murder on the Orient Express</rdaed:P20316>
       <rdaed:P20312>Murder on the Orient Express</rdaed:P20312>
-      <rdfs:label>Murder on the Orient Express / eng</rdfs:label>
+      <rdfs:label>Murder on the Orient Express / eng / todimensjonalt levende bilde</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1023"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/swe"/>
       <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dan"/>
@@ -1352,6 +1392,16 @@
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9356154076013911860000/exp/1010"/>
    </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/990424921304702201">
+      <rdamd:P30156>The Agatha Christie collection</rdamd:P30156>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Star Media, 2004.</rdamd:P30111>
+      <rdamd:P30083>Star Media</rdamd:P30083>
+      <rdamd:P30011>2004</rdamd:P30011>
+      <rdamd:P30182>5 plater (DVD) : digital, 12 cm.</rdamd:P30182>
+      <rdamd:P30137>SF Reg.nr. 53189</rdamd:P30137>
+      <rdamo:P30139 rdf:resource="http://example.com/collections/christie/movies/exp/und"/>
+   </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/991007459034702202">
       <rdamd:P30156>Murder on the Orient Express</rdamd:P30156>
       <rdamd:P30117>Richard R. Bennett, Per Einar Watle Trio</rdamd:P30117>
@@ -1373,9 +1423,13 @@
       <rdamd:P30083>Thwentieth Century Fox Home Entertainment</rdamd:P30083>
       <rdamd:P30011>2017</rdamd:P30011>
       <rdamd:P30182>1 plate (DVD) (1 t 49 min) : lyd, kol.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1008</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1060</rdamd:P30001>
       <rdamd:P30137>Ekstramateriale</rdamd:P30137>
       <rdamd:P30137>Medietilsynet : 185296</rdamd:P30137>
-      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt3402236/exp/eng"/>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1060"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
+      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt3402236/exp/1023"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/999921241891502201">
       <rdamd:P30156>Murder on the Orient Express</rdamd:P30156>
@@ -1684,7 +1738,7 @@
       <rdamd:P30004>ISBN 0007246587 :</rdamd:P30004>
       <rdaxd:P00018>isbn-0007246587</rdaxd:P00018>
       <rdfs:label>ISBN0007246587</rdfs:label>
-      <rdamd:P30004>ISBN 9780007246588 :</rdamd:P30004>
+      <rdamd:P30004>ISBN 9780007246588</rdamd:P30004>
       <rdaxd:P00018>isbn-9780007246588</rdaxd:P00018>
       <rdfs:label>ISBN9780007246588</rdfs:label>
       <rdamd:P30156>Murder on the Orient Express</rdamd:P30156>
@@ -1695,9 +1749,14 @@
       <rdamd:P30083>HarperCollins</rdamd:P30083>
       <rdamd:P30011>2007</rdamd:P30011>
       <rdamd:P30182>44 p. : chiefly col. ill., 30 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>Formerly CIP.</rdamd:P30137>
       <rdamd:P30137>Translated from the French.</rdamd:P30137>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/34462302/orient/exp/eng"/>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/34462302/orient/exp/eng/1014/1020"/>
+      <rdamo:P30321 rdf:resource="https://isni.org/isni/0000000368604401"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0007422571">
       <rdamd:P30004>ISBN 0007422571</rdamd:P30004>
@@ -2035,6 +2094,25 @@
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309258229/exp/eng/1020"/>
    </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9780063160354">
+      <rdamd:P30004>ISBN 978-0063160354</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780063160354</rdaxd:P00018>
+      <rdfs:label>ISBN978-0063160354</rdfs:label>
+      <rdamd:P30156>Murder on the Orient Express</rdamd:P30156>
+      <rdamd:P30142>The Graphic Novel</rdamd:P30142>
+      <rdamd:P30117>adapted and illustrated by Bob Al-Greene</rdamd:P30117>
+      <rdamd:P30107>First edition</rdamd:P30107>
+      <rdamd:P30088>[New York]</rdamd:P30088>
+      <rdamd:P30111>[New York] : William Morrow Paperbacks, 2023.</rdamd:P30111>
+      <rdamd:P30083>William Morrow Paperbacks</rdamd:P30083>
+      <rdamd:P30011>2023</rdamd:P30011>
+      <rdamd:P30182>288 pages : chiefly col. ill., 6 x 0.65 x 9 inches.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/algreen/orient/exp/eng/1014/1020"/>
+   </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9781645178149">
       <rdamd:P30004>ISBN 9781645178149</rdamd:P30004>
       <rdaxd:P00018>isbn-9781645178149</rdaxd:P00018>
@@ -2079,6 +2157,9 @@
    <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/swe">
       <skos:subjectIndicator>swe</skos:subjectIndicator>
    </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/und">
+      <rdfs:label>und</rdfs:label>
+   </skos:Concept>
    <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/zxx">
       <rdfs:label>zxx</rdfs:label>
    </skos:Concept>
@@ -2099,6 +2180,9 @@
    </skos:Concept>
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1011">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1011</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1014">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1014</skos:subjectIndicator>
    </skos:Concept>
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1020">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1020</skos:subjectIndicator>

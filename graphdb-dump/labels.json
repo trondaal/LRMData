@@ -4814,7 +4814,7 @@
                 },
                 "label": {
                     "type": "literal",
-                    "value": "Crime de l'Orient-Express (Rivie\u0300re, Franc\u0327ois)"
+                    "value": "Crime de l'Orient-Express (Rivi\u00e8re, Franc\u0327ois)"
                 }
             },
             {
@@ -4835,6 +4835,26 @@
                 "label": {
                     "type": "literal",
                     "value": "Charlie and the chocolate factory (George, Richard R.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.com/collections/christie/movies"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "The Agatha Christie collection"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/algreen/orient"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Murder on the Orient Express: The Graphic Novel (Al-Greene, Bob)"
                 }
             },
             {
@@ -7224,7 +7244,7 @@
                 },
                 "label": {
                     "type": "literal",
-                    "value": "Rivie\u0300re, Franc\u0327ois"
+                    "value": "Rivi\u00e8re, Franc\u0327ois"
                 }
             },
             {
@@ -7255,6 +7275,16 @@
                 "label": {
                     "type": "literal",
                     "value": "Saastad, Mona Helene"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/algreen"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Al-Greene, Bob"
                 }
             },
             {
@@ -12844,7 +12874,7 @@
                 },
                 "label": {
                     "type": "literal",
-                    "value": "Murder On The Orient Express (Theme) / notated music"
+                    "value": "Murder On The Orient Express (Theme) / Music"
                 }
             },
             {
@@ -12885,26 +12915,6 @@
                 "label": {
                     "type": "literal",
                     "value": "Murder on the orient express / todimensjonalt levende bilde"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "https://www.imdb.com/title/tt3402236/exp/eng"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Murder on the Orient Express / eng"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/34462302/orient/exp/eng"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Murder on the Orient Express / eng / text"
                 }
             },
             {
@@ -13075,6 +13085,46 @@
                 "label": {
                     "type": "literal",
                     "value": "Charlie and the chocolate factory / text"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.com/collections/christie/movies/exp/und"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "The Agatha Christie collection"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/34462302/orient/exp/eng/1014/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Murder on the Orient Express / eng / text / still image"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/algreen/orient/exp/eng/1014/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Murder on the Orient Express / eng / text / still image"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt3402236/exp/1023"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Murder on the Orient Express / eng / todimensjonalt levende bilde"
                 }
             },
             {
@@ -16275,6 +16325,16 @@
                 "label": {
                     "type": "literal",
                     "value": "ISBN9780008255459 (pbk.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780063160354"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN978-0063160354"
                 }
             }
         ]

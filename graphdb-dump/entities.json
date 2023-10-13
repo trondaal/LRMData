@@ -5037,6 +5037,28 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://example.com/collections/christie/movies"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Work"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/algreen/orient"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Work"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/226306913"
                 },
                 "label": {
@@ -7645,6 +7667,17 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/444149066632065602506"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Agent"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/algreen"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -13298,28 +13331,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "https://www.imdb.com/title/tt3402236/exp/eng"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Expression"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/34462302/orient/exp/eng"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Expression"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/15590827/exp/nob/1020/222062902/271919237/444149066632065602506/48102666/7411743"
                 },
                 "label": {
@@ -13475,6 +13486,50 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/187061730/play/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.com/collections/christie/movies/exp/und"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/34462302/orient/exp/eng/1014/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/algreen/orient/exp/eng/1014/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt3402236/exp/1023"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -16797,6 +16852,28 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://example.org/Deterlangttilhelvetefordensomikkevildit-d28e47"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Manifestation"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/990424921304702201"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Manifestation"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780063160354"
                 },
                 "label": {
                     "xml:lang": "gden",
