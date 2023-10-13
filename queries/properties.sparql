@@ -16,5 +16,6 @@ select distinct ?entity ?label ?value
         && !contains(str(?property), 'P20006')
         && !contains(str(?property), 'P20001')
         && !contains(str(?property), 'P30001')
-    	&& !contains(str(?property), 'P30002'))
+    	&& !contains(str(?property), 'P30002')
+    	&& !contains(str(?property), 'P00029'))
 }
