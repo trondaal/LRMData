@@ -46,6 +46,16 @@ CALL apoc.create.setProperty(x, l, v)
 YIELD node
 RETURN node;
 
+WITH "form.json" AS url
+    CALL apoc.load.json(url) YIELD value
+    UNWIND value.results.bindings AS e
+    WITH e.entity.value as u, e.label.value as l, e.value.value as v
+        MERGE (x:Resource {uri: u})
+        WITH x, l, v
+            CALL apoc.create.setProperty(x, l, v)
+            YIELD node
+RETURN node;
+
 WITH "basicrels.json" AS url
 CALL apoc.load.json(url) YIELD value
 UNWIND value.results.bindings AS e
