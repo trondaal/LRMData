@@ -1,0 +1,3183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<collection xmlns="http://www.loc.gov/MARC21/slim"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <record>
+        <leader>02314cim a2200517 c 4500</leader>
+        <controlfield tag="001">990207245274702202</controlfield>
+        <controlfield tag="005">20230303114024.0</controlfield>
+        <controlfield tag="007">sd f||||||||||</controlfield>
+        <controlfield tag="008">141016s2002    no#|||| |||||||f#|||nob| </controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">020724527</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">020724527</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">0208725</subfield>
+            <subfield code="2">nbf</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8242111758</subfield>
+            <subfield code="c">Nkr 349.00</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(EXLNZ-47BIBSYS_NETWORK)990207245274702201</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-TrBIB)020724527</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">020724527-47bibsys_network</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">02ga07289-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">02sa05536-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="h">eng</subfield>
+            <subfield code="d">nob</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">norbibl</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a">823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">4/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha</subfield>
+            <subfield code="d">1890-1976</subfield>
+            <subfield code="0">(NO-TrBIB)90057229</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Mord på Orientekspressen</subfield>
+            <subfield code="c">Agatha Christie ; [oversatt av Axel S. Seeberg]</subfield>
+            <subfield code="h">[lydopptak]</subfield>
+        </datafield>
+        <datafield tag="246" ind1="1" ind2=" ">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="i">Originaltittel</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Melhus]</subfield>
+            <subfield code="b">Lydbokforl.</subfield>
+            <subfield code="c">2002</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">5 plater (CD) (6 t, 1 min)</subfield>
+            <subfield code="b">digital</subfield>
+            <subfield code="c">12 cm, i eske</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Lest av John Yngvar Fearnley ; musikk: Hallgeir Rustan</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">På esken: Krim</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Fearnley, John Yngvar</subfield>
+            <subfield code="d">1940-</subfield>
+            <subfield code="e">medarb.</subfield>
+            <subfield code="0">(NO-TrBIB)90611997</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Rustan, Hallgeir</subfield>
+            <subfield code="d">1966-</subfield>
+            <subfield code="e">medarb.</subfield>
+            <subfield code="0">(NO-TrBIB)90622483</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Seeberg, Axel S.</subfield>
+            <subfield code="4">trl</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0030100</subfield>
+            <subfield code="c">g00005</subfield>
+            <subfield code="h">Småtr. 611</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0183334</subfield>
+            <subfield code="c">g00001</subfield>
+            <subfield code="h">d KZ 2004 0196-0200</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Forlagets beskrivelse (lang)</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/?isbn=8242111758</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Omslagsbilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/large/3/5/9788242111753.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Omslagsbilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/small/3/5/9788242111753.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Omslagsbilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/small/8/5/8242111758.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Originalt bilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/original/3/5/9788242111753.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0030100</subfield>
+            <subfield code="b">g00005</subfield>
+            <subfield code="c">Småtr. 611</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0183334</subfield>
+            <subfield code="b">g00001</subfield>
+            <subfield code="c">d KZ 2004 0196-0200</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">02ga07289</subfield>
+            <subfield code="d">20020412</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">02ga07289</subfield>
+            <subfield code="r">02ga07289</subfield>
+            <subfield code="w">CD</subfield>
+            <subfield code="z">(CD-plater) (Til bruk på NB Oslos lesesal)</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">02sa05536</subfield>
+            <subfield code="d">20020404</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">02sa05536</subfield>
+            <subfield code="r">02sa05536</subfield>
+            <subfield code="w">CD</subfield>
+        </datafield>
+        <datafield tag="901" ind1=" " ind2=" ">
+            <subfield code="a">90</subfield>
+        </datafield>
+        <datafield tag="913" ind1=" " ind2=" ">
+            <subfield code="a">Norbok</subfield>
+            <subfield code="b">NB</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>03088cam a2200685 c 4500</leader>
+        <controlfield tag="001">990422455594702202</controlfield>
+        <controlfield tag="005">20230531151438.0</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">141016s2004    no#|||||||||||000|f|nob| </controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">042245559</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">042245559</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">0505139</subfield>
+            <subfield code="2">nbf</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8203208304</subfield>
+            <subfield code="q">h.</subfield>
+            <subfield code="c">Nkr 99.00</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(EXLNZ-47BIBSYS_NETWORK)990422455594702201</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-TrBIB)042245559</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">042245559-47bibsys_network</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">04sa17253-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">05ga00182-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="h">eng</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">norbibl</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
+        </datafield>
+        <datafield tag="080" ind1=" " ind2=" ">
+            <subfield code="a">820</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a">823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">5/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha</subfield>
+            <subfield code="d">1890-1976</subfield>
+            <subfield code="0">(NO-TrBIB)90057229</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Mord på Orientekspressen ; 4.50 fra Paddington</subfield>
+            <subfield code="c">Agatha Christie ; [Mord på Orientekspressen] oversatt av Axel S. Seeberg ; [4.50 fra Paddington] oversatt av Helge Simonsen</subfield>
+        </datafield>
+        <datafield tag="246" ind1="1" ind2=" ">
+            <subfield code="a">4.50 from Paddington</subfield>
+            <subfield code="i">Originaltittel</subfield>
+        </datafield>
+        <datafield tag="246" ind1="1" ind2=" ">
+            <subfield code="a">A murder on the Orient Express</subfield>
+            <subfield code="i">Originaltittel</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Oslo</subfield>
+            <subfield code="b">Aschehoug</subfield>
+            <subfield code="c">2004</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">170, 216 s.</subfield>
+        </datafield>
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">Miss Marples beste</subfield>
+        </datafield>
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">Mord på Orientekspressen</subfield>
+        </datafield>
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">Poirots beste</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">1. norske utg. henholdsvis 1975 og 1959</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Mord på Orientekspressen i serien Poirots beste. 4.50 fra Paddington i serien Miss Marples beste</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Pagineringer i motsatt retning</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2016-09-30</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Romaner</subfield>
+            <subfield code="0">(uri)https://id.nb.no/vocabulary/ntsf/258</subfield>
+            <subfield code="2">ntsf</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Seeberg, Axel S.</subfield>
+            <subfield code="4">trl</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Simonsen, Helge</subfield>
+            <subfield code="4">trl</subfield>
+        </datafield>
+        <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">4.50 fra Paddington</subfield>
+        </datafield>
+        <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">Fire femti fra Paddington</subfield>
+        </datafield>
+        <datafield tag="800" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha</subfield>
+            <subfield code="t">Miss Marples beste</subfield>
+        </datafield>
+        <datafield tag="800" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha</subfield>
+            <subfield code="t">Poirots beste</subfield>
+        </datafield>
+        <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Mord på Orientekspressen</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0030100</subfield>
+            <subfield code="c">g00005</subfield>
+            <subfield code="h">NA/A 2005:116</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0183334</subfield>
+            <subfield code="c">g00001</subfield>
+            <subfield code="h">c</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="0">
+            <subfield code="3"/>
+            <subfield code="y">NB Digital</subfield>
+            <subfield code="u">http://urn.nb.no/URN:NBN:no-nb_digibok_2016093048029</subfield>
+            <subfield code="z"/>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="3">Fulltekst</subfield>
+            <subfield code="u">https://urn.nb.no/URN:NBN:no-nb_digibok_2016093048029</subfield>
+            <subfield code="y">Nettbiblioteket</subfield>
+            <subfield code="z">Digital representasjon</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Forlagets beskrivelse (lang)</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/?isbn=8203208304</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Omslagsbilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/large/0/0/9788203208300.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Omslagsbilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/small/0/0/9788203208300.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Omslagsbilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/small/4/0/8203208304.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Originalt bilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/original/0/0/9788203208300.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0030100</subfield>
+            <subfield code="b">g00005</subfield>
+            <subfield code="c">NA/A 2005:116</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0183334</subfield>
+            <subfield code="b">g00001</subfield>
+            <subfield code="c">c</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">04sa17253</subfield>
+            <subfield code="d">20041117</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">04sa17253</subfield>
+            <subfield code="r">04sa17253</subfield>
+            <subfield code="w">BOOK</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">05ga00182</subfield>
+            <subfield code="d">20050106</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">05ga00182</subfield>
+            <subfield code="r">05ga00182</subfield>
+            <subfield code="w">BOOK</subfield>
+            <subfield code="z">(h.) (Til bruk på NB Oslos lesesal)</subfield>
+        </datafield>
+        <datafield tag="901" ind1=" " ind2=" ">
+            <subfield code="a">90</subfield>
+        </datafield>
+        <datafield tag="913" ind1=" " ind2=" ">
+            <subfield code="a">Norbok</subfield>
+            <subfield code="b">NB</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>03602cam a2200769 c 4500</leader>
+        <controlfield tag="001">990603739974702202</controlfield>
+        <controlfield tag="005">20230531160143.0</controlfield>
+        <controlfield tag="007">cr||||||||||||</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">150209s2006    no#||||j |||||000|f|nob| </controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">060373997</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">060373997</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">060373997</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">0607580</subfield>
+            <subfield code="2">nbf</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8252562582</subfield>
+            <subfield code="q">ib.</subfield>
+            <subfield code="q">Bokklubben</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9788252562583</subfield>
+            <subfield code="q">ib.</subfield>
+            <subfield code="q">Bokklubben</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(EXLNZ-47BIBSYS_NETWORK)990603739974702201</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-TrBIB)060373997</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-TrBIB)142048194</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">060373997-47bibsys_network</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">06ga05736-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">06sa03357-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">08tm58753-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="h">eng</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">norbibl</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
+        </datafield>
+        <datafield tag="080" ind1=" " ind2=" ">
+            <subfield code="a">820</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a">823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">5/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha</subfield>
+            <subfield code="d">1890-1976</subfield>
+            <subfield code="0">(NO-TrBIB)90057229</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Og dermed var det ingen ; Mord på Orientekspressen ; 4.50 fra Paddington</subfield>
+            <subfield code="c">Agatha Christie ; [[Og dermed var det ingen] oversatt av Liv Malling ; [Mord på Orientekspressen] oversatt av Aksel S. Seeberg ; [4.50 fra Paddington] oversatt av Helge Simonsen]</subfield>
+        </datafield>
+        <datafield tag="246" ind1="1" ind2=" ">
+            <subfield code="a">4.50 from Paddington</subfield>
+            <subfield code="i">Originaltittel</subfield>
+        </datafield>
+        <datafield tag="246" ind1="1" ind2=" ">
+            <subfield code="a">A murder on the Orient Express</subfield>
+            <subfield code="i">Originaltittel</subfield>
+        </datafield>
+        <datafield tag="246" ind1="1" ind2=" ">
+            <subfield code="a">And there were none</subfield>
+            <subfield code="i">Originaltittel</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Oslo</subfield>
+            <subfield code="b">Bokklubben</subfield>
+            <subfield code="c">2006</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">564 s.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">1. norske utg. Oslo : Aschehoug henholdsvis 1947, 1959 og 1975. &quot;Og dermed var det ingen&quot; med tittel: Ti små negerunger.</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2014-04-22</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Romaner</subfield>
+            <subfield code="0">(uri)https://id.nb.no/vocabulary/ntsf/258</subfield>
+            <subfield code="2">ntsf</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Malling, Liv</subfield>
+            <subfield code="4">trl</subfield>
+            <subfield code="0">(NO-TrBIB)98060856</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Seeberg, Axel S.</subfield>
+            <subfield code="d">1914-1994</subfield>
+            <subfield code="4">trl</subfield>
+            <subfield code="0">(NO-TrBIB)90707254</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Simonsen, Helge</subfield>
+            <subfield code="d">1910-</subfield>
+            <subfield code="4">trl</subfield>
+            <subfield code="0">(NO-TrBIB)12074349</subfield>
+        </datafield>
+        <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">10 små negerunger</subfield>
+        </datafield>
+        <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">4.50 fra Paddington</subfield>
+        </datafield>
+        <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">Fire femti fra Paddington</subfield>
+        </datafield>
+        <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">Mord på Orientekspressen</subfield>
+        </datafield>
+        <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">Og dermed var det ingen</subfield>
+        </datafield>
+        <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">Ti små negerunger</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0030100</subfield>
+            <subfield code="c">g00005</subfield>
+            <subfield code="h">NA/A 2006:1818</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0030100</subfield>
+            <subfield code="c">g00048</subfield>
+            <subfield code="h">ft Chr</subfield>
+            <subfield code="t">1</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0183334</subfield>
+            <subfield code="c">g00001</subfield>
+            <subfield code="h">b</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="0">
+            <subfield code="3"/>
+            <subfield code="y">NB Digital</subfield>
+            <subfield code="u">http://urn.nb.no/URN:NBN:no-nb_digibok_2014042208093</subfield>
+            <subfield code="z"/>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="3">Fulltekst</subfield>
+            <subfield code="u">https://urn.nb.no/URN:NBN:no-nb_digibok_2014042208093</subfield>
+            <subfield code="y">Nettbiblioteket</subfield>
+            <subfield code="z">Digital representasjon</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Forlagets beskrivelse (lang)</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/?isbn=8252562582</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Forlagets beskrivelse (lang)</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/?isbn=9788252562583</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Omslagsbilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/large/3/8/9788252562583.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Omslagsbilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/small/2/8/8252562582.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Omslagsbilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/small/3/8/9788252562583.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Originalt bilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/original/3/8/9788252562583.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0030100</subfield>
+            <subfield code="b">g00005</subfield>
+            <subfield code="c">NA/A 2006:1818</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0030100</subfield>
+            <subfield code="b">g00048</subfield>
+            <subfield code="c">ft Chr</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0183334</subfield>
+            <subfield code="b">g00001</subfield>
+            <subfield code="c">b</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">06ga05736</subfield>
+            <subfield code="d">20060322</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">06ga05736</subfield>
+            <subfield code="r">06ga05736</subfield>
+            <subfield code="w">BOOK</subfield>
+            <subfield code="z">(ib.)(Til bruk på NB Oslos lesesal)</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">06sa03357</subfield>
+            <subfield code="d">20060302</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">06sa03357</subfield>
+            <subfield code="r">06sa03357</subfield>
+            <subfield code="w">BOOK</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">08tm58753</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">08tm58753</subfield>
+            <subfield code="r">08tm58753</subfield>
+            <subfield code="w">BOOK</subfield>
+        </datafield>
+        <datafield tag="901" ind1=" " ind2=" ">
+            <subfield code="a">90</subfield>
+        </datafield>
+        <datafield tag="913" ind1=" " ind2=" ">
+            <subfield code="a">Norbok</subfield>
+            <subfield code="b">NB</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>02481cam a2200577 c 4500</leader>
+        <controlfield tag="001">990919228284702202</controlfield>
+        <controlfield tag="005">20230531174359.0</controlfield>
+        <controlfield tag="007">cr||||||||||||</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">141016s2009    no#||||| |||||000|f|nob| </controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">091922828</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">091922828</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9788203212246</subfield>
+            <subfield code="q">h.</subfield>
+            <subfield code="c">Nkr 129.00</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(EXLNZ-47BIBSYS_NETWORK)990919228284702201</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-OsBA)0244513</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-TrBIB)091922828</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-TrBIB)12371530x</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">091922828-47bibsys_network</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">09ga28923-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">09sa05403-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="h">eng</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">norbibl</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a">823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">5/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha</subfield>
+            <subfield code="d">1890-1976</subfield>
+            <subfield code="0">(NO-TrBIB)90057229</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Mord på Orientekspressen</subfield>
+            <subfield code="c">Agatha Christie ; oversatt av Axel S. Seeberg</subfield>
+        </datafield>
+        <datafield tag="246" ind1="1" ind2=" ">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="i">Originaltittel</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Oslo</subfield>
+            <subfield code="b">Aschehoug</subfield>
+            <subfield code="c">2009</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">171 s.</subfield>
+        </datafield>
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">Aschehoug krim</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">1. norske utg. 1975</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2012-11-13</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Romaner</subfield>
+            <subfield code="0">(uri)https://id.nb.no/vocabulary/ntsf/258</subfield>
+            <subfield code="2">ntsf</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Seeberg, Axel S.</subfield>
+            <subfield code="4">trl</subfield>
+        </datafield>
+        <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Aschehoug krim</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0030100</subfield>
+            <subfield code="c">g00005</subfield>
+            <subfield code="h">NA/A 2009:3230</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0183334</subfield>
+            <subfield code="c">g00001</subfield>
+            <subfield code="h">c</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="0">
+            <subfield code="3"/>
+            <subfield code="y">NB Digital</subfield>
+            <subfield code="u">http://urn.nb.no/URN:NBN:no-nb_digibok_2012111305014</subfield>
+            <subfield code="z"/>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="3">Fulltekst</subfield>
+            <subfield code="u">https://urn.nb.no/URN:NBN:no-nb_digibok_2012111305014</subfield>
+            <subfield code="y">Nettbiblioteket</subfield>
+            <subfield code="z">Digital representasjon</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Forlagets beskrivelse (lang)</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/?isbn=8203212247</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Forlagets beskrivelse (lang)</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/?isbn=9788203212246</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Omslagsbilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/large/6/4/9788203212246.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Omslagsbilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/small/6/4/9788203212246.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Originalt bilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/original/6/4/9788203212246.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0030100</subfield>
+            <subfield code="b">g00005</subfield>
+            <subfield code="c">NA/A 2009:3230</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0183334</subfield>
+            <subfield code="b">g00001</subfield>
+            <subfield code="c">c</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">09ga28923</subfield>
+            <subfield code="d">20090406</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">09ga28923</subfield>
+            <subfield code="r">09ga28923</subfield>
+            <subfield code="w">BOOK</subfield>
+            <subfield code="z">(h.)(Til bruk på NB Oslos lesesal)</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">09sa05403</subfield>
+            <subfield code="d">20090406</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">09sa05403</subfield>
+            <subfield code="r">09sa05403</subfield>
+            <subfield code="w">BOOK</subfield>
+        </datafield>
+        <datafield tag="901" ind1=" " ind2=" ">
+            <subfield code="a">90</subfield>
+        </datafield>
+        <datafield tag="913" ind1=" " ind2=" ">
+            <subfield code="a">Norbok</subfield>
+            <subfield code="b">NB</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01206cja a2200397 c 4500</leader>
+        <controlfield tag="001">991007459034702202</controlfield>
+        <controlfield tag="005">20190130103348.0</controlfield>
+        <controlfield tag="007">sd f||||||||||</controlfield>
+        <controlfield tag="008">120206s2010    xx#|||| ||||||||||||zxx|d</controlfield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(EXLNZ-47BIBSYS_NETWORK)991007459034702201</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-TrBIB)100745903</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-TrBIB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">R51</subfield>
+            <subfield code="2">noterlyd</subfield>
+        </datafield>
+        <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="c">Richard R. Bennett</subfield>
+            <subfield code="h">[lydopptak]</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="c">c2010</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">3 min, 51 s</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Jazz</subfield>
+            <subfield code="2">emnmus</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Aasen, Ketil</subfield>
+            <subfield code="d">1974-</subfield>
+            <subfield code="e">utøver</subfield>
+            <subfield code="e">kontrabass</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Bennett, Richard Rodney.</subfield>
+            <subfield code="4">cmp</subfield>
+            <subfield code="0">(NO-TrBIB)90804728</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Larssen, Christian</subfield>
+            <subfield code="d">1975-</subfield>
+            <subfield code="e">utøver</subfield>
+            <subfield code="e">gitar</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Watle, Per Einar</subfield>
+            <subfield code="d">1971-</subfield>
+            <subfield code="e">utøver</subfield>
+            <subfield code="e">gitar</subfield>
+        </datafield>
+        <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Per Einar Watle Trio</subfield>
+            <subfield code="e">utøver</subfield>
+        </datafield>
+        <datafield tag="773" ind1="0" ind2=" ">
+            <subfield code="a">Per Einar Watle Trio</subfield>
+            <subfield code="t">Corrientes</subfield>
+            <subfield code="d">[Oslo] : CSSE Records, c2010</subfield>
+            <subfield code="g">10</subfield>
+            <subfield code="w">991006639664702201</subfield>
+        </datafield>
+        <datafield tag="901" ind1=" " ind2=" ">
+            <subfield code="a">80</subfield>
+        </datafield>
+        <datafield tag="913" ind1=" " ind2=" ">
+            <subfield code="a">Nordisko</subfield>
+            <subfield code="b">NB</subfield>
+        </datafield>
+        <datafield tag="999" ind1=" " ind2=" ">
+            <subfield code="a">CP</subfield>
+            <subfield code="9">LOCAL</subfield>
+        </datafield>
+        <datafield tag="999" ind1=" " ind2=" ">
+            <subfield code="a">CP</subfield>
+            <subfield code="9">LOCAL</subfield>
+        </datafield>
+        <datafield tag="999" ind1=" " ind2=" ">
+            <subfield code="a">CP</subfield>
+            <subfield code="9">LOCAL</subfield>
+        </datafield>
+        <datafield tag="999" ind1=" " ind2=" ">
+            <subfield code="a">CP</subfield>
+            <subfield code="9">LOCAL</subfield>
+        </datafield>
+        <datafield tag="999" ind1=" " ind2=" ">
+            <subfield code="a">CP</subfield>
+            <subfield code="9">LOCAL</subfield>
+        </datafield>
+        <datafield tag="999" ind1=" " ind2=" ">
+            <subfield code="a">CP</subfield>
+            <subfield code="9">LOCAL</subfield>
+        </datafield>
+        <datafield tag="999" ind1=" " ind2=" ">
+            <subfield code="a">CP</subfield>
+            <subfield code="9">LOCAL</subfield>
+        </datafield>
+        <datafield tag="999" ind1=" " ind2=" ">
+            <subfield code="a">CP</subfield>
+            <subfield code="9">LOCAL</subfield>
+        </datafield>
+        <datafield tag="999" ind1=" " ind2=" ">
+            <subfield code="a">CP</subfield>
+            <subfield code="9">LOCAL</subfield>
+        </datafield>
+        <datafield tag="999" ind1=" " ind2=" ">
+            <subfield code="a">CP</subfield>
+            <subfield code="9">LOCAL</subfield>
+        </datafield>
+        <datafield tag="999" ind1=" " ind2=" ">
+            <subfield code="a">CP</subfield>
+            <subfield code="9">LOCAL</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>02499cam a2200565 c 4500</leader>
+        <controlfield tag="001">991218742904702202</controlfield>
+        <controlfield tag="005">20230531211455.0</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">141016s2012    no#|||||||||||000|f|nob| </controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">12187429x</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">12187429x</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">1223673</subfield>
+            <subfield code="2">nbf</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9788203217791</subfield>
+            <subfield code="q">h.</subfield>
+            <subfield code="c">Nkr 149.00</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(EXLNZ-47BIBSYS_NETWORK)991218742904702201</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-OsBA)0286788</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-TrBIB)12187429x</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">12187429x-47bibsys_network</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">12g080777-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">12g080779-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="h">eng</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">norbibl</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a">823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">5/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha</subfield>
+            <subfield code="d">1890-1976</subfield>
+            <subfield code="0">(NO-TrBIB)90057229</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Mord på Orientekspressen</subfield>
+            <subfield code="c">Agatha Christie ; oversatt av Ola Halvor Seeberg Nygård</subfield>
+        </datafield>
+        <datafield tag="246" ind1="1" ind2=" ">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="i">Originaltittel</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Oslo</subfield>
+            <subfield code="b">Aschehoug</subfield>
+            <subfield code="c">2012</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">172 s.</subfield>
+        </datafield>
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">Poirot</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">1. norske utg. 1975</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2021-01-23</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Romaner</subfield>
+            <subfield code="0">(uri)https://id.nb.no/vocabulary/ntsf/258</subfield>
+            <subfield code="2">ntsf</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Nygård, Ola Halvor Seeberg</subfield>
+            <subfield code="d">1964-</subfield>
+            <subfield code="4">trl</subfield>
+            <subfield code="0">(NO-TrBIB)12040896</subfield>
+        </datafield>
+        <datafield tag="800" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha</subfield>
+            <subfield code="t">Poirot</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0030100</subfield>
+            <subfield code="c">g00005</subfield>
+            <subfield code="h">NA/A 2012:5744</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0183334</subfield>
+            <subfield code="c">g00001</subfield>
+            <subfield code="h">c</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="0">
+            <subfield code="3"/>
+            <subfield code="y">NB Digital</subfield>
+            <subfield code="u">http://urn.nb.no/URN:NBN:no-nb_digibok_2020121507876</subfield>
+            <subfield code="z"/>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="3">Fulltekst</subfield>
+            <subfield code="u">https://urn.nb.no/URN:NBN:no-nb_digibok_2020121507876</subfield>
+            <subfield code="y">Nettbiblioteket</subfield>
+            <subfield code="z">Digital representasjon</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Forlagets beskrivelse (lang)</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/?isbn=8203217796</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Forlagets beskrivelse (lang)</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/?isbn=9788203217791</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Omslagsbilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/large/1/9/9788203217791.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Omslagsbilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/small/1/9/9788203217791.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Originalt bilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/original/1/9/9788203217791.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0030100</subfield>
+            <subfield code="b">g00005</subfield>
+            <subfield code="c">NA/A 2012:5744</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0183334</subfield>
+            <subfield code="b">g00001</subfield>
+            <subfield code="c">c</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">12g080777</subfield>
+            <subfield code="d">20120711</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">12g080777</subfield>
+            <subfield code="r">12g080777</subfield>
+            <subfield code="w">BOOK</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">12g080779</subfield>
+            <subfield code="d">20120711</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">12g080779</subfield>
+            <subfield code="r">12g080779</subfield>
+            <subfield code="w">BOOK</subfield>
+            <subfield code="z">(h.) (Til bruk på NB Oslos lesesal)</subfield>
+        </datafield>
+        <datafield tag="901" ind1=" " ind2=" ">
+            <subfield code="a">90</subfield>
+        </datafield>
+        <datafield tag="913" ind1=" " ind2=" ">
+            <subfield code="a">Norbok</subfield>
+            <subfield code="b">NB</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01571cam a2200421 c 4500</leader>
+        <controlfield tag="001">991340231964702202</controlfield>
+        <controlfield tag="005">20230309163526.0</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">150209s1986    no#|||||||||||000|1|nob| </controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">134023196</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">8800404</subfield>
+            <subfield code="2">nbf</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8203152376</subfield>
+            <subfield code="q">h.</subfield>
+            <subfield code="c">Nkr 25.00</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(EXLNZ-47BIBSYS_NETWORK)991340231964702201</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-TrBIB)134023196</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">134023196-47bibsys_network</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">13g141260-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="h">eng</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a">823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">4/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha</subfield>
+            <subfield code="d">1890-1976</subfield>
+            <subfield code="0">(NO-TrBIB)90057229</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Mord på Orientekspressen</subfield>
+            <subfield code="c">Agatha Christie ; oversatt av Axel S. Seeberg</subfield>
+        </datafield>
+        <datafield tag="246" ind1="1" ind2=" ">
+            <subfield code="a">Murder on the Orient express</subfield>
+            <subfield code="i">Originaltittel</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">4. oppl.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Oslo</subfield>
+            <subfield code="b">Aschehoug</subfield>
+            <subfield code="c">1986</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">164 s.</subfield>
+        </datafield>
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">Hercule Poirot-serien</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">1. norske utg. 1975</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2017-02-21</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Seeberg, Axel S.</subfield>
+            <subfield code="d">1914-1994</subfield>
+            <subfield code="4">trl</subfield>
+            <subfield code="0">(NO-TrBIB)90707254</subfield>
+        </datafield>
+        <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Hercule Poirot-serien</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0030100</subfield>
+            <subfield code="c">g00005</subfield>
+            <subfield code="h">NA/A 1988:495</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="0">
+            <subfield code="3"/>
+            <subfield code="y">NB Digital</subfield>
+            <subfield code="u">http://urn.nb.no/URN:NBN:no-nb_digibok_2017011248156</subfield>
+            <subfield code="z"/>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="3">Fulltekst</subfield>
+            <subfield code="u">https://urn.nb.no/URN:NBN:no-nb_digibok_2017011248156</subfield>
+            <subfield code="y">Nettbiblioteket</subfield>
+            <subfield code="z">Digital representasjon</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0030100</subfield>
+            <subfield code="b">g00005</subfield>
+            <subfield code="c">NA/A 1988:495</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">13g141260</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">13g141260</subfield>
+            <subfield code="r">13g141260</subfield>
+            <subfield code="w">BOOK</subfield>
+            <subfield code="z">(mat.) (4. oppl. 1986)</subfield>
+        </datafield>
+        <datafield tag="901" ind1=" " ind2=" ">
+            <subfield code="a">80</subfield>
+        </datafield>
+        <datafield tag="913" ind1=" " ind2=" ">
+            <subfield code="a">Norbok</subfield>
+            <subfield code="b">NB</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01879cam a2200481 c 4500</leader>
+        <controlfield tag="001">998321400664702202</controlfield>
+        <controlfield tag="005">20230601080433.0</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">150818s1975    no#|||||||||||000|f|nob|d</controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">832140066</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">832140066</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">7500292</subfield>
+            <subfield code="2">nbf</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8203064701</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(EXLNZ-47BIBSYS_NETWORK)998321400664702201</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-TrBIB)832140066</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">61gn34692-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">832140066-47bibsys_network</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">86ga06044-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-TrBIB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="h">eng</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a"> 823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">3/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha</subfield>
+            <subfield code="d">1890-1976</subfield>
+            <subfield code="0">(NO-TrBIB)90057229</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="l">Norsk</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Mord på Orientekspressen</subfield>
+            <subfield code="c">Agatha Christie ; oversatt av Axel S. Seeberg</subfield>
+        </datafield>
+        <datafield tag="246" ind1="1" ind2=" ">
+            <subfield code="a">Murder on the Orient express</subfield>
+            <subfield code="i">Originaltittel</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Oslo</subfield>
+            <subfield code="b">Aschehoug</subfield>
+            <subfield code="c">1975</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">167 s.</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2016-11-02</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">jernbaner</subfield>
+            <subfield code="a">balkan</subfield>
+            <subfield code="a">jugoslavia</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Romaner</subfield>
+            <subfield code="0">(uri)https://id.nb.no/vocabulary/ntsf/258</subfield>
+            <subfield code="2">ntsf</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Seeberg, Axel S.</subfield>
+            <subfield code="d">1914-1994</subfield>
+            <subfield code="4">trl</subfield>
+            <subfield code="0">(NO-TrBIB)90707254</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0030100</subfield>
+            <subfield code="c">g00005</subfield>
+            <subfield code="h">NA/A v 1827</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0030100</subfield>
+            <subfield code="c">g00005</subfield>
+            <subfield code="h">NA/A v 1828</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0183334</subfield>
+            <subfield code="c">g00001</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="0">
+            <subfield code="3"/>
+            <subfield code="y">NB Digital</subfield>
+            <subfield code="u">http://urn.nb.no/URN:NBN:no-nb_digibok_2015111807507</subfield>
+            <subfield code="z"/>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="3">Fulltekst</subfield>
+            <subfield code="u">https://urn.nb.no/URN:NBN:no-nb_digibok_2015111807507</subfield>
+            <subfield code="y">Nettbiblioteket</subfield>
+            <subfield code="z">Digital representasjon</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0030100</subfield>
+            <subfield code="b">g00005</subfield>
+            <subfield code="c">NA/A v 1827</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0030100</subfield>
+            <subfield code="b">g00005</subfield>
+            <subfield code="c">NA/A v 1828</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">61gn34692</subfield>
+            <subfield code="j">konv</subfield>
+            <subfield code="p">61gn34692</subfield>
+            <subfield code="r">61gn34692</subfield>
+            <subfield code="w">BOOK</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">86ga06044</subfield>
+            <subfield code="j">mini</subfield>
+            <subfield code="p">86ga06044</subfield>
+            <subfield code="r">86ga06044</subfield>
+            <subfield code="w">BOOK</subfield>
+            <subfield code="z">(h.) (Til bruk på NB Oslos lesesal)</subfield>
+        </datafield>
+        <datafield tag="901" ind1=" " ind2=" ">
+            <subfield code="a">80</subfield>
+        </datafield>
+        <datafield tag="913" ind1=" " ind2=" ">
+            <subfield code="a">Norbok</subfield>
+            <subfield code="b">NB</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>02079cam a2200541 c 4500</leader>
+        <controlfield tag="001">998620477904702202</controlfield>
+        <controlfield tag="005">20230310161842.0</controlfield>
+        <controlfield tag="007">cr||||||||||||</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">150717s1977    no#||||| |||||000|1|nob| </controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">86204779x</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">86204779x</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">8600328</subfield>
+            <subfield code="2">nbf</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8203086942</subfield>
+            <subfield code="q">h.</subfield>
+            <subfield code="c">Nkr 24.50</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(EXLNZ-47BIBSYS_NETWORK)998620477904702201</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-TrBIB)151398879</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-TrBIB)86204779x</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">13g132506-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">13g132509-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">86204779x-47bibsys_network</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="h">eng</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a">823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">4/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha</subfield>
+            <subfield code="d">1890-1976</subfield>
+            <subfield code="0">(NO-TrBIB)90057229</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Mord på Orientekspressen</subfield>
+            <subfield code="c">Agatha Christie ; oversatt av Axel S. Seeberg</subfield>
+        </datafield>
+        <datafield tag="246" ind1="1" ind2=" ">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="i">Originaltittel</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">2. oppl</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Oslo</subfield>
+            <subfield code="b">Aschehoug</subfield>
+            <subfield code="c">1977</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">164 s.</subfield>
+        </datafield>
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">En Christie-klassiker</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">1. utg. 1975</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">3. oppl. i serie</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Opplagshistorikk: 3. oppl. 1984 (Nkr 39.00)</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2015-07-17</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Seeberg, Axel S.</subfield>
+            <subfield code="d">1914-1994</subfield>
+            <subfield code="4">trl</subfield>
+            <subfield code="0">(NO-TrBIB)90707254</subfield>
+        </datafield>
+        <datafield tag="830" ind1=" " ind2="3">
+            <subfield code="a">En Christie-klassiker</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0030100</subfield>
+            <subfield code="c">g00005</subfield>
+            <subfield code="h">NA/A 1986:498</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0030100</subfield>
+            <subfield code="c">g00005</subfield>
+            <subfield code="h">NA/A w 6846</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="0">
+            <subfield code="3"/>
+            <subfield code="y">NB Digital</subfield>
+            <subfield code="u">http://urn.nb.no/URN:NBN:no-nb_digibok_2015062908042</subfield>
+            <subfield code="z"/>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="3">Fulltekst</subfield>
+            <subfield code="u">https://urn.nb.no/URN:NBN:no-nb_digibok_2015062908042</subfield>
+            <subfield code="y">Nettbiblioteket</subfield>
+            <subfield code="z">Digital representasjon</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Forlagets beskrivelse (lang)</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/?isbn=8203086942</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0030100</subfield>
+            <subfield code="b">g00005</subfield>
+            <subfield code="c">NA/A 1986:498</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0030100</subfield>
+            <subfield code="b">g00005</subfield>
+            <subfield code="c">NA/A w 6846</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">13g132506</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">13g132506</subfield>
+            <subfield code="r">13g132506</subfield>
+            <subfield code="w">BOOK</subfield>
+            <subfield code="z">(h.) (2. oppl. 1977)</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">13g132509</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">13g132509</subfield>
+            <subfield code="r">13g132509</subfield>
+            <subfield code="w">BOOK</subfield>
+            <subfield code="z">(h.) (3. oppl. 1984)</subfield>
+        </datafield>
+        <datafield tag="901" ind1=" " ind2=" ">
+            <subfield code="a">80</subfield>
+        </datafield>
+        <datafield tag="913" ind1=" " ind2=" ">
+            <subfield code="a">Norbok</subfield>
+            <subfield code="b">NB</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01947cam a2200481 c 4500</leader>
+        <controlfield tag="001">998721139304702202</controlfield>
+        <controlfield tag="005">20230313093530.0</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">150209s1987    no#|||||||||||000|1|nob|d</controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">872113930</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">872113930</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">8700515</subfield>
+            <subfield code="2">nbf</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8252513204</subfield>
+            <subfield code="q">ib.</subfield>
+            <subfield code="c">Nkr 87.00</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(EXLNZ-47BIBSYS_NETWORK)998721139304702201</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-TrBIB)872113930</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">14g148643-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">14g148644-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">872113930-47bibsys_network</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-TrBIB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="h">eng</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a">823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">4/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha</subfield>
+            <subfield code="d">1890-1976</subfield>
+            <subfield code="0">(NO-TrBIB)90057229</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Mord på Orientekspressen</subfield>
+            <subfield code="c">Agatha Christie ; oversatt av Axel S. Seeberg ; etterord av Nils Nordberg</subfield>
+        </datafield>
+        <datafield tag="246" ind1="1" ind2=" ">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="i">Originaltittel</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Stabekk]</subfield>
+            <subfield code="b">Den norske bokklubben</subfield>
+            <subfield code="c">1987</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">185 s.</subfield>
+            <subfield code="c">22 cm</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">1. norske utg. Oslo : Aschehoug, 1975</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2018-09-10</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">engelsk</subfield>
+            <subfield code="a">skjønnlitteratur</subfield>
+            <subfield code="a">krim</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Seeberg, Axel S.</subfield>
+            <subfield code="d">1914-1994</subfield>
+            <subfield code="4">trl</subfield>
+            <subfield code="0">(NO-TrBIB)90707254</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0030100</subfield>
+            <subfield code="c">g00005</subfield>
+            <subfield code="h">NA/A 1987:4073</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0030100</subfield>
+            <subfield code="c">g00005</subfield>
+            <subfield code="h">NA/A 1987:4074</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0183334</subfield>
+            <subfield code="c">g00001</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="0">
+            <subfield code="3"/>
+            <subfield code="y">NB Digital</subfield>
+            <subfield code="u">http://urn.nb.no/URN:NBN:no-nb_digibok_2017070307133</subfield>
+            <subfield code="z"/>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="3">Fulltekst</subfield>
+            <subfield code="u">https://urn.nb.no/URN:NBN:no-nb_digibok_2017070307133</subfield>
+            <subfield code="y">Nettbiblioteket</subfield>
+            <subfield code="z">Digital representasjon</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Forlagets beskrivelse (lang)</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/?isbn=8252513204</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0030100</subfield>
+            <subfield code="b">g00005</subfield>
+            <subfield code="c">NA/A 1987:4073</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0030100</subfield>
+            <subfield code="b">g00005</subfield>
+            <subfield code="c">NA/A 1987:4074</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">14g148643</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">14g148643</subfield>
+            <subfield code="r">14g148643</subfield>
+            <subfield code="w">BOOK</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">14g148644</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">14g148644</subfield>
+            <subfield code="r">14g148644</subfield>
+            <subfield code="w">BOOK</subfield>
+        </datafield>
+        <datafield tag="901" ind1=" " ind2=" ">
+            <subfield code="a">80</subfield>
+        </datafield>
+        <datafield tag="913" ind1=" " ind2=" ">
+            <subfield code="a">Norbok</subfield>
+            <subfield code="b">NB</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>02165cam a2200553 c 4500</leader>
+        <controlfield tag="001">999200857844702202</controlfield>
+        <controlfield tag="005">20230312190513.0</controlfield>
+        <controlfield tag="007">cr||||||||||||</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">141016s1992    no#||||| |||||000|1|nob|d</controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">920085784</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">920085784</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">920085784</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">9200227</subfield>
+            <subfield code="2">nbf</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8203169236</subfield>
+            <subfield code="q">ib.</subfield>
+            <subfield code="c">Nkr 98.00</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(EXLNZ-47BIBSYS_NETWORK)999200857844702201</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-TrBIB)140128077</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-TrBIB)920085784</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">920085784-47bibsys_network</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">92gn02939-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">92gn02940-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">92sa00791-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-TrBIB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="h">eng</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a">823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">4/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha</subfield>
+            <subfield code="d">1890-1976</subfield>
+            <subfield code="0">(NO-TrBIB)90057229</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="l">Norsk</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Mord på Orientekspressen</subfield>
+            <subfield code="c">Agatha Christie ; oversatt av Axel S. Seeberg</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Oslo</subfield>
+            <subfield code="b">Aschehoug</subfield>
+            <subfield code="c">1992</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">164 s.</subfield>
+            <subfield code="c">24 cm</subfield>
+        </datafield>
+        <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Maxi-bok</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Utgitt første gang på norsk 1975</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2014-01-22</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Seeberg, Axel S.</subfield>
+            <subfield code="4">trl</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0030100</subfield>
+            <subfield code="c">g00005</subfield>
+            <subfield code="h">NA/A 1992:1800</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0030100</subfield>
+            <subfield code="c">g00005</subfield>
+            <subfield code="h">NA/A 1992:1801</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0183334</subfield>
+            <subfield code="c">g00001</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="0">
+            <subfield code="3"/>
+            <subfield code="y">NB Digital</subfield>
+            <subfield code="u">http://urn.nb.no/URN:NBN:no-nb_digibok_2014010708019</subfield>
+            <subfield code="z"/>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="3">Fulltekst</subfield>
+            <subfield code="u">https://urn.nb.no/URN:NBN:no-nb_digibok_2014010708019</subfield>
+            <subfield code="y">Nettbiblioteket</subfield>
+            <subfield code="z">Digital representasjon</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Forlagets beskrivelse (lang)</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/?isbn=8203169236</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0030100</subfield>
+            <subfield code="b">g00005</subfield>
+            <subfield code="c">NA/A 1992:1800</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0030100</subfield>
+            <subfield code="b">g00005</subfield>
+            <subfield code="c">NA/A 1992:1801</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0183334</subfield>
+            <subfield code="b">g00001</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">92gn02939</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">92gn02939</subfield>
+            <subfield code="r">92gn02939</subfield>
+            <subfield code="w">BOOK</subfield>
+            <subfield code="z">(ib.) Ikke til hjemlån</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">92gn02940</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">92gn02940</subfield>
+            <subfield code="r">92gn02940</subfield>
+            <subfield code="w">BOOK</subfield>
+            <subfield code="z">(ib.) Ikke til hjemlån</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">92sa00791</subfield>
+            <subfield code="d">19920120</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">92sa00791</subfield>
+            <subfield code="r">92sa00791</subfield>
+            <subfield code="w">BOOK</subfield>
+            <subfield code="z">(Sikringseksemplar.)</subfield>
+        </datafield>
+        <datafield tag="901" ind1=" " ind2=" ">
+            <subfield code="a">80</subfield>
+        </datafield>
+        <datafield tag="913" ind1=" " ind2=" ">
+            <subfield code="a">Norbok</subfield>
+            <subfield code="b">NB</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>02241cim a2200493 c 4500</leader>
+        <controlfield tag="001">999214836944702202</controlfield>
+        <controlfield tag="005">20230303113703.0</controlfield>
+        <controlfield tag="007">ss |||||||||||</controlfield>
+        <controlfield tag="008">141016s1992    no#|||| |||||||f#|||nob| </controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">921483694</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">921483694</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">9201091</subfield>
+            <subfield code="2">nbf</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8242102147</subfield>
+            <subfield code="c">Nkr 324.00</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(EXLNZ-47BIBSYS_NETWORK)999214836944702201</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-TrBIB)921483694</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">921483694-47bibsys_network</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">92gn06776-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">92sa12006-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="h">eng</subfield>
+            <subfield code="d">nob</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a">823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">4/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha</subfield>
+            <subfield code="d">1890-1976</subfield>
+            <subfield code="0">(NO-TrBIB)90057229</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="l">Norsk</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Mord på Orientekspressen</subfield>
+            <subfield code="c">Agatha Christie</subfield>
+            <subfield code="h">[lydopptak]</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Melhus</subfield>
+            <subfield code="b">Lydbokforlaget</subfield>
+            <subfield code="c">1992</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">5 kassetter (360 min)</subfield>
+            <subfield code="b">i eske 23 x 17 x 3 cm</subfield>
+            <subfield code="c">i eske, 23 x 17 x</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Lest av John Yngvar Fearnley</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Musikk: Hallgeir Rustan</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Fearnley, John Yngvar</subfield>
+            <subfield code="d">1940-</subfield>
+            <subfield code="0">(NO-TrBIB)90611997</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Rustan, Hallgeir</subfield>
+            <subfield code="d">1966-</subfield>
+            <subfield code="0">(NO-TrBIB)90622483</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0030100</subfield>
+            <subfield code="c">g00005</subfield>
+            <subfield code="h">NA/A 1992:4448</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0183334</subfield>
+            <subfield code="c">g00001</subfield>
+            <subfield code="h">KA 1993 0026 - KA 1993 0030</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Forlagets beskrivelse (lang)</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/?isbn=8242102147</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Omslagsbilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/large/0/4/9788242102140.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Omslagsbilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/small/0/4/9788242102140.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Omslagsbilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/small/7/4/8242102147.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Originalt bilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/original/0/4/9788242102140.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0030100</subfield>
+            <subfield code="b">g00005</subfield>
+            <subfield code="c">NA/A 1992:4448</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0183334</subfield>
+            <subfield code="b">g00001</subfield>
+            <subfield code="c">KA 1993 0026 - KA 1993 0030</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">92gn06776</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="m">MAGN</subfield>
+            <subfield code="p">92gn06776</subfield>
+            <subfield code="r">92gn06776</subfield>
+            <subfield code="w">AUDIOCASSETT</subfield>
+            <subfield code="z">(kassetter) Ikke til hjemlån</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">92sa12006</subfield>
+            <subfield code="d">19920904</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="m">MAGN</subfield>
+            <subfield code="p">92sa12006</subfield>
+            <subfield code="r">92sa12006</subfield>
+            <subfield code="w">AUDIOCASSETT</subfield>
+            <subfield code="z">(Sikringseksemplar.)</subfield>
+        </datafield>
+        <datafield tag="901" ind1=" " ind2=" ">
+            <subfield code="a">80</subfield>
+        </datafield>
+        <datafield tag="913" ind1=" " ind2=" ">
+            <subfield code="a">Norbok</subfield>
+            <subfield code="b">NB</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01983cam a2200529 c 4500</leader>
+        <controlfield tag="001">999825908654702202</controlfield>
+        <controlfield tag="005">20230401152615.0</controlfield>
+        <controlfield tag="007">cr||||||||||||</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">141016s1998    no#||||| |||||000|1|nob| </controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">982590865</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">982590865</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">9906404</subfield>
+            <subfield code="2">nbf</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8203203795</subfield>
+            <subfield code="q">h.</subfield>
+            <subfield code="c">Nkr 49.00</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(EXLNZ-47BIBSYS_NETWORK)999825908654702201</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-TrBIB)102002797</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-TrBIB)982590865</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">982590865-47bibsys_network</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">98sa23162-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">99ga04102-47bibsys_nb</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="h">eng</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">norbibl</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a">823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">4/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha</subfield>
+            <subfield code="d">1890-1976</subfield>
+            <subfield code="0">(NO-TrBIB)90057229</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Mord på Orientekspressen</subfield>
+            <subfield code="c">Agatha Christie ; oversatt av Axel S. Seeberg</subfield>
+        </datafield>
+        <datafield tag="246" ind1="1" ind2=" ">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="i">Originaltittel</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Oslo</subfield>
+            <subfield code="b">Aschehoug</subfield>
+            <subfield code="c">1998</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">164 s.</subfield>
+        </datafield>
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">Christies beste</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">1. norske utg. 1975</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2010-09-16</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">kriminal</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Seeberg, Axel S.</subfield>
+            <subfield code="4">trl</subfield>
+        </datafield>
+        <datafield tag="800" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha</subfield>
+            <subfield code="t">Christies beste</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0030100</subfield>
+            <subfield code="c">g00005</subfield>
+            <subfield code="h">NA/A 1999:1282</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0183334</subfield>
+            <subfield code="c">g00001</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="0">
+            <subfield code="3"/>
+            <subfield code="y">NB Digital</subfield>
+            <subfield code="u">http://urn.nb.no/URN:NBN:no-nb_digibok_2010090203012</subfield>
+            <subfield code="z"/>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="3">Fulltekst</subfield>
+            <subfield code="u">https://urn.nb.no/URN:NBN:no-nb_digibok_2010090203012</subfield>
+            <subfield code="y">Nettbiblioteket</subfield>
+            <subfield code="z">Digital representasjon</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Forlagets beskrivelse (lang)</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/?isbn=8203203795</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0030100</subfield>
+            <subfield code="b">g00005</subfield>
+            <subfield code="c">NA/A 1999:1282</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="859" ind1=" " ind2=" ">
+            <subfield code="a">0183334</subfield>
+            <subfield code="b">g00001</subfield>
+            <subfield code="f">0</subfield>
+            <subfield code="h">0</subfield>
+            <subfield code="x">2015-10-31</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">98sa23162</subfield>
+            <subfield code="d">19981207</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">98sa23162</subfield>
+            <subfield code="r">98sa23162</subfield>
+            <subfield code="w">BOOK</subfield>
+        </datafield>
+        <datafield tag="876" ind1=" " ind2=" ">
+            <subfield code="a">99ga04102</subfield>
+            <subfield code="d">19990303</subfield>
+            <subfield code="j">kat</subfield>
+            <subfield code="p">99ga04102</subfield>
+            <subfield code="r">99ga04102</subfield>
+            <subfield code="w">BOOK</subfield>
+            <subfield code="z">(h.) (Til bruk på NB Oslos lesesal)</subfield>
+        </datafield>
+        <datafield tag="901" ind1=" " ind2=" ">
+            <subfield code="a">90</subfield>
+        </datafield>
+        <datafield tag="913" ind1=" " ind2=" ">
+            <subfield code="a">Norbok</subfield>
+            <subfield code="b">NB</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>03001nam a2200529 c 4500</leader>
+        <controlfield tag="001">999919895500302202</controlfield>
+        <controlfield tag="005">20230601110554.0</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">170608s2017    no     e |||||00| f nob| </controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">978-82-03-37280-3</subfield>
+            <subfield code="q">h.</subfield>
+            <subfield code="c">Nkr 169.00</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(EXLNZ-47BIBSYS_NETWORK)999920320853902201</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-OsBAS)150273468</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsBAS</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="d">NO-OsNB</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="a">nob</subfield>
+            <subfield code="h">eng</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823</subfield>
+            <subfield code="q">NO-OsBAS</subfield>
+            <subfield code="2">23/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha</subfield>
+            <subfield code="d">1890-1976</subfield>
+            <subfield code="0">(NO-TrBIB)90057229</subfield>
+            <subfield code="4">aut</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Mord på Orientekspressen</subfield>
+            <subfield code="c">Agatha Christie ; oversatt av Ola Halvor Seeberg Nygård</subfield>
+        </datafield>
+        <datafield tag="246" ind1="1" ind2=" ">
+            <subfield code="i">Originaltittel:</subfield>
+            <subfield code="a">Murder on the Orient Express</subfield>
+        </datafield>
+        <datafield tag="246" ind1="3" ind2="4">
+            <subfield code="a">Mord på orient ekspressen</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Oslo</subfield>
+            <subfield code="b">Aschehoug</subfield>
+            <subfield code="c">2017</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">172 s.</subfield>
+            <subfield code="c">21 cm</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">1. norske utg. 1975</subfield>
+        </datafield>
+        <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">Orientekspressen får en uventet stopp, linjen er blokkert av snøskred. Passasjerene har ikke annet å gjøre enn å gå til ro for natten, omgitt av stille snødekte Balkanåser. Men Hercule Poirot sover urolig, han blir stadig forstyrret av uvanlige lyder. Morgenen etter finner han mannen i nabokupeen død, ille tilredt av en mengde knivstikk. Og morderen befinner seg fremdeles på toget...</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2021-10-15</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Poirot, Hercule (fiktiv person)</subfield>
+            <subfield code="2">bokbas</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Krim</subfield>
+            <subfield code="2">bokbas</subfield>
+            <subfield code="9">nno</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Krim</subfield>
+            <subfield code="2">bokbas</subfield>
+            <subfield code="9">nob</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Politi og detektivar</subfield>
+            <subfield code="2">bokbas</subfield>
+            <subfield code="9">nno</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Politi og detektiver</subfield>
+            <subfield code="2">bokbas</subfield>
+            <subfield code="9">nob</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Romanar</subfield>
+            <subfield code="2">bokbas</subfield>
+            <subfield code="9">nno</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Romaner</subfield>
+            <subfield code="0">(uri)https://id.nb.no/vocabulary/ntsf/258</subfield>
+            <subfield code="2">ntsf</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Romaner</subfield>
+            <subfield code="2">bokbas</subfield>
+            <subfield code="9">nob</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Nygård, Ola Halvor Seeberg</subfield>
+            <subfield code="d">1964-</subfield>
+            <subfield code="0">(NO-TrBIB)12040896</subfield>
+            <subfield code="4">trl</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0030100</subfield>
+            <subfield code="c">g00005</subfield>
+            <subfield code="h">NA/A 2017:9321</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0183334</subfield>
+            <subfield code="c">g00001</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="0">
+            <subfield code="3"/>
+            <subfield code="y">NB Digital</subfield>
+            <subfield code="u">http://urn.nb.no/URN:NBN:no-nb_digibok_2021092348582</subfield>
+            <subfield code="z"/>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="3">Fulltekst</subfield>
+            <subfield code="u">https://urn.nb.no/URN:NBN:no-nb_digibok_2021092348582</subfield>
+            <subfield code="y">Nettbiblioteket</subfield>
+            <subfield code="z">Digital representasjon</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="a">media.boknett.no</subfield>
+            <subfield code="3">Miniatyrbilde</subfield>
+            <subfield code="u">https://media.boknett.no/objects/68/34/150273468/productimage_OS_014d3c0ca895ef333d113fa378b0be53a29d4ba6.jpg</subfield>
+            <subfield code="n">Bokbasen, Oslo</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="a">media.boknett.no</subfield>
+            <subfield code="3">Omslagsbilde</subfield>
+            <subfield code="u">https://media.boknett.no/objects/68/34/150273468/productimage_ORG_29ba695c2889bde434d08905e24e8c2ec5aebc6d.jpg</subfield>
+            <subfield code="n">Bokbasen, Oslo</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Forlagets beskrivelse (lang)</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/?isbn=9788203372803</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Miniatyrbilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/small/3/0/9788203372803.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Omslagsbilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/large/3/0/9788203372803.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Originalt bilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/original/3/0/9788203372803.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="913" ind1=" " ind2=" ">
+            <subfield code="a">Norbok</subfield>
+            <subfield code="b">NB</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>03376nam a2200577 c 4500</leader>
+        <controlfield tag="001">999920020499502202</controlfield>
+        <controlfield tag="005">20230307094441.0</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">190905s2019    no a   er6   |000 1 nob| </controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9788242964854</subfield>
+            <subfield code="q">heftet</subfield>
+            <subfield code="c">Nkr 99.00</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(EXLNZ-47BIBSYS_NETWORK)999920906944002201</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-OsBAS)150329774</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsBAS</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="d">NO-OsNB</subfield>
+        </datafield>
+        <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="a">nob</subfield>
+            <subfield code="h">fre</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">741.5951</subfield>
+            <subfield code="2">23/nor</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Eckartsberg, Benjamin von</subfield>
+            <subfield code="d">1970-</subfield>
+            <subfield code="0">(NO-TrBIB)99069521</subfield>
+            <subfield code="4">aut</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Hercule Poirot :</subfield>
+            <subfield code="b">mord på Orientekspressen</subfield>
+            <subfield code="c">basert på Agatha Christies roman ; manus: Benjamin von Eckartsberg ; tegninger og farger: Chaiko ; oversettelse: Jens Erik Røsåsen</subfield>
+        </datafield>
+        <datafield tag="246" ind1="1" ind2=" ">
+            <subfield code="i">Originaltittel:</subfield>
+            <subfield code="a">Hercule Poirot :</subfield>
+            <subfield code="b">le crime de l'Orient-express</subfield>
+        </datafield>
+        <datafield tag="246" ind1="3" ind2=" ">
+            <subfield code="a">Mord på Orientekspressen</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">[Oslo]</subfield>
+            <subfield code="b">Egmont Publishing</subfield>
+            <subfield code="c">2019</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">64 sider</subfield>
+            <subfield code="b">illustrasjoner</subfield>
+            <subfield code="c">29 cm</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">stillbilde</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1014</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">tekst</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">uformidlet</subfield>
+            <subfield code="0">http://www.rdaregistry.info/termList/RDAMediaType/#1007</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">bind</subfield>
+            <subfield code="0">http://www.rdaregistry.info/termList/RDACarrierType/#1049</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">Agatha Christie</subfield>
+        </datafield>
+        <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">Verdens mest berømte togtur byr på langt mer enn lekre cocktails og luksuriøse omgivelser når Poirot går ombord. Før han vet ordet av det, er en av passasjerene død, og Poirot befinner seg midt i et uhyre innfløkt mordmysterium ...    Endelig er Agatha Christies berømte roman utgitt i tegneserieform - dette er et julehefte som krimelskerne kan kose seg med i vintermørket!</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Engelsk litteratur</subfield>
+            <subfield code="0">(NO-TrBIB)HUME06885</subfield>
+            <subfield code="2">humord</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Poirot, Hercule (fiktiv person)</subfield>
+            <subfield code="2">bokbas</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">tegneserieadaptasjoner</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Grafiske romaner</subfield>
+            <subfield code="2">bokbas</subfield>
+            <subfield code="9">nno</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Grafiske romaner</subfield>
+            <subfield code="2">bokbas</subfield>
+            <subfield code="9">nob</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Krim</subfield>
+            <subfield code="2">bokbas</subfield>
+            <subfield code="9">nno</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Krim</subfield>
+            <subfield code="2">bokbas</subfield>
+            <subfield code="9">nob</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Politi og detektivar</subfield>
+            <subfield code="2">bokbas</subfield>
+            <subfield code="9">nno</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Politi og detektiver</subfield>
+            <subfield code="2">bokbas</subfield>
+            <subfield code="9">nob</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Tegneserier</subfield>
+            <subfield code="2">bokbas</subfield>
+            <subfield code="9">nob</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Teikneseriar</subfield>
+            <subfield code="2">bokbas</subfield>
+            <subfield code="9">nno</subfield>
+        </datafield>
+        <datafield tag="700" ind1="0" ind2=" ">
+            <subfield code="a">Chaiko</subfield>
+            <subfield code="d">1981-</subfield>
+            <subfield code="0">(NO-TrBIB)1573631244184</subfield>
+            <subfield code="4">art</subfield>
+            <subfield code="4">clr</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha</subfield>
+            <subfield code="d">1890-1976</subfield>
+            <subfield code="t">Murder on the Orient Express</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Røsåsen, Jens E.</subfield>
+            <subfield code="d">1959-</subfield>
+            <subfield code="q">(Jens Erik)</subfield>
+            <subfield code="0">(NO-TrBIB)5079524</subfield>
+            <subfield code="4">trl</subfield>
+        </datafield>
+        <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Agatha Christie</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0030100</subfield>
+            <subfield code="c">g00005</subfield>
+            <subfield code="h">NA/A 2019:9892</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0183334</subfield>
+            <subfield code="c">g00001</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="a">media.boknett.no</subfield>
+            <subfield code="3">Miniatyrbilde</subfield>
+            <subfield code="u">https://media.boknett.no/objects/74/97/150329774/productimage_OS_065281f4168eb180d3c626597e2367e6859bae72.jpg</subfield>
+            <subfield code="n">Bokbasen, Oslo</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="a">media.boknett.no</subfield>
+            <subfield code="3">Omslagsbilde</subfield>
+            <subfield code="u">https://media.boknett.no/objects/74/97/150329774/productimage_ORG_fde7dbfabdf5012b1975ba1e0e73457a6daf8fbd.jpg</subfield>
+            <subfield code="n">Bokbasen, Oslo</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Forlagets beskrivelse (lang)</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/content/?isbn=9788242964854</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Omslagsbilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/large/4/5/9788242964854.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Omslagsbilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/small/4/5/9788242964854.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Originalt bilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/original/4/5/9788242964854.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="913" ind1=" " ind2=" ">
+            <subfield code="a">Norbok</subfield>
+            <subfield code="b">NB</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01345ngm a2200325 c 4500</leader>
+        <controlfield tag="001">999920048196702202</controlfield>
+        <controlfield tag="005">20200214102431.0</controlfield>
+        <controlfield tag="007">vd#cva|||</controlfield>
+        <controlfield tag="008">200213s2008    no ||| |     |    v|eng|c</controlfield>
+        <datafield tag="024" ind1="3" ind2=" ">
+            <subfield code="a">5050582555363</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(EXLNZ-47BIBSYS_NETWORK)999921020274902201</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-TrBIB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">rda</subfield>
+        </datafield>
+        <datafield tag="041" ind1="0" ind2=" ">
+            <subfield code="j">swe</subfield>
+            <subfield code="j">nob</subfield>
+            <subfield code="j">dan</subfield>
+            <subfield code="j">fin</subfield>
+        </datafield>
+        <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Murder on the orient express</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="2">
+            <subfield code="b">Universal Pictures Nordic</subfield>
+            <subfield code="c">[2008]</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 plate (DVD) (122 minutter)</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">lyder</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1012</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">todimensjonalt levende bilde</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1023</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">video</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1008</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">videodisk</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1060</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Aldersgrense: 15 år</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Medietilsynet: 123213</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Produksjonsår: 1974</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Regissør: Sidney Lumet</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Rolleliste: Albert Finney, Lauren Bacall, Martin Balsam med flere</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Undertekster på blant annet norsk</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Bacall, Lauren</subfield>
+            <subfield code="d">1924-2014</subfield>
+            <subfield code="0">(NO-TrBIB)90850443</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Balsam, Martin</subfield>
+            <subfield code="d">1919-1996</subfield>
+            <subfield code="0">(NO-TrBIB)99016656</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Finney, Albert</subfield>
+            <subfield code="d">1936-</subfield>
+            <subfield code="0">(NO-TrBIB)90921889</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lumet, Sidney</subfield>
+            <subfield code="d">1924-2011</subfield>
+            <subfield code="0">(NO-TrBIB)90824079</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>03595cam a2200577 c 4500</leader>
+        <controlfield tag="001">999920195200202202</controlfield>
+        <controlfield tag="005">20230602050403.0</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">211209s2022    no a   e |||||||| 1 nob| </controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9788242973665</subfield>
+            <subfield code="c">Nkr 139.00</subfield>
+            <subfield code="q">heftet</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(EXLNZ-47BIBSYS_NETWORK)999921628965702201</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-DIMO)94e4c758-f586-4a0c-a5ce-325c16af3ed1</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-OsBA)0643823</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-OsBAS)150408351</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">oai:bibbi.bs.no:0643823</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">oai:nb.no:pliktmonografi_000004093</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsBA</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="d">NO-OsNB</subfield>
+        </datafield>
+        <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="a">nob</subfield>
+            <subfield code="h">eng</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">741.5942</subfield>
+            <subfield code="q">NO-OsBA</subfield>
+            <subfield code="2">23/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Eckartsberg, Benjamin von</subfield>
+            <subfield code="d">1970-</subfield>
+            <subfield code="0">(NO-TrBIB)99069521</subfield>
+            <subfield code="4">aut</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="l">Norsk</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Hercule Poirot :</subfield>
+            <subfield code="b">mord på Orientekspressen</subfield>
+            <subfield code="c">basert på Agatha Christies roman ; manus: Benjamin von Eckartsberg ; tegninger og farger: Chaiko ; oversettelse: Jens Erik Røsåsen</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">2. utgave</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">[Oslo]</subfield>
+            <subfield code="b">Story house Egmont</subfield>
+            <subfield code="c">2022</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">64 sider</subfield>
+            <subfield code="b">illustrasjoner i farger</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">stillbilde</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1014</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">tekst</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">uformidlet</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">bind</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">1. utgave 2019</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Basert på romanen: Mord på Orientekspressen / Agatha Christie</subfield>
+        </datafield>
+        <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">Den elskverdige detektiven Hercule Poirot er på vei til London med Orientekspressen og har kupé på første klasse. Når passasjeren i nabokupéen blir funnet død en morgen går Poirot og de andre passasjerene i gang med å etterforske det som skal vise seg å være et ekstremt innfløkt mordmysterium. Dette er Agatha Christies klassiske historie gjenskapt i tegneserieform. Omtalen er utarbeidet av BS.</subfield>
+        </datafield>
+        <datafield tag="650" ind1="2" ind2="7">
+            <subfield code="a">Poirot, Hercule (fiktiv person)</subfield>
+            <subfield code="0">(NO-OsBA)1131432</subfield>
+            <subfield code="2">bibbi</subfield>
+            <subfield code="9">nno</subfield>
+        </datafield>
+        <datafield tag="650" ind1="2" ind2="7">
+            <subfield code="a">Poirot, Hercule (fiktiv person)</subfield>
+            <subfield code="0">(NO-OsBA)1131432</subfield>
+            <subfield code="2">bibbi</subfield>
+            <subfield code="9">nob</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Grafiske romaner</subfield>
+            <subfield code="0">(uri)https://id.nb.no/vocabulary/ntsf/302</subfield>
+            <subfield code="2">ntsf</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Krim</subfield>
+            <subfield code="0">(uri)https://id.nb.no/vocabulary/ntsf/159</subfield>
+            <subfield code="2">ntsf</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Tegneserier</subfield>
+            <subfield code="0">(uri)https://id.nb.no/vocabulary/ntsf/301</subfield>
+            <subfield code="2">ntsf</subfield>
+        </datafield>
+        <datafield tag="700" ind1="0" ind2=" ">
+            <subfield code="a">Chaiko</subfield>
+            <subfield code="d">1981-</subfield>
+            <subfield code="c">psevd. for Cai Feng</subfield>
+            <subfield code="4">ill</subfield>
+            <subfield code="0">(NO-TrBIB)1573631244184</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha</subfield>
+            <subfield code="d">1890-1976</subfield>
+            <subfield code="t">Mord på Orientekspressen</subfield>
+            <subfield code="4">ant</subfield>
+            <subfield code="0">(NO-TrBIB)90057229</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Eckartsberg, Benjamin von</subfield>
+            <subfield code="d">1970-</subfield>
+            <subfield code="t">Murder on the Orient Express</subfield>
+            <subfield code="l">Norsk</subfield>
+            <subfield code="0">(NO-TrBIB)99069521</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Røsåsen, Jens E.</subfield>
+            <subfield code="d">1959-</subfield>
+            <subfield code="q">(Jens Erik)</subfield>
+            <subfield code="4">trl</subfield>
+            <subfield code="0">(NO-TrBIB)5079524</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="i">Oversettelse av:</subfield>
+            <subfield code="a">Eckartsberg, Benjamin von</subfield>
+            <subfield code="d">1970-</subfield>
+            <subfield code="t">Murder on the Orient Express</subfield>
+            <subfield code="l">Engelsk</subfield>
+            <subfield code="0">(NO-TrBIB)99069521</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0030100</subfield>
+            <subfield code="c">g00005</subfield>
+            <subfield code="h">NA/A 2022:3030</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="b">0183334</subfield>
+            <subfield code="c">g00001</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="0">
+            <subfield code="3"/>
+            <subfield code="y">NB Digital plikt</subfield>
+            <subfield code="u">http://urn.nb.no/URN:NBN:no-nb_pliktmonografi_000004093</subfield>
+            <subfield code="z">Pliktavlevert</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="3">Fulltekst</subfield>
+            <subfield code="u">https://www.nb.no/search?q=oaiid:&quot;oai:nb.bibsys.no:999920195200202202&quot;</subfield>
+            <subfield code="y">Nettbiblioteket</subfield>
+            <subfield code="z">Søke-URL</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Forlagets beskrivelse (lang)</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/content/?isbn=9788242973665</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Miniatyrbilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/small/5/6/9788242973665.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Omslagsbilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/large/5/6/9788242973665.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="2">
+            <subfield code="3">Originalt bilde</subfield>
+            <subfield code="u">https://contents.bibs.aws.unit.no/files/images/original/5/6/9788242973665.jpg</subfield>
+            <subfield code="q">image/jpeg</subfield>
+        </datafield>
+        <datafield tag="913" ind1=" " ind2=" ">
+            <subfield code="a">Norbok</subfield>
+            <subfield code="b">NB</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01984nja a22004577c 4500</leader>
+        <controlfield tag="001">999920346422302202</controlfield>
+        <controlfield tag="007">cr||||||||||||</controlfield>
+        <controlfield tag="007">sr||||||||||||</controlfield>
+        <controlfield tag="008">221216t20102010no |||||o########|#|und|#</controlfield>
+        <datafield tag="024" ind1="0" ind2=" ">
+            <subfield code="a">NOX9X3820810</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(EXLNZ-47BIBSYS_NETWORK)999921937684702201</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-OsNB)EAN_7041881220425_01_0010</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-Phono)EAN_7041881220425_01_0010</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">oai:nb.no:pliktmusikk_EAN_7041881220425_01_0010</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="b">nob</subfield>
+            <subfield code="d">NO-OsNB</subfield>
+            <subfield code="e">rda</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Bennett, Richard R.</subfield>
+            <subfield code="4">cmp</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Murder On The Orient Express</subfield>
+            <subfield code="c">Richard R. Bennett, composer</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">[Norge]</subfield>
+            <subfield code="b">CSSE Records</subfield>
+            <subfield code="c">2010-01-25</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="2">
+            <subfield code="a">[Oslo]</subfield>
+            <subfield code="b">Phonofile</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">℗ 2010</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 online (nettilkoblet) ressurs (1 lydfil)</subfield>
+        </datafield>
+        <datafield tag="306" ind1=" " ind2=" ">
+            <subfield code="a">000352</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">framført musikk</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1011</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">datamaskin</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1003</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">online (nettilkoblet) ressurs</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1018</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
+        <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="a">digital</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/typeRec/1002</subfield>
+            <subfield code="2">rdatr</subfield>
+        </datafield>
+        <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="a">lydfil</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/fileType/1001</subfield>
+            <subfield code="2">rdaft</subfield>
+        </datafield>
+        <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="b">FLAC</subfield>
+        </datafield>
+        <datafield tag="511" ind1="0" ind2=" ">
+            <subfield code="a">Per Einar Watle Trio, Per Einar Watle, Christian Larssen, Ketil Aasen</subfield>
+        </datafield>
+        <datafield tag="588" ind1=" " ind2=" ">
+            <subfield code="a">Importert fra Phonofile</subfield>
+        </datafield>
+        <datafield tag="690" ind1=" " ind2=" ">
+            <subfield code="a">Jazz</subfield>
+            <subfield code="2">phonofile</subfield>
+            <subfield code="9">local</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Aasen, Ketil</subfield>
+            <subfield code="4">mus</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Larssen, Christian</subfield>
+            <subfield code="4">mus</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Watle, Per Einar</subfield>
+            <subfield code="4">mus</subfield>
+        </datafield>
+        <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Per Einar Watle Trio</subfield>
+            <subfield code="4">https://id.nb.no/vocabulary/perfrel/1</subfield>
+        </datafield>
+        <datafield tag="773" ind1="0" ind2=" ">
+            <subfield code="t">Corrientes</subfield>
+            <subfield code="d">[Norge] : CSSE Records, 2010-01-25</subfield>
+            <subfield code="g">10</subfield>
+            <subfield code="w">(NO-OsNB)EAN_7041881220425</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="0">
+            <subfield code="3"/>
+            <subfield code="y">NB Digital plikt</subfield>
+            <subfield code="u">http://urn.nb.no/URN:NBN:no-nb_pliktmusikk_EAN_7041881220425_01_0010</subfield>
+            <subfield code="z"/>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="0">
+            <subfield code="u">https://urn.nb.no/URN:NBN:no-nb_pliktmusikk_EAN_7041881220425_01_0010</subfield>
+            <subfield code="3">Fulltekst</subfield>
+            <subfield code="y">Nettbiblioteket</subfield>
+            <subfield code="z">Spor</subfield>
+        </datafield>
+        <datafield tag="913" ind1=" " ind2=" ">
+            <subfield code="a">Nordisko</subfield>
+            <subfield code="b">NB</subfield>
+        </datafield>
+        <datafield tag="913" ind1=" " ind2=" ">
+            <subfield code="a">Phonofile</subfield>
+            <subfield code="b">NB</subfield>
+        </datafield>
+        <datafield tag="999" ind1=" " ind2=" ">
+            <subfield code="a">CP</subfield>
+            <subfield code="9">local</subfield>
+        </datafield>
+    </record>
+</collection>
