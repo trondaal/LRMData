@@ -33,10 +33,6 @@ Agenter identifisert med URI
 Agent-innførsler som IKKE er identifiser med URI i $1
 men dere velger selv hvilke agenter som skal være med
 -------------------------------------------------------
-* 100  1#  $aTolkien, J.R.R.  $d1892-1973  $0(NO-TrBIB)90056310
-* 100  1#  $aTolkien, J.R.R.  $d1892-1973  $0(NO-TrBIB)90056310
-* 100  1#  $aTolkien, J.R.R.  $d1892-1973  $0(NO-TrBIB)90056310
-* 100  1#  $aTolkien, J.R.R.  $d1892-1973  $0(NO-TrBIB)90056310
 * 600  10  $aBaggins, Bilbo  $vFiction.
 * 600  10  $aBaggins, Bilbo  $vComic books, strips, etc.
 * 600  10  $aBaggins, Frodo  $vFiction.
@@ -86,7 +82,7 @@ verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 * http://rdaregistry.info/Elements/m/object/P30069 (has book designer agent) : 1 
 * http://rdaregistry.info/Elements/m/object/P30321 (has contributor agent of still image) : 6 
 * http://rdaregistry.info/Elements/w/object/P10055 (has compiler agent) : 2 
-* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 24 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 28 
 
 
 Personer med URI og relasjonstyper som er brukt for disse

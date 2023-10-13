@@ -212,6 +212,7 @@
    </rdac:C10002>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/9014152502908610800009/exp/eng/1020">
       <rdaed:P20316>Lord of the rings : a reader's companion</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>The Lord of the rings : a reader's companion</rdaed:P20312>
       <rdfs:label>The Lord of the rings / eng / text</rdfs:label>
       <rdaed:P20312>Lord of the rings : a reader's companion</rdaed:P20312>
@@ -224,7 +225,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q15228/companioned/exp/eng/1020">
       <rdaed:P20316>Lord of the rings</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>The lord of the rings [boxed set]</rdaed:P20312>
       <rdfs:label>The lord of the rings [boxed set] / eng / text</rdfs:label>
       <rdaed:P20071>The fellowship of the ring -- The two towers -- The return of the king -- Lord of the rings : a reader's companion / by Wayne G. Hammond and Christina Scull.</rdaed:P20071>
@@ -275,7 +276,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q15228/extended/exp/eng/1020">
       <rdaed:P20316>The Hobbit ; Lord of the rings</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>The hobbit ; The lord of the rings</rdaed:P20312>
       <rdfs:label>The hobbit ; The lord of the rings / eng / text</rdfs:label>
       <rdaed:P20312>The Hobbit ; The fellowship of the ring ; The two towers ; [and] The return of the king [box set]</rdaed:P20312>
@@ -293,6 +294,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q208002/exp/eng/1020">
       <rdaed:P20316>Fellowship of the ring</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>The fellowship of the ring : being the first part of The Lord of the Rings</rdaed:P20312>
       <rdfs:label>The fellowship of the ring / eng / text</rdfs:label>
       <rdaed:P20312>Fellowship of the ring</rdaed:P20312>
@@ -309,6 +311,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q208002/exp/nob/1013/24701800/65245833">
       <rdaed:P20316>Fellowship of the ring</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Ringenes herre I : ringens brorskap</rdaed:P20312>
       <rdfs:label>Ringenes herre I / nob / spoken word</rdfs:label>
       <rdaed:P20315>Ringens brorskap</rdaed:P20315>
@@ -332,6 +335,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q332388/exp/eng/1020">
       <rdaed:P20316>Two towers</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>The two towers : being the second part of The lord of the rings</rdaed:P20312>
       <rdfs:label>The two towers / eng / text</rdfs:label>
       <rdaed:P20312>Two towers</rdaed:P20312>
@@ -347,6 +351,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q332388/exp/nob/1013/24701800/65245833">
       <rdaed:P20316>Two towers</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Ringenes herre II : to tårn</rdaed:P20312>
       <rdfs:label>Ringenes herre II / nob / spoken word</rdfs:label>
       <rdaed:P20315>To tårn</rdaed:P20315>
@@ -370,6 +375,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q332581/exp/eng/1020">
       <rdaed:P20316>Return of the king</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>The return of the king : being the third part of The lord of the rings</rdaed:P20312>
       <rdfs:label>The return of the king / eng / text</rdfs:label>
       <rdaed:P20312>Return of the king</rdaed:P20312>
@@ -385,6 +391,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q332581/exp/nob/1013/24701800/65245833">
       <rdaed:P20316>Return of the king</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Ringenes herre III : atter en konge</rdaed:P20312>
       <rdfs:label>Ringenes herre III / nob / spoken word</rdfs:label>
       <rdaed:P20315>Atter en konge</rdaed:P20315>
@@ -408,6 +415,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q503325/exp/eng/1020">
       <rdaed:P20316>The war of the ring</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>The war of the ring</rdaed:P20312>
       <rdfs:label>The war of the ring / text</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
@@ -416,6 +424,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q74287/exp/eng/1014/1020/102370266/85751968">
       <rdaed:P20316>The hobbit, or there and back again</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>The hobbit , or there and back again : [an illustrated edition of the fantasy classic]</rdaed:P20312>
       <rdfs:label>The hobbit , or there and back again / eng / ill / text</rdfs:label>
       <rdaed:P20315>The hobbit, or there and back again</rdaed:P20315>
@@ -429,6 +438,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q74287/exp/eng/1020">
       <rdaed:P20316>The hobbit, or there and back again</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>The hobbit, or there and back again</rdaed:P20312>
       <rdfs:label>The hobbit, or there and back again / eng / text</rdfs:label>
       <rdaxd:P00029>part</rdaxd:P00029>
@@ -441,6 +451,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q74287/exp/nno/1020/267471594">
       <rdaed:P20316>The hobbit, or there and back again</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Hobbiten, eller Ditut og attende</rdaed:P20312>
       <rdfs:label>Hobbiten, eller Ditut og attende / text</rdfs:label>
       <rdaed:P20315>Hobbiten, eller Ditut og attende</rdaed:P20315>
@@ -452,6 +463,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q74287/exp/nob/1013/1169314213724530007/224621493/aasenfinn">
       <rdaed:P20316>The hobbit, or there and back again</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Hobbiten</rdaed:P20312>
       <rdfs:label>Hobbiten / nob / spoken word</rdfs:label>
       <rdaed:P20315>Hobbiten</rdaed:P20315>
@@ -465,6 +477,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q74287/exp/nob/1020/9349441">
       <rdaed:P20316>The hobbit, or there and back again</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Hobbiten, eller Fram og tilbake igjen</rdaed:P20312>
       <rdfs:label>Hobbiten, eller Fram og tilbake igjen / nob / text</rdfs:label>
       <rdaed:P20315>Hobbiten, eller Fram og tilbake igjen</rdaed:P20315>

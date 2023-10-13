@@ -22,13 +22,6 @@
          xmlns:rdat="http://rdaregistry.info/termList/"
          xmlns:skos="http://www.w3.org/2004/02/skos/core#"
          xmlns:ex="http://www.example.org/">
-   <rdac:C10001 rdf:about="http://example.org/">
-      <rdaxd:P00029>Novel</rdaxd:P00029>
-      <rdawd:P10088>The murder on the links</rdawd:P10088>
-      <rdfs:label>The murder on the links (Christie, Agatha)</rdfs:label>
-      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
-      <rdawo:P10061 rdf:resource="https://isni.org/isni/0000000121022127"/>
-   </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/1009145424587286830098">
       <rdaxd:P00018>http://viaf.org/viaf/1009145424587286830098</rdaxd:P00018>
       <rdaxd:P00029>Novel</rdaxd:P00029>
@@ -190,6 +183,13 @@
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="https://isni.org/isni/0000000121022127"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/310911986">
+      <rdaxd:P00018>http://viaf.org/viaf/310911986</rdaxd:P00018>
+      <rdaxd:P00029>Novel</rdaxd:P00029>
+      <rdawd:P10088>Cards on the table</rdawd:P10088>
+      <rdfs:label>Cards on the table (Christie, Agatha)</rdfs:label>
+      <rdawo:P10061 rdf:resource="https://isni.org/isni/0000000121022127"/>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/310912914">
       <rdaxd:P00018>http://viaf.org/viaf/310912914</rdaxd:P00018>
       <rdawd:P10088>Appointment with death</rdawd:P10088>
@@ -240,18 +240,36 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/316741387">
       <rdaxd:P00018>http://viaf.org/viaf/316741387</rdaxd:P00018>
-      <rdaxd:P00029>Novel</rdaxd:P00029>
       <rdawd:P10088>Murder on the Orient Express</rdawd:P10088>
       <rdfs:label>Murder on the Orient Express (Christie, Agatha)</rdfs:label>
+      <rdaxd:P00029>Novel</rdaxd:P00029>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="https://isni.org/isni/0000000121022127"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/34462302/orient">
+      <rdaxd:P00018>http://viaf.org/viaf/34462302/orient</rdaxd:P00018>
+      <rdawd:P10088>Crime de l'Orient-Express</rdawd:P10088>
+      <rdfs:label>Crime de l'Orient-Express (Rivière, François)</rdfs:label>
+      <rdaxd:P00029>Graphic Novel</rdaxd:P00029>
+      <rdawo:P10058 rdf:resource="http://viaf.org/viaf/34462302"/>
+      <rdawo:P10058 rdf:resource="https://isni.org/isni/0000000368604401"/>
+      <rdawo:P10252 rdf:resource="http://viaf.org/viaf/316741387"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/5243165573959737800001">
       <rdaxd:P00018>http://viaf.org/viaf/5243165573959737800001</rdaxd:P00018>
       <rdaxd:P00029>Novel</rdaxd:P00029>
       <rdawd:P10088>Murder on the links</rdawd:P10088>
       <rdfs:label>Murder on the links (Christie, Agatha)</rdfs:label>
+      <rdawd:P10088>The murder on the links</rdawd:P10088>
+      <rdfs:label>The murder on the links (Christie, Agatha)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="https://isni.org/isni/0000000121022127"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/638145424602986831437">
+      <rdaxd:P00018>http://viaf.org/viaf/638145424602986831437</rdaxd:P00018>
+      <rdaxd:P00029>Novel</rdaxd:P00029>
+      <rdawd:P10088>The labours of Hercules</rdawd:P10088>
+      <rdfs:label>The labours of Hercules (Christie, Agatha)</rdfs:label>
       <rdawo:P10061 rdf:resource="https://isni.org/isni/0000000121022127"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/73145424522186831318">
@@ -390,12 +408,29 @@
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="https://isni.org/isni/0000000121022127"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/9356154076013911860000">
+      <rdaxd:P00018>http://viaf.org/viaf/9356154076013911860000</rdaxd:P00018>
+      <rdawd:P10088>Murder on the Orient Express</rdawd:P10088>
+      <rdfs:label>Murder on the Orient Express (Bennett, Richard Rodney.)</rdfs:label>
+      <rdaxd:P00029>Notated music</rdaxd:P00029>
+      <rdfs:label>Murder on the Orient Express ()</rdfs:label>
+      <rdaxd:P00029>Performed</rdaxd:P00029>
+      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/61731028"/>
+      <rdawo:P10238 rdf:resource="https://www.imdb.com/title/tt3402236"/>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="https://isni.org/isni/0000000121022127/1930somnibus">
       <rdaxd:P00018>https://isni.org/isni/0000000121022127/1930somnibus</rdaxd:P00018>
       <rdawd:P10088>1930s omnibus</rdawd:P10088>
       <rdfs:label>1930s omnibus (Christie, Agatha)</rdfs:label>
       <rdaxd:P00029>Collection</rdaxd:P00029>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="https://isni.org/isni/0000000121022127"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://isni.org/isni/0000000121022127/bestofpoirot">
+      <rdaxd:P00018>https://isni.org/isni/0000000121022127/bestofpoirot</rdaxd:P00018>
+      <rdawd:P10088>The best of Poirot</rdawd:P10088>
+      <rdfs:label>The best of Poirot (Christie, Agatha)</rdfs:label>
+      <rdaxd:P00029>Collection</rdaxd:P00029>
       <rdawo:P10061 rdf:resource="https://isni.org/isni/0000000121022127"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://isni.org/isni/0000000121022127/frenchcollection">
@@ -470,6 +505,20 @@
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="https://isni.org/isni/0000000121022127"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.imdb.com/title/tt0071877">
+      <rdaxd:P00018>https://www.imdb.com/title/tt0071877</rdaxd:P00018>
+      <rdawd:P10088>Murder on the Orient Express</rdawd:P10088>
+      <rdfs:label>Murder on the Orient Express</rdfs:label>
+      <rdawo:P10013 rdf:resource="https://www.imdb.com/name/nm0001486"/>
+      <rdawo:P10129 rdf:resource="http://viaf.org/viaf/316741387"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.imdb.com/title/tt3402236">
+      <rdaxd:P00018>https://www.imdb.com/title/tt3402236</rdaxd:P00018>
+      <rdawd:P10088>Murder on the Orient Express</rdawd:P10088>
+      <rdfs:label>Murder on the Orient Express</rdfs:label>
+      <rdawo:P10013 rdf:resource="https://isni.org/isni/0000000114794233"/>
+      <rdawo:P10129 rdf:resource="http://viaf.org/viaf/316741387"/>
+   </rdac:C10001>
    <rdac:C10002 rdf:about="http://viaf.org/viaf/29540426">
       <rdaxd:P00018>http://viaf.org/viaf/29540426</rdaxd:P00018>
       <rdaad:P50385>Sayers, Dorothy L</rdaad:P50385>
@@ -481,11 +530,22 @@
       <rdfs:label>Douglas, Traci L</rdfs:label>
       <rdaad:P50339>1968-</rdaad:P50339>
    </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/34462302">
+      <rdaxd:P00018>http://viaf.org/viaf/34462302</rdaxd:P00018>
+      <rdaad:P50385>Rivière, François</rdaad:P50385>
+      <rdfs:label>Rivière, François</rdfs:label>
+      <rdaad:P50339>1949-</rdaad:P50339>
+   </rdac:C10002>
    <rdac:C10002 rdf:about="http://viaf.org/viaf/56617609">
       <rdaxd:P00018>http://viaf.org/viaf/56617609</rdaxd:P00018>
       <rdaad:P50385>Wallace, Edgar</rdaad:P50385>
       <rdfs:label>Wallace, Edgar</rdfs:label>
       <rdaad:P50339>1875-1932</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/61731028">
+      <rdaxd:P00018>http://viaf.org/viaf/61731028</rdaxd:P00018>
+      <rdaad:P50385>Bennett, Richard Rodney</rdaad:P50385>
+      <rdfs:label>Bennett, Richard Rodney</rdfs:label>
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://viaf.org/viaf/66464527">
       <rdaxd:P00018>http://viaf.org/viaf/66464527</rdaxd:P00018>
@@ -499,20 +559,118 @@
       <rdfs:label>Verne, Jules</rdfs:label>
       <rdaad:P50339>1828-1905</rdaad:P50339>
    </rdac:C10002>
+   <rdac:C10002 rdf:about="https://isni.org/isni/0000000114794233">
+      <rdaxd:P00018>https://isni.org/isni/0000000114794233</rdaxd:P00018>
+      <rdaad:P50385>Branagh, Kenneth</rdaad:P50385>
+      <rdfs:label>Branagh, Kenneth</rdfs:label>
+      <rdaad:P50339>1960-</rdaad:P50339>
+   </rdac:C10002>
    <rdac:C10002 rdf:about="https://isni.org/isni/0000000121022127">
       <rdaxd:P00018>https://isni.org/isni/0000000121022127</rdaxd:P00018>
       <rdaad:P50385>Christie, Agatha</rdaad:P50385>
       <rdfs:label>Christie, Agatha</rdfs:label>
       <rdaad:P50339>1890-1976</rdaad:P50339>
    </rdac:C10002>
-   <rdac:C10006 rdf:about="http://example.org/exp/eng/1020">
-      <rdaed:P20312>The murder on the links</rdaed:P20312>
-      <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The murder on the links / text</rdfs:label>
-      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
-      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
-      <rdaeo:P20231 rdf:resource="http://example.org/"/>
-   </rdac:C10006>
+   <rdac:C10002 rdf:about="https://isni.org/isni/0000000361211867">
+      <rdaxd:P00018>https://isni.org/isni/0000000361211867</rdaxd:P00018>
+      <rdaad:P50385>Aasen, Ketil</rdaad:P50385>
+      <rdfs:label>Aasen, Ketil</rdfs:label>
+      <rdaad:P50339>1974-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="https://isni.org/isni/0000000361531262">
+      <rdaxd:P00018>https://isni.org/isni/0000000361531262</rdaxd:P00018>
+      <rdaad:P50385>Larssen, Christian</rdaad:P50385>
+      <rdfs:label>Larssen, Christian</rdfs:label>
+      <rdaad:P50339>1975-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="https://isni.org/isni/0000000365729866">
+      <rdaxd:P00018>https://isni.org/isni/0000000365729866</rdaxd:P00018>
+      <rdaad:P50385>Watle, Per Einar</rdaad:P50385>
+      <rdfs:label>Watle, Per Einar</rdfs:label>
+      <rdaad:P50339>1971-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="https://isni.org/isni/0000000368604401">
+      <rdaxd:P00018>https://isni.org/isni/0000000368604401</rdaxd:P00018>
+      <rdaad:P50385>Solidor</rdaad:P50385>
+      <rdfs:label>Solidor</rdfs:label>
+      <rdaad:P50339>1963-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="https://www.imdb.com/name/nm0000002">
+      <rdaxd:P00018>https://www.imdb.com/name/nm0000002</rdaxd:P00018>
+      <rdaad:P50385>Bacall, Lauren</rdaad:P50385>
+      <rdfs:label>Bacall, Lauren</rdfs:label>
+      <rdaad:P50339>1924-2014</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="https://www.imdb.com/name/nm0000006">
+      <rdaxd:P00018>https://www.imdb.com/name/nm0000006</rdaxd:P00018>
+      <rdaad:P50385>Bergman, Ingrid</rdaad:P50385>
+      <rdfs:label>Bergman, Ingrid</rdfs:label>
+      <rdaad:P50339>1915-1982</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="https://www.imdb.com/name/nm0000125">
+      <rdaxd:P00018>https://www.imdb.com/name/nm0000125</rdaxd:P00018>
+      <rdaad:P50385>Connery, Sean</rdaad:P50385>
+      <rdfs:label>Connery, Sean</rdfs:label>
+      <rdaad:P50339>1930-2020</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="https://www.imdb.com/name/nm0000136">
+      <rdaxd:P00018>https://www.imdb.com/name/nm0000136</rdaxd:P00018>
+      <rdaad:P50385>Depp, Johnny</rdaad:P50385>
+      <rdfs:label>Depp, Johnny</rdfs:label>
+      <rdaad:P50339>1963-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="https://www.imdb.com/name/nm0000302">
+      <rdaxd:P00018>https://www.imdb.com/name/nm0000302</rdaxd:P00018>
+      <rdaad:P50385>Bisset, Jacqueline</rdaad:P50385>
+      <rdfs:label>Bisset, Jacqueline</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="https://www.imdb.com/name/nm0000353">
+      <rdaxd:P00018>https://www.imdb.com/name/nm0000353</rdaxd:P00018>
+      <rdaad:P50385>Dafoe, Willem</rdaad:P50385>
+      <rdfs:label>Dafoe, Willem</rdfs:label>
+      <rdaad:P50339>1955-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="https://www.imdb.com/name/nm0000842">
+      <rdaxd:P00018>https://www.imdb.com/name/nm0000842</rdaxd:P00018>
+      <rdaad:P50385>Balsam, Martin</rdaad:P50385>
+      <rdfs:label>Balsam, Martin</rdfs:label>
+      <rdaad:P50339>1919-1996</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="https://www.imdb.com/name/nm0001132">
+      <rdaxd:P00018>https://www.imdb.com/name/nm0001132</rdaxd:P00018>
+      <rdaad:P50385>Dench, Judi</rdaad:P50385>
+      <rdfs:label>Dench, Judi</rdfs:label>
+      <rdaad:P50339>1934-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="https://www.imdb.com/name/nm0001215">
+      <rdaxd:P00018>https://www.imdb.com/name/nm0001215</rdaxd:P00018>
+      <rdaad:P50385>Finney, Albert</rdaad:P50385>
+      <rdfs:label>Finney, Albert</rdfs:label>
+      <rdaad:P50339>1936-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="https://www.imdb.com/name/nm0001486">
+      <rdaxd:P00018>https://www.imdb.com/name/nm0001486</rdaxd:P00018>
+      <rdaad:P50385>Lumet, Sidney</rdaad:P50385>
+      <rdfs:label>Lumet, Sidney</rdfs:label>
+      <rdaad:P50339>1924-2011</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="https://www.imdb.com/name/nm0004851">
+      <rdaxd:P00018>https://www.imdb.com/name/nm0004851</rdaxd:P00018>
+      <rdaad:P50385>Cruz, Penélope</rdaad:P50385>
+      <rdfs:label>Cruz, Penélope</rdfs:label>
+      <rdaad:P50339>1974-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="https://www.imdb.com/name/nm0144045">
+      <rdaxd:P00018>https://www.imdb.com/name/nm0144045</rdaxd:P00018>
+      <rdaad:P50385>Cassel, Jean Pierre</rdaad:P50385>
+      <rdfs:label>Cassel, Jean Pierre</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="https://www.imdb.com/name/nm5290643">
+      <rdaxd:P00018>https://www.imdb.com/name/nm5290643</rdaxd:P00018>
+      <rdaad:P50385>Bateman, Tom</rdaad:P50385>
+      <rdfs:label>Bateman, Tom</rdfs:label>
+      <rdaad:P50339>1989-</rdaad:P50339>
+   </rdac:C10002>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/1009145424587286830098/exp/eng/1020">
       <rdaed:P20312>Mystery of the blue train</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
@@ -573,6 +731,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/1846151051771433530005/exp/eng/1020">
       <rdaed:P20316>The murder at the vicarage</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>The murder at the vicarage</rdaed:P20312>
       <rdfs:label>The murder at the vicarage / text</rdfs:label>
       <rdaxd:P00029>part</rdaxd:P00029>
@@ -640,7 +799,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/299042726/classictales/exp/eng/1020">
       <rdaed:P20316>Classic tales of mystery</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>Classic tales of mystery</rdaed:P20312>
       <rdfs:label>Classic tales of mystery / eng / text</rdfs:label>
       <rdaed:P20071>The murder on the links / Agatha Christie -- Whose body? / Dorothy L. Sayers -- The thirty-nine steps / John Buchan -- The Antarctic mystery / Jules Verne -- Room 13 / Edgar Wallace.</rdaed:P20071>
@@ -663,6 +822,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/309258229/exp/eng/1020">
       <rdaed:P20316>Death on the Nile</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Death on the Nile</rdaed:P20312>
       <rdfs:label>Death on the Nile / text</rdfs:label>
       <rdaxd:P00029>part</rdaxd:P00029>
@@ -686,8 +846,17 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/309261613"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/310911986/exp/eng/1020">
+      <rdaed:P20312>Cards on the table</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Cards on the table / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/310911986"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/310912914/exp/eng/1020">
       <rdaed:P20316>Appointment with death</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Appointment with death</rdaed:P20312>
       <rdfs:label>Appointment with death / text</rdfs:label>
       <rdaxd:P00029>part</rdaxd:P00029>
@@ -736,24 +905,45 @@
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/313145424580486831117"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/316741387/exp/eng/1020">
+      <rdaed:P20316>Murder on the Orient Express</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Murder on the Orient Express</rdaed:P20312>
-      <rdaxd:P00029>part</rdaxd:P00029>
       <rdfs:label>Murder on the Orient Express / text</rdfs:label>
+      <rdaxd:P00029>part</rdaxd:P00029>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/316741387"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/34462302/orient/exp/eng">
+      <rdaed:P20316>Crime de l'Orient-Express</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Murder on the Orient Express</rdaed:P20312>
+      <rdfs:label>Murder on the Orient Express / eng / text</rdfs:label>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/34462302/orient"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/5243165573959737800001/exp/eng/1020">
       <rdaed:P20312>Murder on the links</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
       <rdfs:label>Murder on the links / text</rdfs:label>
+      <rdaed:P20312>The murder on the links</rdaed:P20312>
+      <rdfs:label>The murder on the links / text</rdfs:label>
       <rdfs:label>Murder on the links / eng / text</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/5243165573959737800001"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/638145424602986831437/exp/eng/1020">
+      <rdaed:P20312>The labours of Hercules</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The labours of Hercules / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/638145424602986831437"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/73145424522186831318/exp/eng/1020">
       <rdaed:P20316>Death in the clouds</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Death in the clouds</rdaed:P20312>
       <rdfs:label>Death in the clouds / text</rdfs:label>
       <rdaxd:P00029>part</rdaxd:P00029>
@@ -771,6 +961,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/8172154501923039210006/exp/eng/1020">
       <rdaed:P20316>Death comes as the end</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Death comes as the end</rdaed:P20312>
       <rdfs:label>Death comes as the end / text</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
@@ -867,7 +1058,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/8905164661901103390006/exp/eng/1020">
       <rdaed:P20316>The hound of death, and other stories</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>The hound of death</rdaed:P20312>
       <rdfs:label>The hound of death / text</rdfs:label>
       <rdaed:P20312>The hound of death, and other stories</rdaed:P20312>
@@ -892,6 +1083,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/890516466190110339000601/exp/eng/1020">
       <rdaed:P20316>The Hound of Death</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>The hound of death : an Agatha Christie short story</rdaed:P20312>
       <rdfs:label>The hound of death / text</rdfs:label>
       <rdaed:P20312>The Hound of Death</rdaed:P20312>
@@ -908,9 +1100,38 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9180154501927439210001"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/9356154076013911860000/exp/1010">
+      <rdaed:P20316>Murder on the Orient Express</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Murder On The Orient Express (Theme)</rdaed:P20312>
+      <rdfs:label>Murder On The Orient Express (Theme) / notated music</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1010"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9356154076013911860000"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/9356154076013911860000/exp/zxx/1010">
+      <rdaed:P20316>Murder on the Orient Express</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Murder on the Orient Express. Theme. &lt;Piano solo.&gt;</rdaed:P20312>
+      <rdfs:label>Murder on the Orient Express. Theme. &lt;Piano solo.&gt; / notated music</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1010"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/zxx"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9356154076013911860000"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/9356154076013911860000/exp/zxx/1011">
+      <rdaed:P20316>Murder on the Orient Express</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Murder on the Orient Express</rdaed:P20312>
+      <rdfs:label>Murder on the Orient Express / performed music</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/zxx"/>
+      <rdaeo:P20039 rdf:resource="https://isni.org/isni/0000000361211867"/>
+      <rdaeo:P20039 rdf:resource="https://isni.org/isni/0000000361531262"/>
+      <rdaeo:P20039 rdf:resource="https://isni.org/isni/0000000365729866"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9356154076013911860000"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000121022127/1930somnibus/exp/eng/1020">
       <rdaed:P20316>1930s omnibus</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>1930s omnibus</rdaed:P20312>
       <rdfs:label>1930s omnibus / text</rdfs:label>
       <rdaed:P20071>The Sittaford mystery -- Why didn't they ask Evans? -- And then there were none -- Murder is easy.</rdaed:P20071>
@@ -922,9 +1143,24 @@
       <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/310915681/exp/eng/1020"/>
       <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/180572444/exp/eng/1020"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="https://isni.org/isni/0000000121022127/bestofpoirot/exp/eng/1020">
+      <rdaed:P20316>The best of Poirot</rdaed:P20316>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>The best of Poirot</rdaed:P20312>
+      <rdfs:label>The best of Poirot / text</rdfs:label>
+      <rdaed:P20071>Murder on the Orient Express - Cards on the table - Hercule Poirot's Christmas - Five little pigs - The labours of Hercules.</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="https://isni.org/isni/0000000121022127/bestofpoirot"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/316741387/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/310911986/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/174408071/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/312349122/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/638145424602986831437/exp/eng/1020"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000121022127/frenchcollection/exp/eng/1020">
       <rdaed:P20316>Poirot : the French collection</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>Poirot : the French collection : The murder on the links, The mystery of the blue train, Death in the clouds</rdaed:P20312>
       <rdfs:label>Poirot / text</rdfs:label>
       <rdaed:P20071>Murder on the links -- The mystery of the blue train -- Death in the clouds</rdaed:P20071>
@@ -937,7 +1173,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000121022127/herculepoirot/exp/eng/1020">
       <rdaed:P20316>Hercule Poirot</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>Hercule Poirot : boxed set</rdaed:P20312>
       <rdfs:label>Hercule Poirot / text</rdfs:label>
       <rdaed:P20071>ABC murders -- Five little pigs -- Hercule Poirot's Christmas -- Murder of Roger Ackroyd -- Murder on the Orient Express -- Mysterious affair at Styles</rdaed:P20071>
@@ -953,7 +1189,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000121022127/herculepoirotatlarge/exp/eng/1020">
       <rdaed:P20316>Hercule poirot at large</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>Hercule poirot at large : six classic cases for the world's greatest detective</rdaed:P20312>
       <rdfs:label>Hercule poirot at large / text</rdfs:label>
       <rdaed:P20071>Death on the Nile -- Evil under the sun -- Appointment with death -- Murder in Mesapotamia -- The hollow -- Cat among the pigeons.</rdaed:P20071>
@@ -969,7 +1205,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000121022127/murderstodiefrom/exp/eng/1020">
       <rdaed:P20316>Murders to die for</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>Murders to die for</rdaed:P20312>
       <rdfs:label>Murders to die for / text</rdfs:label>
       <rdaed:P20071>The murder of Roger Ackroyd -- The murder at the vicarage -- The murder on the links -- Murder is easy -- Murder in Mesopotamia -- Sleeping murder -- Murder on the Orient Express.</rdaed:P20071>
@@ -978,7 +1214,7 @@
       <rdaeo:P20231 rdf:resource="https://isni.org/isni/0000000121022127/murderstodiefrom"/>
       <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/217048217/exp/eng/1020"/>
       <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/1846151051771433530005/exp/eng/1020"/>
-      <rdaeo:P20319 rdf:resource="http://example.org/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/5243165573959737800001/exp/eng/1020"/>
       <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/309261613/exp/eng/1020"/>
       <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/12155103895976200651/exp/eng/1020"/>
       <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/740147270586435700009/exp/eng/1020"/>
@@ -986,7 +1222,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000121022127/omnibus/1920s/1/exp/eng/1020">
       <rdaed:P20316>Agatha Christie omnibus : 1920s</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>Agatha Christie omnibus</rdaed:P20312>
       <rdfs:label>Agatha Christie omnibus / text</rdfs:label>
       <rdaed:P20071>The mysterious affair at Styles -- The secret adversary -- Murder on the links</rdaed:P20071>
@@ -999,7 +1235,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000121022127/omnibus/1920s/2/exp/eng/1020">
       <rdaed:P20316>Agatha Christie omnibus : 1920s</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>Agatha Christie omnibus</rdaed:P20312>
       <rdfs:label>Agatha Christie omnibus / text</rdfs:label>
       <rdaed:P20071>The man in the brown suit -- Poirot investigates -- The secret of chimneys</rdaed:P20071>
@@ -1012,7 +1248,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000121022127/omnibus/x/exp/eng/1020">
       <rdaed:P20316>Agatha Christie omnibus</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>1920s omnibus</rdaed:P20312>
       <rdfs:label>1920s omnibus / text</rdfs:label>
       <rdaed:P20071>The secret adversary - The man in the brown suit - The secret of Chimneys - The seven dials mystery.</rdaed:P20071>
@@ -1026,7 +1262,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000121022127/orient/exp/eng/1020">
       <rdaed:P20316>Poirot in the Orient</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>Poirot in the Orient</rdaed:P20312>
       <rdfs:label>Poirot in the Orient / text</rdfs:label>
       <rdaed:P20071>Murder in Mesopotamia -- Death on the Nile -- Appointment with death</rdaed:P20071>
@@ -1039,7 +1275,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000121022127/theworldsfavourite/exp/eng/1020">
       <rdaed:P20316>The world's favourite</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>The world's favourite</rdaed:P20312>
       <rdfs:label>The world's favourite / text</rdfs:label>
       <rdaed:P20071>And then there were none -- Murder on the Orient Express -- The murder of Roger Ackroyd.</rdaed:P20071>
@@ -1050,6 +1286,157 @@
       <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/217048217/exp/eng/1020"/>
       <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/316741387/exp/eng/1020"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.imdb.com/title/tt0071877/exp/1023">
+      <rdaed:P20316>Murder on the Orient Express</rdaed:P20316>
+      <rdaed:P20312>Murder on the orient express</rdaed:P20312>
+      <rdfs:label>Murder on the orient express / todimensjonalt levende bilde</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1023"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/swe"/>
+      <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dan"/>
+      <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/fin"/>
+      <rdaeo:P20012 rdf:resource="https://www.imdb.com/name/nm0000002"/>
+      <rdaeo:P20012 rdf:resource="https://www.imdb.com/name/nm0000842"/>
+      <rdaeo:P20012 rdf:resource="https://www.imdb.com/name/nm0001215"/>
+      <rdaeo:P20012 rdf:resource="https://www.imdb.com/name/nm0000006"/>
+      <rdaeo:P20012 rdf:resource="https://www.imdb.com/name/nm0000302"/>
+      <rdaeo:P20012 rdf:resource="https://www.imdb.com/name/nm0144045"/>
+      <rdaeo:P20012 rdf:resource="https://www.imdb.com/name/nm0000125"/>
+      <rdaeo:P20231 rdf:resource="https://www.imdb.com/title/tt0071877"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.imdb.com/title/tt3402236/exp/eng">
+      <rdaed:P20316>Murder on the Orient Express</rdaed:P20316>
+      <rdaed:P20312>Murder on the Orient Express</rdaed:P20312>
+      <rdfs:label>Murder on the Orient Express / eng</rdfs:label>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/swe"/>
+      <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dan"/>
+      <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/fin"/>
+      <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20012 rdf:resource="https://isni.org/isni/0000000114794233"/>
+      <rdaeo:P20012 rdf:resource="https://www.imdb.com/name/nm5290643"/>
+      <rdaeo:P20012 rdf:resource="https://www.imdb.com/name/nm0004851"/>
+      <rdaeo:P20012 rdf:resource="https://www.imdb.com/name/nm0000353"/>
+      <rdaeo:P20012 rdf:resource="https://www.imdb.com/name/nm0001132"/>
+      <rdaeo:P20012 rdf:resource="https://www.imdb.com/name/nm0000136"/>
+      <rdaeo:P20231 rdf:resource="https://www.imdb.com/title/tt3402236"/>
+   </rdac:C10006>
+   <rdac:C10007 rdf:about="http://example.org/004210640">
+      <rdamd:P30156>Murder on the Orient Express. Theme. &lt;Piano solo.&gt;</rdamd:P30156>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : EMI Film &amp; Theatre Music, [1974].</rdamd:P30111>
+      <rdamd:P30083>EMI Film &amp; Theatre Music</rdamd:P30083>
+      <rdamd:P30011>[1974]</rdamd:P30011>
+      <rdamd:P30182>3p., 4.̊.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9356154076013911860000/exp/zxx/1010"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/019181043">
+      <rdamd:P30156>Murder On The Orient Express (Theme)</rdamd:P30156>
+      <rdamd:P30117>[Rodney Bennett, Richard]</rdamd:P30117>
+      <rdamd:P30107>Piano Solo</rdamd:P30107>
+      <rdamd:P30088>[London]</rdamd:P30088>
+      <rdamd:P30111>[London] : [Faber Music], [2018?].</rdamd:P30111>
+      <rdamd:P30083>[Faber Music]</rdamd:P30083>
+      <rdamd:P30011>[2018?]</rdamd:P30011>
+      <rdamd:P30007>©1974</rdamd:P30007>
+      <rdamd:P30182>1 online resource (1 score (2 pages)).</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1003</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1018</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9356154076013911860000/exp/1010"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/991007459034702202">
+      <rdamd:P30156>Murder on the Orient Express</rdamd:P30156>
+      <rdamd:P30117>Richard R. Bennett, Per Einar Watle Trio</rdamd:P30117>
+      <rdamd:P30011>c2010</rdamd:P30011>
+      <rdamd:P30111>, c2010.</rdamd:P30111>
+      <rdamd:P30182>3 min, 51 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1013</rdamd:P30001>
+      <rdamd:P30050>Corrientes, [Oslo] : CSSE Records, c2010, 10.</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1013"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9356154076013911860000/exp/zxx/1011"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/999920609674902201">
+      <rdamd:P30156>Murder on the Orient Express</rdamd:P30156>
+      <rdamd:P30117>regi Kenneth Branagh</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Thwentieth Century Fox Home Entertainment, 2017.</rdamd:P30111>
+      <rdamd:P30083>Thwentieth Century Fox Home Entertainment</rdamd:P30083>
+      <rdamd:P30011>2017</rdamd:P30011>
+      <rdamd:P30182>1 plate (DVD) (1 t 49 min) : lyd, kol.</rdamd:P30182>
+      <rdamd:P30137>Ekstramateriale</rdamd:P30137>
+      <rdamd:P30137>Medietilsynet : 185296</rdamd:P30137>
+      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt3402236/exp/eng"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/999921241891502201">
+      <rdamd:P30156>Murder on the Orient Express</rdamd:P30156>
+      <rdamd:P30117>directed by Sidney Lumet</rdamd:P30117>
+      <rdamd:P30083>Universal Sony Pictures Home Entertainment Nordic</rdamd:P30083>
+      <rdamd:P30111>: Universal Sony Pictures Home Entertainment Nordic, 2013.</rdamd:P30111>
+      <rdamd:P30011>2013</rdamd:P30011>
+      <rdamd:P30182>1 plate (Blu-ray) (2 t 9 min) : lyd, kol.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1008</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1060</rdamd:P30001>
+      <rdamd:P30137>Produksjon: Storbritannia / USA, 1974</rdamd:P30137>
+      <rdamd:P30137>Basert på en roman av Agatha Christie</rdamd:P30137>
+      <rdamd:P30137>Kodet for region A, B &amp; C</rdamd:P30137>
+      <rdamd:P30137>Medietilsynet: 123213</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1060"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
+      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0071877/exp/1023"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/IAN-5050582555363">
+      <rdamd:P30004>IAN 5050582555363</rdamd:P30004>
+      <rdaxd:P00018>IAN-5050582555363</rdaxd:P00018>
+      <rdamd:P30156>Murder on the orient express</rdamd:P30156>
+      <rdamd:P30173>Universal Pictures Nordic</rdamd:P30173>
+      <rdamd:P30008>[2008]</rdamd:P30008>
+      <rdamd:P30182>1 plate (DVD) (122 minutter).</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1008</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1060</rdamd:P30001>
+      <rdamd:P30137>Aldersgrense: 15 år</rdamd:P30137>
+      <rdamd:P30137>Medietilsynet: 123213</rdamd:P30137>
+      <rdamd:P30137>Produksjonsår: 1974</rdamd:P30137>
+      <rdamd:P30137>Regissør: Sidney Lumet</rdamd:P30137>
+      <rdamd:P30137>Rolleliste: Albert Finney, Lauren Bacall, Martin Balsam med flere</rdamd:P30137>
+      <rdamd:P30137>Undertekster på blant annet norsk</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1060"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
+      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0071877/exp/1023"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0002446855">
+      <rdamd:P30004>ISBN 0002446855 :</rdamd:P30004>
+      <rdaxd:P00018>isbn-0002446855</rdaxd:P00018>
+      <rdfs:label>ISBN0002446855</rdfs:label>
+      <rdamd:P30156>The best of Poirot</rdamd:P30156>
+      <rdamd:P30117>by Agatha Christie</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Collins, 1980.</rdamd:P30111>
+      <rdamd:P30083>Collins</rdamd:P30083>
+      <rdamd:P30011>1980</rdamd:P30011>
+      <rdamd:P30182>862p., 23cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>Collins' collectors' choice</rdamd:P30106>
+      <rdamd:P30137>Murder on the Orient Express - Cards on the table - Hercule Poirot's Christmas - Five little pigs - The labours of Hercules.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="https://isni.org/isni/0000000121022127/bestofpoirot/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/316741387/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/310911986/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/174408071/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/312349122/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/638145424602986831437/exp/eng/1020"/>
+   </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-000649630">
       <rdamd:P30004>ISBN 000649630X (pbk) :</rdamd:P30004>
       <rdaxd:P00018>isbn-000649630</rdaxd:P00018>
@@ -1238,7 +1625,7 @@
       <rdamo:P30139 rdf:resource="https://isni.org/isni/0000000121022127/murderstodiefrom/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/217048217/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1846151051771433530005/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://example.org/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/5243165573959737800001/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309261613/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/12155103895976200651/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/740147270586435700009/exp/eng/1020"/>
@@ -1292,6 +1679,45 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309261613/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/310915681/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/180572444/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0007246587">
+      <rdamd:P30004>ISBN 0007246587 :</rdamd:P30004>
+      <rdaxd:P00018>isbn-0007246587</rdaxd:P00018>
+      <rdfs:label>ISBN0007246587</rdfs:label>
+      <rdamd:P30004>ISBN 9780007246588 :</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780007246588</rdaxd:P00018>
+      <rdfs:label>ISBN9780007246588</rdfs:label>
+      <rdamd:P30156>Murder on the Orient Express</rdamd:P30156>
+      <rdamd:P30117>adapted by François Rivière ; illustrated by Solidor</rdamd:P30117>
+      <rdamd:P30107>Comic bk. ed</rdamd:P30107>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : HarperCollins, 2007.</rdamd:P30111>
+      <rdamd:P30083>HarperCollins</rdamd:P30083>
+      <rdamd:P30011>2007</rdamd:P30011>
+      <rdamd:P30182>44 p. : chiefly col. ill., 30 cm.</rdamd:P30182>
+      <rdamd:P30137>Formerly CIP.</rdamd:P30137>
+      <rdamd:P30137>Translated from the French.</rdamd:P30137>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/34462302/orient/exp/eng"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0007422571">
+      <rdamd:P30004>ISBN 0007422571</rdamd:P30004>
+      <rdaxd:P00018>isbn-0007422571</rdaxd:P00018>
+      <rdfs:label>ISBN0007422571</rdfs:label>
+      <rdamd:P30004>ISBN 9780007422579</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780007422579</rdaxd:P00018>
+      <rdfs:label>ISBN9780007422579</rdfs:label>
+      <rdamd:P30156>Murder on the Orient Express</rdamd:P30156>
+      <rdamd:P30117>Agatha Christie</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : HarperCollins, 2010.</rdamd:P30111>
+      <rdamd:P30083>HarperCollins</rdamd:P30083>
+      <rdamd:P30011>2010</rdamd:P30011>
+      <rdamd:P30182>1 online resource (288 pages).</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/316741387/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0708901875">
       <rdamd:P30004>ISBN 0708901875 :</rdamd:P30004>
@@ -1394,6 +1820,26 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/217048217/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/316741387/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/228691003/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9780007527502">
+      <rdamd:P30004>ISBN 9780007527502 (pbk.) :</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780007527502</rdaxd:P00018>
+      <rdfs:label>ISBN9780007527502 (pbk.)</rdfs:label>
+      <rdamd:P30156>Murder on the Orient Express</rdamd:P30156>
+      <rdamd:P30117>Agatha Christie</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Harper, 2013.</rdamd:P30111>
+      <rdamd:P30083>Harper</rdamd:P30083>
+      <rdamd:P30011>2013</rdamd:P30011>
+      <rdamd:P30182>274 pages, 20 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>Poirot</rdamd:P30106>
+      <rdamd:P30137>Formerly CIP.</rdamd:P30137>
+      <rdamd:P30137>Originally published: London: Collins, 1934.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/316741387/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9780007560004">
       <rdamd:P30004>ISBN 9780007560004 (ePub ebook) :</rdamd:P30004>
@@ -1526,6 +1972,24 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/8905164661901103390006/11/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/8905164661901103390006/12/exp/eng/1020"/>
    </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9780008255459">
+      <rdamd:P30004>ISBN 9780008255459 (pbk.) :</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780008255459</rdaxd:P00018>
+      <rdfs:label>ISBN9780008255459 (pbk.)</rdfs:label>
+      <rdamd:P30156>Murder on the Orient Express</rdamd:P30156>
+      <rdamd:P30117>Agatha Christie</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : HarperCollinsPublishers, 2019.</rdamd:P30111>
+      <rdamd:P30083>HarperCollinsPublishers</rdamd:P30083>
+      <rdamd:P30011>2019</rdamd:P30011>
+      <rdamd:P30182>1 volume, 18 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>Poirot</rdamd:P30106>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/316741387/exp/eng/1020"/>
+   </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9780008280956">
       <rdamd:P30004>ISBN 9780008280956 (pbk.) :</rdamd:P30004>
       <rdaxd:P00018>isbn-9780008280956</rdaxd:P00018>
@@ -1599,9 +2063,27 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/174556225/exp/eng/1020"/>
       <rdamo:P30329 rdf:resource="http://viaf.org/viaf/299042726"/>
    </rdac:C10007>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/dan">
+      <skos:subjectIndicator>dan</skos:subjectIndicator>
+   </skos:Concept>
    <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/eng">
       <rdfs:label>eng</rdfs:label>
       <skos:subjectIndicator>eng</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/fin">
+      <skos:subjectIndicator>fin</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/nob">
+      <skos:subjectIndicator>nob</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/swe">
+      <skos:subjectIndicator>swe</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/zxx">
+      <rdfs:label>zxx</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1013">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1013</skos:subjectIndicator>
    </skos:Concept>
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1018">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1018</skos:subjectIndicator>
@@ -1609,14 +2091,32 @@
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1049">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1049</skos:subjectIndicator>
    </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1060">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1060</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1010">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1010</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1011">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1011</skos:subjectIndicator>
+   </skos:Concept>
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1020">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1020</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1023">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1023</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1001">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1001</skos:subjectIndicator>
    </skos:Concept>
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1003">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1003</skos:subjectIndicator>
    </skos:Concept>
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1007">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1007</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1008">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1008</skos:subjectIndicator>
    </skos:Concept>
    <skos:Concept rdf:about="https://schema.nb.no/Bibliographic/Values/V1000">
       <skos:subjectIndicator>https://schema.nb.no/Bibliographic/Values/V1000</skos:subjectIndicator>

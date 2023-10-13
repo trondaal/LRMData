@@ -1544,7 +1544,7 @@
    </rdac:C10002>
    <rdac:C10006 rdf:about="http://example.com/innerlandscape/exp/eng/1020">
       <rdaed:P20316>The inner landscape</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>The inner landscape</rdaed:P20312>
       <rdfs:label>The inner landscape / tekst</rdfs:label>
       <rdaed:P20071>Danger, Religion! / Aldiss, Brian W. -- The voices of time / Ballard, J. G. -- Boy in darkness / Peake, Mervyn Laurence</rdaed:P20071>
@@ -1557,7 +1557,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/172050597/reaches/exp/eng/1020">
       <rdaed:P20316>The farthest reaches</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>The farthest reaches</rdaed:P20312>
       <rdfs:label>The farthest reaches / text</rdfs:label>
       <rdaed:P20071>The worm that flies, by B. W. Aldiss -- Kyrie, by P. Anderson -- Tomorrow is a million years, by J. G. Ballard -- Pond water, by J. Brunner -- The dance of the changer and the three, by T. Carr -- Crusade, by A. C. Clarke -- Ranging, by J. Jakes -- Mind out of time, by K. Laumer -- The inspector, by J. McKimmey -- To the dark star, by R. Silverberg -- A night in elf hill, by N. Spinrad -- Sulwen's planet, by J. Vance.</rdaed:P20071>
@@ -1598,6 +1598,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/180997771/exp/eng/1020">
       <rdaed:P20316>Empire of the sun</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Empire of the sun</rdaed:P20312>
       <rdfs:label>Empire of the sun / text</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
@@ -1614,7 +1615,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/183430784/exp/eng/1020">
       <rdaed:P20316>The four-dimensional nightmare</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaxd:P00029>parent</rdaxd:P00029>
       <rdaed:P20312>The four-dimensional nightmare</rdaed:P20312>
       <rdfs:label>The four-dimensional nightmare / text</rdfs:label>
@@ -1644,6 +1645,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/202977755/exp/eng/1020">
       <rdaed:P20316>Hello America</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Hello America</rdaed:P20312>
       <rdfs:label>Hello America / text</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
@@ -1652,6 +1654,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/305922109/exp/eng/1020">
       <rdaed:P20316>Crash</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Crash</rdaed:P20312>
       <rdfs:label>Crash / text</rdfs:label>
       <rdfs:label>Crash / eng / text</rdfs:label>
@@ -1661,7 +1664,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/307992426/exp/eng/1020">
       <rdaed:P20316>The day of forever</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>The day of forever</rdaed:P20312>
       <rdfs:label>The day of forever / text</rdfs:label>
       <rdaed:P20071>The Day of Forever -- Prisoner of the Coral Deep -- Tomorrow is a Million Years -- The Man on the 99th Floor -- The Waiting Grounds -- The Last World of Mr Goddard -- The Gentle Assassin -- The Sudden Afternoon -- The Insane Ones -- The Assassination of John Fitzgerald Kennedy Considered as a Downhill Motor Race</rdaed:P20071>
@@ -1681,6 +1684,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/308025936/exp/eng/1020">
       <rdaed:P20316>The day of creation</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>The day of creation</rdaed:P20312>
       <rdfs:label>The day of creation / text</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
@@ -1706,7 +1710,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/33278380/treasure/exp/eng/1020">
       <rdaed:P20316>The world treasury of science fiction</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>The world treasury of science fiction</rdaed:P20312>
       <rdfs:label>The world treasury of science fiction / text</rdfs:label>
       <rdaed:P20071>Foreword -- Introduction -- Harrison Bergeron / Kurt Vonnegut, Jr. -- Forgetfulness / John W. Campbell, Jr. -- Special flight / John Berryman -- Chronopolis / J.G. Ballard -- Triceratops / Kono Tensei -- The man who lost the sea / Theodore Sturgeon -- On the inside track / Karl Michael Armer -- The Golem / Avram Davidson -- The new prehistory / René Rebetez-Cortes -- A meeting with Medusa / Arthur C. Clarke -- The valley of echoes / Gérard Klein -- The fifth head of Cerberus / Gene Wolfe -- The chaste planet / John Updike -- The blind pilot / Nathalie-Charles Henneberg -- The men who murdered Mohammed / Alfred Bester -- Pairpuppets / Manuel van Loggem -- Two dooms / C.M. Kornbluth -- Tale of the computer that fought a dragon / Stanislaw Lem -- The green hills of Earth / Robert A. Heinlein -- Ghost V / Robert Sheckley -- The phantom of Kansas / John Varley -- Captain Nemo's last adventure / Josef Nesvadba -- Inconstant moon / Larry Niven -- The gold at the starbow's end / Frederik Pohl -- A sign in space / Italo Calvino -- The spiral / Italo Calvino -- The dead past / Isaac Asimov -- The lens / Annemarie van Ewyck -- The hurkle is a happy beast / Theodore Sturgeon -- Zero hour / Ray Bradbury -- Nine lives / Ursula K. Le Guin -- The muse / Anthony Burgess -- The public hating / Steve Allen -- Poor superman / Fritz Leiber -- Angouleme / Thomas M. Disch -- Stranger station / Damon Knight -- The dead fish / Boris Vian -- I was the first to find you / Kirill Bulychev -- The lineman / Walter M. Miller, Jr. -- Tlön, Uqbar, Orbis Tertius / Jorge Luis Borges -- Codemus / Tor Åge Bringsvaerd -- A kind of artistry / Brian Aldiss -- Second variety / Philip K. Dick -- Weihnachtsabend / Keith Roberts -- I do not love thee, Doctor Fell / Robert Bloch -- Aye, and Gomorrah-- / Samuel R. Delany -- How Erg the Self-inducting slew a paleface / Stanislaw Lem -- Nobody's home / Joanna Russ -- Party line / Gérard Klein -- The proud robot / Lewis Padgett -- Vintage season / Henry Kuttner and C.L. Moore -- Way to Amalteia / Arkady and Boris Strugatsky.</rdaed:P20071>
@@ -1787,7 +1791,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/84181241/gateway/exp/eng/1020">
       <rdaed:P20316>Barrington Bayley SF gateway omnibus</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>Barrington Bayley SF gateway omnibus</rdaed:P20312>
       <rdfs:label>Barrington Bayley SF gateway omnibus / text</rdfs:label>
       <rdaed:P20071>The soul of the robot -- The knights of the limits -- The fall of Chronopolis.</rdaed:P20071>
@@ -1800,7 +1804,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/9842556/complete/exp/eng/1020">
       <rdaed:P20316>The complete stories of J.G. Ballard</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>The complete stories of J.G. Ballard</rdaed:P20312>
       <rdfs:label>The complete stories of J.G. Ballard / text</rdfs:label>
       <rdaed:P20071>Introduction / by Martin Amis -- Author's introduction -- Prima belladonna -- Escapement -- The concentration city -- Venus smiles -- Manhole 69 -- Track 12 -- The waiting grounds -- Now : zero -- The sound-sweep -- Zone of terror -- Chronopolis -- The voices of time -- The last world of Mr. Goddard -- Studio 5, the stars -- Deep end -- The overloaded man -- Mr. F is Mr. F -- Billenium -- The gentle assassin -- The insane ones -- The garden of time -- The thousand dreams of Stellavista -- Thirteen to Centaurus -- Passport to eternity -- The cage of sand -- The watch-towers -- The singing statues -- The man on the 99th floor -- The subliminal man -- The reptile enclosure -- A question of re-entry -- The time-tombs -- Now wakes the sea -- The Venus hunters -- End-game -- Minus one -- The sudden afternoon -- The screen game -- Time of passage -- Prisoner of the coral deep -- The lost Leonardo -- The terminal beach -- The illuminated man -- The delta at sunset -- The drowned giant -- The Gioconda of the twilight noon -- The volcano dances -- The beach murders -- The day of forever -- The impossible man -- Storm-bird, storm-dreamer -- Tomorrow is a million years -- The assassination of John Fitzgerald Kennedy considered as a downhill motor race -- Cry hope, cry fury! -- The recognition -- The cloud-sculptors of Coral D -- Why I want to fuck Ronald Reagan -- The dead astronaut -- The Comsat angels -- The killing ground -- A place and a time to die -- Say goodbye to the wind -- The greatest television show on earth -- My dream of flying to Wake Island -- The air disaster -- Low-flying aircraft -- The life and death of God -- Notes towards a mental breakdown -- The 60 minute zoom -- The smile -- The ultimate city -- The dead time -- The index -- The intensive care unit -- Theatre of war -- Having a wonderful time -- One afternoon at Utah Beach -- Zodiac 2000 -- Motel architecture -- A host of furious fancies -- News from the sun -- Memories of the space age -- Myths of the near future -- Report on an unidentified space station -- The object of the attack -- Answers to a quesionnaire -- The man who walked on the moon -- The secret history of World War 3 -- Love in a colder climate -- The enormous space -- The largest theme park in the world -- War fever -- Dream cargoes -- A guide to virtual death -- The message from Mars -- Report from an obscure planet -- New stories for the American edition -- The secret autobiography of J.G.B. -- The dying fall.</rdaed:P20071>
@@ -1988,6 +1992,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1274485/exp/eng/1020">
       <rdaed:P20316>Why I want to fuck Ronald Reagan</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Why I want to fuck Ronald Reagan</rdaed:P20312>
       <rdfs:label>Why I want to fuck Ronald Reagan / text</rdfs:label>
       <rdaxd:P00029>part</rdaxd:P00029>
@@ -3201,7 +3206,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q5114250/exp/eng/1020">
       <rdaed:P20316>Chronopolis, and other stories</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>Chronopolis : and other stories</rdaed:P20312>
       <rdfs:label>Chronopolis / text</rdfs:label>
       <rdaed:P20071>The voices of time -- The drowned giant -- The terminal beach -- Manhole 69 -- Storm-bird, storm-dreamer -- The sound-sweep -- Millenium -- Chronopolis -- Build-up -- The garden of time -- End game -- The watchtowers -- Now wakes the sea -- Zone of terror -- The cage of sand -- Deep end.</rdaed:P20071>
@@ -3227,7 +3232,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q6692707/exp/eng/1020">
       <rdaed:P20316>Low-flying aircraft, and other stories</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>Low-flying aircraft, and other stories</rdaed:P20312>
       <rdfs:label>Low-flying aircraft, and other stories / text</rdfs:label>
       <rdaed:P20071>The ultimate city -- Low-flying aircraft -- The dead astronaut -- My dream of flying to Wake Island -- The life and death of God -- The greatest television show on earth -- A place and a time to die -- The Comsat angels -- The beach murders</rdaed:P20071>
@@ -3246,7 +3251,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q6815642/exp/eng/1020">
       <rdaed:P20316>Memories of the space age</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>Memories of the space age</rdaed:P20312>
       <rdfs:label>Memories of the space age / eng / tekst</rdfs:label>
       <rdfs:label>Memories of the space age / tekst</rdfs:label>
@@ -3410,6 +3415,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="https://isni.org/isni/000000043862402X/Kronopolis/exp/swe/1020">
       <rdaed:P20316>Chronopolis : Time, Power and Mediatization in Malmø</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Kronopolis : Tid, makt och medialisering i Malmø</rdaed:P20312>
       <rdfs:label>Kronopolis / swe / text</rdfs:label>
       <rdaed:P20315>Kronopolis : Tid, makt och medialisering i Malmø</rdaed:P20315>
@@ -3420,7 +3426,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/pl.cgi?279033/exp/eng/1020">
       <rdaed:P20316>The best of J. G. Ballard</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20316>The best short stories of J.G. Ballard</rdaed:P20316>
       <rdaed:P20312>The best short stories of J.G. Ballard</rdaed:P20312>
       <rdfs:label>The best short stories of J.G. Ballard / text</rdfs:label>
@@ -3450,7 +3456,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/pl.cgi?35804/exp/eng/1020">
       <rdaed:P20316>The best of J. G. Ballard</rdaed:P20316>
-      <rdaxd:P00029>collection</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>The best of J. G. Ballard</rdaed:P20312>
       <rdfs:label>The best of J. G. Ballard / text</rdfs:label>
       <rdaed:P20071>Introduction (The Best Short Stories of J. G. Ballard) / essay by Anthony Burgess -- The Concentration City -- Manhole 69 -- The waiting grounds -- The sound sweep -- Chronopolis -- The Overloaded Man -- Billennium -- The insane ones -- The Garden of Time -- Thirteen to Centaurus -- Passport to eternity -- The Cage of Sand -- A question of re-entry -- The Terminal Beach -- The day of forever</rdaed:P20071>
@@ -3493,6 +3499,7 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?4537/exp/eng/1020">
       <rdaed:P20316>Fall of Chronopolis</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>The fall of Chronopolis</rdaed:P20312>
       <rdfs:label>The fall of Chronopolis / text</rdfs:label>
       <rdaed:P20312>Fall of Chronopolis</rdaed:P20312>
