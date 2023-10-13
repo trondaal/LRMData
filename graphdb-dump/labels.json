@@ -4770,16 +4770,6 @@
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/9356154076013911860000"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Murder on the Orient Express ()"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
                     "value": "https://isni.org/isni/0000000121022127/bestofpoirot"
                 },
                 "label": {
@@ -4855,6 +4845,16 @@
                 "label": {
                     "type": "literal",
                     "value": "Murder on the Orient Express: The Graphic Novel (Al-Greene, Bob)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000365729866/trio/corrientes"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Corrientes (Per Einar Watle Trio)"
                 }
             },
             {
@@ -7285,6 +7285,16 @@
                 "label": {
                     "type": "literal",
                     "value": "Al-Greene, Bob"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000365729866/trio"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Per Einar Watle Trio"
                 }
             },
             {
@@ -12874,27 +12884,17 @@
                 },
                 "label": {
                     "type": "literal",
-                    "value": "Murder On The Orient Express (Theme) / Music"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/zxx/1010"
-                },
-                "label": {
-                    "type": "literal",
                     "value": "Murder on the Orient Express. Theme. <Piano solo.> / notated music"
                 }
             },
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/zxx/1011"
+                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/1010"
                 },
                 "label": {
                     "type": "literal",
-                    "value": "Murder on the Orient Express / performed music"
+                    "value": "Murder On The Orient Express (Theme) / Music"
                 }
             },
             {
@@ -13125,6 +13125,26 @@
                 "label": {
                     "type": "literal",
                     "value": "Murder on the Orient Express / eng / todimensjonalt levende bilde"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/und/1011"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Murder on the Orient Express / framf\u00f8rt musikk"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000365729866/trio/corrientes/exp/und/1011"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Corrientes / framf\u00f8rt musikk"
                 }
             },
             {

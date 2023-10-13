@@ -7196,6 +7196,21 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "https://isni.org/isni/0000000365729866/trio/corrientes"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Corrientes"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/226306913"
                 },
                 "label": {
@@ -13041,6 +13056,21 @@
                 "value": {
                     "type": "literal",
                     "value": "Al-Greene, Bob"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000365729866/trio"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "name"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Per Einar Watle Trio"
                 }
             },
             {
@@ -25771,21 +25801,6 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "titlevariant"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Murder on the Orient Express"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/zxx/1010"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
                     "value": "title"
                 },
                 "value": {
@@ -25796,37 +25811,7 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/zxx/1010"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "titlevariant"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Murder on the Orient Express"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/zxx/1011"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Murder on the Orient Express"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/zxx/1011"
+                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/1010"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -26451,6 +26436,66 @@
                 "value": {
                     "type": "literal",
                     "value": "Murder on the Orient Express"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/und/1011"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Murder on the Orient Express"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000365729866/trio/corrientes/exp/und/1011"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "contentsnote"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Swing for Simon -- Corrientes -- Lingo -- El Patio de Montserrat -- Bei Dir War Es Immer So Sch\u00f6n -- Here's That Rainy Day -- Yours is My Heart Alone -- Reine De Musette -- Melodie Concorde -- Murder On the Orient Express -- Dans mon\u00eele -- Choti"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000365729866/trio/corrientes/exp/und/1011"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Corrientes"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000365729866/trio/corrientes/exp/und/1011"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Corrientes"
                 }
             },
             {
@@ -70571,96 +70616,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://example.org/991007459034702202"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Murder on the Orient Express"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/991007459034702202"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "responsibility"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Richard R. Bennett, Per Einar Watle Trio"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/991007459034702202"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "extent"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "3 min, 51 s."
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/991007459034702202"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "publication"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": ", c2010."
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/991007459034702202"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "publicationdate"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "c2010"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/991007459034702202"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "partnote"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Corrientes, [Oslo] : CSSE Records, c2010, 10."
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "http://example.org/999920609674902201"
                 },
                 "label": {
@@ -72231,6 +72186,216 @@
                 "value": {
                     "type": "literal",
                     "value": "2023"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/IAN-7041881220425"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "IAN 7041881220425"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/IAN-7041881220425"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Corrientes"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/IAN-7041881220425"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Per Einar Watle Trio"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/IAN-7041881220425"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1 online (nettilkoblet) ressurs."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/IAN-7041881220425"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Norge] : CSSE Records, 2010-01-25."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/IAN-7041881220425"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "distribution"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo] : Phonofile."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/IAN-7041881220425"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Norge]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/IAN-7041881220425"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "CSSE Records"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/IAN-7041881220425"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "2010-01-25"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/IAN-7041881220425"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "distributionplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/IAN-7041881220425"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "distributor"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Phonofile"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/IAN-7041881220425"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "copyright"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "\u2117 2010"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/IAN-7041881220425"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "contentsnote"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Swing for Simon -- Corrientes -- Lingo -- El Patio de Montserrat -- Bei Dir War Es Immer So Sch\u00f6n -- Here's That Rainy Day -- Yours is My Heart Alone -- Reine De Musette -- Melodie Concorde -- Murder On the Orient Express -- Dans mon\u00eele -- Choti"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/IAN-7041881220425"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "contentsnote"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "CSSE Records: CSSE04"
                 }
             }
         ]

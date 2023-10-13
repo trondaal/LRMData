@@ -5059,6 +5059,17 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "https://isni.org/isni/0000000365729866/trio/corrientes"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Work"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/226306913"
                 },
                 "label": {
@@ -7678,6 +7689,17 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/algreen"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Agent"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000365729866/trio"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -13287,28 +13309,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/zxx/1010"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Expression"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/zxx/1011"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Expression"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "https://isni.org/isni/0000000121022127/bestofpoirot/exp/eng/1020"
                 },
                 "label": {
@@ -13530,6 +13530,28 @@
                 "entity": {
                     "type": "uri",
                     "value": "https://www.imdb.com/title/tt3402236/exp/1023"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/und/1011"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000365729866/trio/corrientes/exp/und/1011"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -16752,17 +16774,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://example.org/991007459034702202"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Manifestation"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "http://example.org/999920609674902201"
                 },
                 "label": {
@@ -16874,6 +16885,17 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://example.org/isbn-9780063160354"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Manifestation"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/IAN-7041881220425"
                 },
                 "label": {
                     "xml:lang": "gden",

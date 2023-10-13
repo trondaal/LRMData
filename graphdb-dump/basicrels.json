@@ -12290,7 +12290,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/zxx/1010"
+                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/1010"
                 }
             },
             {
@@ -12306,21 +12306,6 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/9356154076013911860000/exp/1010"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://example.org/991007459034702202"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "EMBODIES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/zxx/1011"
                 }
             },
             {
@@ -12561,6 +12546,36 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/algreen/orient/exp/eng/1014/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/IAN-7041881220425"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/und/1011"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/IAN-7041881220425"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000365729866/trio/corrientes/exp/und/1011"
                 }
             },
             {
@@ -20201,36 +20216,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/zxx/1010"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "REALIZES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/9356154076013911860000"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/zxx/1011"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "REALIZES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/9356154076013911860000"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "https://isni.org/isni/0000000121022127/bestofpoirot/exp/eng/1020"
                 },
                 "l": {
@@ -20541,6 +20526,36 @@
                 "o": {
                     "type": "uri",
                     "value": "https://www.imdb.com/title/tt3402236"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/und/1011"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9356154076013911860000"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000365729866/trio/corrientes/exp/und/1011"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000365729866/trio/corrientes"
                 }
             }
         ]

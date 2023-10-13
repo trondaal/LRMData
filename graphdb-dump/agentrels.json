@@ -7840,6 +7840,25 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "https://isni.org/isni/0000000365729866/trio/corrientes"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10058"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Artist"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000365729866/trio"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q208002/exp/nob/1013/24701800/65245833"
                 },
                 "p": {
@@ -11374,63 +11393,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/zxx/1011"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/object/P20039"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Performer"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "https://isni.org/isni/0000000361211867"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/zxx/1011"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/object/P20039"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Performer"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "https://isni.org/isni/0000000361531262"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/zxx/1011"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/object/P20039"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Performer"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "https://isni.org/isni/0000000365729866"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "https://www.imdb.com/title/tt0071877/exp/1023"
                 },
                 "p": {
@@ -13003,6 +12965,139 @@
                 "o": {
                     "type": "uri",
                     "value": "https://www.imdb.com/name/nm5290643"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/und/1011"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20039"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Performer"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000361211867"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/und/1011"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20039"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Performer"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000361531262"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/und/1011"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20039"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Performer"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000365729866"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000365729866/trio/corrientes/exp/und/1011"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20039"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Performer"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000361211867"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000365729866/trio/corrientes/exp/und/1011"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20039"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Performer"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000361531262"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000365729866/trio/corrientes/exp/und/1011"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20039"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Performer"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000365729866"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000365729866/trio/corrientes/exp/und/1011"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20039"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Performer"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000365729866/trio"
                 }
             },
             {

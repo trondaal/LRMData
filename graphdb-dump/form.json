@@ -4106,6 +4106,21 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "https://isni.org/isni/0000000365729866/trio/corrientes"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Collection"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/12155103895976200651/exp/eng/1020"
                 },
                 "label": {
@@ -11726,36 +11741,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/zxx/1010"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "form"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "standalone"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/zxx/1011"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "form"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "standalone"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "https://isni.org/isni/0000000121022127/bestofpoirot/exp/eng/1020"
                 },
                 "label": {
@@ -12021,6 +12006,36 @@
                 "value": {
                     "type": "literal",
                     "value": "standalone"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9356154076013911860000/exp/und/1011"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "part"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000365729866/trio/corrientes/exp/und/1011"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "aggregate"
                 }
             }
         ]
