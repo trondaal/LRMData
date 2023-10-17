@@ -1402,6 +1402,11 @@
       <rdfs:label>Plan for the Assassination of Jacqueline Kennedy (Ballard, J. G.)</rdfs:label>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/9842556"/>
    </rdac:C10001>
+   <rdac:C10002 rdf:about="http://rdaregistry.info/Elements/m/object/P30328">
+      <rdaxd:P00018>http://rdaregistry.info/Elements/m/object/P30328</rdaxd:P00018>
+      <rdaad:P50385>Burgess, Anthony</rdaad:P50385>
+      <rdfs:label>Burgess, Anthony</rdfs:label>
+   </rdac:C10002>
    <rdac:C10002 rdf:about="http://viaf.org/viaf/103212466">
       <rdaxd:P00018>http://viaf.org/viaf/103212466</rdaxd:P00018>
       <rdaad:P50385>Brunner, John Kilian Houston</rdaad:P50385>
@@ -1481,6 +1486,12 @@
       <rdaxd:P00018>http://viaf.org/viaf/54154517</rdaxd:P00018>
       <rdaad:P50385>Spinrad, Norman</rdaad:P50385>
       <rdfs:label>Spinrad, Norman</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/762106">
+      <rdaxd:P00018>http://viaf.org/viaf/762106</rdaxd:P00018>
+      <rdaad:P50385>Fadiman, Clifton</rdaad:P50385>
+      <rdfs:label>Fadiman, Clifton</rdfs:label>
+      <rdaad:P50339>1904-1999</rdaad:P50339>
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://viaf.org/viaf/79304712">
       <rdaxd:P00018>http://viaf.org/viaf/79304712</rdaxd:P00018>
@@ -3970,6 +3981,7 @@
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?189852/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?59665/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?670081/exp/eng/1020"/>
+      <rdamo:P30267 rdf:resource="http://viaf.org/viaf/762106"/>
       <rdamo:P30267 rdf:resource="http://viaf.org/viaf/33278380"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0393072622">

@@ -1,0 +1,182 @@
+
+
+BIB2201 rapport over datasamling - oppdatert 5/6
+-------------------------------------------------------
+
+
+Antall poster i samlingen:5
+-------------------------------------------------------
+
+
+Agenter identifisert med URI
+-------------------------------------------------------
+* http://viaf.org/viaf/60552805 (700) : Aurstad, Oddvar
+* http://viaf.org/viaf/222062902 (700) : Borkenhagen, Marit
+* http://viaf.org/viaf/7411743 (700) : Brekke, Toril
+* http://viaf.org/viaf/271919237 (700) : Coucheron, Olaf
+* http://viaf.org/viaf/433149066637265602491 (700) : Dietrichson, Inger
+* http://viaf.org/viaf/79086818 (700) : Fretheim, Tor
+* http://viaf.org/viaf/51783729 (700) : Grøndahl, Cathrine
+* http://viaf.org/viaf/80096464 (700, 100) : Hiorthøy, Kim
+* http://viaf.org/viaf/3517148997595259870006 (700) : Hiorthøy, Kim
+* http://viaf.org/viaf/302657140 (700) : Hirsch, Trygve von
+* http://viaf.org/viaf/48102666 (700) : Hoff, Gerd
+* http://viaf.org/viaf/19327274 (700) : Larsen, Janike Kampevold
+* http://viaf.org/viaf/29721490686155657300061 (700) : Ljone, Oddmund
+* http://viaf.org/viaf/34565761 (100, 700) : Renberg, Tore
+* http://viaf.org/viaf/444149066632065602506 (700) : Saastad, Mona Helene
+* http://viaf.org/viaf/85372382 (700) : Scheen, Kjersti
+* http://viaf.org/viaf/9220815 (700) : Soli, Tina
+* http://viaf.org/viaf/39425716 (700) : Tenfjord, Jo
+
+
+Verk identifisert med URI
+-------------------------------------------------------
+* http://viaf.org/viaf/15590827 = Bare/Tsatsiki 
+* http://viaf.org/viaf/222062902/Venner/?/ = Skal vi være venner? 
+* http://viaf.org/viaf/2229156133228058430004 = Charlotte Isabel Hansen 
+* http://viaf.org/viaf/2706 = Den/hemmelige/hagen 
+* http://viaf.org/viaf/34565761/Verden/dag/bruksanvisning = Verden i dag : 
+* http://viaf.org/viaf/34565761/sinus = Sinus/i/blinde/en/kjærlighetsfortelling 
+* http://viaf.org/viaf/39378054 = Bare/Elvis / Hugo/og/Josefin 
+* http://viaf.org/viaf/41931427 = Kurt/quo/vadis 
+* http://viaf.org/viaf/46733274 = Superhemmelig 
+* http://viaf.org/viaf/49282521 = Tor/og/vennene/hans 
+* http://viaf.org/viaf/54149740 = Per/og/vesle/Mads / Tippe/Topphatt/og/andre/fortellinger 
+* http://viaf.org/viaf/56617433 = Ole/Aleksander/Filibom-bom-bom 
+* http://viaf.org/viaf/59139553 = Eddie/og/Johanna 
+* http://viaf.org/viaf/66503940 = Råtne/Rikard 
+* http://viaf.org/viaf/80096464/Hando/Kjendo/Torsdag = Hando. Kjendo. Torsdag : [en fortelling om et vennskap og et underverk] 
+* http://viaf.org/viaf/97119817 = Alle/vi/barna/i/Bakkebygrenda 
+* http://viaf.org/viaf/9888758 = Trollkrittet 
+* https://viaf.org/viaf/34565761/erindringer/fremtiden = En god tid : erindringer fra fremtiden : en kjærlighetsroman fra den tid som skal komme, til minne om den tid som har vært 
+
+
+Innførsler som IKKE er identifisert som verk på grunn av manglende URI i $1
+men det er jo ikke nødvendigvis feil!
+-------------------------------------------------------
+* 830  #0  $aOktober pocket
+
+
+Oversikt over MARC 21 relator koder brukt i samlingen
+sjekker bare feltene 100, 110, 111, 700, 710, 711
+-------------------------------------------------------
+* aut  : 17 
+* edt  : 1 
+* ill  : 4 
+* trl  : 10 
+
+
+Oversikt over URI relasjonstyper for Agent brukt i samlingen
+verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
+-------------------------------------------------------
+* http://rdaregistry.info/Elements/e/object/P20002 (has identifier for expression) : 1 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent) : 9 
+* http://rdaregistry.info/Elements/e/object/P20330 (has editor agent) : 5 
+* http://rdaregistry.info/Elements/w/object/P10002 (has identifier for work) : 1 
+* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work) : 1 
+* http://rdaregistry.info/Elements/w/object/P10058 (has artist agent) : 3 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 2 
+
+
+Personer med URI og relasjonstyper som er brukt for disse
+-------------------------------------------------------
+http://viaf.org/viaf/60552805 (700) : Aurstad, Oddvar 
+* http://rdaregistry.info/Elements/e/object/P20330 (has editor agent)
+http://viaf.org/viaf/222062902 (700) : Borkenhagen, Marit 
+* http://rdaregistry.info/Elements/e/object/P20330 (has editor agent)
+http://viaf.org/viaf/7411743 (700) : Brekke, Toril 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
+http://viaf.org/viaf/271919237 (700) : Coucheron, Olaf 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
+http://viaf.org/viaf/433149066637265602491 (700) : Dietrichson, Inger 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
+http://viaf.org/viaf/79086818 (700) : Fretheim, Tor 
+* http://rdaregistry.info/Elements/e/object/P20002 ()
+http://viaf.org/viaf/51783729 (700) : Grøndahl, Cathrine 
+* http://rdaregistry.info/Elements/e/object/P20330 (has editor agent)
+http://viaf.org/viaf/80096464 (700, 100) : Hiorthøy, Kim 
+* http://rdaregistry.info/Elements/w/object/P10058 (has artist agent)
+http://viaf.org/viaf/3517148997595259870006 (700) : Hiorthøy, Kim 
+* http://rdaregistry.info/Elements/w/object/P10058 (has artist agent)
+http://viaf.org/viaf/302657140 (700) : Hirsch, Trygve von 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
+http://viaf.org/viaf/48102666 (700) : Hoff, Gerd 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
+http://viaf.org/viaf/19327274 (700) : Larsen, Janike Kampevold 
+* http://rdaregistry.info/Elements/e/object/P20330 (has editor agent)
+http://viaf.org/viaf/29721490686155657300061 (700) : Ljone, Oddmund 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
+http://viaf.org/viaf/34565761 (100, 700) : Renberg, Tore 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+* http://rdaregistry.info/Elements/e/object/P20330 (has editor agent)
+* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work)
+http://viaf.org/viaf/444149066632065602506 (700) : Saastad, Mona Helene 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
+http://viaf.org/viaf/85372382 (700) : Scheen, Kjersti 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
+http://viaf.org/viaf/9220815 (700) : Soli, Tina 
+* http://rdaregistry.info/Elements/w/object/P10002 ()
+http://viaf.org/viaf/39425716 (700) : Tenfjord, Jo 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
+
+
+Verk til verk RDA relasjonstyper i 7XX $4-subfelt + label fra RDA registry
+-------------------------------------------------------
+Ser ut som dere mangler verk-til-verk relasjoner? 
+
+
+Analytter (dvs en publikasjon som har flere deler)
+I praksis er det 700-felter med ind2=2, $t og $1
+-------------------------------------------------------
+001 = 990210682594702202 
+* 240  00  $aSkal vi være venner?  $1http://viaf.org/viaf/222062902/Venner/?/
+* 245  00  $aSkal vi være venner?  $cMarit Borkenhagen (red.) ; illustrert av Tina Soli ; oversettelser av: Inger Dietrichson ... [et al.]
+* 700  12  $aBurnett, Frances Hodgson  $d1849-1924-  $tDen/hemmelige/hagen  $1http://viaf.org/viaf/2706  $4aut  $4http://rdaregistry.info/Elements/w/object/P10061
+* 700  12  $aGripe, Maria  $d1923-2007  $tBare/Elvis  $1http://viaf.org/viaf/39378054  $4aut  $4http://rdaregistry.info/Elements/w/object/P10061
+* 700  12  $aGripe, Maria  $d1923-2007  $tHugo/og/Josefin  $1http://viaf.org/viaf/39378054  $4aut  $4http://rdaregistry.info/Elements/w/object/P10061
+* 700  12  $aHjorth, Vigdis  $d1959-  $tRåtne/Rikard  $1http://viaf.org/viaf/66503940  $4aut  $4http://rdaregistry.info/Elements/w/object/P10061
+* 700  12  $aHopp, Zinken  $d1905-1987-  $tTrollkrittet  $1http://viaf.org/viaf/9888758  $4aut  $4http://rdaregistry.info/Elements/w/object/P10061
+* 700  12  $aKirkegaard, Ole Lund  $d1940-1979  $tPer/og/vesle/Mads  $1http://viaf.org/viaf/54149740  $4aut  $4http://rdaregistry.info/Elements/w/object/P10061
+* 700  12  $aKirkegaard, Ole Lund  $d1940-1979  $tTippe/Topphatt/og/andre/fortellinger  $1http://viaf.org/viaf/54149740  $4aut  $4http://rdaregistry.info/Elements/w/object/P10061
+* 700  12  $aLindgren, Astrid  $d1907-2002-  $tAlle/vi/barna/i/Bakkebygrenda  $1http://viaf.org/viaf/97119817  $4auth  $4http://rdaregistry.info/Elements/w/object/P10061
+* 700  12  $aLindgren, Barbro  $d1937-  $tSuperhemmelig  $1http://viaf.org/viaf/46733274  $4aut  $4http://rdaregistry.info/Elements/w/objectP10061
+* 700  12  $aLoe, Erlend  $d1969-  $tKurt/quo/vadis  $1http://viaf.org/viaf/41931427  $4aut  $4http://rdaregistry.info/Elements/w/objectP10061
+* 700  12  $aLärn, Viveca  $d1944-  $tEddie/og/Johanna  $1http://viaf.org/viaf/59139553  $4aut  $4http://rdaregistry.info/Elements/w/object/P10061
+* 700  12  $aNilsson-Brännström, Moni  $d1955-  $tBare/Tsatsiki  $1http://viaf.org/viaf/15590827  $4aut  $4http://rdaregistry.info/Elements/w/object/P10061
+* 700  12  $aRenberg, Tore  $d1972-  $tSinus/i/blinde/en/kjærlighetsfortelling  $1http://viaf.org/viaf/34565761/sinus  $4aut  $4http://rdaregistry.info/Elements/w/object/P10061
+* 700  12  $aStark, Ulf  $d1944-2017-  $tTor/og/vennene/hans  $1http://viaf.org/viaf/49282521  $4aut  $4http://rdaregistry.info/Elements/w/objectP10061
+* 700  12  $aVestly, Anne-Cath.  $d1920-2008  $tOle/Aleksander/Filibom-bom-bom  $1http://viaf.org/viaf/56617433  $4aut  $4http://rdaregistry.info/Elements/w/object/P10061
+
+
+Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke analytter)
+-------------------------------------------------------
+Ser ut som dere mangler slike relasjoner? 
+
+
+Opplisting som viser bruken av 336 $a, $b, $0, $2
+-------------------------------------------------------
+* 336  ##  $atext  $0http://rdaregistry.info/termList/RDAContentType/1020 $2rdacontent
+
+
+Opplisting som viser bruken av 337 $a, $b, $0, $2
+-------------------------------------------------------
+* 337  ##  $aunmediated  $0http://rdaregistry.info/termList/RDAMediaType/1007 $2rdamedia
+
+
+Opplisting som viser bruken av 338 $a, $b, $0, $2
+-------------------------------------------------------
+* 338  ##  $avolume  $0http://rdaregistry.info/termList/RDACarrierType/1049 $2rdacarrier
+
+
+Opplisting som viser bruken av 380 $a, $0, $2
+-------------------------------------------------------
+
+
+Poster som mangler 336, 337, 338, 380
+-------------------------------------------------------
+001: 990005548394702202 mangler følgende felt:  380 
+001: 990010954124702202 mangler følgende felt:  380 
+001: 990011564114702202 mangler følgende felt:  380 
+001: 990210682594702202 mangler følgende felt:  380 
+001: 990927806524702202 mangler følgende felt:  380 

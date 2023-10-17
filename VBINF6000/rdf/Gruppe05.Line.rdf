@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:map="http://www.w3.org/2005/xpath-functions/map"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:marc="http://www.loc.gov/MARC21/slim"
+         xmlns:rdac="http://rdaregistry.info/Elements/c/"
+         xmlns:rdaad="http://rdaregistry.info/Elements/a/datatype/"
+         xmlns:rdaao="http://rdaregistry.info/Elements/a/object/"
+         xmlns:rdawd="http://rdaregistry.info/Elements/w/datatype/"
+         xmlns:rdawo="http://rdaregistry.info/Elements/w/object/"
+         xmlns:rdaed="http://rdaregistry.info/Elements/e/datatype/"
+         xmlns:rdaeo="http://rdaregistry.info/Elements/e/object/"
+         xmlns:rdamd="http://rdaregistry.info/Elements/m/datatype/"
+         xmlns:rdamo="http://rdaregistry.info/Elements/m/object/"
+         xmlns:rdaxd="http://rdaregistry.info/Elements/x/datatype/"
+         xmlns:mads="http://www.loc.gov/mads/rdf/v1#"
+         xmlns:mmmm="http://www.loc.gov/MARC21/slim/"
+         xmlns:rdaco="http://rdaregistry.info/termList/RDAContentType/"
+         xmlns:rdact="http://rdaregistry.info/termList/RDACarrierType/"
+         xmlns:rdamt="http://rdaregistry.info/termList/RDAMediaType/"
+         xmlns:rdat="http://rdaregistry.info/termList/"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:ex="http://www.example.org/">
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/312321100">
+      <rdaxd:P00018>http://viaf.org/viaf/312321100</rdaxd:P00018>
+      <rdawd:P10088>Vi sees i morgen</rdawd:P10088>
+      <rdfs:label>Vi sees i morgen (Renberg, Tore)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/5930152502773210800007">
+      <rdaxd:P00018>http://viaf.org/viaf/5930152502773210800007</rdaxd:P00018>
+      <rdawd:P10088>Mannen som elsket Yngve</rdawd:P10088>
+      <rdfs:label>Mannen som elsket Yngve (Renberg, Tore)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/5966165271944210690001">
+      <rdaxd:P00018>http://viaf.org/viaf/5966165271944210690001</rdaxd:P00018>
+      <rdawd:P10088>Charlotte Isabel Hansen</rdawd:P10088>
+      <rdfs:label>Charlotte Isabel Hansen (Renberg, Tore)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/assalamualaikum_eksempel">
+      <rdaxd:P00018>http://viaf.org/viaf/assalamualaikum_eksempel.</rdaxd:P00018>
+      <rdawd:P10088>Assalamu alaikum</rdawd:P10088>
+      <rdfs:label>Assalamu alaikum (Renberg, Tore)</rdfs:label>
+      <rdawd:P10330>Det er 2013 og på bunnen av samfunnspyramiden våkner Hillevågsgjengen med tørre lepper, paranoia og svineinfluensa. Kjeltringene fra verdens rikeste by trodde de hadde lagt det verste bak seg, men nå slår de øynene opp bare for å se at de har den bratteste bakken foran seg: Jan Inge, Cecilie og Rudi står til hårfestet i stress og til brystet i blod. Men verst av alt, det har begynt å krakelere på innsiden av Jan Inge. Hva er det som knitrer i hodet til Videogutten? Hva er det med disse stemmene han har begynt å høre? Hva er det som har begynt å stige opp fra den misfargede fortiden? Og hvorfor hører han et fremmed navn bli hvisket i mørket? Fred være med deg, kjære leser, for dette lukter multiple diagnoser. Det ruller mot undergang og fryktelig befrielse når Tore Renberg løsner håndbrekket for det fjerde bindet i Teksas-serien.</rdawd:P10330>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/duersalys_eksempel">
+      <rdaxd:P00018>http://viaf.org/viaf/duersalys_eksempel</rdaxd:P00018>
+      <rdawd:P10088>Du er så lys</rdawd:P10088>
+      <rdfs:label>Du er så lys (Renberg, Tore)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/tollaktilingeborg_eksempel">
+      <rdaxd:P00018>http://viaf.org/viaf/tollaktilingeborg_eksempel</rdaxd:P00018>
+      <rdawd:P10088>Tollak til Ingeborg</rdawd:P10088>
+      <rdfs:label>Tollak til Ingeborg (Renberg, Tore)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.orgviaf/varmelagerfem_eksempel">
+      <rdaxd:P00018>http://viaf.orgviaf/varmelagerfem_eksempel</rdaxd:P00018>
+      <rdawd:P10088>Varmelager fem</rdawd:P10088>
+      <rdfs:label>Varmelager fem (Renberg, Tore)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/226817424">
+      <rdaxd:P00018>http://viaf.org/viaf/226817424</rdaxd:P00018>
+      <rdaad:P50385>Kinsella, Seán</rdaad:P50385>
+      <rdfs:label>Kinsella, Seán</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/270835697">
+      <rdaxd:P00018>http://viaf.org/viaf/270835697</rdaxd:P00018>
+      <rdaad:P50385>Fouillet, Alex</rdaad:P50385>
+      <rdfs:label>Fouillet, Alex</rdfs:label>
+      <rdaad:P50339>1974-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/34565761">
+      <rdaxd:P00018>http://viaf.org/viaf/34565761</rdaxd:P00018>
+      <rdaad:P50385>Renberg, Tore</rdaad:P50385>
+      <rdfs:label>Renberg, Tore</rdfs:label>
+      <rdaad:P50339>1972-</rdaad:P50339>
+      <rdaad:P50339>1972-(NO-TrBIB)90858991</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/312321100/exp/eng/1020/226817424">
+      <rdaed:P20316>Vi sees i morgen</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>See you tomorrow</rdaed:P20312>
+      <rdfs:label>See you tomorrow / eng / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/226817424"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/312321100"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/312321100/exp/nor">
+      <rdaed:P20316>Vi sees i morgen</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Vi ses i morgen : roman</rdaed:P20312>
+      <rdfs:label>Vi ses i morgen / text</rdfs:label>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nor"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/312321100"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/5930152502773210800007/exp/fre/1020/270835697">
+      <rdaed:P20316>Mannen som elsket Yngve</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>L'homme qui aimait Yngve : roman</rdaed:P20312>
+      <rdfs:label>L'homme qui aimait Yngve / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/fre"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/270835697"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/5930152502773210800007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/5966165271944210690001/exp/nob/1020">
+      <rdaed:P20316>Charlotte Isabel Hansen</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Charlotte Isabel Hansen : roman</rdaed:P20312>
+      <rdfs:label>Charlotte Isabel Hansen / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/5966165271944210690001"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/assalamualaikum_eksempel/exp/nob">
+      <rdaed:P20316>Assalamu alaikum</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Assalamu alaikum : roman</rdaed:P20312>
+      <rdfs:label>Assalamu alaikum / text</rdfs:label>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/assalamualaikum_eksempel"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/duersalys_eksempel/exp/nor/1020">
+      <rdaed:P20316>Du er så lys</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Du er så lys : roman</rdaed:P20312>
+      <rdfs:label>Du er så lys / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nor"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/duersalys_eksempel"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/tollaktilingeborg_eksempel/exp/nor/1020">
+      <rdaed:P20316>Tollak til Ingeborg</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Tollak til Ingeborg : roman</rdaed:P20312>
+      <rdfs:label>Tollak til Ingeborg / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nor"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/tollaktilingeborg_eksempel"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.orgviaf/varmelagerfem_eksempel/exp/nor/1020">
+      <rdaed:P20316>Varmelager fem</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Varmelager fem</rdaed:P20312>
+      <rdfs:label>Varmelager fem / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nor"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.orgviaf/varmelagerfem_eksempel"/>
+   </rdac:C10006>
+   <rdac:C10007 rdf:about="http://example.org/isbn-1909807826">
+      <rdamd:P30004>ISBN 1909807826</rdamd:P30004>
+      <rdaxd:P00018>isbn-1909807826</rdaxd:P00018>
+      <rdfs:label>ISBN1909807826</rdfs:label>
+      <rdamd:P30004>ISBN 9781909807822</rdamd:P30004>
+      <rdaxd:P00018>isbn-9781909807822</rdaxd:P00018>
+      <rdfs:label>ISBN9781909807822</rdfs:label>
+      <rdamd:P30156>See you tomorrow</rdamd:P30156>
+      <rdamd:P30117>Tore Renberg ; translated by Sean Kinsella</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Arcadia Books, 2014.</rdamd:P30111>
+      <rdamd:P30083>Arcadia Books</rdamd:P30083>
+      <rdamd:P30011>2014</rdamd:P30011>
+      <rdamd:P30182>1 online resource (600 pages).</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAContentType/1020</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/312321100/exp/eng/1020/226817424"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-291316739">
+      <rdamd:P30004>ISBN 291316739X</rdamd:P30004>
+      <rdaxd:P00018>isbn-291316739</rdaxd:P00018>
+      <rdfs:label>ISBN291316739X</rdfs:label>
+      <rdamd:P30156>L'homme qui aimait Yngve</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg ; traduit du norvégien par Alex Fouillet</rdamd:P30117>
+      <rdamd:P30088>[Paris]</rdamd:P30088>
+      <rdamd:P30111>[Paris] : Odin, 2004.</rdamd:P30111>
+      <rdamd:P30083>Odin</rdamd:P30083>
+      <rdamd:P30011>2004</rdamd:P30011>
+      <rdamd:P30182>397 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/5930152502773210800007/exp/fre/1020/270835697"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8210046446">
+      <rdamd:P30004>ISBN 8210046446 (pbk.)</rdamd:P30004>
+      <rdaxd:P00018>isbn-8210046446</rdaxd:P00018>
+      <rdfs:label>ISBN8210046446 (pbk.)</rdfs:label>
+      <rdamd:P30004>ISBN 9788210046445 (pbk.)</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788210046445</rdaxd:P00018>
+      <rdfs:label>ISBN9788210046445 (pbk.)</rdfs:label>
+      <rdamd:P30156>Varmelager fem</rdamd:P30156>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Tiden Norsk, c2001.</rdamd:P30111>
+      <rdamd:P30083>Tiden Norsk</rdamd:P30083>
+      <rdamd:P30011>c2001</rdamd:P30011>
+      <rdamd:P30182>[ca. 140 p.] : ill. (some col.), 28 cm.</rdamd:P30182>
+      <rdamd:P30002>ttp://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamo:P30139 rdf:resource="http://viaf.orgviaf/varmelagerfem_eksempel/exp/nor/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8249514025">
+      <rdamd:P30004>ISBN 8249514025 (paperback)</rdamd:P30004>
+      <rdaxd:P00018>isbn-8249514025</rdaxd:P00018>
+      <rdfs:label>ISBN8249514025 (paperback)</rdfs:label>
+      <rdamd:P30004>ISBN 9788249511167 (cased)</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788249511167</rdaxd:P00018>
+      <rdfs:label>ISBN9788249511167 (cased)</rdfs:label>
+      <rdamd:P30004>ISBN 9788249514021 (paperback)</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788249514021</rdaxd:P00018>
+      <rdfs:label>ISBN9788249514021 (paperback)</rdfs:label>
+      <rdamd:P30156>Vi ses i morgen</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30107>Andre opplag</rdamd:P30107>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Forlaget Oktober, 2014.</rdamd:P30111>
+      <rdamd:P30083>Forlaget Oktober</rdamd:P30083>
+      <rdamd:P30011>2014</rdamd:P30011>
+      <rdamd:P30182>603 pages, 23 cm.</rdamd:P30182>
+      <rdamd:P30002>ttp://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/312321100/exp/nor"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8249523733">
+      <rdamd:P30004>ISBN 8249523733</rdamd:P30004>
+      <rdaxd:P00018>isbn-8249523733</rdaxd:P00018>
+      <rdfs:label>ISBN8249523733</rdfs:label>
+      <rdamd:P30004>ISBN 9788249523733</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788249523733</rdaxd:P00018>
+      <rdfs:label>ISBN9788249523733</rdfs:label>
+      <rdamd:P30156>Assalamu alaikum</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Forlaget Oktober, 2021.</rdamd:P30111>
+      <rdamd:P30083>Forlaget Oktober</rdamd:P30083>
+      <rdamd:P30011>2021</rdamd:P30011>
+      <rdamd:P30182>561 pages, 23 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/assalamualaikum_eksempel/exp/nob"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788202645625">
+      <rdamd:P30004>ISBN 9788202645625</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788202645625</rdaxd:P00018>
+      <rdfs:label>ISBN9788202645625</rdfs:label>
+      <rdamd:P30156>Tollak til Ingeborg</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30107>1. utgave</rdamd:P30107>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Cappelen Damm, [2020].</rdamd:P30111>
+      <rdamd:P30083>Cappelen Damm</rdamd:P30083>
+      <rdamd:P30011>[2020]</rdamd:P30011>
+      <rdamd:P30182>167 pages, 22 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/tollaktilingeborg_eksempel/exp/nor/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788249506477">
+      <rdamd:P30004>ISBN 9788249506477</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788249506477</rdaxd:P00018>
+      <rdfs:label>ISBN9788249506477</rdfs:label>
+      <rdamd:P30156>Charlotte Isabel Hansen</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Oktober, cop. 2009.</rdamd:P30111>
+      <rdamd:P30083>Oktober</rdamd:P30083>
+      <rdamd:P30011>cop. 2009</rdamd:P30011>
+      <rdamd:P30182>354 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>Oktober pocket</rdamd:P30106>
+      <rdamd:P30137>1. utg. 2008</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/5966165271944210690001/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788249516957">
+      <rdamd:P30004>ISBN 9788249516957</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788249516957</rdaxd:P00018>
+      <rdfs:label>ISBN9788249516957</rdfs:label>
+      <rdamd:P30156>Du er så lys</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Forlaget Oktober, 2016.</rdamd:P30111>
+      <rdamd:P30083>Forlaget Oktober</rdamd:P30083>
+      <rdamd:P30011>2016</rdamd:P30011>
+      <rdamd:P30182>266 pages, 21 cm.</rdamd:P30182>
+      <rdamd:P30002>ttp://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/duersalys_eksempel/exp/nor/1020"/>
+   </rdac:C10007>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/eng">
+      <rdfs:label>eng</rdfs:label>
+      <skos:subjectIndicator>eng</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/fre">
+      <rdfs:label>fre</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/nob">
+      <rdfs:label>nob</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/nor">
+      <rdfs:label>nor</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1049">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1049</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1020">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1020</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1007">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1007</skos:subjectIndicator>
+   </skos:Concept>
+</rdf:RDF>

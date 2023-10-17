@@ -1,0 +1,154 @@
+
+
+BIB2201 rapport over datasamling - oppdatert 5/6
+-------------------------------------------------------
+
+
+Antall poster i samlingen:10
+-------------------------------------------------------
+
+
+Agenter identifisert med URI
+-------------------------------------------------------
+* http://viaf.org/viaf/224205998 (700) : Bjørnsten, Ine Camilla
+* http://viaf.org/viaf/108680806 (700) : Blake, Quentin
+* http://viaf.org/viaf/108159131 (100, 600) : Dahl, Roald
+* http://viaf.org/viaf/115456625 (700) : Dahl, Tor Edvin
+* http://viaf.org/viaf/24800947 (700) : Fjellheim, Frode
+* http://viaf.org/viaf/281867077 (700) : Haukås, Torfinn
+* http://viaf.org/viaf/81320876 (700) : Hollen, John
+* http://viaf.org/viaf/76442083 (700) : Seeberg, Axel S / Seeberg, Axel
+* http://viaf.org/viaf/32119127 (700) : Simeon, Michel
+* http://viaf.org/viaf/29705882 (700) : Strømdahl, Terje
+* http://viaf.org/viaf/102074796 (100) : Wood, David
+
+
+Agent-innførsler som IKKE er identifiser med URI i $1
+men dere velger selv hvilke agenter som skal være med
+-------------------------------------------------------
+* 600  10  $aBucket, Charlie  $c(Fictitious character)  $vJuvenile fiction.
+* 600  10  $aWonka, Willy  $c(Fictitious character)  $vJuvenile fiction.
+* 710  2#  $aHålogaland teater  $0(NO-TrBIB)90125361
+
+
+Verk identifisert med URI
+-------------------------------------------------------
+* http://viaf.org/viaf/184741199 = Tales of the unexpected 
+* http://viaf.org/viaf/191540075 = The Witches / The witches 
+* http://viaf.org/viaf/2383154387337730970007 = George's Marvellous Medicine 
+* http://viaf.org/viaf/2414154387172830970000 = James and the giant peach 
+* http://viaf.org/viaf/309279222 = Charlie and the great glass elevator 
+* http://viaf.org/viaf/309287925 = Danny champion of the world 
+* http://viaf.org/viaf/309293759 = Going solo 
+* http://viaf.org/viaf/309348580 = Ah, sweet mystery of Life 
+* http://viaf.org/viaf/89146153009705251517 = Vicar of nibbleswicke 
+* http://viaf.org/viaf/9990161453851364330000 = Rhyme stew 
+
+
+Innførsler som IKKE er identifisert som verk på grunn av manglende URI i $1
+men det er jo ikke nødvendigvis feil!
+-------------------------------------------------------
+* 830  #0  $aDamm beste barnebøker
+
+
+Oversikt over MARC 21 relator koder brukt i samlingen
+sjekker bare feltene 100, 110, 111, 700, 710, 711
+-------------------------------------------------------
+* ill  : 2 
+* trl  : 7 
+
+
+Oversikt over URI relasjonstyper for Agent brukt i samlingen
+verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
+-------------------------------------------------------
+* http://rdaregistry.info/Elements/e/object/P20022 (has narrator agent) : 1 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent) : 8 
+* http://rdaregistry.info/Elements/m/object/P30321 (has contributor agent of still image) : 4 
+* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work) : 1 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 10 
+* http://rdaregistry.info/Elements/w/object/P10203 (has screenwriter agent) : 1 
+
+
+Personer med URI og relasjonstyper som er brukt for disse
+-------------------------------------------------------
+http://viaf.org/viaf/224205998 (700) : Bjørnsten, Ine Camilla 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
+http://viaf.org/viaf/108680806 (700) : Blake, Quentin 
+* http://rdaregistry.info/Elements/m/object/P30321 (has contributor agent of still image)
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+http://viaf.org/viaf/108159131 (100, 600) : Dahl, Roald 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+http://viaf.org/viaf/115456625 (700) : Dahl, Tor Edvin 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
+http://viaf.org/viaf/24800947 (700) : Fjellheim, Frode 
+* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work)
+http://viaf.org/viaf/281867077 (700) : Haukås, Torfinn 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
+http://viaf.org/viaf/81320876 (700) : Hollen, John 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
+http://viaf.org/viaf/76442083 (700) : Seeberg, Axel S / Seeberg, Axel 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
+http://viaf.org/viaf/32119127 (700) : Simeon, Michel 
+* http://rdaregistry.info/Elements/m/object/P30321 (has contributor agent of still image)
+http://viaf.org/viaf/29705882 (700) : Strømdahl, Terje 
+* http://rdaregistry.info/Elements/e/object/P20022 (has narrator agent)
+http://viaf.org/viaf/102074796 (100) : Wood, David 
+* http://rdaregistry.info/Elements/w/object/P10203 (has screenwriter agent)
+
+
+Verk til verk RDA relasjonstyper i 7XX $4-subfelt + label fra RDA registry
+-------------------------------------------------------
+Ser ut som dere mangler verk-til-verk relasjoner? 
+
+
+Analytter (dvs en publikasjon som har flere deler)
+I praksis er det 700-felter med ind2=2, $t og $1
+-------------------------------------------------------
+001 = 990100828754702202 
+* 100  1#  $aWood, David  $d21. febr. 1944-  $0(NO-TrBIB)5015372  $1http://viaf.org/viaf/102074796  $4http://rdaregistry.info/Elements/w/object/P10203
+* 240  ##  $aThe Witches  $1http://viaf.org/viaf/191540075
+* 245  10  $aHeksene  $cav Roald Dahl ; dramatisert av David Wood ; til nordnorsk ved Ine Camilla Bjørnsten
+* 700  12  $aDahl, Roald  $d1916-1990  $tThe witches  $0(NO-TrBIB)90064099  $1http://viaf.org/viaf/191540075  $4http://rdaregistry.info/Elements/w/object/P10061
+
+
+Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke analytter)
+-------------------------------------------------------
+001 = 011930011, Going solo / Dahl, Roald. /  
+* has subject agent -> Dahl, Roald. (600)
+
+
+Opplisting som viser bruken av 336 $a, $b, $0, $2
+-------------------------------------------------------
+* 336  ##  $atext  $0http://rdaregistry.info/termList/RDAContentType/1020 $2rdacontent
+* 336  ##  $aspoken word  $0http://rdaregistry.info/termList/RDAContentType/1013 $2rdacontent
+* 336  ##  $astill image $2rdacontent
+
+
+Opplisting som viser bruken av 337 $a, $b, $0, $2
+-------------------------------------------------------
+* 337  ##  $aunmediated  $0http://rdaregistry.info/termList/RDAMediaType/1007 $2rdamedia
+* 337  ##  $aaudio  $0http://rdaregistry.info/termList/RDAMediaType/1001 $2rdamedia
+
+
+Opplisting som viser bruken av 338 $a, $b, $0, $2
+-------------------------------------------------------
+* 338  ##  $avolume  $0http://rdaregistry.info/termList/RDACarrierType/1049 $2rdacarrier
+* 338  ##  $aaudio disc  $0http://rdaregistry.info/termList/RDACarrierType/1004 $2rdacarrier
+
+
+Opplisting som viser bruken av 380 $a, $0, $2
+-------------------------------------------------------
+
+
+Poster som mangler 336, 337, 338, 380
+-------------------------------------------------------
+001: 999323312544702202 mangler følgende felt:  380 
+001: 991204102144702202 mangler følgende felt:  380 
+001: 991236511404702202 mangler følgende felt:  380 
+001: 990100828754702202 mangler følgende felt:  380 
+001: 999322979354702202 mangler følgende felt:  380 
+001: 998421039374702202 mangler følgende felt:  380 
+001: 018588904 mangler følgende felt:  380 
+001: 013269009 mangler følgende felt:  380 
+001: 011930388 mangler følgende felt:  380 
+001: 011930011 mangler følgende felt:  380 

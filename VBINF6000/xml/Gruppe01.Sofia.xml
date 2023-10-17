@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record>
+        <marc:leader>01015cam a2200265 c 4500</marc:leader>
+        <marc:controlfield tag="001">990108027704702202</marc:controlfield>
+        <marc:controlfield tag="005">20230814110800.0</marc:controlfield>
+        <marc:controlfield tag="007">cr||||||||||||</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">140103s2001    no#||||| |||||000|0|nob| </marc:controlfield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">8210046446</marc:subfield>
+            <marc:subfield code="q">h.</marc:subfield>
+            <marc:subfield code="c">Nkr 249.00</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="080" ind1=" " ind2=" ">
+            <marc:subfield code="a">839.6</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="0" ind2="4">
+            <marc:subfield code="a">839.82</marc:subfield>
+            <marc:subfield code="2">23</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">741.6</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">4/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="083" ind1="7" ind2=" ">
+            <marc:subfield code="a">839.828[S]</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">4/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Renberg, Tore</marc:subfield>
+            <marc:subfield code="d">1972-</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/34565761</marc:subfield>
+            <marc:subfield code="4">aut</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="1" ind2="0">
+            <marc:subfield code="1">Varmelager fem</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/34565761/Varmelager/fem</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Varmelager fem</marc:subfield>
+            <marc:subfield code="c">Tore Renberg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Oslo</marc:subfield>
+            <marc:subfield code="b">Tiden</marc:subfield>
+            <marc:subfield code="c">cop. 2001</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">[142] s.</marc:subfield>
+            <marc:subfield code="b">ill.</marc:subfield>
+            <marc:subfield code="c">29 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
+            <marc:subfield code="2">rdacontent</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">unmediated</marc:subfield>
+            <marc:subfield code="2">rdamedia</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">volume</marc:subfield>
+            <marc:subfield code="2">rdacarrier</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="7">
+            <marc:subfield code="a">Renberg, Tore</marc:subfield>
+            <marc:subfield code="d">1972-</marc:subfield>
+            <marc:subfield code="2">aatnor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Varmelager 5</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01236cam a2200277 c 4500</marc:leader>
+        <marc:controlfield tag="001">990109135484702202</marc:controlfield>
+        <marc:controlfield tag="005">20230303111523.0</marc:controlfield>
+        <marc:controlfield tag="007">cr||||||||||||</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">110826s2001    no#||||| |||||000|1|nob| </marc:controlfield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">8205277729</marc:subfield>
+            <marc:subfield code="q">h.</marc:subfield>
+            <marc:subfield code="c">Nkr 89.00</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">839.823</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">4/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Obstfelder, Sigbjørn</marc:subfield>
+            <marc:subfield code="d">1866-1900</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/69039405</marc:subfield>
+            <marc:subfield code="4">aut</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="1" ind2="0">
+            <marc:subfield code="a">En præsts dagbog</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/214006009</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="3">
+            <marc:subfield code="a">En prests dagbog</marc:subfield>
+            <marc:subfield code="c">Sigbjørn Obstfelder ; med etterord av Tore Renberg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Oslo]</marc:subfield>
+            <marc:subfield code="b">Gyldendal</marc:subfield>
+            <marc:subfield code="c">2001</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">117 s.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
+            <marc:subfield code="2">rdacontent</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">unmediated</marc:subfield>
+            <marc:subfield code="2">rdamedia</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">volume</marc:subfield>
+            <marc:subfield code="2">rdacarrier</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="1" ind2=" ">
+            <marc:subfield code="a">Gyldendal klassiker</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">1. utg. København : Gyldendalske Boghandel, 1900 med tittel: En Præsts Dagbog</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Renberg, Tore</marc:subfield>
+            <marc:subfield code="d">1972-</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/34565761</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20037</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="3" ind2=" ">
+            <marc:subfield code="a">En præsts dagbog</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="3" ind2=" ">
+            <marc:subfield code="a">En prests dagbok</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="830" ind1=" " ind2="0">
+            <marc:subfield code="a">Gyldendal klassiker</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01816cja a2200265 c 4500</marc:leader>
+        <marc:controlfield tag="001">990612818914702202</marc:controlfield>
+        <marc:controlfield tag="005">20190130101030.0</marc:controlfield>
+        <marc:controlfield tag="007">sd f||||||||||</marc:controlfield>
+        <marc:controlfield tag="008">110826s2006    xx#|||| ||||||||||||nob| </marc:controlfield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Renberg, Tore</marc:subfield>
+            <marc:subfield code="d">1972-</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/34565761</marc:subfield>
+            <marc:subfield code="4">cmp</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10053</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="0" ind2="4">
+            <marc:subfield code="a">Jord med løv på/Meg med løv på</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/34565761/Jord/løv/på</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Jord med løv på</marc:subfield>
+            <marc:subfield code="h">[lydopptak]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="c">2006</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">(6 min)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">performed music</marc:subfield>
+            <marc:subfield code="2">rdacontent</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1011</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">audio</marc:subfield>
+            <marc:subfield code="2">rdamedia</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1001</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">compact disc</marc:subfield>
+            <marc:subfield code="2">rdacarrier</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1013</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Fjermestad, Kristian</marc:subfield>
+            <marc:subfield code="e">utøver</marc:subfield>
+            <marc:subfield code="e">elbass</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/153149294274480521324</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Jacobsen, Børre</marc:subfield>
+            <marc:subfield code="e">utøver</marc:subfield>
+            <marc:subfield code="e">elgitar</marc:subfield>
+            <marc:subfield code="e">produsent</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/211149294446580522849</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Jacobsen, Tore</marc:subfield>
+            <marc:subfield code="e">utøver</marc:subfield>
+            <marc:subfield code="e">trommer</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/410149294085080520515</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Jørgensen, Jørgen</marc:subfield>
+            <marc:subfield code="e">utøver</marc:subfield>
+            <marc:subfield code="e">synthesizer</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/308149106189568491429</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Lye, Eirik</marc:subfield>
+            <marc:subfield code="e">utøver</marc:subfield>
+            <marc:subfield code="e">produsent</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/51145970335632252661</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10304</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Renberg, Tore</marc:subfield>
+            <marc:subfield code="d">1972-</marc:subfield>
+            <marc:subfield code="e">utøver</marc:subfield>
+            <marc:subfield code="e">sang</marc:subfield>
+            <marc:subfield code="e">produsent</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/34565761</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20025</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Stavanger energi (musikkgruppe)</marc:subfield>
+            <marc:subfield code="e">utøver</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="773" ind1="0" ind2=" ">
+            <marc:subfield code="a">Stavanger energi (musikkgruppe)</marc:subfield>
+            <marc:subfield code="t">Det amerikanske valget</marc:subfield>
+            <marc:subfield code="d">Stavanger : Kippers, 2006</marc:subfield>
+            <marc:subfield code="g">1</marc:subfield>
+            <marc:subfield code="w">990607703174702201</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01818cja a2200265 c 4500</marc:leader>
+        <marc:controlfield tag="001">990612820064702202</marc:controlfield>
+        <marc:controlfield tag="005">20190130101031.0</marc:controlfield>
+        <marc:controlfield tag="007">sd f||||||||||</marc:controlfield>
+        <marc:controlfield tag="008">110826s2006    xx#|||| ||||||||||||nob| </marc:controlfield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Renberg, Tore</marc:subfield>
+            <marc:subfield code="d">1972-</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/34565761</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10053</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="0" ind2="4">
+            <marc:subfield code="a">Han er forelska i kona di</marc:subfield>
+            <marc:subfield code="1">http://viaf/34565761/Han/forelska/kona/di</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Han er forelska i kona di</marc:subfield>
+            <marc:subfield code="h">[lydopptak]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="c">2006</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">(3 min, 20 s)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">performed music</marc:subfield>
+            <marc:subfield code="2">rdacontent</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1011</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">audio</marc:subfield>
+            <marc:subfield code="2">rdamedia</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1001</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">compact disc</marc:subfield>
+            <marc:subfield code="2">rdacarrier</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1013</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Fjermestad, Kristian</marc:subfield>
+            <marc:subfield code="e">utøver</marc:subfield>
+            <marc:subfield code="e">elbass</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/153149294274480521324</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Jacobsen, Børre</marc:subfield>
+            <marc:subfield code="e">utøver</marc:subfield>
+            <marc:subfield code="e">elgitar</marc:subfield>
+            <marc:subfield code="e">produsent</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/211149294446580522849</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Jacobsen, Tore</marc:subfield>
+            <marc:subfield code="e">utøver</marc:subfield>
+            <marc:subfield code="e">trommer</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/410149294085080520515</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Jørgensen, Jørgen</marc:subfield>
+            <marc:subfield code="e">utøver</marc:subfield>
+            <marc:subfield code="e">synthesizer</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/308149106189568491429</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Lye, Eirik</marc:subfield>
+            <marc:subfield code="e">utøver</marc:subfield>
+            <marc:subfield code="e">produsent</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/51145970335632252661</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10304</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Renberg, Tore</marc:subfield>
+            <marc:subfield code="d">1972-</marc:subfield>
+            <marc:subfield code="e">utøver</marc:subfield>
+            <marc:subfield code="e">sang</marc:subfield>
+            <marc:subfield code="e">produsent</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/34565761</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20025</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Stavanger energi (musikkgruppe)</marc:subfield>
+            <marc:subfield code="e">utøver</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="773" ind1="0" ind2=" ">
+            <marc:subfield code="a">Stavanger energi (musikkgruppe)</marc:subfield>
+            <marc:subfield code="t">Det amerikanske valget</marc:subfield>
+            <marc:subfield code="d">Stavanger : Kippers, 2006</marc:subfield>
+            <marc:subfield code="g">2</marc:subfield>
+            <marc:subfield code="w">990607703174702201</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01144cam a2200253 c 4500</marc:leader>
+        <marc:controlfield tag="001">990613266584702202</marc:controlfield>
+        <marc:controlfield tag="005">20230531161552.0</marc:controlfield>
+        <marc:controlfield tag="007">cr||||||||||||</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">150914s2006    no#||||| |||||000|f|nob| </marc:controlfield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">8249504240</marc:subfield>
+            <marc:subfield code="q">ib.</marc:subfield>
+            <marc:subfield code="c">Nkr 329.00</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">9788249504244</marc:subfield>
+            <marc:subfield code="q">ib.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="080" ind1=" " ind2=" ">
+            <marc:subfield code="a">839.6</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">839.823</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">5/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Renberg, Tore</marc:subfield>
+            <marc:subfield code="d">1972-</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/34565761</marc:subfield>
+            <marc:subfield code="4">aut</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="0" ind2="4">
+            <marc:subfield code="a">Mannen som elsket Yngve</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/34565761/Mannen/elsket/Yngve</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Mannen som elsket Yngve</marc:subfield>
+            <marc:subfield code="c">Tore Renberg</marc:subfield>
+            <marc:subfield code="h">[lydopptak]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Melhus]</marc:subfield>
+            <marc:subfield code="b">Lydbokforl.</marc:subfield>
+            <marc:subfield code="c">2008</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">10 plater (CD) (12 t, 17 min)</marc:subfield>
+            <marc:subfield code="b">digital</marc:subfield>
+            <marc:subfield code="c">12 cm, i eske</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">spoken word</marc:subfield>
+            <marc:subfield code="2">rdacontent</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1013</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">audio</marc:subfield>
+            <marc:subfield code="2">rdamedia</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1001</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">audio disc</marc:subfield>
+            <marc:subfield code="2">rdacarrier</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1004</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Lest av Rolf Kristian Larsen</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Larsen, Rolf Kristian</marc:subfield>
+            <marc:subfield code="d">1983-</marc:subfield>
+            <marc:subfield code="e">medarb.</marc:subfield>
+            <marc:subfield code="4">nrt</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20037</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>00914cam a2200229 c 4500</marc:leader>
+        <marc:controlfield tag="001">990800937364702202</marc:controlfield>
+        <marc:controlfield tag="005">20230531170003.0</marc:controlfield>
+        <marc:controlfield tag="007">cr||||||||||||</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">140205s2008    no#||||| |||||000|f|nob| </marc:controlfield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">9788249505555</marc:subfield>
+            <marc:subfield code="q">h.</marc:subfield>
+            <marc:subfield code="c">Nkr 99.00</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="080" ind1=" " ind2=" ">
+            <marc:subfield code="a">839.6</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">839.823</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">5/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Renberg, Tore</marc:subfield>
+            <marc:subfield code="d">1972-</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/34565761</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="0" ind2="4">
+            <marc:subfield code="a">Mannen som elsket Yngve</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/5930152502773210800007 </marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Mannen som elsket Yngve :</marc:subfield>
+            <marc:subfield code="b">roman</marc:subfield>
+            <marc:subfield code="c">Tore Renberg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Oslo]</marc:subfield>
+            <marc:subfield code="b">Oktober</marc:subfield>
+            <marc:subfield code="c">2008</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">381 s.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
+            <marc:subfield code="2">rdacontent</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">unmediated</marc:subfield>
+            <marc:subfield code="2">rdamedia</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">volume</marc:subfield>
+            <marc:subfield code="2">rdacarrier</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">1. utg. 2003</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01030cam a2200265 c 4500</marc:leader>
+        <marc:controlfield tag="001">990701370644702202</marc:controlfield>
+        <marc:controlfield tag="005">20230531162945.0</marc:controlfield>
+        <marc:controlfield tag="007">cr||||||||||||</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">110924s2007    no#||||| |||||000|f|nob| </marc:controlfield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">9788249504695</marc:subfield>
+            <marc:subfield code="q">h.</marc:subfield>
+            <marc:subfield code="c">Nkr 99.00</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">839.823</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">5/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Renberg, Tore</marc:subfield>
+            <marc:subfield code="d">1972-</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/34565761</marc:subfield>
+            <marc:subfield code="4">aut</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="1" ind2="0">
+            <marc:subfield code="a">Farmor har kabel-TV ; Videogutten</marc:subfield>
+            <marc:subfield code="1">http://viaf/34564761/Famor/kabel-TV</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Farmor har kabel-TV ; Videogutten :</marc:subfield>
+            <marc:subfield code="b">romaner</marc:subfield>
+            <marc:subfield code="c">Tore Renberg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Oslo</marc:subfield>
+            <marc:subfield code="b">Oktober</marc:subfield>
+            <marc:subfield code="c">2007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">219 s.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
+            <marc:subfield code="2">rdacontent</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">unmediated</marc:subfield>
+            <marc:subfield code="2">rdamedia</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">volume</marc:subfield>
+            <marc:subfield code="2">rdacarrier</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="1" ind2=" ">
+            <marc:subfield code="a">Oktober pocket</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">1. utg. 2006</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Farmor har kabel-TV</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Videogutten</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="830" ind1=" " ind2="0">
+            <marc:subfield code="a">Oktober pocket</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>00914cam a2200229 c 4500</marc:leader>
+        <marc:controlfield tag="001">990800937364702202</marc:controlfield>
+        <marc:controlfield tag="005">20230531170003.0</marc:controlfield>
+        <marc:controlfield tag="007">cr||||||||||||</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">140205s2008    no#||||| |||||000|f|nob| </marc:controlfield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">9788249505555</marc:subfield>
+            <marc:subfield code="q">h.</marc:subfield>
+            <marc:subfield code="c">Nkr 99.00</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="080" ind1=" " ind2=" ">
+            <marc:subfield code="a">839.6</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">839.823</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">5/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Renberg, Tore</marc:subfield>
+            <marc:subfield code="d">1972-</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/34565761</marc:subfield>
+            <marc:subfield code="4">aut</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="1" ind2="0">
+            <marc:subfield code="a">Mannen som elsket Yngve</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/5930152502773210800007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Mannen som elsket Yngve :</marc:subfield>
+            <marc:subfield code="b">roman</marc:subfield>
+            <marc:subfield code="c">Tore Renberg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Oslo]</marc:subfield>
+            <marc:subfield code="b">Oktober</marc:subfield>
+            <marc:subfield code="c">2008</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">381 s.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
+            <marc:subfield code="2">rdacontent</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">unmediated</marc:subfield>
+            <marc:subfield code="2">rdamedia</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">volume</marc:subfield>
+            <marc:subfield code="2">rdacarrier</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">1. utg. 2003</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01084cim a2200229 c 4500</marc:leader>
+        <marc:controlfield tag="001">990801878894702202</marc:controlfield>
+        <marc:controlfield tag="005">20230308082810.0</marc:controlfield>
+        <marc:controlfield tag="007">sd f||||||||||</marc:controlfield>
+        <marc:controlfield tag="008">141117s2008    no#|||| |||||||f#|||nob| </marc:controlfield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">9788242121882</marc:subfield>
+            <marc:subfield code="c">Nkr 398.00</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="080" ind1=" " ind2=" ">
+            <marc:subfield code="a">839.6</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">839.823</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">5/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Renberg, Tore</marc:subfield>
+            <marc:subfield code="d">1972-</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/34565761</marc:subfield>
+            <marc:subfield code="4">aut</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="1" ind2="0">
+            <marc:subfield code="a">Mannen som elsket Yngve</marc:subfield>
+            <marc:subfield code="4">http://viaf.org/viaf/5930152502773210800007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Mannen som elsket Yngve</marc:subfield>
+            <marc:subfield code="c">Tore Renberg</marc:subfield>
+            <marc:subfield code="h">[lydopptak]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Melhus]</marc:subfield>
+            <marc:subfield code="b">Lydbokforl.</marc:subfield>
+            <marc:subfield code="c">2008</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">10 plater (CD) (12 t, 17 min)</marc:subfield>
+            <marc:subfield code="b">digital</marc:subfield>
+            <marc:subfield code="c">12 cm, i eske</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">spoken word</marc:subfield>
+            <marc:subfield code="2">rdacontent</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1013</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">audio</marc:subfield>
+            <marc:subfield code="2">rdamedia</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1001</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">audio disc</marc:subfield>
+            <marc:subfield code="2">rdacarrier</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1004</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Lest av Rolf Kristian Larsen</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Larsen, Rolf Kristian</marc:subfield>
+            <marc:subfield code="d">1983-</marc:subfield>
+            <marc:subfield code="e">medarb.</marc:subfield>
+            <marc:subfield code="4">nrt</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20037</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:map="http://www.w3.org/2005/xpath-functions/map"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:marc="http://www.loc.gov/MARC21/slim"
+         xmlns:rdac="http://rdaregistry.info/Elements/c/"
+         xmlns:rdaad="http://rdaregistry.info/Elements/a/datatype/"
+         xmlns:rdaao="http://rdaregistry.info/Elements/a/object/"
+         xmlns:rdawd="http://rdaregistry.info/Elements/w/datatype/"
+         xmlns:rdawo="http://rdaregistry.info/Elements/w/object/"
+         xmlns:rdaed="http://rdaregistry.info/Elements/e/datatype/"
+         xmlns:rdaeo="http://rdaregistry.info/Elements/e/object/"
+         xmlns:rdamd="http://rdaregistry.info/Elements/m/datatype/"
+         xmlns:rdamo="http://rdaregistry.info/Elements/m/object/"
+         xmlns:rdaxd="http://rdaregistry.info/Elements/x/datatype/"
+         xmlns:mads="http://www.loc.gov/mads/rdf/v1#"
+         xmlns:mmmm="http://www.loc.gov/MARC21/slim/"
+         xmlns:rdaco="http://rdaregistry.info/termList/RDAContentType/"
+         xmlns:rdact="http://rdaregistry.info/termList/RDACarrierType/"
+         xmlns:rdamt="http://rdaregistry.info/termList/RDAMediaType/"
+         xmlns:rdat="http://rdaregistry.info/termList/"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:ex="http://www.example.org/">
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/2229156133228058430004">
+      <rdaxd:P00018>http://viaf.org/viaf/2229156133228058430004</rdaxd:P00018>
+      <rdawd:P10088>Charlotte Isabel Hansen</rdawd:P10088>
+      <rdfs:label>Charlotte Isabel Hansen (Renberg, Tore)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/309465458">
+      <rdaxd:P00018>http://viaf.org/viaf/309465458</rdaxd:P00018>
+      <rdawd:P10088>Gi gass, Ine</rdawd:P10088>
+      <rdfs:label>Gi gass, Ine (Renberg, Tore)</rdfs:label>
+      <rdawo:P10058 rdf:resource="http://viaf.org/viaf/19436219"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/35146153040605250276">
+      <rdaxd:P00018>http://viaf.org/viaf/35146153040605250276</rdaxd:P00018>
+      <rdawd:P10088>Vaffelmøkk</rdawd:P10088>
+      <rdfs:label>Vaffelmøkk (Renberg, Tore)</rdfs:label>
+      <rdawo:P10058 rdf:resource="http://viaf.org/viaf/19436219"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/5930152502773210800007">
+      <rdaxd:P00018>http://viaf.org/viaf/5930152502773210800007</rdaxd:P00018>
+      <rdawd:P10088>Mannen som elsket Yngve</rdawd:P10088>
+      <rdfs:label>Mannen som elsket Yngve (Renberg, Tore)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/detteerminegamledager_eksempel">
+      <rdaxd:P00018>http://viaf.org/viaf/detteerminegamledager_eksempel</rdaxd:P00018>
+      <rdawd:P10088>Dette er mine gamle dager</rdawd:P10088>
+      <rdfs:label>Dette er mine gamle dager (Renberg, Tore)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/dettusendehjerte_eksempel">
+      <rdaxd:P00018>http://viaf.org/viaf/dettusendehjerte_eksempel</rdaxd:P00018>
+      <rdawd:P10088>Det tusende hjerte</rdawd:P10088>
+      <rdfs:label>Det tusende hjerte (Renberg, Tore)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/duersalys_eksempel">
+      <rdaxd:P00018>http://viaf.org/viaf/duersalys_eksempel</rdaxd:P00018>
+      <rdawd:P10088>Du er så lys</rdawd:P10088>
+      <rdfs:label>Du er så lys (Renberg, Tore)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/farmorharkabeltv;videogutten_eksempel">
+      <rdaxd:P00018>http://viaf.org/viaf/farmorharkabeltv;videogutten_eksempel</rdaxd:P00018>
+      <rdawd:P10088>Farmor har kabel-TV; Videogutten</rdawd:P10088>
+      <rdfs:label>Farmor har kabel-TV; Videogutten (Renberg, Tore)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/hehehasse_eksempel">
+      <rdaxd:P00018>http://viaf.org/viaf/hehehasse_eksempel</rdaxd:P00018>
+      <rdawd:P10088>He he, Hasse</rdawd:P10088>
+      <rdfs:label>He he, Hasse (Renberg, Tore)</rdfs:label>
+      <rdawo:P10058 rdf:resource="http://viaf.org/viaf/19436219"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/lungeflyteproven_eksempel">
+      <rdaxd:P00018>http://viaf.org/viaf/lungeflyteproven_eksempel</rdaxd:P00018>
+      <rdawd:P10088>Lungeflyteprøven</rdawd:P10088>
+      <rdfs:label>Lungeflyteprøven (Renberg, Tore)</rdfs:label>
+      <rdawd:P10330>Sachsen, 1681: Femten år gamle Anna Voigt tiltales for å ha drept sitt nyfødte barn. Blir hun kjent skyldig, vil straffen være døden. Denne romanen folder ut den forbløffende fortellingen om Anna Voigt, om et samfunn som straffer sine døtre og sønner hardt, om tortur og henrettelser, om den medisinske lungeflyteprøven som ble starten på moderne rettsmedisin, om hevn, forfengelighet og ortodoksi, om gammel tid mot ny tid. Ut fra et unikt historisk materiale trer et mylder av skikkelser levende frem, skildret med stor innsikt og innlevelse. "Lungeflyteprøven" er basert på virkelige hendelser, aldri før fortalt.</rdawd:P10330>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdawo:P10319 rdf:resource="http://viaf.org/viaf/annavoigt_eksempel"/>
+   </rdac:C10001>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/19436219">
+      <rdaxd:P00018>http://viaf.org/viaf/19436219</rdaxd:P00018>
+      <rdaad:P50385>Torseter, Øyvind</rdaad:P50385>
+      <rdfs:label>Torseter, Øyvind</rdfs:label>
+      <rdaad:P50339>1972-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/227149066634465602334">
+      <rdaxd:P00018>http://viaf.org/viaf/227149066634465602334</rdaxd:P00018>
+      <rdaad:P50385>Batzer, Arild</rdaad:P50385>
+      <rdfs:label>Batzer, Arild</rdfs:label>
+      <rdaad:P50339>1946-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/311494855">
+      <rdaxd:P00018>http://viaf.org/viaf/311494855</rdaxd:P00018>
+      <rdaad:P50385>Berg, Ebba</rdaad:P50385>
+      <rdfs:label>Berg, Ebba</rdfs:label>
+      <rdaad:P50339>1975-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/32145970329832252552">
+      <rdaxd:P00018>http://viaf.org/viaf/32145970329832252552</rdaxd:P00018>
+      <rdaad:P50385>Jensen, Jannie</rdaad:P50385>
+      <rdfs:label>Jensen, Jannie</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/34565761">
+      <rdaxd:P00018>http://viaf.org/viaf/34565761</rdaxd:P00018>
+      <rdaad:P50385>Renberg, Tore</rdaad:P50385>
+      <rdfs:label>Renberg, Tore</rdfs:label>
+      <rdaad:P50339>1972-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/annavoigt_eksempel">
+      <rdaxd:P00018>http://viaf.org/viaf/annavoigt_eksempel</rdaxd:P00018>
+      <rdaad:P50385>Voigt, Anna</rdaad:P50385>
+      <rdfs:label>Voigt, Anna</rdfs:label>
+      <rdaad:P50339>1666-1691</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/2229156133228058430004/exp/nob/1013/34565761">
+      <rdaed:P20316>Charlotte Isabel Hansen</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Charlotte Isabel Hansen</rdaed:P20312>
+      <rdfs:label>Charlotte Isabel Hansen / spoken word</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/2229156133228058430004"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/309465458/exp/swe/1020/311494855">
+      <rdaed:P20316>Gi gass, Ine</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Ge järnet, Ina</rdaed:P20312>
+      <rdfs:label>Ge järnet, Ina / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/swe"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/311494855"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/309465458"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/35146153040605250276/exp/swe/1014/1020/311494855">
+      <rdaed:P20316>Vaffelmøkk</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Våffelmuck</rdaed:P20312>
+      <rdfs:label>Våffelmuck / swe / stillbilde / tekst</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1014"/>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/swe"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/311494855"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/35146153040605250276"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/5930152502773210800007/exp/dan/1020/227149066634465602334/32145970329832252552">
+      <rdaed:P20316>Mannen som elsket Yngve</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Mig og Yngve : roman</rdaed:P20312>
+      <rdfs:label>Mig og Yngve / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dan"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/227149066634465602334"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/32145970329832252552"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/5930152502773210800007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/5930152502773210800007/exp/nob/1020">
+      <rdaed:P20316>Mannen som elsket Yngve</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Mannen som elsket Yngve : roman</rdaed:P20312>
+      <rdfs:label>Mannen som elsket Yngve / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/5930152502773210800007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/detteerminegamledager_eksempel/exp/nob/1013/34565761">
+      <rdaed:P20316>Dette er mine gamle dager</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Dette er mine gamle dager</rdaed:P20312>
+      <rdfs:label>Dette er mine gamle dager / spoken word</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/detteerminegamledager_eksempel"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/dettusendehjerte_eksempel/exp/nob/1020">
+      <rdaed:P20316>Det tusende hjerte</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Det tusende hjertet</rdaed:P20312>
+      <rdfs:label>Det tusende hjertet / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/dettusendehjerte_eksempel"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/duersalys_eksempel/exp/nno/1013/34565761">
+      <rdaed:P20316>Du er så lys</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Du er så lys</rdaed:P20312>
+      <rdfs:label>Du er så lys / spoken word</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/duersalys_eksempel"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/farmorharkabeltv;videogutten_eksempel/exp/nob/1020">
+      <rdaed:P20316>Farmor har kabel-TV; Videogutten</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Farmor har kabel-TV ; Videogutten : romaner</rdaed:P20312>
+      <rdfs:label>Farmor har kabel-TV ; Videogutten / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/farmorharkabeltv;videogutten_eksempel"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/hehehasse_eksempel/exp/nob/1020">
+      <rdaed:P20316>He he, Hasse</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>He he, Hasse</rdaed:P20312>
+      <rdfs:label>He he, Hasse / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/hehehasse_eksempel"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/lungeflyteproven_eksempel/exp/nob/1002/1014/1020">
+      <rdaed:P20316>Lungeflyteprøven</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Lungeflyteprøven : forsvar for en ung kvinne som var mistenkt for spedbarnsdrap : roman</rdaed:P20312>
+      <rdfs:label>Lungeflyteprøven / kartografisk bilde / stillbilde / tekst</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1002"/>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1014"/>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/lungeflyteproven_eksempel"/>
+   </rdac:C10006>
+   <rdac:C10007 rdf:about="http://example.org/990718583854702202">
+      <rdamd:P30156>Det tusende hjertet</rdamd:P30156>
+      <rdamd:P30014>2. akt</rdamd:P30014>
+      <rdamd:P30088>[Stavanger]</rdamd:P30088>
+      <rdamd:P30111>[Stavanger] : Rogaland teater, [2007].</rdamd:P30111>
+      <rdamd:P30083>Rogaland teater</rdamd:P30083>
+      <rdamd:P30011>[2007]</rdamd:P30011>
+      <rdamd:P30182>Bl. 60-113.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/dettusendehjerte_eksempel/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788202345532">
+      <rdamd:P30004>ISBN 978-82-02-34553-2</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788202345532</rdaxd:P00018>
+      <rdfs:label>ISBN978-82-02-34553-2</rdfs:label>
+      <rdamd:P30156>He he, Hasse</rdamd:P30156>
+      <rdamd:P30117>Tore Renberg, Øyvind Torseter</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen Damm, 2011.</rdamd:P30111>
+      <rdamd:P30083>Cappelen Damm</rdamd:P30083>
+      <rdamd:P30011>2011</rdamd:P30011>
+      <rdamd:P30182>[32] s. : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/hehehasse_eksempel/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788242145284">
+      <rdamd:P30004>ISBN 9788242145284</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788242145284</rdaxd:P00018>
+      <rdfs:label>ISBN9788242145284</rdfs:label>
+      <rdamd:P30156>Charlotte Isabel Hansen</rdamd:P30156>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>[Melhus]</rdamd:P30088>
+      <rdamd:P30111>[Melhus] : Lydbokforl., 2008.</rdamd:P30111>
+      <rdamd:P30083>Lydbokforl</rdamd:P30083>
+      <rdamd:P30011>2008</rdamd:P30011>
+      <rdamd:P30182>8 plater (CD) (9 t, 51 min) : digital, 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1004</rdamd:P30001>
+      <rdamd:P30137>Lest av forfatteren</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2229156133228058430004/exp/nob/1013/34565761"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788242153111">
+      <rdamd:P30004>ISBN 9788242153111</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788242153111</rdaxd:P00018>
+      <rdfs:label>ISBN9788242153111</rdfs:label>
+      <rdamd:P30156>Dette er mine gamle dager</rdamd:P30156>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>[Melhus]</rdamd:P30088>
+      <rdamd:P30111>[Melhus] : Lydbokforl., 2011.</rdamd:P30111>
+      <rdamd:P30083>Lydbokforl</rdamd:P30083>
+      <rdamd:P30011>2011</rdamd:P30011>
+      <rdamd:P30182>7 CD-er (8 t, 35 min), 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1004</rdamd:P30001>
+      <rdamd:P30137>Lest av forfatteren</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/detteerminegamledager_eksempel/exp/nob/1013/34565761"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788242172457">
+      <rdamd:P30004>ISBN 978-82-421-7245-7</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788242172457</rdaxd:P00018>
+      <rdfs:label>ISBN978-82-421-7245-7</rdfs:label>
+      <rdamd:P30156>Du er så lys</rdamd:P30156>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Lydbokforl., 2016.</rdamd:P30111>
+      <rdamd:P30083>Lydbokforl</rdamd:P30083>
+      <rdamd:P30011>2016</rdamd:P30011>
+      <rdamd:P30182>5 CD-er (6 t, 23 min)l, 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1004</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/duersalys_eksempel/exp/nno/1013/34565761"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788249504695">
+      <rdamd:P30004>ISBN 9788249504695</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788249504695</rdaxd:P00018>
+      <rdfs:label>ISBN9788249504695</rdfs:label>
+      <rdamd:P30156>Farmor har kabel-TV ; Videogutten</rdamd:P30156>
+      <rdamd:P30142>romaner</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Oktober, 2007.</rdamd:P30111>
+      <rdamd:P30083>Oktober</rdamd:P30083>
+      <rdamd:P30011>2007</rdamd:P30011>
+      <rdamd:P30182>219 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>Oktober pocket</rdamd:P30106>
+      <rdamd:P30137>1. utg. 2006</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/farmorharkabeltv;videogutten_eksempel/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788249505555">
+      <rdamd:P30004>ISBN 9788249505555</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788249505555</rdaxd:P00018>
+      <rdfs:label>ISBN9788249505555</rdfs:label>
+      <rdamd:P30156>Mannen som elsket Yngve</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Oktober, 2008.</rdamd:P30111>
+      <rdamd:P30083>Oktober</rdamd:P30083>
+      <rdamd:P30011>2008</rdamd:P30011>
+      <rdamd:P30182>381 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>1. utg. 2003</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/5930152502773210800007/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788249523740">
+      <rdamd:P30004>ISBN 9788249523740</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788249523740</rdaxd:P00018>
+      <rdfs:label>ISBN9788249523740</rdfs:label>
+      <rdamd:P30156>Lungeflyteprøven</rdamd:P30156>
+      <rdamd:P30142>forsvar for en ung kvinne som var mistenkt for spedbarnsdrap : roman</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Forlaget Oktober, 2023.</rdamd:P30111>
+      <rdamd:P30083>Forlaget Oktober</rdamd:P30083>
+      <rdamd:P30011>2023</rdamd:P30011>
+      <rdamd:P30182>558 sider : illustrasjoner, kart, 23 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/lungeflyteproven_eksempel/exp/nob/1002/1014/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788790524913">
+      <rdamd:P30004>ISBN 9788790524913</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788790524913</rdaxd:P00018>
+      <rdfs:label>ISBN9788790524913</rdfs:label>
+      <rdamd:P30156>Mig og Yngve</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg ; på dansk ved Jannie Jensen &amp; Arild Batzer</rdamd:P30117>
+      <rdamd:P30088>Roskilde</rdamd:P30088>
+      <rdamd:P30111>Roskilde : Batzer &amp; Co., 2009.</rdamd:P30111>
+      <rdamd:P30083>Batzer &amp; Co</rdamd:P30083>
+      <rdamd:P30011>2009</rdamd:P30011>
+      <rdamd:P30182>427 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/5930152502773210800007/exp/dan/1020/227149066634465602334/32145970329832252552"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789173551922">
+      <rdamd:P30004>ISBN 9789173551922</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789173551922</rdaxd:P00018>
+      <rdfs:label>ISBN9789173551922</rdfs:label>
+      <rdamd:P30156>Ge järnet, Ina</rdamd:P30156>
+      <rdamd:P30117>Tore Renberg, Øyvind Torseter ; [översättning: Ebba Berg]</rdamd:P30117>
+      <rdamd:P30088>[Göteborg]</rdamd:P30088>
+      <rdamd:P30111>[Göteborg] : Kabusa böcker, 2011.</rdamd:P30111>
+      <rdamd:P30083>Kabusa böcker</rdamd:P30083>
+      <rdamd:P30011>2011</rdamd:P30011>
+      <rdamd:P30182>[32] s. : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309465458/exp/swe/1020/311494855"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789173553575">
+      <rdamd:P30004>ISBN 978-91-7355-357-5</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789173553575</rdaxd:P00018>
+      <rdfs:label>ISBN978-91-7355-357-5</rdfs:label>
+      <rdamd:P30156>Våffelmuck</rdamd:P30156>
+      <rdamd:P30117>Tore Renberg, Øyvind Torseter</rdamd:P30117>
+      <rdamd:P30088>[Göteborg]</rdamd:P30088>
+      <rdamd:P30111>[Göteborg] : Kabusa Böcker, [2014].</rdamd:P30111>
+      <rdamd:P30083>Kabusa Böcker</rdamd:P30083>
+      <rdamd:P30011>[2014]</rdamd:P30011>
+      <rdamd:P30182>32 unummererte sider : illustrasjoner.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/35146153040605250276/exp/swe/1014/1020/311494855"/>
+   </rdac:C10007>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/dan">
+      <rdfs:label>dan</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/nno">
+      <rdfs:label>nno</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/nob">
+      <rdfs:label>nob</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/swe">
+      <rdfs:label>swe</rdfs:label>
+      <skos:subjectIndicator>swe</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1004">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1004</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1049">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1049</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1002">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1002</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1013">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1013</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1014">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1014</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1020">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1020</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1001">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1001</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1007">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1007</skos:subjectIndicator>
+   </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,149 @@
+
+
+BIB2201 rapport over datasamling - oppdatert 5/6
+-------------------------------------------------------
+
+
+Antall poster i samlingen:9
+-------------------------------------------------------
+
+
+Agenter identifisert med URI
+-------------------------------------------------------
+* http://viaf.org/viaf/153149294274480521324 (700) : Fjermestad, Kristian
+* http://viaf.org/viaf/211149294446580522849 (700) : Jacobsen, Børre
+* http://viaf.org/viaf/410149294085080520515 (700) : Jacobsen, Tore
+* http://viaf.org/viaf/308149106189568491429 (700) : Jørgensen, Jørgen
+* http://viaf.org/viaf/51145970335632252661 (700) : Lye, Eirik
+* http://viaf.org/viaf/69039405 (100) : Obstfelder, Sigbjørn
+* http://viaf.org/viaf/34565761 (100, 700) : Renberg, Tore
+
+
+Agent-innførsler som IKKE er identifiser med URI i $1
+men dere velger selv hvilke agenter som skal være med
+-------------------------------------------------------
+* 600  17  $aRenberg, Tore  $d1972- $2aatnor
+* 700  1#  $aLarsen, Rolf Kristian  $d1983-  $emedarb.  $4nrt  $4http://rdaregistry.info/Elements/e/object/P20037
+* 700  1#  $aLarsen, Rolf Kristian  $d1983-  $emedarb.  $4nrt  $4http://rdaregistry.info/Elements/e/object/P20037
+* 710  2#  $aStavanger energi (musikkgruppe)  $eutøver
+* 710  2#  $aStavanger energi (musikkgruppe)  $eutøver
+
+
+Verk identifisert med URI
+-------------------------------------------------------
+* Varmelager fem =  
+* http://viaf.org/viaf/214006009 = En præsts dagbog 
+* http://viaf.org/viaf/34565761/Jord/løv/på = Jord med løv på/Meg med løv på 
+* http://viaf.org/viaf/34565761/Mannen/elsket/Yngve = Mannen som elsket Yngve 
+* http://viaf.org/viaf/34565761/Varmelager/fem =  
+* http://viaf.org/viaf/5930152502773210800007 = Mannen som elsket Yngve 
+* http://viaf/34564761/Famor/kabel-TV = Farmor har kabel-TV ; Videogutten 
+* http://viaf/34565761/Han/forelska/kona/di = Han er forelska i kona di 
+
+
+Innførsler som IKKE er identifisert som verk på grunn av manglende URI i $1
+men det er jo ikke nødvendigvis feil!
+-------------------------------------------------------
+* 240  10  $aMannen som elsket Yngve  $4http://viaf.org/viaf/5930152502773210800007
+* 830  #0  $aGyldendal klassiker
+* 830  #0  $aOktober pocket
+
+
+Poster hvor vi ikke finner noe verk identifisert med URI
+hverken som hovedinnførsel i 130/240 eller som analytt i 700
+-------------------------------------------------------
+001 = 990801878894702202 / 245$a =  Mannen som elsket Yngve 
+
+
+Oversikt over MARC 21 relator koder brukt i samlingen
+sjekker bare feltene 100, 110, 111, 700, 710, 711
+-------------------------------------------------------
+* aut  : 6 
+* cmp  : 1 
+* nrt  : 2 
+* trl  : 1 
+
+
+Oversikt over URI relasjonstyper for Agent brukt i samlingen
+verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
+-------------------------------------------------------
+* http://rdaregistry.info/Elements/e/object/P20020 (has instrumentalist agent) : 8 
+* http://rdaregistry.info/Elements/e/object/P20025 (has singer agent) : 2 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent) : 3 
+* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work) : 2 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 7 
+* http://rdaregistry.info/Elements/w/object/P10304 (has audio producer agent) : 2 
+
+
+Personer med URI og relasjonstyper som er brukt for disse
+-------------------------------------------------------
+http://viaf.org/viaf/153149294274480521324 (700) : Fjermestad, Kristian 
+* http://rdaregistry.info/Elements/e/object/P20020 (has instrumentalist agent)
+http://viaf.org/viaf/211149294446580522849 (700) : Jacobsen, Børre 
+* http://rdaregistry.info/Elements/e/object/P20020 (has instrumentalist agent)
+http://viaf.org/viaf/410149294085080520515 (700) : Jacobsen, Tore 
+* http://rdaregistry.info/Elements/e/object/P20020 (has instrumentalist agent)
+http://viaf.org/viaf/308149106189568491429 (700) : Jørgensen, Jørgen 
+* http://rdaregistry.info/Elements/e/object/P20020 (has instrumentalist agent)
+http://viaf.org/viaf/51145970335632252661 (700) : Lye, Eirik 
+* http://rdaregistry.info/Elements/w/object/P10304 (has audio producer agent)
+http://viaf.org/viaf/69039405 (100) : Obstfelder, Sigbjørn 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+http://viaf.org/viaf/34565761 (100, 700) : Renberg, Tore 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
+* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work)
+* http://rdaregistry.info/Elements/e/object/P20025 (has singer agent)
+
+
+Verk til verk RDA relasjonstyper i 7XX $4-subfelt + label fra RDA registry
+-------------------------------------------------------
+Ser ut som dere mangler verk-til-verk relasjoner? 
+
+
+Analytter (dvs en publikasjon som har flere deler)
+I praksis er det 700-felter med ind2=2, $t og $1
+-------------------------------------------------------
+Ser ut som dere mangler slike poster? 
+
+
+Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke analytter)
+-------------------------------------------------------
+Ser ut som dere mangler slike relasjoner? 
+
+
+Opplisting som viser bruken av 336 $a, $b, $0, $2
+-------------------------------------------------------
+* 336  ##  $atext  $0http://rdaregistry.info/termList/RDAContentType/1020 $2rdacontent
+* 336  ##  $aperformed music  $0http://rdaregistry.info/termList/RDAContentType/1011 $2rdacontent
+* 336  ##  $aspoken word  $0http://rdaregistry.info/termList/RDAContentType/1013 $2rdacontent
+
+
+Opplisting som viser bruken av 337 $a, $b, $0, $2
+-------------------------------------------------------
+* 337  ##  $aunmediated  $0http://rdaregistry.info/termList/RDAMediaType/1007 $2rdamedia
+* 337  ##  $aaudio  $0http://rdaregistry.info/termList/RDAMediaType/1001 $2rdamedia
+
+
+Opplisting som viser bruken av 338 $a, $b, $0, $2
+-------------------------------------------------------
+* 338  ##  $avolume  $0http://rdaregistry.info/termList/RDACarrierType/1049 $2rdacarrier
+* 338  ##  $acompact disc  $0http://rdaregistry.info/termList/RDACarrierType/1013 $2rdacarrier
+* 338  ##  $aaudio disc  $0http://rdaregistry.info/termList/RDACarrierType/1004 $2rdacarrier
+
+
+Opplisting som viser bruken av 380 $a, $0, $2
+-------------------------------------------------------
+
+
+Poster som mangler 336, 337, 338, 380
+-------------------------------------------------------
+001: 990108027704702202 mangler følgende felt:  380 
+001: 990109135484702202 mangler følgende felt:  380 
+001: 990612818914702202 mangler følgende felt:  380 
+001: 990612820064702202 mangler følgende felt:  380 
+001: 990613266584702202 mangler følgende felt:  380 
+001: 990800937364702202 mangler følgende felt:  380 
+001: 990701370644702202 mangler følgende felt:  380 
+001: 990800937364702202 mangler følgende felt:  380 
+001: 990801878894702202 mangler følgende felt:  380 

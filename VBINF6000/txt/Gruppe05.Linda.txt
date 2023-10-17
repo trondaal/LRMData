@@ -1,0 +1,147 @@
+
+
+BIB2201 rapport over datasamling - oppdatert 5/6
+-------------------------------------------------------
+
+
+Antall poster i samlingen:11
+-------------------------------------------------------
+
+
+Agenter identifisert med URI
+-------------------------------------------------------
+* http://viaf.org/viaf/227149066634465602334 (700) : Batzer, Arild
+* http://viaf.org/viaf/311494855 (700) : Berg, Ebba
+* http://viaf.org/viaf/32145970329832252552 (700) : Jensen, Jannie
+* http://viaf.org/viaf/34565761 (100) : Renberg, Tore
+* http://viaf.org/viaf/19436219 (700) : Torseter, Øyvind
+* http://viaf.org/viaf/annavoigt_eksempel (600) : Voigt, Anna
+
+
+Agent-innførsler som IKKE er identifiser med URI i $1
+men dere velger selv hvilke agenter som skal være med
+-------------------------------------------------------
+* 710  2#  $aRogaland teater  $0(NO-TrBIB)90121315
+
+
+Verk identifisert med URI
+-------------------------------------------------------
+* http://viaf.org/viaf/2229156133228058430004 = Charlotte Isabel Hansen 
+* http://viaf.org/viaf/309465458 = Gi gass, Ine 
+* http://viaf.org/viaf/35146153040605250276 = Vaffelmøkk / Lungeflyteprøven 
+* http://viaf.org/viaf/5930152502773210800007 = Mannen som elsket Yngve 
+* http://viaf.org/viaf/detteerminegamledager_eksempel = Dette er mine gamle dager 
+* http://viaf.org/viaf/dettusendehjerte_eksempel = Det tusende hjerte 
+* http://viaf.org/viaf/duersalys_eksempel = Du er så lys 
+* http://viaf.org/viaf/farmorharkabeltv;videogutten_eksempel = Farmor har kabel-TV; Videogutten 
+* http://viaf.org/viaf/hehehasse_eksempel = He he, Hasse 
+* http://viaf.org/viaf/lungeflyteproven_eksempel = Lungeflyteprøven 
+
+
+Innførsler som IKKE er identifisert som verk på grunn av manglende URI i $1
+men det er jo ikke nødvendigvis feil!
+-------------------------------------------------------
+* 830  #0  $aOktober pocket
+
+
+Oversikt over MARC 21 relator koder brukt i samlingen
+sjekker bare feltene 100, 110, 111, 700, 710, 711
+-------------------------------------------------------
+* art  : 1 
+* aut  : 11 
+* ill  : 3 
+* nrt  : 3 
+* trl  : 4 
+
+
+Oversikt over URI relasjonstyper for Agent brukt i samlingen
+verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
+-------------------------------------------------------
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent) : 7 
+* http://rdaregistry.info/Elements/w/object/P10058 (has artist agent) : 3 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 11 
+
+
+Personer med URI og relasjonstyper som er brukt for disse
+-------------------------------------------------------
+http://viaf.org/viaf/227149066634465602334 (700) : Batzer, Arild 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
+http://viaf.org/viaf/311494855 (700) : Berg, Ebba 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
+http://viaf.org/viaf/32145970329832252552 (700) : Jensen, Jannie 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
+http://viaf.org/viaf/34565761 (100) : Renberg, Tore 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
+http://viaf.org/viaf/19436219 (700) : Torseter, Øyvind 
+* http://rdaregistry.info/Elements/w/object/P10058 (has artist agent)
+http://viaf.org/viaf/annavoigt_eksempel (600) : Voigt, Anna 
+
+
+Verk til verk RDA relasjonstyper i 7XX $4-subfelt + label fra RDA registry
+-------------------------------------------------------
+Ser ut som dere mangler verk-til-verk relasjoner? 
+
+
+Analytter (dvs en publikasjon som har flere deler)
+I praksis er det 700-felter med ind2=2, $t og $1
+-------------------------------------------------------
+Ser ut som dere mangler slike poster? 
+
+
+Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke analytter)
+-------------------------------------------------------
+001 = 999920429396102202, Lungeflyteprøven / Renberg, Tore /  
+* has subject agent -> Voigt, Anna (600)
+
+
+Poster med felt hvor $4 burde vært med i 700 felt
+-------------------------------------------------------
+001  999919872876102202 
+* 700  1#  $aRenberg, Tore  $d1972-  $lSvensk  $tVaffelmøkk  $0(NO-TrBIB)90858991  $1http://viaf.org/viaf/35146153040605250276
+* 700  1#  $aRenberg, Tore  $d1972-  $iOversettelse av:  $lNorsk  $tVaffelmøkk  $0(NO-TrBIB)90858991  $1http://viaf.org/viaf/35146153040605250276
+001  999920429396102202 
+* 700  1#  $aRenberg, Tore  $d1972-  $tLungeflyteprøven  $0(NO-TrBIB)(NO-TrBIB)90858991  $1http://viaf.org/viaf/35146153040605250276
+
+
+
+Opplisting som viser bruken av 336 $a, $b, $0, $2
+-------------------------------------------------------
+* 336  ##  $atext  $0http://rdaregistry.info/termList/RDAContentType/1020 $2rdacontent
+* 336  ##  $aspoken word  $0http://rdaregistry.info/termList/RDAContentType/1013 $2rdacontent
+* 336  ##  $astillbilde  $0http://rdaregistry.info/termList/RDAContentType/1014 $2rdaco
+* 336  ##  $atekst  $0http://rdaregistry.info/termList/RDAContentType/1020 $2rdaco
+* 336  ##  $akartografisk bilde  $0http://rdaregistry.info/termList/RDAContentType/1002 $2rdaco
+
+
+Opplisting som viser bruken av 337 $a, $b, $0, $2
+-------------------------------------------------------
+* 337  ##  $aunmediated  $0http://rdaregistry.info/termList/RDAMediaType/1007 $2rdamedia
+* 337  ##  $aaudio  $0http://rdaregistry.info/termList/RDAMediaType/1001 $2rdamedia
+* 337  ##  $auformidlet  $0http://rdaregistry.info/termList/RDAMediaType/1007 $2rdamt
+
+
+Opplisting som viser bruken av 338 $a, $b, $0, $2
+-------------------------------------------------------
+* 338  ##  $avolume  $0http://rdaregistry.info/termList/RDACarrierType/1049 $2rdacarrier
+* 338  ##  $aaudio disc  $0http://rdaregistry.info/termList/RDACarrierType/1004 $2rdacarrier
+* 338  ##  $abind  $0http://rdaregistry.info/termList/RDACarrierType/1049 $2rdact
+
+
+Opplisting som viser bruken av 380 $a, $0, $2
+-------------------------------------------------------
+
+
+Poster som mangler 336, 337, 338, 380
+-------------------------------------------------------
+001: 990701370644702202 mangler følgende felt:  380 
+001: 990718583854702202 mangler følgende felt:  380 
+001: 990800937364702202 mangler følgende felt:  380 
+001: 990824593124702202 mangler følgende felt:  380 
+001: 990928376704702202 mangler følgende felt:  380 
+001: 991025397744702202 mangler følgende felt:  380 
+001: 991128927364702202 mangler følgende felt:  380 
+001: 991150113664702202 mangler følgende felt:  380 
+001: 999919857390602202 mangler følgende felt:  380 
+001: 999919872876102202 mangler følgende felt:  380 
+001: 999920429396102202 mangler følgende felt:  380 

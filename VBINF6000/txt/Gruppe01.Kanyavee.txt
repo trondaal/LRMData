@@ -1,0 +1,171 @@
+
+
+BIB2201 rapport over datasamling - oppdatert 5/6
+-------------------------------------------------------
+
+
+Antall poster i samlingen:8
+-------------------------------------------------------
+
+
+Agenter identifisert med URI
+-------------------------------------------------------
+* http://viaf.org/viaf/60820856 (700) : Andersson, Urban
+* http://viaf.org/viaf/10543719 (700) : Dybvig, Per
+* http://viaf.org/viaf/153149294274480521324 (700) : Fjermestad, Kristian
+* http://viaf.org/viaf/406160483611904990154 (700) : Guddingsmo, Jonny
+* http://viaf.org/viaf/211149294446580522849 (700) : Jacobsen, Børre
+* http://viaf.org/viaf/410149294085080520515 (700) : Jacobsen, Tore
+* http://viaf.org/viaf/4939156012383649700001 (700) : Jørgensen, Jørgen
+* http://viaf.org/viaf/78957214 (700) : Jørgensen, Jørgen
+* http://viaf.org/viaf/51145970335632252661 (700) : Lye, Eirik
+* http://viaf.org/viaf/4616154075994111860006 (700) : Pedersen, Jørn
+* http://viaf.org/viaf/34565761 (100, 700) : Renberg, Tore
+* http://viaf.org/viaf/89149294297980521531 (700) : Riska, Inge
+* http://viaf.org/viaf/140149294366780522217 (100) : Stavanger enegri
+* http://viaf.org/viaf/133302399 (700) : Törnqvist, Peter
+
+
+Agent-innførsler som IKKE er identifiser med URI i $1
+men dere velger selv hvilke agenter som skal være med
+-------------------------------------------------------
+* 110  2#  $aStavanger energi (musikkgruppe)
+* 710  2#  $aStavanger energi (musikkgruppe)  $0(NO-TrBIB)6007146
+* 710  2#  $aStavanger energi (musikkgruppe)
+* 710  2#  $aVerdensrommet (musikkgruppe)  $eutøver
+
+
+Verk identifisert med URI
+-------------------------------------------------------
+* http://viaf.org/viaf/140149294366780522217/Ka/med/snøen/? = Ka bler det te med den snøen? (Julemusikk)
+* http://viaf.org/viaf/34565761/Det/amerikanske/valget = Det amerikanske valget 
+* http://viaf.org/viaf/3568154387451230970006 = Charlotte Isabel Hansen 
+* http://viaf.org/viaf/5930152502773210800007 = Mannen som elsket Yngve 
+* http://viaf.org/viaf/9937151965272000470001 = Kompani Orheim 
+* https://viaf.org/viaf/34565761/erindringer/fremtiden = En god tid : 
+* https://viaf/34565761/Trillefolket/Kjartan = Trillefolket : 
+
+
+Innførsler som IKKE er identifisert som verk på grunn av manglende URI i $1
+men det er jo ikke nødvendigvis feil!
+-------------------------------------------------------
+* 830  #0  $aMånpocket
+* 830  #0  $aOktober pocket
+
+
+Poster hvor vi ikke finner noe verk identifisert med URI
+hverken som hovedinnførsel i 130/240 eller som analytt i 700
+-------------------------------------------------------
+001 = 990601314974702202 / 245$a =  Mars 
+
+
+Oversikt over MARC 21 relator koder brukt i samlingen
+sjekker bare feltene 100, 110, 111, 700, 710, 711
+-------------------------------------------------------
+* aut  : 5 
+* cmp  : 2 
+* ill  : 1 
+* trl  : 2 
+
+
+Oversikt over URI relasjonstyper for Agent brukt i samlingen
+verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
+-------------------------------------------------------
+* http://rdaregistry.info/Elements/e/object/P20020 (has instrumentalist agent) : 8 
+* http://rdaregistry.info/Elements/e/object/P20025 (has singer agent) : 2 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent) : 1 
+* http://rdaregistry.info/Elements/e/object/P20049 (has abridger agent) : 1 
+* http://rdaregistry.info/Elements/e/object/P20435 (has instrumentalist collective agent) : 1 
+* http://rdaregistry.info/Elements/w/object/P10002 (has identifier for work) : 2 
+* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work) : 3 
+* http://rdaregistry.info/Elements/w/object/P10058 (has artist agent) : 1 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 2 
+* http://rdaregistry.info/Elements/w/object/P10304 (has audio producer agent) : 2 
+
+
+Personer med URI og relasjonstyper som er brukt for disse
+-------------------------------------------------------
+http://viaf.org/viaf/60820856 (700) : Andersson, Urban 
+* http://rdaregistry.info/Elements/e/object/P20049 (has abridger agent)
+http://viaf.org/viaf/10543719 (700) : Dybvig, Per 
+* http://rdaregistry.info/Elements/w/object/P10058 (has artist agent)
+http://viaf.org/viaf/153149294274480521324 (700) : Fjermestad, Kristian 
+* http://rdaregistry.info/Elements/e/object/P20020 (has instrumentalist agent)
+* http://rdaregistry.info/Elements/e/object/P20020 ()
+http://viaf.org/viaf/406160483611904990154 (700) : Guddingsmo, Jonny 
+* http://rdaregistry.info/Elements/e/object/P20020 (has instrumentalist agent)
+http://viaf.org/viaf/211149294446580522849 (700) : Jacobsen, Børre 
+* http://rdaregistry.info/Elements/e/object/P20020 (has instrumentalist agent)
+http://viaf.org/viaf/410149294085080520515 (700) : Jacobsen, Tore 
+* http://rdaregistry.info/Elements/e/object/P20020 (has instrumentalist agent)
+http://viaf.org/viaf/4939156012383649700001 (700) : Jørgensen, Jørgen 
+* http://rdaregistry.info/Elements/e/object/P20020 (has instrumentalist agent)
+http://viaf.org/viaf/78957214 (700) : Jørgensen, Jørgen 
+* http://rdaregistry.info/Elements/e/object/P20020 (has instrumentalist agent)
+http://viaf.org/viaf/51145970335632252661 (700) : Lye, Eirik 
+* http://rdaregistry.info/Elements/w/object/P10304 (has audio producer agent)
+http://viaf.org/viaf/4616154075994111860006 (700) : Pedersen, Jørn 
+* http://rdaregistry.info/Elements/e/object/P20020 (has instrumentalist agent)
+http://viaf.org/viaf/34565761 (100, 700) : Renberg, Tore 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work)
+* http://rdaregistry.info/Elements/e/object/P20025 (has singer agent)
+* http://rdaregistry.info/Elements/w/object/P10002 (has identifier for work)
+http://viaf.org/viaf/89149294297980521531 (700) : Riska, Inge 
+* http://rdaregistry.info/Elements/w/object/P10304 (has audio producer agent)
+http://viaf.org/viaf/140149294366780522217 (100) : Stavanger enegri 
+* http://rdaregistry.info/Elements/e/object/P20435 (has instrumentalist collective agent)
+http://viaf.org/viaf/133302399 (700) : Törnqvist, Peter 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
+
+
+Verk til verk RDA relasjonstyper i 7XX $4-subfelt + label fra RDA registry
+-------------------------------------------------------
+Ser ut som dere mangler verk-til-verk relasjoner? 
+
+
+Analytter (dvs en publikasjon som har flere deler)
+I praksis er det 700-felter med ind2=2, $t og $1
+-------------------------------------------------------
+Ser ut som dere mangler slike poster? 
+
+
+Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke analytter)
+-------------------------------------------------------
+Ser ut som dere mangler slike relasjoner? 
+
+
+Opplisting som viser bruken av 336 $a, $b, $0, $2
+-------------------------------------------------------
+* 336  ##  $atext  $0http://rdaregistry.info/termList/RDAContentType/1020 $2rdacontent
+* 336  ##  $aperformed music  $0http://rdaregistry.info/termList/RDAContentType/1011 $2rdacontent
+* 336  ##  $aspoken word  $0http://rdaregistry.info/termList/RDAContentType/1013 $2rdacontent
+
+
+Opplisting som viser bruken av 337 $a, $b, $0, $2
+-------------------------------------------------------
+* 337  ##  $aunmediated  $0http://rdaregistry.info/termList/RDAMediaType/1007 $2rdamedia
+* 337  ##  $aaudio  $0http://rdaregistry.info/termList/RDAMediaType/1001 $2rdamedia
+
+
+Opplisting som viser bruken av 338 $a, $b, $0, $2
+-------------------------------------------------------
+* 338  ##  $avolume  $0http://rdaregistry.info/termList/RDACarrierType/1049 $2rdacarrier
+* 338  ##  $acompact disc  $0http://rdaregistry.info/termList/RDACarrierType/1013 $2rdacarrier
+* 338  ##  $aaudio disc  $0http://rdaregistry.info/termList/RDACarrierType/1004 $2rdacarrier
+
+
+Opplisting som viser bruken av 380 $a, $0, $2
+-------------------------------------------------------
+* 380  ##  $aJulemusikk $2emnmus
+
+
+Poster som mangler 336, 337, 338, 380
+-------------------------------------------------------
+001: 990118047344702202 mangler følgende felt:  380 
+001: 990222632764702202 mangler følgende felt:  380 
+001: 990601314974702202 mangler følgende felt:  380 
+001: 990603011124702202 mangler følgende felt:  380 
+001: 990605180224702202 mangler følgende felt:  380 
+001: 990607703174702202 mangler følgende felt:  380 
+001: 990824593124702202 mangler følgende felt:  380 

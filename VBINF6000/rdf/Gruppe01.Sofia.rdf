@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:map="http://www.w3.org/2005/xpath-functions/map"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:marc="http://www.loc.gov/MARC21/slim"
+         xmlns:rdac="http://rdaregistry.info/Elements/c/"
+         xmlns:rdaad="http://rdaregistry.info/Elements/a/datatype/"
+         xmlns:rdaao="http://rdaregistry.info/Elements/a/object/"
+         xmlns:rdawd="http://rdaregistry.info/Elements/w/datatype/"
+         xmlns:rdawo="http://rdaregistry.info/Elements/w/object/"
+         xmlns:rdaed="http://rdaregistry.info/Elements/e/datatype/"
+         xmlns:rdaeo="http://rdaregistry.info/Elements/e/object/"
+         xmlns:rdamd="http://rdaregistry.info/Elements/m/datatype/"
+         xmlns:rdamo="http://rdaregistry.info/Elements/m/object/"
+         xmlns:rdaxd="http://rdaregistry.info/Elements/x/datatype/"
+         xmlns:mads="http://www.loc.gov/mads/rdf/v1#"
+         xmlns:mmmm="http://www.loc.gov/MARC21/slim/"
+         xmlns:rdaco="http://rdaregistry.info/termList/RDAContentType/"
+         xmlns:rdact="http://rdaregistry.info/termList/RDACarrierType/"
+         xmlns:rdamt="http://rdaregistry.info/termList/RDAMediaType/"
+         xmlns:rdat="http://rdaregistry.info/termList/"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:ex="http://www.example.org/">
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/214006009">
+      <rdaxd:P00018>http://viaf.org/viaf/214006009</rdaxd:P00018>
+      <rdawd:P10088>En præsts dagbog</rdawd:P10088>
+      <rdfs:label>En præsts dagbog (Obstfelder, Sigbjørn)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/69039405"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/34565761/Jord/løv/på">
+      <rdaxd:P00018>http://viaf.org/viaf/34565761/Jord/løv/på</rdaxd:P00018>
+      <rdawd:P10088>Jord med løv på/Meg med løv på</rdawd:P10088>
+      <rdfs:label>Jord med løv på/Meg med løv på (Renberg, Tore)</rdfs:label>
+      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdawo:P10304 rdf:resource="http://viaf.org/viaf/51145970335632252661"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/34565761/Mannen/elsket/Yngve">
+      <rdaxd:P00018>http://viaf.org/viaf/34565761/Mannen/elsket/Yngve</rdaxd:P00018>
+      <rdawd:P10088>Mannen som elsket Yngve</rdawd:P10088>
+      <rdfs:label>Mannen som elsket Yngve (Renberg, Tore)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/34565761/Varmelager/fem">
+      <rdaxd:P00018>Varmelager fem</rdaxd:P00018>
+      <rdaxd:P00018>http://viaf.org/viaf/34565761/Varmelager/fem</rdaxd:P00018>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/5930152502773210800007">
+      <rdaxd:P00018>http://viaf.org/viaf/5930152502773210800007</rdaxd:P00018>
+      <rdawd:P10088>Mannen som elsket Yngve</rdawd:P10088>
+      <rdfs:label>Mannen som elsket Yngve (Renberg, Tore)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf/34564761/Famor/kabel-TV">
+      <rdaxd:P00018>http://viaf/34564761/Famor/kabel-TV</rdaxd:P00018>
+      <rdawd:P10088>Farmor har kabel-TV ; Videogutten</rdawd:P10088>
+      <rdfs:label>Farmor har kabel-TV ; Videogutten (Renberg, Tore)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf/34565761/Han/forelska/kona/di">
+      <rdaxd:P00018>http://viaf/34565761/Han/forelska/kona/di</rdaxd:P00018>
+      <rdawd:P10088>Han er forelska i kona di</rdawd:P10088>
+      <rdfs:label>Han er forelska i kona di (Renberg, Tore)</rdfs:label>
+      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdawo:P10304 rdf:resource="http://viaf.org/viaf/51145970335632252661"/>
+   </rdac:C10001>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/153149294274480521324">
+      <rdaxd:P00018>http://viaf.org/viaf/153149294274480521324</rdaxd:P00018>
+      <rdaad:P50385>Fjermestad, Kristian</rdaad:P50385>
+      <rdfs:label>Fjermestad, Kristian</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/211149294446580522849">
+      <rdaxd:P00018>http://viaf.org/viaf/211149294446580522849</rdaxd:P00018>
+      <rdaad:P50385>Jacobsen, Børre</rdaad:P50385>
+      <rdfs:label>Jacobsen, Børre</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/308149106189568491429">
+      <rdaxd:P00018>http://viaf.org/viaf/308149106189568491429</rdaxd:P00018>
+      <rdaad:P50385>Jørgensen, Jørgen</rdaad:P50385>
+      <rdfs:label>Jørgensen, Jørgen</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/34565761">
+      <rdaxd:P00018>http://viaf.org/viaf/34565761</rdaxd:P00018>
+      <rdaad:P50385>Renberg, Tore</rdaad:P50385>
+      <rdfs:label>Renberg, Tore</rdfs:label>
+      <rdaad:P50339>1972-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/410149294085080520515">
+      <rdaxd:P00018>http://viaf.org/viaf/410149294085080520515</rdaxd:P00018>
+      <rdaad:P50385>Jacobsen, Tore</rdaad:P50385>
+      <rdfs:label>Jacobsen, Tore</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/51145970335632252661">
+      <rdaxd:P00018>http://viaf.org/viaf/51145970335632252661</rdaxd:P00018>
+      <rdaad:P50385>Lye, Eirik</rdaad:P50385>
+      <rdfs:label>Lye, Eirik</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/69039405">
+      <rdaxd:P00018>http://viaf.org/viaf/69039405</rdaxd:P00018>
+      <rdaad:P50385>Obstfelder, Sigbjørn</rdaad:P50385>
+      <rdfs:label>Obstfelder, Sigbjørn</rdfs:label>
+      <rdaad:P50339>1866-1900</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/214006009/exp/nob/1020/34565761">
+      <rdaed:P20316>En præsts dagbog</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>En prests dagbog</rdaed:P20312>
+      <rdfs:label>En prests dagbog / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/214006009"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/34565761/Jord/løv/på/exp/nob/1011">
+      <rdaed:P20316>Jord med løv på/Meg med løv på</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Jord med løv på</rdaed:P20312>
+      <rdfs:label>Jord med løv på / performed music</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/153149294274480521324"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/211149294446580522849"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/410149294085080520515"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/308149106189568491429"/>
+      <rdaeo:P20025 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/34565761/Jord/løv/på"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/34565761/Mannen/elsket/Yngve/exp/nob/1013">
+      <rdaed:P20316>Mannen som elsket Yngve</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Mannen som elsket Yngve</rdaed:P20312>
+      <rdfs:label>Mannen som elsket Yngve / spoken word</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/34565761/Mannen/elsket/Yngve"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/34565761/Varmelager/fem/exp/nob/1020">
+      <rdaed:P20312>Varmelager fem</rdaed:P20312>
+      <rdfs:label>Varmelager fem / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/34565761/Varmelager/fem"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/5930152502773210800007/exp/nob/1020">
+      <rdaed:P20316>Mannen som elsket Yngve</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Mannen som elsket Yngve : roman</rdaed:P20312>
+      <rdfs:label>Mannen som elsket Yngve / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/5930152502773210800007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf/34564761/Famor/kabel-TV/exp/nob/1020">
+      <rdaed:P20316>Farmor har kabel-TV ; Videogutten</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Farmor har kabel-TV ; Videogutten : romaner</rdaed:P20312>
+      <rdfs:label>Farmor har kabel-TV ; Videogutten / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf/34564761/Famor/kabel-TV"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf/34565761/Han/forelska/kona/di/exp/nob/1011">
+      <rdaed:P20316>Han er forelska i kona di</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Han er forelska i kona di</rdaed:P20312>
+      <rdfs:label>Han er forelska i kona di / performed music</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/153149294274480521324"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/211149294446580522849"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/410149294085080520515"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/308149106189568491429"/>
+      <rdaeo:P20025 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdaeo:P20231 rdf:resource="http://viaf/34565761/Han/forelska/kona/di"/>
+   </rdac:C10006>
+   <rdac:C10007 rdf:about="http://example.org/990612818914702202">
+      <rdamd:P30156>Jord med løv på</rdamd:P30156>
+      <rdamd:P30011>2006</rdamd:P30011>
+      <rdamd:P30111>, 2006.</rdamd:P30111>
+      <rdamd:P30182>(6 min).</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1013</rdamd:P30001>
+      <rdamd:P30050>Det amerikanske valget, Stavanger : Kippers, 2006, 1.</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1013"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/34565761/Jord/løv/på/exp/nob/1011"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/990612820064702202">
+      <rdamd:P30156>Han er forelska i kona di</rdamd:P30156>
+      <rdamd:P30011>2006</rdamd:P30011>
+      <rdamd:P30111>, 2006.</rdamd:P30111>
+      <rdamd:P30182>(3 min, 20 s).</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1013</rdamd:P30001>
+      <rdamd:P30050>Det amerikanske valget, Stavanger : Kippers, 2006, 2.</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1013"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf/34565761/Han/forelska/kona/di/exp/nob/1011"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8205277729">
+      <rdamd:P30004>ISBN 8205277729</rdamd:P30004>
+      <rdaxd:P00018>isbn-8205277729</rdaxd:P00018>
+      <rdfs:label>ISBN8205277729</rdfs:label>
+      <rdamd:P30156>En prests dagbog</rdamd:P30156>
+      <rdamd:P30117>Sigbjørn Obstfelder ; med etterord av Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Gyldendal, 2001.</rdamd:P30111>
+      <rdamd:P30083>Gyldendal</rdamd:P30083>
+      <rdamd:P30011>2001</rdamd:P30011>
+      <rdamd:P30182>117 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>Gyldendal klassiker</rdamd:P30106>
+      <rdamd:P30137>1. utg. København : Gyldendalske Boghandel, 1900 med tittel: En Præsts Dagbog</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/214006009/exp/nob/1020/34565761"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8210046446">
+      <rdamd:P30004>ISBN 8210046446</rdamd:P30004>
+      <rdaxd:P00018>isbn-8210046446</rdaxd:P00018>
+      <rdfs:label>ISBN8210046446</rdfs:label>
+      <rdamd:P30156>Varmelager fem</rdamd:P30156>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Tiden, cop. 2001.</rdamd:P30111>
+      <rdamd:P30083>Tiden</rdamd:P30083>
+      <rdamd:P30011>cop. 2001</rdamd:P30011>
+      <rdamd:P30182>[142] s. : ill., 29 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/34565761/Varmelager/fem/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8249504240">
+      <rdamd:P30004>ISBN 8249504240</rdamd:P30004>
+      <rdaxd:P00018>isbn-8249504240</rdaxd:P00018>
+      <rdfs:label>ISBN8249504240</rdfs:label>
+      <rdamd:P30004>ISBN 9788249504244</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788249504244</rdaxd:P00018>
+      <rdfs:label>ISBN9788249504244</rdfs:label>
+      <rdamd:P30156>Mannen som elsket Yngve</rdamd:P30156>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>[Melhus]</rdamd:P30088>
+      <rdamd:P30111>[Melhus] : Lydbokforl., 2008.</rdamd:P30111>
+      <rdamd:P30083>Lydbokforl</rdamd:P30083>
+      <rdamd:P30011>2008</rdamd:P30011>
+      <rdamd:P30182>10 plater (CD) (12 t, 17 min) : digital, 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1004</rdamd:P30001>
+      <rdamd:P30137>Lest av Rolf Kristian Larsen</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/34565761/Mannen/elsket/Yngve/exp/nob/1013"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788242121882">
+      <rdamd:P30004>ISBN 9788242121882</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788242121882</rdaxd:P00018>
+      <rdfs:label>ISBN9788242121882</rdfs:label>
+      <rdamd:P30156>Mannen som elsket Yngve</rdamd:P30156>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>[Melhus]</rdamd:P30088>
+      <rdamd:P30111>[Melhus] : Lydbokforl., 2008.</rdamd:P30111>
+      <rdamd:P30083>Lydbokforl</rdamd:P30083>
+      <rdamd:P30011>2008</rdamd:P30011>
+      <rdamd:P30182>10 plater (CD) (12 t, 17 min) : digital, 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1004</rdamd:P30001>
+      <rdamd:P30137>Lest av Rolf Kristian Larsen</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788249504695">
+      <rdamd:P30004>ISBN 9788249504695</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788249504695</rdaxd:P00018>
+      <rdfs:label>ISBN9788249504695</rdfs:label>
+      <rdamd:P30156>Farmor har kabel-TV ; Videogutten</rdamd:P30156>
+      <rdamd:P30142>romaner</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Oktober, 2007.</rdamd:P30111>
+      <rdamd:P30083>Oktober</rdamd:P30083>
+      <rdamd:P30011>2007</rdamd:P30011>
+      <rdamd:P30182>219 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>Oktober pocket</rdamd:P30106>
+      <rdamd:P30137>1. utg. 2006</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf/34564761/Famor/kabel-TV/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788249505555">
+      <rdamd:P30004>ISBN 9788249505555</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788249505555</rdaxd:P00018>
+      <rdfs:label>ISBN9788249505555</rdfs:label>
+      <rdamd:P30156>Mannen som elsket Yngve</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Oktober, 2008.</rdamd:P30111>
+      <rdamd:P30083>Oktober</rdamd:P30083>
+      <rdamd:P30011>2008</rdamd:P30011>
+      <rdamd:P30182>381 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>1. utg. 2003</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/5930152502773210800007/exp/nob/1020"/>
+   </rdac:C10007>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/nob">
+      <rdfs:label>nob</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1004">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1004</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1013">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1013</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1049">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1049</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1011">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1011</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1013">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1013</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1020">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1020</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1001">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1001</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1007">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1007</skos:subjectIndicator>
+   </skos:Concept>
+</rdf:RDF>

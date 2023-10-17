@@ -2,6 +2,1304 @@
 <collection xmlns="http://www.loc.gov/MARC21/slim"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <!-- Murder on the orient expressm Novel -->
+    <record>
+        <leader>00859nam a22002778i 4500</leader>
+        <controlfield tag="001">019476843</controlfield>
+        <controlfield tag="003">Uk</controlfield>
+        <controlfield tag="005">20190723170000.0</controlfield>
+        <controlfield tag="008">190716s2019    enk           000|f|eng d</controlfield>
+        <datafield tag="016" ind1="7" ind2=" ">
+            <subfield code="a">019476843</subfield>
+            <subfield code="2">Uk</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780008255459 (pbk.) :</subfield>
+            <subfield code="c">£10.99</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823.912</subfield>
+            <subfield code="2">23</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="1">https://isni.org/isni/0000000121022127</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="2">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="1">http://viaf.org/viaf/316741387</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Murder on the Orient Express /</subfield>
+            <subfield code="c">Agatha Christie.</subfield>
+        </datafield>
+        <datafield tag="263" ind1=" " ind2=" ">
+            <subfield code="a">201907</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">HarperCollinsPublishers,</subfield>
+            <subfield code="c">2019.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 volume ;</subfield>
+            <subfield code="c">18 cm.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Poirot</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Poirot, Hercule</subfield>
+            <subfield code="c">(Fictitious character)</subfield>
+            <subfield code="v">Fiction.</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>02297aam a22005771i 4500</leader>
+        <controlfield tag="001">019014638</controlfield>
+        <controlfield tag="003">Uk</controlfield>
+        <controlfield tag="005">20180810091223.0</controlfield>
+        <controlfield tag="006">m    ||  d |      </controlfield>
+        <controlfield tag="007">cr |||||||||||</controlfield>
+        <controlfield tag="008">180807s2010    xxk||||go    |||| ||eng  </controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0007422571</subfield>
+            <subfield code="q">EPUB</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780007422579</subfield>
+            <subfield code="q">EPUB</subfield>
+        </datafield>
+        <datafield tag="037" ind1=" " ind2=" ">
+            <subfield code="a">uk.co.harpercollins.063373</subfield>
+            <subfield code="b">Ingram Content Group</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823.912</subfield>
+            <subfield code="2">22</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="1">https://isni.org/isni/0000000121022127</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="2">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="1">http://viaf.org/viaf/316741387</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Murder on the Orient Express /</subfield>
+            <subfield code="c">Agatha Christie.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">HarperCollins,</subfield>
+            <subfield code="c">2010.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 online resource (288 pages).</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Poirot, Hercule</subfield>
+            <subfield code="c">(Fictitious character)</subfield>
+            <subfield code="v">Fiction.</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="7">
+            <subfield code="a">Poirot, Hercule</subfield>
+            <subfield code="c">(Fictitious character)</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01068127</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01003pam a2200313 i 4500</leader>
+        <controlfield tag="001">016448168</controlfield>
+        <controlfield tag="003">Uk</controlfield>
+        <controlfield tag="005">20160115103755.0</controlfield>
+        <controlfield tag="008">130513r20131934enk           000 1 eng|d</controlfield>
+        <datafield tag="016" ind1="7" ind2=" ">
+            <subfield code="a">016448168</subfield>
+            <subfield code="2">Uk</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780007527502 (pbk.) :</subfield>
+            <subfield code="c">£7.99</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823.912</subfield>
+            <subfield code="2">23</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="1">https://isni.org/isni/0000000121022127</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="2">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="1">http://viaf.org/viaf/316741387</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Murder on the Orient Express /</subfield>
+            <subfield code="c">Agatha Christie.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Harper,</subfield>
+            <subfield code="c">2013.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">274 pages ;</subfield>
+            <subfield code="c">20 cm.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Poirot</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Formerly CIP.</subfield>
+            <subfield code="5">Uk</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Originally published: London: Collins, 1934.</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Poirot, Hercule</subfield>
+            <subfield code="c">(Fictitious character)</subfield>
+            <subfield code="v">Fiction.</subfield>
+        </datafield>
+    </record>
+    <!-- Adaptation of murder on the orient express -->
+    <record>
+        <leader>01265pam a2200361 a 4500</leader>
+        <controlfield tag="001">013650155</controlfield>
+        <controlfield tag="003">Uk</controlfield>
+        <controlfield tag="005">20160115094845.0</controlfield>
+        <controlfield tag="008">070118s2007    enka          000 1 eng d</controlfield>
+        <datafield tag="016" ind1="7" ind2=" ">
+            <subfield code="a">013650155</subfield>
+            <subfield code="2">Uk</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0007246587 :</subfield>
+            <subfield code="c">£9.99</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780007246588</subfield>
+            <subfield code="c">£9.99</subfield>
+        </datafield>
+        <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="a">eng</subfield>
+            <subfield code="h">fre</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">741.5</subfield>
+            <subfield code="2">22</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Rivière, François,</subfield>
+            <subfield code="d">1949-</subfield>
+            <subfield code="1">http://viaf.org/viaf/34462302</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10058</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Crime de l'Orient-Express</subfield>
+            <subfield code="k">Graphic Novel</subfield>
+            <subfield code="l">English</subfield>
+            <subfield code="1">http://viaf.org/viaf/34462302/orient</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Murder on the Orient Express /</subfield>
+            <subfield code="c">adapted by François Rivière ; illustrated by Solidor.</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">Comic bk. ed.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">HarperCollins,</subfield>
+            <subfield code="c">2007.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">44 p. :</subfield>
+            <subfield code="b">chiefly col. ill. ;</subfield>
+            <subfield code="c">30 cm.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">still image</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1014</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Formerly CIP.</subfield>
+            <subfield code="5">Uk</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Translated from the French.</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Poirot, Hercule</subfield>
+            <subfield code="c">(Fictitious character)</subfield>
+            <subfield code="v">Comic books, strips, etc.</subfield>
+            <subfield code="v">Fiction.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="0" ind2=" ">
+            <subfield code="a">Solidor,</subfield>
+            <subfield code="d">1963-</subfield>
+            <subfield code="1">https://isni.org/isni/0000000368604401</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10058</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/m/object/P30321</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">Murder on the Orient Express.</subfield>
+            <subfield code="1">http://viaf.org/viaf/316741387</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10252</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01265pam a2200361 a 4500</leader>
+        <controlfield tag="001">xxxxxxxxx1111</controlfield>
+        <controlfield tag="008">070118s2007    enka          000 1 eng d</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">978-0063160354</subfield>
+        </datafield>
+        <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="a">eng</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">978-0063160354</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Al-Greene, Bob</subfield>
+            <subfield code="1">http://viaf.org/viaf/algreen</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10058</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10437</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Murder on the Orient Express: The Graphic Novel</subfield>
+            <subfield code="k">Graphic Novel</subfield>
+            <subfield code="l">English</subfield>
+            <subfield code="1">http://viaf.org/viaf/algreen/orient</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="b">The Graphic Novel</subfield>
+            <subfield code="c">adapted and illustrated by Bob Al-Greene</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">First edition</subfield>
+        </datafield>
+        <datafield tag="264" ind1="1" ind2="1">
+            <subfield code="a">[New York]</subfield>
+            <subfield code="b">William Morrow Paperbacks</subfield>
+            <subfield code="c">2023</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">288 pages</subfield>
+            <subfield code="b">chiefly col. ill. ;</subfield>
+            <subfield code="c">6 x 0.65 x 9 inches</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">still image</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1014</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">Murder on the Orient Express.</subfield>
+            <subfield code="1">http://viaf.org/viaf/316741387</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10252</subfield>
+        </datafield>
+    </record>
+    <!-- Murder on the orient express music score -->
+    <record>
+        <leader>01291ncm a22003853u 4500</leader>
+        <controlfield tag="001">019181043</controlfield>
+        <controlfield tag="003">Uk</controlfield>
+        <controlfield tag="005">20230223165507.0</controlfield>
+        <controlfield tag="006">m    ||  z |      </controlfield>
+        <controlfield tag="007">cr |||||||||||</controlfield>
+        <controlfield tag="008">181214t20181974enk|||| o||||||n  |      </controlfield>
+        <datafield tag="028" ind1="3" ind2="2">
+            <subfield code="a">26384</subfield>
+            <subfield code="b">Faber Music</subfield>
+            <subfield code="q">(Song ID)</subfield>
+        </datafield>
+        <datafield tag="028" ind1="3" ind2="2">
+            <subfield code="a">29150</subfield>
+            <subfield code="b">Faber Music</subfield>
+            <subfield code="q">(Engraving ID)</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">Uk</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">Uk</subfield>
+        </datafield>
+        <datafield tag="082" ind1="1" ind2="4">
+            <subfield code="a">780</subfield>
+            <subfield code="2">15</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Bennett, Richard Rodney.</subfield>
+            <subfield code="1">http://viaf.org/viaf/61731028</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10053</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="k">Music</subfield>
+            <subfield code="1">http://viaf.org/viaf/9356154076013911860000</subfield>
+        </datafield>
+        <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Murder On The Orient Express (Theme) /</subfield>
+            <subfield code="c">[Rodney Bennett, Richard].</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">Piano Solo.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">[London] :</subfield>
+            <subfield code="b">[Faber Music],</subfield>
+            <subfield code="c">[2018?]</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">©1974</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 online resource (1 score (2 pages))</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">Music</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1010</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">computer</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1003</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">online resource</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1018</subfield>
+        </datafield>
+        <datafield tag="382" ind1="0" ind2="1">
+            <subfield code="a">Guitar</subfield>
+            <subfield code="a">Piano</subfield>
+        </datafield>
+        <datafield tag="384" ind1=" " ind2=" ">
+            <subfield code="a">F</subfield>
+        </datafield>
+        <datafield tag="588" ind1=" " ind2=" ">
+            <subfield code="a">Description based on publisher metadata.</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Instrumental music.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01726652</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Motion picture music.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01726674</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="758">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="k">Movie</subfield>
+            <subfield code="1">https://www.imdb.com/title/tt3402236</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10238</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00566ncm a22001937  4500</leader>
+        <controlfield tag="001">004210640</controlfield>
+        <controlfield tag="005">20190504191200.0</controlfield>
+        <controlfield tag="008">930308s1974    enk||| ||||||||||       |</controlfield>
+        <datafield tag="019" ind1="d" ind2=" ">
+            <subfield code="a">ag03270060</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">Uk</subfield>
+            <subfield code="c">Uk</subfield>
+        </datafield>
+        <datafield tag="082" ind1="1" ind2="4">
+            <subfield code="a">780</subfield>
+            <subfield code="2">15</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Bennett, Richard Rodney.</subfield>
+            <subfield code="1">http://viaf.org/viaf/61731028</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10053</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="k">Music</subfield>
+            <subfield code="1">http://viaf.org/viaf/9356154076013911860000</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Murder on the Orient Express. Theme. &lt;Piano solo.&gt;.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">EMI Film &amp; Theatre Music,</subfield>
+            <subfield code="c">[1974]</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">3p. ;</subfield>
+            <subfield code="c">4.̊</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">notated music</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1010</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="758">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="k">Movie</subfield>
+            <subfield code="1">https://www.imdb.com/title/tt3402236</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10238</subfield>
+        </datafield>
+    </record>
+    <!-- Innspilling -->
+    <record xmlns="http://www.loc.gov/MARC21/slim">
+        <leader>00000njm a22     7c 4500</leader>
+        <controlfield tag="001">999921937688802201</controlfield>
+        <controlfield tag="007">cr||||||||||||</controlfield>
+        <controlfield tag="007">sr||||||||||||</controlfield>
+        <controlfield tag="008">221216t20102010no |||||o########|#|und|#</controlfield>
+        <datafield ind1="3" ind2=" " tag="024">
+            <subfield code="a">7041881220425</subfield>
+        </datafield>
+        <datafield ind1="0" ind2="3" tag="028">
+            <subfield code="a">CSSE 04</subfield>
+            <subfield code="b">CSSE Records</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="b">nob</subfield>
+            <subfield code="d">NO-OsNB</subfield>
+            <subfield code="e">rda</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Per Einar Watle Trio</subfield>
+            <subfield code="1">https://isni.org/isni/0000000365729866/trio</subfield>
+            <subfield code="4">art</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10058</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20039</subfield>
+            <subfield code="8">p</subfield>
+        </datafield>
+        <datafield ind1="0" ind2="0" tag="240">
+            <subfield code="a">Corrientes</subfield>
+            <subfield code="k">Collection</subfield>
+            <subfield code="1">https://isni.org/isni/0000000365729866/trio/corrientes</subfield>
+            <subfield code="8">p</subfield>
+        </datafield>
+        <datafield ind1="0" ind2="0" tag="245">
+            <subfield code="a">Corrientes</subfield>
+            <subfield code="c">Per Einar Watle Trio</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="1" tag="264">
+            <subfield code="a">[Norge]</subfield>
+            <subfield code="b">CSSE Records</subfield>
+            <subfield code="c">2010-01-25</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="2" tag="264">
+            <subfield code="a">[Oslo]</subfield>
+            <subfield code="b">Phonofile</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="4" tag="264">
+            <subfield code="c">℗ 2010</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">1 online (nettilkoblet) ressurs</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="336">
+            <subfield code="a">framført musikk</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1011</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="337">
+            <subfield code="a">datamaskin</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1003</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="338">
+            <subfield code="a">online (nettilkoblet) ressurs</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1018</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="500">
+            <subfield code="a">CSSE Records: CSSE04</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="505">
+            <subfield code="a">Swing for Simon -- Corrientes -- Lingo -- El Patio de Montserrat -- Bei Dir War Es Immer So Schön -- Here's That Rainy Day -- Yours is My Heart Alone -- Reine De Musette -- Melodie Concorde -- Murder On the Orient Express -- Dans monîle -- Choti</subfield>
+        </datafield>
+        <datafield ind1="0" ind2=" " tag="511">
+            <subfield code="a">Per Einar Watle Trio</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="588">
+            <subfield code="a">Importert fra Phonofile</subfield>
+        </datafield>
+        <datafield ind1="2" ind2=" " tag="710">
+            <subfield code="a">Per Einar Watle Trio</subfield>
+            <subfield code="4">https://id.nb.no/vocabulary/perfrel/1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bennett, Richard Rodney.</subfield>
+            <subfield code="t">Murder on the Orient Express</subfield>
+            <subfield code="k">Music</subfield>
+            <subfield code="1">http://viaf.org/viaf/9356154076013911860000</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Aasen, Ketil</subfield>
+            <subfield code="d">1974-</subfield>
+            <subfield code="e">utøver</subfield>
+            <subfield code="e">kontrabass</subfield>
+            <subfield code="1">https://isni.org/isni/0000000361211867</subfield>
+            <subfield code="4">prf</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20039</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Larssen, Christian</subfield>
+            <subfield code="d">1975-</subfield>
+            <subfield code="e">utøver</subfield>
+            <subfield code="e">gitar</subfield>
+            <subfield code="1">https://isni.org/isni/0000000361531262</subfield>
+            <subfield code="4">prf</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20039</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Watle, Per Einar</subfield>
+            <subfield code="d">1971-</subfield>
+            <subfield code="e">utøver</subfield>
+            <subfield code="e">gitar</subfield>
+            <subfield code="1">https://isni.org/isni/0000000365729866</subfield>
+            <subfield code="4">prf</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20039</subfield>
+        </datafield>
+    </record>
+    <!--<record>
+        <leader>01206cja a2200397 c 4500</leader>
+        <controlfield tag="001">991007459034702202</controlfield>
+        <controlfield tag="005">20190130103348.0</controlfield>
+        <controlfield tag="007">sd f||||||||||</controlfield>
+        <controlfield tag="008">120206s2010    xx#|||| ||||||||||||   |d</controlfield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(EXLNZ-47BIBSYS_NETWORK)991007459034702201</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NO-TrBIB)100745903</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-TrBIB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">R51</subfield>
+            <subfield code="2">noterlyd</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="k">Music</subfield>
+            <subfield code="1">http://viaf.org/viaf/9356154076013911860000</subfield>
+        </datafield>
+        <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="c">Richard R. Bennett, Per Einar Watle Trio</subfield>
+            <subfield code="h">[lydopptak]</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="c">c2010</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">3 min, 51 s</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">performed music</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1011</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">audio</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1001</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">compact disc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1013</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Jazz</subfield>
+            <subfield code="2">emnmus</subfield>
+        </datafield>
+
+        <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">Per Einar Watle Trio</subfield>
+            <subfield code="e">utøver</subfield>
+        </datafield>
+        <datafield tag="773" ind1="0" ind2=" ">
+            <subfield code="a">Per Einar Watle Trio</subfield>
+            <subfield code="t">Corrientes</subfield>
+            <subfield code="d">[Oslo] : CSSE Records, c2010</subfield>
+            <subfield code="g">10</subfield>
+            <subfield code="w">991006639664702201</subfield>
+        </datafield>
+    </record>-->
+    
+    
+    <!-- Murder on the orient express movies -->
+    <record>
+        <leader>01140ngm a2200253 u 4500</leader>
+        <controlfield tag="001">999920609674902201</controlfield>
+        <controlfield tag="005">20210624093933.0</controlfield>
+        <controlfield tag="007">vd#cva|||</controlfield>
+        <controlfield tag="008">180815s20172018no 109 c          vleng|c</controlfield>
+        <datafield ind1="0" ind2=" " tag="041">
+            <subfield code="a">eng</subfield>
+            <subfield code="j">swe</subfield>
+            <subfield code="j">dan</subfield>
+            <subfield code="j">nob</subfield>
+            <subfield code="j">fin</subfield>
+            <subfield code="j">eng</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="130">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="k">Movie</subfield>
+            <subfield code="1">https://www.imdb.com/title/tt3402236</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="h">[videoopptak]</subfield>
+            <subfield code="c">regi Kenneth Branagh</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="246">
+            <subfield code="a">Mord på orientekspressen</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="260">
+            <subfield code="a">Oslo</subfield>
+            <subfield code="b">Thwentieth Century Fox Home Entertainment</subfield>
+            <subfield code="c">2017</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">1 plate (DVD) (1 t 49 min)</subfield>
+            <subfield code="b">lyd, kol.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">todimensjonalt levende bilde</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1023</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">video</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1008</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">videodisk</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1060</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="500">
+            <subfield code="a">Ekstramateriale</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="500">
+            <subfield code="a">Medietilsynet : 185296</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="511">
+            <subfield code="a">Rollebesetning ; Tom Bateman, Kenneth Branagh, Penelope Cruz, Willem Dafoe, Judi Dench, Johnny Depp, Josh Gad, Leslie Odom Jr., Michelle Pfeiffer og Daisy Ridley</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="546">
+            <subfield code="a">Engelsk tale med valgfrie undertekster</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Branagh, Kenneth</subfield>
+            <subfield code="d">1960-</subfield>
+            <subfield code="0">(NO-TrBIB)90527882</subfield>
+            <subfield code="4">drt</subfield>
+            <subfield code="4">act</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10013</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20012</subfield>
+            <subfield code="1">https://isni.org/isni/0000000114794233</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Bateman, Tom</subfield>
+            <subfield code="d">1989-</subfield>
+            <subfield code="0">(NO-TrBIB)1533887353300</subfield>
+            <subfield code="4">act</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20012</subfield>
+            <subfield code="1">https://www.imdb.com/name/nm5290643</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Cruz, Penélope</subfield>
+            <subfield code="d">1974-</subfield>
+            <subfield code="0">(NO-TrBIB)1081340</subfield>
+            <subfield code="4">act</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20012</subfield>
+            <subfield code="1">https://www.imdb.com/name/nm0004851</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Dafoe, Willem</subfield>
+            <subfield code="d">1955-</subfield>
+            <subfield code="0">(NO-TrBIB)97042498</subfield>
+            <subfield code="4">act</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20012</subfield>
+            <subfield code="1">https://www.imdb.com/name/nm0000353</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Dench, Judi</subfield>
+            <subfield code="d">1934-</subfield>
+            <subfield code="0">(NO-TrBIB)97017914</subfield>
+            <subfield code="4">act</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20012</subfield>
+            <subfield code="1">https://www.imdb.com/name/nm0001132</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Depp, Johnny</subfield>
+            <subfield code="d">1963-</subfield>
+            <subfield code="0">(NO-TrBIB)90889880</subfield>
+            <subfield code="4">act</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20012</subfield>
+            <subfield code="1">https://www.imdb.com/name/nm0000136</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">Murder on the Orient Express</subfield>
+            <subfield code="1">http://viaf.org/viaf/316741387</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10129</subfield>
+        </datafield>
+        <datafield ind1="0" ind2="1" tag="852">
+            <subfield code="a">47BIBSYS_HH</subfield>
+            <subfield code="6">999919870634102214</subfield>
+            <subfield code="9">P</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01345ngm a2200325 c 4500</leader>
+        <controlfield tag="001">999920048196702202</controlfield>
+        <controlfield tag="005">20200214102431.0</controlfield>
+        <controlfield tag="007">vd#cva|||</controlfield>
+        <controlfield tag="008">200213s2008    no ||| |     |    v|eng|c</controlfield>
+        <datafield tag="024" ind1="3" ind2=" ">
+            <subfield code="a">5050582555363</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(EXLNZ-47BIBSYS_NETWORK)999921020274902201</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-TrBIB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">rda</subfield>
+        </datafield>
+        <datafield tag="041" ind1="0" ind2=" ">
+            <subfield code="j">swe</subfield>
+            <subfield code="j">nob</subfield>
+            <subfield code="j">dan</subfield>
+            <subfield code="j">fin</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="130">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="k">Movie</subfield>
+            <subfield code="1">https://www.imdb.com/title/tt0071877</subfield>
+        </datafield>
+        <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Murder on the orient express</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="2">
+            <subfield code="b">Universal Pictures Nordic</subfield>
+            <subfield code="c">[2008]</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 plate (DVD) (122 minutter)</subfield>
+        </datafield>
+        <!--<datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">lyder</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1012</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>-->
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">todimensjonalt levende bilde</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1023</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">video</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1008</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">videodisk</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1060</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Aldersgrense: 15 år</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Medietilsynet: 123213</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Produksjonsår: 1974</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Regissør: Sidney Lumet</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Rolleliste: Albert Finney, Lauren Bacall, Martin Balsam med flere</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Undertekster på blant annet norsk</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Bacall, Lauren</subfield>
+            <subfield code="d">1924-2014</subfield>
+            <subfield code="0">(NO-TrBIB)90850443</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20012</subfield>
+            <subfield code="1">https://www.imdb.com/name/nm0000002</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Balsam, Martin</subfield>
+            <subfield code="d">1919-1996</subfield>
+            <subfield code="0">(NO-TrBIB)99016656</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20012</subfield>
+            <subfield code="1">https://www.imdb.com/name/nm0000842</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Finney, Albert</subfield>
+            <subfield code="d">1936-</subfield>
+            <subfield code="0">(NO-TrBIB)90921889</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20012</subfield>
+            <subfield code="1">https://www.imdb.com/name/nm0001215</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lumet, Sidney</subfield>
+            <subfield code="d">1924-2011</subfield>
+            <subfield code="0">(NO-TrBIB)90824079</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10013</subfield>
+            <subfield code="1">https://www.imdb.com/name/nm0001486</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">Murder on the Orient Express</subfield>
+            <subfield code="1">http://viaf.org/viaf/316741387</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10129</subfield>
+        </datafield>
+    </record>
+    <record xmlns="http://www.loc.gov/MARC21/slim">
+        <leader>01793ngm a22003615c 4500</leader>
+        <controlfield tag="001">999921241891502201</controlfield>
+        <controlfield tag="005">20201104114828.0</controlfield>
+        <controlfield tag="007">vd#csa|||</controlfield>
+        <controlfield tag="008">201104s    1974xx     |     |    v|eng|c</controlfield>
+        <datafield ind1="0" ind2=" " tag="041">
+            <subfield code="j">nob</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="130">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="k">Movie</subfield>
+            <subfield code="1">https://www.imdb.com/title/tt0071877</subfield>
+        </datafield>
+        <datafield ind1="0" ind2="0" tag="245">
+            <subfield code="a">Murder on the Orient Express</subfield>
+            <subfield code="h">[videoopptak]</subfield>
+            <subfield code="c">directed by Sidney Lumet</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="260">
+            <subfield code="b">Universal Sony Pictures Home Entertainment Nordic</subfield>
+            <subfield code="c">2013</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">1 plate (Blu-ray) (2 t 9 min)</subfield>
+            <subfield code="b">lyd, kol.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">todimensjonalt levende bilde</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1023</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">video</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1008</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">videodisk</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1060</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="500">
+            <subfield code="a">Produksjon: Storbritannia / USA, 1974</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="500">
+            <subfield code="a">Basert på en roman av Agatha Christie</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="500">
+            <subfield code="a">Kodet for region A, B &amp; C</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="500">
+            <subfield code="a">Medietilsynet: 123213</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="511">
+            <subfield code="a">Albert Finney, Lauren Bacall, Martin Balsam, Ingrid Bergman, Jacqueline Bisset, Jean-Pierre Cassel, Sean Connery, John Gielgud, Wendy Hiller, Anthony Perkins, Vanessa Redgrave, Rachel Roberts, Richard Widmark, Michael York</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="546">
+            <subfield code="a">Tale: engelsk, tekst: norsk, svensk, dansk, finsk, engelsk, fransk, m.fl.</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="0" tag="653">
+            <subfield code="a">britisk</subfield>
+            <subfield code="a">amerikansk</subfield>
+            <subfield code="a">engelsk</subfield>
+            <subfield code="a">spillefilm</subfield>
+            <subfield code="a">krim</subfield>
+            <subfield code="a">kriminal</subfield>
+            <subfield code="a">Poirot</subfield>
+            <subfield code="a">mysterium</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Lumet, Sidney</subfield>
+            <subfield code="d">1924-2011</subfield>
+            <subfield code="0">(NO-TrBIB)90824079</subfield>
+            <subfield code="4">drt</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10013</subfield>
+            <subfield code="1">https://www.imdb.com/name/nm0001486</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Finney, Albert</subfield>
+            <subfield code="d">1936-</subfield>
+            <subfield code="0">(NO-TrBIB)90921889</subfield>
+            <subfield code="4">act</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20012</subfield>
+            <subfield code="1">https://www.imdb.com/name/nm0001215</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Bacall, Lauren</subfield>
+            <subfield code="d">1924-2014</subfield>
+            <subfield code="0">(NO-TrBIB)90850443</subfield>
+            <subfield code="4">act</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20012</subfield>
+            <subfield code="1">https://www.imdb.com/name/nm0000002</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Balsam, Martin</subfield>
+            <subfield code="d">1919-1996</subfield>
+            <subfield code="0">(NO-TrBIB)99016656</subfield>
+            <subfield code="4">act</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20012</subfield>
+            <subfield code="1">https://www.imdb.com/name/nm0000842</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Bergman, Ingrid</subfield>
+            <subfield code="d">1915-1982</subfield>
+            <subfield code="0">(NO-TrBIB)90063742</subfield>
+            <subfield code="4">act</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20012</subfield>
+            <subfield code="1">https://www.imdb.com/name/nm0000006</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Bisset, Jacqueline</subfield>
+            <subfield code="0">(NO-TrBIB)99001147</subfield>
+            <subfield code="4">act</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20012</subfield>
+            <subfield code="1">https://www.imdb.com/name/nm0000302</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Cassel, Jean Pierre</subfield>
+            <subfield code="0">(NO-TrBIB)8009853</subfield>
+            <subfield code="4">act</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20012</subfield>
+            <subfield code="1">https://www.imdb.com/name/nm0144045</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Connery, Sean</subfield>
+            <subfield code="d">1930-2020</subfield>
+            <subfield code="0">(NO-TrBIB)90265086</subfield>
+            <subfield code="4">act</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20012</subfield>
+            <subfield code="1">https://www.imdb.com/name/nm0000125</subfield>
+        </datafield>
+        <datafield ind1="0" ind2=" " tag="740">
+            <subfield code="a">Agatha Christie's Murder on the Orient Express</subfield>
+        </datafield>
+        <datafield ind1="0" ind2=" " tag="740">
+            <subfield code="a">Mord på Orientekspressen</subfield>
+        </datafield>
+        <datafield ind1="0" ind2=" " tag="740">
+            <subfield code="a">Hercule Poirot</subfield>
+        </datafield>
+        <datafield ind1="4" ind2="2" tag="856">
+            <subfield code="3">Mer om filmen</subfield>
+            <subfield code="u">https://www.imdb.com/title/tt0071877/</subfield>
+        </datafield>
+        <datafield ind1="0" ind2="1" tag="852">
+            <subfield code="a">47BIBSYS_HH</subfield>
+            <subfield code="6">999919985634602214</subfield>
+            <subfield code="9">P</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">Murder on the Orient Express</subfield>
+            <subfield code="1">http://viaf.org/viaf/316741387</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10129</subfield>
+        </datafield>
+    </record>
+    <!-- Movie collection -->
+    <record xmlns="http://www.loc.gov/MARC21/slim">
+        <leader>00525cgm a2200193 c 4500</leader>
+        <controlfield tag="001">990424921304702201</controlfield>
+        <controlfield tag="005">20160519155610.0</controlfield>
+        <controlfield tag="007">vd |v||||</controlfield>
+        <controlfield tag="008">150216s2004    xx#|||||||||||####v|und|d</controlfield>
+        <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">042492130-47bibsys_network</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(NO-TrBIB)042492130</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">NO-TrBIB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield ind1="0" ind2="0" tag="130">
+            <subfield code="a">The Agatha Christie collection</subfield>
+            <subfield code="h">Collection</subfield>
+            <subfield code="1">http://example.com/collections/christie/movies</subfield>
+        </datafield>
+        <datafield ind1="0" ind2="0" tag="245">
+            <subfield code="a">The Agatha Christie collection</subfield>
+            <subfield code="h">[videoopptak]</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="260">
+            <subfield code="a">[Oslo]</subfield>
+            <subfield code="b">Star Media</subfield>
+            <subfield code="c">2004</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">5 plater (DVD)</subfield>
+            <subfield code="b">digital</subfield>
+            <subfield code="c">12 cm</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="500">
+            <subfield code="a">SF Reg.nr. 53189</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="653">
+            <subfield code="a">krim</subfield>
+        </datafield>
+        <datafield ind1="0" ind2="1" tag="852">
+            <subfield code="a">47BIBSYS_HH</subfield>
+            <subfield code="6">999919813593502214</subfield>
+            <subfield code="9">P</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="901">
+            <subfield code="a">80</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="991">
+            <subfield code="a">volumes</subfield>
+        </datafield>
+    </record>
+    <!-- Collections -->
+    <record>
+        <leader>01052 am a2200277ua 4500</leader>
+        <controlfield tag="001">006715657</controlfield>
+        <controlfield tag="005">20091118012800.0</controlfield>
+        <controlfield tag="008">810323s1980    enk    ||     000 1|eng  </controlfield>
+        <datafield tag="019" ind1="1" ind2=" ">
+            <subfield code="a">0002446855</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0002446855 :</subfield>
+            <subfield code="c">£5.95</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823/.9/1</subfield>
+            <subfield code="2">18</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823/.912</subfield>
+            <subfield code="2">19</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="1">https://isni.org/isni/0000000121022127</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="0" ind2="4">
+            <subfield code="a">The best of Poirot</subfield>
+            <subfield code="k">Collection</subfield>
+            <subfield code="1">https://isni.org/isni/0000000121022127/bestofpoirot</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The best of Poirot /</subfield>
+            <subfield code="c">by Agatha Christie.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Collins,</subfield>
+            <subfield code="c">1980.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">862p. ;</subfield>
+            <subfield code="c">23cm.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Collins' collectors' choice</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Murder on the Orient Express - Cards on the table - Hercule Poirot's Christmas - Five little pigs - The labours of Hercules.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">Murder on the Orient Express.</subfield>
+            <subfield code="1">http://viaf.org/viaf/316741387</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">Cards on the table</subfield>
+            <subfield code="1">http://viaf.org/viaf/310911986</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">Hercule Poirot's Christmas.</subfield>
+            <subfield code="1">http://viaf.org/viaf/174408071</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">Five little pigs.</subfield>
+            <subfield code="1">http://viaf.org/viaf/312349122</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">The labours of Hercules.</subfield>
+            <subfield code="1">http://viaf.org/viaf/638145424602986831437</subfield>
+        </datafield>
+    </record>
+   
     <record>
         <leader>01989 am a2200433ua 4500</leader>
         <controlfield tag="001">009375336</controlfield>
@@ -684,7 +1982,7 @@
             <subfield code="d">1890-1976.</subfield>
             <subfield code="k">Novel</subfield>
             <subfield code="t">The murder on the links</subfield>
-            <subfield code="1"></subfield>
+            <subfield code="1">http://viaf.org/viaf/5243165573959737800001</subfield>
         </datafield>
         <datafield tag="700" ind1="1" ind2="2">
             <subfield code="a">Christie, Agatha,</subfield>
