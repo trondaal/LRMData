@@ -158,6 +158,7 @@
       <rdaxd:P00018>http://viaf.org/viaf/5191807/theroad</rdaxd:P00018>
       <rdawd:P10088>The road</rdawd:P10088>
       <rdfs:label>The road (Penhall, Joe)</rdfs:label>
+      <rdaxd:P00029>Screenplay</rdaxd:P00029>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/5191807"/>
       <rdawo:P10134 rdf:resource="http://viaf.org/viaf/220031159"/>
    </rdac:C10001>
@@ -865,8 +866,8 @@
       <rdaed:P20316>No country for old men</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>No country for old men</rdaed:P20312>
-      <rdfs:label>No country for old men / text</rdfs:label>
       <rdfs:label>No country for old men / text / text</rdfs:label>
+      <rdfs:label>No country for old men / text</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/214012164"/>
@@ -1083,7 +1084,6 @@
       <rdaed:P20312>The road</rdaed:P20312>
       <rdfs:label>The road / text / text</rdfs:label>
       <rdaed:P20312>The road : based on the novel by Cormac McCarthy</rdaed:P20312>
-      <rdfs:label>The road / text</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/5191807/theroad"/>
@@ -1364,18 +1364,14 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/seancormacmccarthy/thesis"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q3061599/exp/eng">
+   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q3061599/exp/1023">
       <rdaed:P20316>The Counselor (Motion picture : 2013)</rdaed:P20316>
-      <rdaed:P20312>The counselor</rdaed:P20312>
-      <rdfs:label>The counselor</rdfs:label>
-      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
-      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q3061599"/>
-   </rdac:C10006>
-   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q3061599/exp/eng/fre/spa">
       <rdaed:P20316>Counselor (Motion picture : 2013)</rdaed:P20316>
       <rdaed:P20312>The counselor</rdaed:P20312>
-      <rdfs:label>The counselor / eng / two-dimensional moving image</rdfs:label>
+      <rdfs:label>The counselor / two-dimensional moving image</rdfs:label>
+      <rdfs:label>The counselor / eng / two-dimensional moving image / two-dimensional moving image</rdfs:label>
       <rdaed:P20071>disc 1. The counselor (Theatrical version) (117 in.) -- disc 2. The counselor (Unrated extended cut) (138 min.).</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1023"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/fre"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
@@ -1860,32 +1856,42 @@
       <rdaeo:P20145 rdf:resource="https://isni.org/isni/0000000046450913/troubledsleep/09/exp/eng/1011"/>
       <rdaeo:P20231 rdf:resource="https://isni.org/isni/0000000046450913/troubledsleep"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="https://www.imdb.com/title/tt0149624/exp/eng/mul/nob">
+   <rdac:C10006 rdf:about="https://www.imdb.com/title/tt0149624/exp/1023">
       <rdaed:P20316>All the pretty horses</rdaed:P20316>
       <rdaed:P20312>All the pretty horses</rdaed:P20312>
-      <rdfs:label>All the pretty horses / eng</rdfs:label>
+      <rdfs:label>All the pretty horses / eng / two-dimensional moving image</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1023"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mul"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
       <rdaeo:P20231 rdf:resource="https://www.imdb.com/title/tt0149624"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="https://www.imdb.com/title/tt0477348/exp/eng">
+   <rdac:C10006 rdf:about="https://www.imdb.com/title/tt0477348/exp/1023">
       <rdaed:P20316>No country for old men</rdaed:P20316>
       <rdaed:P20316>No country for old men (Motion picture)</rdaed:P20316>
       <rdaed:P20312>No country for old men</rdaed:P20312>
-      <rdfs:label>No country for old men</rdfs:label>
-      <rdfs:label>No country for old men / eng / two-dimensional moving image</rdfs:label>
+      <rdfs:label>No country for old men / two-dimensional moving image</rdfs:label>
+      <rdfs:label>No country for old men / eng / two-dimensional moving image / two-dimensional moving image</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1023"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/fre"/>
       <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
       <rdaeo:P20231 rdf:resource="https://www.imdb.com/title/tt0477348"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="https://www.imdb.com/title/tt0898367/exp/eng">
+   <rdac:C10006 rdf:about="https://www.imdb.com/title/tt0477348/exp/eng">
+      <rdaed:P20316>No country for old men (Motion picture)</rdaed:P20316>
+      <rdaed:P20312>No country for old men</rdaed:P20312>
+      <rdfs:label>No country for old men</rdfs:label>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="https://www.imdb.com/title/tt0477348"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.imdb.com/title/tt0898367/exp/1023">
       <rdaed:P20316>The Road</rdaed:P20316>
       <rdaed:P20316>Road (Motion picture : 2009)</rdaed:P20316>
       <rdaed:P20312>The Road</rdaed:P20312>
-      <rdfs:label>The Road</rdfs:label>
+      <rdfs:label>The Road / two-dimensional moving image</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1023"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="https://www.imdb.com/title/tt0898367"/>
    </rdac:C10006>
@@ -1992,10 +1998,14 @@
       <rdamd:P30083>20th Century Fox</rdamd:P30083>
       <rdamd:P30011>2013</rdamd:P30011>
       <rdamd:P30182>14 film reels of 14 on 7 (113 min., 10,170 ft.) : anamorphic, sd. (opt, Dolby SR), col., 35 mm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1008</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1069</rdamd:P30001>
       <rdamd:P30137>Aspect ratio is 2.35:1.</rdamd:P30137>
       <rdamd:P30137>Not viewed.</rdamd:P30137>
       <rdamd:P30137>Sources used: Internet movie database, March 12, 2018; Variety, October 24, 2013; Copyright catalog online.</rdamd:P30137>
-      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q3061599/exp/eng"/>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1069"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q3061599/exp/1023"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/20691857">
       <rdamd:P30156>The road</rdamd:P30156>
@@ -2005,11 +2015,15 @@
       <rdamd:P30083>Dimension</rdamd:P30083>
       <rdamd:P30011>2009</rdamd:P30011>
       <rdamd:P30182>12 film reels of 12 on 6 (2009 min., 9,990 ft.) : anamorphic, sd. (opt, Dolby SR, digital, Dolby SR-D, SDDS, DTS), col., 35 mm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1008</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1069</rdamd:P30001>
       <rdamd:P30137>Aspect ratio is 2.35:1.</rdamd:P30137>
       <rdamd:P30137>Based on the novel by Cormac McCarthy.</rdamd:P30137>
       <rdamd:P30137>Not viewed.</rdamd:P30137>
       <rdamd:P30137>Sources used: Internet movie database, October 1, 2018; Variety, September 3, 2009; Copyright catalog online.</rdamd:P30137>
-      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0898367/exp/eng"/>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1069"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
+      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0898367/exp/1023"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/23017180">
       <rdamd:P30156>Stonemason</rdamd:P30156>
@@ -2078,13 +2092,17 @@
       <rdamd:P30083>Scanbox Entertainment Denmark</rdamd:P30083>
       <rdamd:P30011>2009</rdamd:P30011>
       <rdamd:P30182>1 plate (DVD-video) (111 min) : lyd, kol.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1008</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1060</rdamd:P30001>
       <rdamd:P30137>Basert på: The road / Cormac McCarthy</rdamd:P30137>
       <rdamd:P30137>Drama/thriller</rdamd:P30137>
       <rdamd:P30137>Engelsk tale; danske, norske, islandske, svenske og finske undertekster valgbare</rdamd:P30137>
       <rdamd:P30137>Inneholder ekstramateriell</rdamd:P30137>
       <rdamd:P30137>Medietilsynet : 150489</rdamd:P30137>
       <rdamd:P30137>NOS9860SV</rdamd:P30137>
-      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0898367/exp/eng"/>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1060"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
+      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0898367/exp/1023"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/IAN-5050582404920">
       <rdamd:P30004>IAN 5050582404920</rdamd:P30004>
@@ -2096,6 +2114,8 @@
       <rdamd:P30083>SPHE</rdamd:P30083>
       <rdamd:P30011>2005</rdamd:P30011>
       <rdamd:P30182>1 plate (DVD-video) (1 t. 52 min) : lyd, kol.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1008</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1060</rdamd:P30001>
       <rdamd:P30137>Drama.</rdamd:P30137>
       <rdamd:P30137>Ekstramateriale: trailere, filmografier</rdamd:P30137>
       <rdamd:P30137>Engelsk tale, norsk tekst.</rdamd:P30137>
@@ -2105,7 +2125,9 @@
       <rdamd:P30137>Produksjon: USA : Columbia/Miramax, 2000.</rdamd:P30137>
       <rdamd:P30137>Rolleliste: Matt Damon, Henry Thomas, Penelope Cruz.</rdamd:P30137>
       <rdamd:P30137>Widescreen.</rdamd:P30137>
-      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0149624/exp/eng/mul/nob"/>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1060"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
+      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0149624/exp/1023"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/IAN-7332431029293">
       <rdamd:P30004>IAN 7332431029293</rdamd:P30004>
@@ -2117,6 +2139,8 @@
       <rdamd:P30083>Paramount Home Entertainment (Norway)</rdamd:P30083>
       <rdamd:P30011>cop. 2007</rdamd:P30011>
       <rdamd:P30182>1 videoplate (DVD-video) (117 min) : lyd, kol.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1008</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1060</rdamd:P30001>
       <rdamd:P30106>S film</rdamd:P30106>
       <rdamd:P30137>Aldersgrense: 15 år</rdamd:P30137>
       <rdamd:P30137>Bygger på: No county for old men / Cormac McCarthy</rdamd:P30137>
@@ -2127,7 +2151,9 @@
       <rdamd:P30137>Produksjon: USA : Paramount Vantage/Miramax Films, 2007</rdamd:P30137>
       <rdamd:P30137>Rolleliste: Javier Bardem, Tommy Lee Jones, Josh Brolin</rdamd:P30137>
       <rdamd:P30137>Thriller</rdamd:P30137>
-      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0477348/exp/eng"/>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1060"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
+      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0477348/exp/1023"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/UPC-024543899990">
       <rdamd:P30004>UPC 024543899990</rdamd:P30004>
@@ -2143,6 +2169,8 @@
       <rdamd:P30011>[2014]</rdamd:P30011>
       <rdamd:P30007>©2013</rdamd:P30007>
       <rdamd:P30182>1 videodisc (117 min.) : sound, color, 4 3/4 in. + 1 Blu-ray.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1008</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1060</rdamd:P30001>
       <rdamd:P30137>"Includes 2 versions: unrated extended cut &amp; theatrical."</rdamd:P30137>
       <rdamd:P30137>Disc 1. Special features: viral pieces: uncut--Laura (never-before-seen), The counselor, Malkina and Reiner.</rdamd:P30137>
       <rdamd:P30137>Disc 2. Special features: Truth of the situation: making The counselor--an immersive experience with feature-length commentary by Director Ridley Scott.</rdamd:P30137>
@@ -2151,7 +2179,9 @@
       <rdamd:P30137>Title from container.</rdamd:P30137>
       <rdamd:P30137>Widescreen (2.40:1).</rdamd:P30137>
       <rdamd:P30137>disc 1. The counselor (Theatrical version) (117 in.) -- disc 2. The counselor (Unrated extended cut) (138 min.).</rdamd:P30137>
-      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q3061599/exp/eng/fre/spa"/>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1060"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q3061599/exp/1023"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/UPC-048248210225">
       <rdamd:P30004>UPC 048248210225</rdamd:P30004>
@@ -3067,9 +3097,6 @@
       <rdamd:P30004>ISBN 0375406778</rdamd:P30004>
       <rdaxd:P00018>isbn-0375406778</rdaxd:P00018>
       <rdfs:label>ISBN0375406778</rdfs:label>
-      <rdamd:P30004>ISBN 9780375406775</rdamd:P30004>
-      <rdaxd:P00018>isbn-9780375406775</rdaxd:P00018>
-      <rdfs:label>ISBN9780375406775</rdfs:label>
       <rdamd:P30156>No country for old men</rdamd:P30156>
       <rdamd:P30117>Cormac McCarthy</rdamd:P30117>
       <rdamd:P30107>1st ed</rdamd:P30107>
@@ -3077,7 +3104,6 @@
       <rdamd:P30111>New York : Knopf, 2005.</rdamd:P30111>
       <rdamd:P30083>Knopf</rdamd:P30083>
       <rdamd:P30011>2005</rdamd:P30011>
-      <rdamd:P30182>309 s.</rdamd:P30182>
       <rdamd:P30182>309 p., 22 cm.</rdamd:P30182>
       <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
@@ -3469,13 +3495,17 @@
       <rdamd:P30008>[2008]</rdamd:P30008>
       <rdamd:P30007>©2008</rdamd:P30007>
       <rdamd:P30182>1 videodisc (approximately 122 min.) : sound, color, 4 3/4 in.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1008</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1069</rdamd:P30001>
       <rdamd:P30137>Aspect ratio: widescreen (2.35:1).</rdamd:P30137>
       <rdamd:P30137>Based on the novel by Cormac McCarthy.</rdamd:P30137>
       <rdamd:P30137>Originally released as a motion picture in 2007.</rdamd:P30137>
       <rdamd:P30137>Special features: Working with the Coens; the making of; diary of a country sheriff; total menus.</rdamd:P30137>
       <rdamd:P30137>Title from container.</rdamd:P30137>
       <rdamd:P30050>Snelson (John) Collection (Library of Congress).</rdamd:P30050>
-      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0477348/exp/eng"/>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1069"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
+      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0477348/exp/1023"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0880010096">
       <rdamd:P30004>ISBN 0880010096 (pbk.)</rdamd:P30004>
@@ -4051,23 +4081,6 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/214001528/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3417153653286155900001/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309357400/exp/eng/1020"/>
-   </rdac:C10007>
-   <rdac:C10007 rdf:about="http://example.org/isbn-9781408127421">
-      <rdamd:P30004>ISBN 9781408127421</rdamd:P30004>
-      <rdaxd:P00018>isbn-9781408127421</rdaxd:P00018>
-      <rdfs:label>ISBN9781408127421</rdfs:label>
-      <rdamd:P30156>The road</rdamd:P30156>
-      <rdamd:P30117>Joe Penhall ; based on the novel by Cormac McCarthy</rdamd:P30117>
-      <rdamd:P30088>London</rdamd:P30088>
-      <rdamd:P30111>London : Methuen Drama, 2010.</rdamd:P30111>
-      <rdamd:P30083>Methuen Drama</rdamd:P30083>
-      <rdamd:P30011>2010</rdamd:P30011>
-      <rdamd:P30182>102 p., 20 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
-      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
-      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/5191807/theroad/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9781447227632">
       <rdamd:P30004>ISBN 9781447227632 (hardback) :</rdamd:P30004>
@@ -4748,6 +4761,12 @@
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1049">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1049</skos:subjectIndicator>
    </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1060">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1060</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1069">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1069</skos:subjectIndicator>
+   </skos:Concept>
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1011">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1011</skos:subjectIndicator>
    </skos:Concept>
@@ -4757,6 +4776,9 @@
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1020">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1020</skos:subjectIndicator>
    </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1023">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1023</skos:subjectIndicator>
+   </skos:Concept>
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1001">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1001</skos:subjectIndicator>
    </skos:Concept>
@@ -4765,5 +4787,8 @@
    </skos:Concept>
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1007">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1007</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1008">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1008</skos:subjectIndicator>
    </skos:Concept>
 </rdf:RDF>

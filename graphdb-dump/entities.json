@@ -15454,28 +15454,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q3061599/exp/eng"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Expression"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q3061599/exp/eng/fre/spa"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Expression"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "https://isni.org/isni/0000000046450913/collateral/01/exp/eng/1011"
                 },
                 "label": {
@@ -15982,17 +15960,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "https://www.imdb.com/title/tt0149624/exp/eng/mul/nob"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Expression"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "https://www.imdb.com/title/tt0477348/exp/eng"
                 },
                 "label": {
@@ -16004,7 +15971,7 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "https://www.imdb.com/title/tt0898367/exp/eng"
+                    "value": "https://www.psupress.org/journals/jnls_CormacMcCarthy.html/exp/eng/1020"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -16015,7 +15982,40 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "https://www.psupress.org/journals/jnls_CormacMcCarthy.html/exp/eng/1020"
+                    "value": "http://www.wikidata.org/entity/Q3061599/exp/1023"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt0149624/exp/1023"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt0477348/exp/1023"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt0898367/exp/1023"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -20515,17 +20515,6 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://example.org/isbn-9780375407932"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Manifestation"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-9781408127421"
                 },
                 "label": {
                     "xml:lang": "gden",

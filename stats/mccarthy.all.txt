@@ -4,7 +4,7 @@ BIB2201 rapport over datasamling - oppdatert 5/6
 -------------------------------------------------------
 
 
-Antall poster i samlingen:143
+Antall poster i samlingen:141
 -------------------------------------------------------
 
 
@@ -292,7 +292,6 @@ men det er jo ikke nødvendigvis feil!
 * 700  1#  $aMcCarthy, Cormac,  $d1933-2023.  $tRoad.
 * 700  1#  $aMcCarthy, Cormac,  $d1933-2023.  $tRoad.
 * 700  1#  $aMcCarthy, Cormac,  $d1933-2023.  $tRoad.
-* 700  1#  $aMcCarthy, Cormac,  $d1933-2023.  $tRoad.
 * 700  12  $aMcCarthy, Cormac,  $d1933-2023.  $tRoad.
 * 700  12  $aTolstoy, Leo,  $cgraf,  $d1828-1910.  $tAnna Karenina.
 * 730  0#  $aGardener's son (Motion picture)
@@ -327,7 +326,7 @@ sjekker bare feltene 100, 110, 111, 700, 710, 711
 -------------------------------------------------------
 * act  : 7 
 * aus  : 2 
-* aut  : 13 
+* aut  : 12 
 * drt  : 3 
 * nrt  : 2 
 * prf  : 4 
@@ -341,7 +340,7 @@ verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 * http://rdaregistry.info/Elements/e/object/P20022 (has narrator agent) : 2 
 * http://rdaregistry.info/Elements/e/object/P20037 (has translator agent) : 28 
 * http://rdaregistry.info/Elements/e/object/P20039 (has performer agent) : 4 
-* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 130 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 128 
 * http://rdaregistry.info/Elements/w/object/P10393 (has aggregator agent) : 1 
 
 
@@ -530,8 +529,6 @@ Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke an
 * http://rdaregistry.info/Elements/w/object/P10129 (is motion picture adaptation of work) -> No country for old men (758)
 001 = 20691857, Road (Motion picture : 2009) /  
 * http://rdaregistry.info/Elements/w/object/P10129 (is motion picture adaptation of work) -> The road (758)
-001 = 16178826, The road / Penhall, Joe. /  
-* http://rdaregistry.info/Elements/w/object/P10134 (is motion picture screenplay based on work) -> The road (758)
 
 
 Poster med felt hvor $4 burde vært med i 700 felt
@@ -578,8 +575,6 @@ Poster med felt hvor $4 burde vært med i 700 felt
 * 700  1#  $aMcCarthy, Cormac,  $d1933-2023.  $iMotion picture adaptation of (work):  $tNo country for old men.
 001  20691857 
 * 700  1#  $aMcCarthy, Cormac,  $d1933-2023.  $tRoad.
-001  16178826 
-* 700  1#  $aMcCarthy, Cormac,  $d1933-2023.  $tRoad.
 
 
 
@@ -587,6 +582,7 @@ Opplisting som viser bruken av 336 $a, $b, $0, $2
 -------------------------------------------------------
 * 336  ##  $atext  $0http://rdaregistry.info/termList/RDAContentType/1020 $2rdacontent
 * 336  ##  $aspoken word  $0http://rdaregistry.info/termList/RDAContentType/1013 $2rdacontent
+* 336  ##  $atwo-dimensional moving image  $0http://rdaregistry.info/termList/RDAContentType/1023 $2rdacontent
 * 336  ##  $atext  $btxt $2rdacontent
 * 336  ##  $atekst  $0http://rdaregistry.info/termList/RDAContentType/1020 $2rdaco
 * 336  ##  $atext $2rdacontent
@@ -599,6 +595,7 @@ Opplisting som viser bruken av 337 $a, $b, $0, $2
 -------------------------------------------------------
 * 337  ##  $aunmediated  $0http://rdaregistry.info/termList/RDAMediaType/1007 $2rdamedia
 * 337  ##  $aaudio  $0http://rdaregistry.info/termList/RDAMediaType/1001 $2rdamedia
+* 337  ##  $aaudio  $0http://rdaregistry.info/termList/RDAMediaType/1008 $2rdamedia
 * 337  ##  $acomputer  $bc $2rdamedia
 * 337  ##  $acomputer  $0http://rdaregistry.info/termList/RDAMediaType/1003 $2rdamedia
 * 337  ##  $auformidlet  $0http://rdaregistry.info/termList/RDAMediaType/1007 $2rdamt
@@ -613,6 +610,7 @@ Opplisting som viser bruken av 338 $a, $b, $0, $2
 -------------------------------------------------------
 * 338  ##  $avolume  $0http://rdaregistry.info/termList/RDACarrierType/1049 $2rdacarrier
 * 338  ##  $aaudio disc  $0http://rdaregistry.info/termList/RDACarrierType/1004 $2rdacarrier
+* 338  ##  $avideo disc  $0http://rdaregistry.info/termList/RDACarrierType/1060 $2rdacarrier
 * 338  ##  $aonline resource  $bcr $2rdacarrier
 * 338  ##  $aonline resource  $0http://rdaregistry.info/termList/RDACarrierType/1018 $2rdacarrier
 * 338  ##  $abind  $0http://rdaregistry.info/termList/RDACarrierType/1049 $2rdact
@@ -620,7 +618,10 @@ Opplisting som viser bruken av 338 $a, $b, $0, $2
 * 338  ##  $aonline resource $2rdacarrier@
 * 338  ##  $aonline resource $2rdacarrier@
 * 338  ##  $avolume $2rdacarrier
+* 338  ##  $afilm rolls  $0http://rdaregistry.info/termList/RDACarrierType/1069 $2rdacarrier
 * 338  ##  $avideodisc  $bvd $2rdacarrier
+* 338  ##  $afilm reels  $0http://rdaregistry.info/termList/RDACarrierType/1069 $2rdacarrier
+* 338  ##  $afilm rollsa  $0http://rdaregistry.info/termList/RDACarrierType/1069 $2rdacarrier
 * 338  ##  $aaudiocassette  $0http://rdaregistry.info/termList/RDACarrierType/1007 $2rdacarrier
 * 338  ##  $avolume  $bnc $2rdacarrier
 * 338  ##  $acompact disc  $0http://rdaregistry.info/termList/RDACarrierType/1013 $2rdacarrier
@@ -656,12 +657,11 @@ Poster som mangler 336, 337, 338, 380
 001: 999507272374702202 mangler følgende felt:  380 
 001: 999616207814702202 mangler følgende felt:  380 
 001: 999909094334702202 mangler følgende felt:  336, 337, 338, 380 
-001: 999919962104602202 mangler følgende felt:  336, 337, 338, 380 
+001: 999919962104602202 mangler følgende felt:  380 
 001: 999919970837702202 mangler følgende felt:  380 
-001: 999920049602702202 mangler følgende felt:  336, 337, 338, 380 
+001: 999920049602702202 mangler følgende felt:  380 
 001: 999920096682602202 mangler følgende felt:  380 
-001: 999920130503302202 mangler følgende felt:  336, 337, 338, 380 
-001: 999920150603402202 mangler følgende felt:  380 
+001: 999920130503302202 mangler følgende felt:  380 
 001: 999920323910002202 mangler følgende felt:  380 
 001: 999920324491102202 mangler følgende felt:  380 
 001: 999920324491302202 mangler følgende felt:  380 
@@ -730,9 +730,9 @@ Poster som mangler 336, 337, 338, 380
 001: 002304723 mangler følgende felt:  380 
 001: 002304722 mangler følgende felt:  380 
 001: 002304721 mangler følgende felt:  380 
-001: 20395066 mangler følgende felt:  336, 337, 338, 380 
+001: 20395066 mangler følgende felt:  380 
 001: 15894496 mangler følgende felt:  336, 337, 338, 380 
-001: 20691857 mangler følgende felt:  336, 337, 338, 380 
+001: 20691857 mangler følgende felt:  380 
 001: 3452434 mangler følgende felt:  380 
 001: 3908335 mangler følgende felt:  380 
 001: 15039940 mangler følgende felt:  380 
@@ -770,7 +770,6 @@ Poster som mangler 336, 337, 338, 380
 001: 12818163 mangler følgende felt:  380 
 001: 2407281 mangler følgende felt:  380 
 001: 2265807 mangler følgende felt:  380 
-001: 16178826 mangler følgende felt:  380 
 001: 21222329 mangler følgende felt:  380 
 001: 18420971 mangler følgende felt:  380 
 001: 18420986 mangler følgende felt:  380 

@@ -12845,7 +12845,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q3061599/exp/eng"
+                    "value": "http://www.wikidata.org/entity/Q3061599/exp/1023"
                 }
             },
             {
@@ -12860,7 +12860,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "https://www.imdb.com/title/tt0898367/exp/eng"
+                    "value": "https://www.imdb.com/title/tt0898367/exp/1023"
                 }
             },
             {
@@ -12935,7 +12935,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "https://www.imdb.com/title/tt0898367/exp/eng"
+                    "value": "https://www.imdb.com/title/tt0898367/exp/1023"
                 }
             },
             {
@@ -12950,7 +12950,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "https://www.imdb.com/title/tt0149624/exp/eng/mul/nob"
+                    "value": "https://www.imdb.com/title/tt0149624/exp/1023"
                 }
             },
             {
@@ -12965,7 +12965,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "https://www.imdb.com/title/tt0477348/exp/eng"
+                    "value": "https://www.imdb.com/title/tt0477348/exp/1023"
                 }
             },
             {
@@ -12980,7 +12980,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q3061599/exp/eng/fre/spa"
+                    "value": "http://www.wikidata.org/entity/Q3061599/exp/1023"
                 }
             },
             {
@@ -14840,7 +14840,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "https://www.imdb.com/title/tt0477348/exp/eng"
+                    "value": "https://www.imdb.com/title/tt0477348/exp/1023"
                 }
             },
             {
@@ -15396,21 +15396,6 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/309357400/exp/eng/1020"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-9781408127421"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "EMBODIES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/5191807/theroad/exp/eng/1020"
                 }
             },
             {
@@ -24926,36 +24911,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q3061599/exp/eng"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "REALIZES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q3061599"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q3061599/exp/eng/fre/spa"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "REALIZES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q3061599"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "https://isni.org/isni/0000000046450913/collateral/01/exp/eng/1011"
                 },
                 "l": {
@@ -25646,21 +25601,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "https://www.imdb.com/title/tt0149624/exp/eng/mul/nob"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "REALIZES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "https://www.imdb.com/title/tt0149624"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "https://www.imdb.com/title/tt0477348/exp/eng"
                 },
                 "l": {
@@ -25676,21 +25616,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "https://www.imdb.com/title/tt0898367/exp/eng"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "REALIZES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "https://www.imdb.com/title/tt0898367"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "https://www.psupress.org/journals/jnls_CormacMcCarthy.html/exp/eng/1020"
                 },
                 "l": {
@@ -25701,6 +25626,66 @@
                 "o": {
                     "type": "uri",
                     "value": "https://www.psupress.org/journals/jnls_CormacMcCarthy.html"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q3061599/exp/1023"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q3061599"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt0149624/exp/1023"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt0149624"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt0477348/exp/1023"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt0477348"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt0898367/exp/1023"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt0898367"
                 }
             }
         ]

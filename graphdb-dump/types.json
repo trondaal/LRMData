@@ -12229,6 +12229,82 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q3061599/exp/1023"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1023"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt0149624/exp/1023"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1023"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt0477348/exp/1023"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1023"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt0898367/exp/1023"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1023"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/12155103895976200651/exp/eng/1020"
                 },
                 "p": {
@@ -24104,82 +24180,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q3061599/exp/eng"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "LANGUAGE"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q3061599/exp/eng/fre/spa"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "LANGUAGE"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q3061599/exp/eng/fre/spa"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "LANGUAGE"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://id.loc.gov/vocabulary/iso639-2/spa"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q3061599/exp/eng/fre/spa"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "LANGUAGE"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://id.loc.gov/vocabulary/iso639-2/fre"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "https://isni.org/isni/0000000046450913/collateral/01/exp/eng/1011"
                 },
                 "p": {
@@ -25054,83 +25054,7 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "https://www.imdb.com/title/tt0149624/exp/eng/mul/nob"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "LANGUAGE"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "https://www.imdb.com/title/tt0149624/exp/eng/mul/nob"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "LANGUAGE"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://id.loc.gov/vocabulary/iso639-2/mul"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "https://www.imdb.com/title/tt0149624/exp/eng/mul/nob"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "LANGUAGE"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://id.loc.gov/vocabulary/iso639-2/nob"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "https://www.imdb.com/title/tt0477348/exp/eng"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "LANGUAGE"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "https://www.imdb.com/title/tt0898367/exp/eng"
                 },
                 "p": {
                     "type": "uri",
@@ -25168,6 +25092,158 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q3061599/exp/1023"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q3061599/exp/1023"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/spa"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q3061599/exp/1023"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/fre"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt0149624/exp/1023"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt0149624/exp/1023"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/mul"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt0149624/exp/1023"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/nob"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt0477348/exp/1023"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt0898367/exp/1023"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "https://www.imdb.com/title/tt3402236/exp/1023"
                 },
                 "p": {
@@ -25182,63 +25258,6 @@
                 "o": {
                     "type": "uri",
                     "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q3061599/exp/eng/fre/spa"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/datatype/P20065"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "LANGUAGESADDITIONAL"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q3061599/exp/eng/fre/spa"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/datatype/P20065"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "LANGUAGESADDITIONAL"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://id.loc.gov/vocabulary/iso639-2/spa"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q3061599/exp/eng/fre/spa"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/datatype/P20065"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "LANGUAGESADDITIONAL"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://id.loc.gov/vocabulary/iso639-2/fre"
                 }
             },
             {
@@ -25453,7 +25472,64 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "https://www.imdb.com/title/tt0477348/exp/eng"
+                    "value": "http://www.wikidata.org/entity/Q3061599/exp/1023"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20065"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGESADDITIONAL"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q3061599/exp/1023"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20065"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGESADDITIONAL"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/spa"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q3061599/exp/1023"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20065"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGESADDITIONAL"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/fre"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt0477348/exp/1023"
                 },
                 "p": {
                     "type": "uri",
@@ -25681,7 +25757,7 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "https://www.imdb.com/title/tt0477348/exp/eng"
+                    "value": "https://www.imdb.com/title/tt0477348/exp/1023"
                 },
                 "p": {
                     "type": "uri",
@@ -25700,7 +25776,7 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "https://www.imdb.com/title/tt0477348/exp/eng"
+                    "value": "https://www.imdb.com/title/tt0477348/exp/1023"
                 },
                 "p": {
                     "type": "uri",
@@ -31552,6 +31628,44 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://example.org/20395066"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CARRIER"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1069"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/20691857"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CARRIER"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1069"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://example.org/23017180"
                 },
                 "p": {
@@ -31623,6 +31737,82 @@
                 "o": {
                     "type": "uri",
                     "value": "http://rdaregistry.info/termList/RDACarrierType/1049"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/999920049602702202"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CARRIER"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1060"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/IAN-5050582404920"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CARRIER"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1060"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/IAN-7332431029293"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CARRIER"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1060"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/UPC-024543899990"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CARRIER"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1060"
                 }
             },
             {
@@ -32768,6 +32958,25 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-0788884492"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CARRIER"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1069"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-0880010096"
                 },
                 "p": {
@@ -33263,25 +33472,6 @@
                 "s": {
                     "type": "uri",
                     "value": "http://example.org/isbn-9780375407932"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "CARRIER"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/termList/RDACarrierType/1049"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-9781408127421"
                 },
                 "p": {
                     "type": "uri",
@@ -39760,6 +39950,44 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://example.org/20395066"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "MEDIATYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1008"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/20691857"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "MEDIATYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1008"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://example.org/23017180"
                 },
                 "p": {
@@ -39831,6 +40059,82 @@
                 "o": {
                     "type": "uri",
                     "value": "http://rdaregistry.info/termList/RDAMediaType/1007"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/999920049602702202"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "MEDIATYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1008"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/IAN-5050582404920"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "MEDIATYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1008"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/IAN-7332431029293"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "MEDIATYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1008"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/UPC-024543899990"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "MEDIATYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1008"
                 }
             },
             {
@@ -40976,6 +41280,25 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-0788884492"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "MEDIATYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1008"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-0880010096"
                 },
                 "p": {
@@ -41471,25 +41794,6 @@
                 "s": {
                     "type": "uri",
                     "value": "http://example.org/isbn-9780375407932"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "MEDIATYPE"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/termList/RDAMediaType/1007"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-9781408127421"
                 },
                 "p": {
                     "type": "uri",
