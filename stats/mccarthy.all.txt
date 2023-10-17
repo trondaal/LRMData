@@ -4,7 +4,7 @@ BIB2201 rapport over datasamling - oppdatert 5/6
 -------------------------------------------------------
 
 
-Antall poster i samlingen:146
+Antall poster i samlingen:143
 -------------------------------------------------------
 
 
@@ -13,29 +13,22 @@ Agenter identifisert med URI
 * http://viaf.org/viaf/27122071 (700) : Brænne, Trond
 * http://viaf.org/viaf/266451311 (700) : Johansen, Knut
 * http://viaf.org/viaf/29558386 (100) : McCarthy, Cormac
+* https://isni.org/isni/0000000046450913 (100) : McCarthy, Cormac
+* http://viaf.org/viaf/seancormacmccarthy (100) : McCarthy, Sean Cormac
 * http://viaf.org/viaf/225596267 (700) : Ofstad, Knut
 * http://viaf.org/viaf/5191807 (100) : Penhall, Joe
+* https://www.cormacmccarthysociety.com (100) : The Cormac McCarthy Society
+* http://viaf.org/viaf/92910249 (100) : Wood, James
 
 
 Agent-innførsler som IKKE er identifiser med URI i $1
 men dere velger selv hvilke agenter som skal være med
 -------------------------------------------------------
-* 100  1#  $aDrake, James,  $d1946-
-* 100  1#  $aDrake, James,  $d1946-
-* 100  1#  $aMcCarthy, Cormac  $c(Singer)  $4prf
-* 100  1#  $aMcCarthy, Cormac  $c(Singer)  $4prf
-* 100  1#  $aMcCarthy, Cormac  $c(Singer)  $4prf
-* 100  1#  $aMcCarthy, Cormac  $c(Singer)  $4prf
-* 100  1#  $aMcCarthy, Cormac,  $d1933-2023.
-* 100  1#  $aMcCarthy, Sean Cormac,  $eauthor.
-* 100  1#  $aWood, James,  $d1965-  $eauthor.
 * 600  10  $aAusten, Jane,  $d1775-1817.
 * 600  10  $aAuster, Paul,  $d1947-
 * 600  10  $aBellow, Saul.
 * 600  10  $aChekhov, Anton Pavlovich,  $d1860-1904.
 * 600  10  $aDostoyevsky, Fyodor,  $d1821-1881.
-* 600  10  $aDrake, James,  $d1946-  $xThemes, motives.
-* 600  10  $aDrake, James,  $d1946-  $xThemes, motives.
 * 600  10  $aErpenbeck, Jenny,  $d1967-
 * 600  10  $aFerrante, Elena.
 * 600  10  $aGarner, Helen,  $d1942-
@@ -56,8 +49,6 @@ men dere velger selv hvilke agenter som skal være med
 * 610  20  $aGlanton Gang  $vFiction.
 * 610  20  $aGlanton Gang  $vFiction.
 * 610  20  $aGlanton Gang  $vFiction.
-* 700  1#  $aBaca, Jimmy Santiago,  $d1952-
-* 700  1#  $aBaca, Jimmy Santiago,  $d1952-
 * 700  1#  $aBardem, Javier  $d1969-  $0(NO-TrBIB)1016701  $4act
 * 700  1#  $aBardem, Javier,  $d1969-  $ecast.
 * 700  1#  $aBardem, Javier,  $d1969-  $eactor.
@@ -68,7 +59,6 @@ men dere velger selv hvilke agenter som skal være med
 * 700  1#  $aBrolin, Josh,  $eactor.
 * 700  1#  $aBunyan, Paul.
 * 700  1#  $aBunyan, Paul.
-* 700  1#  $aChollier, Christine.
 * 700  1#  $aCoen, Ethan  $d1957-  $0(NO-TrBIB)90809840  $4pro  $4drt  $4aus
 * 700  1#  $aCoen, Ethan,  $edirection,  $eproduction,  $ewriting.
 * 700  1#  $aCoen, Ethan,  $efilm director,  $efilm producer,  $escreenwriter.
@@ -90,13 +80,9 @@ men dere velger selv hvilke agenter som skal være med
 * 700  1#  $aJones, Tommy Lee  $d1946-  $0(NO-TrBIB)98014251  $4act
 * 700  1#  $aJones, Tommy Lee,  $d1946-  $ecast.
 * 700  1#  $aJones, Tommy Lee,  $d1946-  $eactor.
-* 700  1#  $aMadoff, Steven Henry.
-* 700  1#  $aMadoff, Steven Henry.
 * 700  1#  $aMcCarthy, Cormac,  $d1933-2023,  $eauthor.
 * 700  1#  $aMcCarthy, Cormac,  $d1933-2023,  $ewriting.
 * 700  1#  $aMcCarthy, Cormac,  $d1933-2023,  $escreenwriter.
-* 700  1#  $aMcCarthy, Cormac,  $d1933-2023.
-* 700  1#  $aMcCarthy, Cormac,  $d1933-2023.
 * 700  1#  $aMeyer, Philipp,  $ewriter of introduction.
 * 700  1#  $aMoore, Ruth,  $d1968-
 * 700  1#  $aMoore, Ruth,  $d1968-
@@ -138,7 +124,6 @@ men dere velger selv hvilke agenter som skal være med
 * 710  2#  $aCopyright Collection (Library of Congress) $5DLC
 * 710  2#  $aCopyright Collection (Library of Congress) $5DLC
 * 710  2#  $aCormac McCarthy Society.
-* 710  2#  $aCormac McCarthy Society.
 * 710  2#  $aDimension Films (1990- )
 * 710  2#  $aEcco Press  $epublisher
 * 710  2#  $aFox 2000 Pictures,  $epresenter.
@@ -165,7 +150,6 @@ men dere velger selv hvilke agenter som skal være med
 * 710  2#  $aTwentieth Century Fox Home Entertainment, Inc.,  $epublisher.
 * 710  2#  $aTwentieth Century-Fox Film Corporation.
 * 710  2#  $aUniversity of Birmingham,  $edegree granting institution.
-* 710  2#  $aUniversité de Reims Champagne-Ardenne.  $bCentre de Recherches sur l'Interprétation, l'Identité et l'Imaginaire dans les Littératures de Langue Anglaise.
 
 
 Verk identifisert med URI
@@ -188,20 +172,91 @@ Verk identifisert med URI
 * http://viaf.org/viaf/470166838899836200007/stellamaris = Stella Maris 
 * http://viaf.org/viaf/5191807/theroad = The road 
 * http://viaf.org/viaf/8419162723677961290005 = The stonemason 
+* http://viaf.org/viaf/92910249/seriousnoticing = Serious noticing 
+* http://viaf.org/viaf/92910249/seriousnoticing/01 = Fun stuff: homage to Keith Moon 
+* http://viaf.org/viaf/92910249/seriousnoticing/02 = What Chekhov meant by life 
+* http://viaf.org/viaf/92910249/seriousnoticing/03 = Serious noticing 
+* http://viaf.org/viaf/92910249/seriousnoticing/04 = Saul Bellow's comic style 
+* http://viaf.org/viaf/92910249/seriousnoticing/05 = Anna Karenina and characterization 
+* http://viaf.org/viaf/92910249/seriousnoticing/06 = Joseph Roth's empire of signs 
+* http://viaf.org/viaf/92910249/seriousnoticing/07 = Paul Auster's shallowness 
+* http://viaf.org/viaf/92910249/seriousnoticing/08 = Hysterical realism 
+* http://viaf.org/viaf/92910249/seriousnoticing/09 = Bohumil Hrabal's comic world 
+* http://viaf.org/viaf/92910249/seriousnoticing/11 = George Orwell's very English revolution / Jane Austen's heroic consciousness 
+* http://viaf.org/viaf/92910249/seriousnoticing/12 = Cormac McCarthy's the road 
+* http://viaf.org/viaf/92910249/seriousnoticing/13 = Reality examined to the point of madness': László Krasznahorkai 
+* http://viaf.org/viaf/92910249/seriousnoticing/14 = Wounder and wounded 
+* http://viaf.org/viaf/92910249/seriousnoticing/15 = On not going home 
+* http://viaf.org/viaf/92910249/seriousnoticing/16 = Other side of silence: rereading W. G. Sebald 
+* http://viaf.org/viaf/92910249/seriousnoticing/17 = Becoming them 
+* http://viaf.org/viaf/92910249/seriousnoticing/18 = Don Quixote's old and new testaments 
+* http://viaf.org/viaf/92910249/seriousnoticing/19 = Dostoevsky's god 
+* http://viaf.org/viaf/92910249/seriousnoticing/20 = Helen Garner's savage honesty 
+* http://viaf.org/viaf/92910249/seriousnoticing/21 = All and the if: God and metaphor in Melville 
+* http://viaf.org/viaf/92910249/seriousnoticing/22 = Elena Ferrante 
+* http://viaf.org/viaf/92910249/seriousnoticing/23 = Virginia Woolf's Mysticism 
+* http://viaf.org/viaf/92910249/seriousnoticing/24 = Job existed: Primo Levi 
+* http://viaf.org/viaf/92910249/seriousnoticing/25 = Marilynne Robinson 
+* http://viaf.org/viaf/92910249/seriousnoticing/26 = Ismail Kadare 
+* http://viaf.org/viaf/92910249/seriousnoticing/27 = Jenny Erpenbeck 
+* http://viaf.org/viaf/92910249/seriousnoticing/28 = Packing my father-in-law's library 
+* http://viaf.org/viaf/seancormacmccarthy/thesis = BOT and OMT contracts for infrastructure in developing countries 
 * http://www.wikidata.org/entity/Q3061599 = The Counselor (Motion picture : 2013) / Counselor (Motion picture : 2013) (Motion pictures)
+* https://isni.org/isni/0000000046450913/collateral = Colleteral 
+* https://isni.org/isni/0000000046450913/collateral/01 = Gotta keep movin' 
+* https://isni.org/isni/0000000046450913/collateral/02 = The working poor 
+* https://isni.org/isni/0000000046450913/collateral/03 = Cadillac man 
+* https://isni.org/isni/0000000046450913/collateral/04 = Back when I worked on the railroad 
+* https://isni.org/isni/0000000046450913/collateral/05 = The crossroads 
+* https://isni.org/isni/0000000046450913/collateral/06 = One a night like this 
+* https://isni.org/isni/0000000046450913/collateral/07 = You can't outrun the hounds 
+* https://isni.org/isni/0000000046450913/collateral/08 = Walking on solid ground 
+* https://isni.org/isni/0000000046450913/collateral/09 = Jailhouse bound 
+* https://isni.org/isni/0000000046450913/collateral/10 = Doppelganger. 
+* https://isni.org/isni/0000000046450913/curiousthing = Curious thing 
+* https://isni.org/isni/0000000046450913/curiousthing/01 = Spring snow 
+* https://isni.org/isni/0000000046450913/curiousthing/02 = Curious thing in the middle 
+* https://isni.org/isni/0000000046450913/curiousthing/03 = The asylum of your arms 
+* https://isni.org/isni/0000000046450913/curiousthing/04 = Fishing 
+* https://isni.org/isni/0000000046450913/curiousthing/05 = Easy as Pi 
+* https://isni.org/isni/0000000046450913/curiousthing/06 = Second skin 
+* https://isni.org/isni/0000000046450913/curiousthing/07 = This beautiful place 
+* https://isni.org/isni/0000000046450913/curiousthing/08 = Great big day 
+* https://isni.org/isni/0000000046450913/curiousthing/09 = So many miles 
+* https://isni.org/isni/0000000046450913/curiousthing/10 = Follow your heart 
+* https://isni.org/isni/0000000046450913/curiousthing/11 = A little something 
+* https://isni.org/isni/0000000046450913/curiousthing/12 = While the world is sleeping. 
+* https://isni.org/isni/0000000046450913/picturegalleryblues = Picture gallery blues 
+* https://isni.org/isni/0000000046450913/picturegalleryblues/01 = The immigrant gangster 
+* https://isni.org/isni/0000000046450913/picturegalleryblues/02 = Blue Cadillac 
+* https://isni.org/isni/0000000046450913/picturegalleryblues/03 = Map of your heart 
+* https://isni.org/isni/0000000046450913/picturegalleryblues/04 = Picture gallery blues 
+* https://isni.org/isni/0000000046450913/picturegalleryblues/05 = Light at the top of the stairs 
+* https://isni.org/isni/0000000046450913/picturegalleryblues/06 = Small house 
+* https://isni.org/isni/0000000046450913/picturegalleryblues/07 = That's how it is 
+* https://isni.org/isni/0000000046450913/picturegalleryblues/08 = Run away 
+* https://isni.org/isni/0000000046450913/picturegalleryblues/09 = Marigold Hall 
+* https://isni.org/isni/0000000046450913/picturegalleryblues/10 = Last ditch 
+* https://isni.org/isni/0000000046450913/troubledsleep = Troubled sleep 
+* https://isni.org/isni/0000000046450913/troubledsleep/00 = Empty promises 
+* https://isni.org/isni/0000000046450913/troubledsleep/01 = Life outside these walls 
+* https://isni.org/isni/0000000046450913/troubledsleep/02 = Nobody but you 
+* https://isni.org/isni/0000000046450913/troubledsleep/03 = Wild beneath my window 
+* https://isni.org/isni/0000000046450913/troubledsleep/04 = When my boat is built again 
+* https://isni.org/isni/0000000046450913/troubledsleep/05 = Why don't you stay 
+* https://isni.org/isni/0000000046450913/troubledsleep/06 = Dreams 
+* https://isni.org/isni/0000000046450913/troubledsleep/07 = Cows 
+* https://isni.org/isni/0000000046450913/troubledsleep/08 = Waltz with the Captain's daughter 
+* https://isni.org/isni/0000000046450913/troubledsleep/09 = Troubled sleep. 
 * https://www.imdb.com/title/tt0149624 = All the pretty horses 
-* https://www.imdb.com/title/tt0477348 = / No country for old men 
-* https://www.imdb.com/title/tt0898367 = The Road 
+* https://www.imdb.com/title/tt0477348 = / No country for old men / No country for old men (Motion picture) (Motion picture)
+* https://www.imdb.com/title/tt0898367 = The Road / Road (Motion picture : 2009) 
+* https://www.psupress.org/journals/jnls_CormacMcCarthy.html = The Cormac McCarthy journal 
 
 
 Innførsler som IKKE er identifisert som verk på grunn av manglende URI i $1
 men det er jo ikke nødvendigvis feil!
 -------------------------------------------------------
-* 130  0#  $aNo country for old men (Motion picture)
-* 130  0#  $aNo country for old men (Motion picture)
-* 130  0#  $aRoad (Motion picture : 2009)
-* 240  10  $aEssays.  $kSelections
-* 240  10  $aNo country for old men  $lNorsk
 * 600  1#  $tThe road
 * 600  10  $aMcCarthy, Cormac,  $d1933-2023.  $tRoad.
 * 630  00  $aGardener's son (Motion picture)
@@ -262,29 +317,9 @@ men det er jo ikke nødvendigvis feil!
 * 830  #0  $aGyldendal pocket
 * 830  #0  $aGyldendal pocket
 * 830  #0  $aGyldendals små grå
-* 830  #0  $aM. Georgia Hegarty Dunkerley contemporary art series.
-* 830  #0  $aM. Georgia Hegarty Dunkerley contemporary art series.
 * 830  #0  $aMini-Vita
 * 830  #0  $aRedbird series.
 * 830  #0  $aS film
-
-
-Poster hvor vi ikke finner noe verk identifisert med URI
-hverken som hovedinnførsel i 130/240 eller som analytt i 700
--------------------------------------------------------
-001 = 017034914 / 245$a =  BOT and OMT contracts for infrastructure in developing countries. 
-001 = 18420971 / 245$a =  Collateral 
-001 = 008509995 / 245$a =  Cormac McCarthy : 
-001 = 18420986 / 245$a =  Curious thing 
-001 = 014777085 / 245$a =  James Drake / 
-001 = 15129827 / 245$a =  James Drake / 
-001 = 15894496 / 245$a =  No country for old men / 
-001 = 20236694 / 245$a =  No country for old men / 
-001 = 12077961 / 245$a =  Picture gallery blues 
-001 = 21222329 / 245$a =  Serious noticing : 
-001 = 999919970837702202 / 245$a =  The Cormac McCarthy journal. 
-001 = 20691857 / 245$a =  The road / 
-001 = 5628905 / 245$a =  Troubled sleep / 
 
 
 Oversikt over MARC 21 relator koder brukt i samlingen
@@ -305,7 +340,9 @@ verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 -------------------------------------------------------
 * http://rdaregistry.info/Elements/e/object/P20022 (has narrator agent) : 2 
 * http://rdaregistry.info/Elements/e/object/P20037 (has translator agent) : 28 
-* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 127 
+* http://rdaregistry.info/Elements/e/object/P20039 (has performer agent) : 4 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 130 
+* http://rdaregistry.info/Elements/w/object/P10393 (has aggregator agent) : 1 
 
 
 Personer med URI og relasjonstyper som er brukt for disse
@@ -316,9 +353,17 @@ http://viaf.org/viaf/266451311 (700) : Johansen, Knut
 * http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
 http://viaf.org/viaf/29558386 (100) : McCarthy, Cormac 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+https://isni.org/isni/0000000046450913 (100) : McCarthy, Cormac 
+* http://rdaregistry.info/Elements/e/object/P20039 (has performer agent)
+http://viaf.org/viaf/seancormacmccarthy (100) : McCarthy, Sean Cormac 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 http://viaf.org/viaf/225596267 (700) : Ofstad, Knut 
 * http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
 http://viaf.org/viaf/5191807 (100) : Penhall, Joe 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
+https://www.cormacmccarthysociety.com (100) : The Cormac McCarthy Society 
+* http://rdaregistry.info/Elements/w/object/P10393 (has aggregator agent)
+http://viaf.org/viaf/92910249 (100) : Wood, James 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
 
 
@@ -371,10 +416,106 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  12  $aMcCarthy, Cormac,  $d1933-2023.  $tAll the pretty horses.  $1http://viaf.org/viaf/214001528
 * 700  12  $aMcCarthy, Cormac,  $d1933-2023.  $tCities of the plain.  $1http://viaf.org/viaf/3417153653286155900001
 * 700  12  $aMcCarthy, Cormac,  $d1933-2023.  $tCrossing.  $1http://viaf.org/viaf/309357400
+001 = 21222329 
+* 100  1#  $aWood, James,  $d1965-  $eauthor.  $1http://viaf.org/viaf/92910249  $4http://rdaregistry.info/Elements/w/object/P10061
+* 240  00  $aSerious noticing  $kEssay collection  $1http://viaf.org/viaf/92910249/seriousnoticing
+* 245  10  $aSerious noticing :  $bselected essays, 1997-2019 /  $cJames Wood.
+* 700  12  $aMcCarthy, Cormac,  $d1933-2023.  $tRoad.
+* 700  12  $aTolstoy, Leo,  $cgraf,  $d1828-1910.  $tAnna Karenina.
+* 700  12  $aWood, James  $tAll and the if: God and metaphor in Melville  $1http://viaf.org/viaf/92910249/seriousnoticing/21
+* 700  12  $aWood, James  $tAnna Karenina and characterization  $1http://viaf.org/viaf/92910249/seriousnoticing/05
+* 700  12  $aWood, James  $tBecoming them  $1http://viaf.org/viaf/92910249/seriousnoticing/17
+* 700  12  $aWood, James  $tBohumil Hrabal's comic world  $1http://viaf.org/viaf/92910249/seriousnoticing/09
+* 700  12  $aWood, James  $tCormac McCarthy's the road  $1http://viaf.org/viaf/92910249/seriousnoticing/12
+* 700  12  $aWood, James  $tDon Quixote's old and new testaments  $1http://viaf.org/viaf/92910249/seriousnoticing/18
+* 700  12  $aWood, James  $tDostoevsky's god  $1http://viaf.org/viaf/92910249/seriousnoticing/19
+* 700  12  $aWood, James  $tElena Ferrante  $1http://viaf.org/viaf/92910249/seriousnoticing/22
+* 700  12  $aWood, James  $tFun stuff: homage to Keith Moon  $1http://viaf.org/viaf/92910249/seriousnoticing/01
+* 700  12  $aWood, James  $tGeorge Orwell's very English revolution  $1http://viaf.org/viaf/92910249/seriousnoticing/11
+* 700  12  $aWood, James  $tHelen Garner's savage honesty  $1http://viaf.org/viaf/92910249/seriousnoticing/20
+* 700  12  $aWood, James  $tHysterical realism  $1http://viaf.org/viaf/92910249/seriousnoticing/08
+* 700  12  $aWood, James  $tIsmail Kadare  $1http://viaf.org/viaf/92910249/seriousnoticing/26
+* 700  12  $aWood, James  $tJane Austen's heroic consciousness  $1http://viaf.org/viaf/92910249/seriousnoticing/11
+* 700  12  $aWood, James  $tJenny Erpenbeck  $1http://viaf.org/viaf/92910249/seriousnoticing/27
+* 700  12  $aWood, James  $tJob existed: Primo Levi  $1http://viaf.org/viaf/92910249/seriousnoticing/24
+* 700  12  $aWood, James  $tJoseph Roth's empire of signs  $1http://viaf.org/viaf/92910249/seriousnoticing/06
+* 700  12  $aWood, James  $tMarilynne Robinson  $1http://viaf.org/viaf/92910249/seriousnoticing/25
+* 700  12  $aWood, James  $tOn not going home  $1http://viaf.org/viaf/92910249/seriousnoticing/15
+* 700  12  $aWood, James  $tOther side of silence: rereading W. G. Sebald  $1http://viaf.org/viaf/92910249/seriousnoticing/16
+* 700  12  $aWood, James  $tPacking my father-in-law's library  $1http://viaf.org/viaf/92910249/seriousnoticing/28
+* 700  12  $aWood, James  $tPaul Auster's shallowness  $1http://viaf.org/viaf/92910249/seriousnoticing/07
+* 700  12  $aWood, James  $tReality examined to the point of madness': László Krasznahorkai  $1http://viaf.org/viaf/92910249/seriousnoticing/13
+* 700  12  $aWood, James  $tSaul Bellow's comic style  $1http://viaf.org/viaf/92910249/seriousnoticing/04
+* 700  12  $aWood, James  $tSerious noticing  $1http://viaf.org/viaf/92910249/seriousnoticing/03
+* 700  12  $aWood, James  $tVirginia Woolf's Mysticism  $1http://viaf.org/viaf/92910249/seriousnoticing/23
+* 700  12  $aWood, James  $tWhat Chekhov meant by life  $1http://viaf.org/viaf/92910249/seriousnoticing/02
+* 700  12  $aWood, James  $tWounder and wounded  $1http://viaf.org/viaf/92910249/seriousnoticing/14
+001 = 18420971 
+* 100  1#  $aMcCarthy, Cormac  $c(Singer)  $1https://isni.org/isni/0000000046450913  $4prf  $4http://rdaregistry.info/Elements/e/object/P20039
+* 240  10  $aColleteral  $kRecodings collection  $1https://isni.org/isni/0000000046450913/collateral
+* 245  10  $aCollateral  $cCormac McCarthy.  $h[sound recording] /
+* 700  12  $aMcCarthy, Cormac  $tBack when I worked on the railroad  $1https://isni.org/isni/0000000046450913/collateral/04
+* 700  12  $aMcCarthy, Cormac  $tCadillac man  $1https://isni.org/isni/0000000046450913/collateral/03
+* 700  12  $aMcCarthy, Cormac  $tDoppelganger.  $1https://isni.org/isni/0000000046450913/collateral/10
+* 700  12  $aMcCarthy, Cormac  $tGotta keep movin'  $1https://isni.org/isni/0000000046450913/collateral/01
+* 700  12  $aMcCarthy, Cormac  $tJailhouse bound  $1https://isni.org/isni/0000000046450913/collateral/09
+* 700  12  $aMcCarthy, Cormac  $tOne a night like this  $1https://isni.org/isni/0000000046450913/collateral/06
+* 700  12  $aMcCarthy, Cormac  $tThe crossroads  $1https://isni.org/isni/0000000046450913/collateral/05
+* 700  12  $aMcCarthy, Cormac  $tThe working poor  $1https://isni.org/isni/0000000046450913/collateral/02
+* 700  12  $aMcCarthy, Cormac  $tWalking on solid ground  $1https://isni.org/isni/0000000046450913/collateral/08
+* 700  12  $aMcCarthy, Cormac  $tYou can't outrun the hounds  $1https://isni.org/isni/0000000046450913/collateral/07
+001 = 18420986 
+* 100  1#  $aMcCarthy, Cormac  $c(Singer)  $1https://isni.org/isni/0000000046450913  $4prf  $4http://rdaregistry.info/Elements/e/object/P20039
+* 240  10  $aCurious thing  $kRecodings collection  $1https://isni.org/isni/0000000046450913/curiousthing
+* 245  10  $aCurious thing  $cCormac McCarthy.  $h[sound recording] /
+* 700  12  $aMcCarthy, Cormac  $tA little something  $1https://isni.org/isni/0000000046450913/curiousthing/11
+* 700  12  $aMcCarthy, Cormac  $tCurious thing in the middle  $1https://isni.org/isni/0000000046450913/curiousthing/02
+* 700  12  $aMcCarthy, Cormac  $tEasy as Pi  $1https://isni.org/isni/0000000046450913/curiousthing/05
+* 700  12  $aMcCarthy, Cormac  $tFishing  $1https://isni.org/isni/0000000046450913/curiousthing/04
+* 700  12  $aMcCarthy, Cormac  $tFollow your heart  $1https://isni.org/isni/0000000046450913/curiousthing/10
+* 700  12  $aMcCarthy, Cormac  $tGreat big day  $1https://isni.org/isni/0000000046450913/curiousthing/08
+* 700  12  $aMcCarthy, Cormac  $tSecond skin  $1https://isni.org/isni/0000000046450913/curiousthing/06
+* 700  12  $aMcCarthy, Cormac  $tSo many miles  $1https://isni.org/isni/0000000046450913/curiousthing/09
+* 700  12  $aMcCarthy, Cormac  $tSpring snow  $1https://isni.org/isni/0000000046450913/curiousthing/01
+* 700  12  $aMcCarthy, Cormac  $tThe asylum of your arms  $1https://isni.org/isni/0000000046450913/curiousthing/03
+* 700  12  $aMcCarthy, Cormac  $tThis beautiful place  $1https://isni.org/isni/0000000046450913/curiousthing/07
+* 700  12  $aMcCarthy, Cormac  $tWhile the world is sleeping.  $1https://isni.org/isni/0000000046450913/curiousthing/12
+001 = 12077961 
+* 100  1#  $aMcCarthy, Cormac  $c(Singer)  $1https://isni.org/isni/0000000046450913  $4prf  $4http://rdaregistry.info/Elements/e/object/P20039
+* 240  10  $aPicture gallery blues  $kRecodings collection  $1https://isni.org/isni/0000000046450913/picturegalleryblues
+* 245  10  $aPicture gallery blues  $cCormac McCarthy.  $h[sound recording] /
+* 700  12  $aMcCarthy, Cormac  $tBlue Cadillac  $1https://isni.org/isni/0000000046450913/picturegalleryblues/02
+* 700  12  $aMcCarthy, Cormac  $tLast ditch  $1https://isni.org/isni/0000000046450913/picturegalleryblues/10
+* 700  12  $aMcCarthy, Cormac  $tLight at the top of the stairs  $1https://isni.org/isni/0000000046450913/picturegalleryblues/05
+* 700  12  $aMcCarthy, Cormac  $tMap of your heart  $1https://isni.org/isni/0000000046450913/picturegalleryblues/03
+* 700  12  $aMcCarthy, Cormac  $tMarigold Hall  $1https://isni.org/isni/0000000046450913/picturegalleryblues/09
+* 700  12  $aMcCarthy, Cormac  $tPicture gallery blues  $1https://isni.org/isni/0000000046450913/picturegalleryblues/04
+* 700  12  $aMcCarthy, Cormac  $tRun away  $1https://isni.org/isni/0000000046450913/picturegalleryblues/08
+* 700  12  $aMcCarthy, Cormac  $tSmall house  $1https://isni.org/isni/0000000046450913/picturegalleryblues/06
+* 700  12  $aMcCarthy, Cormac  $tThat's how it is  $1https://isni.org/isni/0000000046450913/picturegalleryblues/07
+* 700  12  $aMcCarthy, Cormac  $tThe immigrant gangster  $1https://isni.org/isni/0000000046450913/picturegalleryblues/01
+001 = 5628905 
+* 100  1#  $aMcCarthy, Cormac  $c(Singer)  $1https://isni.org/isni/0000000046450913  $4prf  $4http://rdaregistry.info/Elements/e/object/P20039
+* 240  10  $aTroubled sleep  $kRecodings collection  $1https://isni.org/isni/0000000046450913/troubledsleep
+* 245  10  $aTroubled sleep /  $cCormac McCarthy.
+* 700  12  $aMcCarthy, Cormac  $tCows  $1https://isni.org/isni/0000000046450913/troubledsleep/07
+* 700  12  $aMcCarthy, Cormac  $tDreams  $1https://isni.org/isni/0000000046450913/troubledsleep/06
+* 700  12  $aMcCarthy, Cormac  $tEmpty promises  $1https://isni.org/isni/0000000046450913/troubledsleep/00
+* 700  12  $aMcCarthy, Cormac  $tLife outside these walls  $1https://isni.org/isni/0000000046450913/troubledsleep/01
+* 700  12  $aMcCarthy, Cormac  $tNobody but you  $1https://isni.org/isni/0000000046450913/troubledsleep/02
+* 700  12  $aMcCarthy, Cormac  $tTroubled sleep.  $1https://isni.org/isni/0000000046450913/troubledsleep/09
+* 700  12  $aMcCarthy, Cormac  $tWaltz with the Captain's daughter  $1https://isni.org/isni/0000000046450913/troubledsleep/08
+* 700  12  $aMcCarthy, Cormac  $tWhen my boat is built again  $1https://isni.org/isni/0000000046450913/troubledsleep/04
+* 700  12  $aMcCarthy, Cormac  $tWhy don't you stay  $1https://isni.org/isni/0000000046450913/troubledsleep/05
+* 700  12  $aMcCarthy, Cormac  $tWild beneath my window  $1https://isni.org/isni/0000000046450913/troubledsleep/03
 
 
 Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke analytter)
 -------------------------------------------------------
+001 = 999919962104602202,  /  
+* http://rdaregistry.info/Elements/w/object/P10129 (is motion picture adaptation of work) -> No country for old men (758)
+001 = 999920049602702202, The Road /  
+* http://rdaregistry.info/Elements/w/object/P10129 (is motion picture adaptation of work) -> The road (758)
 001 = 017972032, The road / Penhall, Joe, /  
 * http://rdaregistry.info/Elements/w/object/P10134 (is motion picture screenplay based on work) -> The road (758)
 001 = 017949238, The road / Penhall, Joe. /  
@@ -383,6 +524,12 @@ Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke an
 * http://rdaregistry.info/Elements/w/object/P10134 (is motion picture screenplay based on work) -> The road (758)
 001 = 015532270, The road / Penhall, Joe. /  
 * http://rdaregistry.info/Elements/w/object/P10134 (is motion picture screenplay based on work) -> The road (758)
+001 = 15894496, No country for old men (Motion picture) /  
+* http://rdaregistry.info/Elements/w/object/P10129 (is motion picture adaptation of work) -> No country for old men (758)
+001 = 20236694, No country for old men (Motion picture) / Motion picture 
+* http://rdaregistry.info/Elements/w/object/P10129 (is motion picture adaptation of work) -> No country for old men (758)
+001 = 20691857, Road (Motion picture : 2009) /  
+* http://rdaregistry.info/Elements/w/object/P10129 (is motion picture adaptation of work) -> The road (758)
 001 = 16178826, The road / Penhall, Joe. /  
 * http://rdaregistry.info/Elements/w/object/P10134 (is motion picture screenplay based on work) -> The road (758)
 
@@ -562,7 +709,6 @@ Poster som mangler 336, 337, 338, 380
 001: 015302009 mangler følgende felt:  380 
 001: 015302006 mangler følgende felt:  380 
 001: 015302005 mangler følgende felt:  380 
-001: 014777085 mangler følgende felt:  380 
 001: 014769653 mangler følgende felt:  380 
 001: 014765444 mangler følgende felt:  380 
 001: 013746990 mangler følgende felt:  380 
@@ -579,7 +725,6 @@ Poster som mangler 336, 337, 338, 380
 001: 010044365 mangler følgende felt:  380 
 001: 010044241 mangler følgende felt:  380 
 001: 010044091 mangler følgende felt:  380 
-001: 008509995 mangler følgende felt:  380 
 001: 007912711 mangler følgende felt:  380 
 001: 006723335 mangler følgende felt:  380 
 001: 002304723 mangler følgende felt:  380 
@@ -588,7 +733,6 @@ Poster som mangler 336, 337, 338, 380
 001: 20395066 mangler følgende felt:  336, 337, 338, 380 
 001: 15894496 mangler følgende felt:  336, 337, 338, 380 
 001: 20691857 mangler følgende felt:  336, 337, 338, 380 
-001: 15129827 mangler følgende felt:  380 
 001: 3452434 mangler følgende felt:  380 
 001: 3908335 mangler følgende felt:  380 
 001: 15039940 mangler følgende felt:  380 
@@ -626,9 +770,9 @@ Poster som mangler 336, 337, 338, 380
 001: 12818163 mangler følgende felt:  380 
 001: 2407281 mangler følgende felt:  380 
 001: 2265807 mangler følgende felt:  380 
+001: 16178826 mangler følgende felt:  380 
+001: 21222329 mangler følgende felt:  380 
 001: 18420971 mangler følgende felt:  380 
 001: 18420986 mangler følgende felt:  380 
 001: 12077961 mangler følgende felt:  380 
 001: 5628905 mangler følgende felt:  380 
-001: 16178826 mangler følgende felt:  380 
-001: 21222329 mangler følgende felt:  380 
