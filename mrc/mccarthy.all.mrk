@@ -56,7 +56,8 @@
 =041  1\$heng
 =082  74$a813$qNO-OsNB$25/nor
 =100  1\$aMcCarthy, Cormac$d1933-2023$0(NO-TrBIB)90348328$1http://viaf.org/viaf/29558386$4http://rdaregistry.info/Elements/w/object/P10061
-=240  14$aThe border trilogy$kNovel$1http://viaf.org/viaf/175871715
+=240  14$aThe border trilogy$kNovel$1http://viaf.org/viaf/175871715$8p
+
 =245  10$aGrensetrilogien$cCormac McCarthy ; oversatt fra engelsk av Knut Ofstad
 =246  1\$aAll the pretty horses$iOriginaltittel
 =246  1\$aCities of the plain$iOriginaltittel
@@ -71,13 +72,14 @@
 =500  \\$aInnhold; Alle de vakre hestene ; Over grensen ; Byene på høysletten
 =500  \\$aOpplagshistorikk:  Gyldendal pocket, 2. oppl. 2007
 =700  1\$aOfstad, Knut$4trl$1http://viaf.org/viaf/225596267$4http://rdaregistry.info/Elements/e/object/P20037
-=700  12$aMcCarthy, Cormac,$d1933-2023.$tAll the pretty horses.$1http://viaf.org/viaf/214001528
-=700  12$aMcCarthy, Cormac,$d1933-2023.$tCities of the plain.$1http://viaf.org/viaf/3417153653286155900001
-=700  12$aMcCarthy, Cormac,$d1933-2023.$tCrossing.$1http://viaf.org/viaf/309357400
-=740  0\$aAlle de vakre hestene
-=740  0\$aByene på høysletten
-=740  0\$aOver grensen
+=700  12$aMcCarthy, Cormac,$d1933-2023.$tAll the pretty horses.$1http://viaf.org/viaf/214001528$8c1
+=700  12$aMcCarthy, Cormac,$d1933-2023.$tCities of the plain.$1http://viaf.org/viaf/3417153653286155900001$8c3
+=700  12$aMcCarthy, Cormac,$d1933-2023.$tCrossing.$1http://viaf.org/viaf/309357400$8c2
+=740  0\$aAlle de vakre hestene$8c1
+=740  0\$aByene på høysletten$8c3
+=740  0\$aOver grensen$8c2
 =830  \0$aGyldendal pocket
+=740  14$aGrensetriologien$8p
 
 =LDR  01224cam a2200289 c 4500
 =001  990717313854702202
@@ -397,6 +399,7 @@
 =337  \\$aunmediated$2rdamedia$0http://rdaregistry.info/termList/RDAMediaType/1007
 =338  \\$avolume$2rdacarrier$0http://rdaregistry.info/termList/RDACarrierType/1049
 =773  08$iInkludert i$aMcCarthy, Cormac, 1933-$tGrensetrilogien$dOslo : Gyldendal, 1993-1999$g1$w999321888264702201
+=700  1\$aOfstad, Knut$4trl$1http://viaf.org/viaf/225596267$4http://rdaregistry.info/Elements/e/object/P20037
 
 =LDR  01158cam a2200289 c 4500
 =001  999411795244702202
@@ -443,6 +446,7 @@
 =337  \\$aunmediated$2rdamedia$0http://rdaregistry.info/termList/RDAMediaType/1007
 =338  \\$avolume$2rdacarrier$0http://rdaregistry.info/termList/RDACarrierType/1049
 =773  08$iInkludert i$aMcCarthy, Cormac, 1933-$tGrensetrilogien$dOslo : Gyldendal, 1993-1999$g2$w999321888264702201
+=700  1\$aOfstad, Knut$4trl$1http://viaf.org/viaf/225596267$4http://rdaregistry.info/Elements/e/object/P20037
 
 =LDR  01260cam a2200289 c 4500
 =001  999616207814702202
@@ -483,7 +487,11 @@
 =246  1\$aCities of the plain$iOriginaltittel
 =260  \\$aOslo$bGyldendal$c1999
 =300  \\$a266 s.
+=336  \\$atext$2rdacontent$0http://rdaregistry.info/termList/RDAContentType/1020
+=337  \\$aunmediated$2rdamedia$0http://rdaregistry.info/termList/RDAMediaType/1007
+=338  \\$avolume$2rdacarrier$0http://rdaregistry.info/termList/RDACarrierType/1049
 =773  08$iInkludert i$aMcCarthy, Cormac, 1933-$tGrensetrilogien$dOslo : Gyldendal, 1993-1999$gB. 3$w999321888264702201
+=700  1\$aOfstad, Knut$4trl$1http://viaf.org/viaf/225596267$4http://rdaregistry.info/Elements/e/object/P20037
 
 =LDR  01870cgm a2200421 c 4500
 =001  999919962104602202
@@ -511,12 +519,11 @@
 =500  \\$aProduksjon: USA : Paramount Vantage/Miramax Films, 2007
 =500  \\$aRolleliste: Javier Bardem, Tommy Lee Jones, Josh Brolin
 =500  \\$aThriller
-=700  1\$aBardem, Javier$d1969-$0(NO-TrBIB)1016701$4act
-=700  1\$aBrolin, Josh$d1968-$0(NO-TrBIB)8048461$4act
-=700  1\$aCoen, Ethan$d1957-$0(NO-TrBIB)90809840$4pro$4drt$4aus
-=700  1\$aCoen, Joel$d1954-$0(NO-TrBIB)90809839$4pro$4drt$4aus
-=700  1\$aJones, Tommy Lee$d1946-$0(NO-TrBIB)98014251$4act
-=700  12$aMcCarthy, Cormac$d1933-2023$tNo country for old men$0(NO-TrBIB)90348328$4aut
+=700  1\$aBardem, Javier$d1969-$0(NO-TrBIB)1016701$4act$1https://isni.org/isni/0000000121413793$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aBrolin, Josh$d1968-$0(NO-TrBIB)8048461$4act$1https://isni.org/isni/0000000109217300$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aCoen, Ethan$d1957-$0(NO-TrBIB)90809840$4pro$4drt$4aus$1https://isni.org/isni/0000000121417460$efilm producer$4http://rdaregistry.info/Elements/w/object/P10013$escreenwriter$4http://rdaregistry.info/Elements/w/object/P10073$4http://rdaregistry.info/Elements/w/object/P10203
+=700  1\$aCoen, Joel$d1954-$0(NO-TrBIB)90809839$4pro$4drt$4aus$1https://isni.org/isni/0000000120296767$4$4http://rdaregistry.info/Elements/w/object/P10013$4http://rdaregistry.info/Elements/w/object/P10073$4http://rdaregistry.info/Elements/w/object/P10203
+=700  1\$aJones, Tommy Lee$d1946-$0(NO-TrBIB)98014251$4act$1https://isni.org/isni/000000010921736X$4http://rdaregistry.info/Elements/e/object/P20012
 =758  10$aNo country for old men$1http://viaf.org/viaf/214012164$4http://rdaregistry.info/Elements/w/object/P10129
 =830  \0$aS film
 
@@ -581,12 +588,11 @@
 =511  1\$aViggo Mortensen, Kodi Smit-McPhee, Robert Duvall, Charlize Theron m.fl.
 =521  \\$aAldersgrense 15 år
 =600  1\$tThe road
-=700  1\$aDuvall, Robert$d1931-$0(NO-TrBIB)90924709$4act
-=700  1\$aHillcoat, John$d1961-$0(NO-TrBIB)7006925$4drt
-=700  1\$aMortensen, Viggo$d1958-$0(NO-TrBIB)90257820$4act
-=700  1\$aSmit-McPhee, Kodi$d1996-$0(NO-TrBIB)10065593$4act
-=700  1\$aTheron, Charlize$d1975-$0(NO-TrBIB)1006566$4act
-=700  12$aMcCarthy, Cormac$d1933-2023$tThe road$0(NO-TrBIB)90348328$4aut
+=700  1\$aDuvall, Robert$d1931-$0(NO-TrBIB)90924709$4act$1https://isni.org/isni/0000000114558548$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aHillcoat, John$d1961-$0(NO-TrBIB)7006925$4drt$1https://isni.org/isni/0000000108589241$4http://rdaregistry.info/Elements/w/object/P10013
+=700  1\$aMortensen, Viggo$d1958-$0(NO-TrBIB)90257820$4act$1https://isni.org/isni/0000000110296296$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aSmit-McPhee, Kodi$d1996-$0(NO-TrBIB)10065593$4act$1https://isni.org/isni/0000000114563013$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aTheron, Charlize$d1975-$0(NO-TrBIB)1006566$4act$1https://isni.org/isni/0000000114973899$4http://rdaregistry.info/Elements/e/object/P20012
 =758  10$aThe road$1http://viaf.org/viaf/220031159$4http://rdaregistry.info/Elements/w/object/P10129
 
 =LDR  00815cam a2200205 c 4500
@@ -632,12 +638,14 @@
 =500  \\$aProduksjon: USA : Columbia/Miramax, 2000.
 =500  \\$aRolleliste: Matt Damon, Henry Thomas, Penelope Cruz.
 =500  \\$aWidescreen.
-=700  1\$aCruz, Penélope$d1974-$0(NO-TrBIB)1081340
-=700  1\$aDamon, Matt$d1970-$0(NO-TrBIB)99009373
-=700  1\$aThomas, Henry$d1971-$0(NO-TrBIB)1081341
-=700  1\$aThornton, Billy Bob$d1955-$0(NO-TrBIB)98079481
+=700  1\$aCruz, Penélope$d1974-$0(NO-TrBIB)1081340$1https://isni.org/isni/0000000109011804$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aDamon, Matt$d1970-$0(NO-TrBIB)99009373$1https://isni.org/isni/000000012142082X$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aThomas, Henry$d1971-$0(NO-TrBIB)1081341$1https://isni.org/isni/0000000108854789$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aThornton, Billy Bob$d1955-$0(NO-TrBIB)98079481$1https://isni.org/isni/0000000120961536$4http://rdaregistry.info/Elements/w/object/P10013$4http://rdaregistry.info/Elements/w/object/P10073
+=700  1\$aSalerno, Robert$1https://isni.org/isni/0000000042755920$4http://rdaregistry.info/Elements/w/object/P10073
 =700  12$aMcCarthy, Cormac$d1933-2023$tAll the pretty horses$0(NO-TrBIB)90348328
 =740  0\$aAlle de vakre hestene
+=758  \\$aAlle de vakre hestene$1$1http://viaf.org/viaf/214001528$4http://rdaregistry.info/Elements/w/object/P10129
 
 =LDR  02032cam a2200277 c 4500
 =001  999920323910002202
@@ -835,16 +843,13 @@
 =490  1\$aGrensetrilogien$v2
 =500  \\$a1. norske utgave 1995
 =520  \\$a1972, Black River Falls, Wisconsin. Alicia Western, tjue år gammel og med førti tusen dollar i en plastpose, ber om å bli innlagt på et sykehus. Hun holder på å ta en doktorgrad i matematikk ved University of Chicago, og er diagnostisert med paranoid schizofrreni. Hun vil ikke snakke om broren sin, Bobby. I stedet reflekterer hun over psykiske lidelser, og hvordan mennesker insisterer på én felles oppfatning av verden. Hun husker en barndom der hennes egen bestemor fryktet for henne da hun bare var syv år gammel. Hun drøfter skjæringspunktet mellom fysikk og filosofi, og hun introduserer hallusinasjonene bare hun kan se. Og hele tiden sørger hun over Bobby, som fortsatt ikke er helt død, og som ikke er helt hennes. «Stella Maris» bli kun fortalt gjennom transkripsjoner av Alicias terapitimer.
-=662  \\$aMexico$0(NO-OsBA)1439077$2bibbi$9nno
-=662  \\$aMexico$0(NO-OsBA)1439077$2bibbi$9nob
-=662  \\$aUSA$bNew Mexico$0(NO-OsBA)1439451$2bibbi$9nno
-=662  \\$aUSA$bNew Mexico$0(NO-OsBA)1439451$2bibbi$9nob
 =700  1\$aMcCarthy, Cormac$d1933-2023$tThe crossing$lNorsk$0(NO-TrBIB)90348328
 =700  1\$aOfstad, Knut$4trl$1http://viaf.org/viaf/225596267$4http://rdaregistry.info/Elements/e/object/P20037
 =700  1\$iOversettelse av:$aMcCarthy, Cormac$d1933-2023$tThe crossing$lEngelsk$0(NO-TrBIB)90348328
 =780  00$tAlle de vakre hestene
 =785  00$tByene på høysletten
 =800  1\$aMcCarthy, Cormac$d1933-2023$tThe border trilogy$lNorsk$v2$0(NO-TrBIB)90348328
+=700  1\$aOfstad, Knut$4trl$1http://viaf.org/viaf/225596267$4http://rdaregistry.info/Elements/e/object/P20037
 
 =LDR  02032cam a2200325 c 4500
 =001  999920419701902202
@@ -2311,16 +2316,16 @@
 =511  1\$aMichael Fassbender, Penélope Cruz, Cameron Diaz, Javier Bardem, Brad Pitt.
 =520  \\$a"Ridley Scott's The Counselor, from a script by Cormac McCarthy, stars Michael Fassbender as the title character, a slick lawyer who is madly in love with Laura (Penelope Cruz). He asks her to marry him, and she agrees, though she is unaware that serious financial troubles have prompted him to fund a drug deal with a shady but established middle man named Westray (Brad Pitt), that could bring in millions. Part of the counselor's financial troubles stem from the fact that he's investing in a club being opened by his best friend Reiner (Javier Bardem), a hedonist and occasional client who has attained his wealth by any means necessary, and likes to keep his wife, Malkina (Cameron Diaz) covered in all the accoutrements the wealthy enjoy. However, when the drug deal starts to go wrong, the counselor finds himself unprepared to deal with the fallout, and soon he's trying to protect his bride-to-be as well as himself from the wrath of a drug cartel that has no qualms about exacting revenge"--Allmovie.com, viewed March 12, 2018.
 =521  8\$aMPAA rating: R.
-=700  1\$aBardem, Javier,$d1969-$ecast.
-=700  1\$aCruz, Penélope,$ecast.
-=700  1\$aDiaz, Cameron,$ecast.
-=700  1\$aFassbender, Michael,$d1977-$ecast.
-=700  1\$aMcCarthy, Cormac,$d1933-2023,$ewriting.
-=700  1\$aPitt, Brad,$d1963-$ecast.
-=700  1\$aSchwartz, Paula Mae,$eproduction.
-=700  1\$aSchwartz, Steve,$eproduction.
-=700  1\$aScott, Ridley,$edirection,$eproduction.
-=700  1\$aWechsler, Nick,$eproduction.
+=700  1\$aBardem, Javier,$d1969-$ecast.$1https://isni.org/isni/0000000121413793$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aCruz, Penélope,$ecast.$1https://isni.org/isni/0000000109011804$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aDiaz, Cameron,$ecast.$1https://isni.org/isni/000000011471482X$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aFassbender, Michael,$d1977-$ecast.$1https://isni.org/isni/0000000115669792$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aMcCarthy, Cormac,$d1933-2023,$ewriting.$1http://viaf.org/viaf/29558386$4http://rdaregistry.info/Elements/w/object/P10203
+=700  1\$aPitt, Brad,$d1963-$ecast.$1https://isni.org/isni/0000000114380049$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aSchwartz, Paula Mae,$eproduction.$1https://www.imdb.com/name/nm2445382$4http://rdaregistry.info/Elements/w/object/P10073
+=700  1\$aSchwartz, Steve,$eproduction.$1https://www.imdb.com/name/nm0777455$4http://rdaregistry.info/Elements/w/object/P10073
+=700  1\$aScott, Ridley,$edirection,$eproduction.$1https://isni.org/isni/0000000116899928$4http://rdaregistry.info/Elements/w/object/P10013$efilm producer$4http://rdaregistry.info/Elements/w/object/P10073
+=700  1\$aWechsler, Nick,$eproduction.$1https://isni.org/isni/0000000063018399$4http://rdaregistry.info/Elements/w/object/P10073
 =710  2\$aChockstone Pictures.
 =710  2\$aCopyright Collection (Library of Congress)$5DLC
 =710  2\$aFox 2000 Pictures.
@@ -2378,19 +2383,19 @@
 =521  8\$aDisc 1, MPAA rating: R; graphic violence, some grisly images, strong sexual content and language$aDisc 2, MPAA rating: Unrated; contains material different from the R-rated version.
 =538  \\$aBlu-ray; requires Blu-ray player.
 =546  \\$aEnglish (DTS-HD Master Audio 5.1) (discs 1-2), French (Dolby digital 5.1) (disc 1) or Spanish (Dolby digital 5.1) (disc 1) dialogue; Spanish (discs 1-2) or French (disc 2) subtitles; English subtitled for the deaf and hard of hearing (discs 1-2); English described audio (disc 1).
-=700  1\$aBardem, Javier,$d1969-$eactor.
-=700  1\$aCruz, Penélope,$eactor.
-=700  1\$aDiaz, Cameron,$eactor.
-=700  1\$aFassbender, Michael,$d1977-$eactor.
-=700  1\$aMcCarthy, Cormac,$d1933-2023,$escreenwriter.
-=700  1\$aPemberton, Daniel,$ecomposer.
-=700  1\$aPitt, Brad,$d1963-$eactor.
-=700  1\$aScalia, Pietro,$d1960-$eeditor of moving image work.
-=700  1\$aSchwartz, Paula Mae,$efilm producer.
-=700  1\$aSchwartz, Steve,$efilm producer.
-=700  1\$aScott, Ridley,$efilm producer,$efilm director.
-=700  1\$aWechsler, Nick,$efilm producer.
-=700  1\$aWolski, Dariusz A.,$ecinematographer.
+=700  1\$aBardem, Javier,$d1969-$eactor.$1https://isni.org/isni/0000000121413793$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aCruz, Penélope,$eactor.$1https://isni.org/isni/0000000109011804$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aDiaz, Cameron,$eactor.$1https://isni.org/isni/000000011471482X$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aFassbender, Michael,$d1977-$eactor.$1https://isni.org/isni/0000000115669792$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aMcCarthy, Cormac,$d1933-2023,$escreenwriter.$1http://viaf.org/viaf/29558386$4http://rdaregistry.info/Elements/w/object/P10203
+=700  1\$aPemberton, Daniel,$ecomposer.$1https://isni.org/isni/0000000003044835$4http://rdaregistry.info/Elements/w/object/P10053
+=700  1\$aPitt, Brad,$d1963-$eactor.$1https://isni.org/isni/0000000114380049$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aScalia, Pietro,$d1960-$eeditor of moving image work.$1https://isni.org/isni/000000011477315X$4http://rdaregistry.info/Elements/e/object/P20055
+=700  1\$aSchwartz, Paula Mae,$efilm producer.$1https://www.imdb.com/name/nm2445382$4http://rdaregistry.info/Elements/w/object/P10073
+=700  1\$aSchwartz, Steve,$efilm producer.$1https://www.imdb.com/name/nm0777455$4http://rdaregistry.info/Elements/w/object/P10073
+=700  1\$aScott, Ridley,$efilm director.$1https://isni.org/isni/0000000116899928$4http://rdaregistry.info/Elements/w/object/P10013$efilm producer$4http://rdaregistry.info/Elements/w/object/P10073
+=700  1\$aWechsler, Nick,$efilm producer.$1https://isni.org/isni/0000000063018399$4http://rdaregistry.info/Elements/w/object/P10073
+=700  1\$aWolski, Dariusz A.,$ecinematographer.$1https://isni.org/isni/0000000116794245$4http://rdaregistry.info/Elements/w/object/P10068
 =710  2\$aChockstone Pictures,$eproduction company.
 =710  2\$aCopyright Collection (Library of Congress)$5DLC
 =710  2\$aFox 2000 Pictures,$epresenter.
@@ -2421,13 +2426,12 @@
 =511  1\$aTommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson, Kelly Macdonald, Garret Dillahunt, Tess Harper, Barry Corbin, Stephen Root, Rodger Boyce, Beth Grant, Ana Reeder.
 =520  \\$aWhen a Vietnam veteran discovers two million dollars while wandering through the aftermath of a Texas drug deal gone awry, his decision to abscond with the cash sets off a violent chain reaction in a once peaceful Texas town.
 =521  \\$aMPAA rating: R.
-=700  1\$aBardem, Javier,$d1969-$ecast.
-=700  1\$aBrolin, Josh,$ecast.
-=700  1\$aCoen, Ethan,$edirection,$eproduction,$ewriting.
-=700  1\$aCoen, Joel,$edirection,$eproduction,$ewriting.
-=700  1\$aJones, Tommy Lee,$d1946-$ecast.
-=700  1\$aMcCarthy, Cormac,$d1933-2023.$tNo country for old men.
-=700  1\$aRudin, Scott,$d1958-$eproduction.
+=700  1\$aBardem, Javier,$d1969-$ecast.$1https://isni.org/isni/0000000121413793$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aBrolin, Josh,$ecast.$1https://isni.org/isni/0000000109217300$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aCoen, Ethan,$edirection,$eproduction,$ewriting.$1https://isni.org/isni/0000000121417460$4http://rdaregistry.info/Elements/w/object/P10013$4http://rdaregistry.info/Elements/w/object/P10073$4http://rdaregistry.info/Elements/w/object/P10203
+=700  1\$aCoen, Joel,$edirection,$eproduction,$ewriting.$1https://isni.org/isni/0000000120296767$4$4http://rdaregistry.info/Elements/w/object/P10013$4http://rdaregistry.info/Elements/w/object/P10073$4http://rdaregistry.info/Elements/w/object/P10203
+=700  1\$aJones, Tommy Lee,$d1946-$ecast.$1https://isni.org/isni/000000010921736X$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aRudin, Scott,$d1958-$eproduction.$1https://isni.org/isni/0000000080773273$4http://rdaregistry.info/Elements/w/object/P10073
 =710  2\$aCopyright Collection (Library of Congress)$5DLC
 =710  2\$aMiramax Films.
 =710  2\$aParamount Vantage.
@@ -2474,17 +2478,16 @@
 =538  \\$aRequires Blu-ray player.
 =546  \\$aEnglish dialogue; optional English subtitled for the deaf and hard of hearing; optional French or Spanish subtitles.
 =586  8\$aAcademy Awards, 2008: Best Achievement in Directing; Best Motion Picture of the Year; Best Performance by an Actor in a Supporting Role (Bardem); Best Writing, Screenplay Based on Material Previously Produced or Published
-=700  1\$aBardem, Javier,$d1969-$eactor.
-=700  1\$aBrolin, Josh,$eactor.
-=700  1\$aCoen, Ethan,$efilm director,$efilm producer,$escreenwriter.
-=700  1\$aCoen, Joel,$efilm director,$efilm producer,$escreenwriter.
-=700  1\$aJones, Tommy Lee,$d1946-$eactor.
-=700  1\$aRudin, Scott,$d1958-$efilm producer.
-=700  1\$iMotion picture adaptation of (work):$aMcCarthy, Cormac,$d1933-2023.$tNo country for old men.
+=700  1\$aBardem, Javier,$d1969-$eactor.$1https://isni.org/isni/0000000121413793$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aBrolin, Josh,$eactor.$1https://isni.org/isni/0000000109217300$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aCoen, Ethan,$efilm director$1https://isni.org/isni/0000000121417460$efilm producer$4http://rdaregistry.info/Elements/w/object/P10013$escreenwriter$4http://rdaregistry.info/Elements/w/object/P10073$4http://rdaregistry.info/Elements/w/object/P10203
+=700  1\$aCoen, Joel,$efilm director,$efilm producer,$escreenwriter.$1https://isni.org/isni/0000000120296767$4http://rdaregistry.info/Elements/w/object/P10013$4http://rdaregistry.info/Elements/w/object/P10073$4http://rdaregistry.info/Elements/w/object/P10203
+=700  1\$aJones, Tommy Lee,$d1946-$eactor.$1https://isni.org/isni/000000010921736X$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aRudin, Scott,$d1958-$efilm producer.$1https://isni.org/isni/0000000080773273$4http://rdaregistry.info/Elements/w/object/P10073
 =710  2\$aBuena Vista Home Entertainment (Firm),$efilm distributor.
 =710  2\$aMiramax Films,$eproduction company.
 =710  2\$aParamount Vantage,$eproduction company.
-=758  10$aNo country for old men$1http://viaf.org/viaf/214012164$4http://rdaregistry.info/Elements/w/object/P10129
+=758  10$iMotion picture adaptation of (work):$aNo country for old men$1http://viaf.org/viaf/214012164$4http://rdaregistry.info/Elements/w/object/P10129
 =773  0\$tSnelson (John) Collection (Library of Congress)
 
 =LDR  03055cgm a22004817a 4500
@@ -2511,14 +2514,13 @@
 =511  1\$aViggo Mortensen, Kodi Smit-McPhee, Robert Duvall, Charlize Theron, Guy Pearce.
 =520  \\$a"A father (Viggo Mortensen) and son make their way across a post-apocalyptic United States in hopes of finding civilization amongst the nomadic cannibal tribes in 2929 Productions' adaptation of Cormac McCarthy's thrilling Pulitzer Prize-winning novel The Road. John Hillcoat (The Proposition) directs from a screenplay provided by Joe Penhall. Charlize Theron co-stars in the Dimension Films release"--Allmovie.com, viewed October 1, 2018.
 =521  8\$aMPAA rating: R.
-=700  1\$aDuvall, Robert,$ecast.
-=700  1\$aHillcoat, John,$d1961-$edirection.
-=700  1\$aMcCarthy, Cormac,$d1933-2023.$tRoad.
-=700  1\$aMortensen, Viggo,$d1958-$ecast.
-=700  1\$aPenhall, Joe,$ewriting.
-=700  1\$aSchwartz, Paula Mae,$eproduction.
-=700  1\$aSmit-McPhee, Kodi,$ecast.
-=700  1\$aWechsler, Nick,$eproduction.
+=700  1\$aDuvall, Robert,$ecast.$1https://isni.org/isni/0000000114558548$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aHillcoat, John,$d1961-$edirection.$1https://isni.org/isni/0000000108589241$4http://rdaregistry.info/Elements/w/object/P10013
+=700  1\$aMortensen, Viggo,$d1958-$ecast.$1https://isni.org/isni/0000000110296296$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aPenhall, Joe,$ewriting.$1http://viaf.org/viaf/5191807$4http://rdaregistry.info/Elements/w/object/P10203
+=700  1\$aSchwartz, Paula Mae,$eproduction.$1https://www.imdb.com/name/nm2445382$4http://rdaregistry.info/Elements/w/object/P10073
+=700  1\$aSmit-McPhee, Kodi,$ecast.$1https://isni.org/isni/0000000114563013$4http://rdaregistry.info/Elements/e/object/P20012
+=700  1\$aWechsler, Nick,$eproduction.$1https://isni.org/isni/0000000063018399$4http://rdaregistry.info/Elements/w/object/P10073
 =710  2\$a2929 Productions (Firm)
 =710  2\$aChockstone Pictures.
 =710  2\$aCopyright Collection (Library of Congress)$5DLC
@@ -2590,7 +2592,7 @@
 =500  \\$aIn container (18 cm.).
 =511  0\$aRead by Brad Pitt.
 =520  \\$aThe story of John Grady Cole, who at 16 finds himself at the dying end of a long line of Texas ranchers, cut off from the only life he has ever imagined for himself. To escape a society moving all the wrong directions, Cole and two companions decide to seek their fortune in Mexico. But what begins as an idyllic adventure leads to a place where dreams are paid for in blood.
-=700  1\$aPitt, Brad,$d1963-$4nrt
+=700  1\$aPitt, Brad,$d1963-$4nrt$1https://isni.org/isni/0000000114380049$4http://rdaregistry.info/Elements/e/object/P20022
 =800  1\$aMcCarthy, Cormac,$d1933-2023.$tBorder trilogy ;$vv. 1.
 
 =LDR  01082cam a2200253 a 4500
@@ -2867,7 +2869,7 @@
 =500  \\$aIn container (18 cm.).
 =511  0\$aRead by Brad Pitt.
 =520  \\$aBilly and Boyd Parham are two boys living in New Mexico on the cusp of unimaginable events in the years before the Second World War. First comes a trespassing Indian and the dream of wolves running wild among cattle. Billy traps a she-wolf, intending to restore it to the mountains of New Mexico. But when he returns, he finds everything he left behind utterly transformed.
-=700  1\$aPitt, Brad,$d1963-$4nrt
+=700  1\$aPitt, Brad,$d1963-$4nrt$1https://isni.org/isni/0000000114380049$4http://rdaregistry.info/Elements/e/object/P20022
 =800  1\$aMcCarthy, Cormac,$d1933-2023.$tBorder trilogy ;$vv. 2.
 
 =LDR  01036cam a2200241 a 4500

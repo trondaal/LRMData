@@ -12620,7 +12620,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/214001528/exp/eng/1013"
+                    "value": "http://viaf.org/viaf/214001528/exp/eng/1013/0000000114380049"
                 }
             },
             {
@@ -12635,7 +12635,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "https://www.imdb.com/title/tt0477348/exp/eng"
+                    "value": "https://www.imdb.com/title/tt0477348/exp/1023"
                 }
             },
             {
@@ -14675,7 +14675,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/309357400/exp/eng/1013"
+                    "value": "http://viaf.org/viaf/309357400/exp/eng/1013/0000000114380049"
                 }
             },
             {
@@ -15125,7 +15125,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/214001528/exp/nob/1020"
+                    "value": "http://viaf.org/viaf/214001528/exp/nob/1020/225596267"
                 }
             },
             {
@@ -15155,7 +15155,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/309357400/exp/nob/1020"
+                    "value": "http://viaf.org/viaf/309357400/exp/nob/1020/225596267"
                 }
             },
             {
@@ -15185,7 +15185,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/3417153653286155900001/exp/nob"
+                    "value": "http://viaf.org/viaf/3417153653286155900001/exp/nob/1020/225596267"
                 }
             },
             {
@@ -24071,37 +24071,7 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/214001528/exp/eng/1013"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "REALIZES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/214001528"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/214001528/exp/eng/1020"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "REALIZES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/214001528"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/214001528/exp/nob/1020"
                 },
                 "l": {
                     "xml:lang": "gden",
@@ -24306,51 +24276,6 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/29558386/gardenersson"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/309357400/exp/eng/1013"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "REALIZES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/309357400"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/309357400/exp/nob/1020"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "REALIZES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/309357400"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/3417153653286155900001/exp/nob"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "REALIZES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/3417153653286155900001"
                 }
             },
             {
@@ -25601,21 +25526,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "https://www.imdb.com/title/tt0477348/exp/eng"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "REALIZES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "https://www.imdb.com/title/tt0477348"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "https://www.psupress.org/journals/jnls_CormacMcCarthy.html/exp/eng/1020"
                 },
                 "l": {
@@ -25686,6 +25596,36 @@
                 "o": {
                     "type": "uri",
                     "value": "https://www.imdb.com/title/tt0898367"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/214001528/exp/eng/1013/0000000114380049"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/214001528"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/309357400/exp/eng/1013/0000000114380049"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/309357400"
                 }
             }
         ]

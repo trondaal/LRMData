@@ -21,48 +21,120 @@
          xmlns:rdact="http://rdaregistry.info/termList/RDACarrierType/"
          xmlns:rdamt="http://rdaregistry.info/termList/RDAMediaType/"
          xmlns:rdat="http://rdaregistry.info/termList/"
-         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
-   <rdac:C10001 rdf:about="http://viaf.org/viaf/310504431">
-      <rdaxd:P00018>http://viaf.org/viaf/310504431</rdaxd:P00018>
-      <rdawd:P10088>Anansi boys</rdawd:P10088>
-      <rdfs:label>Anansi boys</rdfs:label>
-      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
-      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/103859257"/>
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:ex="http://www.example.org/">
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/175871715">
+      <rdaxd:P00018>http://viaf.org/viaf/175871715</rdaxd:P00018>
+      <rdawd:P10088>The border trilogy</rdawd:P10088>
+      <rdfs:label>The border trilogy (McCarthy, Cormac)</rdfs:label>
+      <rdaxd:P00029>Novel</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/29558386"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/214001528"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/3417153653286155900001"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/309357400"/>
    </rdac:C10001>
-   <rdac:C10002 rdf:about="http://viaf.org/viaf/103859257">
-      <rdaxd:P00018>http://viaf.org/viaf/103859257</rdaxd:P00018>
-      <rdaad:P50385>Gaiman, Neil</rdaad:P50385>
-      <rdfs:label>Gaiman, Neil</rdfs:label>
-      <rdaad:P50339>1960-</rdaad:P50339>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/214001528">
+      <rdaxd:P00018>http://viaf.org/viaf/214001528</rdaxd:P00018>
+      <rdawd:P10088>All the pretty horses</rdawd:P10088>
+      <rdfs:label>All the pretty horses (McCarthy, Cormac)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/29558386"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/309357400">
+      <rdaxd:P00018>http://viaf.org/viaf/309357400</rdaxd:P00018>
+      <rdawd:P10088>Crossing</rdawd:P10088>
+      <rdfs:label>Crossing (McCarthy, Cormac)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/29558386"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/3417153653286155900001">
+      <rdaxd:P00018>http://viaf.org/viaf/3417153653286155900001</rdaxd:P00018>
+      <rdawd:P10088>Cities of the plain</rdawd:P10088>
+      <rdfs:label>Cities of the plain (McCarthy, Cormac)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/29558386"/>
+   </rdac:C10001>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/225596267">
+      <rdaxd:P00018>http://viaf.org/viaf/225596267</rdaxd:P00018>
+      <rdaad:P50385>Ofstad, Knut</rdaad:P50385>
+      <rdfs:label>Ofstad, Knut</rdfs:label>
    </rdac:C10002>
-   <rdac:C10006 rdf:about="http://viaf.org/viaf/310504431/exp/eng/1020">
-      <rdaed:P20316>Anansi boys</rdaed:P20316>
-      <rdaed:P20312>Anansi boys</rdaed:P20312>
-      <rdfs:label>Anansi boys / eng / text</rdfs:label>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/29558386">
+      <rdaxd:P00018>http://viaf.org/viaf/29558386</rdaxd:P00018>
+      <rdaad:P50385>McCarthy, Cormac</rdaad:P50385>
+      <rdfs:label>McCarthy, Cormac</rdfs:label>
+      <rdaad:P50339>1933-2023</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/175871715/exp/nob/1020/225596267">
+      <rdaed:P20316>The border trilogy</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Grensetrilogien</rdaed:P20312>
+      <rdfs:label>Grensetrilogien / text</rdfs:label>
+      <rdaed:P20315>Grensetriologien</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
-      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
-      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/310504431"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/225596267"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/214001528/exp/nob/1020/225596267"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3417153653286155900001/exp/nob/1020/225596267"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/309357400/exp/nob/1020/225596267"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/175871715"/>
    </rdac:C10006>
-   <rdac:C10007 rdf:about="http://example.org/Anansiboys-d7e58">
-      <rdamd:P30156>Anansi boys</rdamd:P30156>
-      <rdamd:P30117>Neil Gaiman</rdamd:P30117>
-      <rdamd:P30088>London</rdamd:P30088>
-      <rdamd:P30088>Oslo</rdamd:P30088>
-      <rdamd:P30111>London : Review : Review ; Oslo : Review, 2005.</rdamd:P30111>
-      <rdamd:P30083>Review</rdamd:P30083>
-      <rdamd:P30011>2005</rdamd:P30011>
-      <rdamd:P30182>348 pages ; 24 cm.</rdamd:P30182>
-      <rdamd:P30182>555 pages ; 24 cm.</rdamd:P30182>
-      <rdamd:P30182>xxx pages : something else ; 24 cm.</rdamd:P30182>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/214001528/exp/nob/1020/225596267">
+      <rdaed:P20312>All the pretty horses</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>All the pretty horses / text</rdfs:label>
+      <rdaed:P20315>Alle de vakre hestene</rdaed:P20315>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/225596267"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/214001528"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/309357400/exp/nob/1020/225596267">
+      <rdaed:P20312>Crossing</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Crossing / text</rdfs:label>
+      <rdaed:P20315>Over grensen</rdaed:P20315>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/225596267"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/309357400"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3417153653286155900001/exp/nob/1020/225596267">
+      <rdaed:P20312>Cities of the plain</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Cities of the plain / text</rdfs:label>
+      <rdaed:P20315>Byene på høysletten</rdaed:P20315>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/225596267"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3417153653286155900001"/>
+   </rdac:C10006>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8205351619">
+      <rdamd:P30004>ISBN 8205351619</rdamd:P30004>
+      <rdaxd:P00018>isbn-8205351619</rdaxd:P00018>
+      <rdfs:label>ISBN8205351619</rdfs:label>
+      <rdamd:P30004>ISBN 9788205351615</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788205351615</rdaxd:P00018>
+      <rdfs:label>ISBN9788205351615</rdfs:label>
+      <rdamd:P30156>Grensetrilogien</rdamd:P30156>
+      <rdamd:P30117>Cormac McCarthy ; oversatt fra engelsk av Knut Ofstad</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Gyldendal, 2006.</rdamd:P30111>
+      <rdamd:P30083>Gyldendal</rdamd:P30083>
+      <rdamd:P30011>2006</rdamd:P30011>
+      <rdamd:P30182>1023 s.</rdamd:P30182>
       <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>Gyldendal pocket</rdamd:P30106>
+      <rdamd:P30137>1. norske utg. henholdsvis 1993, 1995 og 1999</rdamd:P30137>
+      <rdamd:P30137>Innhold; Alle de vakre hestene ; Over grensen ; Byene på høysletten</rdamd:P30137>
+      <rdamd:P30137>Opplagshistorikk: Gyldendal pocket, 2. oppl. 2007</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/310504431/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/175871715/exp/nob/1020/225596267"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/214001528/exp/nob/1020/225596267"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3417153653286155900001/exp/nob/1020/225596267"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309357400/exp/nob/1020/225596267"/>
    </rdac:C10007>
-   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/eng">
-      <rdfs:label>eng</rdfs:label>
-      <skos:subjectIndicator>eng</skos:subjectIndicator>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/nob">
+      <rdfs:label>nob</rdfs:label>
    </skos:Concept>
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1049">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1049</skos:subjectIndicator>
@@ -72,8 +144,5 @@
    </skos:Concept>
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1007">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1007</skos:subjectIndicator>
-   </skos:Concept>
-   <skos:Concept rdf:about="https://schema.nb.no/Bibliographic/Values/V1000">
-      <skos:subjectIndicator>https://schema.nb.no/Bibliographic/Values/V1000</skos:subjectIndicator>
    </skos:Concept>
 </rdf:RDF>

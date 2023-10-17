@@ -295,7 +295,7 @@
                 <subfield code="a" select="frbrizer:trim(.)" type="http://rdaregistry.info/Elements/e/datatype/P20316" label="varianttitle"/>'
             </datafield>-->
             <datafield tag="245">
-                <subfield code="a" type="http://rdaregistry.info/Elements/e/datatype/P20312" select="string-join((frbrizer:trim(.), frbrizer:trim(../*:subfield[@code='b'])), ' : ')" label="has title"/>
+                <subfield code="a" type="http://rdaregistry.info/Elements/e/datatype/P20312" select="string-join((frbrizer:trim(.), frbrizer:trim(../*:subfield[@code='b']), frbrizer:trim(../*:subfield[@code='p'])), ' : ')" label="has title"/>
                 <subfield code="a" type="http://www.w3.org/2000/01/rdf-schema#label" select="string-join((frbrizer:trim(.), $record/*:datafield[@tag='041']/*:subfield[@code=('a', 'd')][1], $record/*:datafield[@tag='336']/*:subfield[@code='a'][1]), ' / ')" label="rdf label"/>
             </datafield>
             <!--<datafield tag="336" condition="frbrizer:linked($anchor_field, .)">

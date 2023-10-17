@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record>
+        <marc:leader>01987cam a2200433 c 4500</marc:leader>
+        <marc:controlfield tag="001">990620269764702202</marc:controlfield>
+        <marc:controlfield tag="003">BIBSYS</marc:controlfield>
+        <marc:controlfield tag="005">20230531162623.0</marc:controlfield>
+        <marc:controlfield tag="007">cr||||||||||||</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="008">140322s2006    no#||||| |||||000|f|nob| </marc:controlfield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">8205351619</marc:subfield>
+            <marc:subfield code="q">h.</marc:subfield>
+            <marc:subfield code="c">Nkr 99.00</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">9788205351615</marc:subfield>
+            <marc:subfield code="q">h.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="1" ind2=" ">
+            <marc:subfield code="h">eng</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">813</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">5/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">McCarthy, Cormac</marc:subfield>
+            <marc:subfield code="d">1933-2023</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90348328</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/29558386</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="1" ind2="4">
+            <marc:subfield code="a">The border trilogy</marc:subfield>
+            <marc:subfield code="k">Novel</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/175871715</marc:subfield>
+            <marc:subfield code="8">p</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Grensetrilogien</marc:subfield>
+            <marc:subfield code="c">Cormac McCarthy ; oversatt fra engelsk av Knut Ofstad</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="1" ind2=" ">
+            <marc:subfield code="a">All the pretty horses</marc:subfield>
+            <marc:subfield code="i">Originaltittel</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="1" ind2=" ">
+            <marc:subfield code="a">Cities of the plain</marc:subfield>
+            <marc:subfield code="i">Originaltittel</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="1" ind2=" ">
+            <marc:subfield code="a">The crossing</marc:subfield>
+            <marc:subfield code="i">Originaltittel</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Oslo]</marc:subfield>
+            <marc:subfield code="b">Gyldendal</marc:subfield>
+            <marc:subfield code="c">2006</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1023 s.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
+            <marc:subfield code="2">rdacontent</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">unmediated</marc:subfield>
+            <marc:subfield code="2">rdamedia</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">volume</marc:subfield>
+            <marc:subfield code="2">rdacarrier</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="1" ind2=" ">
+            <marc:subfield code="a">Gyldendal pocket</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">1. norske utg. henholdsvis 1993, 1995 og 1999</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Innhold; Alle de vakre hestene ; Over grensen ; Byene på høysletten</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Opplagshistorikk:  Gyldendal pocket, 2. oppl. 2007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Ofstad, Knut</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/225596267</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20037</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2="2">
+            <marc:subfield code="a">McCarthy, Cormac,</marc:subfield>
+            <marc:subfield code="d">1933-2023.</marc:subfield>
+            <marc:subfield code="t">All the pretty horses.</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/214001528</marc:subfield>
+            <marc:subfield code="8">c1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2="2">
+            <marc:subfield code="a">McCarthy, Cormac,</marc:subfield>
+            <marc:subfield code="d">1933-2023.</marc:subfield>
+            <marc:subfield code="t">Cities of the plain.</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/3417153653286155900001</marc:subfield>
+            <marc:subfield code="8">c3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2="2">
+            <marc:subfield code="a">McCarthy, Cormac,</marc:subfield>
+            <marc:subfield code="d">1933-2023.</marc:subfield>
+            <marc:subfield code="t">Crossing.</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/309357400</marc:subfield>
+            <marc:subfield code="8">c2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Alle de vakre hestene</marc:subfield>
+            <marc:subfield code="8">c1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Byene på høysletten</marc:subfield>
+            <marc:subfield code="8">c3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2=" ">
+            <marc:subfield code="a">Over grensen</marc:subfield>
+            <marc:subfield code="8">c2</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="830" ind1=" " ind2="0">
+            <marc:subfield code="a">Gyldendal pocket</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="1" ind2="4">
+            <marc:subfield code="a">Grensetriologien</marc:subfield>
+            <marc:subfield code="8">p</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>
