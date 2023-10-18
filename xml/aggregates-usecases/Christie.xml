@@ -1143,7 +1143,7 @@
         </datafield>
     </record>
     <!-- Movie collection -->
-    <record xmlns="http://www.loc.gov/MARC21/slim">
+    <!--<record xmlns="http://www.loc.gov/MARC21/slim">
         <leader>00525cgm a2200193 c 4500</leader>
         <controlfield tag="001">990424921304702201</controlfield>
         <controlfield tag="005">20160519155610.0</controlfield>
@@ -1179,6 +1179,21 @@
             <subfield code="b">digital</subfield>
             <subfield code="c">12 cm</subfield>
         </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">todimensjonalt levende bilde</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1023</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">video</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1008</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">videodisk</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1060</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
         <datafield ind1=" " ind2=" " tag="500">
             <subfield code="a">SF Reg.nr. 53189</subfield>
         </datafield>
@@ -1196,7 +1211,7 @@
         <datafield ind1=" " ind2=" " tag="991">
             <subfield code="a">volumes</subfield>
         </datafield>
-    </record>
+    </record>-->
     <!-- Collections -->
     <record>
         <leader>01052 am a2200277ua 4500</leader>

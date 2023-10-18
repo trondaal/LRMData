@@ -57,7 +57,6 @@
 =082  74$a813$qNO-OsNB$25/nor
 =100  1\$aMcCarthy, Cormac$d1933-2023$0(NO-TrBIB)90348328$1http://viaf.org/viaf/29558386$4http://rdaregistry.info/Elements/w/object/P10061
 =240  14$aThe border trilogy$kNovel$1http://viaf.org/viaf/175871715$8p
-
 =245  10$aGrensetrilogien$cCormac McCarthy ; oversatt fra engelsk av Knut Ofstad
 =246  1\$aAll the pretty horses$iOriginaltittel
 =246  1\$aCities of the plain$iOriginaltittel
@@ -71,10 +70,11 @@
 =500  \\$a1. norske utg. henholdsvis 1993, 1995 og 1999
 =500  \\$aInnhold; Alle de vakre hestene ; Over grensen ; Byene på høysletten
 =500  \\$aOpplagshistorikk:  Gyldendal pocket, 2. oppl. 2007
+=505  \\$aAlle de vakre hestene -- Over grensen -- Byene på høysletten
 =700  1\$aOfstad, Knut$4trl$1http://viaf.org/viaf/225596267$4http://rdaregistry.info/Elements/e/object/P20037
 =700  12$aMcCarthy, Cormac,$d1933-2023.$tAll the pretty horses.$1http://viaf.org/viaf/214001528$8c1
 =700  12$aMcCarthy, Cormac,$d1933-2023.$tCities of the plain.$1http://viaf.org/viaf/3417153653286155900001$8c3
-=700  12$aMcCarthy, Cormac,$d1933-2023.$tCrossing.$1http://viaf.org/viaf/309357400$8c2
+=700  12$aMcCarthy, Cormac,$d1933-2023.$tThe crossing.$1http://viaf.org/viaf/309357400$8c2
 =740  0\$aAlle de vakre hestene$8c1
 =740  0\$aByene på høysletten$8c3
 =740  0\$aOver grensen$8c2
@@ -398,6 +398,7 @@
 =336  \\$atext$2rdacontent$0http://rdaregistry.info/termList/RDAContentType/1020
 =337  \\$aunmediated$2rdamedia$0http://rdaregistry.info/termList/RDAMediaType/1007
 =338  \\$avolume$2rdacarrier$0http://rdaregistry.info/termList/RDACarrierType/1049
+
 =773  08$iInkludert i$aMcCarthy, Cormac, 1933-$tGrensetrilogien$dOslo : Gyldendal, 1993-1999$g1$w999321888264702201
 =700  1\$aOfstad, Knut$4trl$1http://viaf.org/viaf/225596267$4http://rdaregistry.info/Elements/e/object/P20037
 
@@ -1034,7 +1035,7 @@
 =588  \\$aDescription based on CIP data; resource not viewed.
 =700  12$aMcCarthy, Cormac,$d1933-2023.$tAll the pretty horses.$1http://viaf.org/viaf/214001528
 =700  12$aMcCarthy, Cormac,$d1933-2023.$tCities of the plain.$1http://viaf.org/viaf/3417153653286155900001
-=700  12$aMcCarthy, Cormac,$d1933-2023.$tCrossing.$1http://viaf.org/viaf/309357400
+=700  12$aMcCarthy, Cormac,$d1933-2023.$tThe crossing.$1http://viaf.org/viaf/309357400
 =776  08$iPrint version :$z9780330334617
 
 =LDR  01531aam a22003491i 4500
@@ -1063,7 +1064,7 @@
 =505  00$tAll the pretty horses --$tThe crossing --$tCities of the plain.
 =700  12$aMcCarthy, Cormac,$d1933-2023.$tAll the pretty horses.$1http://viaf.org/viaf/214001528
 =700  12$aMcCarthy, Cormac,$d1933-2023.$tCities of the plain.$1http://viaf.org/viaf/3417153653286155900001
-=700  12$aMcCarthy, Cormac,$d1933-2023.$tCrossing.$1http://viaf.org/viaf/309357400
+=700  12$aMcCarthy, Cormac,$d1933-2023.$tThe crossing.$1http://viaf.org/viaf/309357400
 =830  \0$aBorder Trilogy.
 
 =LDR  01052aam a22002771i 4500
@@ -1627,6 +1628,9 @@
 =336  \\$atext$2rdacontent
 =337  \\$aunmediated$2rdamedia
 =338  \\$avolume$2rdacarrier
+=336  \\$atext$2rdacontent$0http://rdaregistry.info/termList/RDAContentType/1020
+=337  \\$aunmediated$2rdamedia$0http://rdaregistry.info/termList/RDAMediaType/1007
+=338  \\$avolume$2rdacarrier$0http://rdaregistry.info/termList/RDACarrierType/1049
 =500  \\$aFormerly CIP.$5Uk
 =500  \\$aOriginally published: New York: Vintage, 2006; London: Picador, 2010.
 
@@ -1845,7 +1849,7 @@
 =505  0\$aAll the pretty horses -- The crossing -- Cities of the plain.
 =700  12$aMcCarthy, Cormac,$d1933-2023.$tAll the pretty horses.$1http://viaf.org/viaf/214001528
 =700  12$aMcCarthy, Cormac,$d1933-2023.$tCities of the plain.$1http://viaf.org/viaf/3417153653286155900001
-=700  12$aMcCarthy, Cormac,$d1933-2023.$tCrossing.$1http://viaf.org/viaf/309357400
+=700  12$aMcCarthy, Cormac,$d1933-2023.$tThe crossing.$1http://viaf.org/viaf/309357400
 
 =LDR  01081pam a2200289 a 4500
 =001  014765444
@@ -2230,10 +2234,10 @@
 =336  \\$atext$2rdacontent$0http://rdaregistry.info/termList/RDAContentType/1020
 =337  \\$aunmediated$2rdamedia$0http://rdaregistry.info/termList/RDAMediaType/1007
 =338  \\$avolume$2rdacarrier$0http://rdaregistry.info/termList/RDACarrierType/1049
-=505  0\$aContents: All the pretty horses originally published: New York : Knopf, 1992. - The crossing originally published: New York : Knopf, 1993. - Cities of the plain originally published: New York : Knopf, 1998.
+=505  0\$aAll the pretty horses originally -- The crossing -- Cities of the plain
 =700  12$aMcCarthy, Cormac,$d1933-2023.$tAll the pretty horses.$1http://viaf.org/viaf/214001528
 =700  12$aMcCarthy, Cormac,$d1933-2023.$tCities of the plain.$1http://viaf.org/viaf/3417153653286155900001
-=700  12$aMcCarthy, Cormac,$d1933-2023.$tCrossing.$1http://viaf.org/viaf/309357400
+=700  12$aMcCarthy, Cormac,$d1933-2023.$tThe crossing.$1http://viaf.org/viaf/309357400
 
 =LDR  00933nam a22002413  4500
 =001  002304723
@@ -2705,7 +2709,7 @@
 =505  0\$aAll the pretty horses -- The crossing -- Cities of the plain.
 =700  12$aMcCarthy, Cormac,$d1933-2023.$tAll the pretty horses.$1http://viaf.org/viaf/214001528
 =700  12$aMcCarthy, Cormac,$d1933-2023.$tCities of the plain.$1http://viaf.org/viaf/3417153653286155900001
-=700  12$aMcCarthy, Cormac,$d1933-2023.$tCrossing.$1http://viaf.org/viaf/309357400
+=700  12$aMcCarthy, Cormac,$d1933-2023.$tThe crossing.$1http://viaf.org/viaf/309357400
 
 =LDR  00848cam a2200229   4500
 =001  3140853
@@ -3321,7 +3325,7 @@
 =338  \\$avolume$2rdacarrier$0http://rdaregistry.info/termList/RDACarrierType/1049
 =500  \\$a"These essays originally appeared, in slightly different form, in The New Yorker, London Review of Books, and The New Republic"--Title page verso.
 =500  \\$aOriginally published in 2019 by Vintage, Great Britain, as Serious noticing: selected essays.
-=505  00$tFun stuff: homage to Keith Moon --$tWhat Chekhov meant by life --$tSerious noticing --$tSaul Bellow's comic style --$tAnna Karenina and characterization --$tJoseph Roth's empire of signs --$tPaul Auster's shallowness --$tHysterical realism --$tBohumil Hrabal's comic world --$tGeorge Orwell's very English revolution --$tJane Austen's heroic consciousness --$tCormac McCarthy's the road --$tReality examined to the point of madness': László Krasznahorkai --$tWounder and wounded --$tOn not going home -- Other side of silence: rereading W. G. Sebald --$tBecoming them --$tDon Quixote's old and new testaments --$tDostoevsky's god --$tHelen Garner's savage honesty --$tAll and the if: God and metaphor in Melville --$tElena Ferrante --$tVirginia Woolf's Mysticism --$tJob existed: Primo Levi --$tMarilynne Robinson --$tIsmail Kadare --$tJenny Erpenbeck --$tPacking my father-in-law's library.
+=505  00$aFun stuff: homage to Keith Moon -- What Chekhov meant by life -- Serious noticing -- Saul Bellow's comic style -- Anna Karenina and characterization -- Joseph Roth's empire of signs -- Paul Auster's shallowness -- Hysterical realism -- Bohumil Hrabal's comic world -- George Orwell's very English revolution -- Jane Austen's heroic consciousness -- Cormac McCarthy's the road -- Reality examined to the point of madness': László Krasznahorkai -- Wounder and wounded -- On not going home -- Other side of silence: rereading W. G. Sebald -- Becoming them -- Don Quixote's old and new testaments -- Dostoevsky's god -- Helen Garner's savage honesty -- All and the if: God and metaphor in Melville -- Elena Ferrante -- Virginia Woolf's Mysticism -- Job existed: Primo Levi -- Marilynne Robinson -- Ismail Kadare -- Jenny Erpenbeck -- Packing my father-in-law's library.
 =600  10$aAusten, Jane,$d1775-1817.
 =600  10$aAuster, Paul,$d1947-
 =600  10$aBellow, Saul.
@@ -3392,7 +3396,6 @@
 =338  \\$acompact disc$2rdacarrier$0http://rdaregistry.info/termList/RDACarrierType/1013
 =500  \\$aCompact disc.
 =505  0\$aGotta keep movin' -- The working poor -- Cadillac man -- Back when I worked on the railroad -- The crossroads -- One a night like this -- You can't outrun the hounds -- Walking on solid ground -- Jailhouse bound -- Doppelganger.
-=505  0\$aGotta keep movin'
 =700  12$aMcCarthy, Cormac$tGotta keep movin'$1https://isni.org/isni/0000000046450913/collateral/01
 =700  12$aMcCarthy, Cormac$tThe working poor$1https://isni.org/isni/0000000046450913/collateral/02
 =700  12$aMcCarthy, Cormac$tCadillac man$1https://isni.org/isni/0000000046450913/collateral/03
