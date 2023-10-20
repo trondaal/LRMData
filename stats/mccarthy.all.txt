@@ -4,7 +4,7 @@ BIB2201 rapport over datasamling - oppdatert 5/6
 -------------------------------------------------------
 
 
-Antall poster i samlingen:141
+Antall poster i samlingen:140
 -------------------------------------------------------
 
 
@@ -38,7 +38,6 @@ Agenter identifisert med URI
 * https://www.imdb.com/name/nm0777455 (700) : Schwartz, Steve
 * https://isni.org/isni/0000000116899928 (700) : Scott, Ridley
 * https://isni.org/isni/0000000114563013 (700) : Smit-McPhee, Kodi
-* https://www.cormacmccarthysociety.com (100) : The Cormac McCarthy Society
 * https://isni.org/isni/0000000114973899 (700) : Theron, Charlize
 * https://isni.org/isni/0000000108854789 (700) : Thomas, Henry
 * https://isni.org/isni/0000000120961536 (700) : Thornton, Billy Bob
@@ -62,8 +61,6 @@ men dere velger selv hvilke agenter som skal være med
 * 600  10  $aKadare, Ismail.
 * 600  10  $aKrasznahorkai, László.
 * 600  10  $aLevi, Primo.
-* 600  17  $aMcCarthy, Cormac,  $d1933-  $0(OCoLC)fst00088064 $2fast
-* 600  10  $aMcCarthy, Cormac,  $d1933-2023  $vPeriodicals.  $xCriticism and interpretation
 * 600  10  $aMoon, Keith,  $d1946-1978.
 * 600  10  $aOrwell, George,  $d1903-1950.
 * 600  10  $aQuixote,  $cDon (Fictitious character)
@@ -82,7 +79,6 @@ men dere velger selv hvilke agenter som skal være med
 * 700  1#  $aMoore, Ruth,  $d1968-
 * 700  1#  $aMoore, Ruth,  $d1968-
 * 710  2#  $a2929 Productions (Firm)
-* 710  2#  $aAngelo State University.  $bDepartment of English.
 * 710  2#  $aBuena Vista Home Entertainment (Firm),  $efilm distributor.
 * 710  2#  $aChockstone Pictures,  $eproduction company.
 * 710  2#  $aChockstone Pictures.
@@ -91,7 +87,6 @@ men dere velger selv hvilke agenter som skal være med
 * 710  2#  $aCopyright Collection (Library of Congress) $5DLC
 * 710  2#  $aCopyright Collection (Library of Congress) $5DLC
 * 710  2#  $aCopyright Collection (Library of Congress) $5DLC
-* 710  2#  $aCormac McCarthy Society.
 * 710  2#  $aDimension Films (1990- )
 * 710  2#  $aEcco Press  $epublisher
 * 710  2#  $aFox 2000 Pictures,  $epresenter.
@@ -219,7 +214,6 @@ Verk identifisert med URI
 * https://www.imdb.com/title/tt0149624 = All the pretty horses 
 * https://www.imdb.com/title/tt0477348 = / No country for old men / No country for old men (Motion picture) (Motion picture)
 * https://www.imdb.com/title/tt0898367 = The Road / Road (Motion picture : 2009) 
-* https://www.psupress.org/journals/jnls_CormacMcCarthy.html = The Cormac McCarthy journal 
 
 
 Innførsler som IKKE er identifisert som verk på grunn av manglende URI i $1
@@ -311,7 +305,6 @@ verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 * http://rdaregistry.info/Elements/w/object/P10068 (has director agent of photography) : 1 
 * http://rdaregistry.info/Elements/w/object/P10073 (has film producer agent) : 20 
 * http://rdaregistry.info/Elements/w/object/P10203 (has screenwriter agent) : 9 
-* http://rdaregistry.info/Elements/w/object/P10393 (has aggregator agent) : 1 
 
 
 Personer med URI og relasjonstyper som er brukt for disse
@@ -380,8 +373,6 @@ https://isni.org/isni/0000000116899928 (700) : Scott, Ridley
 * http://rdaregistry.info/Elements/w/object/P10073 (has film producer agent)
 https://isni.org/isni/0000000114563013 (700) : Smit-McPhee, Kodi 
 * http://rdaregistry.info/Elements/e/object/P20012 (has actor agent)
-https://www.cormacmccarthysociety.com (100) : The Cormac McCarthy Society 
-* http://rdaregistry.info/Elements/w/object/P10393 (has aggregator agent)
 https://isni.org/isni/0000000114973899 (700) : Theron, Charlize 
 * http://rdaregistry.info/Elements/e/object/P20012 (has actor agent)
 https://isni.org/isni/0000000108854789 (700) : Thomas, Henry 
@@ -407,21 +398,21 @@ I praksis er det 700-felter med ind2=2, $t og $1
 -------------------------------------------------------
 001 = 990620269764702202 
 * 100  1#  $aMcCarthy, Cormac  $d1933-2023  $0(NO-TrBIB)90348328  $1http://viaf.org/viaf/29558386  $4http://rdaregistry.info/Elements/w/object/P10061
-* 240  14  $aThe border trilogy  $kNovel  $1http://viaf.org/viaf/175871715 $8p
+* 240  14  $aThe border trilogy  $kNovel collection  $1http://viaf.org/viaf/175871715 $8p
 * 245  10  $aGrensetrilogien  $cCormac McCarthy ; oversatt fra engelsk av Knut Ofstad
 * 700  12  $aMcCarthy, Cormac,  $d1933-2023.  $tAll the pretty horses.  $1http://viaf.org/viaf/214001528 $8c1
 * 700  12  $aMcCarthy, Cormac,  $d1933-2023.  $tCities of the plain.  $1http://viaf.org/viaf/3417153653286155900001 $8c3
 * 700  12  $aMcCarthy, Cormac,  $d1933-2023.  $tThe crossing.  $1http://viaf.org/viaf/309357400 $8c2
 001 = 018865137 
 * 100  1#  $aMcCarthy, Cormac,  $d1933-2023,  $eauthor.  $1http://viaf.org/viaf/29558386  $4http://rdaregistry.info/Elements/w/object/P10061
-* 240  14  $aThe border trilogy  $kNovel  $1http://viaf.org/viaf/175871715
+* 240  14  $aThe border trilogy  $kNovel collection  $1http://viaf.org/viaf/175871715 $8p
 * 245  14  $aThe border trilogy /  $cCormac McCarthy.
 * 700  12  $aMcCarthy, Cormac,  $d1933-2023.  $tAll the pretty horses.  $1http://viaf.org/viaf/214001528
 * 700  12  $aMcCarthy, Cormac,  $d1933-2023.  $tCities of the plain.  $1http://viaf.org/viaf/3417153653286155900001
 * 700  12  $aMcCarthy, Cormac,  $d1933-2023.  $tThe crossing.  $1http://viaf.org/viaf/309357400
 001 = 018253954 
 * 100  1#  $aMcCarthy, Cormac,  $d1933-2023.  $1http://viaf.org/viaf/29558386  $4http://rdaregistry.info/Elements/w/object/P10061
-* 240  14  $aThe border trilogy  $kNovel  $1http://viaf.org/viaf/175871715
+* 240  14  $aThe border trilogy  $kNovel collection  $1http://viaf.org/viaf/175871715
 * 245  14  $aThe border trilogy /  $cCormac McCarthy.
 * 700  12  $aMcCarthy, Cormac,  $d1933-2023.  $tAll the pretty horses.  $1http://viaf.org/viaf/214001528
 * 700  12  $aMcCarthy, Cormac,  $d1933-2023.  $tCities of the plain.  $1http://viaf.org/viaf/3417153653286155900001
@@ -435,7 +426,7 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  12  $aMcCarthy, Cormac,  $d1933-2023.  $tThe crossing.  $1http://viaf.org/viaf/309357400
 001 = 006723335 
 * 100  1#  $aMcCarthy, Cormac,  $d1933-2023.  $1http://viaf.org/viaf/29558386  $4http://rdaregistry.info/Elements/w/object/P10061
-* 240  14  $aThe border trilogy  $kNovel  $1http://viaf.org/viaf/175871715
+* 240  14  $aThe border trilogy  $kNovel collection  $1http://viaf.org/viaf/175871715
 * 245  14  $aThe border trilogy :  $bAll the pretty horses, The Crossing, Cities of the plain /  $cCormac McCarthy.
 * 700  12  $aMcCarthy, Cormac,  $d1933-2023.  $tAll the pretty horses.  $1http://viaf.org/viaf/214001528
 * 700  12  $aMcCarthy, Cormac,  $d1933-2023.  $tCities of the plain.  $1http://viaf.org/viaf/3417153653286155900001
@@ -482,7 +473,7 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  12  $aWood, James  $tWounder and wounded  $1http://viaf.org/viaf/92910249/seriousnoticing/14
 001 = 18420971 
 * 100  1#  $aMcCarthy, Cormac  $c(Singer)  $1https://isni.org/isni/0000000046450913  $4prf  $4http://rdaregistry.info/Elements/e/object/P20039
-* 240  10  $aColleteral  $kRecodings collection  $1https://isni.org/isni/0000000046450913/collateral
+* 240  10  $aColleteral  $kRecordings collection  $1https://isni.org/isni/0000000046450913/collateral
 * 245  10  $aCollateral  $cCormac McCarthy.  $h[sound recording] /
 * 700  12  $aMcCarthy, Cormac  $tBack when I worked on the railroad  $1https://isni.org/isni/0000000046450913/collateral/04
 * 700  12  $aMcCarthy, Cormac  $tCadillac man  $1https://isni.org/isni/0000000046450913/collateral/03
@@ -496,7 +487,7 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  12  $aMcCarthy, Cormac  $tYou can't outrun the hounds  $1https://isni.org/isni/0000000046450913/collateral/07
 001 = 18420986 
 * 100  1#  $aMcCarthy, Cormac  $c(Singer)  $1https://isni.org/isni/0000000046450913  $4prf  $4http://rdaregistry.info/Elements/e/object/P20039
-* 240  10  $aCurious thing  $kRecodings collection  $1https://isni.org/isni/0000000046450913/curiousthing
+* 240  10  $aCurious thing  $kRecordings collection  $1https://isni.org/isni/0000000046450913/curiousthing
 * 245  10  $aCurious thing  $cCormac McCarthy.  $h[sound recording] /
 * 700  12  $aMcCarthy, Cormac  $tA little something  $1https://isni.org/isni/0000000046450913/curiousthing/11
 * 700  12  $aMcCarthy, Cormac  $tCurious thing in the middle  $1https://isni.org/isni/0000000046450913/curiousthing/02
@@ -512,7 +503,7 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  12  $aMcCarthy, Cormac  $tWhile the world is sleeping.  $1https://isni.org/isni/0000000046450913/curiousthing/12
 001 = 12077961 
 * 100  1#  $aMcCarthy, Cormac  $c(Singer)  $1https://isni.org/isni/0000000046450913  $4prf  $4http://rdaregistry.info/Elements/e/object/P20039
-* 240  10  $aPicture gallery blues  $kRecodings collection  $1https://isni.org/isni/0000000046450913/picturegalleryblues
+* 240  10  $aPicture gallery blues  $kRecordings collection  $1https://isni.org/isni/0000000046450913/picturegalleryblues
 * 245  10  $aPicture gallery blues  $cCormac McCarthy.  $h[sound recording] /
 * 700  12  $aMcCarthy, Cormac  $tBlue Cadillac  $1https://isni.org/isni/0000000046450913/picturegalleryblues/02
 * 700  12  $aMcCarthy, Cormac  $tLast ditch  $1https://isni.org/isni/0000000046450913/picturegalleryblues/10
@@ -526,7 +517,7 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  12  $aMcCarthy, Cormac  $tThe immigrant gangster  $1https://isni.org/isni/0000000046450913/picturegalleryblues/01
 001 = 5628905 
 * 100  1#  $aMcCarthy, Cormac  $c(Singer)  $1https://isni.org/isni/0000000046450913  $4prf  $4http://rdaregistry.info/Elements/e/object/P20039
-* 240  10  $aTroubled sleep  $kRecodings collection  $1https://isni.org/isni/0000000046450913/troubledsleep
+* 240  10  $aTroubled sleep  $kRecordings collection  $1https://isni.org/isni/0000000046450913/troubledsleep
 * 245  10  $aTroubled sleep /  $cCormac McCarthy.
 * 700  12  $aMcCarthy, Cormac  $tCows  $1https://isni.org/isni/0000000046450913/troubledsleep/07
 * 700  12  $aMcCarthy, Cormac  $tDreams  $1https://isni.org/isni/0000000046450913/troubledsleep/06
@@ -610,10 +601,10 @@ Opplisting som viser bruken av 336 $a, $b, $0, $2
 * 336  ##  $atext  $0http://rdaregistry.info/termList/RDAContentType/1020 $2rdacontent
 * 336  ##  $aspoken word  $0http://rdaregistry.info/termList/RDAContentType/1013 $2rdacontent
 * 336  ##  $atwo-dimensional moving image  $0http://rdaregistry.info/termList/RDAContentType/1023 $2rdacontent
-* 336  ##  $atext  $btxt $2rdacontent
 * 336  ##  $atekst  $0http://rdaregistry.info/termList/RDAContentType/1020 $2rdaco
 * 336  ##  $atext $2rdacontent
 * 336  ##  $atwo-dimensional moving image  $btdi $2rdacontent
+* 336  ##  $atext  $btxt $2rdacontent
 * 336  ##  $aperformed music  $0http://rdaregistry.info/termList/RDAContentType/1011 $2rdacontent
 * 336  ##  $aperformed music  $bprm $2rdacontent
 
@@ -623,10 +614,9 @@ Opplisting som viser bruken av 337 $a, $b, $0, $2
 * 337  ##  $aunmediated  $0http://rdaregistry.info/termList/RDAMediaType/1007 $2rdamedia
 * 337  ##  $aaudio  $0http://rdaregistry.info/termList/RDAMediaType/1001 $2rdamedia
 * 337  ##  $aaudio  $0http://rdaregistry.info/termList/RDAMediaType/1008 $2rdamedia
-* 337  ##  $acomputer  $bc $2rdamedia
-* 337  ##  $acomputer  $0http://rdaregistry.info/termList/RDAMediaType/1003 $2rdamedia
 * 337  ##  $auformidlet  $0http://rdaregistry.info/termList/RDAMediaType/1007 $2rdamt
 * 337  ##  $acomputer $2rdamedia
+* 337  ##  $acomputer  $0http://rdaregistry.info/termList/RDAMediaType/1003 $2rdamedia
 * 337  ##  $aunmediated $2rdamedia
 * 337  ##  $avideo  $bv $2rdamedia
 * 337  ##  $aunmediated  $bn $2rdamedia
@@ -638,10 +628,9 @@ Opplisting som viser bruken av 338 $a, $b, $0, $2
 * 338  ##  $avolume  $0http://rdaregistry.info/termList/RDACarrierType/1049 $2rdacarrier
 * 338  ##  $aaudio disc  $0http://rdaregistry.info/termList/RDACarrierType/1004 $2rdacarrier
 * 338  ##  $avideo disc  $0http://rdaregistry.info/termList/RDACarrierType/1060 $2rdacarrier
-* 338  ##  $aonline resource  $bcr $2rdacarrier
-* 338  ##  $aonline resource  $0http://rdaregistry.info/termList/RDACarrierType/1018 $2rdacarrier
 * 338  ##  $abind  $0http://rdaregistry.info/termList/RDACarrierType/1049 $2rdact
 * 338  ##  $aonline resource $2rdacarrier
+* 338  ##  $aonline resource  $0http://rdaregistry.info/termList/RDACarrierType/1018 $2rdacarrier
 * 338  ##  $aonline resource $2rdacarrier@
 * 338  ##  $aonline resource $2rdacarrier@
 * 338  ##  $avolume $2rdacarrier
@@ -685,7 +674,6 @@ Poster som mangler 336, 337, 338, 380
 001: 999616207814702202 mangler følgende felt:  380 
 001: 999909094334702202 mangler følgende felt:  380 
 001: 999919962104602202 mangler følgende felt:  380 
-001: 999919970837702202 mangler følgende felt:  380 
 001: 999920049602702202 mangler følgende felt:  380 
 001: 999920096682602202 mangler følgende felt:  380 
 001: 999920130503302202 mangler følgende felt:  380 

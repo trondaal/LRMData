@@ -277,6 +277,8 @@
             </datafield>-->
             <datafield tag="130">               
                 <subfield code="a" type="http://rdaregistry.info/Elements/e/datatype/P20316" select="frbrizer:trim(.)" label="has variant title"/>
+                <subfield code="a" condition="../@ind2 ne '0' and exists($record/*:datafield[@tag='700' and @ind2='2' and *:subfield[@code='t']])" type="http://rdaregistry.info/Elements/x/datatype/P00029" select="'parent'"/>
+                <subfield code="a" condition="../@ind2 eq '0' and exists($record/*:datafield[@tag='700' and @ind2='2' and *:subfield[@code='t']])" type="http://rdaregistry.info/Elements/x/datatype/P00029" select="'aggregate'"/>
                 <!--<subfield code="h" type="http://rdaregistry.info/Elements/e/datatype/P20001" select="lower-case(frbrizer:trim(.))" label="has content type"/>-->
                 <!--<subfield code="l" type="http://rdaregistry.info/Elements/e/datatype/P20006" select="lower-case(.)" label="has language of expression"/>-->
             </datafield>

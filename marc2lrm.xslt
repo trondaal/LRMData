@@ -743,6 +743,24 @@
                               </xsl:call-template>
                            </xsl:copy>
                         </xsl:if>
+                        <xsl:if test="@code = 'a' and ../@ind2 ne '0' and exists($record/*:datafield[@tag='700' and @ind2='2' and *:subfield[@code='t']])">
+                           <xsl:copy>
+                              <xsl:call-template name="copy-content">
+                                 <xsl:with-param name="type"
+                                                 select="'http://rdaregistry.info/Elements/x/datatype/P00029'"/>
+                                 <xsl:with-param name="select" select="'parent'"/>
+                              </xsl:call-template>
+                           </xsl:copy>
+                        </xsl:if>
+                        <xsl:if test="@code = 'a' and ../@ind2 eq '0' and exists($record/*:datafield[@tag='700' and @ind2='2' and *:subfield[@code='t']])">
+                           <xsl:copy>
+                              <xsl:call-template name="copy-content">
+                                 <xsl:with-param name="type"
+                                                 select="'http://rdaregistry.info/Elements/x/datatype/P00029'"/>
+                                 <xsl:with-param name="select" select="'aggregate'"/>
+                              </xsl:call-template>
+                           </xsl:copy>
+                        </xsl:if>
                      </xsl:for-each>
                   </xsl:copy>
                </xsl:for-each>
