@@ -2117,7 +2117,7 @@
                         <xsl:copy>
                            <xsl:call-template name="copy-content">
                               <xsl:with-param name="type"
-                                              select="'http://rdaregistry.info/Elements/m/datatype/P30137'"/>
+                                              select="'http://rdaregistry.info/Elements/m/datatype/P30033'"/>
                               <xsl:with-param name="select" select="."/>
                            </xsl:call-template>
                         </xsl:copy>
