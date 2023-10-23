@@ -4,7 +4,7 @@ BIB2201 rapport over datasamling - oppdatert 5/6
 -------------------------------------------------------
 
 
-Antall poster i samlingen:140
+Antall poster i samlingen:137
 -------------------------------------------------------
 
 
@@ -176,41 +176,6 @@ Verk identifisert med URI
 * https://isni.org/isni/0000000046450913/collateral/08 = Walking on solid ground 
 * https://isni.org/isni/0000000046450913/collateral/09 = Jailhouse bound 
 * https://isni.org/isni/0000000046450913/collateral/10 = Doppelganger. 
-* https://isni.org/isni/0000000046450913/curiousthing = Curious thing 
-* https://isni.org/isni/0000000046450913/curiousthing/01 = Spring snow 
-* https://isni.org/isni/0000000046450913/curiousthing/02 = Curious thing in the middle 
-* https://isni.org/isni/0000000046450913/curiousthing/03 = The asylum of your arms 
-* https://isni.org/isni/0000000046450913/curiousthing/04 = Fishing 
-* https://isni.org/isni/0000000046450913/curiousthing/05 = Easy as Pi 
-* https://isni.org/isni/0000000046450913/curiousthing/06 = Second skin 
-* https://isni.org/isni/0000000046450913/curiousthing/07 = This beautiful place 
-* https://isni.org/isni/0000000046450913/curiousthing/08 = Great big day 
-* https://isni.org/isni/0000000046450913/curiousthing/09 = So many miles 
-* https://isni.org/isni/0000000046450913/curiousthing/10 = Follow your heart 
-* https://isni.org/isni/0000000046450913/curiousthing/11 = A little something 
-* https://isni.org/isni/0000000046450913/curiousthing/12 = While the world is sleeping. 
-* https://isni.org/isni/0000000046450913/picturegalleryblues = Picture gallery blues 
-* https://isni.org/isni/0000000046450913/picturegalleryblues/01 = The immigrant gangster 
-* https://isni.org/isni/0000000046450913/picturegalleryblues/02 = Blue Cadillac 
-* https://isni.org/isni/0000000046450913/picturegalleryblues/03 = Map of your heart 
-* https://isni.org/isni/0000000046450913/picturegalleryblues/04 = Picture gallery blues 
-* https://isni.org/isni/0000000046450913/picturegalleryblues/05 = Light at the top of the stairs 
-* https://isni.org/isni/0000000046450913/picturegalleryblues/06 = Small house 
-* https://isni.org/isni/0000000046450913/picturegalleryblues/07 = That's how it is 
-* https://isni.org/isni/0000000046450913/picturegalleryblues/08 = Run away 
-* https://isni.org/isni/0000000046450913/picturegalleryblues/09 = Marigold Hall 
-* https://isni.org/isni/0000000046450913/picturegalleryblues/10 = Last ditch 
-* https://isni.org/isni/0000000046450913/troubledsleep = Troubled sleep 
-* https://isni.org/isni/0000000046450913/troubledsleep/00 = Empty promises 
-* https://isni.org/isni/0000000046450913/troubledsleep/01 = Life outside these walls 
-* https://isni.org/isni/0000000046450913/troubledsleep/02 = Nobody but you 
-* https://isni.org/isni/0000000046450913/troubledsleep/03 = Wild beneath my window 
-* https://isni.org/isni/0000000046450913/troubledsleep/04 = When my boat is built again 
-* https://isni.org/isni/0000000046450913/troubledsleep/05 = Why don't you stay 
-* https://isni.org/isni/0000000046450913/troubledsleep/06 = Dreams 
-* https://isni.org/isni/0000000046450913/troubledsleep/07 = Cows 
-* https://isni.org/isni/0000000046450913/troubledsleep/08 = Waltz with the Captain's daughter 
-* https://isni.org/isni/0000000046450913/troubledsleep/09 = Troubled sleep. 
 * https://www.imdb.com/title/tt0149624 = All the pretty horses 
 * https://www.imdb.com/title/tt0477348 = / No country for old men / No country for old men (Motion picture) (Motion picture)
 * https://www.imdb.com/title/tt0898367 = The Road / Road (Motion picture : 2009) 
@@ -274,7 +239,6 @@ men det er jo ikke nødvendigvis feil!
 * 830  #0  $aGyldendal pocket
 * 830  #0  $aGyldendals små grå
 * 830  #0  $aMini-Vita
-* 830  #0  $aRedbird series.
 * 830  #0  $aS film
 
 
@@ -286,7 +250,7 @@ sjekker bare feltene 100, 110, 111, 700, 710, 711
 * aut  : 10 
 * drt  : 3 
 * nrt  : 2 
-* prf  : 4 
+* prf  : 1 
 * pro  : 2 
 * trl  : 32 
 
@@ -297,7 +261,7 @@ verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 * http://rdaregistry.info/Elements/e/object/P20012 (has actor agent) : 29 
 * http://rdaregistry.info/Elements/e/object/P20022 (has narrator agent) : 4 
 * http://rdaregistry.info/Elements/e/object/P20037 (has translator agent) : 32 
-* http://rdaregistry.info/Elements/e/object/P20039 (has performer agent) : 4 
+* http://rdaregistry.info/Elements/e/object/P20039 (has performer agent) : 1 
 * http://rdaregistry.info/Elements/e/object/P20055 (has editor agent of moving image work) : 1 
 * http://rdaregistry.info/Elements/w/object/P10013 (has film director agent) : 11 
 * http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work) : 1 
@@ -485,50 +449,6 @@ I praksis er det 700-felter med ind2=2, $t og $1
 * 700  12  $aMcCarthy, Cormac  $tThe working poor  $1https://isni.org/isni/0000000046450913/collateral/02
 * 700  12  $aMcCarthy, Cormac  $tWalking on solid ground  $1https://isni.org/isni/0000000046450913/collateral/08
 * 700  12  $aMcCarthy, Cormac  $tYou can't outrun the hounds  $1https://isni.org/isni/0000000046450913/collateral/07
-001 = 18420986 
-* 100  1#  $aMcCarthy, Cormac  $c(Singer)  $1https://isni.org/isni/0000000046450913  $4prf  $4http://rdaregistry.info/Elements/e/object/P20039
-* 240  10  $aCurious thing  $kRecordings collection  $1https://isni.org/isni/0000000046450913/curiousthing
-* 245  10  $aCurious thing  $cCormac McCarthy.  $h[sound recording] /
-* 700  12  $aMcCarthy, Cormac  $tA little something  $1https://isni.org/isni/0000000046450913/curiousthing/11
-* 700  12  $aMcCarthy, Cormac  $tCurious thing in the middle  $1https://isni.org/isni/0000000046450913/curiousthing/02
-* 700  12  $aMcCarthy, Cormac  $tEasy as Pi  $1https://isni.org/isni/0000000046450913/curiousthing/05
-* 700  12  $aMcCarthy, Cormac  $tFishing  $1https://isni.org/isni/0000000046450913/curiousthing/04
-* 700  12  $aMcCarthy, Cormac  $tFollow your heart  $1https://isni.org/isni/0000000046450913/curiousthing/10
-* 700  12  $aMcCarthy, Cormac  $tGreat big day  $1https://isni.org/isni/0000000046450913/curiousthing/08
-* 700  12  $aMcCarthy, Cormac  $tSecond skin  $1https://isni.org/isni/0000000046450913/curiousthing/06
-* 700  12  $aMcCarthy, Cormac  $tSo many miles  $1https://isni.org/isni/0000000046450913/curiousthing/09
-* 700  12  $aMcCarthy, Cormac  $tSpring snow  $1https://isni.org/isni/0000000046450913/curiousthing/01
-* 700  12  $aMcCarthy, Cormac  $tThe asylum of your arms  $1https://isni.org/isni/0000000046450913/curiousthing/03
-* 700  12  $aMcCarthy, Cormac  $tThis beautiful place  $1https://isni.org/isni/0000000046450913/curiousthing/07
-* 700  12  $aMcCarthy, Cormac  $tWhile the world is sleeping.  $1https://isni.org/isni/0000000046450913/curiousthing/12
-001 = 12077961 
-* 100  1#  $aMcCarthy, Cormac  $c(Singer)  $1https://isni.org/isni/0000000046450913  $4prf  $4http://rdaregistry.info/Elements/e/object/P20039
-* 240  10  $aPicture gallery blues  $kRecordings collection  $1https://isni.org/isni/0000000046450913/picturegalleryblues
-* 245  10  $aPicture gallery blues  $cCormac McCarthy.  $h[sound recording] /
-* 700  12  $aMcCarthy, Cormac  $tBlue Cadillac  $1https://isni.org/isni/0000000046450913/picturegalleryblues/02
-* 700  12  $aMcCarthy, Cormac  $tLast ditch  $1https://isni.org/isni/0000000046450913/picturegalleryblues/10
-* 700  12  $aMcCarthy, Cormac  $tLight at the top of the stairs  $1https://isni.org/isni/0000000046450913/picturegalleryblues/05
-* 700  12  $aMcCarthy, Cormac  $tMap of your heart  $1https://isni.org/isni/0000000046450913/picturegalleryblues/03
-* 700  12  $aMcCarthy, Cormac  $tMarigold Hall  $1https://isni.org/isni/0000000046450913/picturegalleryblues/09
-* 700  12  $aMcCarthy, Cormac  $tPicture gallery blues  $1https://isni.org/isni/0000000046450913/picturegalleryblues/04
-* 700  12  $aMcCarthy, Cormac  $tRun away  $1https://isni.org/isni/0000000046450913/picturegalleryblues/08
-* 700  12  $aMcCarthy, Cormac  $tSmall house  $1https://isni.org/isni/0000000046450913/picturegalleryblues/06
-* 700  12  $aMcCarthy, Cormac  $tThat's how it is  $1https://isni.org/isni/0000000046450913/picturegalleryblues/07
-* 700  12  $aMcCarthy, Cormac  $tThe immigrant gangster  $1https://isni.org/isni/0000000046450913/picturegalleryblues/01
-001 = 5628905 
-* 100  1#  $aMcCarthy, Cormac  $c(Singer)  $1https://isni.org/isni/0000000046450913  $4prf  $4http://rdaregistry.info/Elements/e/object/P20039
-* 240  10  $aTroubled sleep  $kRecordings collection  $1https://isni.org/isni/0000000046450913/troubledsleep
-* 245  10  $aTroubled sleep /  $cCormac McCarthy.
-* 700  12  $aMcCarthy, Cormac  $tCows  $1https://isni.org/isni/0000000046450913/troubledsleep/07
-* 700  12  $aMcCarthy, Cormac  $tDreams  $1https://isni.org/isni/0000000046450913/troubledsleep/06
-* 700  12  $aMcCarthy, Cormac  $tEmpty promises  $1https://isni.org/isni/0000000046450913/troubledsleep/00
-* 700  12  $aMcCarthy, Cormac  $tLife outside these walls  $1https://isni.org/isni/0000000046450913/troubledsleep/01
-* 700  12  $aMcCarthy, Cormac  $tNobody but you  $1https://isni.org/isni/0000000046450913/troubledsleep/02
-* 700  12  $aMcCarthy, Cormac  $tTroubled sleep.  $1https://isni.org/isni/0000000046450913/troubledsleep/09
-* 700  12  $aMcCarthy, Cormac  $tWaltz with the Captain's daughter  $1https://isni.org/isni/0000000046450913/troubledsleep/08
-* 700  12  $aMcCarthy, Cormac  $tWhen my boat is built again  $1https://isni.org/isni/0000000046450913/troubledsleep/04
-* 700  12  $aMcCarthy, Cormac  $tWhy don't you stay  $1https://isni.org/isni/0000000046450913/troubledsleep/05
-* 700  12  $aMcCarthy, Cormac  $tWild beneath my window  $1https://isni.org/isni/0000000046450913/troubledsleep/03
 
 
 Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke analytter)
@@ -608,7 +528,6 @@ Opplisting som viser bruken av 336 $a, $b, $0, $2
 * 336  ##  $atwo-dimensional moving image  $btdi $2rdacontent
 * 336  ##  $atext  $btxt $2rdacontent
 * 336  ##  $aperformed music  $0http://rdaregistry.info/termList/RDAContentType/1011 $2rdacontent
-* 336  ##  $aperformed music  $bprm $2rdacontent
 
 
 Opplisting som viser bruken av 337 $a, $b, $0, $2
@@ -622,7 +541,6 @@ Opplisting som viser bruken av 337 $a, $b, $0, $2
 * 337  ##  $aunmediated $2rdamedia
 * 337  ##  $avideo  $bv $2rdamedia
 * 337  ##  $aunmediated  $bn $2rdamedia
-* 337  ##  $aaudio  $bs $2rdamedia
 
 
 Opplisting som viser bruken av 338 $a, $b, $0, $2
@@ -643,7 +561,6 @@ Opplisting som viser bruken av 338 $a, $b, $0, $2
 * 338  ##  $aaudiocassette  $0http://rdaregistry.info/termList/RDACarrierType/1007 $2rdacarrier
 * 338  ##  $avolume  $bnc $2rdacarrier
 * 338  ##  $acompact disc  $0http://rdaregistry.info/termList/RDACarrierType/1013 $2rdacarrier
-* 338  ##  $aaudio disc  $bsd $2rdacarrier
 
 
 Opplisting som viser bruken av 380 $a, $0, $2
@@ -789,6 +706,3 @@ Poster som mangler 336, 337, 338, 380
 001: 2265807 mangler følgende felt:  380 
 001: 21222329 mangler følgende felt:  380 
 001: 18420971 mangler følgende felt:  380 
-001: 18420986 mangler følgende felt:  380 
-001: 12077961 mangler følgende felt:  380 
-001: 5628905 mangler følgende felt:  380 
