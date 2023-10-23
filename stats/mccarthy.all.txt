@@ -131,7 +131,7 @@ Verk identifisert med URI
 * http://viaf.org/viaf/309357400 = The crossing / The crossing. 
 * http://viaf.org/viaf/3417153653286155900001 = Cities of the plain / Cities of the plain. 
 * http://viaf.org/viaf/4440159478236227990002 = The Sunset Limited 
-* http://viaf.org/viaf/470166838899836200007 = The passenger 
+* http://viaf.org/viaf/470166838899836200007 = The passenger / The Passenger 
 * http://viaf.org/viaf/470166838899836200007/stellamaris = Stella Maris 
 * http://viaf.org/viaf/5191807/theroad = The road 
 * http://viaf.org/viaf/8419162723677961290005 = The stonemason 
@@ -553,6 +553,8 @@ Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke an
 * http://rdaregistry.info/Elements/w/object/P10129 (is motion picture adaptation of work) -> No country for old men (758)
 001 = 20691857, Road (Motion picture : 2009) /  
 * http://rdaregistry.info/Elements/w/object/P10129 (is motion picture adaptation of work) -> The road (758)
+001 = 22464976, Stella Maris / McCarthy, Cormac, /  
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) -> The Passenger (758)
 
 
 Poster med felt hvor $4 burde vært med i 700 felt
