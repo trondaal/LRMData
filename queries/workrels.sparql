@@ -11,14 +11,14 @@ select distinct ?s ?p ?l ?o
   	            ?s ?p ?o.
                 ?s rdf:type rdac:C10001.
                 ?o rdf:type rdac:C10001.
-    	        ?p rdfs:label ?l.
-    	        FILTER(LANG(?l) = "en" &&
+    	    ?p rdfs:label ?l.
+    	    FILTER(LANG(?l) = "en" &&
                 (!contains(str(?p),   'P10187')
-    	        && !contains(str(?p), 'P10140')
+    	    && !contains(str(?p), 'P10140')
                 && !contains(str(?p), 'P10257')
                 && !contains(str(?p), 'P10319')
                 && !contains(str(?p), 'P10010')
-        		&& !contains(str(?p), 'P10019'))
-        
+        	&& !contains(str(?p), 'P10019')
+        	&& !contains(str(?p), 'P10147'))
         )
 }order by ?l
