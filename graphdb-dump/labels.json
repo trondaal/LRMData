@@ -5562,6 +5562,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://example.org/"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Goldstein, Ann"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/110033000"
                 },
                 "label": {
@@ -11802,16 +11812,6 @@
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/1125155953594542630002/exp/eng"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Storia della bambina perduta / eng / text"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/1383154137632115370007/exp/nob/1020/229584656"
                 },
                 "label": {
@@ -12097,66 +12097,6 @@
                 "label": {
                     "type": "literal",
                     "value": "Rene barnematen / text"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/313294935/exp/eng"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "L'amica geniale / eng / text"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/315937141/exp/eng"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Ferrante, Elena / eng / text"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/315937141/exp/eng"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Storia di chi fugge e di chi resta / eng / text"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/316873931/exp/eng"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Ferrante, Elena / eng / text"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/316873931/exp/eng"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Storia del nuovo cognome / eng / text"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/32103009/boxedset/exp/eng"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "The Neapolitan novels boxed set / eng / text"
                 }
             },
             {
@@ -12637,6 +12577,76 @@
                 "label": {
                     "type": "literal",
                     "value": "Stemmer fra Balkan / text"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/1125155953594542630002/exp/eng/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Storia della bambina perduta / eng / text"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/313294935/exp/eng/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "L'amica geniale / eng / text"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/315937141/exp/eng/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Ferrante, Elena / eng / text"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/315937141/exp/eng/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Storia di chi fugge e di chi resta / eng / text"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/316873931/exp/eng/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Ferrante, Elena / eng / text"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/316873931/exp/eng/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Storia del nuovo cognome / eng / text"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/32103009/boxedset/exp/eng/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "The Neapolitan novels boxed set / eng / text"
                 }
             },
             {
