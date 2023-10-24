@@ -447,7 +447,7 @@
                 <!--<subfield code="l" type="http://marc21rdf.info/elements/marc/M49000l"/>-->
             </datafield>
             <datafield tag="500">
-                <subfield code="a" type="http://rdaregistry.info/Elements/m/datatype/P30137" label="note"/>
+                <subfield code="a" type="http://rdaregistry.info/Elements/m/datatype/P30137" label="has general note"/>
             </datafield>
             <datafield tag="505">
                 <subfield code="a" type="http://rdaregistry.info/Elements/m/datatype/P30033" label="har part manifestation(s)"/>
