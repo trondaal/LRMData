@@ -127,7 +127,7 @@ YIELD node
 RETURN node;
 
 MATCH (r:Resource)
-SET r += {titles: '', names: '', types: ''};
+SET r += {titles: '', names: '', types: '', uris: ''};
 
 //UPDATE FIELDS FOR FULLTEXT INDEXING OF NODES
 //NAMES
