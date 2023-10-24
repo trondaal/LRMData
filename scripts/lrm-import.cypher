@@ -7,7 +7,7 @@ DROP INDEX resource_uri;
 
 CREATE INDEX resource_uri FOR (n:Resource) ON n.uri;
 
-CREATE FULLTEXT INDEX expressions FOR (n:Expression) ON EACH [n.title, n.titles, n.titlevariant, n.titlepreferred, n.contentsnote, n.names, n.form, n.types];
+CREATE FULLTEXT INDEX expressions FOR (n:Expression) ON EACH [n.title, n.titles, n.titlevariant, n.titlepreferred, n.contentsnote, n.names, n.form, n.types, n.uris, n.ids];
 CREATE FULLTEXT INDEX works FOR (n:Work) ON EACH [n.title, n.titles, n.titlevariant, n.titlepreferred, n.names, n.types, n.form];
 
 WITH "entities.json" AS url
@@ -127,7 +127,7 @@ YIELD node
 RETURN node;
 
 MATCH (r:Resource)
-SET r += {titles: '', names: '', types: ''};
+SET r += {titles: '', names: '', types: '', uris: '', ids: ''};
 
 //UPDATE FIELDS FOR FULLTEXT INDEXING OF NODES
 //NAMES
@@ -194,6 +194,33 @@ set e.titles = e.titles + w.title + " : ";
 //FORM, TYPE AND LANGUAGE
 MATCH (e:Expression)-[:REALIZES]-(w:Work) where w.form IS NOT NULL
 set e.types = e.types + w.form + " : ";
+
+//URIs
+MATCH (e:Expression) where e.uri IS NOT NULL
+set e.uris = e.uris + e.uri + " ";
+
+MATCH (e:Expression)-[:REALIZES]-(w:Work) where w.uri IS NOT NULL
+set e.uris = e.uris + w.uri + " ";
+
+MATCH (e:Expression)-[:CREATOR]-(a:Agent) where a.uri IS NOT NULL
+set e.uris = e.uris + a.uri + " : ";
+
+MATCH (e:Expression)-[:REALIZES]-(w:Work)-[:CREATOR]-(a:Agent) where a.uri IS NOT NULL
+set e.uris = e.uris + a.uri + " : ";
+
+//Identifiers
+MATCH (e:Expression)
+set e.ids = e.ids +  ID(e) + " ";
+
+MATCH (e:Expression)-[:REALIZES]-(w:Work)
+set e.ids = e.ids + ID(w) + " ";
+
+MATCH (e:Expression)-[:CREATOR]-(a:Agent)
+set e.ids = e.ids + ID(a) + " : ";
+
+MATCH (e:Expression)-[:REALIZES]-(w:Work)-[:CREATOR]-(a:Agent)
+set e.ids = e.ids + ID(a) + " : ";
+
 
 //NAMES FOR INDEXING WORKS
 MATCH (w:Work)-[:CREATOR]-(a:Agent) where a.name IS NOT NULL
