@@ -208,18 +208,23 @@ set e.uris = e.uris + a.uri + " : ";
 MATCH (e:Expression)-[:REALIZES]-(w:Work)-[:CREATOR]-(a:Agent) where a.uri IS NOT NULL
 set e.uris = e.uris + a.uri + " : ";
 
-//Identifiers
+//Identifiers for expressions
 MATCH (e:Expression)
-set e.ids = e.ids +  ID(e) + " ";
+set e.id = "E" + ID(e);
+MATCH (e:Expression)
+set e.ids = e.ids +  e.id  + " ";
 
+MATCH (w:Work)
+set w.id = "W" + ID(w);
 MATCH (e:Expression)-[:REALIZES]-(w:Work)
-set e.ids = e.ids + ID(w) + " ";
+set e.ids = e.ids + w.id + " ";
 
+MATCH (a:Agent)
+set a.id = "A" + ID(a);
 MATCH (e:Expression)-[:CREATOR]-(a:Agent)
-set e.ids = e.ids + ID(a) + " : ";
-
+set e.ids = e.ids + a.id + " : ";
 MATCH (e:Expression)-[:REALIZES]-(w:Work)-[:CREATOR]-(a:Agent)
-set e.ids = e.ids + ID(a) + " : ";
+set e.ids = e.ids + a.id + " : ";
 
 
 //NAMES FOR INDEXING WORKS
