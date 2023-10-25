@@ -49,7 +49,7 @@
                 <xsl:variable name="collection" select="."/>
                 
                 <!-- Heading og antall poster -->
-                <xsl:copy-of select="bib:header('BIB2201 rapport over datasamling - oppdatert 5/6', $format)"/>              
+                <xsl:copy-of select="bib:header('VBINF6000 rapport over datasamling - oppdatert 24/10 2023', $format)"/>              
                 <xsl:copy-of select="bib:header(('Antall poster i samlingen:' || count(marc:record)), $format)"/>
                 
                 <!-- Diverse tester for syntaks- og andre feil -->
@@ -113,12 +113,12 @@
                 </xsl:call-template>
 
                 <!-- Leter etter verk som ikke er identifisert med URI-->        
-                <xsl:variable name="missingworks" select="(marc:record/marc:datafield[@tag = ('130', '240', '630', '730', '830')],marc:record/marc:datafield[@tag = ('600', '610', '611', '700', '710', '711', '800', '810', '811') and marc:subfield/@code = 't'])[not(marc:subfield/@code = '1')]"/>
+                <!--<xsl:variable name="missingworks" select="(marc:record/marc:datafield[@tag = ('130', '240', '630', '730', '830')],marc:record/marc:datafield[@tag = ('600', '610', '611', '700', '710', '711', '800', '810', '811') and marc:subfield/@code = 't'])[not(marc:subfield/@code = '1')]"/>
                 <xsl:if test="count($missingworks) > 0">
                         <xsl:copy-of
                                 select="bib:header(('Innførsler som IKKE er identifisert som verk på grunn av manglende URI i $1','men det er jo ikke nødvendigvis feil!'), $format)"/>
                         <xsl:copy-of select="bib:fieldlist($missingworks, $format)"/>
-                </xsl:if>
+                </xsl:if>-->
                 
                 <!-- Leter etter poster som ikke har verk identifisert med URI-->        
                 <xsl:variable name="missingworkuris" select="marc:record[not(marc:datafield[@tag = ('130', '240')]/marc:subfield/@code = '1') and not (marc:datafield[@tag = ('700', '710', '711') and @ind2 eq '2'][marc:subfield/@code = '1'][marc:subfield/@code = 't']) and not (marc:datafield[@tag = ('730') and @ind2 eq '2'][marc:subfield/@code = '1'][marc:subfield/@code = 'a'])] "/>
@@ -141,10 +141,10 @@
                 </xsl:call-template>
                
                 <!-- Oversikt over MARC 21 relator codes -->
-                <xsl:call-template name="relatorcodes">
+                <!--<xsl:call-template name="relatorcodes">
                         <xsl:with-param name="collection" select="$collection"/>
                         <xsl:with-param name="format" select="$format"/>
-                </xsl:call-template>
+                </xsl:call-template>-->
                 
                 <!-- Oversikt over URI relasjonstyper for Agent -->
                 <xsl:call-template name="agenturis">
@@ -154,7 +154,7 @@
      
                 
                 <!-- Agenter med URI og relasjonstyper som er brukt for disse -->
-                <xsl:copy-of
+                <!--<xsl:copy-of
                         select="bib:header('Personer med URI og relasjonstyper som er brukt for disse', $format)"/>
                 <xsl:for-each-group
                         select="marc:record/marc:datafield[@tag = ('100', '110', '111', '600', '610', '611', '700', '710', '711') and not(marc:subfield[@code='t']) and starts-with(normalize-space(marc:subfield[@code = '1']), 'http')]"
@@ -170,7 +170,7 @@
                                 />
                         </xsl:for-each-group>
 
-                </xsl:for-each-group>
+                </xsl:for-each-group>-->
                 
                 <!-- Verk til verk relasjonstyper brukt -->
                 <xsl:call-template name="wortoworkrelationshiptypes">
@@ -178,6 +178,7 @@
                         <xsl:with-param name="format" select="$format"/>
                 </xsl:call-template>
                 
+               <!--
                 <xsl:copy-of
                         select="bib:header(('Analytter (dvs en publikasjon som har flere deler)', 'I praksis er det 700-felter med ind2=2, $t og $1'), $format)"/>
                 <xsl:choose>
@@ -200,7 +201,7 @@
                                 <xsl:copy-of
                                         select="bib:printasline('Ser ut som dere mangler slike poster?', $format)"/>
                         </xsl:otherwise>
-                </xsl:choose>
+                </xsl:choose>-->
                 
                 <!-- Verk til verk relasjoner -->
                 <xsl:call-template name="wortoworkrelationships">
@@ -209,7 +210,7 @@
                 </xsl:call-template>               
     
                 <!-- Poster med felt hvor $i OG $4 burde vært med i 700 felt -->
-                <xsl:if test="marc:record[marc:datafield[@tag = ('700', '710', '711') and not(marc:subfield[@code = '4']) and not(@ind2 = '2') and marc:subfield[@code = 't']]]">
+                <!--<xsl:if test="marc:record[marc:datafield[@tag = ('700', '710', '711') and not(marc:subfield[@code = '4']) and not(@ind2 = '2') and marc:subfield[@code = 't']]]">
                         <xsl:copy-of
                                 select="bib:header('Poster med felt hvor $4 burde vært med i 700 felt', $format)"/>
                         <xsl:for-each
@@ -222,11 +223,11 @@
                         <xsl:copy-of
                                 select="bib:newline()"
                         />
-                </xsl:if>
+                </xsl:if>-->
                 
  
 
-                <xsl:copy-of select="bib:header('Opplisting som viser bruken av 336 $a, $b, $0, $2', $format)"/>
+                <!--<xsl:copy-of select="bib:header('Opplisting som viser bruken av 336 $a, $b, $0, $2', $format)"/>
                 <xsl:for-each-group select="/*//marc:datafield[@tag = ('336')]"
                         group-by="marc:subfield[@code = 'a'][1] || marc:subfield[@code = 'b'][1] || marc:subfield[@code = '0'][1] || marc:subfield[@code = '2'][1]">
                         <xsl:copy-of select="bib:fieldlist(current-group()[1], $format)"/>
@@ -248,10 +249,10 @@
                 <xsl:for-each-group select="/*//marc:datafield[@tag = ('380')]"
                         group-by="marc:subfield[@code = 'a'][1] || marc:subfield[@code = '0'][1] || marc:subfield[@code = '2'][1]">
                         <xsl:copy-of select="bib:fieldlist(current-group()[1], $format)"/>
-                </xsl:for-each-group>
+                </xsl:for-each-group>-->
     
                 <!-- Poster som mangler 336, 337, 338, 380 (tom liste = bra) -->
-                <xsl:variable name="fields" select="marc:record[not(marc:datafield[@tag = ('336')]) or not(marc:datafield[@tag = ('337')]) or not(marc:datafield[@tag = ('338')]) or not(marc:datafield[@tag = ('380')])]"/>
+                <!--<xsl:variable name="fields" select="marc:record[not(marc:datafield[@tag = ('336')]) or not(marc:datafield[@tag = ('337')]) or not(marc:datafield[@tag = ('338')]) or not(marc:datafield[@tag = ('380')])]"/>
                 <xsl:if test="count($fields) > 0">
                         <xsl:copy-of select="bib:header('Poster som mangler 336, 337, 338, 380', $format)"/>
                         <xsl:for-each select="$fields">
@@ -272,7 +273,7 @@
                                 </xsl:variable>
                                 <xsl:copy-of select="bib:printasline(('001:', $id, 'mangler følgende felt: ', string-join($tags, ', ')), $format)"/>
                         </xsl:for-each>
-                </xsl:if>
+                </xsl:if>-->
         </xsl:template>
         
         
@@ -900,10 +901,11 @@
         <xsl:template name="wortoworkrelationshiptypes">
                 <xsl:param name="collection" required="yes"/>
                 <xsl:param name="format" required="yes"/>
-                <xsl:copy-of
-                        select="bib:header(('Verk til verk RDA relasjonstyper i 7XX $4-subfelt + label fra RDA registry'), $format)"/>
                 <xsl:choose>
-                        <xsl:when test="not(/*//marc:datafield[@tag = ('700', '710', '711', '730', '758') and marc:subfield[(../@tag = ('700', '710', '711') and @code = 't') or (../@tag = ('730') and @code = 't')] and @ind2 != '2' and (some $x in marc:subfield[@code = '4'] satisfies starts-with($x, 'http'))])">
+                        
+                        <xsl:when test="not(/*//marc:datafield[(@tag = '758') or (@tag = '700' and @ind2!='2' and *:subfield/@code='t')][some $x in marc:subfield[@code = '4'] satisfies starts-with($x, 'http')])">
+                                <xsl:copy-of
+                                        select="bib:header(('Verk til verk RDA relasjonstyper i 700 og 758 $4-subfelt + label fra RDA registry'), $format)"/>
                                 <xsl:copy-of
                                         select="bib:printasline('Ser ut som dere mangler verk-til-verk relasjoner?', $format)"/>
                         </xsl:when>
@@ -912,10 +914,10 @@
                                         <xsl:when test="$format eq 'fo'">
                                                 <fo:list-block provisional-distance-between-starts="20pt" provisional-label-separation="6pt">
                                                         <xsl:for-each-group
-                                                                select="/*//marc:datafield[@tag = ('700', '710', '711', '730', '758') and marc:subfield[(../@tag = ('700', '710', '711') and @code = 't') or (../@tag = ('730') and @code = 't')] and @ind2 != '2' and (some $x in marc:subfield[@code = '4'] satisfies starts-with($x, 'http'))]"
+                                                                select="/*//marc:datafield[(@tag = '758') or (@tag = '700' and @ind2!='2' and *:subfield/@code='t')][some $x in marc:subfield[@code = '4'] satisfies starts-with($x, 'http')]"
                                                                 group-by="if (marc:subfield[@code = '4' and starts-with(., 'http')]) then marc:subfield[@code = '4' and starts-with(., 'http')]/normalize-space() else 'mangler $4 med URI'">
                                                                 <xsl:sort select="current-grouping-key()"/>
-                                                                <xsl:variable name="label" select="document('rda.labels.rdf')/rdf:RDF/rdf:Description[@rdf:about=current-grouping-key()]/rdfs:label"/>
+                                                                <xsl:variable name="label" select="document('rda.labels.rdf')/rdf:RDF/rdf:Description[@rdf:about=normalize-space(current-grouping-key())]/rdfs:label"/>
                                                                 <fo:list-item>
                                                                         <fo:list-item-label end-indent="label-end()">
                                                                                 <fo:block>
@@ -941,12 +943,14 @@
                                                 </fo:list-block>
                                         </xsl:when>
                                         <xsl:otherwise>
+                                                <xsl:copy-of
+                                                        select="bib:header(('Verk til verk RDA relasjonstyper i 700 og 758 $4-subfelt + label fra RDA registry'), $format)"/>
                                                 <xsl:for-each-group
-                                                        select="/*//marc:datafield[@tag = ('700', '710', '711') and marc:subfield[@code = 't'] and @ind2 != '2' and (some $x in marc:subfield[@code = '4'] satisfies starts-with($x, 'http'))]"
-                                                        group-by="if (marc:subfield[@code = '4' and starts-with(., 'http')]) then marc:subfield[@code = '4' and starts-with(., 'http')] else 'mangler $4 med URI'">
+                                                        select="/*//marc:datafield[(@tag = '758') or (@tag = '700' and @ind2!='2' and *:subfield/@code='t')][some $x in marc:subfield[@code = '4'] satisfies starts-with($x, 'http')]"
+                                                        group-by="if (marc:subfield[@code = '4' and starts-with(., 'http')]) then marc:subfield[@code = '4' and starts-with(., 'http')]/normalize-space() else 'mangler $4 med URI'">
                     
                                                         <xsl:sort select="current-grouping-key()"/>
-                                                        <xsl:variable name="label" select="document('rda.labels.rdf')/rdf:RDF/rdf:Description[@rdf:about=current-group()/marc:subfield[@code='4'][starts-with(., 'http')][1]]/rdfs:label"/>
+                                                        <xsl:variable name="label" select="document('rda.labels.rdf')/rdf:RDF/rdf:Description[@rdf:about=normalize-space(current-grouping-key())]/rdfs:label"/>
                                                         <xsl:copy-of
                                                                 select="bib:printasline('* ' || string-join((current-grouping-key() || ' (' || string-join($label, ' xxx ') || ') : ' || count(current-group()))), $format)"/>
                                                 </xsl:for-each-group>
@@ -1042,7 +1046,7 @@
                                                         <xsl:for-each select="./marc:datafield[@tag=('600', '610', '611')][marc:subfield/@code='1'][not(marc:subfield/@code='t')]">
                                                                 <xsl:variable name="target" select="./marc:subfield[@code='a']"/>
                                                                 <label>
-                                                                        <xsl:value-of select="'has subject agent' || ' -> ' || $target || ' (' || @tag || ')'"/>
+                                                                        <xsl:value-of select="'http://rdaregistry.info/Elements/w/object/P10319 (has subject agent)' || ' -> ' || $target || ' (' || @tag || ')'"/>
                                                                 </label>                                                                
                                                         </xsl:for-each>
                                                         <xsl:for-each select="./marc:datafield[@tag=('600', '610', '611')][marc:subfield/@code='1'][marc:subfield/@code='t']">

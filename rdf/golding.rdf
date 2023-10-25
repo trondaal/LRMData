@@ -31,6 +31,13 @@
       <rdawo:P10061 rdf:resource="http://example.org/names/horstsilke"/>
       <rdawo:P10150 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://example.org/nobelpresi1983-1985">
+      <rdaxd:P00018>http://example.org/nobelpresi1983-1985</rdaxd:P00018>
+      <rdawd:P10088>Nobelpreis 1983-1985</rdawd:P10088>
+      <rdfs:label>Nobelpreis 1983-1985 ()</rdfs:label>
+      <rdaxd:P00029>Collection</rdaxd:P00029>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://oslomet.workid.no/wg/01">
       <rdaxd:P00018>http://oslomet.workid.no/wg/01</rdaxd:P00018>
       <rdawd:P10088>An Egyptian Journal</rdawd:P10088>
@@ -431,6 +438,7 @@
       <rdaxd:P00018>http://www.wikidata.org/entity/Q4394863</rdaxd:P00018>
       <rdawd:P10088>To the Ends of the Earth</rdawd:P10088>
       <rdfs:label>To the Ends of the Earth (Golding, William)</rdfs:label>
+      <rdaxd:P00029>Collection</rdaxd:P00029>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
       <rdawo:P10147 rdf:resource="http://viaf.org/viaf/176165653"/>
@@ -937,6 +945,19 @@
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20231 rdf:resource="http://example.org/names/horstsilke/lordoftheflies"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://example.org/nobelpresi1983-1985/exp/ger/1020">
+      <rdaed:P20316>Nobelpreis 1983-1985</rdaed:P20316>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>Der Turm der Kathedrale : Nobelpreis 1983 England</rdaed:P20312>
+      <rdfs:label>Der Turm der Kathedrale / ger / text</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
+      <rdaeo:P20231 rdf:resource="http://example.org/nobelpresi1983-1985"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/178994871/exp/ger/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/312341155/exp/ger/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/313685914/exp/ger/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/198163223/exp/ger/1020"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://oslomet.workid.no/wg/01/exp/eng/1020">
       <rdaed:P20316>An Egyptian Journal</rdaed:P20316>
@@ -1975,7 +1996,7 @@
       <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>Lord of the flies ; : Pincher Martin ; Rites of passage</rdaed:P20312>
       <rdfs:label>Lord of the flies ; / eng / text</rdfs:label>
-      <rdaed:P20071>Contents: Lord of the flies. Originally published: London : Faber, 1954 _ Pincher Martin. Originally published: London : Faber, 1956 _ Rites of Passage. Originally published: London : Faber, 1980.</rdaed:P20071>
+      <rdaed:P20071>Lord of the flies -- Pincher Martin -- Rites of Passage</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/89500102/CollectionX"/>
@@ -2045,9 +2066,8 @@
       <rdfs:label>To the ends of the Earth / eng / text</rdfs:label>
       <rdaed:P20312>To the ends of the earth : a sea trilogy</rdaed:P20312>
       <rdaed:P20312>To the ends of the Earth : A sea trilogy comprising "Rites of Passage", "Close Quarters" and "Fire Down Below"</rdaed:P20312>
-      <rdaed:P20071>Contents: Rites of passage. Originally published: 1980 - Close quarters. Originally published: 1987 - Fire down below. Originally published: 1989.</rdaed:P20071>
-      <rdaed:P20071>Contents: Rites of passage - Close quarters - Fire down below.</rdaed:P20071>
-      <rdaed:P20071>Rites of passage -- Close quarters -- Fire down below.</rdaed:P20071>
+      <rdaed:P20071>Rites of passage -- Close quarters-- Fire down below</rdaed:P20071>
+      <rdaed:P20071>Rites of passage -- Close quarters -- Fire down</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/176165653/exp/eng/1020"/>
@@ -2070,21 +2090,16 @@
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q7762618/exp/eng/1020">
       <rdaed:P20316>The Scorpion God</rdaed:P20316>
       <rdaxd:P00029>parent</rdaxd:P00029>
-      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>The scorpion god : three short novels</rdaed:P20312>
       <rdfs:label>The scorpion god / eng / text</rdfs:label>
       <rdfs:label>The scorpion god: three short novels / eng / text</rdfs:label>
-      <rdaed:P20071>The scorpion god.--Clonk clonk.--Envoy extraordinary.</rdaed:P20071>
-      <rdaed:P20071>Contents: The scorpion god _ Clonk clonk _ Envoy extraordinary.</rdaed:P20071>
+      <rdaed:P20071>The scorpion god -- Clonk clonk -- Envoy extraordinary</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/308018847/exp/eng/1020"/>
       <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/180585027/exp/eng/1020"/>
       <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/177762289/exp/eng/1020"/>
       <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q7762618"/>
-      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/308018847/exp/eng/1020"/>
-      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/180585027/exp/eng/1020"/>
-      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/177762289/exp/eng/1020"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q7762618/exp/ger/1020/81823873">
       <rdaed:P20316>The Scorpion God</rdaed:P20316>
@@ -2092,6 +2107,7 @@
       <rdaed:P20312>Der Sonderbotschafter : Romane</rdaed:P20312>
       <rdfs:label>Der Sonderbotschafter / ger / text</rdfs:label>
       <rdaed:P20312>Der Sonderbotschafter</rdaed:P20312>
+      <rdaed:P20071>Der Skorpion-Gott -- Clonk Clonk -- Der Sonderbotschafter</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/81823873"/>
@@ -2102,24 +2118,25 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q7762618/exp/spa/1020">
       <rdaed:P20316>The Scorpion God</rdaed:P20316>
-      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaxd:P00029>parent</rdaxd:P00029>
       <rdaed:P20312>El dios Escorpión ; Clonc clonc ; El enviado especial</rdaed:P20312>
       <rdfs:label>El dios Escorpión ; Clonc clonc ; El enviado especial / spa / text</rdfs:label>
+      <rdaed:P20071>El dios Escorpión -- Clonc clonc -- El enviado especial</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/308018847/exp/spa/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/180585027/exp/spa/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/177762289/exp/spa/1020/12367718"/>
       <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q7762618"/>
-      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/308018847/exp/spa/1020"/>
-      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/180585027/exp/spa/1020"/>
-      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/177762289/exp/spa/1020/12367718"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q7762618/exp/spa/1020/12367718">
       <rdaed:P20316>The Scorpion God</rdaed:P20316>
-      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaxd:P00029>parent</rdaxd:P00029>
       <rdaed:P20312>El dios escorpión : tres novelas cortas</rdaed:P20312>
       <rdfs:label>El dios escorpión / spa / text</rdfs:label>
       <rdaed:P20312>El dios Escorpión : Clonc, clonc ; El enviado especial</rdaed:P20312>
       <rdaed:P20312>El dios escorpión</rdaed:P20312>
+      <rdaed:P20071>El dios Escorpión -- Clonc clonc -- El enviado especial</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/12367718"/>
@@ -2127,9 +2144,6 @@
       <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/180585027/exp/spa/1020/12367718"/>
       <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/177762289/exp/spa/1020/12367718"/>
       <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q7762618"/>
-      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/308018847/exp/spa/1020/12367718"/>
-      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/180585027/exp/spa/1020/12367718"/>
-      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/177762289/exp/spa/1020/12367718"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="https://www.imdb.com/title/tt0057261/exp/1023">
       <rdaed:P20316>Lord of the flies (Peter Brook)</rdaed:P20316>
@@ -2451,6 +2465,7 @@
       <rdamd:P30137>"Diese Ausgabe ist eine auf den Kreis der Nobelpreisfreunde beschränkte Auflage."</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://example.org/nobelpresi1983-1985/exp/ger/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/178994871/exp/ger/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/312341155/exp/ger/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/313685914/exp/ger/1020"/>
@@ -3003,6 +3018,7 @@
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30106>El Libro de Bolsillo. Sección: Literatura</rdamd:P30106>
       <rdamd:P30165>v. 468</rdamd:P30165>
+      <rdamd:P30033>El dios Escorpión -- Clonc clonc -- El enviado especial</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q7762618/exp/spa/1020/12367718"/>
@@ -3406,7 +3422,7 @@
       <rdamd:P30182>178 pages, 21 cm.</rdamd:P30182>
       <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
-      <rdamd:P30137>Contents: The scorpion god.-Clonk clonk.-Envoy extraordinary.</rdamd:P30137>
+      <rdamd:P30033>The scorpion god -- Clonk clonk -- Envoy extraordinary</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q7762618/exp/eng/1020"/>
@@ -3426,6 +3442,7 @@
       <rdamd:P30182>178 pages, 19 cm.</rdamd:P30182>
       <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30033>The Scorpion god -- Clonk Clonk -- Envoy Extraordinary</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q7762618/exp/eng/1020"/>
@@ -3578,7 +3595,7 @@
       <rdamd:P30182>517 pages, 23 cm.</rdamd:P30182>
       <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
-      <rdamd:P30033>Contents: Lord of the flies. Originally published: London : Faber, 1954 _ Pincher Martin. Originally published: London : Faber, 1956 _ Rites of Passage. Originally published: London : Faber, 1980.</rdamd:P30033>
+      <rdamd:P30033>Lord of the flies -- Pincher Martin -- Rites of Passage</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/89500102/CollectionX/exp/eng/1020"/>
@@ -3744,7 +3761,7 @@
       <rdamd:P30182>xii, 753 pages, 24 cm.</rdamd:P30182>
       <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
-      <rdamd:P30033>Contents: Rites of passage -- Close quarters -- Fire down below</rdamd:P30033>
+      <rdamd:P30033>Rites of passage -- Close quarters-- Fire down below</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q4394863/exp/eng/1020"/>
@@ -3781,6 +3798,7 @@
       <rdamd:P30182>xii,753p.</rdamd:P30182>
       <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30033>Rites of passage -- Close quarters-- Fire down below</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q4394863/exp/eng/1020"/>
@@ -3918,8 +3936,7 @@
       <rdamd:P30137>Originally published: 1991.</rdamd:P30137>
       <rdamd:P30137>Formerly CIP.</rdamd:P30137>
       <rdamd:P30137>Originally published: London : Faber, 1991.</rdamd:P30137>
-      <rdamd:P30033>Contents: Rites of passage. Originally published: 1980 - Close quarters. Originally published: 1987 - Fire down below. Originally published: 1989.</rdamd:P30033>
-      <rdamd:P30033>Rites of passage -- Close quarters -- Fire down below.</rdamd:P30033>
+      <rdamd:P30033>Rites of passage -- Close quarters-- Fire down below</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q4394863/exp/eng/1020"/>
@@ -3962,7 +3979,8 @@
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>Reissued on the occasion of the BBC television adaptation. _ Originally published: 1991.</rdamd:P30137>
       <rdamd:P30137>Formerly CIP.</rdamd:P30137>
-      <rdamd:P30033>Contents: Rites of passage - Close quarters - Fire down below.</rdamd:P30033>
+      <rdamd:P30033>Rites of passage -- Close quarters -- Fire down</rdamd:P30033>
+      <rdamd:P30033>Rites of passage -- Close quarters -- Fire down below</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q4394863/exp/eng/1020"/>
@@ -4099,7 +4117,7 @@
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30106>A New Portway large print book</rdamd:P30106>
       <rdamd:P30137>Originally published: London : Faber, 1971.</rdamd:P30137>
-      <rdamd:P30033>Contents: The scorpion god _ Clonk clonk _ Envoy extraordinary.</rdamd:P30033>
+      <rdamd:P30033>The scorpion god -- Clonk clonk -- Envoy extraordinary</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q7762618/exp/eng/1020"/>
@@ -4568,6 +4586,7 @@
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30106>El Libro de bolsillo</rdamd:P30106>
       <rdamd:P30165>468. Sección Literatura</rdamd:P30165>
+      <rdamd:P30033>El dios Escorpión -- Clonc clonc -- El enviado especial</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q7762618/exp/spa/1020/12367718"/>
@@ -4754,6 +4773,7 @@
       <rdamd:P30106>El libro de bolsillo. Literatura ;</rdamd:P30106>
       <rdamd:P30165>L 5637</rdamd:P30165>
       <rdamd:P30137>Originally published as: El dios Escorpión : tres novelas cortas, 1973.</rdamd:P30137>
+      <rdamd:P30033>El dios Escorpión -- Clonc clonc -- El enviado especial</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q7762618/exp/spa/1020"/>
@@ -4800,6 +4820,7 @@
       <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30106>Biblioteca fundamental de nuestro tiempo ;13. Sección Literatura</rdamd:P30106>
+      <rdamd:P30033>El dios Escorpión -- Clonc clonc -- El enviado especial</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q7762618/exp/spa/1020/12367718"/>
@@ -5650,7 +5671,7 @@
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>Originally published: 1971.</rdamd:P30137>
       <rdamd:P30137>Formerly CIP.</rdamd:P30137>
-      <rdamd:P30033>The scorpion God.--Clonk clonk.--Envoy extraordinary.</rdamd:P30033>
+      <rdamd:P30033>The scorpion God -- Clonk clonk -- Envoy extraordinary</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q7762618/exp/eng/1020"/>
@@ -5871,7 +5892,7 @@
       <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1003</rdamd:P30002>
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1018</rdamd:P30001>
       <rdamd:P30137>Envoy extraordinary originally published 1956.</rdamd:P30137>
-      <rdamd:P30033>The scorpion god.--Clonk clonk.--Envoy extraordinary.</rdamd:P30033>
+      <rdamd:P30033>The scorpion god -- Clonk clonk -- Envoy extraordinary</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q7762618/exp/eng/1020"/>
@@ -6641,6 +6662,7 @@
       <rdamd:P30106>[Ein Goldmann-Taschenbuch]</rdamd:P30106>
       <rdamd:P30165>6694</rdamd:P30165>
       <rdamd:P30137>Lizenz d. Claassen-Verl., Düsseldorf. - Enth. 3 Romane</rdamd:P30137>
+      <rdamd:P30033>Der Skorpion-Gott -- Clonk Clonk -- Der Sonderbotschafter</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q7762618/exp/ger/1020/81823873"/>
@@ -6873,6 +6895,7 @@
       <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>Enthält 3 Romane.</rdamd:P30137>
+      <rdamd:P30033>Der Skorpion-Gott -- Clonk Clonk -- Der Sonderbotschafter</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q7762618/exp/ger/1020/81823873"/>
@@ -7750,6 +7773,7 @@
       <rdamd:P30106>Golding</rdamd:P30106>
       <rdamd:P30165>6</rdamd:P30165>
       <rdamd:P30106>El libro de bolsillo. Biblioteca de autor</rdamd:P30106>
+      <rdamd:P30033>El dios Escorpión -- Clonc clonc -- El enviado especial</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q7762618/exp/spa/1020/12367718"/>

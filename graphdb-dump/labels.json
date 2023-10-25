@@ -7440,6 +7440,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://example.org/nobelpresi1983-1985"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Nobelpreis 1983-1985 ()"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://rdaregistry.info/Elements/m/object/P30328"
                 },
                 "label": {
@@ -20357,6 +20367,16 @@
                 "label": {
                     "type": "literal",
                     "value": "El se\u00f1or de las moscas / mul / moving image"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/nobelpresi1983-1985/exp/ger/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Der Turm der Kathedrale / ger / text"
                 }
             },
             {

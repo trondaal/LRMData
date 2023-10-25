@@ -101,6 +101,21 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q4394863"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Collection"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/177762289"
                 },
                 "label": {
@@ -4782,6 +4797,21 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/89500102/CollectionX"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Collection"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/nobelpresi1983-1985"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -16760,7 +16790,7 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "aggregate, parent"
+                    "value": "parent"
                 }
             },
             {
@@ -16790,7 +16820,7 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "aggregate"
+                    "value": "parent"
                 }
             },
             {
@@ -16805,7 +16835,22 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "aggregate, parent"
+                    "value": "parent"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/nobelpresi1983-1985/exp/ger/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "aggregate"
                 }
             }
         ]
