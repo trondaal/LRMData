@@ -14232,6 +14232,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/313294935/exp/nno/1013/278677010"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Mi briljante venninne / nno / spoken word"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/313294935/exp/nno/1020/278677010"
                 },
                 "label": {
@@ -14277,6 +14287,16 @@
                 "label": {
                     "type": "literal",
                     "value": "Historia om det tapte barnet / nno / text"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/208148269678805230009/exp/nno/1020/278677010"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Natt p\u00e5 stranda / nno / text"
                 }
             },
             {
@@ -16672,26 +16692,6 @@
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/315937141/exp/eng"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Storia di chi fugge e di chi resta / eng / text"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/316873931/exp/eng"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Storia del nuovo cognome / eng / text"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/34565761/x/exp/mul/nno/nob/1020"
                 },
                 "label": {
@@ -17412,116 +17412,6 @@
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/1125155953594542630002/exp/nno/278677010"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Historia om det tapte barnet / nno / text"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/208148269678805230009/exp/nno/278677010"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Natt p\u00e5 stranda / nno / text"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/309388310/exp/nno/278677010"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Kvelande kj\u00e6rleik / nno / text"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/313294935/exp/nno/278677010"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Mi briljante venninne / nno / text"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/313294935/exp/nno/278677010"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Mi briljante venninne / nno"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/315937141/exp/nno/278677010"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Dei som flyktar og dei som blir / nno / text"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/3378153532506848820007/exp/nno/278677010"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Den dunkle dottera / nno / text"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/6711164963969224300002/exp/eng/spa"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "La hija oscura / spa / Imagen bidimensional en movimiento"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/7040151051877133530003/exp/nno/278677010"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Svikne dagar / nno / spoken word"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/7040151051877133530003/exp/nno/278677010"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Svikne dagar / nno / text"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/7816157583866833970003/exp/nno/278677010"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Frantumaglia / nno / text"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/00000001/exp/nob/1020"
                 },
                 "label": {
@@ -17687,6 +17577,26 @@
                 "label": {
                     "type": "literal",
                     "value": "Jeg reiser alene / nob / two-dimensional moving image"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/6711164963969224300002/exp/1023"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "La hija oscura / spa / two-dimensional moving image"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/7040151051877133530003/exp/nno/1013/278677010"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Svikne dagar / nno / spoken word"
                 }
             },
             {
