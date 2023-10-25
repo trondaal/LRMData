@@ -10,6 +10,28 @@
             {
                 "concept": {
                     "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/alb"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Albanian"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/bul"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Bulgarian"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
                     "value": "http://id.loc.gov/vocabulary/iso639-2/dan"
                 },
                 "label": {
@@ -21,12 +43,34 @@
             {
                 "concept": {
                     "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/dut"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Dutch"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
                     "value": "http://id.loc.gov/vocabulary/iso639-2/eng"
                 },
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
                     "value": "English"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/est"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Estonian"
                 }
             },
             {
@@ -49,6 +93,39 @@
                     "xml:lang": "gden",
                     "type": "literal",
                     "value": "French"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/ger"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "German"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/ice"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Icelandic"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/lit"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Lithuanian"
                 }
             },
             {
@@ -87,6 +164,39 @@
             {
                 "concept": {
                     "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/nor"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Norwegian"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/pol"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Polish"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/por"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Portuguese"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
                     "value": "http://id.loc.gov/vocabulary/iso639-2/spa"
                 },
                 "label": {
@@ -115,6 +225,17 @@
                     "xml:lang": "gden",
                     "type": "literal",
                     "value": "Undetermined"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/wel"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Welsh"
                 }
             },
             {
@@ -192,6 +313,17 @@
                     "xml:lang": "gden",
                     "type": "literal",
                     "value": "Film roll"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1002"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Maps"
                 }
             },
             {
