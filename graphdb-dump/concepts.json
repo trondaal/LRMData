@@ -296,6 +296,17 @@
             {
                 "concept": {
                     "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1052"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Videocassette"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
                     "value": "http://rdaregistry.info/termList/RDACarrierType/1060"
                 },
                 "label": {
@@ -445,6 +456,17 @@
                     "xml:lang": "gden",
                     "type": "literal",
                     "value": "Language-based"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "https://schema.nb.no/Bibliographic/Values/V1002"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Moving image"
                 }
             }
         ]
