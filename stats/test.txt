@@ -1,6 +1,6 @@
 
 
-BIB2201 rapport over datasamling - oppdatert 5/6
+VBINF6000 rapport over datasamling - oppdatert 24/10 2023
 -------------------------------------------------------
 
 
@@ -22,18 +22,6 @@ Verk identifisert med URI
 * http://viaf.org/viaf/3417153653286155900001 = Cities of the plain. 
 
 
-Innførsler som IKKE er identifisert som verk på grunn av manglende URI i $1
-men det er jo ikke nødvendigvis feil!
--------------------------------------------------------
-* 830  #0  $aGyldendal pocket
-
-
-Oversikt over MARC 21 relator koder brukt i samlingen
-sjekker bare feltene 100, 110, 111, 700, 710, 711
--------------------------------------------------------
-* trl  : 1 
-
-
 Oversikt over URI relasjonstyper for Agent brukt i samlingen
 verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 -------------------------------------------------------
@@ -41,55 +29,11 @@ verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 1 
 
 
-Personer med URI og relasjonstyper som er brukt for disse
--------------------------------------------------------
-http://viaf.org/viaf/29558386 (100) : McCarthy, Cormac 
-* http://rdaregistry.info/Elements/w/object/P10061 (has author agent)
-http://viaf.org/viaf/225596267 (700) : Ofstad, Knut 
-* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent)
-
-
-Verk til verk RDA relasjonstyper i 7XX $4-subfelt + label fra RDA registry
+Verk til verk RDA relasjonstyper i 700 og 758 $4-subfelt + label fra RDA registry
 -------------------------------------------------------
 Ser ut som dere mangler verk-til-verk relasjoner? 
-
-
-Analytter (dvs en publikasjon som har flere deler)
-I praksis er det 700-felter med ind2=2, $t og $1
--------------------------------------------------------
-001 = 990620269764702202 
-* 100  1#  $aMcCarthy, Cormac  $d1933-2023  $0(NO-TrBIB)90348328  $1http://viaf.org/viaf/29558386  $4http://rdaregistry.info/Elements/w/object/P10061
-* 240  14  $aThe border trilogy  $kNovel  $1http://viaf.org/viaf/175871715 $8p
-* 245  10  $aGrensetrilogien  $cCormac McCarthy ; oversatt fra engelsk av Knut Ofstad
-* 700  12  $aMcCarthy, Cormac,  $d1933-2023.  $tAll the pretty horses.  $1http://viaf.org/viaf/214001528 $8c1
-* 700  12  $aMcCarthy, Cormac,  $d1933-2023.  $tCities of the plain.  $1http://viaf.org/viaf/3417153653286155900001 $8c3
-* 700  12  $aMcCarthy, Cormac,  $d1933-2023.  $tCrossing.  $1http://viaf.org/viaf/309357400 $8c2
 
 
 Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke analytter)
 -------------------------------------------------------
 Ser ut som dere mangler slike relasjoner? 
-
-
-Opplisting som viser bruken av 336 $a, $b, $0, $2
--------------------------------------------------------
-* 336  ##  $atext  $0http://rdaregistry.info/termList/RDAContentType/1020 $2rdacontent
-
-
-Opplisting som viser bruken av 337 $a, $b, $0, $2
--------------------------------------------------------
-* 337  ##  $aunmediated  $0http://rdaregistry.info/termList/RDAMediaType/1007 $2rdamedia
-
-
-Opplisting som viser bruken av 338 $a, $b, $0, $2
--------------------------------------------------------
-* 338  ##  $avolume  $0http://rdaregistry.info/termList/RDACarrierType/1049 $2rdacarrier
-
-
-Opplisting som viser bruken av 380 $a, $0, $2
--------------------------------------------------------
-
-
-Poster som mangler 336, 337, 338, 380
--------------------------------------------------------
-001: 990620269764702202 mangler følgende felt:  380 
