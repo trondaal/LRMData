@@ -102,7 +102,7 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/177762289">
       <rdaxd:P00018>http://viaf.org/viaf/177762289</rdaxd:P00018>
-      <rdaxd:P00029>novella</rdaxd:P00029>
+      <rdaxd:P00029>Novella</rdaxd:P00029>
       <rdawd:P10088>Envoy Extraordinary</rdawd:P10088>
       <rdfs:label>Envoy Extraordinary (Golding, William)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
@@ -120,7 +120,7 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/180585027">
       <rdaxd:P00018>http://viaf.org/viaf/180585027</rdaxd:P00018>
-      <rdaxd:P00029>novella</rdaxd:P00029>
+      <rdaxd:P00029>Novella</rdaxd:P00029>
       <rdawd:P10088>Clonk Clonk</rdawd:P10088>
       <rdfs:label>Clonk Clonk (Golding, William)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
@@ -278,6 +278,7 @@
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/306134082"/>
       <rdawo:P10257 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
+      <rdawo:P10628 rdf:resource="http://viaf.org/viaf/119144648592107423604/exp/eng/1020"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/307973201">
       <rdaxd:P00018>http://viaf.org/viaf/307973201</rdaxd:P00018>
@@ -288,7 +289,7 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/308018847">
       <rdaxd:P00018>http://viaf.org/viaf/308018847</rdaxd:P00018>
-      <rdaxd:P00029>novella</rdaxd:P00029>
+      <rdaxd:P00029>Novella</rdaxd:P00029>
       <rdawd:P10088>The Scorpion God</rdawd:P10088>
       <rdfs:label>The Scorpion God (Golding, William)</rdfs:label>
       <rdawd:P10088>Scorpion god</rdawd:P10088>
@@ -305,8 +306,8 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/310430410">
       <rdaxd:P00018>http://viaf.org/viaf/310430410</rdaxd:P00018>
-      <rdawd:P10088>William Golding's "Lord of the flies"</rdawd:P10088>
-      <rdfs:label>William Golding's "Lord of the flies" (Williams, Nigel)</rdfs:label>
+      <rdawd:P10088>Lord of the flies</rdawd:P10088>
+      <rdfs:label>Lord of the flies (Williams, Nigel)</rdfs:label>
       <rdaxd:P00029>Play</rdaxd:P00029>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/86448713"/>
@@ -339,6 +340,7 @@
       <rdfs:label>Lektürehilfen William Golding, "Lord of the flies" (Meitcke, W.)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/37534075"/>
+      <rdawo:P10187 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
       <rdawo:P10257 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/44671175/erlauterungenzuwilliamgoldingherrderfliegenlordoftheflies">
@@ -355,6 +357,7 @@
       <rdfs:label>Lord of the flies, William Golding (Stannat, Astrid)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/47608695"/>
+      <rdawo:P10150 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
       <rdawo:P10257 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/57170916/versuchubergolding">
@@ -407,6 +410,7 @@
       <rdfs:label>William Golding, The Lord of the Flies (Baer-Engel, Jennifer)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://www.example.org/baerengeljennifer"/>
+      <rdawo:P10187 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
       <rdawo:P10257 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://www.example.org/names/jahnkehansotto/williamgoldinglordoftheflies">
@@ -1088,18 +1092,11 @@
       <rdfs:label>William Golding's Lord of the Flies / eng / text</rdfs:label>
       <rdaed:P20312>Lord of the flies : a novel</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
+      <rdaed:P20315>Lord of the Flies</rdaed:P20315>
+      <rdaxd:P00018>http://viaf.org/viaf/119144648592107423604/exp/eng/1020</rdaxd:P00018>
+      <rdfs:label>Lord of the flies (Golding, William)</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
-      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
-   </rdac:C10006>
-   <rdac:C10006 rdf:about="http://viaf.org/viaf/119144648592107423604/exp/eng/ger/1020">
-      <rdaed:P20316>Lord of the Flies</rdaed:P20316>
-      <rdaxd:P00029>standalone</rdaxd:P00029>
-      <rdaed:P20312>Lord of the flies : a novel</rdaed:P20312>
-      <rdfs:label>Lord of the flies / ger / text</rdfs:label>
-      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
-      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
-      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/119144648592107423604/exp/ger/1020">
@@ -1888,10 +1885,11 @@
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/309268108"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/310430410/exp/eng/1020">
-      <rdaed:P20316>William Golding's "Lord of the flies"</rdaed:P20316>
+      <rdaed:P20316>Lord of the flies</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>William Golding's "Lord of the flies"</rdaed:P20312>
       <rdfs:label>William Golding's "Lord of the flies" / eng / text</rdfs:label>
+      <rdaed:P20315>Lord of the flies</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/310430410"/>
@@ -2089,6 +2087,7 @@
       <rdfs:label>Der Sonderbotschafter / ger / text</rdfs:label>
       <rdaed:P20312>Der Sonderbotschafter</rdaed:P20312>
       <rdaed:P20071>Der Skorpion-Gott -- Clonk Clonk -- Der Sonderbotschafter</rdaed:P20071>
+      <rdaed:P20315>Der Sonderbotschafter</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/81823873"/>
@@ -7496,7 +7495,6 @@
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/exp/eng/1020"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/exp/eng/ger/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9783883891651">
       <rdamd:P30004>ISBN 9783883891651</rdamd:P30004>
