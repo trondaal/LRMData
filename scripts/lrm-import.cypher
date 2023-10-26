@@ -1,4 +1,7 @@
-MATCH (n)
+MATCH (n:Resource)
+DETACH DELETE n;
+
+MATCH (n:Concept)
 DETACH DELETE n;
 
 DROP INDEX expressions;
