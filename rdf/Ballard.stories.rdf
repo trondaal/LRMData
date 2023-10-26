@@ -25,7 +25,7 @@
    <rdac:C10001 rdf:about="http://example.com/innerlandscape">
       <rdaxd:P00018>http://example.com/innerlandscape</rdaxd:P00018>
       <rdawd:P10088>The inner landscape</rdawd:P10088>
-      <rdfs:label>The inner landscape ()</rdfs:label>
+      <rdfs:label>The inner landscape</rdfs:label>
       <rdaxd:P00029>Collection</rdaxd:P00029>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/172050597/reaches">
@@ -123,7 +123,7 @@
    <rdac:C10001 rdf:about="http://viaf.org/viaf/33278380/treasure">
       <rdaxd:P00018>http://viaf.org/viaf/33278380/treasure</rdaxd:P00018>
       <rdawd:P10088>The world treasury of science fiction</rdawd:P10088>
-      <rdfs:label>The world treasury of science fiction ()</rdfs:label>
+      <rdfs:label>The world treasury of science fiction</rdfs:label>
       <rdaxd:P00029>Collection</rdaxd:P00029>
       <rdawd:P10330>Includes Vonnegut, Kurt Jr., "Harrison Bergeron"/Campbell, John W. Jr., "Forgetfulness"/Berryman, John, "Special Flight"/Ballard, J. G., "Chronopolis"/Tensei, Kono, "Triceratops"/Sturgeon, Theodore, "The Man Who Lost the Sea"/Armer, Karl Michael, "On the Inside Track"/Davidson, Avram, "The Golem"/Rebetez-Cortes, Rene, "The New Prehistory"/Clarke, Arthur C., "A Meeting with Medusa"/Klein, Gerard, "The Valley of Echoes"/Wolfe, Gene, "The Fifth Head of Cerberus"/Updike, John, "The Chaste Planet"/Henneberg, Nathalie-Charles, "The Blind Pilot"/Bester, Alfred, "The Men Who Murdered Mohammed"/Pairpuppets, "Manuel van Loggem"/Kornbluth, C.M., "Two Dooms"/Lem, Stanislaw, "Tale of the Computer that Fought a Dragon"/Heinlein, Robert A., "The Green Hills of Earth"/Sheckley, Robert, "Ghost V"/Varley, John, "The Phantom of Kansas"/Nesvadba, Josef, "Captain Nemo's Last Adventure"/Niven, Larry, "Inconstant Moon"/Pohl, Frederik, "The Gold at the Starbow's End"/Calvino, Italo, "A Sign in Space" "The Spiral"/Asimov Isaac, "The Dead Past"/van Ewyck, Annemarie, "The Lens"/Sturgeon, Theodore, "The Hurkle Is a Happy Beast"/Bradbury, Ray, "Zero Hour"/Le Guin, Ursula K., "Nine Lives"/Burgess, Anthony, "The Muse"/Allen, Steve, "The Public Hating"/Leiber, Fritz, "Poor Superman"/Disch, Thomas M., "Angouleme"/Knight, Damon, "Stranger Station" and more.</rdawd:P10330>
    </rdac:C10001>
@@ -1263,8 +1263,8 @@
    <rdac:C10001 rdf:about="https://isni.org/isni/0000000372289205/dreamcargoes/3">
       <rdaxd:P00018>https://isni.org/isni/0000000372289205/dreamcargoes/3</rdaxd:P00018>
       <rdaxd:P00029>Sound recording</rdaxd:P00029>
-      <rdawd:P10088>Dream cargoes/subfield</rdawd:P10088>
-      <rdfs:label>Dream cargoes/subfield (Van Moll, Erwin)</rdfs:label>
+      <rdawd:P10088>Dream cargoes</rdawd:P10088>
+      <rdfs:label>Dream cargoes (Van Moll, Erwin)</rdfs:label>
       <rdawo:P10053 rdf:resource="https://isni.org/isni/0000000372289205"/>
       <rdawo:P10053 rdf:resource="https://isni.org/isni/000000044534099X"/>
       <rdawo:P10304 rdf:resource="https://isni.org/isni/0000000372289205"/>
@@ -1557,7 +1557,7 @@
       <rdaed:P20316>The inner landscape</rdaed:P20316>
       <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>The inner landscape</rdaed:P20312>
-      <rdfs:label>The inner landscape / tekst</rdfs:label>
+      <rdfs:label>The inner landscape</rdfs:label>
       <rdaed:P20071>Danger, Religion! / Aldiss, Brian W. -- The voices of time / Ballard, J. G. -- Boy in darkness / Peake, Mervyn Laurence</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -1570,7 +1570,7 @@
       <rdaed:P20316>The farthest reaches</rdaed:P20316>
       <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>The farthest reaches</rdaed:P20312>
-      <rdfs:label>The farthest reaches / text</rdfs:label>
+      <rdfs:label>The farthest reaches</rdfs:label>
       <rdaed:P20071>The worm that flies, by B. W. Aldiss -- Kyrie, by P. Anderson -- Tomorrow is a million years, by J. G. Ballard -- Pond water, by J. Brunner -- The dance of the changer and the three, by T. Carr -- Crusade, by A. C. Clarke -- Ranging, by J. Jakes -- Mind out of time, by K. Laumer -- The inspector, by J. McKimmey -- To the dark star, by R. Silverberg -- A night in elf hill, by N. Spinrad -- Sulwen's planet, by J. Vance.</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -1591,7 +1591,7 @@
    <rdac:C10006 rdf:about="http://viaf.org/viaf/172957858/culturecontrolcritique/chronopolis/exp/eng/1020">
       <rdaed:P20312>In and out of time: "Chronopolis" and in time</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>In and out of time: "Chronopolis" and in time / text</rdfs:label>
+      <rdfs:label>In and out of time: "Chronopolis" and in time</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/172957858/culturecontrolcritique/chronopolis"/>
@@ -1600,7 +1600,7 @@
       <rdaed:P20316>Culture control critique : allegories of reading the present</rdaed:P20316>
       <rdaxd:P00029>parent</rdaxd:P00029>
       <rdaed:P20312>Culture control critique : allegories of reading the present</rdaed:P20312>
-      <rdfs:label>Culture control critique / text</rdfs:label>
+      <rdfs:label>Culture control critique</rdfs:label>
       <rdaed:P20071>Introduction -- Culture, control, critique. Cultural critique from the Frankfurt School until today -- Formalism, allegory, totality. Allegory and representation -- Allegory and the present -- Space, allegory, control. Spatial preoccupations -- Celebrating ruins: The drowned world, The drought, The crystal world -- Filling the gaps: Crash, Concrete island, High rise -- Coming into allegory: Cocaine nights, Super-Cannes, Millennium people, Kingdom come -- Totalities, allegories and revolutions -- Cultural critique and form -- Time, allegory, control. Timely preoccupations -- In and out of time: "Chronopolis" and in time -- Cultural critique and form -- Vision, allegory, control. Visual preoccupations -- bread and circuses: The hunger games -- Cultural critique and form -- Conclusion.</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -1611,7 +1611,7 @@
       <rdaed:P20316>Empire of the sun</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Empire of the sun</rdaed:P20312>
-      <rdfs:label>Empire of the sun / text</rdfs:label>
+      <rdfs:label>Empire of the sun</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/180997771"/>
@@ -1619,7 +1619,7 @@
    <rdac:C10006 rdf:about="http://viaf.org/viaf/183421260/exp/eng/1020">
       <rdaed:P20312>Danger, Religion!</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Danger, Religion! / tekst</rdfs:label>
+      <rdfs:label>Danger, Religion!</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/183421260"/>
@@ -1629,9 +1629,9 @@
       <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaxd:P00029>parent</rdaxd:P00029>
       <rdaed:P20312>The four-dimensional nightmare</rdaed:P20312>
-      <rdfs:label>The four-dimensional nightmare / text</rdfs:label>
+      <rdfs:label>The four-dimensional nightmare</rdfs:label>
       <rdaed:P20312>The voices of time</rdaed:P20312>
-      <rdfs:label>The voices of time / text</rdfs:label>
+      <rdfs:label>The voices of time</rdfs:label>
       <rdaed:P20071>The voices of time -- The sound-sweep -- The overloaded man -- Thirteen to Centaurus -- The garden of time -- The cage of sand -- The watch-tower -- Chronopolis.</rdaed:P20071>
       <rdaed:P20315>The four-dimensional nightmare</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
@@ -1658,7 +1658,7 @@
       <rdaed:P20316>Hello America</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Hello America</rdaed:P20312>
-      <rdfs:label>Hello America / text</rdfs:label>
+      <rdfs:label>Hello America</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/202977755"/>
@@ -1667,8 +1667,7 @@
       <rdaed:P20316>Crash</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Crash</rdaed:P20312>
-      <rdfs:label>Crash / text</rdfs:label>
-      <rdfs:label>Crash / eng / text</rdfs:label>
+      <rdfs:label>Crash</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/305922109"/>
@@ -1677,7 +1676,7 @@
       <rdaed:P20316>The day of forever</rdaed:P20316>
       <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>The day of forever</rdaed:P20312>
-      <rdfs:label>The day of forever / text</rdfs:label>
+      <rdfs:label>The day of forever</rdfs:label>
       <rdaed:P20071>The Day of Forever -- Prisoner of the Coral Deep -- Tomorrow is a Million Years -- The Man on the 99th Floor -- The Waiting Grounds -- The Last World of Mr Goddard -- The Gentle Assassin -- The Sudden Afternoon -- The Insane Ones -- The Assassination of John Fitzgerald Kennedy Considered as a Downhill Motor Race</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -1697,7 +1696,7 @@
       <rdaed:P20316>The day of creation</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>The day of creation</rdaed:P20312>
-      <rdfs:label>The day of creation / text</rdfs:label>
+      <rdfs:label>The day of creation</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/308025936"/>
@@ -1705,7 +1704,7 @@
    <rdac:C10006 rdf:about="http://viaf.org/viaf/309308512/exp/eng/1020">
       <rdaed:P20312>Boy in darkness</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Boy in darkness / tekst</rdfs:label>
+      <rdfs:label>Boy in darkness</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/309308512"/>
@@ -1713,8 +1712,7 @@
    <rdac:C10006 rdf:about="http://viaf.org/viaf/311471559/exp/eng/1020">
       <rdaed:P20312>The voices of time</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The voices of time / text</rdfs:label>
-      <rdfs:label>The voices of time / tekst</rdfs:label>
+      <rdfs:label>The voices of time</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/311471559"/>
@@ -1723,7 +1721,7 @@
       <rdaed:P20316>The world treasury of science fiction</rdaed:P20316>
       <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>The world treasury of science fiction</rdaed:P20312>
-      <rdfs:label>The world treasury of science fiction / text</rdfs:label>
+      <rdfs:label>The world treasury of science fiction</rdfs:label>
       <rdaed:P20071>Foreword -- Introduction -- Harrison Bergeron / Kurt Vonnegut, Jr. -- Forgetfulness / John W. Campbell, Jr. -- Special flight / John Berryman -- Chronopolis / J.G. Ballard -- Triceratops / Kono Tensei -- The man who lost the sea / Theodore Sturgeon -- On the inside track / Karl Michael Armer -- The Golem / Avram Davidson -- The new prehistory / René Rebetez-Cortes -- A meeting with Medusa / Arthur C. Clarke -- The valley of echoes / Gérard Klein -- The fifth head of Cerberus / Gene Wolfe -- The chaste planet / John Updike -- The blind pilot / Nathalie-Charles Henneberg -- The men who murdered Mohammed / Alfred Bester -- Pairpuppets / Manuel van Loggem -- Two dooms / C.M. Kornbluth -- Tale of the computer that fought a dragon / Stanislaw Lem -- The green hills of Earth / Robert A. Heinlein -- Ghost V / Robert Sheckley -- The phantom of Kansas / John Varley -- Captain Nemo's last adventure / Josef Nesvadba -- Inconstant moon / Larry Niven -- The gold at the starbow's end / Frederik Pohl -- A sign in space / Italo Calvino -- The spiral / Italo Calvino -- The dead past / Isaac Asimov -- The lens / Annemarie van Ewyck -- The hurkle is a happy beast / Theodore Sturgeon -- Zero hour / Ray Bradbury -- Nine lives / Ursula K. Le Guin -- The muse / Anthony Burgess -- The public hating / Steve Allen -- Poor superman / Fritz Leiber -- Angouleme / Thomas M. Disch -- Stranger station / Damon Knight -- The dead fish / Boris Vian -- I was the first to find you / Kirill Bulychev -- The lineman / Walter M. Miller, Jr. -- Tlön, Uqbar, Orbis Tertius / Jorge Luis Borges -- Codemus / Tor Åge Bringsvaerd -- A kind of artistry / Brian Aldiss -- Second variety / Philip K. Dick -- Weihnachtsabend / Keith Roberts -- I do not love thee, Doctor Fell / Robert Bloch -- Aye, and Gomorrah-- / Samuel R. Delany -- How Erg the Self-inducting slew a paleface / Stanislaw Lem -- Nobody's home / Joanna Russ -- Party line / Gérard Klein -- The proud robot / Lewis Padgett -- Vintage season / Henry Kuttner and C.L. Moore -- Way to Amalteia / Arkady and Boris Strugatsky.</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -1784,7 +1782,7 @@
    <rdac:C10006 rdf:about="http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis/exp/eng/1020">
       <rdaed:P20312>Chronopolis repository service</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Chronopolis repository service / text</rdfs:label>
+      <rdfs:label>Chronopolis repository service</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/43347281/researchdatamanagement/chronopolis"/>
@@ -1793,7 +1791,7 @@
       <rdaed:P20316>Research data management : practical strategies for information professionals</rdaed:P20316>
       <rdaxd:P00029>parent</rdaxd:P00029>
       <rdaed:P20312>Research data management : practical strategies for information professionals</rdaed:P20312>
-      <rdfs:label>Research data management / text</rdfs:label>
+      <rdfs:label>Research data management</rdfs:label>
       <rdaed:P20071>The policy and institutional framework / James L. Mullins -- Data governance : where technology and policy collide / MacKenzie Smith -- The use of life cycle models in developing and supporting data services / Jake Carlson -- Data management assessment and planning tools / Andrew Sallans and Sherry Lake -- Trustworthy data repositories : the value and benefits of auditing and certification / Bernard F. Reilly, Jr. and Marie E. Waltz -- Copyright, open data, and the availability-usability gap : challenges, opportunities, and approaches for libraries / Melissa Levine -- Metadata services / Jenn Riley -- Data citation : principles and practice / Jan Brase, Yvonne Socha, Sarah Callaghan, Christine Borgman, Paul Uhlir, and Bonnie Carroll -- Assimilating digital repositories into the active research process / Tyler Walters -- Partnering to curate and archive social science data / Jared Lyle, George Alter, and Ann Green -- Managing and archiving research data : local repository and Cloud-based practices / Michele Kimpton and Carol Minton Morris -- Chronopolis repository services / David Minor, Brian E. C. Schottlaender, and Ardys Kozbial -- Evaluating a complex project : DataONE / Suzanne Allard -- What to measure? : toward metrics for research data management / Angus Whyte, Laura Molloy, Neil Beagrie, and John Houghton -- An institutional perspective on data curation services : a view from Cornell University / Gail Steinhart -- Purdue University Research Repository : collaborations in data management / D. Scott Brandt -- Data curation for the humanities : perspectives from Rice University / Geneva Henry -- Developing data management services for researchers at the University of Oregon / Brian Westra.</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -1804,7 +1802,7 @@
       <rdaed:P20316>Barrington Bayley SF gateway omnibus</rdaed:P20316>
       <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>Barrington Bayley SF gateway omnibus</rdaed:P20312>
-      <rdfs:label>Barrington Bayley SF gateway omnibus / text</rdfs:label>
+      <rdfs:label>Barrington Bayley SF gateway omnibus</rdfs:label>
       <rdaed:P20071>The soul of the robot -- The knights of the limits -- The fall of Chronopolis.</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -1817,7 +1815,7 @@
       <rdaed:P20316>The complete stories of J.G. Ballard</rdaed:P20316>
       <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>The complete stories of J.G. Ballard</rdaed:P20312>
-      <rdfs:label>The complete stories of J.G. Ballard / text</rdfs:label>
+      <rdfs:label>The complete stories of J.G. Ballard</rdfs:label>
       <rdaed:P20071>Introduction / by Martin Amis -- Author's introduction -- Prima belladonna -- Escapement -- The concentration city -- Venus smiles -- Manhole 69 -- Track 12 -- The waiting grounds -- Now : zero -- The sound-sweep -- Zone of terror -- Chronopolis -- The voices of time -- The last world of Mr. Goddard -- Studio 5, the stars -- Deep end -- The overloaded man -- Mr. F is Mr. F -- Billenium -- The gentle assassin -- The insane ones -- The garden of time -- The thousand dreams of Stellavista -- Thirteen to Centaurus -- Passport to eternity -- The cage of sand -- The watch-towers -- The singing statues -- The man on the 99th floor -- The subliminal man -- The reptile enclosure -- A question of re-entry -- The time-tombs -- Now wakes the sea -- The Venus hunters -- End-game -- Minus one -- The sudden afternoon -- The screen game -- Time of passage -- Prisoner of the coral deep -- The lost Leonardo -- The terminal beach -- The illuminated man -- The delta at sunset -- The drowned giant -- The Gioconda of the twilight noon -- The volcano dances -- The beach murders -- The day of forever -- The impossible man -- Storm-bird, storm-dreamer -- Tomorrow is a million years -- The assassination of John Fitzgerald Kennedy considered as a downhill motor race -- Cry hope, cry fury! -- The recognition -- The cloud-sculptors of Coral D -- Why I want to fuck Ronald Reagan -- The dead astronaut -- The Comsat angels -- The killing ground -- A place and a time to die -- Say goodbye to the wind -- The greatest television show on earth -- My dream of flying to Wake Island -- The air disaster -- Low-flying aircraft -- The life and death of God -- Notes towards a mental breakdown -- The 60 minute zoom -- The smile -- The ultimate city -- The dead time -- The index -- The intensive care unit -- Theatre of war -- Having a wonderful time -- One afternoon at Utah Beach -- Zodiac 2000 -- Motel architecture -- A host of furious fancies -- News from the sun -- Memories of the space age -- Myths of the near future -- Report on an unidentified space station -- The object of the attack -- Answers to a quesionnaire -- The man who walked on the moon -- The secret history of World War 3 -- Love in a colder climate -- The enormous space -- The largest theme park in the world -- War fever -- Dream cargoes -- A guide to virtual death -- The message from Mars -- Report from an obscure planet -- New stories for the American edition -- The secret autobiography of J.G.B. -- The dying fall.</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -1924,7 +1922,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/pe.cgi?41887/exp/eng/1020">
       <rdaed:P20312>The fifth head of Cerberus</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The fifth head of Cerberus / text</rdfs:label>
+      <rdfs:label>The fifth head of Cerberus</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/pe.cgi?41887"/>
@@ -1932,7 +1930,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1042004/exp/eng/1020">
       <rdaed:P20312>Notes towards a mental breakdown</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Notes towards a mental breakdown / text</rdfs:label>
+      <rdfs:label>Notes towards a mental breakdown</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1042004"/>
@@ -1940,7 +1938,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1042032/exp/eng/1020">
       <rdaed:P20312>Report from an obscure planet</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Report from an obscure planet / text</rdfs:label>
+      <rdfs:label>Report from an obscure planet</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1042032"/>
@@ -1948,7 +1946,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1043438/exp/eng/1020">
       <rdaed:P20312>The new prehistory</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The new prehistory / text</rdfs:label>
+      <rdfs:label>The new prehistory</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1043438"/>
@@ -1956,7 +1954,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1044760/exp/eng/1020">
       <rdaed:P20312>A sign in space</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>A sign in space / text</rdfs:label>
+      <rdfs:label>A sign in space</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1044760"/>
@@ -1964,7 +1962,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1044769/exp/eng/1020">
       <rdaed:P20312>The spiral</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The spiral / text</rdfs:label>
+      <rdfs:label>The spiral</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1044769"/>
@@ -1972,7 +1970,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1193913/exp/eng/1020">
       <rdaed:P20312>Party line</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Party line / text</rdfs:label>
+      <rdfs:label>Party line</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1193913"/>
@@ -1980,7 +1978,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1199713/exp/eng/1020">
       <rdaed:P20312>Pairpuppets</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Pairpuppets / text</rdfs:label>
+      <rdfs:label>Pairpuppets</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1199713"/>
@@ -1988,7 +1986,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1227657/exp/eng/1020">
       <rdaed:P20312>The valley of echoes</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The valley of echoes / text</rdfs:label>
+      <rdfs:label>The valley of echoes</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1227657"/>
@@ -1996,7 +1994,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1228232/exp/eng/1020">
       <rdaed:P20312>Captain Nemo's last adventure</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Captain Nemo's last adventure / text</rdfs:label>
+      <rdfs:label>Captain Nemo's last adventure</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1228232"/>
@@ -2005,7 +2003,7 @@
       <rdaed:P20316>Why I want to fuck Ronald Reagan</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Why I want to fuck Ronald Reagan</rdaed:P20312>
-      <rdfs:label>Why I want to fuck Ronald Reagan / text</rdfs:label>
+      <rdfs:label>Why I want to fuck Ronald Reagan</rdfs:label>
       <rdaxd:P00029>part</rdaxd:P00029>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -2014,7 +2012,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1564888/exp/eng/1020">
       <rdaed:P20312>Tlön, Uqbar, Orbis Tertius</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Tlön, Uqbar, Orbis Tertius / text</rdfs:label>
+      <rdfs:label>Tlön, Uqbar, Orbis Tertius</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1564888"/>
@@ -2022,7 +2020,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1694589/exp/eng/1020">
       <rdaed:P20312>Codemus</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Codemus / text</rdfs:label>
+      <rdfs:label>Codemus</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1694589"/>
@@ -2030,7 +2028,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1733237/exp/eng/1020">
       <rdaed:P20312>The dead fish</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The dead fish / text</rdfs:label>
+      <rdfs:label>The dead fish</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1733237"/>
@@ -2038,7 +2036,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1770589/exp/eng/1020">
       <rdaed:P20312>The blind pilot</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The blind pilot / text</rdfs:label>
+      <rdfs:label>The blind pilot</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1770589"/>
@@ -2046,7 +2044,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1772115/exp/eng/1020">
       <rdaed:P20312>Triceratops</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Triceratops / text</rdfs:label>
+      <rdfs:label>Triceratops</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1772115"/>
@@ -2054,7 +2052,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?189852/exp/eng/1020">
       <rdaed:P20312>The proud robot</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The proud robot / text</rdfs:label>
+      <rdfs:label>The proud robot</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?189852"/>
@@ -2062,7 +2060,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?1947904/exp/eng/1020">
       <rdaed:P20312>On the inside track</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>On the inside track / text</rdfs:label>
+      <rdfs:label>On the inside track</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1947904"/>
@@ -2070,7 +2068,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?2608858/exp/eng/1020">
       <rdaed:P20312>How Erg the Self-inducting slew a paleface</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>How Erg the Self-inducting slew a paleface / text</rdfs:label>
+      <rdfs:label>How Erg the Self-inducting slew a paleface</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?2608858"/>
@@ -2078,7 +2076,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?2825264/exp/eng/1020">
       <rdaed:P20312>Zero hour</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Zero hour / text</rdfs:label>
+      <rdfs:label>Zero hour</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?2825264"/>
@@ -2086,7 +2084,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?37126/exp/eng/1020">
       <rdaed:P20312>The terminal beach</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The terminal beach / text</rdfs:label>
+      <rdfs:label>The terminal beach</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?37126"/>
@@ -2094,7 +2092,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?37575/exp/eng/1020">
       <rdaed:P20312>Second variety</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Second variety / text</rdfs:label>
+      <rdfs:label>Second variety</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?37575"/>
@@ -2102,7 +2100,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?40842/exp/eng/1020">
       <rdaed:P20312>Two dooms</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Two dooms / text</rdfs:label>
+      <rdfs:label>Two dooms</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?40842"/>
@@ -2110,7 +2108,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?40903/exp/eng/1020">
       <rdaed:P20312>Stranger station</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Stranger station / text</rdfs:label>
+      <rdfs:label>Stranger station</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?40903"/>
@@ -2118,7 +2116,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41026/exp/eng/1020">
       <rdaed:P20312>The public hating</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The public hating / text</rdfs:label>
+      <rdfs:label>The public hating</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41026"/>
@@ -2126,7 +2124,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41048/exp/eng/1020">
       <rdaed:P20312>Poor superman</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Poor superman / text</rdfs:label>
+      <rdfs:label>Poor superman</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41048"/>
@@ -2134,7 +2132,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41067/exp/eng/1020">
       <rdaed:P20312>The phantom of Kansas</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The phantom of Kansas / text</rdfs:label>
+      <rdfs:label>The phantom of Kansas</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41067"/>
@@ -2142,7 +2140,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41101/exp/eng/1020">
       <rdaed:P20312>Nobody's home</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Nobody's home / text</rdfs:label>
+      <rdfs:label>Nobody's home</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41101"/>
@@ -2150,7 +2148,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41107/exp/eng/1020">
       <rdaed:P20312>Nine lives</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Nine lives / text</rdfs:label>
+      <rdfs:label>Nine lives</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41107"/>
@@ -2158,7 +2156,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41120/exp/eng/1020">
       <rdaed:P20312>The muse</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The muse / text</rdfs:label>
+      <rdfs:label>The muse</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41120"/>
@@ -2166,7 +2164,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41160/exp/eng/1020">
       <rdaed:P20312>The men who murdered Mohammed</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The men who murdered Mohammed / text</rdfs:label>
+      <rdfs:label>The men who murdered Mohammed</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41160"/>
@@ -2174,7 +2172,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41178/exp/eng/1020">
       <rdaed:P20312>The man who lost the sea</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The man who lost the sea / text</rdfs:label>
+      <rdfs:label>The man who lost the sea</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41178"/>
@@ -2182,7 +2180,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41205/exp/eng/1020">
       <rdaed:P20312>The lineman</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The lineman / text</rdfs:label>
+      <rdfs:label>The lineman</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41205"/>
@@ -2190,7 +2188,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41225/exp/eng/1020">
       <rdaed:P20312>The lens</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The lens / text</rdfs:label>
+      <rdfs:label>The lens</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41225"/>
@@ -2198,7 +2196,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41235/exp/eng/1020">
       <rdaed:P20312>Kyrie</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Kyrie / text</rdfs:label>
+      <rdfs:label>Kyrie</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41235"/>
@@ -2206,7 +2204,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41280/exp/eng/1020">
       <rdaed:P20312>The insane ones</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The insane ones / text</rdfs:label>
+      <rdfs:label>The insane ones</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41280"/>
@@ -2214,7 +2212,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41283/exp/eng/1020">
       <rdaed:P20312>Inconstant moon</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Inconstant moon / text</rdfs:label>
+      <rdfs:label>Inconstant moon</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41283"/>
@@ -2222,7 +2220,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41335/exp/eng/1020">
       <rdaed:P20312>Harrison Bergeron</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Harrison Bergeron / text</rdfs:label>
+      <rdfs:label>Harrison Bergeron</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41335"/>
@@ -2230,7 +2228,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41350/exp/eng/1020">
       <rdaed:P20312>The green hills of Earth</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The green hills of Earth / text</rdfs:label>
+      <rdfs:label>The green hills of Earth</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41350"/>
@@ -2238,7 +2236,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41363/exp/eng/1020">
       <rdaed:P20312>The Golem</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The Golem / text</rdfs:label>
+      <rdfs:label>The Golem</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41363"/>
@@ -2246,7 +2244,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41516/exp/eng/1020">
       <rdaed:P20312>The dance of the changer and the three</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The dance of the changer and the three / text</rdfs:label>
+      <rdfs:label>The dance of the changer and the three</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41516"/>
@@ -2254,7 +2252,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41557/exp/eng/1020">
       <rdaed:P20312>Chronopolis</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Chronopolis / text</rdfs:label>
+      <rdfs:label>Chronopolis</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41557"/>
@@ -2262,7 +2260,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41564/exp/eng/1020">
       <rdaed:P20312>The chaste planet</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The chaste planet / text</rdfs:label>
+      <rdfs:label>The chaste planet</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41564"/>
@@ -2270,7 +2268,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?41658/exp/eng/1020">
       <rdaed:P20312>Angouleme</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Angouleme / text</rdfs:label>
+      <rdfs:label>Angouleme</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41658"/>
@@ -2278,7 +2276,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?42206/exp/eng/1020">
       <rdaed:P20312>The recognition</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The recognition / text</rdfs:label>
+      <rdfs:label>The recognition</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?42206"/>
@@ -2286,7 +2284,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?43928/exp/eng/1020">
       <rdaed:P20312>The volcano dances</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The volcano dances / text</rdfs:label>
+      <rdfs:label>The volcano dances</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?43928"/>
@@ -2294,7 +2292,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?43949/exp/eng/1020">
       <rdaed:P20312>The drowned giant</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The drowned giant / text</rdfs:label>
+      <rdfs:label>The drowned giant</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?43949"/>
@@ -2302,9 +2300,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?44123/exp/eng/1020">
       <rdaed:P20312>The cage of sand</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The cage of sand / text</rdfs:label>
-      <rdfs:label>The Cage of Sand / eng / tekst</rdfs:label>
-      <rdfs:label>The Cage of Sand / tekst</rdfs:label>
+      <rdfs:label>The cage of sand</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44123"/>
@@ -2312,7 +2308,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?44449/exp/eng/1020">
       <rdaed:P20312>Escapement</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Escapement / text</rdfs:label>
+      <rdfs:label>Escapement</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44449"/>
@@ -2320,7 +2316,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?44450/exp/eng/1020">
       <rdaed:P20312>Prima belladonna</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Prima belladonna / text</rdfs:label>
+      <rdfs:label>Prima belladonna</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44450"/>
@@ -2328,9 +2324,9 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?44451/exp/eng/1020">
       <rdaed:P20312>The concentration city</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The concentration city / text</rdfs:label>
+      <rdfs:label>The concentration city</rdfs:label>
       <rdaed:P20312>Build-up</rdaed:P20312>
-      <rdfs:label>Build-up / text</rdfs:label>
+      <rdfs:label>Build-up</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44451"/>
@@ -2338,7 +2334,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?44454/exp/eng/1020">
       <rdaed:P20312>Manhole 69</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Manhole 69 / text</rdfs:label>
+      <rdfs:label>Manhole 69</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44454"/>
@@ -2346,7 +2342,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?44455/exp/eng/1020">
       <rdaed:P20312>The waiting grounds</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The waiting grounds / text</rdfs:label>
+      <rdfs:label>The waiting grounds</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44455"/>
@@ -2354,7 +2350,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?44456/exp/eng/1020">
       <rdaed:P20312>Studio 5, the stars</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Studio 5, the stars / text</rdfs:label>
+      <rdfs:label>Studio 5, the stars</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44456"/>
@@ -2362,7 +2358,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?44457/exp/eng/1020">
       <rdaed:P20312>Deep end</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Deep end / text</rdfs:label>
+      <rdfs:label>Deep end</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44457"/>
@@ -2370,7 +2366,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?44458/exp/eng/1020">
       <rdaed:P20312>The garden of time</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The garden of time / text</rdfs:label>
+      <rdfs:label>The garden of time</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44458"/>
@@ -2378,7 +2374,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?44459/exp/eng/1020">
       <rdaed:P20312>The subliminal man</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The subliminal man / text</rdfs:label>
+      <rdfs:label>The subliminal man</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44459"/>
@@ -2386,9 +2382,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?44460/exp/eng/1020">
       <rdaed:P20312>A question of re-entry</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>A question of re-entry / text</rdfs:label>
-      <rdfs:label>A Question of Re-entry / eng / tekst</rdfs:label>
-      <rdfs:label>A Question of re-entry / tekst</rdfs:label>
+      <rdfs:label>A question of re-entry</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44460"/>
@@ -2396,7 +2390,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?44461/exp/eng/1020">
       <rdaed:P20312>The time-tombs</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The time-tombs / text</rdfs:label>
+      <rdfs:label>The time-tombs</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44461"/>
@@ -2404,7 +2398,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?44463/exp/eng/1020">
       <rdaed:P20312>The air disaster</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The air disaster / text</rdfs:label>
+      <rdfs:label>The air disaster</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44463"/>
@@ -2412,7 +2406,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?44464/exp/eng/1020">
       <rdaed:P20312>The smile</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The smile / text</rdfs:label>
+      <rdfs:label>The smile</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44464"/>
@@ -2420,7 +2414,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?44465/exp/eng/1020">
       <rdaed:P20312>The dead time</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The dead time / text</rdfs:label>
+      <rdfs:label>The dead time</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44465"/>
@@ -2428,7 +2422,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?44466/exp/eng/1020">
       <rdaed:P20312>The ultimate city</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The ultimate city / text</rdfs:label>
+      <rdfs:label>The ultimate city</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44466"/>
@@ -2436,7 +2430,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?44514/exp/eng/1020">
       <rdaed:P20312>The sound-sweep</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The sound-sweep / text</rdfs:label>
+      <rdfs:label>The sound-sweep</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?44514"/>
@@ -2444,7 +2438,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?45279/exp/eng/1020">
       <rdaed:P20312>Special flight</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Special flight / text</rdfs:label>
+      <rdfs:label>Special flight</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?45279"/>
@@ -2452,9 +2446,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?45330/exp/eng/1020">
       <rdaed:P20312>Memories of the space age</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Memories of the space age / text</rdfs:label>
-      <rdfs:label>Memories of the Space Age / eng / tekst</rdfs:label>
-      <rdfs:label>Memories of the space age / tekst</rdfs:label>
+      <rdfs:label>Memories of the space age</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?45330"/>
@@ -2462,7 +2454,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?45331/exp/eng/1020">
       <rdaed:P20312>The object of the attack</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The object of the attack / text</rdfs:label>
+      <rdfs:label>The object of the attack</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?45331"/>
@@ -2470,7 +2462,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?45804/exp/eng/1020">
       <rdaed:P20312>Ghost V</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Ghost V / text</rdfs:label>
+      <rdfs:label>Ghost V</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?45804"/>
@@ -2478,9 +2470,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?46455/exp/eng/1020">
       <rdaed:P20312>The man who walked on the moon</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The man who walked on the moon / text</rdfs:label>
-      <rdfs:label>The Man Who Walked on the Moon / eng / tekst</rdfs:label>
-      <rdfs:label>The Man Who Walked on the Moon / tekst</rdfs:label>
+      <rdfs:label>The man who walked on the moon</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?46455"/>
@@ -2488,7 +2478,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?46600/exp/eng/1020">
       <rdaed:P20312>The enormous space</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The enormous space / text</rdfs:label>
+      <rdfs:label>The enormous space</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?46600"/>
@@ -2496,7 +2486,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?46817/exp/eng/1020">
       <rdaed:P20312>A guide to virtual death</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>A guide to virtual death / text</rdfs:label>
+      <rdfs:label>A guide to virtual death</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?46817"/>
@@ -2504,7 +2494,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?46818/exp/eng/1020">
       <rdaed:P20312>The message from Mars</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The message from Mars / text</rdfs:label>
+      <rdfs:label>The message from Mars</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?46818"/>
@@ -2512,7 +2502,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?47004/exp/eng/1020">
       <rdaed:P20312>The dying fall</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The dying fall / text</rdfs:label>
+      <rdfs:label>The dying fall</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?47004"/>
@@ -2520,7 +2510,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?47005/exp/eng/1020">
       <rdaed:P20312>The secret autobiography of J.G.B</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The secret autobiography of J.G.B / text</rdfs:label>
+      <rdfs:label>The secret autobiography of J.G.B</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?47005"/>
@@ -2528,7 +2518,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?48020/exp/eng/1020">
       <rdaed:P20312>Forgetfulness</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Forgetfulness / text</rdfs:label>
+      <rdfs:label>Forgetfulness</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?48020"/>
@@ -2536,7 +2526,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?48153/exp/eng/1020">
       <rdaed:P20312>War fever</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>War fever / text</rdfs:label>
+      <rdfs:label>War fever</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?48153"/>
@@ -2544,9 +2534,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?49122/exp/eng/1020">
       <rdaed:P20312>Myths of the near future</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Myths of the near future / text</rdfs:label>
-      <rdfs:label>Myths of the Near Future / eng / tekst</rdfs:label>
-      <rdfs:label>Myths of the near future / tekst</rdfs:label>
+      <rdfs:label>Myths of the near future</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?49122"/>
@@ -2554,7 +2542,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?493181/exp/eng/1020">
       <rdaed:P20312>A kind of artistry</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>A kind of artistry / text</rdfs:label>
+      <rdfs:label>A kind of artistry</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?493181"/>
@@ -2562,7 +2550,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?51188/exp/eng/1020">
       <rdaed:P20312>The gold at the starbow's end</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The gold at the starbow's end / text</rdfs:label>
+      <rdfs:label>The gold at the starbow's end</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?51188"/>
@@ -2570,7 +2558,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?53869/exp/eng/1020">
       <rdaed:P20312>Cry hope, cry fury!</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Cry hope, cry fury! / text</rdfs:label>
+      <rdfs:label>Cry hope, cry fury!</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?53869"/>
@@ -2578,7 +2566,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?54044/exp/eng/1020">
       <rdaed:P20312>The cloud-sculptors of Coral D</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The cloud-sculptors of Coral D / text</rdfs:label>
+      <rdfs:label>The cloud-sculptors of Coral D</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?54044"/>
@@ -2586,7 +2574,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?54219/exp/eng/1020">
       <rdaed:P20312>Venus smiles</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Venus smiles / text</rdfs:label>
+      <rdfs:label>Venus smiles</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?54219"/>
@@ -2594,7 +2582,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?54304/exp/eng/1020">
       <rdaed:P20312>The Comsat angels</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The Comsat angels / text</rdfs:label>
+      <rdfs:label>The Comsat angels</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?54304"/>
@@ -2602,7 +2590,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?55741/exp/eng/1020">
       <rdaed:P20312>The dead past</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The dead past / text</rdfs:label>
+      <rdfs:label>The dead past</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?55741"/>
@@ -2610,7 +2598,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?56729/exp/eng/1020">
       <rdaed:P20312>A meeting with Medusa</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>A meeting with Medusa / text</rdfs:label>
+      <rdfs:label>A meeting with Medusa</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?56729"/>
@@ -2618,7 +2606,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?56908/exp/eng/1020">
       <rdaed:P20312>The worm that flies</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The worm that flies / text</rdfs:label>
+      <rdfs:label>The worm that flies</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?56908"/>
@@ -2626,7 +2614,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57575/exp/eng/1020">
       <rdaed:P20312>The 60 minute zoom</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The 60 minute zoom / text</rdfs:label>
+      <rdfs:label>The 60 minute zoom</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57575"/>
@@ -2634,7 +2622,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57577/exp/eng/1020">
       <rdaed:P20312>Answers to a quesionnaire</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Answers to a quesionnaire / text</rdfs:label>
+      <rdfs:label>Answers to a quesionnaire</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57577"/>
@@ -2642,7 +2630,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57579/exp/eng/1020">
       <rdaed:P20312>The assassination of John Fitzgerald Kennedy considered as a downhill motor race</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The assassination of John Fitzgerald Kennedy considered as a downhill motor race / text</rdfs:label>
+      <rdfs:label>The assassination of John Fitzgerald Kennedy considered as a downhill motor race</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57579"/>
@@ -2650,7 +2638,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57581/exp/eng/1020">
       <rdaed:P20312>The beach murders</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The beach murders / text</rdfs:label>
+      <rdfs:label>The beach murders</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57581"/>
@@ -2658,7 +2646,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57582/exp/eng/1020">
       <rdaed:P20312>The day of forever</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The day of forever / text</rdfs:label>
+      <rdfs:label>The day of forever</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57582"/>
@@ -2666,9 +2654,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57583/exp/eng/1020">
       <rdaed:P20312>The dead astronaut</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The dead astronaut / text</rdfs:label>
-      <rdfs:label>The Dead Astronaut / eng / tekst</rdfs:label>
-      <rdfs:label>The dead astronaut / tekst</rdfs:label>
+      <rdfs:label>The dead astronaut</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57583"/>
@@ -2676,7 +2662,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57584/exp/eng/1020">
       <rdaed:P20312>The delta at sunset</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The delta at sunset / text</rdfs:label>
+      <rdfs:label>The delta at sunset</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57584"/>
@@ -2684,7 +2670,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57585/exp/eng/1020">
       <rdaed:P20312>Dream cargoes</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Dream cargoes / text</rdfs:label>
+      <rdfs:label>Dream cargoes</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57585"/>
@@ -2692,7 +2678,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57586/exp/eng/1020">
       <rdaed:P20312>End-game</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>End-game / text</rdfs:label>
+      <rdfs:label>End-game</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57586"/>
@@ -2700,7 +2686,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57587/exp/eng/1020">
       <rdaed:P20312>The gentle assassin</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The gentle assassin / text</rdfs:label>
+      <rdfs:label>The gentle assassin</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57587"/>
@@ -2708,7 +2694,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57588/exp/eng/1020">
       <rdaed:P20312>The Gioconda of the twilight noon</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The Gioconda of the twilight noon / text</rdfs:label>
+      <rdfs:label>The Gioconda of the twilight noon</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57588"/>
@@ -2716,7 +2702,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57589/exp/eng/1020">
       <rdaed:P20312>The greatest television show on earth</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The greatest television show on earth / text</rdfs:label>
+      <rdfs:label>The greatest television show on earth</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57589"/>
@@ -2724,7 +2710,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57590/exp/eng/1020">
       <rdaed:P20312>Having a wonderful time</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Having a wonderful time / text</rdfs:label>
+      <rdfs:label>Having a wonderful time</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57590"/>
@@ -2732,7 +2718,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57591/exp/eng/1020">
       <rdaed:P20312>A host of furious fancies</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>A host of furious fancies / text</rdfs:label>
+      <rdfs:label>A host of furious fancies</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57591"/>
@@ -2740,7 +2726,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57592/exp/eng/1020">
       <rdaed:P20312>The illuminated man</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The illuminated man / text</rdfs:label>
+      <rdfs:label>The illuminated man</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57592"/>
@@ -2748,7 +2734,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57593/exp/eng/1020">
       <rdaed:P20312>The impossible man</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The impossible man / text</rdfs:label>
+      <rdfs:label>The impossible man</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57593"/>
@@ -2756,7 +2742,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57594/exp/eng/1020">
       <rdaed:P20312>The index</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The index / text</rdfs:label>
+      <rdfs:label>The index</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57594"/>
@@ -2764,7 +2750,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57595/exp/eng/1020">
       <rdaed:P20312>The intensive care unit</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The intensive care unit / text</rdfs:label>
+      <rdfs:label>The intensive care unit</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57595"/>
@@ -2772,7 +2758,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57596/exp/eng/1020">
       <rdaed:P20312>The killing ground</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The killing ground / text</rdfs:label>
+      <rdfs:label>The killing ground</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57596"/>
@@ -2780,7 +2766,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57597/exp/eng/1020">
       <rdaed:P20312>The largest theme park in the world</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The largest theme park in the world / text</rdfs:label>
+      <rdfs:label>The largest theme park in the world</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57597"/>
@@ -2788,7 +2774,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57598/exp/eng/1020">
       <rdaed:P20312>The last world of Mr. Goddard</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The last world of Mr. Goddard / text</rdfs:label>
+      <rdfs:label>The last world of Mr. Goddard</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57598"/>
@@ -2796,7 +2782,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57599/exp/eng/1020">
       <rdaed:P20312>The life and death of God</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The life and death of God / text</rdfs:label>
+      <rdfs:label>The life and death of God</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57599"/>
@@ -2804,7 +2790,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57600/exp/eng/1020">
       <rdaed:P20312>The lost Leonardo</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The lost Leonardo / text</rdfs:label>
+      <rdfs:label>The lost Leonardo</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57600"/>
@@ -2812,7 +2798,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57601/exp/eng/1020">
       <rdaed:P20312>Love in a colder climate</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Love in a colder climate / text</rdfs:label>
+      <rdfs:label>Love in a colder climate</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57601"/>
@@ -2820,7 +2806,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57602/exp/eng/1020">
       <rdaed:P20312>Low-flying aircraft</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Low-flying aircraft / text</rdfs:label>
+      <rdfs:label>Low-flying aircraft</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57602"/>
@@ -2828,7 +2814,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57603/exp/eng/1020">
       <rdaed:P20312>The man on the 99th floor</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The man on the 99th floor / text</rdfs:label>
+      <rdfs:label>The man on the 99th floor</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57603"/>
@@ -2836,7 +2822,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57604/exp/eng/1020">
       <rdaed:P20312>Minus one</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Minus one / text</rdfs:label>
+      <rdfs:label>Minus one</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57604"/>
@@ -2844,7 +2830,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57605/exp/eng/1020">
       <rdaed:P20312>Motel architecture</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Motel architecture / text</rdfs:label>
+      <rdfs:label>Motel architecture</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57605"/>
@@ -2852,7 +2838,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57606/exp/eng/1020">
       <rdaed:P20312>Mr. F is Mr. F</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Mr. F is Mr. F / text</rdfs:label>
+      <rdfs:label>Mr. F is Mr. F</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57606"/>
@@ -2860,9 +2846,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57607/exp/eng/1020">
       <rdaed:P20312>My dream of flying to Wake Island</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>My dream of flying to Wake Island / text</rdfs:label>
-      <rdfs:label>My Dream of Flying to Wake Island / eng / tekst</rdfs:label>
-      <rdfs:label>My dream of flying to wake island / tekst</rdfs:label>
+      <rdfs:label>My dream of flying to Wake Island</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57607"/>
@@ -2870,9 +2854,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57608/exp/eng/1020">
       <rdaed:P20312>News from the sun</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>News from the sun / text</rdfs:label>
-      <rdfs:label>News from the Sun / eng / tekst</rdfs:label>
-      <rdfs:label>News from the sun / tekst</rdfs:label>
+      <rdfs:label>News from the sun</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57608"/>
@@ -2880,7 +2862,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57610/exp/eng/1020">
       <rdaed:P20312>Now wakes the sea</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Now wakes the sea / text</rdfs:label>
+      <rdfs:label>Now wakes the sea</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57610"/>
@@ -2888,7 +2870,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57611/exp/eng/1020">
       <rdaed:P20312>Now : zero</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Now : zero / text</rdfs:label>
+      <rdfs:label>Now : zero</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57611"/>
@@ -2896,7 +2878,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57612/exp/eng/1020">
       <rdaed:P20312>One afternoon at Utah Beach</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>One afternoon at Utah Beach / text</rdfs:label>
+      <rdfs:label>One afternoon at Utah Beach</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57612"/>
@@ -2904,7 +2886,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57613/exp/eng/1020">
       <rdaed:P20312>The overloaded man</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The overloaded man / text</rdfs:label>
+      <rdfs:label>The overloaded man</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57613"/>
@@ -2912,7 +2894,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57614/exp/eng/1020">
       <rdaed:P20312>Passport to eternity</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Passport to eternity / text</rdfs:label>
+      <rdfs:label>Passport to eternity</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57614"/>
@@ -2920,7 +2902,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57615/exp/eng/1020">
       <rdaed:P20312>A place and a time to die</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>A place and a time to die / text</rdfs:label>
+      <rdfs:label>A place and a time to die</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57615"/>
@@ -2928,7 +2910,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57617/exp/eng/1020">
       <rdaed:P20312>Prisoner of the coral deep</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Prisoner of the coral deep / text</rdfs:label>
+      <rdfs:label>Prisoner of the coral deep</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57617"/>
@@ -2936,7 +2918,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57618/exp/eng/1020">
       <rdaed:P20312>Report on an unidentified space station</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Report on an unidentified space station / text</rdfs:label>
+      <rdfs:label>Report on an unidentified space station</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57618"/>
@@ -2944,7 +2926,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57619/exp/eng/1020">
       <rdaed:P20312>The reptile enclosure</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The reptile enclosure / text</rdfs:label>
+      <rdfs:label>The reptile enclosure</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57619"/>
@@ -2952,7 +2934,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57621/exp/eng/1020">
       <rdaed:P20312>Say goodbye to the wind</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Say goodbye to the wind / text</rdfs:label>
+      <rdfs:label>Say goodbye to the wind</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57621"/>
@@ -2960,7 +2942,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57622/exp/eng/1020">
       <rdaed:P20312>The screen game</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The screen game / text</rdfs:label>
+      <rdfs:label>The screen game</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57622"/>
@@ -2968,7 +2950,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57623/exp/eng/1020">
       <rdaed:P20312>The secret history of World War 3</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The secret history of World War 3 / text</rdfs:label>
+      <rdfs:label>The secret history of World War 3</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57623"/>
@@ -2976,7 +2958,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57624/exp/eng/1020">
       <rdaed:P20312>The singing statues</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The singing statues / text</rdfs:label>
+      <rdfs:label>The singing statues</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57624"/>
@@ -2984,7 +2966,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57625/exp/eng/1020">
       <rdaed:P20312>Storm-bird, storm-dreamer</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Storm-bird, storm-dreamer / text</rdfs:label>
+      <rdfs:label>Storm-bird, storm-dreamer</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57625"/>
@@ -2992,7 +2974,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57626/exp/eng/1020">
       <rdaed:P20312>The sudden afternoon</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The sudden afternoon / text</rdfs:label>
+      <rdfs:label>The sudden afternoon</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57626"/>
@@ -3000,7 +2982,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57627/exp/eng/1020">
       <rdaed:P20312>Theatre of war</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Theatre of war / text</rdfs:label>
+      <rdfs:label>Theatre of war</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57627"/>
@@ -3008,7 +2990,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57628/exp/eng/1020">
       <rdaed:P20312>Thirteen to Centaurus</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Thirteen to Centaurus / text</rdfs:label>
+      <rdfs:label>Thirteen to Centaurus</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57628"/>
@@ -3016,7 +2998,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57629/exp/eng/1020">
       <rdaed:P20312>The thousand dreams of Stellavista</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The thousand dreams of Stellavista / text</rdfs:label>
+      <rdfs:label>The thousand dreams of Stellavista</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57629"/>
@@ -3024,7 +3006,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57630/exp/eng/1020">
       <rdaed:P20312>Time of passage</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Time of passage / text</rdfs:label>
+      <rdfs:label>Time of passage</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57630"/>
@@ -3032,7 +3014,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57631/exp/eng/1020">
       <rdaed:P20312>Tomorrow is a million years</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Tomorrow is a million years / text</rdfs:label>
+      <rdfs:label>Tomorrow is a million years</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57631"/>
@@ -3040,7 +3022,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57632/exp/eng/1020">
       <rdaed:P20312>Track 12</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Track 12 / text</rdfs:label>
+      <rdfs:label>Track 12</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57632"/>
@@ -3048,7 +3030,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57633/exp/eng/1020">
       <rdaed:P20312>The Venus hunters</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The Venus hunters / text</rdfs:label>
+      <rdfs:label>The Venus hunters</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57633"/>
@@ -3056,9 +3038,9 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57635/exp/eng/1020">
       <rdaed:P20312>The watch-tower</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The watch-tower / text</rdfs:label>
+      <rdfs:label>The watch-tower</rdfs:label>
       <rdaed:P20312>The watch-towers</rdaed:P20312>
-      <rdfs:label>The watch-towers / text</rdfs:label>
+      <rdfs:label>The watch-towers</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57635"/>
@@ -3066,7 +3048,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57636/exp/eng/1020">
       <rdaed:P20312>Zodiac 2000</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Zodiac 2000 / text</rdfs:label>
+      <rdfs:label>Zodiac 2000</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57636"/>
@@ -3074,7 +3056,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57637/exp/eng/1020">
       <rdaed:P20312>Zone of terror</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Zone of terror / text</rdfs:label>
+      <rdfs:label>Zone of terror</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57637"/>
@@ -3082,7 +3064,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57905/exp/eng/1020">
       <rdaed:P20312>Mind out of time</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Mind out of time / text</rdfs:label>
+      <rdfs:label>Mind out of time</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57905"/>
@@ -3090,7 +3072,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?58525/exp/eng/1020">
       <rdaed:P20312>I do not love thee, Doctor Fell</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>I do not love thee, Doctor Fell / text</rdfs:label>
+      <rdfs:label>I do not love thee, Doctor Fell</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?58525"/>
@@ -3098,7 +3080,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?59665/exp/eng/1020">
       <rdaed:P20312>Vintage season</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Vintage season / text</rdfs:label>
+      <rdfs:label>Vintage season</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?59665"/>
@@ -3106,7 +3088,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?62005/exp/eng/1020">
       <rdaed:P20312>Crusade</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Crusade / text</rdfs:label>
+      <rdfs:label>Crusade</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?62005"/>
@@ -3114,7 +3096,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?64948/exp/eng/1020">
       <rdaed:P20312>To the dark star</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>To the dark star / text</rdfs:label>
+      <rdfs:label>To the dark star</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?64948"/>
@@ -3122,7 +3104,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?65075/exp/eng/1020">
       <rdaed:P20312>Billenium</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Billenium / text</rdfs:label>
+      <rdfs:label>Billenium</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?65075"/>
@@ -3130,7 +3112,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?670081/exp/eng/1020">
       <rdaed:P20312>Way to Amalteia</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Way to Amalteia / text</rdfs:label>
+      <rdfs:label>Way to Amalteia</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?670081"/>
@@ -3138,7 +3120,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?68283/exp/eng/1020">
       <rdaed:P20312>The hurkle is a happy beast</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The hurkle is a happy beast / text</rdfs:label>
+      <rdfs:label>The hurkle is a happy beast</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?68283"/>
@@ -3146,7 +3128,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?68754/exp/eng/1020">
       <rdaed:P20312>Aye, and Gomorrah</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Aye, and Gomorrah / text</rdfs:label>
+      <rdfs:label>Aye, and Gomorrah</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?68754"/>
@@ -3154,7 +3136,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?71516/exp/eng/1020">
       <rdaed:P20312>A night in elf hill</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>A night in elf hill / text</rdfs:label>
+      <rdfs:label>A night in elf hill</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?71516"/>
@@ -3162,7 +3144,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?77508/exp/eng/1020">
       <rdaed:P20312>Weihnachtsabend</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Weihnachtsabend / text</rdfs:label>
+      <rdfs:label>Weihnachtsabend</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?77508"/>
@@ -3170,7 +3152,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?837545/exp/eng/1020">
       <rdaed:P20312>Tale of the computer that fought a dragon</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Tale of the computer that fought a dragon / text</rdfs:label>
+      <rdfs:label>Tale of the computer that fought a dragon</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?837545"/>
@@ -3178,7 +3160,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?94038/exp/eng/1020">
       <rdaed:P20312>Pond water</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Pond water / text</rdfs:label>
+      <rdfs:label>Pond water</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?94038"/>
@@ -3186,7 +3168,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?940652/exp/eng/1020">
       <rdaed:P20312>I was the first to find you</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>I was the first to find you / text</rdfs:label>
+      <rdfs:label>I was the first to find you</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?940652"/>
@@ -3194,7 +3176,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?97136/exp/eng/1020">
       <rdaed:P20312>Sulwen's planet</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Sulwen's planet / text</rdfs:label>
+      <rdfs:label>Sulwen's planet</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?97136"/>
@@ -3202,7 +3184,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?97137/exp/eng/1020">
       <rdaed:P20312>The inspector</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The inspector / text</rdfs:label>
+      <rdfs:label>The inspector</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?97137"/>
@@ -3210,7 +3192,7 @@
    <rdac:C10006 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?97138/exp/eng/1020">
       <rdaed:P20312>Ranging</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Ranging / text</rdfs:label>
+      <rdfs:label>Ranging</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?97138"/>
@@ -3219,7 +3201,7 @@
       <rdaed:P20316>Chronopolis, and other stories</rdaed:P20316>
       <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>Chronopolis : and other stories</rdaed:P20312>
-      <rdfs:label>Chronopolis / text</rdfs:label>
+      <rdfs:label>Chronopolis</rdfs:label>
       <rdaed:P20071>The voices of time -- The drowned giant -- The terminal beach -- Manhole 69 -- Storm-bird, storm-dreamer -- The sound-sweep -- Millenium -- Chronopolis -- Build-up -- The garden of time -- End game -- The watchtowers -- Now wakes the sea -- Zone of terror -- The cage of sand -- Deep end.</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -3245,7 +3227,7 @@
       <rdaed:P20316>Low-flying aircraft, and other stories</rdaed:P20316>
       <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>Low-flying aircraft, and other stories</rdaed:P20312>
-      <rdfs:label>Low-flying aircraft, and other stories / text</rdfs:label>
+      <rdfs:label>Low-flying aircraft, and other stories</rdfs:label>
       <rdaed:P20071>The ultimate city -- Low-flying aircraft -- The dead astronaut -- My dream of flying to Wake Island -- The life and death of God -- The greatest television show on earth -- A place and a time to die -- The Comsat angels -- The beach murders</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -3264,8 +3246,7 @@
       <rdaed:P20316>Memories of the space age</rdaed:P20316>
       <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>Memories of the space age</rdaed:P20312>
-      <rdfs:label>Memories of the space age / eng / tekst</rdfs:label>
-      <rdfs:label>Memories of the space age / tekst</rdfs:label>
+      <rdfs:label>Memories of the space age</rdfs:label>
       <rdaed:P20071>The Cage of Sand -- A Question of Re-entry -- The Dead Astronaut -- My Dream of Flying to Wake Island -- News from the Sun -- Memories of the Space Age -- Myths of the Near Future -- The Man Who Walked on the Moon</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -3282,7 +3263,7 @@
    <rdac:C10006 rdf:about="https://en.wikipedia.org/wiki/Franklin_Cox/chronopolis/exp/zxx/1011">
       <rdaed:P20312>Chronopolis</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Chronopolis / performed music</rdfs:label>
+      <rdfs:label>Chronopolis</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/zxx"/>
       <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -3293,7 +3274,7 @@
       <rdaed:P20316>The isle is full of noises</rdaed:P20316>
       <rdaxd:P00029>parent</rdaxd:P00029>
       <rdaed:P20312>The isle is full of noises</rdaed:P20312>
-      <rdfs:label>The isle is full of noises / performed music</rdfs:label>
+      <rdfs:label>The isle is full of noises</rdfs:label>
       <rdaed:P20071>Nocturno for solo alto flute / by Mario Lavista (5:55) -- Fictions : eight pieces for solo flute / by Christopher Wendell Jones (7:41) -- [ga]:[ge]:[go]:[gu] : for bass flute and computer / by David Kim-Boyle (11:32) -- Re : for solo piccolo / by Steven Hoey (9:33) -- Family portraits. Embden Pond : for alto flute and two vibraphones / by Stuart Saunders Smith (12:29) -- Chronopolis : for solo flute / by Franklin Cox (15:00).</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/zxx"/>
@@ -3305,7 +3286,7 @@
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000372289205/dreamcargoes/1/exp/zxx/1011">
       <rdaed:P20312>Chronopolis</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Chronopolis / performed music</rdfs:label>
+      <rdfs:label>Chronopolis</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/zxx"/>
       <rdaeo:P20039 rdf:resource="https://isni.org/isni/0000000372289205"/>
@@ -3315,7 +3296,7 @@
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000372289205/dreamcargoes/10/exp/zxx/1011">
       <rdaed:P20312>Now: zero</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Now: zero / performed music</rdfs:label>
+      <rdfs:label>Now: zero</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/zxx"/>
       <rdaeo:P20039 rdf:resource="https://isni.org/isni/0000000372289205"/>
@@ -3325,7 +3306,7 @@
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000372289205/dreamcargoes/2/exp/zxx/1011">
       <rdaed:P20312>The last world of Mr. Goddard</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The last world of Mr. Goddard / performed music</rdfs:label>
+      <rdfs:label>The last world of Mr. Goddard</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/zxx"/>
       <rdaeo:P20039 rdf:resource="https://isni.org/isni/0000000372289205"/>
@@ -3333,9 +3314,9 @@
       <rdaeo:P20231 rdf:resource="https://isni.org/isni/0000000372289205/dreamcargoes/2"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000372289205/dreamcargoes/3/exp/zxx/1011">
-      <rdaed:P20312>Dream cargoes/subfield</rdaed:P20312>
+      <rdaed:P20312>Dream cargoes</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Dream cargoes/subfield / performed music</rdfs:label>
+      <rdfs:label>Dream cargoes</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/zxx"/>
       <rdaeo:P20039 rdf:resource="https://isni.org/isni/0000000372289205"/>
@@ -3345,7 +3326,7 @@
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000372289205/dreamcargoes/4/exp/zxx/1011">
       <rdaed:P20312>The Delta at sunset</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The Delta at sunset / performed music</rdfs:label>
+      <rdfs:label>The Delta at sunset</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/zxx"/>
       <rdaeo:P20039 rdf:resource="https://isni.org/isni/0000000372289205"/>
@@ -3355,7 +3336,7 @@
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000372289205/dreamcargoes/5/exp/zxx/1011">
       <rdaed:P20312>End-game (feat. Edward Capel)</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>End-game (feat. Edward Capel) / performed music</rdfs:label>
+      <rdfs:label>End-game (feat. Edward Capel)</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/zxx"/>
       <rdaeo:P20039 rdf:resource="https://isni.org/isni/0000000372289205"/>
@@ -3365,7 +3346,7 @@
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000372289205/dreamcargoes/6/exp/zxx/1011">
       <rdaed:P20312>Now wakes the sea</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Now wakes the sea / performed music</rdfs:label>
+      <rdfs:label>Now wakes the sea</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/zxx"/>
       <rdaeo:P20039 rdf:resource="https://isni.org/isni/0000000372289205"/>
@@ -3375,7 +3356,7 @@
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000372289205/dreamcargoes/7/exp/zxx/1011">
       <rdaed:P20312>Studio 5, the stars</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Studio 5, the stars / performed music</rdfs:label>
+      <rdfs:label>Studio 5, the stars</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/zxx"/>
       <rdaeo:P20039 rdf:resource="https://isni.org/isni/0000000372289205"/>
@@ -3385,7 +3366,7 @@
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000372289205/dreamcargoes/8/exp/zxx/1011">
       <rdaed:P20312>The sound-sweep</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The sound-sweep / performed music</rdfs:label>
+      <rdfs:label>The sound-sweep</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/zxx"/>
       <rdaeo:P20039 rdf:resource="https://isni.org/isni/0000000372289205"/>
@@ -3395,7 +3376,7 @@
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000372289205/dreamcargoes/9/exp/zxx/1011">
       <rdaed:P20312>Memories of the space age</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Memories of the space age / performed music</rdfs:label>
+      <rdfs:label>Memories of the space age</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/zxx"/>
       <rdaeo:P20039 rdf:resource="https://isni.org/isni/0000000372289205"/>
@@ -3406,7 +3387,7 @@
       <rdaed:P20316>Dream cargoes</rdaed:P20316>
       <rdaxd:P00029>parent</rdaxd:P00029>
       <rdaed:P20312>Dream cargoes</rdaed:P20312>
-      <rdfs:label>Dream cargoes / performed music</rdfs:label>
+      <rdfs:label>Dream cargoes</rdfs:label>
       <rdaed:P20071>Chronopolis -- The last world of Mr. Goddard -- Dream cargoes -- The Delta at sunset -- End-game (feat. Edward Capel) -- Now wakes the sea -- Studio 5, the stars -- The sound-sweep -- Memories of the space age -- Now: zero.</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/zxx"/>
@@ -3428,8 +3409,9 @@
       <rdaed:P20316>Chronopolis : Time, Power and Mediatization in Malmø</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Kronopolis : Tid, makt och medialisering i Malmø</rdaed:P20312>
-      <rdfs:label>Kronopolis / swe / text</rdfs:label>
+      <rdfs:label>Kronopolis</rdfs:label>
       <rdaed:P20315>Kronopolis : Tid, makt och medialisering i Malmø</rdaed:P20315>
+      <rdfs:label>Kronopolis : Tid, makt och medialisering i Malmø</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/swe"/>
       <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -3440,7 +3422,7 @@
       <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20316>The best short stories of J.G. Ballard</rdaed:P20316>
       <rdaed:P20312>The best short stories of J.G. Ballard</rdaed:P20312>
-      <rdfs:label>The best short stories of J.G. Ballard / text</rdfs:label>
+      <rdfs:label>The best short stories of J.G. Ballard</rdfs:label>
       <rdaed:P20071>Introduction (The Best Short Stories of J. G. Ballard) / essay by Anthony Burgess -- The Concentration City -- Manhole 69 -- Chronopolis -- The Voices of Time -- Deep End -- The Overloaded Man -- Billennium -- The Garden of Time -- Thirteen to Centaurus -- The Subliminal Man -- The Cage of Sand -- The Drowned Giant -- The Terminal Beach -- The Cloud-Sculptors of Coral D -- The Assassination of John Fitzgerald Kennedy Considered As a Downhill Motor Race -- The Atrocity Exhibition -- Plan for the Assassination of Jacqueline Kennedy -- Why I Want to Fuck Ronald Reagan</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -3469,7 +3451,7 @@
       <rdaed:P20316>The best of J. G. Ballard</rdaed:P20316>
       <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>The best of J. G. Ballard</rdaed:P20312>
-      <rdfs:label>The best of J. G. Ballard / text</rdfs:label>
+      <rdfs:label>The best of J. G. Ballard</rdfs:label>
       <rdaed:P20071>Introduction (The Best Short Stories of J. G. Ballard) / essay by Anthony Burgess -- The Concentration City -- Manhole 69 -- The waiting grounds -- The sound sweep -- Chronopolis -- The Overloaded Man -- Billennium -- The insane ones -- The Garden of Time -- Thirteen to Centaurus -- Passport to eternity -- The Cage of Sand -- A question of re-entry -- The Terminal Beach -- The day of forever</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -3495,7 +3477,7 @@
    <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?37224/exp/eng/1020">
       <rdaed:P20312>Knights of the limits</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Knights of the limits / text</rdfs:label>
+      <rdfs:label>Knights of the limits</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?37224"/>
@@ -3503,7 +3485,7 @@
    <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?4531/exp/eng/1020">
       <rdaed:P20312>Soul of the robot</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Soul of the robot / text</rdfs:label>
+      <rdfs:label>Soul of the robot</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?4531"/>
@@ -3512,10 +3494,10 @@
       <rdaed:P20316>Fall of Chronopolis</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>The fall of Chronopolis</rdaed:P20312>
-      <rdfs:label>The fall of Chronopolis / text</rdfs:label>
+      <rdfs:label>The fall of Chronopolis</rdfs:label>
       <rdaed:P20312>Fall of Chronopolis</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Fall of Chronopolis / text</rdfs:label>
+      <rdfs:label>Fall of Chronopolis</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?4537"/>
@@ -3523,7 +3505,7 @@
    <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?575437/exp/eng/1020">
       <rdaed:P20312>The sound sweep</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The sound sweep / text</rdfs:label>
+      <rdfs:label>The sound sweep</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?575437"/>
@@ -3531,7 +3513,7 @@
    <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?57580/exp/eng/1020">
       <rdaed:P20312>The atrocity exhibition</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The atrocity exhibition / text</rdfs:label>
+      <rdfs:label>The atrocity exhibition</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?57580"/>
@@ -3539,7 +3521,7 @@
    <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?57598/exp/eng/1020">
       <rdaed:P20312>The Last World of Mr Goddard</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The Last World of Mr Goddard / text</rdfs:label>
+      <rdfs:label>The Last World of Mr Goddard</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?57598"/>
@@ -3547,7 +3529,7 @@
    <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?57616/exp/eng/1020">
       <rdaed:P20312>Plan for the Assassination of Jacqueline Kennedy</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Plan for the Assassination of Jacqueline Kennedy / text</rdfs:label>
+      <rdfs:label>Plan for the Assassination of Jacqueline Kennedy</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?57616"/>

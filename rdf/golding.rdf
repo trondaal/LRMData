@@ -34,7 +34,7 @@
    <rdac:C10001 rdf:about="http://example.org/nobelpresi1983-1985">
       <rdaxd:P00018>http://example.org/nobelpresi1983-1985</rdaxd:P00018>
       <rdawd:P10088>Nobelpreis 1983-1985</rdawd:P10088>
-      <rdfs:label>Nobelpreis 1983-1985 ()</rdfs:label>
+      <rdfs:label>Nobelpreis 1983-1985</rdfs:label>
       <rdaxd:P00029>Collection</rdaxd:P00029>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
    </rdac:C10001>
@@ -82,7 +82,6 @@
       <rdaxd:P00018>http://viaf.org/viaf/119144648592107423604</rdaxd:P00018>
       <rdawd:P10088>Lord of the Flies</rdawd:P10088>
       <rdfs:label>Lord of the Flies (Golding, William)</rdfs:label>
-      <rdfs:label>Lord of the flies</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </rdac:C10001>
@@ -112,9 +111,6 @@
       <rdaxd:P00018>http://viaf.org/viaf/178994871</rdaxd:P00018>
       <rdawd:P10088>The Spire</rdawd:P10088>
       <rdfs:label>The Spire (Golding, William)</rdfs:label>
-      <rdawd:P10088>Spire</rdawd:P10088>
-      <rdfs:label>Spire (Golding, William)</rdfs:label>
-      <rdfs:label>Spire</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </rdac:C10001>
@@ -151,7 +147,6 @@
       <rdaxd:P00018>http://viaf.org/viaf/191996024</rdaxd:P00018>
       <rdawd:P10088>The Coral Island</rdawd:P10088>
       <rdfs:label>The Coral Island (Ballantyne, Robert M.)</rdfs:label>
-      <rdfs:label>The Coral Island</rdfs:label>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/198163223">
       <rdaxd:P00018>http://viaf.org/viaf/198163223</rdaxd:P00018>
@@ -181,7 +176,6 @@
       <rdfs:label>The Inheritors (Golding, William)</rdfs:label>
       <rdawd:P10088>Inheritors</rdawd:P10088>
       <rdfs:label>Inheritors (Golding, William)</rdfs:label>
-      <rdfs:label>The Inheritors</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </rdac:C10001>
@@ -189,7 +183,6 @@
       <rdaxd:P00018>http://viaf.org/viaf/218116512</rdaxd:P00018>
       <rdawd:P10088>Free Fall</rdawd:P10088>
       <rdfs:label>Free Fall (Golding, William)</rdfs:label>
-      <rdfs:label>Free fall</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </rdac:C10001>
@@ -948,8 +941,9 @@
       <rdaed:P20316>Lord of the Flies : Teacher's Guide</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Lord of the flies</rdaed:P20312>
-      <rdfs:label>Lord of the flies / ger / text</rdfs:label>
+      <rdfs:label>Lord of the flies</rdfs:label>
       <rdaed:P20315>Herr der Fliegen</rdaed:P20315>
+      <rdfs:label>Herr der Fliegen</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20231 rdf:resource="http://example.org/names/horstsilke/lordoftheflies"/>
@@ -958,7 +952,7 @@
       <rdaed:P20316>Nobelpreis 1983-1985</rdaed:P20316>
       <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>Der Turm der Kathedrale : Nobelpreis 1983 England</rdaed:P20312>
-      <rdfs:label>Der Turm der Kathedrale / ger / text</rdfs:label>
+      <rdfs:label>Der Turm der Kathedrale</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20231 rdf:resource="http://example.org/nobelpresi1983-1985"/>
@@ -971,9 +965,9 @@
       <rdaed:P20316>An Egyptian Journal</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>An Egyptian journal</rdaed:P20312>
-      <rdfs:label>An Egyptian journal / eng / text</rdfs:label>
+      <rdfs:label>An Egyptian journal</rdfs:label>
       <rdaed:P20312>Egyptian journal</rdaed:P20312>
-      <rdfs:label>Egyptian journal / eng / text</rdfs:label>
+      <rdfs:label>Egyptian journal</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://oslomet.workid.no/wg/01"/>
@@ -982,8 +976,9 @@
       <rdaed:P20316>An Egyptian journal</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Ein ägyptisches Tagebuch</rdaed:P20312>
-      <rdfs:label>Ein ägyptisches Tagebuch / ger / text</rdfs:label>
+      <rdfs:label>Ein ägyptisches Tagebuch</rdfs:label>
       <rdaed:P20315>Ein ägyptisches Tagebuch</rdaed:P20315>
+      <rdfs:label>Ein ägyptisches Tagebuch</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/47321622"/>
@@ -993,7 +988,7 @@
       <rdaed:P20316>An Egyptian Journal</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Diario egipcio</rdaed:P20312>
-      <rdfs:label>Diario egipcio / spa / text</rdfs:label>
+      <rdfs:label>Diario egipcio</rdfs:label>
       <rdaed:P20315>Diario egipcio</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
@@ -1004,10 +999,10 @@
       <rdaed:P20316>The Brass Butterfly</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>The brass butterfly : a play in three acts</rdaed:P20312>
-      <rdfs:label>The brass butterfly / eng / text</rdfs:label>
+      <rdfs:label>The brass butterfly</rdfs:label>
       <rdaed:P20312>The brass butterfly, etc</rdaed:P20312>
-      <rdfs:label>The brass butterfly, etc / eng / text</rdfs:label>
-      <rdfs:label>The Brass Butterfly. A play in three acts / eng / text</rdfs:label>
+      <rdfs:label>The brass butterfly, etc</rdfs:label>
+      <rdfs:label>The Brass Butterfly. A play in three acts</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://oslomet.workid.no/wg/05"/>
@@ -1016,7 +1011,7 @@
       <rdaed:P20316>The brass butterfly</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>La mariposa de latón : una obra en tres actos</rdaed:P20312>
-      <rdfs:label>La mariposa de latón / spa / text</rdfs:label>
+      <rdfs:label>La mariposa de latón</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
       <rdaeo:P20037 rdf:resource="http://example.org/names/fernndezjavier"/>
@@ -1026,7 +1021,7 @@
       <rdaed:P20316>Brodie's notes on William Golding's Lord of the flies</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Brodie's notes on William Golding's Lord of the flies</rdaed:P20312>
-      <rdfs:label>Brodie's notes on William Golding's Lord of the flies / eng / text</rdfs:label>
+      <rdfs:label>Brodie's notes on William Golding's Lord of the flies</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/110244899/brodiesnotesonwilliamgoldingslordoftheflies"/>
@@ -1035,8 +1030,7 @@
       <rdaed:P20316>William Golding : the man who wrote Lord of the flies</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>William Golding : the man who wrote Lord of the flies</rdaed:P20312>
-      <rdfs:label>William Golding / eng / text</rdfs:label>
-      <rdfs:label>William Golding / eng / text / text</rdfs:label>
+      <rdfs:label>William Golding</rdfs:label>
       <rdaed:P20312>William Golding : the man who wrote Lord of the flies : a life</rdaed:P20312>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -1046,7 +1040,7 @@
       <rdaed:P20316>The Double Tongue</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>The double tongue</rdaed:P20312>
-      <rdfs:label>The double tongue / eng / text</rdfs:label>
+      <rdfs:label>The double tongue</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1180145424574586830081"/>
@@ -1055,7 +1049,7 @@
       <rdaed:P20316>Double tongue</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Mit doppelter Zunge : Roman</rdaed:P20312>
-      <rdfs:label>Mit doppelter Zunge / ger / text</rdfs:label>
+      <rdfs:label>Mit doppelter Zunge</rdfs:label>
       <rdaed:P20315>Mit doppelter Zunge</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
@@ -1066,7 +1060,7 @@
       <rdaed:P20316>The Double Tongue</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Mit doppelter Zunge : Roman</rdaed:P20312>
-      <rdfs:label>Mit doppelter Zunge / ger / text</rdfs:label>
+      <rdfs:label>Mit doppelter Zunge</rdfs:label>
       <rdaed:P20315>Mit doppelter Zunge</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
@@ -1078,7 +1072,7 @@
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20316>The double tongue</rdaed:P20316>
       <rdaed:P20312>La lengua oculta</rdaed:P20312>
-      <rdfs:label>La lengua oculta / spa / text</rdfs:label>
+      <rdfs:label>La lengua oculta</rdfs:label>
       <rdaed:P20315>La lengua oculta</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
@@ -1088,12 +1082,12 @@
       <rdaed:P20316>Lord of the Flies</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Lord of the flies</rdaed:P20312>
-      <rdfs:label>Lord of the flies / eng / text</rdfs:label>
+      <rdfs:label>Lord of the flies</rdfs:label>
       <rdaed:P20312>William Golding's, Lord of the files</rdaed:P20312>
-      <rdfs:label>William Golding's, Lord of the files / eng / text</rdfs:label>
+      <rdfs:label>William Golding's, Lord of the files</rdfs:label>
       <rdaed:P20312>Lord of the flies : edited by James R. Baker, Arthur P. Ziegler. Casebook edition, text, notes &amp; criticism</rdaed:P20312>
       <rdaed:P20312>William Golding's Lord of the Flies</rdaed:P20312>
-      <rdfs:label>William Golding's Lord of the Flies / eng / text</rdfs:label>
+      <rdfs:label>William Golding's Lord of the Flies</rdfs:label>
       <rdaed:P20312>Lord of the flies : a novel</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
       <rdaed:P20315>Lord of the Flies</rdaed:P20315>
@@ -1107,9 +1101,9 @@
       <rdaed:P20316>Lord of the Flies</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Lord of the flies</rdaed:P20312>
-      <rdfs:label>Lord of the flies / ger / text</rdfs:label>
+      <rdfs:label>Lord of the flies</rdfs:label>
       <rdaed:P20312>Herr der Fliegen</rdaed:P20312>
-      <rdfs:label>Herr der Fliegen / ger / text</rdfs:label>
+      <rdfs:label>Herr der Fliegen</rdfs:label>
       <rdaed:P20315>Herr der Fliegen</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
@@ -1119,7 +1113,7 @@
       <rdaed:P20316>Lord of the flies</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Herr der Fliegen : Roman</rdaed:P20312>
-      <rdfs:label>Herr der Fliegen / ger / text</rdfs:label>
+      <rdfs:label>Herr der Fliegen</rdfs:label>
       <rdaed:P20312>Herr der Fliegen</rdaed:P20312>
       <rdaed:P20315>Herr der Fliegen</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
@@ -1131,7 +1125,7 @@
       <rdaed:P20316>Lord of the flies</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Herr der Fliegen : Roman</rdaed:P20312>
-      <rdfs:label>Herr der Fliegen / ger / text</rdfs:label>
+      <rdfs:label>Herr der Fliegen</rdfs:label>
       <rdaed:P20315>Herr der Fliegen</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
@@ -1142,7 +1136,7 @@
       <rdaed:P20316>Lord of the flies</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Fluenes herre</rdaed:P20312>
-      <rdfs:label>Fluenes herre / nor / spoken word</rdfs:label>
+      <rdfs:label>Fluenes herre</rdfs:label>
       <rdaed:P20315>Fluenes herre</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
@@ -1155,7 +1149,7 @@
       <rdaed:P20316>Lord of the flies</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Fluenes herre</rdaed:P20312>
-      <rdfs:label>Fluenes herre / nor / text</rdfs:label>
+      <rdfs:label>Fluenes herre</rdfs:label>
       <rdaed:P20315>Fluenes herre</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
@@ -1167,9 +1161,9 @@
       <rdaed:P20316>Lord of the flies</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>El señor de las moscas</rdaed:P20312>
-      <rdfs:label>El señor de las moscas / spa / text</rdfs:label>
+      <rdfs:label>El señor de las moscas</rdfs:label>
       <rdaed:P20312>El señor de las moscas</rdaed:P20312>
-      <rdfs:label>El señor de las moscas / spa / text</rdfs:label>
+      <rdfs:label>El señor de las moscas</rdfs:label>
       <rdaed:P20315>El señor de las moscas</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
@@ -1180,9 +1174,9 @@
       <rdaed:P20316>Lord of the flies</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>El señor de las moscas</rdaed:P20312>
-      <rdfs:label>El señor de las moscas / spa / text</rdfs:label>
+      <rdfs:label>El señor de las moscas</rdfs:label>
       <rdaed:P20312>El señor de las moscas</rdaed:P20312>
-      <rdfs:label>El señor de las moscas / spa / text</rdfs:label>
+      <rdfs:label>El señor de las moscas</rdfs:label>
       <rdaed:P20315>El señor de las moscas</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
@@ -1193,7 +1187,7 @@
       <rdaed:P20316>Fire Down Below</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Fire down below</rdaed:P20312>
-      <rdfs:label>Fire down below / eng / text</rdfs:label>
+      <rdfs:label>Fire down below</rdfs:label>
       <rdaxd:P00029>part</rdaxd:P00029>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -1203,7 +1197,7 @@
       <rdaed:P20316>Fire Down Below</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Det ulmer en ild</rdaed:P20312>
-      <rdfs:label>Det ulmer en ild / nor / text</rdfs:label>
+      <rdfs:label>Det ulmer en ild</rdfs:label>
       <rdaed:P20315>Det ulmer en ild</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
@@ -1215,7 +1209,7 @@
       <rdaed:P20316>Fire down below</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Fuego en las entrañas</rdaed:P20312>
-      <rdfs:label>Fuego en las entrañas / spa / text</rdfs:label>
+      <rdfs:label>Fuego en las entrañas</rdfs:label>
       <rdaed:P20315>Fuego en las entrañas</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
@@ -1226,7 +1220,7 @@
       <rdaed:P20316>Rites of Passage</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Rites of passage</rdaed:P20312>
-      <rdfs:label>Rites of passage / eng / text</rdfs:label>
+      <rdfs:label>Rites of passage</rdfs:label>
       <rdaxd:P00029>part</rdaxd:P00029>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -1236,8 +1230,9 @@
       <rdaed:P20316>Rites of passage</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Äquatortaufe : Roman</rdaed:P20312>
-      <rdfs:label>Äquatortaufe / ger / text</rdfs:label>
+      <rdfs:label>Äquatortaufe</rdfs:label>
       <rdaed:P20315>Äquatortaufe</rdaed:P20315>
+      <rdfs:label>Äquatortaufe</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/69705000"/>
@@ -1247,7 +1242,7 @@
       <rdaed:P20316>Rites of passage</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Skrift på vann</rdaed:P20312>
-      <rdfs:label>Skrift på vann / nor / text</rdfs:label>
+      <rdfs:label>Skrift på vann</rdfs:label>
       <rdaed:P20315>Skrift på vann</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
@@ -1259,7 +1254,7 @@
       <rdaed:P20316>Rites of passage</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Ritos de paso</rdaed:P20312>
-      <rdfs:label>Ritos de paso / spa / text</rdfs:label>
+      <rdfs:label>Ritos de paso</rdfs:label>
       <rdaed:P20315>Ritos de paso</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
@@ -1269,7 +1264,7 @@
       <rdaed:P20316>Rites of Passage</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Ritos de paso</rdaed:P20312>
-      <rdfs:label>Ritos de paso / spa / text</rdfs:label>
+      <rdfs:label>Ritos de paso</rdfs:label>
       <rdaed:P20315>Ritos de paso</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
@@ -1279,7 +1274,7 @@
    <rdac:C10006 rdf:about="http://viaf.org/viaf/177762289/exp/eng/1020">
       <rdaed:P20312>Envoy Extraordinary</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Envoy Extraordinary / eng / text</rdfs:label>
+      <rdfs:label>Envoy Extraordinary</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/177762289"/>
@@ -1288,8 +1283,9 @@
       <rdaed:P20006>ger</rdaed:P20006>
       <rdaed:P20312>Envoy Extraordinary</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Envoy Extraordinary / ger / text</rdfs:label>
+      <rdfs:label>Envoy Extraordinary</rdfs:label>
       <rdaed:P20315>Der Sonderbotschafter</rdaed:P20315>
+      <rdfs:label>Der Sonderbotschafter</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/81823873"/>
@@ -1299,8 +1295,9 @@
       <rdaed:P20006>spa</rdaed:P20006>
       <rdaed:P20312>Envoy Extraordinary</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Envoy Extraordinary / spa / text</rdfs:label>
+      <rdfs:label>Envoy Extraordinary</rdfs:label>
       <rdaed:P20315>El enviado especial</rdaed:P20315>
+      <rdfs:label>El enviado especial</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/12367718"/>
@@ -1310,7 +1307,7 @@
       <rdaed:P20316>The Spire</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>The spire : a novel</rdaed:P20312>
-      <rdfs:label>The spire / eng / text</rdfs:label>
+      <rdfs:label>The spire</rdfs:label>
       <rdaed:P20312>The spire</rdaed:P20312>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -1320,11 +1317,11 @@
       <rdaed:P20316>The Spire</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Der Turm der Kathedrale : Nobelpreis 1983 England</rdaed:P20312>
-      <rdfs:label>Der Turm der Kathedrale / ger / text</rdfs:label>
+      <rdfs:label>Der Turm der Kathedrale</rdfs:label>
       <rdaed:P20006>ger</rdaed:P20006>
-      <rdaed:P20312>Spire</rdaed:P20312>
+      <rdaed:P20312>The Spire</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Spire / ger / text</rdfs:label>
+      <rdfs:label>The Spire</rdfs:label>
       <rdaed:P20315>Der Turm der Kathedrale</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
@@ -1334,7 +1331,7 @@
       <rdaed:P20316>The Spire</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Der Turm der Kathedrale</rdaed:P20312>
-      <rdfs:label>Der Turm der Kathedrale / ger / text</rdfs:label>
+      <rdfs:label>Der Turm der Kathedrale</rdfs:label>
       <rdaed:P20312>Der Turm der Kathedrale : Roman</rdaed:P20312>
       <rdaed:P20315>Der Turm der Kathedrale</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
@@ -1346,17 +1343,17 @@
       <rdaed:P20316>The spire</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>La construcción de la torre</rdaed:P20312>
-      <rdfs:label>La construcción de la torre / spa / text</rdfs:label>
+      <rdfs:label>La construcción de la torre</rdfs:label>
       <rdaed:P20315>La construcción de la torre</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/178994871"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/178994871/exp/spa/1020/581145857119122922888">
-      <rdaed:P20316>Spire</rdaed:P20316>
+      <rdaed:P20316>The Spire</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>La construcción de la torre</rdaed:P20312>
-      <rdfs:label>La construcción de la torre / spa / text</rdfs:label>
+      <rdfs:label>La construcción de la torre</rdfs:label>
       <rdaed:P20315>La construcción de la torre</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
@@ -1367,7 +1364,7 @@
       <rdaed:P20316>The Spire</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>La construcción de la torre</rdaed:P20312>
-      <rdfs:label>La construcción de la torre / spa / text</rdfs:label>
+      <rdfs:label>La construcción de la torre</rdfs:label>
       <rdaed:P20315>La construcción de la torre</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
@@ -1377,7 +1374,7 @@
    <rdac:C10006 rdf:about="http://viaf.org/viaf/180585027/exp/eng/1020">
       <rdaed:P20312>Clonk Clonk</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Clonk Clonk / eng / text</rdfs:label>
+      <rdfs:label>Clonk Clonk</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/180585027"/>
@@ -1386,7 +1383,7 @@
       <rdaed:P20006>ger</rdaed:P20006>
       <rdaed:P20312>Clonk Clonk</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Clonk Clonk / ger / text</rdfs:label>
+      <rdfs:label>Clonk Clonk</rdfs:label>
       <rdaed:P20315>Clonk Clonk</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
@@ -1397,8 +1394,9 @@
       <rdaed:P20006>spa</rdaed:P20006>
       <rdaed:P20312>Clonk Clonk</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Clonk Clonk / spa / text</rdfs:label>
+      <rdfs:label>Clonk Clonk</rdfs:label>
       <rdaed:P20315>Clonc, clonc</rdaed:P20315>
+      <rdfs:label>Clonc, clonc</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/12367718"/>
@@ -1408,7 +1406,7 @@
       <rdaed:P20316>Pincher Martin</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Pincher Martin</rdaed:P20312>
-      <rdfs:label>Pincher Martin / eng / text</rdfs:label>
+      <rdfs:label>Pincher Martin</rdfs:label>
       <rdaxd:P00029>part</rdaxd:P00029>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -1418,9 +1416,9 @@
       <rdaed:P20316>Pincher Martin</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Der Felsen des zweiten Todes : Roman</rdaed:P20312>
-      <rdfs:label>Der Felsen des zweiten Todes / ger / text</rdfs:label>
+      <rdfs:label>Der Felsen des zweiten Todes</rdfs:label>
       <rdaed:P20312>Pincher Martin : Roman ; [aus d. Engl.]</rdaed:P20312>
-      <rdfs:label>Pincher Martin / ger / text</rdfs:label>
+      <rdfs:label>Pincher Martin</rdfs:label>
       <rdaed:P20312>Pincher Martin : Roman</rdaed:P20312>
       <rdaed:P20312>Pincher Martin</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
@@ -1434,7 +1432,7 @@
       <rdaed:P20316>Pincher Martin</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Martin den skibbrudne : roman</rdaed:P20312>
-      <rdfs:label>Martin den skibbrudne / nor / text</rdfs:label>
+      <rdfs:label>Martin den skibbrudne</rdfs:label>
       <rdaed:P20315>Martin den skibbrudne</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
@@ -1445,9 +1443,9 @@
       <rdaed:P20316>Pincher Martin</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Martín el naúfrago</rdaed:P20312>
-      <rdfs:label>Martín el naúfrago / spa / text</rdfs:label>
+      <rdfs:label>Martín el naúfrago</rdfs:label>
       <rdaed:P20312>Martín el náufrago</rdaed:P20312>
-      <rdfs:label>Martín el náufrago / spa / text</rdfs:label>
+      <rdfs:label>Martín el náufrago</rdfs:label>
       <rdaed:P20315>Martín el náufrago</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
@@ -1458,7 +1456,7 @@
       <rdaed:P20316>Close Quarters</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Close quarters</rdaed:P20312>
-      <rdfs:label>Close quarters / eng / text</rdfs:label>
+      <rdfs:label>Close quarters</rdfs:label>
       <rdaxd:P00029>part</rdaxd:P00029>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -1468,7 +1466,7 @@
       <rdaed:P20316>Close Quarters</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Die Eingepferchten : Roman</rdaed:P20312>
-      <rdfs:label>Die Eingepferchten / ger / text</rdfs:label>
+      <rdfs:label>Die Eingepferchten</rdfs:label>
       <rdaed:P20315>Die Eingepferchten</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
@@ -1479,7 +1477,7 @@
       <rdaed:P20316>Close quarters</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Nærkamp</rdaed:P20312>
-      <rdfs:label>Nærkamp / nor / text</rdfs:label>
+      <rdfs:label>Nærkamp</rdfs:label>
       <rdaed:P20315>Nærkamp</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
@@ -1491,7 +1489,7 @@
       <rdaed:P20316>Close quarters</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Cuerpo a cuerpo</rdaed:P20312>
-      <rdfs:label>Cuerpo a cuerpo / spa / text</rdfs:label>
+      <rdfs:label>Cuerpo a cuerpo</rdfs:label>
       <rdaed:P20315>Cuerpo a cuerpo</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
@@ -1502,7 +1500,7 @@
       <rdaed:P20316>The Paper Men</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>The paper men</rdaed:P20312>
-      <rdfs:label>The paper men / eng / text</rdfs:label>
+      <rdfs:label>The paper men</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/188302088"/>
@@ -1511,8 +1509,9 @@
       <rdaed:P20316>The paper men</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Papier-Männer : Roman</rdaed:P20312>
-      <rdfs:label>Papier-Männer / ger / text</rdfs:label>
+      <rdfs:label>Papier-Männer</rdfs:label>
       <rdaed:P20315>Papier-Männer</rdaed:P20315>
+      <rdfs:label>Papier-Männer</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/311338181"/>
@@ -1522,7 +1521,7 @@
       <rdaed:P20316>The paper men</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Papirmennene</rdaed:P20312>
-      <rdfs:label>Papirmennene / nor / text</rdfs:label>
+      <rdfs:label>Papirmennene</rdfs:label>
       <rdaed:P20315>Papirmennene</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
@@ -1534,7 +1533,7 @@
       <rdaed:P20316>The paper men</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Los hombres de papel</rdaed:P20312>
-      <rdfs:label>Los hombres de papel / spa / text</rdfs:label>
+      <rdfs:label>Los hombres de papel</rdfs:label>
       <rdaed:P20315>Los hombres de papel</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
@@ -1545,8 +1544,9 @@
       <rdaed:P20006>ger</rdaed:P20006>
       <rdaed:P20312>Route des Flandres</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Route des Flandres / ger / text</rdfs:label>
+      <rdfs:label>Route des Flandres</rdfs:label>
       <rdaed:P20315>Strasse in Flandern</rdaed:P20315>
+      <rdfs:label>Strasse in Flandern</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/198163223"/>
@@ -1555,7 +1555,7 @@
       <rdaed:P20316>Darkness Visible</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Darkness visible</rdaed:P20312>
-      <rdfs:label>Darkness visible / eng / text</rdfs:label>
+      <rdfs:label>Darkness visible</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/211743501"/>
@@ -1564,7 +1564,7 @@
       <rdaed:P20316>Darkness Visible</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Das Feuer der Finsternis : Roman</rdaed:P20312>
-      <rdfs:label>Das Feuer der Finsternis / ger / text</rdfs:label>
+      <rdfs:label>Das Feuer der Finsternis</rdfs:label>
       <rdaed:P20315>Das Feuer der Finsternis</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
@@ -1574,7 +1574,7 @@
       <rdaed:P20316>Darkness Visible</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Das Feuer der Finsternis : Roman</rdaed:P20312>
-      <rdfs:label>Das Feuer der Finsternis / ger / text</rdfs:label>
+      <rdfs:label>Das Feuer der Finsternis</rdfs:label>
       <rdaed:P20315>Das Feuer der Finsternis</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
@@ -1585,7 +1585,7 @@
       <rdaed:P20316>Darkness visible</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Synlig mørke</rdaed:P20312>
-      <rdfs:label>Synlig mørke / nor / text</rdfs:label>
+      <rdfs:label>Synlig mørke</rdfs:label>
       <rdaed:P20315>Synlig mørke</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
@@ -1597,9 +1597,9 @@
       <rdaed:P20316>Darkness Visible</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>La oscuridad visible</rdaed:P20312>
-      <rdfs:label>La oscuridad visible / spa / text</rdfs:label>
+      <rdfs:label>La oscuridad visible</rdfs:label>
       <rdaed:P20312>Oscuridad visible</rdaed:P20312>
-      <rdfs:label>Oscuridad visible / spa / text</rdfs:label>
+      <rdfs:label>Oscuridad visible</rdfs:label>
       <rdaed:P20315>La oscuridad visible</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
@@ -1610,7 +1610,7 @@
       <rdaed:P20316>Lord of the flies, William Golding</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Lord of the flies, William Golding</rdaed:P20312>
-      <rdfs:label>Lord of the flies, William Golding / eng / text</rdfs:label>
+      <rdfs:label>Lord of the flies, William Golding</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/214944831/lordoftheflieswilliamgolding"/>
@@ -1619,7 +1619,7 @@
       <rdaed:P20316>The Inheritors</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>The inheritors</rdaed:P20312>
-      <rdfs:label>The inheritors / eng / text</rdfs:label>
+      <rdfs:label>The inheritors</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/217036112"/>
@@ -1628,7 +1628,7 @@
       <rdaed:P20316>The Inheritors</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Die Erben : Paläo-Fiction Roman (Nr. 3)</rdaed:P20312>
-      <rdfs:label>Die Erben / ger / text</rdfs:label>
+      <rdfs:label>Die Erben</rdfs:label>
       <rdaed:P20315>Die Erben</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
@@ -1638,7 +1638,7 @@
       <rdaed:P20316>The Inheritors</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Die Erben</rdaed:P20312>
-      <rdfs:label>Die Erben / ger / text</rdfs:label>
+      <rdfs:label>Die Erben</rdfs:label>
       <rdaed:P20312>Die Erben : [Roman]</rdaed:P20312>
       <rdaed:P20315>Die Erben</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
@@ -1650,7 +1650,7 @@
       <rdaed:P20316>The inheritors</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Arvtakerne</rdaed:P20312>
-      <rdfs:label>Arvtakerne / nor / text</rdfs:label>
+      <rdfs:label>Arvtakerne</rdfs:label>
       <rdaed:P20315>Arvtakerne</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
@@ -1663,7 +1663,7 @@
       <rdaed:P20316>Inheritors</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Los herederos</rdaed:P20312>
-      <rdfs:label>Los herederos / spa / text</rdfs:label>
+      <rdfs:label>Los herederos</rdfs:label>
       <rdaed:P20315>Los herederos</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
@@ -1673,7 +1673,7 @@
       <rdaed:P20316>The inheritors</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Los herederos</rdaed:P20312>
-      <rdfs:label>Los herederos / spa / text</rdfs:label>
+      <rdfs:label>Los herederos</rdfs:label>
       <rdaed:P20315>Los herederos</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
@@ -1684,7 +1684,7 @@
       <rdaed:P20316>Free Fall</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Free fall</rdaed:P20312>
-      <rdfs:label>Free fall / eng / text</rdfs:label>
+      <rdfs:label>Free fall</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/218116512"/>
@@ -1693,7 +1693,7 @@
       <rdaed:P20316>Free Fall</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Freier Fall : Roman</rdaed:P20312>
-      <rdfs:label>Freier Fall / ger / text</rdfs:label>
+      <rdfs:label>Freier Fall</rdfs:label>
       <rdaed:P20315>Freier Fall</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
@@ -1704,8 +1704,9 @@
       <rdaed:P20316>Free Fall</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Caída libre</rdaed:P20312>
-      <rdfs:label>Caída libre / spa / text</rdfs:label>
+      <rdfs:label>Caída libre</rdfs:label>
       <rdaed:P20315>Caída inexorable</rdaed:P20315>
+      <rdfs:label>Caída inexorable</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/47993680"/>
@@ -1715,10 +1716,11 @@
       <rdaed:P20316>Erläuterungen zu William Golding, Herr der Fliegen (Lord of the flies)</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Erläuterungen zu William Golding, Herr der Fliegen (Lord of the flies)</rdaed:P20312>
-      <rdfs:label>Erläuterungen zu William Golding, Herr der Fliegen (Lord of the flies) / ger / text</rdfs:label>
+      <rdfs:label>Erläuterungen zu William Golding, Herr der Fliegen (Lord of the flies)</rdfs:label>
       <rdaed:P20312>Erläuterungen zu Golding, Herr der Fliegen - Lord of the Flies : Lektüre- und Interpretationshilfe</rdaed:P20312>
-      <rdfs:label>Erläuterungen zu Golding, Herr der Fliegen - Lord of the Flies / ger / text</rdfs:label>
+      <rdfs:label>Erläuterungen zu Golding, Herr der Fliegen - Lord of the Flies</rdfs:label>
       <rdaed:P20315>Herr der Fliegen</rdaed:P20315>
+      <rdfs:label>Herr der Fliegen</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/262356343/erlauterungenzuwilliamgoldingherrderfliegenlordoftheflies"/>
@@ -1727,7 +1729,7 @@
       <rdaed:P20316>William Golding, Herr der Fliegen, Die Koralleninsel (R. M. Ballantyne) / Analysen und Reflexionen. Interpretationen und Anmerkungen</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>William Golding, Herr der Fliegen, Die Koralleninsel (R. M. Ballantyne) : Interpretationen und Anmerkungen</rdaed:P20312>
-      <rdfs:label>William Golding, Herr der Fliegen, Die Koralleninsel (R. M. Ballantyne) / ger / text</rdfs:label>
+      <rdfs:label>William Golding, Herr der Fliegen, Die Koralleninsel (R. M. Ballantyne)</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/262356343/williamgoldingherrderfliegendiekoralleninselrmballantyne"/>
@@ -1736,7 +1738,7 @@
       <rdaed:P20316>William Golding, Herr der Fliegen (Lord of the flies)</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>William Golding, Herr der Fliegen (Lord of the flies) : Kommentare, Diskussionsaspekte und Anregungen für produktionsorientiertes Lesen</rdaed:P20312>
-      <rdfs:label>William Golding, Herr der Fliegen (Lord of the flies) / ger / text</rdfs:label>
+      <rdfs:label>William Golding, Herr der Fliegen (Lord of the flies)</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/262356343/williamgoldingherrderfliegenlordoftheflies"/>
@@ -1745,7 +1747,7 @@
       <rdaed:P20316>The spire by William Golding</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>The spire by William Golding</rdaed:P20312>
-      <rdfs:label>The spire by William Golding / eng / text</rdfs:label>
+      <rdfs:label>The spire by William Golding</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/265448232/thespirebywilliamgolding"/>
@@ -1754,7 +1756,7 @@
       <rdaed:P20316>Notes on William Golding's The spire</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Notes on William Golding's The spire</rdaed:P20312>
-      <rdfs:label>Notes on William Golding's The spire / eng / text</rdfs:label>
+      <rdfs:label>Notes on William Golding's The spire</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/26792887/notesonwilliamgoldingsthespire"/>
@@ -1763,7 +1765,7 @@
       <rdaed:P20316>The Spire</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>The spire : notes</rdaed:P20312>
-      <rdfs:label>The spire / eng / text</rdfs:label>
+      <rdfs:label>The spire</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/27170695/thespire"/>
@@ -1772,7 +1774,7 @@
       <rdaed:P20316>William Golding, The inheritors : notes</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>William Golding, The inheritors : notes</rdaed:P20312>
-      <rdfs:label>William Golding, The inheritors / eng / text</rdfs:label>
+      <rdfs:label>William Golding, The inheritors</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/27170695/williamgoldingtheinheritorsnotes"/>
@@ -1781,7 +1783,7 @@
       <rdaed:P20316>The philosophy of William Golding</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>The philosophy of William Golding : with special reference to 'Free Fall'</rdaed:P20312>
-      <rdfs:label>The philosophy of William Golding / eng / text</rdfs:label>
+      <rdfs:label>The philosophy of William Golding</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/282585329/thephilosophyofwilliamgolding"/>
@@ -1790,7 +1792,7 @@
       <rdaed:P20316>Stundenblätter Golding, "Lord of the flies"</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Stundenblätter Golding, "Lord of the flies"</rdaed:P20312>
-      <rdfs:label>Stundenblätter Golding, "Lord of the flies" / ger / text</rdfs:label>
+      <rdfs:label>Stundenblätter Golding, "Lord of the flies"</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/303443830/stundenblattergoldinglordoftheflies"/>
@@ -1799,7 +1801,7 @@
       <rdaed:P20316>"Lord of the flies"</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>"Lord of the flies" : [Literatur-Kartei Englisch "Lord of the flies" ; Literatur-Kartei zum Roman von William Golding]</rdaed:P20312>
-      <rdfs:label>"Lord of the flies" / ger / text</rdfs:label>
+      <rdfs:label>"Lord of the flies"</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/306134082/lordoftheflies"/>
@@ -1808,7 +1810,7 @@
       <rdaed:P20316>The Moving Target</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>A moving target</rdaed:P20312>
-      <rdfs:label>A moving target / eng / text</rdfs:label>
+      <rdfs:label>A moving target</rdfs:label>
       <rdaed:P20071>Includes the Nobel lecture given in Stockholm, 1983.</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -1817,9 +1819,9 @@
    <rdac:C10006 rdf:about="http://viaf.org/viaf/308018847/exp/eng/1020">
       <rdaed:P20312>The Scorpion God</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The Scorpion God / eng / text</rdfs:label>
+      <rdfs:label>The Scorpion God</rdfs:label>
       <rdaed:P20312>Scorpion god</rdaed:P20312>
-      <rdfs:label>Scorpion god / eng / text</rdfs:label>
+      <rdfs:label>Scorpion god</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/308018847"/>
@@ -1828,8 +1830,9 @@
       <rdaed:P20006>ger</rdaed:P20006>
       <rdaed:P20312>The Scorpion God</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The Scorpion God / ger / text</rdfs:label>
+      <rdfs:label>The Scorpion God</rdfs:label>
       <rdaed:P20315>Der Skorpion-Gott</rdaed:P20315>
+      <rdfs:label>Der Skorpion-Gott</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/81823873"/>
@@ -1839,8 +1842,9 @@
       <rdaed:P20006>spa</rdaed:P20006>
       <rdaed:P20312>The Scorpion God</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>The Scorpion God / spa / text</rdfs:label>
+      <rdfs:label>The Scorpion God</rdfs:label>
       <rdaed:P20315>El dios Escorpión</rdaed:P20315>
+      <rdfs:label>El dios Escorpión</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/12367718"/>
@@ -1850,7 +1854,7 @@
       <rdaed:P20316>The Pyramid</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>The pyramid</rdaed:P20312>
-      <rdfs:label>The pyramid / eng / text</rdfs:label>
+      <rdfs:label>The pyramid</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/309268108"/>
@@ -1859,7 +1863,7 @@
       <rdaed:P20316>The Pyramid</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Oliver : ein Entwicklungsroman</rdaed:P20312>
-      <rdfs:label>Oliver / ger / text</rdfs:label>
+      <rdfs:label>Oliver</rdfs:label>
       <rdaed:P20312>Oliver : Roman. [Berecht. Übers. aus d. Engl.]</rdaed:P20312>
       <rdaed:P20315>Oliver</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
@@ -1870,7 +1874,7 @@
       <rdaed:P20316>The Pyramid</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Oliver : e. Entwicklungsroman</rdaed:P20312>
-      <rdfs:label>Oliver / ger / text</rdfs:label>
+      <rdfs:label>Oliver</rdfs:label>
       <rdaed:P20315>Oliver</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
@@ -1881,7 +1885,7 @@
       <rdaed:P20316>The Pyramid</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>La pirámide</rdaed:P20312>
-      <rdfs:label>La pirámide / spa / text</rdfs:label>
+      <rdfs:label>La pirámide</rdfs:label>
       <rdaed:P20315>La pirámide</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
@@ -1892,8 +1896,9 @@
       <rdaed:P20316>Lord of the flies</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>William Golding's "Lord of the flies"</rdaed:P20312>
-      <rdfs:label>William Golding's "Lord of the flies" / eng / text</rdfs:label>
+      <rdfs:label>William Golding's "Lord of the flies"</rdfs:label>
       <rdaed:P20315>Lord of the flies</rdaed:P20315>
+      <rdfs:label>Lord of the flies</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/310430410"/>
@@ -1902,8 +1907,9 @@
       <rdaed:P20006>ger</rdaed:P20006>
       <rdaed:P20312>Deštník z Piccadilly</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Deštník z Piccadilly / ger / text</rdfs:label>
+      <rdfs:label>Deštník z Piccadilly</rdfs:label>
       <rdaed:P20315>Regenschirm vom Piccadilly</rdaed:P20315>
+      <rdfs:label>Regenschirm vom Piccadilly</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/312341155"/>
@@ -1912,8 +1918,9 @@
       <rdaed:P20006>ger</rdaed:P20006>
       <rdaed:P20312>Morový sloup</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Morový sloup / ger / text</rdfs:label>
+      <rdfs:label>Morový sloup</rdfs:label>
       <rdaed:P20315>Pestsäule</rdaed:P20315>
+      <rdfs:label>Pestsäule</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/313685914"/>
@@ -1922,7 +1929,7 @@
       <rdaed:P20316>Lord of the Flies - student guide</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>'Lord of the Flies'</rdaed:P20312>
-      <rdfs:label>'Lord of the Flies' / eng / text</rdfs:label>
+      <rdfs:label>'Lord of the Flies'</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/36439151/lordoftheflies"/>
@@ -1931,7 +1938,7 @@
       <rdaed:P20316>Lektürehilfen William Golding, "Lord of the flies"</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Lektürehilfen William Golding, "Lord of the flies"</rdaed:P20312>
-      <rdfs:label>Lektürehilfen William Golding, "Lord of the flies" / ger / text</rdfs:label>
+      <rdfs:label>Lektürehilfen William Golding, "Lord of the flies"</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/37534075/lekturehilfenwilliamgoldinglordoftheflies"/>
@@ -1940,7 +1947,7 @@
       <rdaed:P20316>Erläuterungen zu William Golding, Herr der Fliegen (Lord of the flies)</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Erläuterungen zu William Golding, Herr der Fliegen (Lord of the flies)</rdaed:P20312>
-      <rdfs:label>Erläuterungen zu William Golding, Herr der Fliegen (Lord of the flies) / ger / text</rdfs:label>
+      <rdfs:label>Erläuterungen zu William Golding, Herr der Fliegen (Lord of the flies)</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/44671175/erlauterungenzuwilliamgoldingherrderfliegenlordoftheflies"/>
@@ -1949,7 +1956,7 @@
       <rdaed:P20316>Lord of the flies, William Golding</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Lord of the flies, William Golding : Inhalt, Hintergrund, Interpretation ; auf Deutsch - mit englischen Formulierungshilfen!</rdaed:P20312>
-      <rdfs:label>Lord of the flies, William Golding / ger / text</rdfs:label>
+      <rdfs:label>Lord of the flies, William Golding</rdfs:label>
       <rdaed:P20312>Lord of the flies, William Golding : Inhalt, Hintergrund, Interpretationen ; auf Deutsch, mit englischen Formulierungshilfen! ; mit Info-Klappe!</rdaed:P20312>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
@@ -1958,7 +1965,7 @@
    <rdac:C10006 rdf:about="http://viaf.org/viaf/57170916/versuchubergolding/exp/ger/1020/42309455">
       <rdaed:P20312>Versuch über Golding</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Versuch über Golding / ger / text</rdfs:label>
+      <rdfs:label>Versuch über Golding</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/42309455"/>
@@ -1968,7 +1975,7 @@
       <rdaed:P20316>Lord of the flies</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Lord of the flies : notes</rdaed:P20312>
-      <rdfs:label>Lord of the flies / eng / text</rdfs:label>
+      <rdfs:label>Lord of the flies</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/76363614/lordoftheflies"/>
@@ -1976,8 +1983,8 @@
    <rdac:C10006 rdf:about="http://viaf.org/viaf/89500102/CollectionX/exp/eng/1020">
       <rdaed:P20316>Lord of the flies ; Pincher Martin ; Rites of passage</rdaed:P20316>
       <rdaxd:P00029>aggregate</rdaxd:P00029>
-      <rdaed:P20312>Lord of the flies ; : Pincher Martin ; Rites of passage</rdaed:P20312>
-      <rdfs:label>Lord of the flies ; / eng / text</rdfs:label>
+      <rdaed:P20312>Lord of the flies : Pincher Martin ; Rites of passage</rdaed:P20312>
+      <rdfs:label>Lord of the flies</rdfs:label>
       <rdaed:P20071>Lord of the flies -- Pincher Martin -- Rites of Passage</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -1990,7 +1997,7 @@
       <rdaed:P20316>Lord of the flies, William Golding</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Lord of the flies, William Golding : guide</rdaed:P20312>
-      <rdfs:label>Lord of the flies, William Golding / eng / text</rdfs:label>
+      <rdfs:label>Lord of the flies, William Golding</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/89819722/lordoftheflieswilliamgolding"/>
@@ -1999,7 +2006,7 @@
       <rdaed:P20316>Lord of the flies by William Golding</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Lord of the flies by William Golding</rdaed:P20312>
-      <rdfs:label>Lord of the flies by William Golding / eng / text</rdfs:label>
+      <rdfs:label>Lord of the flies by William Golding</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/94686807/lordofthefliesbywilliamgolding"/>
@@ -2008,7 +2015,7 @@
       <rdaed:P20316>William Golding, The Lord of the Flies</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>William Golding, The Lord of the Flies</rdaed:P20312>
-      <rdfs:label>William Golding, The Lord of the Flies / ger / text</rdfs:label>
+      <rdfs:label>William Golding, The Lord of the Flies</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20231 rdf:resource="http://www.example.org/baerengeljennifer/williamgoldingthelordoftheflies"/>
@@ -2017,7 +2024,7 @@
       <rdaed:P20316>William Golding, Lord of the flies</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>William Golding, Lord of the flies</rdaed:P20312>
-      <rdfs:label>William Golding, Lord of the flies / ger / text</rdfs:label>
+      <rdfs:label>William Golding, Lord of the flies</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20231 rdf:resource="http://www.example.org/names/jahnkehansotto/williamgoldinglordoftheflies"/>
@@ -2026,7 +2033,7 @@
       <rdaed:P20316>Students' guide to Lord of the flies</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Students' guide to Lord of the flies</rdaed:P20312>
-      <rdfs:label>Students' guide to Lord of the flies / eng / text</rdfs:label>
+      <rdfs:label>Students' guide to Lord of the flies</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.example.org/names/kingmartin/studentsguidetolordoftheflies"/>
@@ -2035,7 +2042,7 @@
       <rdaed:P20316>Artículo de opinión "The lord of the flies"</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Artículo de opinión : "The lord of the flies"</rdaed:P20312>
-      <rdfs:label>Artículo de opinión / eng / text</rdfs:label>
+      <rdfs:label>Artículo de opinión</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.example.org/names/peabentezpatricia/artculodeopininthelordoftheflies"/>
@@ -2045,7 +2052,7 @@
       <rdaxd:P00029>parent</rdaxd:P00029>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>To the ends of the Earth</rdaed:P20312>
-      <rdfs:label>To the ends of the Earth / eng / text</rdfs:label>
+      <rdfs:label>To the ends of the Earth</rdfs:label>
       <rdaed:P20312>To the ends of the earth : a sea trilogy</rdaed:P20312>
       <rdaed:P20312>To the ends of the Earth : A sea trilogy comprising "Rites of Passage", "Close Quarters" and "Fire Down Below"</rdaed:P20312>
       <rdaed:P20071>Rites of passage -- Close quarters-- Fire down below</rdaed:P20071>
@@ -2061,10 +2068,10 @@
       <rdaed:P20316>The Hot Gates</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>The Hot gates : and other occasional pieces</rdaed:P20312>
-      <rdfs:label>The Hot gates / eng / text</rdfs:label>
-      <rdfs:label>The Hot Gates, and other occasional pieces / eng / text</rdfs:label>
+      <rdfs:label>The Hot gates</rdfs:label>
+      <rdfs:label>The Hot Gates, and other occasional pieces</rdfs:label>
       <rdaed:P20312>The hot gates, etc</rdaed:P20312>
-      <rdfs:label>The hot gates, etc / eng / text</rdfs:label>
+      <rdfs:label>The hot gates, etc</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q7740406"/>
@@ -2073,8 +2080,8 @@
       <rdaed:P20316>The Scorpion God</rdaed:P20316>
       <rdaxd:P00029>parent</rdaxd:P00029>
       <rdaed:P20312>The scorpion god : three short novels</rdaed:P20312>
-      <rdfs:label>The scorpion god / eng / text</rdfs:label>
-      <rdfs:label>The scorpion god: three short novels / eng / text</rdfs:label>
+      <rdfs:label>The scorpion god</rdfs:label>
+      <rdfs:label>The scorpion god: three short novels</rdfs:label>
       <rdaed:P20071>The scorpion god -- Clonk clonk -- Envoy extraordinary</rdaed:P20071>
       <rdaed:P20315>The Scorpion God</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
@@ -2088,7 +2095,7 @@
       <rdaed:P20316>The Scorpion God</rdaed:P20316>
       <rdaxd:P00029>parent</rdaxd:P00029>
       <rdaed:P20312>Der Sonderbotschafter : Romane</rdaed:P20312>
-      <rdfs:label>Der Sonderbotschafter / ger / text</rdfs:label>
+      <rdfs:label>Der Sonderbotschafter</rdfs:label>
       <rdaed:P20312>Der Sonderbotschafter</rdaed:P20312>
       <rdaed:P20071>Der Skorpion-Gott -- Clonk Clonk -- Der Sonderbotschafter</rdaed:P20071>
       <rdaed:P20315>Der Sonderbotschafter</rdaed:P20315>
@@ -2104,9 +2111,9 @@
       <rdaed:P20316>The Scorpion God</rdaed:P20316>
       <rdaxd:P00029>parent</rdaxd:P00029>
       <rdaed:P20312>El dios Escorpión ; Clonc clonc ; El enviado especial</rdaed:P20312>
-      <rdfs:label>El dios Escorpión ; Clonc clonc ; El enviado especial / spa / text</rdfs:label>
+      <rdfs:label>El dios Escorpión ; Clonc clonc ; El enviado especial</rdfs:label>
       <rdaed:P20312>El dios escorpión : tres novelas cortas</rdaed:P20312>
-      <rdfs:label>El dios escorpión / spa / text</rdfs:label>
+      <rdfs:label>El dios escorpión</rdfs:label>
       <rdaed:P20312>El dios escorpión</rdaed:P20312>
       <rdaed:P20071>El dios Escorpión -- Clonc clonc -- El enviado especial</rdaed:P20071>
       <rdaed:P20315>El dios Escorpión</rdaed:P20315>
@@ -2121,7 +2128,7 @@
    <rdac:C10006 rdf:about="https://www.imdb.com/title/tt0057261/exp/1023">
       <rdaed:P20316>Lord of the flies (Peter Brook)</rdaed:P20316>
       <rdaed:P20312>El señor de las moscas</rdaed:P20312>
-      <rdfs:label>El señor de las moscas / mul / moving image</rdfs:label>
+      <rdfs:label>El señor de las moscas</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1023"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mul"/>
@@ -2135,7 +2142,7 @@
    <rdac:C10006 rdf:about="https://www.imdb.com/title/tt0100054/exp/1023">
       <rdaed:P20316>Lord of the flies</rdaed:P20316>
       <rdaed:P20312>El señor de las moscas : Lord of the flies</rdaed:P20312>
-      <rdfs:label>El señor de las moscas / mul / moving image</rdfs:label>
+      <rdfs:label>El señor de las moscas</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1023"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mul"/>
@@ -3558,7 +3565,7 @@
       <rdamd:P30004>ISBN 0571133681 :</rdamd:P30004>
       <rdaxd:P00018>isbn-0571133681</rdaxd:P00018>
       <rdfs:label>ISBN0571133681</rdfs:label>
-      <rdamd:P30156>Lord of the flies ;</rdamd:P30156>
+      <rdamd:P30156>Lord of the flies</rdamd:P30156>
       <rdamd:P30142>Pincher Martin ; Rites of passage</rdamd:P30142>
       <rdamd:P30117>William Golding</rdamd:P30117>
       <rdamd:P30088>London</rdamd:P30088>

@@ -292,13 +292,15 @@
             </datafield>
             <datafield tag="740" condition="frbrizer:linked($anchor_field, ., true())">
                 <subfield code="a" select="frbrizer:trim(.)" type="http://rdaregistry.info/Elements/e/datatype/P20315" label="titlepreferred"/>
+                <subfield code="a" type="http://www.w3.org/2000/01/rdf-schema#label" select="frbrizer:trim(.)" label="rdf label"/>
             </datafield>
             <!--<datafield tag="740" condition="frbrizer:linked($anchor_field, ., false())">
                 <subfield code="a" select="frbrizer:trim(.)" type="http://rdaregistry.info/Elements/e/datatype/P20316" label="varianttitle"/>'
             </datafield>-->
             <datafield tag="245">
                 <subfield code="a" type="http://rdaregistry.info/Elements/e/datatype/P20312" select="string-join((frbrizer:trim(.), frbrizer:trim(../*:subfield[@code='b']), frbrizer:trim(../*:subfield[@code='p'])), ' : ')" label="has title"/>
-                <subfield code="a" type="http://www.w3.org/2000/01/rdf-schema#label" select="string-join((frbrizer:trim(.), $record/*:datafield[@tag='041']/*:subfield[@code=('a', 'd')][1], $record/*:datafield[@tag='336']/*:subfield[@code='a'][1]), ' / ')" label="rdf label"/>
+                <!--<subfield code="a" type="http://www.w3.org/2000/01/rdf-schema#label" select="string-join((frbrizer:trim(.), $record/*:datafield[@tag='041']/*:subfield[@code=('a', 'd')][1], $record/*:datafield[@tag='336']/*:subfield[@code='a'][1]), ' / ')" label="rdf label"/>-->
+                <subfield code="a" type="http://www.w3.org/2000/01/rdf-schema#label" select="frbrizer:trim(.)" label="rdf label"/>
             </datafield>
             <!--<datafield tag="336" condition="frbrizer:linked($anchor_field, .)">
                 <subfield code="a" select="lower-case(.)" type="http://rdaregistry.info/Elements/e/datatype/P20001" label="has content type"/>
@@ -526,7 +528,6 @@
             <datafield tag="600" condition=". eq $this_field">
                 <subfield code="t" type="http://www.w3.org/2000/01/rdf-schema#label" select="frbrizer:trim(.) || ' (' || ../*:subfield[@code='a']/replace(., '[\s,/:=]+$', '') || ')'" label="rdf label"/>
                 <!--<subfield code="t" type="http://www.w3.org/2000/01/rdf-schema#label" select="frbrizer:trim(.)" label="rdf label"/>-->
-                <subfield code="t" type="http://www.w3.org/2000/01/rdf-schema#label" select="frbrizer:trim(.)" label="rdf label"/>
                 <subfield code="t" type="http://rdaregistry.info/Elements/w/datatype/P10088" select="string-join((frbrizer:trim(.), frbrizer:trim(../*:subfield[@code = 'p'])), ' : ')" label="has title of the work"/>
                 <subfield code="f" type="http://rdaregistry.info/Elements/w/datatype/P10219" label="has date of work"/>
                 <subfield code="n" type="http://rdaregistry.info/Elements/w/datatype/P10012" label="has other distinguishing characteristic of the work"/>
@@ -702,7 +703,7 @@
                 <subfield code="1" select="lower-case(.)" type="http://rdaregistry.info/Elements/e/datatype/P20001" label="has content type"/>
             </datafield>-->
             <datafield tag="700"  condition=". eq $this_field">
-                <subfield code="t" type="http://www.w3.org/2000/01/rdf-schema#label" select="string-join((frbrizer:trim(.), $record/*:datafield[@tag='041']/*:subfield[@code=('a', 'd')][1], $record/*:datafield[@tag='336']/*:subfield[@code='a'][1]), ' / ')" label="rdf label"/>
+                <subfield code="t" type="http://www.w3.org/2000/01/rdf-schema#label" select="frbrizer:trim(.)" label="rdf label"/>
                 <subfield code="t" type="http://rdaregistry.info/Elements/x/datatype/P00029" select="'part'"/>
                 <subfield code="l" select="lower-case(.)" type="http://rdaregistry.info/Elements/e/datatype/P20006" label="has language of expression"/>
                 <subfield code="t" select="frbrizer:trim(.)" type="http://rdaregistry.info/Elements/e/datatype/P20312"  label="has variant title"/>
@@ -727,6 +728,7 @@
             </datafield>
             <datafield tag="740" condition="frbrizer:linked($anchor_field, ., true())">
                 <subfield code="a" select="frbrizer:trim(.)" type="http://rdaregistry.info/Elements/e/datatype/P20315" label="titlepreferred"/>
+                <subfield code="a" type="http://www.w3.org/2000/01/rdf-schema#label" select="frbrizer:trim(.)" label="rdf label"/>
             </datafield>
             <!--<datafield tag="740" condition="frbrizer:linked($anchor_field, ., false())">
                 <subfield code="a" select="frbrizer:trim(.)" type="http://rdaregistry.info/Elements/e/datatype/P20316" label="varianttitle"/>

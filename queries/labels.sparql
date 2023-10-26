@@ -1,11 +1,12 @@
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX rdac: <http://rdaregistry.info/Elements/c/>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-
-select distinct ?subject ?label
-				FROM DEFAULT
-				WHERE {
-    			?subject rdf:type ?type.
-    			?subject rdfs:label ?label .
-    			?type rdfs:subClassOf rdac:C10013.
-}
+		
+		SELECT ?subject (MIN(?l) as ?label )
+		{ select distinct ?subject ?l
+		WHERE {
+		?subject a ?type.
+		?subject rdfs:label ?l .
+		?type rdfs:subClassOf rdac:C10013.
+		}ORDER BY asc ( ?subject )
+		} GROUP BY ?subject
