@@ -96,7 +96,7 @@ MATCH
   CALL apoc.create.relationship(s, "PARTOF",{type: property, role: label}, o) yield rel
 RETURN rel;
 
-WITH "workrels.json" AS url
+WITH "horisontalrelationships.json" AS url
 CALL apoc.load.json(url) YIELD value
 UNWIND value.results.bindings AS e
 WITH e.s.value as source, e.p.value as property, e.l.value as label, e.o.value as object
@@ -106,15 +106,15 @@ MATCH
   CALL apoc.create.relationship(s, "RELATED",{type: property, role: label}, o) yield rel
 RETURN rel;
 
-WITH "expressionrels.json" AS url
-CALL apoc.load.json(url) YIELD value
-UNWIND value.results.bindings AS e
-WITH e.s.value as source, e.p.value as property, e.l.value as label, e.o.value as object
-MATCH
-  (s:Resource {uri: source}),
-  (o:Resource {uri: object})
-  CALL apoc.create.relationship(s, "RELATED",{type: property, role: label}, o) yield rel
-RETURN rel;
+//WITH "expressionrels.json" AS url
+//CALL apoc.load.json(url) YIELD value
+//UNWIND value.results.bindings AS e
+//WITH e.s.value as source, e.p.value as property, e.l.value as label, e.o.value as object
+//MATCH
+//  (s:Resource {uri: source}),
+//  (o:Resource {uri: object})
+//  CALL apoc.create.relationship(s, "RELATED",{type: property, role: label}, o) yield rel
+//RETURN rel;
 
 WITH "labels.json" AS url
 CALL apoc.load.json(url) YIELD value

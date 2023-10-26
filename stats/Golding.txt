@@ -111,7 +111,7 @@ Verk identifisert med URI
 * http://viaf.org/viaf/110244899/brodiesnotesonwilliamgoldingslordoftheflies = Brodie's notes on William Golding's Lord of the flies (Language-based work)
 * http://viaf.org/viaf/114105318/williamgoldingthemanwhowrotelordoftheflies = William Golding : the man who wrote Lord of the flies (biography)
 * http://viaf.org/viaf/1180145424574586830081 = The Double Tongue / Double tongue. / The double tongue (Language-based work)
-* http://viaf.org/viaf/119144648592107423604 = Lord of the Flies / Lord of the flies. / Lord of the flies / Lord of the Flies. / Lord of the flies (Language-based work / novel)
+* http://viaf.org/viaf/119144648592107423604 = Lord of the Flies / Lord of the flies. / Lord of the flies / Lord of the flies (Golding, William) / Lord of the Flies. / Lord of the flies (Language-based work / novel)
 * http://viaf.org/viaf/174553895 = Fire Down Below / Fire down below / Fire down below. (Language-based work / novel)
 * http://viaf.org/viaf/176165653 = Rites of Passage / Rites of passage / Rites of passage. (Language-based work / novel)
 * http://viaf.org/viaf/177762289 = Envoy Extraordinary / Envoy extraordinary / Envoy extraordinary. (Language-based work)
@@ -120,7 +120,7 @@ Verk identifisert med URI
 * http://viaf.org/viaf/184334172 = Pincher Martin / Pincher Martin. (Language-based work / novel)
 * http://viaf.org/viaf/187146251 = Close Quarters / Close quarters / Close quarters. (Language-based work / novel)
 * http://viaf.org/viaf/188302088 = The Paper Men / The paper men (Language-based work)
-* http://viaf.org/viaf/191996024 = The Coral Island 
+* http://viaf.org/viaf/191996024 = The Coral Island (Ballantyne, Robert M.) / The Coral Island 
 * http://viaf.org/viaf/198163223 = Route des Flandres. (Language-based work)
 * http://viaf.org/viaf/211743501 = Darkness Visible / Darkness visible (Language-based work)
 * http://viaf.org/viaf/214944831/lordoftheflieswilliamgolding = Lord of the flies, William Golding (Language-based work)
@@ -185,7 +185,7 @@ Verk til verk RDA relasjonstyper i 700 og 758 $4-subfelt + label fra RDA registr
 -------------------------------------------------------
 * http://rdaregistry.info/Elements/w/object/P10127 (is dramatization of work) : 1 
 * http://rdaregistry.info/Elements/w/object/P10129 (is motion picture adaptation of work) : 4 
-* http://rdaregistry.info/Elements/w/object/P10150 (is guide to work) : 10 
+* http://rdaregistry.info/Elements/w/object/P10150 (is guide to work) : 15 
 * http://rdaregistry.info/Elements/w/object/P10187 (is commentary on work) : 7 
 * http://rdaregistry.info/Elements/w/object/P10628 () : 1 
 
@@ -245,6 +245,7 @@ Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke an
 * http://rdaregistry.info/Elements/w/object/P10628 () -> Lord of the flies (Golding, William) (758)
 * http://rdaregistry.info/Elements/w/P10257 (has subject work) -> Lord of the flies / Golding, William (600)
 001 = 952199246, Erläuterungen zu William Golding, Herr der Fliegen (Lord of the flies) / Neis, Edgar / Language-based work 
+* http://rdaregistry.info/Elements/w/object/P10150 (is guide to work) -> Lord of the flies (Golding, William) (758)
 * http://rdaregistry.info/Elements/w/P10257 (has subject work) -> Lord of the flies / Golding, William (600)
 001 = 961199326, William Golding, The Lord of the Flies / Baer-Engel, Jennifer / Language-based work 
 * http://rdaregistry.info/Elements/w/object/P10187 (is commentary on work) -> Lord of the flies. / Golding, William (700)
@@ -262,12 +263,15 @@ Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke an
 001 = 920029027, Stundenblätter Golding, "Lord of the flies" / Kaiser, Gerd / Language-based work 
 * http://rdaregistry.info/Elements/w/P10257 (has subject work) -> Lord of the flies / Golding, William (600)
 001 = 931328292, William Golding, Herr der Fliegen, Die Koralleninsel (R. M. Ballantyne) / Analysen und Reflexionen. Interpretationen und Anmerkungen. / Poppe, Reiner / Language-based work 
+* http://rdaregistry.info/Elements/w/object/P10150 (is guide to work) -> Lord of the flies (Golding, William) (758)
+* http://rdaregistry.info/Elements/w/object/P10150 (is guide to work) -> The Coral Island (Ballantyne, Robert M.) (758)
 * http://rdaregistry.info/Elements/w/P10257 (has subject work) -> Lord of the flies / Golding, William (600)
 * http://rdaregistry.info/Elements/w/P10257 (has subject work) -> The Coral Island / Ballantyne, Robert M. (600)
 001 = 930476336, Lektürehilfen William Golding, "Lord of the flies" / Meitcke, W. / Language-based work 
 * http://rdaregistry.info/Elements/w/object/P10187 (is commentary on work) -> Lord of the flies. / Golding, William (700)
 * http://rdaregistry.info/Elements/w/P10257 (has subject work) -> Lord of the flies / Golding, William (600)
 001 = 966458419, Erläuterungen zu William Golding, Herr der Fliegen (Lord of the flies) / Poppe, Reiner / Language-based work 
+* http://rdaregistry.info/Elements/w/object/P10150 (is guide to work) -> Lord of the flies (Golding, William) (758)
 * http://rdaregistry.info/Elements/w/P10257 (has subject work) -> Lord of the flies / Golding, William (600)
 001 = 1025552377, Lord of the Flies : Teacher's Guide / Horst, Silke / Language-based work 
 * http://rdaregistry.info/Elements/w/object/P10150 (is guide to work) -> Lord of the flies. / Golding, William (700)
@@ -275,6 +279,7 @@ Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke an
 * http://rdaregistry.info/Elements/w/object/P10150 (is guide to work) -> Lord of the flies. / Golding, William (700)
 * http://rdaregistry.info/Elements/w/P10257 (has subject work) -> Lord of the flies / Golding, William (600)
 001 = 948740256, William Golding, Herr der Fliegen (Lord of the flies) / Poppe, Reiner / Language-based work 
+* http://rdaregistry.info/Elements/w/object/P10150 (is guide to work) -> Lord of the flies (Golding, William) (758)
 * http://rdaregistry.info/Elements/w/P10257 (has subject work) -> Lord of the flies / Golding, William (600)
 001 = 988550636, Erläuterungen zu William Golding, Herr der Fliegen (Lord of the flies) / Poppe, Reiner / Language-based work 
 * http://rdaregistry.info/Elements/w/P10257 (has subject work) -> Lord of the flies / Golding, William (600)

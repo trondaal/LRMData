@@ -1,0 +1,21 @@
+# Horisontal relationships, excluding realizes, subjects, part of
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+    PREFIX rdac: <http://rdaregistry.info/Elements/c/>
+    PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+        PREFIX rdaeo: <http://rdaregistry.info/Elements/e/object/>
+        PREFIX rdawo: <http://rdaregistry.info/Elements/w/object/>
+        select distinct ?s ?p ?l ?o
+        FROM DEFAULT
+        WHERE {
+        ?s ?p ?o.
+        ?p rdfs:label ?l.
+        ?s a ?t1.
+        ?o a ?t2.
+        FILTER(
+        LANG(?l) = "en" &&
+        ?t1 IN(rdac:C10001, rdac:C10006) && 
+        ?t2 IN(rdac:C10001, rdac:C10006) &&
+        !(?p IN(rdaeo:P20319, rdaeo:P20145, rdawo:P10147, rdawo:P10257,rdaeo:P20231)))
+        }
+        order by ?l
+        
