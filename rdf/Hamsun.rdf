@@ -643,6 +643,13 @@
       <rdawd:P10088>Vandrere</rdawd:P10088>
       <rdfs:label>Vandrere (Hamsun, Knut)</rdfs:label>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/59083692/verker/bind7">
+      <rdaxd:P00018>http://viaf.org/viaf/59083692/verker/bind7</rdaxd:P00018>
+      <rdawd:P10088>Samlede verker : Bind 7</rdawd:P10088>
+      <rdfs:label>Samlede verker : Bind 7 (Hamsun, Knut)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/59083692/æreskjælm">
       <rdaxd:P00018>http://viaf.org/viaf/59083692/æreskjælm</rdaxd:P00018>
       <rdawd:P10088>En æreskjælm</rdawd:P10088>
@@ -5311,6 +5318,7 @@
       <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>Hamsuns beste : senere verker</rdaed:P20312>
       <rdfs:label>Hamsuns beste</rdfs:label>
+      <rdaed:P20071>Markens grøde -- Landstrykere -- På gjengrodde stier</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nor"/>
@@ -5628,6 +5636,19 @@
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/162089799"/>
       <rdaeo:P20037 rdf:resource="http://example.org/kiyhermann"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/59083692/vagabondsdager"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/59083692/verker/bind7/exp/nob/nor/1020">
+      <rdaed:P20316>Samlede verker : Bind 7</rdaed:P20316>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>Samlede verker : Den siste glæde ; Markens grøde</rdaed:P20312>
+      <rdfs:label>Samlede verker</rdfs:label>
+      <rdaed:P20071>Den siste glæde ; Markens grøde</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nor"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/59083692/verker/bind7"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/185380595/exp/nob/nor/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/294124367/exp/nob/nor/1020"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/59083692/æreskjælm/exp/nob/nor/1020">
       <rdaed:P20312>En æreskjælm</rdaed:P20312>
@@ -19457,8 +19478,10 @@
       <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>1. utg. Kristiania ; København : Gyldendalske Boghandel, henholdsvis 1912 med tittel: Den sidste glæde og 1917</rdamd:P30137>
+      <rdamd:P30033>Den siste glæde ; Markens grøde</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/verker/bind7/exp/nob/nor/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/185380595/exp/nob/nor/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/294124367/exp/nob/nor/1020"/>
    </rdac:C10007>
@@ -19717,7 +19740,7 @@
       <rdamd:P30137>På løst omslag: Inneholder bonustekster</rdamd:P30137>
       <rdamd:P30137>Inneholder også utvalgte brev</rdamd:P30137>
       <rdamd:P30137>Markens grøde ; Landstrykere ; På gjengrodde stier. 1. utg. av Markens grøde Kristiania ; København : Gyldendalske Boghandel, 1917 i 2 b. 1. utg. av Landstrykere 1927 og På gjengrodde stier 1949 med tittel: Paa gjengrodde stier</rdamd:P30137>
-      <rdamd:P30137>Markens grøde ; Landstrykere ; På gjengrodde stier</rdamd:P30137>
+      <rdamd:P30033>Markens grøde -- Landstrykere -- På gjengrodde stier</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/hamsunsbestesenereverker/exp/nob/nor/1020"/>
@@ -19747,7 +19770,7 @@
       <rdamd:P30137>På omslaget: Inneholder bonustekster</rdamd:P30137>
       <rdamd:P30137>1. utg. av denne samlingen 2005</rdamd:P30137>
       <rdamd:P30137>Markens grøde ; Landstrykere ; På gjengrodde stier. 1. utg. av Markens grøde Kristiania ; København : Gyldendalske Boghandel, 1917 i 2 b. 1. utg. av Landstrykere 1927 og På gjengrodde stier 1949 med tittel: Paa gjengrodde stier</rdamd:P30137>
-      <rdamd:P30137>Markens grøde ; Landstrykere ; På gjengrodde stier</rdamd:P30137>
+      <rdamd:P30033>Markens grøde -- Landstrykere -- På gjengrodde stier</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/hamsunsbestesenereverker/exp/nob/nor/1020"/>

@@ -19046,6 +19046,21 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-8205275408-7"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/verker/bind7/exp/nob/nor/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-8205275408-8"
                 },
                 "l": {
@@ -58761,6 +58776,21 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/59083692/samledeverker/2007/b14"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/verker/bind7/exp/nob/nor/1020"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/verker/bind7"
                 }
             }
         ]
