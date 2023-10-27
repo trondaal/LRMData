@@ -432,6 +432,27 @@
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/59083692/ganskealminneligflue">
+      <rdaxd:P00018>http://viaf.org/viaf/59083692/ganskealminneligflue</rdaxd:P00018>
+      <rdawd:P10088>En ganske alminnelig flue av alminnelig størrelse</rdawd:P10088>
+      <rdfs:label>En ganske alminnelig flue av alminnelig størrelse (Hamsun, Knut)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/59083692/hamsunsbestesenereverker">
+      <rdaxd:P00018>http://viaf.org/viaf/59083692/hamsunsbestesenereverker</rdaxd:P00018>
+      <rdawd:P10088>Hamsuns beste : senere verker</rdawd:P10088>
+      <rdfs:label>Hamsuns beste : senere verker (Hamsun, Knut)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/59083692/hamsunsbesteungdomsverker">
+      <rdaxd:P00018>http://viaf.org/viaf/59083692/hamsunsbesteungdomsverker</rdaxd:P00018>
+      <rdawd:P10088>Hamsuns beste : ungdomsverker</rdawd:P10088>
+      <rdfs:label>Hamsuns beste : ungdomsverker (Hamsun, Knut)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/59083692/hemmeligv">
       <rdaxd:P00018>http://viaf.org/viaf/59083692/hemmeligv</rdaxd:P00018>
       <rdaxd:P00029>short story</rdaxd:P00029>
@@ -503,6 +524,13 @@
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/59083692/ondedager">
+      <rdaxd:P00018>http://viaf.org/viaf/59083692/ondedager</rdaxd:P00018>
+      <rdawd:P10088>Onde dager</rdawd:P10088>
+      <rdfs:label>Onde dager (Hamsun, Knut)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/59083692/paabankene">
       <rdaxd:P00018>http://viaf.org/viaf/59083692/paabankene</rdaxd:P00018>
       <rdaxd:P00029>short story</rdaxd:P00029>
@@ -543,6 +571,41 @@
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/59083692/samledeverker/1934/b10">
+      <rdaxd:P00018>http://viaf.org/viaf/59083692/samledeverker/1934/b10</rdaxd:P00018>
+      <rdawd:P10088>Samlede verker : Bind 10</rdawd:P10088>
+      <rdfs:label>Samlede verker : Bind 10 (Hamsun, Knut)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/59083692/samledeverker/1934/b13">
+      <rdaxd:P00018>http://viaf.org/viaf/59083692/samledeverker/1934/b13</rdaxd:P00018>
+      <rdawd:P10088>Samlede verker : Bind 13</rdawd:P10088>
+      <rdfs:label>Samlede verker : Bind 13 (Hamsun, Knut)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/59083692/samledeverker/2000/b09">
+      <rdaxd:P00018>http://viaf.org/viaf/59083692/samledeverker/2000/b09</rdaxd:P00018>
+      <rdawd:P10088>Samlede verker : Bind 9</rdawd:P10088>
+      <rdfs:label>Samlede verker : Bind 9 (Hamsun, Knut)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/59083692/samledeverker/2000/b14">
+      <rdaxd:P00018>http://viaf.org/viaf/59083692/samledeverker/2000/b14</rdaxd:P00018>
+      <rdawd:P10088>Samlede verker : Bind 14</rdawd:P10088>
+      <rdfs:label>Samlede verker : Bind 14 (Hamsun, Knut)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/59083692/samledeverker/2007/b14">
+      <rdaxd:P00018>http://viaf.org/viaf/59083692/samledeverker/2007/b14</rdaxd:P00018>
+      <rdawd:P10088>Samlede verker : Bind 18</rdawd:P10088>
+      <rdfs:label>Samlede verker : Bind 18 (Hamsun, Knut)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/59083692/udisdensommer">
       <rdaxd:P00018>http://viaf.org/viaf/59083692/udisdensommer</rdaxd:P00018>
       <rdaxd:P00029>Short story</rdaxd:P00029>
@@ -579,6 +642,13 @@
       <rdaxd:P00018>http://viaf.org/viaf/59083692/vandrertriologi</rdaxd:P00018>
       <rdawd:P10088>Vandrere</rdawd:P10088>
       <rdfs:label>Vandrere (Hamsun, Knut)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/59083692/æreskjælm">
+      <rdaxd:P00018>http://viaf.org/viaf/59083692/æreskjælm</rdaxd:P00018>
+      <rdawd:P10088>En æreskjælm</rdawd:P10088>
+      <rdfs:label>En æreskjælm (Hamsun, Knut)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/61541730/lerire">
       <rdaxd:P00018>http://viaf.org/viaf/61541730/lerire</rdaxd:P00018>
@@ -2589,6 +2659,8 @@
    <rdac:C10006 rdf:about="http://viaf.org/viaf/188303684/exp/nob/nor/1020">
       <rdaed:P20316>Siste kapitel</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20316>Samlede verker : Bind 9</rdaed:P20316>
+      <rdaed:P20316>Samlede verker : Bind 13</rdaed:P20316>
       <rdaed:P20312>Samlede verker : Siste kapitel</rdaed:P20312>
       <rdfs:label>Samlede verker</rdfs:label>
       <rdaed:P20312>Siste kapittel</rdaed:P20312>
@@ -3184,6 +3256,7 @@
    <rdac:C10006 rdf:about="http://viaf.org/viaf/207944253/exp/nob/nor/1020">
       <rdaed:P20316>Segelfoss by</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20316>Samlede verker : Bind 10</rdaed:P20316>
       <rdaed:P20312>Segelfoss by</rdaed:P20312>
       <rdfs:label>Segelfoss by</rdfs:label>
       <rdaed:P20312>Samlede Verker : Segelfoss By</rdaed:P20312>
@@ -3563,6 +3636,16 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
       <rdaeo:P20037 rdf:resource="http://example.org/camprubdejimnezzenobia"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/24608356/gitanjali"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/294124367/exp/dut/1020">
+      <rdaed:P20312>Markens grøde</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Markens grøde</rdfs:label>
+      <rdaed:P20315>Hoe het groeide</rdaed:P20315>
+      <rdfs:label>Hoe het groeide</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dut"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/294124367"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/294124367/exp/eng/1020">
       <rdaed:P20316>Markens grøde</rdaed:P20316>
@@ -4005,6 +4088,16 @@
       <rdaeo:P20037 rdf:resource="http://personid.no/10165"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/309525997"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/309525999/exp/dut/1020">
+      <rdaed:P20312>I æventyrland</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>I æventyrland</rdfs:label>
+      <rdaed:P20315>In sprookjesland</rdaed:P20315>
+      <rdfs:label>In sprookjesland</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dut"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/309525999"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/309525999/exp/eng/1020/111655332">
       <rdaed:P20316>I æventyrland</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
@@ -4412,6 +4505,7 @@
       <rdfs:label>Konerne ved Vandposten</rdfs:label>
       <rdaed:P20312>Konerne ved vandposten</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
+      <rdaed:P20315>Konerne ved vandposten</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nor"/>
@@ -4614,6 +4708,15 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
       <rdaeo:P20037 rdf:resource="http://example.org/atweldeveygaricardo"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/39380311/freeair"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/395147270538135700001/exp/dut/1020">
+      <rdaed:P20312>Victoria</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Victoria</rdfs:label>
+      <rdaed:P20315>Victoria</rdaed:P20315>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dut"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/395147270538135700001"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/395147270538135700001/exp/eng/1020">
       <rdaed:P20316>Victoria</rdaed:P20316>
@@ -5194,6 +5297,47 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nor"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/59083692/fortllingerogskildringer"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/59083692/ganskealminneligflue/exp/nob/nor/1020">
+      <rdaed:P20312>En ganske alminnelig flue av alminnelig størrelse</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>En ganske alminnelig flue av alminnelig størrelse</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nor"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/59083692/ganskealminneligflue"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/59083692/hamsunsbestesenereverker/exp/nob/nor/1020">
+      <rdaed:P20316>Hamsuns beste : senere verker</rdaed:P20316>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>Hamsuns beste : senere verker</rdaed:P20312>
+      <rdfs:label>Hamsuns beste</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nor"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/59083692/hamsunsbestesenereverker"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/30145424502786830193/exp/nob/nor/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/180078068/exp/nob/nor/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/294124367/exp/nob/nor/1020"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/59083692/hamsunsbesteungdomsverker/exp/nob/nor/1020">
+      <rdaed:P20316>Hamsuns beste : ungdomsverker</rdaed:P20316>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>Hamsuns beste : ungdomsverker</rdaed:P20312>
+      <rdfs:label>Hamsuns beste</rdfs:label>
+      <rdaed:P20312>Hamsuns beste</rdaed:P20312>
+      <rdaed:P20071>Sult ; Mysterier ; Pan ; Victoria; Onde dager; En ganske alminnelig flue av alminnelig størrelse ; En æreskjælm</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nor"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/59083692/hamsunsbesteungdomsverker"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/220443771/exp/nob/nor/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/194765531/exp/nob/nor/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/395147270538135700001/exp/nob/nor/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/206863699/exp/nob/nor/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/59083692/ondedager/exp/nob/nor/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/59083692/ganskealminneligflue/exp/nob/nor/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/59083692/æreskjælm/exp/nob/nor/1020"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/59083692/hemmeligv/exp/ger/1020/brausewetterernst">
       <rdaed:P20006>ger</rdaed:P20006>
       <rdaed:P20312>Hemmelig vé</rdaed:P20312>
@@ -5303,6 +5447,15 @@
       <rdaeo:P20037 rdf:resource="http://example.org/knusttheodor"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/59083692/nabobyen"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/59083692/ondedager/exp/nob/nor/1020">
+      <rdaed:P20312>Onde dager</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Onde dager</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nor"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/59083692/ondedager"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/59083692/paabankene/exp/ger/1020/brausewetterernst">
       <rdaed:P20006>ger</rdaed:P20006>
       <rdaed:P20312>Paa bankene</rdaed:P20312>
@@ -5360,6 +5513,67 @@
       <rdaeo:P20037 rdf:resource="http://example.org/brausewetterernst"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/59083692/ringen"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/59083692/samledeverker/1934/b10/exp/nob/nor/1020">
+      <rdaed:P20316>Segelfoss by</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20316>Samlede verker : Bind 10</rdaed:P20316>
+      <rdaed:P20312>Samlede Verker : Segelfoss By</rdaed:P20312>
+      <rdfs:label>Samlede Verker</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nor"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/59083692/samledeverker/1934/b10"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/59083692/samledeverker/1934/b13/exp/nob/nor/1020">
+      <rdaed:P20316>Siste kapitel</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20316>Samlede verker : Bind 13</rdaed:P20316>
+      <rdaed:P20312>Samlede Verker : Siste Kapitel</rdaed:P20312>
+      <rdfs:label>Samlede Verker</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nor"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/59083692/samledeverker/1934/b13"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/59083692/samledeverker/2000/b09/exp/nob/nor/1020">
+      <rdaed:P20316>Siste kapitel</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20316>Samlede verker : Bind 9</rdaed:P20316>
+      <rdaed:P20312>Samlede verker : Siste kapitel</rdaed:P20312>
+      <rdfs:label>Samlede verker</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nor"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/59083692/samledeverker/2000/b09"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/59083692/samledeverker/2000/b14/exp/nob/nor/1020">
+      <rdaed:P20316>Samlede verker : Bind 14</rdaed:P20316>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>Samlede verker : Ved rikets port ; Livets spil ; Aftenrøde ; Munken Vendt</rdaed:P20312>
+      <rdfs:label>Samlede verker</rdfs:label>
+      <rdaed:P20071>Ved rikets port ; Livets spil ; Aftenrøde ; Munken Vendt</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nor"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/59083692/samledeverker/2000/b14"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/316992494/exp/nob/nor/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/7398163939428301160007/exp/nob/nor/1020"/>
+      <rdaeo:P20319 rdf:resource="http://www.wikidata.org/entity/Q15062327/exp/nob/nor/1020"/>
+      <rdaeo:P20319 rdf:resource="http://www.wikidata.org/entity/Q15062323/exp/nob/nor/1020"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/59083692/samledeverker/2007/b14/exp/nob/nor/1020">
+      <rdaed:P20316>Samlede verker : Bind 18</rdaed:P20316>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>Samlede verker : Den gåtefulle ; Bjørger ; Livsfragmenter</rdaed:P20312>
+      <rdfs:label>Samlede verker</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nor"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/59083692/samledeverker/2007/b14"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/183478381/exp/nob/nor/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/312501980/exp/nob/nor/1020"/>
+      <rdaeo:P20319 rdf:resource="http://workid.oslomet.no/kh/02/exp/nob/nor/1020"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/59083692/udisdensommer/exp/nob/nor/1020">
       <rdaed:P20312>Udi søden sommer</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
@@ -5414,6 +5628,15 @@
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/162089799"/>
       <rdaeo:P20037 rdf:resource="http://example.org/kiyhermann"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/59083692/vagabondsdager"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/59083692/æreskjælm/exp/nob/nor/1020">
+      <rdaed:P20312>En æreskjælm</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>En æreskjælm</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nor"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/59083692/æreskjælm"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/61541730/lerire/exp/spa/1020/ayderaggioamalia">
       <rdaed:P20312>Le rire</rdaed:P20312>
@@ -10025,9 +10248,9 @@
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/395147270538135700001/exp/nob/nor/1020"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309525999/exp/nob/nor/1020"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/294124367/exp/nob/nor/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/395147270538135700001/exp/dut/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309525999/exp/dut/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/294124367/exp/dut/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/990230240704702201">
       <rdamd:P30156>Victoria</rdamd:P30156>
@@ -12849,6 +13072,7 @@
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/207944253/exp/nob/nor/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/samledeverker/1934/b10/exp/nob/nor/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/999729139804702201">
       <rdamd:P30156>Samlede Verker</rdamd:P30156>
@@ -12865,6 +13089,7 @@
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/188303684/exp/nob/nor/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/samledeverker/1934/b13/exp/nob/nor/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/999729140804702201">
       <rdamd:P30156>Samlede Verker</rdamd:P30156>
@@ -19074,8 +19299,10 @@
       <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>1. utg. København, henholdsvis Philipsen, 1885, Det Nordiske Forl., 1896 og Gyldendalske Boghandel 1898 og 1902. Ved rikets port opprinnelig utgitt med tittel: Ved Rigets Port</rdamd:P30137>
+      <rdamd:P30033>Ved rikets port ; Livets spil ; Aftenrøde ; Munken Vendt</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/samledeverker/2000/b14/exp/nob/nor/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/316992494/exp/nob/nor/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7398163939428301160007/exp/nob/nor/1020"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q15062327/exp/nob/nor/1020"/>
@@ -19274,6 +19501,7 @@
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/188303684/exp/nob/nor/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/samledeverker/2000/b09/exp/nob/nor/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8205277478">
       <rdamd:P30004>ISBN 8205277478</rdamd:P30004>
@@ -19458,13 +19686,18 @@
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30106>Forfatternes beste</rdamd:P30106>
       <rdamd:P30137>Inneholder også tre frittstående noveller</rdamd:P30137>
-      <rdamd:P30033>Sult ; Mysterier ; Pan ; Victoria. 1. utg. av Sult, Mysterier og Pan: København : Philipsen, henholdsvis 1890, 1892 og 1894. 1. utg. av Victoria: Oslo : Cammermeyer, 1898</rdamd:P30033>
+      <rdamd:P30137>Sult ; Mysterier ; Pan ; Victoria. 1. utg. av Sult, Mysterier og Pan: København : Philipsen, henholdsvis 1890, 1892 og 1894. 1. utg. av Victoria: Oslo : Cammermeyer, 1898</rdamd:P30137>
+      <rdamd:P30033>Sult ; Mysterier ; Pan ; Victoria; Onde dager; En ganske alminnelig flue av alminnelig størrelse ; En æreskjælm</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/hamsunsbesteungdomsverker/exp/nob/nor/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/220443771/exp/nob/nor/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/194765531/exp/nob/nor/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/395147270538135700001/exp/nob/nor/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/206863699/exp/nob/nor/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/ondedager/exp/nob/nor/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/ganskealminneligflue/exp/nob/nor/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/æreskjælm/exp/nob/nor/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8205341958">
       <rdamd:P30004>ISBN 8205341958</rdamd:P30004>
@@ -19483,9 +19716,11 @@
       <rdamd:P30106>Forfatternes beste</rdamd:P30106>
       <rdamd:P30137>På løst omslag: Inneholder bonustekster</rdamd:P30137>
       <rdamd:P30137>Inneholder også utvalgte brev</rdamd:P30137>
-      <rdamd:P30033>Markens grøde ; Landstrykere ; På gjengrodde stier. 1. utg. av Markens grøde Kristiania ; København : Gyldendalske Boghandel, 1917 i 2 b. 1. utg. av Landstrykere 1927 og På gjengrodde stier 1949 med tittel: Paa gjengrodde stier</rdamd:P30033>
+      <rdamd:P30137>Markens grøde ; Landstrykere ; På gjengrodde stier. 1. utg. av Markens grøde Kristiania ; København : Gyldendalske Boghandel, 1917 i 2 b. 1. utg. av Landstrykere 1927 og På gjengrodde stier 1949 med tittel: Paa gjengrodde stier</rdamd:P30137>
+      <rdamd:P30137>Markens grøde ; Landstrykere ; På gjengrodde stier</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/hamsunsbestesenereverker/exp/nob/nor/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/30145424502786830193/exp/nob/nor/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/180078068/exp/nob/nor/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/294124367/exp/nob/nor/1020"/>
@@ -19511,9 +19746,11 @@
       <rdamd:P30137>Inneholder også utvalgte brev</rdamd:P30137>
       <rdamd:P30137>På omslaget: Inneholder bonustekster</rdamd:P30137>
       <rdamd:P30137>1. utg. av denne samlingen 2005</rdamd:P30137>
-      <rdamd:P30033>Markens grøde ; Landstrykere ; På gjengrodde stier. 1. utg. av Markens grøde Kristiania ; København : Gyldendalske Boghandel, 1917 i 2 b. 1. utg. av Landstrykere 1927 og På gjengrodde stier 1949 med tittel: Paa gjengrodde stier</rdamd:P30033>
+      <rdamd:P30137>Markens grøde ; Landstrykere ; På gjengrodde stier. 1. utg. av Markens grøde Kristiania ; København : Gyldendalske Boghandel, 1917 i 2 b. 1. utg. av Landstrykere 1927 og På gjengrodde stier 1949 med tittel: Paa gjengrodde stier</rdamd:P30137>
+      <rdamd:P30137>Markens grøde ; Landstrykere ; På gjengrodde stier</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/hamsunsbestesenereverker/exp/nob/nor/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/30145424502786830193/exp/nob/nor/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/180078068/exp/nob/nor/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/294124367/exp/nob/nor/1020"/>
@@ -23699,13 +23936,18 @@
       <rdamd:P30106>Forfatternes beste</rdamd:P30106>
       <rdamd:P30137>1. utg. av denne samlingen 2005</rdamd:P30137>
       <rdamd:P30137>Inneholder også tre frittstående noveller</rdamd:P30137>
-      <rdamd:P30033>Sult ; Mysterier ; Pan ; Victoria. 1. utg. av Sult, Mysterier og Pan: København : Philipsen, henholdsvis 1890, 1892 og 1894. 1. utg. av Victoria: Oslo : Cammermeyer, 1898</rdamd:P30033>
+      <rdamd:P30137>Sult ; Mysterier ; Pan ; Victoria. 1. utg. av Sult, Mysterier og Pan: København : Philipsen, henholdsvis 1890, 1892 og 1894. 1. utg. av Victoria: Oslo : Cammermeyer, 1898</rdamd:P30137>
+      <rdamd:P30033>Sult ; Mysterier ; Pan ; Victoria; Onde dager; En ganske alminnelig flue av alminnelig størrelse ; En æreskjælm</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/hamsunsbesteungdomsverker/exp/nob/nor/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/220443771/exp/nob/nor/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/194765531/exp/nob/nor/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/395147270538135700001/exp/nob/nor/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/206863699/exp/nob/nor/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/ondedager/exp/nob/nor/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/ganskealminneligflue/exp/nob/nor/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/æreskjælm/exp/nob/nor/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788205359086-3">
       <rdamd:P30004>ISBN 9788205359086</rdamd:P30004>
@@ -23880,6 +24122,7 @@
       <rdamd:P30137>1. utg. av Den gåtefulle: Tromsø : G. Kjeldseths Bogtr., 1877 med tittel Den gaadefulde; Bjørger: Bodø : K. Hamsund, 1878 Livsfragmenter: Tidligere publisert i aviser og tidsskrifter</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/samledeverker/2007/b14/exp/nob/nor/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/183478381/exp/nob/nor/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/312501980/exp/nob/nor/1020"/>
       <rdamo:P30139 rdf:resource="http://workid.oslomet.no/kh/02/exp/nob/nor/1020"/>
@@ -25510,6 +25753,10 @@
    </rdac:C10007>
    <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/dan">
       <skos:subjectIndicator>dan</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/dut">
+      <rdfs:label>dut</rdfs:label>
+      <skos:subjectIndicator>dut</skos:subjectIndicator>
    </skos:Concept>
    <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/eng">
       <rdfs:label>eng</rdfs:label>
