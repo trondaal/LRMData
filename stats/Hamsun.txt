@@ -4,7 +4,7 @@ VBINF6000 rapport over datasamling - oppdatert 24/10 2023
 -------------------------------------------------------
 
 
-Antall poster i samlingen:1099
+Antall poster i samlingen:1096
 -------------------------------------------------------
 
 
@@ -22,6 +22,7 @@ Agenter identifisert med URI
 * http://example.org/baldizfrancisco (700) : Baldiz, Francisco
 * http://example.org/barraultjeanlouis (100) : Barrault, Jean-Louis
 * http://example.org/baumgartnerwalter (700) : Baumgartner, Walter
+* http://viaf.org/viaf/61541730 (700) : Bergson, Henri
 * http://example.org/bienhorst (700) : Bien, Horst
 * http://example.org/bjrkmanedwin (700) : Björkman, Edwin
 * http://example.org/blancafortmanuelr (700) : Blancafort, Manuel R
@@ -30,7 +31,7 @@ Agenter identifisert med URI
 * http://example.org/borchmarievon (700) : Borch, Marie von
 * http://example.org/bothmergerry (700) : Bothmer, Gerry
 * http://example.org/boyerregis (700) : Boyer, Régis
-* http://viaf.org/viaf/66602903 (700, 100) : Boyer, Régis
+* http://viaf.org/viaf/66602903 (700) : Boyer, Régis
 * http://example.org/brausewetterernst (700) : Brausewetter, Ernst
 * http://example.org/bruckedgarpedro (700) : Bruck, Edgar Pedro
 * http://example.org/brunsalken (700) : Bruns, Alken
@@ -69,7 +70,6 @@ Agenter identifisert med URI
 * http://example.org/goebelheinrich (700) : Goebel, Heinrich
 * http://example.org/gossg (700) : Gossé, G
 * http://example.org/gossl (700) : Gossé, L
-* http://example.org/gouchetolivier (100) : Gouchet, Olivier
 * http://example.org/griegharald (700) : Grieg, Harald
 * http://example.org/grouixpierre (700) : Grouix, Pierre
 * http://example.org/grunauwernervon (700) : Grünau, Werner von
@@ -189,7 +189,7 @@ Agenter identifisert med URI
 * http://example.org/strmdahlwenche (700) : Strømdahl, Wenche
 * http://example.org/sundquistbjrn (700) : Sundquist, Bjørn
 * http://example.org/srensenhansgerhard (700) : Sørensen, Hans Gerhard
-* http://viaf.org/viaf/24608356 (100) : Tagore, Rabindranath
+* http://viaf.org/viaf/24608356 (700) : Tagore, Rabindranath
 * http://example.org/thalbitzerkaren (700) : Thalbitzer, Karen
 * http://example.org/tushinghamrita (700) : Tushingham, Rita
 * http://example.org/ueackerheiko (700) : Uecker, Heiko
@@ -234,6 +234,7 @@ men dere velger selv hvilke agenter som skal være med
 
 Verk identifisert med URI
 -------------------------------------------------------
+* hcontrol = Sværmere 
 * http://example.org/barraultjeanlouis/lafaim = La faim (Language-based work)
 * http://example.org/buninivan/vospominanija = Vospominanija (Language-based work)
 * http://example.org/cubehellmutvon/mysterien = Mysterien 
@@ -273,7 +274,6 @@ Verk identifisert med URI
 * http://viaf.org/viaf/395147270538135700001 = Victoria (Language-based work)
 * http://viaf.org/viaf/41841418/lauscherhermann = Lauscher, Hermann (Language-based work)
 * http://viaf.org/viaf/4225152200827914400006 = Dronningen af Saba (Language-based work)
-* http://viaf.org/viaf/54151065/buddenbrooksverfalleinerfamilie = Buddenbrooks – Verfall einer Familie (Language-based work)
 * http://viaf.org/viaf/54151065/doktorfaustus = Doktor Faustus (Language-based work)
 * http://viaf.org/viaf/54151065/tristan = Tristan (Language-based work)
 * http://viaf.org/viaf/54151065/vision = Vision (Language-based work)
@@ -356,12 +356,12 @@ verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 -------------------------------------------------------
 * http://rdaregistry.info/Elements/e/object/P20012 (has actor agent) : 22 
 * http://rdaregistry.info/Elements/e/object/P20020 (has instrumentalist agent) : 2 
-* http://rdaregistry.info/Elements/e/object/P20022 (has narrator agent) : 34 
-* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent) : 812 
+* http://rdaregistry.info/Elements/e/object/P20022 (has narrator agent) : 35 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent) : 813 
 * http://rdaregistry.info/Elements/m/object/P30069 (has book designer agent) : 5 
 * http://rdaregistry.info/Elements/m/object/P30267 (has related agent of manifestation) : 24 
 * http://rdaregistry.info/Elements/m/object/P30321 (has contributor agent of still image) : 43 
-* http://rdaregistry.info/Elements/m/object/P30328 (has contributor agent of text) : 62 
+* http://rdaregistry.info/Elements/m/object/P30328 (has contributor agent of text) : 63 
 * http://rdaregistry.info/Elements/w/object/P10014 (has radio director agent) : 2 
 * http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work) : 2 
 * http://rdaregistry.info/Elements/w/object/P10056 (has photographer agent of work) : 2 

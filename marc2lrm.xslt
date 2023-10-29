@@ -2787,24 +2787,15 @@
                   </xsl:for-each>
                </xsl:copy>
             </xsl:for-each>
-            <xsl:for-each select="$record/*:datafield[@tag='710'][. eq $this_field][*:subfield/@code = ('t','l')]">
+            <xsl:for-each select="$record/*:datafield[@tag='710'][. eq $this_field][*:subfield/@code = ('t')]">
                <xsl:copy>
                   <xsl:call-template name="copy-attributes"/>
-                  <xsl:for-each select="*:subfield[@code = ('t','l')]">
+                  <xsl:for-each select="*:subfield[@code = ('t')]">
                      <xsl:if test="@code = 't'">
                         <xsl:copy>
                            <xsl:call-template name="copy-content">
                               <xsl:with-param name="type" select="'http://www.w3.org/2000/01/rdf-schema#label'"/>
                               <xsl:with-param name="select" select="frbrizer:trim(.)"/>
-                           </xsl:call-template>
-                        </xsl:copy>
-                     </xsl:if>
-                     <xsl:if test="@code = 'l'">
-                        <xsl:copy>
-                           <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type"
-                                              select="'http://rdaregistry.info/Elements/e/datatype/P20006'"/>
-                              <xsl:with-param name="select" select="lower-case(.)"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -2820,24 +2811,15 @@
                   </xsl:for-each>
                </xsl:copy>
             </xsl:for-each>
-            <xsl:for-each select="$record/*:datafield[@tag='711'][. eq $this_field][*:subfield/@code = ('t','l')]">
+            <xsl:for-each select="$record/*:datafield[@tag='711'][. eq $this_field][*:subfield/@code = ('t')]">
                <xsl:copy>
                   <xsl:call-template name="copy-attributes"/>
-                  <xsl:for-each select="*:subfield[@code = ('t','l')]">
+                  <xsl:for-each select="*:subfield[@code = ('t')]">
                      <xsl:if test="@code = 't'">
                         <xsl:copy>
                            <xsl:call-template name="copy-content">
                               <xsl:with-param name="type" select="'http://www.w3.org/2000/01/rdf-schema#label'"/>
                               <xsl:with-param name="select" select="frbrizer:trim(.)"/>
-                           </xsl:call-template>
-                        </xsl:copy>
-                     </xsl:if>
-                     <xsl:if test="@code = 'l'">
-                        <xsl:copy>
-                           <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type"
-                                              select="'http://rdaregistry.info/Elements/e/datatype/P20006'"/>
-                              <xsl:with-param name="select" select="lower-case(.)"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -2853,24 +2835,15 @@
                   </xsl:for-each>
                </xsl:copy>
             </xsl:for-each>
-            <xsl:for-each select="$record/*:datafield[@tag='730'][. eq $this_field][*:subfield/@code = ('a','l')]">
+            <xsl:for-each select="$record/*:datafield[@tag='730'][. eq $this_field][*:subfield/@code = ('a')]">
                <xsl:copy>
                   <xsl:call-template name="copy-attributes"/>
-                  <xsl:for-each select="*:subfield[@code = ('a','l')]">
+                  <xsl:for-each select="*:subfield[@code = ('a')]">
                      <xsl:if test="@code = 'a'">
                         <xsl:copy>
                            <xsl:call-template name="copy-content">
                               <xsl:with-param name="type" select="'http://www.w3.org/2000/01/rdf-schema#label'"/>
                               <xsl:with-param name="select" select="frbrizer:trim(.)"/>
-                           </xsl:call-template>
-                        </xsl:copy>
-                     </xsl:if>
-                     <xsl:if test="@code = 'l'">
-                        <xsl:copy>
-                           <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type"
-                                              select="'http://rdaregistry.info/Elements/e/datatype/P20006'"/>
-                              <xsl:with-param name="select" select="lower-case(.)"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
