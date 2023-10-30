@@ -9,8 +9,7 @@ DROP INDEX works;
 DROP INDEX resource_uri;
 
 CREATE INDEX resource_uri FOR (n:Resource) ON n.uri;
-
-CREATE FULLTEXT INDEX expressions FOR (n:Expression) ON EACH [n.title, n.titles, n.titlevariant, n.titlepreferred, n.contentsnote, n.names, n.form, n.types, n.uris, n.ids];
+CREATE FULLTEXT INDEX expressions FOR (n:Expression) ON EACH [n.title, n.titles, n.titlevariant, n.titlepreferred, n.contentsnote, n.names, n.form, n.types, n.uris, n.ids, n.language, n.content];
 CREATE FULLTEXT INDEX works FOR (n:Work) ON EACH [n.title, n.titles, n.titlevariant, n.titlepreferred, n.names, n.types, n.form];
 
 WITH "entities.json" AS url
@@ -130,7 +129,7 @@ YIELD node
 RETURN node;
 
 MATCH (r:Resource)
-SET r += {titles: '', names: '', types: '', uris: '', ids: ''};
+SET r += {titles: '', names: '', types: '', uris: '', ids: '', language: '', content: ''};
 
 //UPDATE FIELDS FOR FULLTEXT INDEXING OF NODES
 //NAMES
@@ -197,6 +196,12 @@ set e.titles = e.titles + w.title + " : ";
 //FORM, TYPE AND LANGUAGE
 MATCH (e:Expression)-[:REALIZES]-(w:Work) where w.form IS NOT NULL
 set e.types = e.types + w.form + " : ";
+
+MATCH (e:Expression)-[:LANGUAGE]-(c:Concept) where c.label IS NOT NULL
+set e.language = e.language + c.label + " : ";
+
+MATCH (e:Expression)-[:CONTENT]-(c:Concept) where c.label IS NOT NULL
+set e.content = e.content + c.label + " : ";
 
 //URIs
 MATCH (e:Expression) where e.uri IS NOT NULL
