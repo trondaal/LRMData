@@ -1608,6 +1608,25 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/vandrertriologi"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/188303684"
                 },
                 "p": {
@@ -27386,25 +27405,6 @@
                 "o": {
                     "type": "uri",
                     "value": "http://example.org/sainzderoblesfedericocarlos"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://example.org/bimo0000977225"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/m/object/P30328"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Contributor"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://example.org/molinscorrealuis"
                 }
             },
             {

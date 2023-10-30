@@ -10130,7 +10130,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/180078068/exp/spa/1020"
+                    "value": "http://viaf.org/viaf/180078068/exp/spa/1020/molinscorrealuis"
                 }
             },
             {
@@ -14570,7 +14570,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/180078068/exp/spa/1020"
+                    "value": "http://viaf.org/viaf/180078068/exp/spa/1020/molinscorrealuis"
                 }
             },
             {
@@ -17471,6 +17471,21 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-8205176299"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/vandrertriologi/exp/nob/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-8205179646"
                 },
                 "l": {
@@ -19475,7 +19490,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/5470149068540465730001/exp/nob/1013"
+                    "value": "http://viaf.org/viaf/5470149068540465730001/exp/nob/1013/olsenarnethomas"
                 }
             },
             {
@@ -19490,7 +19505,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/185380595/exp/nob/1013"
+                    "value": "http://viaf.org/viaf/185380595/exp/nob/1013/olsenarnethomas"
                 }
             },
             {
@@ -19520,7 +19535,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/3267149068489065730001/exp/nob/1013"
+                    "value": "http://viaf.org/viaf/3267149068489065730001/exp/nob/1013/olsenarnethomas"
                 }
             },
             {
@@ -19535,7 +19550,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/191146462599827770953/exp/nob/1013"
+                    "value": "http://viaf.org/viaf/191146462599827770953/exp/nob/1013/olsenarnethomas"
                 }
             },
             {
@@ -42746,21 +42761,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/180078068/exp/spa/1020"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "REALIZES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/180078068"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/180078068/exp/spa/1020/molinscorrealuis"
                 },
                 "l": {
@@ -57251,21 +57251,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/185380595/exp/nob/1013"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "REALIZES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/185380595"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/185380595/exp/nob/1013/olsenarnethomas"
                 },
                 "l": {
@@ -57297,21 +57282,6 @@
                 "s": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/191146462599827770953/exp/nob/1020"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "REALIZES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/191146462599827770953"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/191146462599827770953/exp/nob/1013"
                 },
                 "l": {
                     "xml:lang": "gden",
@@ -57791,21 +57761,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/3267149068489065730001/exp/nob/1013"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "REALIZES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/3267149068489065730001"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/3267149068489065730001/exp/nob/1013/olsenarnethomas"
                 },
                 "l": {
@@ -57852,21 +57807,6 @@
                 "s": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/5470149068540465730001/exp/nob/1020"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "REALIZES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/5470149068540465730001"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/5470149068540465730001/exp/nob/1013"
                 },
                 "l": {
                     "xml:lang": "gden",
@@ -58506,6 +58446,21 @@
                 "o": {
                     "type": "uri",
                     "value": "http://workid.oslomet.no/kh/09"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/vandrertriologi/exp/nob/1020"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/vandrertriologi"
                 }
             }
         ]

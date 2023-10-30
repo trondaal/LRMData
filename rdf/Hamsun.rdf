@@ -608,8 +608,10 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/59083692/vandrertriologi">
       <rdaxd:P00018>http://viaf.org/viaf/59083692/vandrertriologi</rdaxd:P00018>
-      <rdawd:P10088>Vandrertrilogien</rdawd:P10088>
-      <rdfs:label>Vandrertrilogien (Hamsun, Knut)</rdfs:label>
+      <rdawd:P10088>August-trilogien</rdawd:P10088>
+      <rdfs:label>August-trilogien (Hamsun, Knut)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/59083692/verker/bind7">
       <rdaxd:P00018>http://viaf.org/viaf/59083692/verker/bind7</rdaxd:P00018>
@@ -2355,23 +2357,13 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/180078068"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="http://viaf.org/viaf/180078068/exp/spa/1020">
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/180078068/exp/spa/1020/molinscorrealuis">
       <rdaed:P20316>Landstrykere</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Vagabundos</rdaed:P20312>
       <rdfs:label>Vagabundos</rdfs:label>
       <rdaed:P20312>Argonautas de cristal</rdaed:P20312>
       <rdfs:label>Argonautas de cristal</rdfs:label>
-      <rdaed:P20315>Vagabundos</rdaed:P20315>
-      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
-      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
-      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/180078068"/>
-   </rdac:C10006>
-   <rdac:C10006 rdf:about="http://viaf.org/viaf/180078068/exp/spa/1020/molinscorrealuis">
-      <rdaed:P20316>Landstrykere</rdaed:P20316>
-      <rdaxd:P00029>standalone</rdaxd:P00029>
-      <rdaed:P20312>Vagabundos</rdaed:P20312>
-      <rdfs:label>Vagabundos</rdfs:label>
       <rdaed:P20315>Vagabundos</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
@@ -2466,15 +2458,6 @@
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20037 rdf:resource="http://example.org/hoyerniels"/>
-      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/185380595"/>
-   </rdac:C10006>
-   <rdac:C10006 rdf:about="http://viaf.org/viaf/185380595/exp/nob/1013">
-      <rdaed:P20316>Den siste glæde</rdaed:P20316>
-      <rdaxd:P00029>standalone</rdaxd:P00029>
-      <rdaed:P20312>Den siste glæde</rdaed:P20312>
-      <rdfs:label>Den siste glæde</rdfs:label>
-      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
-      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/185380595"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/185380595/exp/nob/1013/olsenarnethomas">
@@ -2659,15 +2642,6 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/59960174"/>
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/162089799"/>
-      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/191146462599827770953"/>
-   </rdac:C10006>
-   <rdac:C10006 rdf:about="http://viaf.org/viaf/191146462599827770953/exp/nob/1013">
-      <rdaed:P20316>Men livet lever</rdaed:P20316>
-      <rdaxd:P00029>standalone</rdaxd:P00029>
-      <rdaed:P20312>Men livet lever</rdaed:P20312>
-      <rdfs:label>Men livet lever</rdfs:label>
-      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
-      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/191146462599827770953"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/191146462599827770953/exp/nob/1013/olsenarnethomas">
@@ -4528,15 +4502,6 @@
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/162089799"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3267149068489065730001"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="http://viaf.org/viaf/3267149068489065730001/exp/nob/1013">
-      <rdaed:P20316>August</rdaed:P20316>
-      <rdaxd:P00029>standalone</rdaxd:P00029>
-      <rdaed:P20312>August</rdaed:P20312>
-      <rdfs:label>August</rdfs:label>
-      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
-      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
-      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3267149068489065730001"/>
-   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/3267149068489065730001/exp/nob/1013/olsenarnethomas">
       <rdaed:P20316>August</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
@@ -4974,15 +4939,6 @@
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/59960174"/>
-      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/5470149068540465730001"/>
-   </rdac:C10006>
-   <rdac:C10006 rdf:about="http://viaf.org/viaf/5470149068540465730001/exp/nob/1013">
-      <rdaed:P20316>En Vandrer spiller med sordin</rdaed:P20316>
-      <rdaxd:P00029>standalone</rdaxd:P00029>
-      <rdaed:P20312>En vandrer spiller med sordin</rdaed:P20312>
-      <rdfs:label>En vandrer spiller med sordin</rdfs:label>
-      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
-      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/5470149068540465730001"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/5470149068540465730001/exp/nob/1013/olsenarnethomas">
@@ -5442,6 +5398,20 @@
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/162089799"/>
       <rdaeo:P20037 rdf:resource="http://example.org/kiyhermann"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/59083692/vagabondsdager"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/59083692/vandrertriologi/exp/nob/1020">
+      <rdaed:P20316>August-trilogien</rdaed:P20316>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>Landstrykere ; August ; Men livet lever</rdaed:P20312>
+      <rdfs:label>Landstrykere ; August ; Men livet lever</rdfs:label>
+      <rdaed:P20315>August-trilogien</rdaed:P20315>
+      <rdfs:label>August-trilogien</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/59083692/vandrertriologi"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/3267149068489065730001/exp/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/191146462599827770953/exp/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/180078068/exp/nob/1020"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/59083692/verker/bind7/exp/nob/1020">
       <rdaed:P20316>Samlede verker : Bind 7</rdaed:P20316>
@@ -10937,7 +10907,7 @@
       <rdamd:P30165>21</rdamd:P30165>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/180078068/exp/spa/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/180078068/exp/spa/1020/molinscorrealuis"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/990414329244702201">
       <rdamd:P30156>The women at the pump</rdamd:P30156>
@@ -14673,8 +14643,7 @@
       <rdamd:P30165>v. 192</rdamd:P30165>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/180078068/exp/spa/1020"/>
-      <rdamo:P30328 rdf:resource="http://example.org/molinscorrealuis"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/180078068/exp/spa/1020/molinscorrealuis"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/bimo0000977227">
       <rdamd:P30156>Victoria</rdamd:P30156>
@@ -17962,6 +17931,7 @@
       <rdamd:P30137>1. utg. Oslo : Gyldendal, henholdsvis 1927, 1930 og 1933</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/vandrertriologi/exp/nob/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3267149068489065730001/exp/nob/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/191146462599827770953/exp/nob/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/180078068/exp/nob/1020"/>
@@ -19626,7 +19596,7 @@
       <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
       <rdamd:P30137>Lest av Arne Thomas Olsen</rdamd:P30137>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/5470149068540465730001/exp/nob/1013"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/5470149068540465730001/exp/nob/1013/olsenarnethomas"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8242102929">
       <rdamd:P30004>ISBN 8242102929</rdamd:P30004>
@@ -19640,7 +19610,7 @@
       <rdamd:P30011>1994</rdamd:P30011>
       <rdamd:P30182>6 kassetter (ca 540 min), i eske.</rdamd:P30182>
       <rdamd:P30137>Lest av Arne Thomas Olsen</rdamd:P30137>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/185380595/exp/nob/1013"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/185380595/exp/nob/1013/olsenarnethomas"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8242104271">
       <rdamd:P30004>ISBN 8242104271</rdamd:P30004>
@@ -19668,7 +19638,7 @@
       <rdamd:P30011>1995</rdamd:P30011>
       <rdamd:P30182>13 kassetter (1110 min), i eske.</rdamd:P30182>
       <rdamd:P30137>Lest av Arne Thomas Olsen</rdamd:P30137>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3267149068489065730001/exp/nob/1013"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3267149068489065730001/exp/nob/1013/olsenarnethomas"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8242104328">
       <rdamd:P30004>ISBN 8242104328</rdamd:P30004>
@@ -19684,7 +19654,7 @@
       <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
       <rdamd:P30137>Lest av Arne Thomas Olsen</rdamd:P30137>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/191146462599827770953/exp/nob/1013"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/191146462599827770953/exp/nob/1013/olsenarnethomas"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8242104638">
       <rdamd:P30004>ISBN 8242104638</rdamd:P30004>
