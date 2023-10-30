@@ -3360,6 +3360,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-1909807826"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN1909807826"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-1931082103"
                 },
                 "label": {
@@ -5310,6 +5320,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-8205277729"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN8205277729"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-8205278385"
                 },
                 "label": {
@@ -5485,6 +5505,16 @@
                 "label": {
                     "type": "literal",
                     "value": "ISBN8210044478"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8210046292"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN8210046292"
                 }
             },
             {
@@ -5925,6 +5955,26 @@
                 "label": {
                     "type": "literal",
                     "value": "ISBN8249504240"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8249514025"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN8249514025 (paperback)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8249523733"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN8249523733"
                 }
             },
             {
@@ -9780,6 +9830,36 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-9788202345532"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN978-82-02-34553-2"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202408336"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN9788202408336"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202645625"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN9788202645625"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-9788203194788"
                 },
                 "label": {
@@ -10860,6 +10940,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-9788242121882"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN9788242121882"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-9788242122933"
                 },
                 "label": {
@@ -10970,6 +11060,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-9788242153111"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN9788242153111"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-9788242170620"
                 },
                 "label": {
@@ -11030,6 +11130,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-9788242172457"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN978-82-421-7245-7"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-9788242172907"
                 },
                 "label": {
@@ -11060,6 +11170,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-9788249505555"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN9788249505555"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-9788249506477"
                 },
                 "label": {
@@ -11070,11 +11190,51 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-9788249507863"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN9788249507863"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-9788249514021"
                 },
                 "label": {
                     "type": "literal",
                     "value": "ISBN9788249514021"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788249516957"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN9788249516957"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788249518548"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN9788249518548"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788249523740"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN9788249523740"
                 }
             },
             {
@@ -11675,6 +11835,26 @@
                 "label": {
                     "type": "literal",
                     "value": "ISBN9789164202840"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9789173551922"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN9789173551922"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9789173553575"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN978-91-7355-357-5"
                 }
             },
             {
@@ -12941,6 +13121,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org.viaf/5930152502773210800007"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Mannen som elsket Yngve"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/00000000"
                 },
                 "label": {
@@ -13271,6 +13461,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/10455"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Moby Dick (utdrag) (Eisner, Will)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/10455/Moby/Dick"
                 },
                 "label": {
@@ -13286,6 +13486,16 @@
                 "label": {
                     "type": "literal",
                     "value": "Moby Dick"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/10455/exp/mul/nno/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Moby Dick (utdrag)"
                 }
             },
             {
@@ -13431,6 +13641,26 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/10985923/x"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Rask (Knudsen, Sverre)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/10985923/x/exp/mul/nno/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Rask"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/110033000"
                 },
                 "label": {
@@ -13482,6 +13712,26 @@
                 "subject": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/110569724/Den/store/premien/exp/mul/nno/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Den store premien"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/110569724/x"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Den store premien (Carey, Peter)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/110569724/x/exp/mul/nno/nob/1020"
                 },
                 "label": {
                     "type": "literal",
@@ -14171,6 +14421,26 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/15590827/x"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Bare Tsatsiki (Nilsson-Br\u00e4nnstr\u00f6m, Moni)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/15590827/x/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Bare Tsatsiki"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/158145970141932251257"
                 },
                 "label": {
@@ -14372,6 +14642,26 @@
                 "subject": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/167306445/like/rolling/stone/exp/mul/nno/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Like a rolling stone"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/167306445/x"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Like a rolling stone (Johnsen, Kjetil)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/167306445/x/exp/mul/nno/nob/1020"
                 },
                 "label": {
                     "type": "literal",
@@ -14726,6 +15016,26 @@
                 "label": {
                     "type": "literal",
                     "value": "Marekors"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/17553787/x"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Skammarens dotter (Kaaberb\u00f8l, Lene)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/17553787/x/exp/mul/nno/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Skammarens dotter"
                 }
             },
             {
@@ -16351,6 +16661,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/19436219"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Torseter, \u00d8yvind"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/194765531"
                 },
                 "label": {
@@ -17101,6 +17421,26 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/214006009"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "En prests dagbog (Obstfelder, Sigbj\u00f8rn)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/214006009/exp/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "En prests dagbog"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/214012164"
                 },
                 "label": {
@@ -17761,6 +18101,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/222062902/Venner"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Skal vi v\u00e6re venner? ()"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/222062902/Venner/?"
                 },
                 "label": {
@@ -17772,6 +18122,16 @@
                 "subject": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/222062902/Venner/?/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Skal vi v\u00e6re venner?"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/222062902/Venner/exp/nob/1020"
                 },
                 "label": {
                     "type": "literal",
@@ -17795,7 +18155,27 @@
                 },
                 "label": {
                     "type": "literal",
-                    "value": "Charlotte Isabel Hansen (Renberg, Tore)"
+                    "value": "Charlotte Isabel Hansen"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/2229156133228058430004/exp/eng/mul/nob/1023"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Charlotte Isabel Hansen"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/2229156133228058430004/exp/nob/1013/34565761"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Charlotte Isabel Hansen"
                 }
             },
             {
@@ -17946,6 +18326,16 @@
                 "label": {
                     "type": "literal",
                     "value": "Holm, Espen Beranek"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/226817424"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Kinsella, Sea\u0301n"
                 }
             },
             {
@@ -18616,6 +19006,26 @@
                 "label": {
                     "type": "literal",
                     "value": "I Roald Dahls kj\u00f8kken"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/27061925/x"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Den hemmelige hagen (Burnett, Frances Hodgson)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/27061925/x/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Den hemmelige hagen"
                 }
             },
             {
@@ -19311,6 +19721,26 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/301771064/x"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Den store boken om norr\u00f8ne guder (Bringsv\u00e6rd, Tor \u00c5ge)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/301771064/x/exp/mul/nno/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Den store boken om norr\u00f8ne guder"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/302657140"
                 },
                 "label": {
@@ -19466,6 +19896,16 @@
                 "label": {
                     "type": "literal",
                     "value": "\"Lord of the flies\""
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/307092549"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Pixley Mapogo"
                 }
             },
             {
@@ -20131,6 +20571,26 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/309465458"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Gi gass, Ine (Renberg, Tore)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/309465458/exp/swe/1020/311494855"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Ge j\u00e4rnet, Ina"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/309525997"
                 },
                 "label": {
@@ -20661,11 +21121,51 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/311494855"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Berg, Ebba"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/31149912620506212729"
                 },
                 "label": {
                     "type": "literal",
                     "value": "Albon, James"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/312321100"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Vi sees i morgen (Renberg, Tore)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/312321100/exp/eng/1020/226817424"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "See you tomorrow"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/312321100/exp/nor/1014"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Vi ses i morgen"
                 }
             },
             {
@@ -21881,6 +22381,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/34565761/sinus"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Sinus i blinde en kj\u00e6rlighetsfortelling (Renberg, Tore)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/34565761/sinus/blinde/kj\u00e6rlighetsfortelling"
                 },
                 "label": {
@@ -21892,6 +22402,16 @@
                 "subject": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/34565761/sinus/blinde/kj\u00e6rlighetsfortelling/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Sinus i blinde en kj\u00e6rlighetsfortelling"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/34565761/sinus/exp/nob/1020"
                 },
                 "label": {
                     "type": "literal",
@@ -21936,6 +22456,36 @@
                 "label": {
                     "type": "literal",
                     "value": "Yassir Arafat"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/35146153040605250276"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Vaffelm\u00f8kk (Renberg, Tore)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/35146153040605250276/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Vaffelm\u00f8kk"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/35146153040605250276/exp/swe/1014/1020/311494855"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "V\u00e5ffelmuck"
                 }
             },
             {
@@ -22711,6 +23261,46 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/39378054/x"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Bare Elvis (Gripe, Maria)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/39378054/x/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Bare Elvis"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/39378054/y"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Hugo og Josefin (Gripe, Maria)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/39378054/y/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Hugo og Josefin"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/39380311/freeair"
                 },
                 "label": {
@@ -23046,6 +23636,46 @@
                 "label": {
                     "type": "literal",
                     "value": "Lauscher, Hermann"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/41931427/x"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Kurt quo vadis (Loe, Erlend)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/41931427/x/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Kurt quo vadis"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/41931427/y"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Kurt blir grusom (utdrag) (Loe, Erlend)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/41931427/y/exp/mul/nno/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Kurt blir grusom (utdrag)"
                 }
             },
             {
@@ -23401,6 +24031,26 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/46733274/x"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Superhemmelig (Lindgren, Barbro)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/46733274/x/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Superhemmelig"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/470166838899836200007"
                 },
                 "label": {
@@ -23612,6 +24262,26 @@
                 "subject": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/49282521/Tor/vennene/hans/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Tor og vennene hans"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/49282521/x"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Tor og vennene hans (Stark, Ulf)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/49282521/x/exp/nob/1020"
                 },
                 "label": {
                     "type": "literal",
@@ -24181,6 +24851,46 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/54149740/x"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Per og vesle Mads (Kirkegaard, Ole Lund)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/54149740/x/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Per og vesle Mads"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/54149740/y"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Tippe Topphatt og andre fortellinger (Kirkegaard, Ole Lund)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/54149740/y/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Tippe Topphatt og andre fortellinger"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/54151065"
                 },
                 "label": {
@@ -24472,6 +25182,26 @@
                 "subject": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/56617433/Filibom/bom/bom/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Ole Aleksander Filibom-bom-bom"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/56617433/x"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Ole Aleksander Filibom-bom-bom (Vestly, Anne-Cath.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/56617433/x/exp/nob/1020"
                 },
                 "label": {
                     "type": "literal",
@@ -25361,6 +26091,36 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/59139553/x"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Eddie og Johanna (L\u00e4rn, Viveca)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59139553/x/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Eddie og Johanna"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59149066621965602290"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Bergrem, Amina Eleonora"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/59153962"
                 },
                 "label": {
@@ -25412,6 +26172,16 @@
                 "subject": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/5930152502773210800007/exp/nob/1013/100929322"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Mannen som elsket Yngve"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/5930152502773210800007/exp/nob/1020"
                 },
                 "label": {
                     "type": "literal",
@@ -25701,6 +26471,26 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/66503940/x"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "R\u00e5tne Rikard (Hjorth, Vigdis)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/66503940/x/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "R\u00e5tne Rikard"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/66514645/tigrene/opptur"
                 },
                 "label": {
@@ -25712,6 +26502,26 @@
                 "subject": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/66514645/tigrene/opptur/exp/mul/nno/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Tigrene p\u00e5 opptur"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/66514645/x"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Tigrene p\u00e5 opptur (Olsen, P\u00e5l Gerhard)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/66514645/x/exp/mul/nno/nob/1020"
                 },
                 "label": {
                     "type": "literal",
@@ -25771,6 +26581,26 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/66718481/x"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "L\u00f8vetannsang (Hagerup, Hilde)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/66718481/x/exp/mul/nno/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "L\u00f8vetannsang"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/66758386"
                 },
                 "label": {
@@ -25816,6 +26646,36 @@
                 "label": {
                     "type": "literal",
                     "value": "Lindsay, David"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/69039405"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Obstfelder, Sigbj\u00f8rn"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/69145969/x"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Artemis Fowl (Colfer, Eoin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/69145969/x/exp/mul/nno/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Artemis Fowl"
                 }
             },
             {
@@ -26201,6 +27061,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/748144783071858216931"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Angrep fra alle kanter"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/75131190"
                 },
                 "label": {
@@ -26421,6 +27291,26 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/78136149/x"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Fr\u00e5 null til no (Trohaug, Ragnfrid)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/78136149/x/exp/mul/nno/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Fr\u00e5 null til no"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/7816157583866833970003"
                 },
                 "label": {
@@ -26521,6 +27411,26 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/79494391/x"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Karisma (Svingen, Arne)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/79494391/x/exp/mul/nno/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Karisma"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/79514873/skrekkens/sirkus"
                 },
                 "label": {
@@ -26532,6 +27442,26 @@
                 "subject": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/79514873/skrekkens/sirkus/exp/mul/nno/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Skrekkens sirkus"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/79514873/x"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Skrekkens sirkus (Shan, Darren)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/79514873/x/exp/mul/nno/nob/1020"
                 },
                 "label": {
                     "type": "literal",
@@ -28221,6 +29151,26 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/97119817/x"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Alle vi barna i Bakkebygrenda (Lindgren, Astrid)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/97119817/x/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Alle vi barna i Bakkebygrenda"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/9744160364964763680008"
                 },
                 "label": {
@@ -28346,6 +29296,26 @@
                 "label": {
                     "type": "literal",
                     "value": "Hagerup, Klaus"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9888758/x"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Trollkrittet (Hopp, Zinken)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9888758/x/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Trollkrittet"
                 }
             },
             {
@@ -28571,11 +29541,311 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/annavoigt_eksempel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Voigt, Anna"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/assalamualaikum_eksempel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Assalamu alaikum (Renberg, Tore)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/assalamualaikum_eksempel/exp/nob/1014"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Assalamu alaikum"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/dakota"
                 },
                 "label": {
                     "type": "literal",
                     "value": "Johnson, Dakota"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/deterlangttilhelvete_eksempel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Det er langt til helvete for den som ikke vil dit (Renberg, Tore)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/deterlangttilhelvete_eksempel/exp/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Det er langt til helvete for den som ikke vil dit"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/detteerminegamledager_eksempel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Dette er mine gamle dager (Renberg, Tore)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/detteerminegamledager_eksempel/exp/nob/1013/34565761"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Dette er mine gamle dager"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/dettusendehjertet1_eksempel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Det tusende hjertet"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/dettusendehjertet1_eksempel/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Det tusende hjertet"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/dettusendehjertet2_eksempel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Det tusende hjertet (Renberg, Tore)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/dettusendehjertet2_eksempel/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Det tusende hjertet"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/duersalys_eksempel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Du er s\u00e5 lys (Renberg, Tore)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/duersalys_eksempel/exp/nno/1013/34565761"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Du er s\u00e5 lys"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/duersalys_eksempel/exp/nor/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Du er s\u00e5 lys"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/engodtid_eksempel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "En god tid (Renberg, Tore)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/engodtid_eksempel/exp/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "En god tid"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/engodtid_eksempel/exp/swe/1020/urbanandersson_eksempel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "En god tid"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/farmorharkabeltv;videogutten_eksempel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Farmor har kabel-TV; Videogutten (Renberg, Tore)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/farmorharkabeltv;videogutten_eksempel/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Farmor har kabel-TV ; Videogutten"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/farmorharkabeltv_eksempel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Farmor har kabel-TV (Renberg, Tore)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/farmorharkabeltv_eksempel/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Farmor har kabel-TV"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/hando,kjendo_eksempel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Hando, Kjendo (Renberg, Tore)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/hando,kjendo_eksempel/exp/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Hando, Kjendo"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/hehehasse_eksempel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "He he, Hasse (Renberg, Tore)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/hehehasse_eksempel/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "He he, Hasse"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/jegreiseralene_eksempel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Jeg reiser alene ()"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/jegreiseralene_eksempel/exp/1023"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Jeg reiser alene"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/lungeflyteproven_eksempel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Lungeflytepr\u00f8ven (Renberg, Tore)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/lungeflyteproven_eksempel/exp/nob/1002/1014/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Lungeflytepr\u00f8ven"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/ogordetbleord_eksempel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Og ordet ble ord"
                 }
             },
             {
@@ -28606,6 +29876,156 @@
                 "label": {
                     "type": "literal",
                     "value": "BOT and OMT contracts for infrastructure in developing countries"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/skadagods_eksempel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Skada gods"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/skadagods_eksmpel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Skada gods (Renberg, Tore)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/skadagods_eksmpel/exp/nor/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Skada gods"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/tollaktilingeborg_eksempel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Tollak til Ingeborg (Renberg, Tore)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/tollaktilingeborg_eksempel/exp/nor/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Tollak til Ingeborg"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/trillefolket_eksempel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Trillefolket (Renberg, Tore)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/trillefolket_eksempel/exp/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Trillefolket"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/trygvevonhirsch_eksempel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Hirsch, Trygve von"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/urbanandersson_eksempel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Andersson, Urban"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/verdenidag_eksempel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Verden i dag ()"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/verdenidag_eksempel/exp/1020/19327274/34565761/51783729/60552805/trygvevonhirsch_eksempel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Verden i dag"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/videogutten_eksempel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "videogutten (Renberg, Tore)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/videogutten_eksempel/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "videogutten"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.orgviaf/varmelagerfem_eksempel"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Varmelager fem (Renberg, Tore)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.orgviaf/varmelagerfem_eksempel/exp/nor/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Varmelager fem"
                 }
             },
             {
