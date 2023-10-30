@@ -11651,21 +11651,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://example.org/999513065374702201"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "EMBODIES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/59083692/brigantinenssaga/exp/nob/1020"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://example.org/999513080094702201"
                 },
                 "l": {
@@ -12336,6 +12321,21 @@
                 "o": {
                     "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q15062328/exp/nob/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/999729129244702201"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1930/b7/exp/nob/1020"
                 }
             },
             {
@@ -18021,6 +18021,21 @@
                 "o": {
                     "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q15062327/exp/nob/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8205253331-14"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2000/b14/exp/nob/1020"
                 }
             },
             {
@@ -58166,21 +58181,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/59083692/brigantinenssaga/exp/nob/1020"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "REALIZES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/59083692/brigantinenssaga"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/59083692/enfljteldimitblod/exp/nob/1020"
                 },
                 "l": {
@@ -58461,6 +58461,21 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/59083692/vandrertriologi"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1930/b7/exp/nob/1020"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1930/b7"
                 }
             }
         ]

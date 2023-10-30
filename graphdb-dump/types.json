@@ -21672,25 +21672,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/59083692/brigantinenssaga/exp/nob/1020"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "CONTENT"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/termList/RDAContentType/1020"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/59083692/enfljteldimitblod/exp/nob/1020"
                 },
                 "p": {
@@ -22034,6 +22015,25 @@
                 "s": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/59083692/vandrertriologi/exp/nob/1020"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1930/b7/exp/nob/1020"
                 },
                 "p": {
                     "type": "uri",
@@ -40786,25 +40786,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/59083692/brigantinenssaga/exp/nob/1020"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "LANGUAGE"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://id.loc.gov/vocabulary/iso639-2/nob"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/59083692/enfljteldimitblod/exp/nob/1020"
                 },
                 "p": {
@@ -41148,6 +41129,25 @@
                 "s": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/59083692/vandrertriologi/exp/nob/1020"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/nob"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1930/b7/exp/nob/1020"
                 },
                 "p": {
                     "type": "uri",
@@ -114202,25 +114202,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/59083692/brigantinenssaga"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/w/datatype/P10004"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "TYPE"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "https://schema.nb.no/Bibliographic/Values/V1000"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/59083692/damenfrativoli"
                 },
                 "p": {
@@ -117376,6 +117357,25 @@
                 "s": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/59083692/verker/bind7"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/datatype/P10004"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "TYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://schema.nb.no/Bibliographic/Values/V1000"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1930/b7"
                 },
                 "p": {
                     "type": "uri",

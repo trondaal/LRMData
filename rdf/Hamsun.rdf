@@ -377,14 +377,6 @@
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
    </rdac:C10001>
-   <rdac:C10001 rdf:about="http://viaf.org/viaf/59083692/brigantinenssaga">
-      <rdaxd:P00018>http://viaf.org/viaf/59083692/brigantinenssaga</rdaxd:P00018>
-      <rdawd:P10012>1</rdawd:P10012>
-      <rdawd:P10088>Brigantinens Saga</rdawd:P10088>
-      <rdfs:label>Brigantinens Saga (Hamsun, Knut)</rdfs:label>
-      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
-      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
-   </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/59083692/damenfrativoli">
       <rdaxd:P00018>http://viaf.org/viaf/59083692/damenfrativoli</rdaxd:P00018>
       <rdaxd:P00029>short story</rdaxd:P00029>
@@ -557,6 +549,13 @@
       <rdaxd:P00029>short story</rdaxd:P00029>
       <rdawd:P10088>Ringen</rdawd:P10088>
       <rdfs:label>Ringen (Hamsun, Knut)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/59083692/samledeverker/1930/b7">
+      <rdaxd:P00018>http://viaf.org/viaf/59083692/samledeverker/1930/b7</rdaxd:P00018>
+      <rdawd:P10088>Samlede verker : 7</rdawd:P10088>
+      <rdfs:label>Samlede verker : 7 (Hamsun, Knut)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
    </rdac:C10001>
@@ -5058,14 +5057,6 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/59083692/blandtdyr"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="http://viaf.org/viaf/59083692/brigantinenssaga/exp/nob/1020">
-      <rdaed:P20312>Brigantinens Saga</rdaed:P20312>
-      <rdaxd:P00029>part</rdaxd:P00029>
-      <rdfs:label>Brigantinens Saga</rdfs:label>
-      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
-      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
-      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/59083692/brigantinenssaga"/>
-   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/59083692/damenfrativoli/exp/ger/1020/brausewetterernst">
       <rdaed:P20006>ger</rdaed:P20006>
       <rdaed:P20312>Damen fra tivoli</rdaed:P20312>
@@ -5321,12 +5312,24 @@
       <rdaeo:P20037 rdf:resource="http://example.org/brausewetterernst"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/59083692/ringen"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/59083692/samledeverker/1930/b7/exp/nob/1020">
+      <rdaed:P20316>Samlede verker : 7</rdaed:P20316>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>Samlede Verker : Dronning Tamara ; Munken Vendt ; Siesta</rdaed:P20312>
+      <rdfs:label>Samlede Verker</rdfs:label>
+      <rdaed:P20071>Dronning Tamara -- Munken Vendt -- Siesta</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/59083692/samledeverker/1930/b7"/>
+      <rdaeo:P20319 rdf:resource="http://www.wikidata.org/entity/Q15062323/exp/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://www.wikidata.org/entity/Q15062328/exp/nob/1020"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/59083692/samledeverker/2000/b14/exp/nob/1020">
       <rdaed:P20316>Samlede verker : Bind 14</rdaed:P20316>
       <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>Samlede verker : Ved rikets port ; Livets spil ; Aftenrøde ; Munken Vendt</rdaed:P20312>
       <rdfs:label>Samlede verker</rdfs:label>
-      <rdaed:P20071>Ved rikets port ; Livets spil ; Aftenrøde ; Munken Vendt</rdaed:P20071>
+      <rdaed:P20071>Ved rikets port -- Livets spil -- Aftenrøde -- Munken Vendt</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/59083692/samledeverker/2000/b14"/>
@@ -5404,6 +5407,7 @@
       <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>Landstrykere ; August ; Men livet lever</rdaed:P20312>
       <rdfs:label>Landstrykere ; August ; Men livet lever</rdfs:label>
+      <rdaed:P20071>August-trilogien: Landstrykere -- August --- Men livet lever</rdaed:P20071>
       <rdaed:P20315>August-trilogien</rdaed:P20315>
       <rdfs:label>August-trilogien</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
@@ -6131,7 +6135,9 @@
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Munken Vendt</rdaed:P20312>
       <rdfs:label>Munken Vendt</rdfs:label>
+      <rdaed:P20312>Munken Vendt : Brigantinens Saga, 1</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
+      <rdaed:P20315>Munken vendt</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
       <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q15062323"/>
@@ -12290,7 +12296,6 @@
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/brigantinenssaga/exp/nob/1020"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q15062323/exp/nob/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/999513080094702201">
@@ -12757,8 +12762,10 @@
       <rdamd:P30182>498 s.</rdamd:P30182>
       <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30033>Dronning Tamara -- Munken Vendt -- Siesta</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/samledeverker/1930/b7/exp/nob/1020"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q15062323/exp/nob/1020"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q15062328/exp/nob/1020"/>
    </rdac:C10007>
@@ -17929,6 +17936,7 @@
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30106>Norske klassikere</rdamd:P30106>
       <rdamd:P30137>1. utg. Oslo : Gyldendal, henholdsvis 1927, 1930 og 1933</rdamd:P30137>
+      <rdamd:P30033>August-trilogien: Landstrykere -- August --- Men livet lever</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/vandrertriologi/exp/nob/1020"/>
@@ -18559,8 +18567,10 @@
       <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>1. utg. København, henholdsvis Philipsen, 1885, Det Nordiske Forl., 1896 og Gyldendalske Boghandel 1898 og 1902. Ved rikets port opprinnelig utgitt med tittel: Ved Rigets Port</rdamd:P30137>
+      <rdamd:P30033>Ved rikets port -- Livets spil -- Aftenrøde -- Munken Vendt</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/samledeverker/2000/b14/exp/nob/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/316992494/exp/nob/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7398163939428301160007/exp/nob/1020"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q15062327/exp/nob/1020"/>
@@ -19002,7 +19012,7 @@
       <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>1. utg. København, henholdsvis Philipsen, 1885, Det Nordiske Forl., 1896 og Gyldendalske Boghandel 1898 og 1902. Ved rikets port opprinnelig utgitt med tittel: Ved Rigets Port</rdamd:P30137>
-      <rdamd:P30033>Ved rikets port ; Livets spil ; Aftenrøde ; Munken Vendt</rdamd:P30033>
+      <rdamd:P30033>Ved rikets port -- Livets spil -- Aftenrøde -- Munken Vendt</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/samledeverker/2000/b14/exp/nob/1020"/>
