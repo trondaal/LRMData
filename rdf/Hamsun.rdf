@@ -3805,18 +3805,6 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/30145424502786830193"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="http://viaf.org/viaf/30145424502786830193/exp/spa/1020/86862248/86862314">
-      <rdaed:P20316>Paa gjengrodde stier</rdaed:P20316>
-      <rdaxd:P00029>standalone</rdaxd:P00029>
-      <rdaed:P20312>Por senderos que la maleza oculta</rdaed:P20312>
-      <rdfs:label>Por senderos que la maleza oculta</rdfs:label>
-      <rdaed:P20315>Por senderos que la maleza oculta</rdaed:P20315>
-      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
-      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
-      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/86862314"/>
-      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/86862248"/>
-      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/30145424502786830193"/>
-   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/309525997/exp/eng/1020">
       <rdaed:P20316>Under høststjærnen</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
@@ -25405,26 +25393,6 @@
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/395147270538135700001/exp/spa/1020/86862248/86862314"/>
-   </rdac:C10007>
-   <rdac:C10007 rdf:about="http://example.org/isbn-9788492683888">
-      <rdamd:P30004>ISBN 978-84-92683-88-8</rdamd:P30004>
-      <rdaxd:P00018>isbn-9788492683888</rdaxd:P00018>
-      <rdfs:label>ISBN978-84-92683-88-8</rdfs:label>
-      <rdamd:P30156>Por senderos que la maleza oculta</rdamd:P30156>
-      <rdamd:P30117>Knut Hamsun ; traducción de Kirsti Baggethun y Asunción Lorenzo</rdamd:P30117>
-      <rdamd:P30107>1ª ed. en Nórdica Libros</rdamd:P30107>
-      <rdamd:P30088>Madrid</rdamd:P30088>
-      <rdamd:P30111>Madrid : Nórdica Libros, 2012.</rdamd:P30111>
-      <rdamd:P30083>Nórdica Libros</rdamd:P30083>
-      <rdamd:P30011>2012</rdamd:P30011>
-      <rdamd:P30182>160 p., 22 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
-      <rdamd:P30106>Letras nórdicas</rdamd:P30106>
-      <rdamd:P30165>25</rdamd:P30165>
-      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
-      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/30145424502786830193/exp/spa/1020/86862248/86862314"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788497111331">
       <rdamd:P30004>ISBN 978-84-9711-133-1</rdamd:P30004>
