@@ -559,6 +559,17 @@
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/59083692/samledeverker/2000/B15">
+      <rdaxd:P00018>http://viaf.org/viaf/59083692/samledeverker/2000/B15</rdaxd:P00018>
+      <rdawd:P10088>Samlede verker : B. 15</rdawd:P10088>
+      <rdfs:label>Samlede verker : B. 15 (Hamsun, Knut)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/30145424502786830193"/>
+      <rdawo:P10147 rdf:resource="http://www.wikidata.org/entity/Q11966095"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/312486496"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/316368447"/>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/59083692/samledeverker/2000/b14">
       <rdaxd:P00018>http://viaf.org/viaf/59083692/samledeverker/2000/b14</rdaxd:P00018>
       <rdawd:P10088>Samlede verker : Bind 14</rdawd:P10088>
@@ -570,6 +581,13 @@
       <rdaxd:P00018>http://viaf.org/viaf/59083692/samledeverker/2007/b14</rdaxd:P00018>
       <rdawd:P10088>Samlede verker : Bind 18</rdawd:P10088>
       <rdfs:label>Samlede verker : Bind 18 (Hamsun, Knut)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/59083692/samledeverker/2009/B23">
+      <rdaxd:P00018>http://viaf.org/viaf/59083692/samledeverker/2009/B23</rdaxd:P00018>
+      <rdawd:P10088>Samlede verker : B. 23</rdawd:P10088>
+      <rdfs:label>Samlede verker : B. 23 (Hamsun, Knut)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
    </rdac:C10001>
@@ -3724,13 +3742,10 @@
    <rdac:C10006 rdf:about="http://viaf.org/viaf/30145424502786830193/exp/ger/1020">
       <rdaed:P20316>Paa gjengrodde stier</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
-      <rdaed:P20312>Auf ueberwachsenen Pfaden</rdaed:P20312>
-      <rdfs:label>Auf ueberwachsenen Pfaden</rdfs:label>
       <rdaed:P20312>Werkausgabe in Einzelbänden : Auf überwachsenen Pfaden : Roman / aus dem Norweg. von Alken Bruns. Mit einem Nachw. von Heinrich Detering</rdaed:P20312>
       <rdfs:label>Werkausgabe in Einzelbänden</rdfs:label>
-      <rdaed:P20312>Auf überwachsenen Pfaden : ein Tagebuch</rdaed:P20312>
-      <rdfs:label>Auf überwachsenen Pfaden</rdfs:label>
       <rdaed:P20315>Auf überwachsenen Pfaden</rdaed:P20315>
+      <rdfs:label>Auf überwachsenen Pfaden</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/30145424502786830193"/>
@@ -3754,6 +3769,7 @@
       <rdaed:P20312>Auf überwachsenen Pfaden : Ein Tagebuch</rdaed:P20312>
       <rdaed:P20312>Auf überwachsenen Pfaden</rdaed:P20312>
       <rdfs:label>Auf überwachsenen Pfaden</rdfs:label>
+      <rdaed:P20312>Auf überwachsenen Pfaden : ein Tagebuch</rdaed:P20312>
       <rdaed:P20315>Auf überwachsenen Pfaden</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
@@ -4699,6 +4715,17 @@
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/59960174"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/395147270538135700001"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/395147270538135700001/exp/ger/1020/brunsalken">
+      <rdaed:P20316>Victoria</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Victoria : eine Liebesgeschichte</rdaed:P20312>
+      <rdfs:label>Victoria</rdfs:label>
+      <rdaed:P20315>Victoria</rdaed:P20315>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/brunsalken"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/395147270538135700001"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/395147270538135700001/exp/ger/1020/kosterkahugo">
       <rdaed:P20006>ger</rdaed:P20006>
       <rdaed:P20312>Victoria</rdaed:P20312>
@@ -5324,6 +5351,20 @@
       <rdaeo:P20319 rdf:resource="http://www.wikidata.org/entity/Q15062323/exp/nob/1020"/>
       <rdaeo:P20319 rdf:resource="http://www.wikidata.org/entity/Q15062328/exp/nob/1020"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/59083692/samledeverker/2000/B15/exp/nob/1020">
+      <rdaed:P20316>Samlede verker : B. 15</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Samlede verker : Dronning Tamara ; Livet ivold ; Det vilde kor ; På gjengrodde stier</rdaed:P20312>
+      <rdfs:label>Samlede verker</rdfs:label>
+      <rdaed:P20071>Dronning Tamara -- Livet ivold -- Det vilde kor -- På gjengrodde stier</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/30145424502786830193/exp/nob/1020"/>
+      <rdaeo:P20145 rdf:resource="http://www.wikidata.org/entity/Q11966095/exp/nob/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/312486496/exp/nob/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/316368447/exp/nob/1020"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/59083692/samledeverker/2000/B15"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/59083692/samledeverker/2000/b14/exp/nob/1020">
       <rdaed:P20316>Samlede verker : Bind 14</rdaed:P20316>
       <rdaxd:P00029>aggregate</rdaxd:P00029>
@@ -5349,6 +5390,17 @@
       <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/183478381/exp/nob/1020"/>
       <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/312501980/exp/nob/1020"/>
       <rdaeo:P20319 rdf:resource="http://workid.oslomet.no/kh/02/exp/nob/1020"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/59083692/samledeverker/2009/B23/exp/nob/1020">
+      <rdaed:P20316>Samlede verker : B. 23</rdaed:P20316>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>Samlede verker : I eventyrland ; På gjengrodde stier</rdaed:P20312>
+      <rdfs:label>Samlede verker</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/59083692/samledeverker/2009/B23"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/30145424502786830193/exp/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/309525999/exp/nob/1020"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/59083692/udisdensommer/exp/nob/1020">
       <rdaed:P20312>Udi søden sommer</rdaed:P20312>
@@ -6750,18 +6802,6 @@
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/194765531/exp/eng/1020/mcfarlanejameswalter"/>
-   </rdac:C10007>
-   <rdac:C10007 rdf:about="http://example.org/014159097">
-      <rdamd:P30156>Auf ueberwachsenen Pfaden</rdamd:P30156>
-      <rdamd:P30088>Zurich</rdamd:P30088>
-      <rdamd:P30111>Zurich : [s.n.], 1950.</rdamd:P30111>
-      <rdamd:P30083>[s.n.]</rdamd:P30083>
-      <rdamd:P30011>1950</rdamd:P30011>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
-      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
-      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/30145424502786830193/exp/ger/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/014159098">
       <rdamd:P30156>Hunger</rdamd:P30156>
@@ -12557,7 +12597,7 @@
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/30145424502786830193/exp/ger/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/30145424502786830193/exp/ger/1020/ihleelisabeth"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/999622998474702201">
       <rdamd:P30156>August Weltumsegler</rdamd:P30156>
@@ -17285,7 +17325,7 @@
       <rdamd:P30106>Werkausgabe in Einzelbänden</rdamd:P30106>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/395147270538135700001/exp/ger/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/395147270538135700001/exp/ger/1020/brunsalken"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-3471794662">
       <rdamd:P30004>ISBN 3471794662</rdamd:P30004>
@@ -18584,8 +18624,10 @@
       <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>1. utg. København ; Kristiania : Gyldendalske Boghandel, henholdsvis 1903, 1910, 1904 og Oslo : Gyldendal, 1949. På gjengrodde stier opprinnelig utgitt med tittel: Paa gjengrodde stier</rdamd:P30137>
+      <rdamd:P30033>Dronning Tamara -- Livet ivold -- Det vilde kor -- På gjengrodde stier</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/samledeverker/2000/B15/exp/nob/1020"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q11966095/exp/nob/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/312486496/exp/nob/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/316368447/exp/nob/1020"/>
@@ -19029,8 +19071,10 @@
       <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>1. utg. København ; Kristiania : Gyldendalske Boghandel, henholdsvis 1903, 1910, 1904 og Oslo : Gyldendal, 1949. På gjengrodde stier opprinnelig utgitt med tittel: Paa gjengrodde stier</rdamd:P30137>
+      <rdamd:P30033>Dronning Tamara -- Livet ivold -- Det vilde kor -- På gjengrodde stier</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/samledeverker/2000/B15/exp/nob/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/30145424502786830193/exp/nob/1020"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q11966095/exp/nob/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/312486496/exp/nob/1020"/>
@@ -23892,6 +23936,7 @@
       <rdamd:P30137>1. utg. henholdsvis 1903 med tittel: I Æventyrland og 1949 med tittel: Paa gjengrodde stier</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/samledeverker/2009/B23/exp/nob/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/30145424502786830193/exp/nob/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309525999/exp/nob/1020"/>
       <rdamo:P30267 rdf:resource="http://viaf.org/viaf/107756506"/>

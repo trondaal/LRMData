@@ -19805,7 +19805,7 @@
                 },
                 "label": {
                     "type": "literal",
-                    "value": "Auf ueberwachsenen Pfaden"
+                    "value": "Auf \u00fcberwachsenen Pfaden"
                 }
             },
             {
@@ -23491,6 +23491,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/395147270538135700001/exp/ger/1020/brunsalken"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Victoria"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/395147270538135700001/exp/ger/1020/kosterkahugo"
                 },
                 "label": {
@@ -25861,6 +25871,26 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2000/B15"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker : B. 15 (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2000/B15/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/59083692/samledeverker/2000/b14"
                 },
                 "label": {
@@ -25892,6 +25922,26 @@
                 "subject": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/59083692/samledeverker/2007/b14/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2009/B23"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker : B. 23 (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2009/B23/exp/nob/1020"
                 },
                 "label": {
                     "type": "literal",

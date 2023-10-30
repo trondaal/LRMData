@@ -8557,6 +8557,28 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2000/B15"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Work"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2009/B23"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Work"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://rdaregistry.info/Elements/m/object/P30328"
                 },
                 "label": {
@@ -27796,6 +27818,39 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/395147270538135700001/exp/ger/1020/brunsalken"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2000/B15/exp/nob/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2009/B23/exp/nob/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-8401811406"
                 },
                 "label": {
@@ -31262,17 +31317,6 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://example.org/013121683"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Manifestation"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.org/014159097"
                 },
                 "label": {
                     "xml:lang": "gden",

@@ -13578,6 +13578,44 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2000/B15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2009/B23"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/34565761"
                 },
                 "p": {
@@ -26398,6 +26436,25 @@
                 "o": {
                     "type": "uri",
                     "value": "http://example.org/gundersendag"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/395147270538135700001/exp/ger/1020/brunsalken"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20037"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Translator"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://example.org/brunsalken"
                 }
             },
             {

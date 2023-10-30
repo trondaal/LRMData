@@ -5831,21 +5831,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://example.org/014159097"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "EMBODIES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/30145424502786830193/exp/ger/1020"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://example.org/014159098"
                 },
                 "l": {
@@ -12020,7 +12005,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/30145424502786830193/exp/ger/1020"
+                    "value": "http://viaf.org/viaf/30145424502786830193/exp/ger/1020/ihleelisabeth"
                 }
             },
             {
@@ -16865,7 +16850,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/395147270538135700001/exp/ger/1020"
+                    "value": "http://viaf.org/viaf/395147270538135700001/exp/ger/1020/brunsalken"
                 }
             },
             {
@@ -18101,6 +18086,21 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-8205253331-15"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2000/B15/exp/nob/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-8205253331-2"
                 },
                 "l": {
@@ -18696,6 +18696,21 @@
                 "o": {
                     "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q11966095/exp/nob/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8205275408-15"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2000/B15/exp/nob/1020"
                 }
             },
             {
@@ -23016,6 +23031,21 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/309525999/exp/nob/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788205375611-23"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2009/B23/exp/nob/1020"
                 }
             },
             {
@@ -58461,6 +58491,51 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/59083692/samledeverker/1930/b7"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/395147270538135700001/exp/ger/1020/brunsalken"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/395147270538135700001"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2000/B15/exp/nob/1020"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2000/B15"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2009/B23/exp/nob/1020"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2009/B23"
                 }
             }
         ]

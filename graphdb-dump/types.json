@@ -22033,6 +22033,63 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/395147270538135700001/exp/ger/1020/brunsalken"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2000/B15/exp/nob/1020"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2009/B23/exp/nob/1020"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "https://www.wikidata.org/wiki/Q1592308/exp/1023"
                 },
                 "p": {
@@ -41147,6 +41204,44 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2000/B15/exp/nob/1020"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/nob"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2009/B23/exp/nob/1020"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/nob"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/7269159941690125440003/exp/bul/1020/3149365923185600853"
                 },
                 "p": {
@@ -45993,6 +46088,25 @@
                 "s": {
                     "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q15062328/exp/ger/1020/brausewetterernst"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/ger"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/395147270538135700001/exp/ger/1020/brunsalken"
                 },
                 "p": {
                     "type": "uri",
@@ -54486,25 +54600,6 @@
                 "s": {
                     "type": "uri",
                     "value": "http://example.org/013121683"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "CARRIER"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/termList/RDACarrierType/1049"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://example.org/014159097"
                 },
                 "p": {
                     "type": "uri",
@@ -87469,25 +87564,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://example.org/014159097"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "MEDIATYPE"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/termList/RDAMediaType/1007"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://example.org/014159098"
                 },
                 "p": {
@@ -117338,6 +117414,44 @@
                 "s": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/59083692/samledeverker/1930/b7"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/datatype/P10004"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "TYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://schema.nb.no/Bibliographic/Values/V1000"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2000/B15"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/datatype/P10004"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "TYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://schema.nb.no/Bibliographic/Values/V1000"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2009/B23"
                 },
                 "p": {
                     "type": "uri",
