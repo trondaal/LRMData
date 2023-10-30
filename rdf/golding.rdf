@@ -940,7 +940,7 @@
    <rdac:C10006 rdf:about="http://example.org/names/horstsilke/lordoftheflies/exp/ger/1020">
       <rdaed:P20316>Lord of the Flies : Teacher's Guide</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
-      <rdaed:P20312>Lord of the flies</rdaed:P20312>
+      <rdaed:P20312>Lord of the flies : Teacher's guide. / Von Silke Horst</rdaed:P20312>
       <rdfs:label>Lord of the flies</rdfs:label>
       <rdaed:P20315>Herr der Fliegen</rdaed:P20315>
       <rdfs:label>Herr der Fliegen</rdfs:label>
@@ -1091,6 +1091,7 @@
       <rdaed:P20312>William Golding's Lord of the Flies</rdaed:P20312>
       <rdfs:label>William Golding's Lord of the Flies</rdfs:label>
       <rdaed:P20312>Lord of the flies : a novel</rdaed:P20312>
+      <rdaed:P20312>Lord of the flies : [Hauptbd.]</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
       <rdaed:P20315>Lord of the Flies</rdaed:P20315>
       <rdaxd:P00018>http://viaf.org/viaf/119144648592107423604/exp/eng/1020</rdaxd:P00018>
@@ -1104,8 +1105,10 @@
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Lord of the flies</rdaed:P20312>
       <rdfs:label>Lord of the flies</rdfs:label>
+      <rdaed:P20312>Lord of the flies : Teacher's book. / By Dieter Smolka</rdaed:P20312>
       <rdaed:P20312>Herr der Fliegen</rdaed:P20312>
       <rdfs:label>Herr der Fliegen</rdfs:label>
+      <rdaed:P20312>Lord of the flies : [Hauptbd.]</rdaed:P20312>
       <rdaed:P20315>Herr der Fliegen</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
@@ -1116,6 +1119,8 @@
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Herr der Fliegen : Roman</rdaed:P20312>
       <rdfs:label>Herr der Fliegen</rdfs:label>
+      <rdaed:P20312>Herr der Fliegen : Pbd. 1</rdaed:P20312>
+      <rdaed:P20312>Herr der Fliegen : Pbd. 2</rdaed:P20312>
       <rdaed:P20312>Herr der Fliegen</rdaed:P20312>
       <rdaed:P20315>Herr der Fliegen</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>

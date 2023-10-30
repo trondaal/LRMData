@@ -28664,6 +28664,25 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-9783471794661"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/object/P30328"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Contributor"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://example.org/deteringheinrich"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-9783546004497"
                 },
                 "p": {

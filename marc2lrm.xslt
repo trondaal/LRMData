@@ -841,7 +841,7 @@
                                  <xsl:with-param name="type"
                                                  select="'http://rdaregistry.info/Elements/e/datatype/P20312'"/>
                                  <xsl:with-param name="select"
-                                                 select="string-join((frbrizer:trim(.), frbrizer:trim(../*:subfield[@code='b']), frbrizer:trim(../*:subfield[@code='p'])), ' : ')"/>
+                                                 select="string-join((frbrizer:trim(.), frbrizer:trim(../*:subfield[@code='b']), frbrizer:trim(../*:subfield[@code='n']), frbrizer:trim(../*:subfield[@code='p'])), ' : ')"/>
                               </xsl:call-template>
                            </xsl:copy>
                         </xsl:if>
