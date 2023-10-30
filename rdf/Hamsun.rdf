@@ -3745,17 +3745,6 @@
       <rdaeo:P20037 rdf:resource="http://example.org/andersoncarll"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/30145424502786830193"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="http://viaf.org/viaf/30145424502786830193/exp/fre/1020/66602903">
-      <rdaed:P20316>Paa gjengrodde stier</rdaed:P20316>
-      <rdaxd:P00029>standalone</rdaxd:P00029>
-      <rdaed:P20312>Sur les sentiers où l'herbe repousse</rdaed:P20312>
-      <rdfs:label>Sur les sentiers où l'herbe repousse</rdfs:label>
-      <rdaed:P20315>Sur les sentiers où l'herbe repousse</rdaed:P20315>
-      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
-      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/fre"/>
-      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/66602903"/>
-      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/30145424502786830193"/>
-   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/30145424502786830193/exp/ger/1020/brunsalken">
       <rdaed:P20316>Paa gjengrodde stier</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
@@ -16500,25 +16489,6 @@
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1650145424683186830143/exp/fre/1020/boyerregis"/>
    </rdac:C10007>
-   <rdac:C10007 rdf:about="http://example.org/isbn-2702104037">
-      <rdamd:P30004>ISBN 2702104037</rdamd:P30004>
-      <rdaxd:P00018>isbn-2702104037</rdaxd:P00018>
-      <rdfs:label>ISBN2702104037</rdfs:label>
-      <rdamd:P30156>Sur les sentiers où l'herbe repousse</rdamd:P30156>
-      <rdamd:P30117>Knut Hamsun ; traduit du norvégien par Régis Boyer ; préface de Manès Sperber</rdamd:P30117>
-      <rdamd:P30088>Paris</rdamd:P30088>
-      <rdamd:P30111>Paris : Calmann-Lévy, 1981.</rdamd:P30111>
-      <rdamd:P30083>Calmann-Lévy</rdamd:P30083>
-      <rdamd:P30011>1981</rdamd:P30011>
-      <rdamd:P30182>244 s.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
-      <rdamd:P30106>Collection "Traduit de"</rdamd:P30106>
-      <rdamd:P30137>"Suivi d'une étude de Régis Boyer Pour l'amour du viking"</rdamd:P30137>
-      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
-      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/30145424502786830193/exp/fre/1020/66602903"/>
-   </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-2702104452">
       <rdamd:P30004>ISBN 2702104452</rdamd:P30004>
       <rdaxd:P00018>isbn-2702104452</rdaxd:P00018>
@@ -25448,7 +25418,6 @@
       <rdamd:P30083>Nórdica Libros</rdamd:P30083>
       <rdamd:P30011>2012</rdamd:P30011>
       <rdamd:P30182>160 p., 22 cm.</rdamd:P30182>
-      <rdamd:P30182>160 s.</rdamd:P30182>
       <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30106>Letras nórdicas</rdamd:P30106>
