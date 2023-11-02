@@ -1373,8 +1373,6 @@
       <rdamd:P30083>EMI Film &amp; Theatre Music</rdamd:P30083>
       <rdamd:P30011>[1974]</rdamd:P30011>
       <rdamd:P30182>3p., 4.̊.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9356154076013911860000/exp/1010"/>
@@ -1389,8 +1387,6 @@
       <rdamd:P30011>[2018?]</rdamd:P30011>
       <rdamd:P30007>©1974</rdamd:P30007>
       <rdamd:P30182>1 online resource (1 score (2 pages)).</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1003</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1018</rdamd:P30001>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9356154076013911860000/exp/1010"/>
@@ -1403,8 +1399,6 @@
       <rdamd:P30083>Thwentieth Century Fox Home Entertainment</rdamd:P30083>
       <rdamd:P30011>2017</rdamd:P30011>
       <rdamd:P30182>1 plate (DVD) (1 t 49 min) : lyd, kol.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1008</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1060</rdamd:P30001>
       <rdamd:P30137>Ekstramateriale</rdamd:P30137>
       <rdamd:P30137>Medietilsynet : 185296</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1060"/>
@@ -1418,8 +1412,6 @@
       <rdamd:P30111>: Universal Sony Pictures Home Entertainment Nordic, 2013.</rdamd:P30111>
       <rdamd:P30011>2013</rdamd:P30011>
       <rdamd:P30182>1 plate (Blu-ray) (2 t 9 min) : lyd, kol.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1008</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1060</rdamd:P30001>
       <rdamd:P30137>Produksjon: Storbritannia / USA, 1974</rdamd:P30137>
       <rdamd:P30137>Basert på en roman av Agatha Christie</rdamd:P30137>
       <rdamd:P30137>Kodet for region A, B &amp; C</rdamd:P30137>
@@ -1435,8 +1427,6 @@
       <rdamd:P30173>Universal Pictures Nordic</rdamd:P30173>
       <rdamd:P30008>[2008]</rdamd:P30008>
       <rdamd:P30182>1 plate (DVD) (122 minutter).</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1008</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1060</rdamd:P30001>
       <rdamd:P30137>Aldersgrense: 15 år</rdamd:P30137>
       <rdamd:P30137>Medietilsynet: 123213</rdamd:P30137>
       <rdamd:P30137>Produksjonsår: 1974</rdamd:P30137>
@@ -1461,8 +1451,6 @@
       <rdamd:P30173>Phonofile</rdamd:P30173>
       <rdamd:P30007>℗ 2010</rdamd:P30007>
       <rdamd:P30182>1 online (nettilkoblet) ressurs.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1003</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1018</rdamd:P30001>
       <rdamd:P30137>CSSE Records: CSSE04</rdamd:P30137>
       <rdamd:P30033>Swing for Simon -- Corrientes -- Lingo -- El Patio de Montserrat -- Bei Dir War Es Immer So Schön -- Here's That Rainy Day -- Yours is My Heart Alone -- Reine De Musette -- Melodie Concorde -- Murder On the Orient Express -- Dans monîle -- Choti</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
@@ -1471,7 +1459,7 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9356154076013911860000/exp/und/1011"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0002446855">
-      <rdamd:P30004>ISBN 0002446855 :</rdamd:P30004>
+      <rdamd:P30004>ISBN 0002446855</rdamd:P30004>
       <rdaxd:P00018>isbn-0002446855</rdaxd:P00018>
       <rdfs:label>ISBN0002446855</rdfs:label>
       <rdamd:P30156>The best of Poirot</rdamd:P30156>
@@ -1481,8 +1469,6 @@
       <rdamd:P30083>Collins</rdamd:P30083>
       <rdamd:P30011>1980</rdamd:P30011>
       <rdamd:P30182>862p., 23cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30106>Collins' collectors' choice</rdamd:P30106>
       <rdamd:P30033>Murder on the Orient Express - Cards on the table - Hercule Poirot's Christmas - Five little pigs - The labours of Hercules.</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
@@ -1495,7 +1481,7 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/638145424602986831437/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-000649630">
-      <rdamd:P30004>ISBN 000649630X (pbk) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 000649630X (pbk)</rdamd:P30004>
       <rdaxd:P00018>isbn-000649630</rdaxd:P00018>
       <rdfs:label>ISBN000649630X (pbk)</rdfs:label>
       <rdamd:P30156>Agatha Christie omnibus</rdamd:P30156>
@@ -1507,8 +1493,6 @@
       <rdamd:P30083>HarperCollins</rdamd:P30083>
       <rdamd:P30011>1995</rdamd:P30011>
       <rdamd:P30182>649p., 20cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>Cover title: 1920s Agatha Christie.</rdamd:P30137>
       <rdamd:P30033>The mysterious affair at Styles -- The secret adversary -- Murder on the links</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
@@ -1519,7 +1503,7 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/176364162/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0006496563">
-      <rdamd:P30004>ISBN 0006496563 (pbk) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 0006496563 (pbk)</rdamd:P30004>
       <rdaxd:P00018>isbn-0006496563</rdaxd:P00018>
       <rdfs:label>ISBN0006496563 (pbk)</rdfs:label>
       <rdamd:P30156>Agatha Christie omnibus</rdamd:P30156>
@@ -1531,8 +1515,6 @@
       <rdamd:P30083>HarperCollins</rdamd:P30083>
       <rdamd:P30011>1995</rdamd:P30011>
       <rdamd:P30182>680p., 20cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>Cover title: 1920s Agatha Christie.</rdamd:P30137>
       <rdamd:P30033>The man in the brown suit -- Poirot investigates -- The secret of chimneys</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
@@ -1543,7 +1525,7 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309260721/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0007119321">
-      <rdamd:P30004>ISBN 0007119321 (pbk) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 0007119321 (pbk)</rdamd:P30004>
       <rdaxd:P00018>isbn-0007119321</rdaxd:P00018>
       <rdfs:label>ISBN0007119321 (pbk)</rdfs:label>
       <rdamd:P30156>Death on the Nile</rdamd:P30156>
@@ -1553,8 +1535,6 @@
       <rdamd:P30083>HarperCollins</rdamd:P30083>
       <rdamd:P30011>2001</rdamd:P30011>
       <rdamd:P30182>416p., 18cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30106>Agatha Christie signature collection ;</rdamd:P30106>
       <rdamd:P30165>no.18</rdamd:P30165>
       <rdamd:P30137>Originally published, London: Collins, 1937.</rdamd:P30137>
@@ -1563,7 +1543,7 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309258229/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-000711933">
-      <rdamd:P30004>ISBN 000711933X (pbk) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 000711933X (pbk)</rdamd:P30004>
       <rdaxd:P00018>isbn-000711933</rdaxd:P00018>
       <rdfs:label>ISBN000711933X (pbk)</rdfs:label>
       <rdamd:P30156>Death in the clouds</rdamd:P30156>
@@ -1573,8 +1553,6 @@
       <rdamd:P30083>HarperCollins</rdamd:P30083>
       <rdamd:P30011>2001</rdamd:P30011>
       <rdamd:P30182>333p. : plan, 18cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30106>The Agatha Christie collection ;</rdamd:P30106>
       <rdamd:P30165>No.12</rdamd:P30165>
       <rdamd:P30137>Originally published, London: Collins, 1935.</rdamd:P30137>
@@ -1583,7 +1561,7 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/73145424522186831318/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0007119356">
-      <rdamd:P30004>ISBN 0007119356 (pbk.) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 0007119356 (pbk.)</rdamd:P30004>
       <rdaxd:P00018>isbn-0007119356</rdaxd:P00018>
       <rdfs:label>ISBN0007119356 (pbk.)</rdfs:label>
       <rdamd:P30156>Appointment with death</rdamd:P30156>
@@ -1593,8 +1571,6 @@
       <rdamd:P30083>HarperCollins</rdamd:P30083>
       <rdamd:P30011>2001</rdamd:P30011>
       <rdamd:P30182>303 p., 18 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30106>The Agatha Christie collection : Poirot ;</rdamd:P30106>
       <rdamd:P30165>19</rdamd:P30165>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
@@ -1602,7 +1578,7 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/310912914/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0007120729">
-      <rdamd:P30004>ISBN 0007120729 (pbk.) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 0007120729 (pbk.)</rdamd:P30004>
       <rdaxd:P00018>isbn-0007120729</rdaxd:P00018>
       <rdfs:label>ISBN0007120729 (pbk.)</rdfs:label>
       <rdamd:P30156>Poirot in the Orient</rdamd:P30156>
@@ -1612,8 +1588,6 @@
       <rdamd:P30083>HarperCollins</rdamd:P30083>
       <rdamd:P30011>2001</rdamd:P30011>
       <rdamd:P30182>578 p. : ill., 20 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30033>Murder in Mesopotamia -- Death on the Nile -- Appointment with death</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
@@ -1623,7 +1597,7 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/12155103895976200651/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0007128673">
-      <rdamd:P30004>ISBN 0007128673 (pbk) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 0007128673 (pbk)</rdamd:P30004>
       <rdaxd:P00018>isbn-0007128673</rdaxd:P00018>
       <rdfs:label>ISBN0007128673 (pbk)</rdfs:label>
       <rdamd:P30156>Death comes as the end</rdamd:P30156>
@@ -1633,15 +1607,13 @@
       <rdamd:P30083>HarperCollins</rdamd:P30083>
       <rdamd:P30011>2001</rdamd:P30011>
       <rdamd:P30182>334p., 18cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>Originally published: London: Collins, 1945.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/8172154501923039210006/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0007171137">
-      <rdamd:P30004>ISBN 0007171137 (pbk.) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 0007171137 (pbk.)</rdamd:P30004>
       <rdaxd:P00018>isbn-0007171137</rdaxd:P00018>
       <rdfs:label>ISBN0007171137 (pbk.)</rdfs:label>
       <rdamd:P30156>Poirot</rdamd:P30156>
@@ -1652,8 +1624,6 @@
       <rdamd:P30083>HarperCollins</rdamd:P30083>
       <rdamd:P30011>c2003</rdamd:P30011>
       <rdamd:P30182>552 p., 20 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30033>Murder on the links -- The mystery of the blue train -- Death in the clouds</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
@@ -1663,7 +1633,7 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1009145424587286830098/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-000720826">
-      <rdamd:P30004>ISBN 000720826X :</rdamd:P30004>
+      <rdamd:P30004>ISBN 000720826X</rdamd:P30004>
       <rdaxd:P00018>isbn-000720826</rdaxd:P00018>
       <rdfs:label>ISBN000720826X</rdfs:label>
       <rdamd:P30156>Murders to die for</rdamd:P30156>
@@ -1673,8 +1643,6 @@
       <rdamd:P30083>HarperCollins</rdamd:P30083>
       <rdamd:P30011>2005</rdamd:P30011>
       <rdamd:P30182>viii, 1160 p., 25 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>Formerly CIP.</rdamd:P30137>
       <rdamd:P30033>The murder of Roger Ackroyd -- The murder at the vicarage -- The murder on the links -- Murder is easy -- Murder in Mesopotamia -- Sleeping murder -- Murder on the Orient Express.</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
@@ -1689,10 +1657,10 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/316741387/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0007208626">
-      <rdamd:P30004>ISBN 0007208626 (pbk.) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 0007208626 (pbk.)</rdamd:P30004>
       <rdaxd:P00018>isbn-0007208626</rdaxd:P00018>
       <rdfs:label>ISBN0007208626 (pbk.)</rdfs:label>
-      <rdamd:P30004>ISBN 9780007208623 (pbk.) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 9780007208623 (pbk.)</rdamd:P30004>
       <rdaxd:P00018>isbn-9780007208623</rdaxd:P00018>
       <rdfs:label>ISBN9780007208623 (pbk.)</rdfs:label>
       <rdamd:P30156>1920s omnibus</rdamd:P30156>
@@ -1702,8 +1670,6 @@
       <rdamd:P30083>HarperCollins</rdamd:P30083>
       <rdamd:P30011>2006</rdamd:P30011>
       <rdamd:P30182>841 p., 20 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>Formerly CIP.</rdamd:P30137>
       <rdamd:P30033>The secret adversary - The man in the brown suit - The secret of Chimneys - The seven dials mystery.</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
@@ -1715,7 +1681,7 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/312335060/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0007208634">
-      <rdamd:P30004>ISBN 0007208634 (pbk.) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 0007208634 (pbk.)</rdamd:P30004>
       <rdaxd:P00018>isbn-0007208634</rdaxd:P00018>
       <rdfs:label>ISBN0007208634 (pbk.)</rdfs:label>
       <rdamd:P30156>1930s omnibus</rdamd:P30156>
@@ -1725,8 +1691,6 @@
       <rdamd:P30083>HarperCollins</rdamd:P30083>
       <rdamd:P30011>2006</rdamd:P30011>
       <rdamd:P30182>743 p., 20 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>Formerly CIP.</rdamd:P30137>
       <rdamd:P30033>The Sittaford mystery -- Why didn't they ask Evans? -- And then there were none -- Murder is easy.</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
@@ -1738,7 +1702,7 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/180572444/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0007246587">
-      <rdamd:P30004>ISBN 0007246587 :</rdamd:P30004>
+      <rdamd:P30004>ISBN 0007246587</rdamd:P30004>
       <rdaxd:P00018>isbn-0007246587</rdaxd:P00018>
       <rdfs:label>ISBN0007246587</rdfs:label>
       <rdamd:P30004>ISBN 9780007246588</rdamd:P30004>
@@ -1752,8 +1716,6 @@
       <rdamd:P30083>HarperCollins</rdamd:P30083>
       <rdamd:P30011>2007</rdamd:P30011>
       <rdamd:P30182>44 p. : chiefly col. ill., 30 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>Formerly CIP.</rdamd:P30137>
       <rdamd:P30137>Translated from the French.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
@@ -1775,14 +1737,12 @@
       <rdamd:P30083>HarperCollins</rdamd:P30083>
       <rdamd:P30011>2010</rdamd:P30011>
       <rdamd:P30182>1 online resource (288 pages).</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/316741387/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0708901875">
-      <rdamd:P30004>ISBN 0708901875 :</rdamd:P30004>
+      <rdamd:P30004>ISBN 0708901875</rdamd:P30004>
       <rdaxd:P00018>isbn-0708901875</rdaxd:P00018>
       <rdfs:label>ISBN0708901875</rdfs:label>
       <rdamd:P30156>The hound of death, and other stories</rdamd:P30156>
@@ -1793,8 +1753,6 @@
       <rdamd:P30083>Ulverscroft</rdamd:P30083>
       <rdamd:P30011>[1978]</rdamd:P30011>
       <rdamd:P30182>[5],375p., 23cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30106>Ulverscroft large print series. [mystery]</rdamd:P30106>
       <rdamd:P30137>This collection originally published: London : Odhams Press, 1933.</rdamd:P30137>
       <rdamd:P30033>The Hound of Death -- The Red Signal -- The Fourth Man -- The Gypsy -- The Lamp -- Wireless -- The Witness for the Prosecution -- The Mystery of the Blue Jar -- The Strange Case of Sir Arthur Carmichael -- The Call of Wings -- The Last Séance -- SOS</rdamd:P30033>
@@ -1815,7 +1773,7 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/8905164661901103390006/12/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0708904769">
-      <rdamd:P30004>ISBN 0708904769 :</rdamd:P30004>
+      <rdamd:P30004>ISBN 0708904769</rdamd:P30004>
       <rdaxd:P00018>isbn-0708904769</rdaxd:P00018>
       <rdfs:label>ISBN0708904769</rdfs:label>
       <rdamd:P30156>The murder at the vicarage</rdamd:P30156>
@@ -1826,8 +1784,6 @@
       <rdamd:P30083>Ulverscroft</rdamd:P30083>
       <rdamd:P30011>1980</rdamd:P30011>
       <rdamd:P30182>[6],397p., 23cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30106>Ulverscroft large print series. mystery</rdamd:P30106>
       <rdamd:P30137>Originally published : London: Collins, 1930.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
@@ -1835,10 +1791,10 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1846151051771433530005/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-1444802593">
-      <rdamd:P30004>ISBN 1444802593 (pbk.) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 1444802593 (pbk.)</rdamd:P30004>
       <rdaxd:P00018>isbn-1444802593</rdaxd:P00018>
       <rdfs:label>ISBN1444802593 (pbk.)</rdfs:label>
-      <rdamd:P30004>ISBN 9781444802597 (pbk.) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 9781444802597 (pbk.)</rdamd:P30004>
       <rdaxd:P00018>isbn-9781444802597</rdaxd:P00018>
       <rdfs:label>ISBN9781444802597 (pbk.)</rdfs:label>
       <rdamd:P30156>Appointment with death</rdamd:P30156>
@@ -1848,8 +1804,6 @@
       <rdamd:P30083>Ulverscroft</rdamd:P30083>
       <rdamd:P30011>2010</rdamd:P30011>
       <rdamd:P30182>1 v. (large print), 23 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>Formerly CIP.</rdamd:P30137>
       <rdamd:P30137>Originally published: London: Collins, 1938.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
@@ -1857,7 +1811,7 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/310912914/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9780007527489">
-      <rdamd:P30004>ISBN 9780007527489 (pbk.) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 9780007527489 (pbk.)</rdamd:P30004>
       <rdaxd:P00018>isbn-9780007527489</rdaxd:P00018>
       <rdfs:label>ISBN9780007527489 (pbk.)</rdfs:label>
       <rdamd:P30156>Hercule Poirot</rdamd:P30156>
@@ -1868,8 +1822,6 @@
       <rdamd:P30083>Harper</rdamd:P30083>
       <rdamd:P30011>2013</rdamd:P30011>
       <rdamd:P30182>6 volumes, 1904 pages, 20 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>Formerly CIP.</rdamd:P30137>
       <rdamd:P30137>In slip case.</rdamd:P30137>
       <rdamd:P30033>ABC murders -- Five little pigs -- Hercule Poirot's Christmas -- Murder of Roger Ackroyd -- Murder on the Orient Express -- Mysterious affair at Styles</rdamd:P30033>
@@ -1884,7 +1836,7 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/228691003/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9780007527502">
-      <rdamd:P30004>ISBN 9780007527502 (pbk.) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 9780007527502 (pbk.)</rdamd:P30004>
       <rdaxd:P00018>isbn-9780007527502</rdaxd:P00018>
       <rdfs:label>ISBN9780007527502 (pbk.)</rdfs:label>
       <rdamd:P30156>Murder on the Orient Express</rdamd:P30156>
@@ -1894,8 +1846,6 @@
       <rdamd:P30083>Harper</rdamd:P30083>
       <rdamd:P30011>2013</rdamd:P30011>
       <rdamd:P30182>274 pages, 20 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30106>Poirot</rdamd:P30106>
       <rdamd:P30137>Formerly CIP.</rdamd:P30137>
       <rdamd:P30137>Originally published: London: Collins, 1934.</rdamd:P30137>
@@ -1904,7 +1854,7 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/316741387/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9780007560004">
-      <rdamd:P30004>ISBN 9780007560004 (ePub ebook) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 9780007560004 (ePub ebook)</rdamd:P30004>
       <rdaxd:P00018>isbn-9780007560004</rdaxd:P00018>
       <rdfs:label>ISBN9780007560004 (ePub ebook)</rdfs:label>
       <rdamd:P30156>The hound of death</rdamd:P30156>
@@ -1915,14 +1865,12 @@
       <rdamd:P30083>HarperCollinsPublishers</rdamd:P30083>
       <rdamd:P30011>2014</rdamd:P30011>
       <rdamd:P30182>1 online resource.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1003</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1018</rdamd:P30001>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/890516466190110339000601/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9780008129538">
-      <rdamd:P30004>ISBN 9780008129538 (paperback) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 9780008129538 (paperback)</rdamd:P30004>
       <rdaxd:P00018>isbn-9780008129538</rdaxd:P00018>
       <rdfs:label>ISBN9780008129538 (paperback)</rdfs:label>
       <rdamd:P30156>Death in the clouds</rdamd:P30156>
@@ -1932,8 +1880,6 @@
       <rdamd:P30083>Harper</rdamd:P30083>
       <rdamd:P30011>2015</rdamd:P30011>
       <rdamd:P30182>264 pages : 1 illustration (black and white), 20 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>"Agatha Christie 125th anniversary 1890-2015"--Cover.</rdamd:P30137>
       <rdamd:P30137>Formerly CIP.</rdamd:P30137>
       <rdamd:P30137>Originally published: Great Britain : Collins, 1935.</rdamd:P30137>
@@ -1942,7 +1888,7 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/73145424522186831318/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9780008158613">
-      <rdamd:P30004>ISBN 9780008158613 (pbk.) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 9780008158613 (pbk.)</rdamd:P30004>
       <rdaxd:P00018>isbn-9780008158613</rdaxd:P00018>
       <rdfs:label>ISBN9780008158613 (pbk.)</rdfs:label>
       <rdamd:P30156>The world's favourite</rdamd:P30156>
@@ -1952,8 +1898,6 @@
       <rdamd:P30083>HarperCollinsPublishers</rdamd:P30083>
       <rdamd:P30011>2015</rdamd:P30011>
       <rdamd:P30182>3 volumes, 20 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>Boxed.</rdamd:P30137>
       <rdamd:P30137>Formerly CIP.</rdamd:P30137>
       <rdamd:P30033>And then there were none -- Murder on the Orient Express -- The murder of Roger Ackroyd.</rdamd:P30033>
@@ -1975,8 +1919,6 @@
       <rdamd:P30083>Harper</rdamd:P30083>
       <rdamd:P30011>2017</rdamd:P30011>
       <rdamd:P30182>262 pages, 20 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>Author's name in the form of a signature at head of title.</rdamd:P30137>
       <rdamd:P30137>Formerly CIP.</rdamd:P30137>
       <rdamd:P30137>Originally published: London: Collins, The Crime Club, 1944.</rdamd:P30137>
@@ -1985,7 +1927,7 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/8172154501923039210006/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9780008196516">
-      <rdamd:P30004>ISBN 9780008196516 (pbk.) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 9780008196516 (pbk.)</rdamd:P30004>
       <rdaxd:P00018>isbn-9780008196516</rdaxd:P00018>
       <rdfs:label>ISBN9780008196516 (pbk.)</rdfs:label>
       <rdamd:P30156>The murder at the vicarage</rdamd:P30156>
@@ -1995,8 +1937,6 @@
       <rdamd:P30083>HarperCollinsPublishers</rdamd:P30083>
       <rdamd:P30011>2016</rdamd:P30011>
       <rdamd:P30182>1 volume, 20 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30106>Miss Marple</rdamd:P30106>
       <rdamd:P30137>Formerly CIP.</rdamd:P30137>
       <rdamd:P30137>Originally published: London: Collins, 1930.</rdamd:P30137>
@@ -2005,7 +1945,7 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1846151051771433530005/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9780008255398">
-      <rdamd:P30004>ISBN 9780008255398 (pbk.) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 9780008255398 (pbk.)</rdamd:P30004>
       <rdaxd:P00018>isbn-9780008255398</rdaxd:P00018>
       <rdfs:label>ISBN9780008255398 (pbk.)</rdfs:label>
       <rdamd:P30156>The hound of death</rdamd:P30156>
@@ -2015,8 +1955,6 @@
       <rdamd:P30083>HarperCollinsPublishers</rdamd:P30083>
       <rdamd:P30011>2019</rdamd:P30011>
       <rdamd:P30182>1 volume, 18 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30033>The Hound of Death -- The Red Signal -- The Fourth Man -- The Gypsy -- The Lamp -- Wireless -- The Witness for the Prosecution -- The Mystery of the Blue Jar -- The Strange Case of Sir Arthur Carmichael -- The Call of Wings -- The Last Séance -- SOS</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
@@ -2035,7 +1973,7 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/8905164661901103390006/12/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9780008255459">
-      <rdamd:P30004>ISBN 9780008255459 (pbk.) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 9780008255459 (pbk.)</rdamd:P30004>
       <rdaxd:P00018>isbn-9780008255459</rdaxd:P00018>
       <rdfs:label>ISBN9780008255459 (pbk.)</rdfs:label>
       <rdamd:P30156>Murder on the Orient Express</rdamd:P30156>
@@ -2045,15 +1983,13 @@
       <rdamd:P30083>HarperCollinsPublishers</rdamd:P30083>
       <rdamd:P30011>2019</rdamd:P30011>
       <rdamd:P30182>1 volume, 18 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30106>Poirot</rdamd:P30106>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/316741387/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9780008280956">
-      <rdamd:P30004>ISBN 9780008280956 (pbk.) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 9780008280956 (pbk.)</rdamd:P30004>
       <rdaxd:P00018>isbn-9780008280956</rdaxd:P00018>
       <rdfs:label>ISBN9780008280956 (pbk.)</rdfs:label>
       <rdamd:P30156>Hercule poirot at large</rdamd:P30156>
@@ -2064,8 +2000,6 @@
       <rdamd:P30083>HarperCollinsPublishers</rdamd:P30083>
       <rdamd:P30011>2017</rdamd:P30011>
       <rdamd:P30182>1 volume, 20 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30106>Poirot</rdamd:P30106>
       <rdamd:P30137>Boxed.</rdamd:P30137>
       <rdamd:P30033>Death on the Nile -- Evil under the sun -- Appointment with death -- Murder in Mesopotamia -- The hollow -- Cat among the pigeons.</rdamd:P30033>
@@ -2080,7 +2014,7 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/12155103895976200651/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9780008483623">
-      <rdamd:P30004>ISBN 9780008483623 (pbk.) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 9780008483623 (pbk.)</rdamd:P30004>
       <rdaxd:P00018>isbn-9780008483623</rdaxd:P00018>
       <rdfs:label>ISBN9780008483623 (pbk.)</rdfs:label>
       <rdamd:P30156>Death on the Nile</rdamd:P30156>
@@ -2090,8 +2024,6 @@
       <rdamd:P30083>HarperCollinsPublishers</rdamd:P30083>
       <rdamd:P30011>2022</rdamd:P30011>
       <rdamd:P30182>1 volume, 20 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30106>Poirot</rdamd:P30106>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
@@ -2110,8 +2042,6 @@
       <rdamd:P30083>William Morrow Paperbacks</rdamd:P30083>
       <rdamd:P30011>2023</rdamd:P30011>
       <rdamd:P30182>288 pages : chiefly col. ill., 6 x 0.65 x 9 inches.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/algreen/orient/exp/eng/1014/1020"/>
@@ -2127,8 +2057,6 @@
       <rdamd:P30083>Canterbury Classics</rdamd:P30083>
       <rdamd:P30011>[2021]</rdamd:P30011>
       <rdamd:P30182>xvi, 765 pages : illustrations (black and white), 24 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30106>Word cloud classics</rdamd:P30106>
       <rdamd:P30137>"These works have been published in their original form to preserve the authors' intent and style." -- Title page verso.</rdamd:P30137>
       <rdamd:P30137>Formerly CIP.</rdamd:P30137>

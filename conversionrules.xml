@@ -364,15 +364,15 @@
             <controlfield tag="008" type="marc"/>
             <datafield tag="020">
                 <subfield code="a" type="http://www.w3.org/2000/01/rdf-schema#label" select="'ISBN' || frbrizer:trim(.)" label="rdf label"/>
-                <subfield code="a" type="http://rdaregistry.info/Elements/m/datatype/P30004" select="'ISBN ' || ." label="manifestation identifier"/>
+                <subfield code="a" type="http://rdaregistry.info/Elements/m/datatype/P30004" select="'ISBN ' || frbrizer:trim(.)" label="manifestation identifier"/>
                 <subfield code="a" type="http://rdaregistry.info/Elements/x/datatype/P00018" select="'isbn-' || replace(., '\D', '') || (if (../*:subfield[@code='q' and matches(., '^[0-9]*$')]) then '-' || ../*:subfield[@code='q' and matches(., '^[0-9]*$')][1]  else '')" label="has identifier for the LRM entity"/>
             </datafield>
             <datafield tag="022">
-                <subfield code="a" type="http://rdaregistry.info/Elements/m/datatype/P30004" select="'ISSN ' || ." label="manifestation identifier"/>
+                <subfield code="a" type="http://rdaregistry.info/Elements/m/datatype/P30004" select="'ISSN ' || frbrizer:trim(.)" label="manifestation identifier"/>
                 <subfield code="a" type="http://rdaregistry.info/Elements/x/datatype/P00018" select="concat('issn-', ./replace(., '\D', ''))" label="has identifier for the LRM entity"/>
             </datafield>
             <datafield tag="024">
-                <subfield code="a" type="http://rdaregistry.info/Elements/m/datatype/P30004" select="frbrizer:idprefix(../@ind1) || ' ' || ." label="manifestation identifier"/>
+                <subfield code="a" type="http://rdaregistry.info/Elements/m/datatype/P30004" select="frbrizer:idprefix(../@ind1) || ' ' || frbrizer:trim(.)" label="manifestation identifier"/>
                 <subfield code="a" type="http://rdaregistry.info/Elements/x/datatype/P00018" select="concat(frbrizer:idprefix(../@ind1) ,'-', replace(., '\D', ''))" label="has identifier for the LRM entity"/>
             </datafield>
             <datafield tag="245">
@@ -431,18 +431,18 @@
                 <!--<subfield code="c" type="http://rdaregistry.info/Elements/m/datatype/P30169" label="has dimensions"/>-->
                 <!--<subfield code="e" type="http://marc21rdf.info/elements/marc/M30000e" label="accompanying material"/>-->
             </datafield>
-            <datafield tag="337">
-                <!--<subfield code="a" select="lower-case(frbrizer:trim(.))" type="http://rdaregistry.info/Elements/m/datatype/P30002" label="has media type"/>
-                <subfield code="b" select="lower-case(frbrizer:trim(.))" type="http://rdaregistry.info/Elements/m/datatype/P30002" label="has media type"/>-->
+            <!--<datafield tag="337">
+                <subfield code="a" select="lower-case(frbrizer:trim(.))" type="http://rdaregistry.info/Elements/m/datatype/P30002" label="has media type"/>
+                <subfield code="b" select="lower-case(frbrizer:trim(.))" type="http://rdaregistry.info/Elements/m/datatype/P30002" label="has media type"/>
                 <subfield code="0" select="." type="http://rdaregistry.info/Elements/m/datatype/P30002" label="has media type"/>
-                <!--<subfield code="1" select="." type="http://rdaregistry.info/Elements/m/datatype/P30002" label="has media type"/>-->
+                <subfield code="1" select="." type="http://rdaregistry.info/Elements/m/datatype/P30002" label="has media type"/>
             </datafield>
             <datafield tag="338">
-                <!--<subfield code="a" select="lower-case(frbrizer:trim(.))" type="http://rdaregistry.info/Elements/m/datatype/P30001" label="has carrier type"/>
-                <subfield code="b" select="lower-case(frbrizer:trim(.))" type="http://rdaregistry.info/Elements/m/datatype/P30001" label="has carrier type"/>-->
+                <subfield code="a" select="lower-case(frbrizer:trim(.))" type="http://rdaregistry.info/Elements/m/datatype/P30001" label="has carrier type"/>
+                <subfield code="b" select="lower-case(frbrizer:trim(.))" type="http://rdaregistry.info/Elements/m/datatype/P30001" label="has carrier type"/>
                 <subfield code="0" select="." type="http://rdaregistry.info/Elements/m/datatype/P30001" label="has carrier type"/>
-                <!--<subfield code="1" select="." type="http://rdaregistry.info/Elements/m/datatype/P30001" label="has carrier type"/>-->
-            </datafield>
+                <subfield code="1" select="." type="http://rdaregistry.info/Elements/m/datatype/P30001" label="has carrier type"/>
+            </datafield>-->
             <datafield tag="490">
                 <subfield code="a" type="http://rdaregistry.info/Elements/m/datatype/P30106" select="frbrizer:trim(.)" label="has series statement"/>
                 <subfield code="v" type="http://rdaregistry.info/Elements/m/datatype/P30165" label="has numbering of serials"/>

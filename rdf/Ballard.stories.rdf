@@ -1402,11 +1402,6 @@
       <rdfs:label>Plan for the Assassination of Jacqueline Kennedy (Ballard, J. G.)</rdfs:label>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/9842556"/>
    </rdac:C10001>
-   <rdac:C10002 rdf:about="http://rdaregistry.info/Elements/m/object/P30328">
-      <rdaxd:P00018>http://rdaregistry.info/Elements/m/object/P30328</rdaxd:P00018>
-      <rdaad:P50385>Burgess, Anthony</rdaad:P50385>
-      <rdfs:label>Burgess, Anthony</rdfs:label>
-   </rdac:C10002>
    <rdac:C10002 rdf:about="http://viaf.org/viaf/103212466">
       <rdaxd:P00018>http://viaf.org/viaf/103212466</rdaxd:P00018>
       <rdaad:P50385>Brunner, John Kilian Houston</rdaad:P50385>
@@ -1486,6 +1481,11 @@
       <rdaxd:P00018>http://viaf.org/viaf/54154517</rdaxd:P00018>
       <rdaad:P50385>Spinrad, Norman</rdaad:P50385>
       <rdfs:label>Spinrad, Norman</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/71388189">
+      <rdaxd:P00018>http://viaf.org/viaf/71388189</rdaxd:P00018>
+      <rdaad:P50385>Burgess, Anthony</rdaad:P50385>
+      <rdfs:label>Burgess, Anthony</rdfs:label>
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://viaf.org/viaf/762106">
       <rdaxd:P00018>http://viaf.org/viaf/762106</rdaxd:P00018>
@@ -3540,8 +3540,6 @@
       <rdamd:P30111>London; New York : Penguin, 1988.</rdamd:P30111>
       <rdamd:P30083>Penguin</rdamd:P30083>
       <rdamd:P30011>1988</rdamd:P30011>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30033>The Cage of Sand -- A Question of Re-entry -- The Dead Astronaut -- My Dream of Flying to Wake Island -- News from the Sun -- Memories of the Space Age -- Myths of the Near Future -- The Man Who Walked on the Moon</rdamd:P30033>
       <rdamd:P30050>The Penguin book of modern British short stories. -, London ; New York : Penguin, 1988. -.</rdamd:P30050>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
@@ -3561,8 +3559,6 @@
       <rdamd:P30083>Panther</rdamd:P30083>
       <rdamd:P30011>1967</rdamd:P30011>
       <rdamd:P30182>141 pages, 18 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30033>The Day of Forever -- Prisoner of the Coral Deep -- Tomorrow is a Million Years -- The Man on the 99th Floor -- The Waiting Grounds -- The Last World of Mr Goddard -- The Gentle Assassin -- The Sudden Afternoon -- The Insane Ones -- The Assassination of John Fitzgerald Kennedy Considered as a Downhill Motor Race</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
@@ -3584,8 +3580,6 @@
       <rdamd:P30111>: Plashet, 1988.</rdamd:P30111>
       <rdamd:P30011>1988</rdamd:P30011>
       <rdamd:P30182>[7]leaves.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1274485/exp/eng/1020"/>
@@ -3597,8 +3591,6 @@
       <rdamd:P30111>London : Allison and Busby, 1969.</rdamd:P30111>
       <rdamd:P30083>Allison and Busby</rdamd:P30083>
       <rdamd:P30011>1969</rdamd:P30011>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30033>Danger, Religion! / Aldiss, Brian W. -- The voices of time / Ballard, J. G. -- Boy in darkness / Peake, Mervyn Laurence</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
@@ -3616,8 +3608,6 @@
       <rdamd:P30083>Putnam</rdamd:P30083>
       <rdamd:P30011>[1971]</rdamd:P30011>
       <rdamd:P30182>319 pages, 21 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30033>The voices of time -- The drowned giant -- The terminal beach -- Manhole 69 -- Storm-bird, storm-dreamer -- The sound-sweep -- Millenium -- Chronopolis -- Build-up -- The garden of time -- End game -- The watchtowers -- Now wakes the sea -- Zone of terror -- The cage of sand -- Deep end.</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
@@ -3647,8 +3637,6 @@
       <rdamd:P30083>Trident Press</rdamd:P30083>
       <rdamd:P30011>[1968]</rdamd:P30011>
       <rdamd:P30182>217 pages, 21 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30033>The worm that flies, by B. W. Aldiss -- Kyrie, by P. Anderson -- Tomorrow is a million years, by J. G. Ballard -- Pond water, by J. Brunner -- The dance of the changer and the three, by T. Carr -- Crusade, by A. C. Clarke -- Ranging, by J. Jakes -- Mind out of time, by K. Laumer -- The inspector, by J. McKimmey -- To the dark star, by R. Silverberg -- A night in elf hill, by N. Spinrad -- Sulwen's planet, by J. Vance.</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
@@ -3677,8 +3665,6 @@
       <rdamd:P30083>Poker Flat Recordings</rdamd:P30083>
       <rdamd:P30011>p2012</rdamd:P30011>
       <rdamd:P30182>1 sound disc : digital, 4 3/4 in.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1013</rdamd:P30001>
       <rdamd:P30137>"All music composed and produced by A.J.E. van Moll and G. Janssen"-Insert.</rdamd:P30137>
       <rdamd:P30137>Compact disc.</rdamd:P30137>
       <rdamd:P30033>Chronopolis -- The last world of Mr. Goddard -- Dream cargoes -- The Delta at sunset -- End-game (feat. Edward Capel) -- Now wakes the sea -- Studio 5, the stars -- The sound-sweep -- Memories of the space age -- Now: zero.</rdamd:P30033>
@@ -3705,8 +3691,6 @@
       <rdamd:P30083>Centaur</rdamd:P30083>
       <rdamd:P30011>p2010</rdamd:P30011>
       <rdamd:P30182>1 sound disc (62 min., 12 sec.) : digital, 4 3/4 in.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1013</rdamd:P30001>
       <rdamd:P30137>Compact disc.</rdamd:P30137>
       <rdamd:P30137>Eds. recorded: Smith Publications (1st, 5th works); Rugginenti Editions (6th work).</rdamd:P30137>
       <rdamd:P30137>Program and biographical notes in English (5 p.) in container.</rdamd:P30137>
@@ -3717,7 +3701,7 @@
       <rdamo:P30139 rdf:resource="https://en.wikipedia.org/wiki/Franklin_Cox/chronopolis/exp/zxx/1011"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0006149081">
-      <rdamd:P30004>ISBN 0006149081 (pbk) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 0006149081 (pbk)</rdamd:P30004>
       <rdaxd:P00018>isbn-0006149081</rdaxd:P00018>
       <rdfs:label>ISBN0006149081 (pbk)</rdfs:label>
       <rdamd:P30156>The fall of Chronopolis</rdamd:P30156>
@@ -3727,15 +3711,13 @@
       <rdamd:P30083>Fontana</rdamd:P30083>
       <rdamd:P30011>1980</rdamd:P30011>
       <rdamd:P30182>191p., 18cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>Originally published : London : Allison and Busby, 1979.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?4537/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0006545947">
-      <rdamd:P30004>ISBN 0006545947 (pbk) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 0006545947 (pbk)</rdamd:P30004>
       <rdaxd:P00018>isbn-0006545947</rdaxd:P00018>
       <rdfs:label>ISBN0006545947 (pbk)</rdfs:label>
       <rdamd:P30156>The day of creation</rdamd:P30156>
@@ -3744,17 +3726,15 @@
       <rdamd:P30083>Flamingo</rdamd:P30083>
       <rdamd:P30011>1993</rdamd:P30011>
       <rdamd:P30182>287p.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/308025936/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0007221525">
-      <rdamd:P30004>ISBN 0007221525 (pbk.) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 0007221525 (pbk.)</rdamd:P30004>
       <rdaxd:P00018>isbn-0007221525</rdaxd:P00018>
       <rdfs:label>ISBN0007221525 (pbk.)</rdfs:label>
-      <rdamd:P30004>ISBN 9780007221523 (pbk.) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 9780007221523 (pbk.)</rdamd:P30004>
       <rdaxd:P00018>isbn-9780007221523</rdaxd:P00018>
       <rdfs:label>ISBN9780007221523 (pbk.)</rdfs:label>
       <rdamd:P30156>Empire of the sun</rdamd:P30156>
@@ -3764,8 +3744,6 @@
       <rdamd:P30083>Harper Perennial</rdamd:P30083>
       <rdamd:P30011>2006</rdamd:P30011>
       <rdamd:P30182>351 pages, 20 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30106>Harper Perennial modern classics</rdamd:P30106>
       <rdamd:P30137>Formerly CIP.</rdamd:P30137>
       <rdamd:P30137>Originally published: London: Gollancz, 1984.</rdamd:P30137>
@@ -3774,10 +3752,10 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/180997771/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0007287038">
-      <rdamd:P30004>ISBN 0007287038 (pbk.) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 0007287038 (pbk.)</rdamd:P30004>
       <rdaxd:P00018>isbn-0007287038</rdaxd:P00018>
       <rdfs:label>ISBN0007287038 (pbk.)</rdfs:label>
-      <rdamd:P30004>ISBN 9780007287031 (pbk.) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 9780007287031 (pbk.)</rdamd:P30004>
       <rdaxd:P00018>isbn-9780007287031</rdaxd:P00018>
       <rdfs:label>ISBN9780007287031 (pbk.)</rdfs:label>
       <rdamd:P30156>Hello America</rdamd:P30156>
@@ -3787,8 +3765,6 @@
       <rdamd:P30083>Harper Perennial</rdamd:P30083>
       <rdamd:P30011>2008</rdamd:P30011>
       <rdamd:P30182>224, 25 pages,, 20 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>Formerly CIP.</rdamd:P30137>
       <rdamd:P30137>Originally published: London: Cape, 1981.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
@@ -3796,7 +3772,7 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/202977755/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0030425069">
-      <rdamd:P30004>ISBN 0030425069 :</rdamd:P30004>
+      <rdamd:P30004>ISBN 0030425069</rdamd:P30004>
       <rdamd:P30004>ISBN 0030456614</rdamd:P30004>
       <rdaxd:P00018>isbn-0030425069</rdaxd:P00018>
       <rdaxd:P00018>isbn-0030456614</rdaxd:P00018>
@@ -3809,8 +3785,6 @@
       <rdamd:P30083>Holt, Rinehart and Winston</rdamd:P30083>
       <rdamd:P30011>c1978</rdamd:P30011>
       <rdamd:P30182>ix, 302 p., 24 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30033>Introduction (The Best Short Stories of J. G. Ballard) / essay by Anthony Burgess -- The Concentration City -- Manhole 69 -- Chronopolis -- The Voices of Time -- Deep End -- The Overloaded Man -- Billennium -- The Garden of Time -- Thirteen to Centaurus -- The Subliminal Man -- The Cage of Sand -- The Drowned Giant -- The Terminal Beach -- The Cloud-Sculptors of Coral D -- The Assassination of John Fitzgerald Kennedy Considered As a Downhill Motor Race -- The Atrocity Exhibition -- Plan for the Assassination of Jacqueline Kennedy -- Why I Want to Fuck Ronald Reagan</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
@@ -3834,6 +3808,7 @@
       <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?57580/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?57616/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1274485/exp/eng/1020"/>
+      <rdamo:P30328 rdf:resource="http://viaf.org/viaf/71388189"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0140023453">
       <rdamd:P30004>ISBN 0140023453</rdamd:P30004>
@@ -3847,8 +3822,6 @@
       <rdamd:P30011>1977</rdamd:P30011>
       <rdamd:P30007>©1977</rdamd:P30007>
       <rdamd:P30182>210 pages, 19 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>"First published by Victor Gollancz 1963. Published in Penguin Books 1965. Reprinted with the two stories 'Prima Belladonna' and 'Studio 5, The Stars' replaced by 'The Overloaded Man' and 'Thirteen to Centaurus', 1977" -- title page verso.</rdamd:P30137>
       <rdamd:P30033>The voices of time -- The sound-sweep -- The overloaded man -- Thirteen to Centaurus -- The garden of time -- The cage of sand -- The watch-tower -- Chronopolis.</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
@@ -3864,7 +3837,7 @@
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41557/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0224013114">
-      <rdamd:P30004>ISBN 0224013114 :</rdamd:P30004>
+      <rdamd:P30004>ISBN 0224013114</rdamd:P30004>
       <rdaxd:P00018>isbn-0224013114</rdaxd:P00018>
       <rdfs:label>ISBN0224013114</rdfs:label>
       <rdamd:P30156>Low-flying aircraft, and other stories</rdamd:P30156>
@@ -3874,8 +3847,6 @@
       <rdamd:P30083>Cape</rdamd:P30083>
       <rdamd:P30011>1976</rdamd:P30011>
       <rdamd:P30182>191p., 21cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30033>The ultimate city -- Low-flying aircraft -- The dead astronaut -- My dream of flying to Wake Island -- The life and death of God -- The greatest television show on earth -- A place and a time to die -- The Comsat angels -- The beach murders</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
@@ -3905,8 +3876,6 @@
       <rdamd:P30083>Little, Brown</rdamd:P30083>
       <rdamd:P30011>©1989</rdamd:P30011>
       <rdamd:P30182>xix, 1083 pages, 25 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30033>Foreword -- Introduction -- Harrison Bergeron / Kurt Vonnegut, Jr. -- Forgetfulness / John W. Campbell, Jr. -- Special flight / John Berryman -- Chronopolis / J.G. Ballard -- Triceratops / Kono Tensei -- The man who lost the sea / Theodore Sturgeon -- On the inside track / Karl Michael Armer -- The Golem / Avram Davidson -- The new prehistory / René Rebetez-Cortes -- A meeting with Medusa / Arthur C. Clarke -- The valley of echoes / Gérard Klein -- The fifth head of Cerberus / Gene Wolfe -- The chaste planet / John Updike -- The blind pilot / Nathalie-Charles Henneberg -- The men who murdered Mohammed / Alfred Bester -- Pairpuppets / Manuel van Loggem -- Two dooms / C.M. Kornbluth -- Tale of the computer that fought a dragon / Stanislaw Lem -- The green hills of Earth / Robert A. Heinlein -- Ghost V / Robert Sheckley -- The phantom of Kansas / John Varley -- Captain Nemo's last adventure / Josef Nesvadba -- Inconstant moon / Larry Niven -- The gold at the starbow's end / Frederik Pohl -- A sign in space / Italo Calvino -- The spiral / Italo Calvino -- The dead past / Isaac Asimov -- The lens / Annemarie van Ewyck -- The hurkle is a happy beast / Theodore Sturgeon -- Zero hour / Ray Bradbury -- Nine lives / Ursula K. Le Guin -- The muse / Anthony Burgess -- The public hating / Steve Allen -- Poor superman / Fritz Leiber -- Angouleme / Thomas M. Disch -- Stranger station / Damon Knight -- The dead fish / Boris Vian -- I was the first to find you / Kirill Bulychev -- The lineman / Walter M. Miller, Jr. -- Tlön, Uqbar, Orbis Tertius / Jorge Luis Borges -- Codemus / Tor Åge Bringsvaerd -- A kind of artistry / Brian Aldiss -- Second variety / Philip K. Dick -- Weihnachtsabend / Keith Roberts -- I do not love thee, Doctor Fell / Robert Bloch -- Aye, and Gomorrah-- / Samuel R. Delany -- How Erg the Self-inducting slew a paleface / Stanislaw Lem -- Nobody's home / Joanna Russ -- Party line / Gérard Klein -- The proud robot / Lewis Padgett -- Vintage season / Henry Kuttner and C.L. Moore -- Way to Amalteia / Arkady and Boris Strugatsky.</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
@@ -3982,8 +3951,6 @@
       <rdamd:P30083>W.W. Norton</rdamd:P30083>
       <rdamd:P30011>2009</rdamd:P30011>
       <rdamd:P30182>xv, 1199 pages : portrait, 25 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>Previous ed. published in Great Britain as: The complete short stories. London : Flamingo, 2001.</rdamd:P30137>
       <rdamd:P30033>Introduction / by Martin Amis -- Author's introduction -- Prima belladonna -- Escapement -- The concentration city -- Venus smiles -- Manhole 69 -- Track 12 -- The waiting grounds -- Now : zero -- The sound-sweep -- Zone of terror -- Chronopolis -- The voices of time -- The last world of Mr. Goddard -- Studio 5, the stars -- Deep end -- The overloaded man -- Mr. F is Mr. F -- Billenium -- The gentle assassin -- The insane ones -- The garden of time -- The thousand dreams of Stellavista -- Thirteen to Centaurus -- Passport to eternity -- The cage of sand -- The watch-towers -- The singing statues -- The man on the 99th floor -- The subliminal man -- The reptile enclosure -- A question of re-entry -- The time-tombs -- Now wakes the sea -- The Venus hunters -- End-game -- Minus one -- The sudden afternoon -- The screen game -- Time of passage -- Prisoner of the coral deep -- The lost Leonardo -- The terminal beach -- The illuminated man -- The delta at sunset -- The drowned giant -- The Gioconda of the twilight noon -- The volcano dances -- The beach murders -- The day of forever -- The impossible man -- Storm-bird, storm-dreamer -- Tomorrow is a million years -- The assassination of John Fitzgerald Kennedy considered as a downhill motor race -- Cry hope, cry fury! -- The recognition -- The cloud-sculptors of Coral D -- Why I want to fuck Ronald Reagan -- The dead astronaut -- The Comsat angels -- The killing ground -- A place and a time to die -- Say goodbye to the wind -- The greatest television show on earth -- My dream of flying to Wake Island -- The air disaster -- Low-flying aircraft -- The life and death of God -- Notes towards a mental breakdown -- The 60 minute zoom -- The smile -- The ultimate city -- The dead time -- The index -- The intensive care unit -- Theatre of war -- Having a wonderful time -- One afternoon at Utah Beach -- Zodiac 2000 -- Motel architecture -- A host of furious fancies -- News from the sun -- Memories of the space age -- Myths of the near future -- Report on an unidentified space station -- The object of the attack -- Answers to a quesionnaire -- The man who walked on the moon -- The secret history of World War 3 -- Love in a colder climate -- The enormous space -- The largest theme park in the world -- War fever -- Dream cargoes -- A guide to virtual death -- The message from Mars -- Report from an obscure planet -- New stories for the American edition -- The secret autobiography of J.G.B. -- The dying fall.</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
@@ -4089,7 +4056,7 @@
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57637/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0460022660">
-      <rdamd:P30004>ISBN 0460022660 (pbk) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 0460022660 (pbk)</rdamd:P30004>
       <rdaxd:P00018>isbn-0460022660</rdaxd:P00018>
       <rdfs:label>ISBN0460022660 (pbk)</rdfs:label>
       <rdamd:P30156>The voices of time</rdamd:P30156>
@@ -4099,8 +4066,6 @@
       <rdamd:P30083>Dent</rdamd:P30083>
       <rdamd:P30011>1984, c1974</rdamd:P30011>
       <rdamd:P30182>197p., 20cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30106>Everyman fiction</rdamd:P30106>
       <rdamd:P30137>Originally published: London : Gollancz, 1963.</rdamd:P30137>
       <rdamd:P30033>The voices of time -- The sound-sweep -- The overloaded man -- Thirteen to Centaurus -- The garden of time -- The cage of sand -- The watch-tower -- Chronopolis.</rdamd:P30033>
@@ -4117,7 +4082,7 @@
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41557/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0575034831">
-      <rdamd:P30004>ISBN 0575034831 :</rdamd:P30004>
+      <rdamd:P30004>ISBN 0575034831</rdamd:P30004>
       <rdaxd:P00018>isbn-0575034831</rdaxd:P00018>
       <rdfs:label>ISBN0575034831</rdfs:label>
       <rdamd:P30156>Empire of the sun</rdamd:P30156>
@@ -4127,8 +4092,6 @@
       <rdamd:P30083>Gollancz</rdamd:P30083>
       <rdamd:P30011>1984</rdamd:P30011>
       <rdamd:P30182>278p. : 1map, 24cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/180997771/exp/eng/1020"/>
@@ -4144,8 +4107,6 @@
       <rdamd:P30083>Indigo</rdamd:P30083>
       <rdamd:P30011>1997</rdamd:P30011>
       <rdamd:P30182>197 pages, 20 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>First published as: The four-dimensional nightmare. London : Gollancz, 1963.</rdamd:P30137>
       <rdamd:P30033>The voices of time -- The sound-sweep -- The overloaded man -- Thirteen to Centaurus -- The garden of time -- The cage of sand -- The watch-tower -- Chronopolis.</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
@@ -4161,7 +4122,7 @@
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?41557/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0586023070">
-      <rdamd:P30004>ISBN 0586023070 (pbk) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 0586023070 (pbk)</rdamd:P30004>
       <rdaxd:P00018>isbn-0586023070</rdaxd:P00018>
       <rdfs:label>ISBN0586023070 (pbk)</rdfs:label>
       <rdamd:P30156>The day of forever</rdamd:P30156>
@@ -4172,8 +4133,6 @@
       <rdamd:P30011>1967</rdamd:P30011>
       <rdamd:P30010>(1985 [printing])</rdamd:P30010>
       <rdamd:P30182>126p., 20cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30033>The Day of Forever -- Prisoner of the Coral Deep -- Tomorrow is a Million Years -- The Man on the 99th Floor -- The Waiting Grounds -- The Last World of Mr Goddard -- The Gentle Assassin -- The Sudden Afternoon -- The Insane Ones -- The Assassination of John Fitzgerald Kennedy Considered as a Downhill Motor Race</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
@@ -4190,7 +4149,7 @@
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57579/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0586045031">
-      <rdamd:P30004>ISBN 0586045031 (pbk) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 0586045031 (pbk)</rdamd:P30004>
       <rdaxd:P00018>isbn-0586045031</rdaxd:P00018>
       <rdfs:label>ISBN0586045031 (pbk)</rdfs:label>
       <rdamd:P30156>Low-flying aircraft, and other stories</rdamd:P30156>
@@ -4200,8 +4159,6 @@
       <rdamd:P30083>Triad</rdamd:P30083>
       <rdamd:P30011>1978</rdamd:P30011>
       <rdamd:P30182>191p., 18cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>This collection originally published: London : Cape, 1976.</rdamd:P30137>
       <rdamd:P30033>The ultimate city -- Low-flying aircraft -- The dead astronaut -- My dream of flying to Wake Island -- The life and death of God -- The greatest television show on earth -- A place and a time to die -- The Comsat angels -- The beach murders</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
@@ -4218,7 +4175,7 @@
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57581/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0586089896">
-      <rdamd:P30004>ISBN 0586089896 (pbk) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 0586089896 (pbk)</rdamd:P30004>
       <rdaxd:P00018>isbn-0586089896</rdaxd:P00018>
       <rdfs:label>ISBN0586089896 (pbk)</rdfs:label>
       <rdamd:P30156>Crash</rdamd:P30156>
@@ -4226,8 +4183,6 @@
       <rdamd:P30111>: Paladin, 1990.</rdamd:P30111>
       <rdamd:P30011>1990</rdamd:P30011>
       <rdamd:P30182>171p.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/305922109/exp/eng/1020"/>
@@ -4244,8 +4199,6 @@
       <rdamd:P30083>H. Holt</rdamd:P30083>
       <rdamd:P30011>1995</rdamd:P30011>
       <rdamd:P30182>xiii, 302 p., 23 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>"An Owl book."</rdamd:P30137>
       <rdamd:P30033>Introduction (The Best Short Stories of J. G. Ballard) / essay by Anthony Burgess -- The Concentration City -- Manhole 69 -- Chronopolis -- The Voices of Time -- Deep End -- The Overloaded Man -- Billennium -- The Garden of Time -- Thirteen to Centaurus -- The Subliminal Man -- The Cage of Sand -- The Drowned Giant -- The Terminal Beach -- The Cloud-Sculptors of Coral D -- The Assassination of John Fitzgerald Kennedy Considered As a Downhill Motor Race -- The Atrocity Exhibition -- Plan for the Assassination of Jacqueline Kennedy -- Why I Want to Fuck Ronald Reagan</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
@@ -4270,6 +4223,7 @@
       <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?57580/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?57616/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1274485/exp/eng/1020"/>
+      <rdamo:P30328 rdf:resource="http://viaf.org/viaf/71388189"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0860079430">
       <rdamd:P30004>ISBN 0860079430</rdamd:P30004>
@@ -4282,8 +4236,6 @@
       <rdamd:P30083>Futura Publications Limited</rdamd:P30083>
       <rdamd:P30011>1977</rdamd:P30011>
       <rdamd:P30182>411 pages, 18 cm. --.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30106>An Orbit book</rdamd:P30106>
       <rdamd:P30137>Title on cover: The best science fiction of J. G. Ballard</rdamd:P30137>
       <rdamd:P30033>Introduction (The Best Short Stories of J. G. Ballard) / essay by Anthony Burgess -- The Concentration City -- Manhole 69 -- The waiting grounds -- The sound sweep -- Chronopolis -- The Overloaded Man -- Billennium -- The insane ones -- The Garden of Time -- Thirteen to Centaurus -- Passport to eternity -- The Cage of Sand -- A question of re-entry -- The Terminal Beach -- The day of forever</rdamd:P30033>
@@ -4320,8 +4272,6 @@
       <rdamd:P30083>Arkham House Publishers, Incorporated</rdamd:P30083>
       <rdamd:P30011>[1988]</rdamd:P30011>
       <rdamd:P30182>216 pages : illustrations (black and white), 21 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>Eight stories originally published between 1962 and 1985.</rdamd:P30137>
       <rdamd:P30033>The cage of sand -- A question of re-entry -- The dead astronaut -- My dream of flying to Wake Island -- News from the sun -- Memories of the space age -- Myths of the near future -- The man who walked on the moon.</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
@@ -4337,7 +4287,7 @@
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?46455/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9780575103160">
-      <rdamd:P30004>ISBN 9780575103160 (paperback) :</rdamd:P30004>
+      <rdamd:P30004>ISBN 9780575103160 (paperback)</rdamd:P30004>
       <rdaxd:P00018>isbn-9780575103160</rdaxd:P00018>
       <rdfs:label>ISBN9780575103160 (paperback)</rdfs:label>
       <rdamd:P30156>Barrington Bayley SF gateway omnibus</rdamd:P30156>
@@ -4346,8 +4296,6 @@
       <rdamd:P30083>Gollancz</rdamd:P30083>
       <rdamd:P30011>2014</rdamd:P30011>
       <rdamd:P30182>x, 479 pages, 24 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>Includes QR codes.</rdamd:P30137>
       <rdamd:P30033>The soul of the robot -- The knights of the limits -- The fall of Chronopolis.</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
@@ -4369,8 +4317,6 @@
       <rdamd:P30083>Liveright Pub. Corporation</rdamd:P30083>
       <rdamd:P30011>2013</rdamd:P30011>
       <rdamd:P30182>234 pages, 21 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/202977755/exp/eng/1020"/>
@@ -4385,8 +4331,6 @@
       <rdamd:P30083>Picador USA</rdamd:P30083>
       <rdamd:P30011>2017</rdamd:P30011>
       <rdamd:P30182>xv, 205 pages, 21 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30137>Reprint. Originally published: New York : Picador, 2001.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
@@ -4404,8 +4348,6 @@
       <rdamd:P30083>Purdue University Press</rdamd:P30083>
       <rdamd:P30011>[2014]</rdamd:P30011>
       <rdamd:P30182>436 pages : illustrations, 23 cm.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30106>Charleston insights in library, archival, and information sciences</rdamd:P30106>
       <rdamd:P30033>The policy and institutional framework / James L. Mullins -- Data governance : where technology and policy collide / MacKenzie Smith -- The use of life cycle models in developing and supporting data services / Jake Carlson -- Data management assessment and planning tools / Andrew Sallans and Sherry Lake -- Trustworthy data repositories : the value and benefits of auditing and certification / Bernard F. Reilly, Jr. and Marie E. Waltz -- Copyright, open data, and the availability-usability gap : challenges, opportunities, and approaches for libraries / Melissa Levine -- Metadata services / Jenn Riley -- Data citation : principles and practice / Jan Brase, Yvonne Socha, Sarah Callaghan, Christine Borgman, Paul Uhlir, and Bonnie Carroll -- Assimilating digital repositories into the active research process / Tyler Walters -- Partnering to curate and archive social science data / Jared Lyle, George Alter, and Ann Green -- Managing and archiving research data : local repository and Cloud-based practices / Michele Kimpton and Carol Minton Morris -- Chronopolis repository services / David Minor, Brian E. C. Schottlaender, and Ardys Kozbial -- Evaluating a complex project : DataONE / Suzanne Allard -- What to measure? : toward metrics for research data management / Angus Whyte, Laura Molloy, Neil Beagrie, and John Houghton -- An institutional perspective on data curation services : a view from Cornell University / Gail Steinhart -- Purdue University Research Repository : collaborations in data management / D. Scott Brandt -- Data curation for the humanities : perspectives from Rice University / Geneva Henry -- Developing data management services for researchers at the University of Oregon / Brian Westra.</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
@@ -4426,8 +4368,6 @@
       <rdamd:P30083>Rowman &amp; Littlefield International</rdamd:P30083>
       <rdamd:P30011>[2016]</rdamd:P30011>
       <rdamd:P30182>1 online resource.</rdamd:P30182>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1003</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1018</rdamd:P30001>
       <rdamd:P30033>Introduction -- Culture, control, critique. Cultural critique from the Frankfurt School until today -- Formalism, allegory, totality. Allegory and representation -- Allegory and the present -- Space, allegory, control. Spatial preoccupations -- Celebrating ruins: The drowned world, The drought, The crystal world -- Filling the gaps: Crash, Concrete island, High rise -- Coming into allegory: Cocaine nights, Super-Cannes, Millennium people, Kingdom come -- Totalities, allegories and revolutions -- Cultural critique and form -- Time, allegory, control. Timely preoccupations -- In and out of time: "Chronopolis" and in time -- Cultural critique and form -- Vision, allegory, control. Visual preoccupations -- bread and circuses: The hunger games -- Cultural critique and form -- Conclusion.</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
@@ -4447,8 +4387,6 @@
       <rdamd:P30111>Karlstad : Karlstads universitet, 2022.</rdamd:P30111>
       <rdamd:P30083>Karlstads universitet</rdamd:P30083>
       <rdamd:P30011>2022</rdamd:P30011>
-      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1003</rdamd:P30002>
-      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1018</rdamd:P30001>
       <rdamd:P30106>Karlstad University Studies</rdamd:P30106>
       <rdamd:P30165>2022:4</rdamd:P30165>
       <rdamd:P30137>degree of Doctor of Philosophy</rdamd:P30137>

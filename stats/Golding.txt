@@ -28,13 +28,16 @@ Agenter identifisert med URI
 * http://viaf.org/viaf/53270061 (700) : Crespo, Manuel
 * http://viaf.org/viaf/18234247 (700) : Echávarri, Luis
 * https://www.imdb.com/name/nm0250046/ (700) : Edwards, Hugh
+* http://viaf.org/viaf/19810356 (700) : Epstein, Edmund Lloyd
 * http://example.org/names/fernndezjavier (700) : Fernández, Javier
+* http://viaf.org/viaf/31996364 (700) : Forster, E.M
 * http://viaf.org/viaf/47993680 (700) : Franco Aixelá, Javier
 * https://www.imdb.com/name/nm0297620/ (700) : Fuhrer, Martin
 * https://www.imdb.com/name/nm0299077/ (700) : Furth, Chris
 * https://www.imdb.com/name/nm0001267/ (700) : Getty, Balthazar
 * http://viaf.org/viaf/89500102 (100, 600) : Golding, William
 * http://viaf.org/viaf/38364518 (700) : Goligorsky, Eduardo / Golygorsky, Eduardo
+* http://viaf.org/viaf/17472763 (700) : González, Jorge
 * http://viaf.org/viaf/168510499 (700) : Graff, Finn
 * http://viaf.org/viaf/47147905054079090956 (700) : Gray, David B
 * http://viaf.org/viaf/14894463 (700) : Gregor, Ian
@@ -54,14 +57,18 @@ Agenter identifisert med URI
 * http://viaf.org/viaf/303443830 (100) : Kaiser, Gerd
 * http://viaf.org/viaf/282585329 (100) : Keller, Rolf Heinrich
 * http://www.example.org/names/kingmartin (100) : King, Martin
+* http://viaf.org/viaf/97113511 (700) : King, Stephen
 * http://viaf.org/viaf/6049 (700) : Kinkead-Weekes, Mark
 * http://viaf.org/viaf/87945378 (700) : Laurora, Horacio
 * http://viaf.org/viaf/64110679 (700) : Lausund, Olav
 * http://example.org/names/leipeursula (700) : Leipe, Ursula
 * https://www.imdb.com/name/nm0503370/ (700) : Leppard, Raymond
+* http://viaf.org/viaf/108497462 (700) : Lively, Penelope
 * http://viaf.org/viaf/306134082 (100) : Machin, Roger
 * http://viaf.org/viaf/89819722 (100) : Mahoney, John
 * http://www.example.org/names/martinstewart (700) : Martin, Stewart
+* http://viaf.org/viaf/24835909 (700) : McCrum, Robert
+* http://viaf.org/viaf/109587997 (700) : McEwan, Ian
 * http://viaf.org/viaf/37534075 (100) : Meitcke, W
 * https://www.imdb.com/name/nm0589869 (700) : Milloy, Ross
 * http://viaf.org/viaf/268149196258474790407 (700) : Mullan, John
@@ -72,7 +79,9 @@ Agenter identifisert med URI
 * https://www.imdb.com/name/nm0684999/ (700) : Pipoly, Daniel
 * http://viaf.org/viaf/262356343 (100, 700) : Poppe, Reiner
 * http://viaf.org/viaf/581145857119122922888 (700) : Quijada, Encarna
+* http://viaf.org/viaf/109262065 (700) : Raine, Craig
 * http://example.org/names/richterirmgard (700) : Richter, Irmgard
+* http://viaf.org/viaf/79549905 (700) : Rosoff, Meg
 * http://www.example.org/names/ryumnils (700) : Ryum, Nils
 * http://viaf.org/viaf/85823749 (700) : Salvador, Tomás
 * http://viaf.org/viaf/19389226 (700) : Santos Fontenla, Fernando
@@ -89,6 +98,7 @@ Agenter identifisert med URI
 * http://viaf.org/viaf/265448232 (100) : Sumner, Rosemary
 * http://viaf.org/viaf/79155403 (700) : Torberg, Peter
 * http://viaf.org/viaf/86744222 (700) : Vergara, Carmen
+* http://viaf.org/viaf/webersam (700) : Weber, Sam
 * http://viaf.org/viaf/86448713 (100) : Williams, Nigel
 * http://viaf.org/viaf/94686807 (100) : Wilson, Raymond
 * http://viaf.org/viaf/75131190 (700) : Ziegler, Arthur P
@@ -169,8 +179,8 @@ verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 * http://rdaregistry.info/Elements/e/object/P20022 (has narrator agent) : 1 
 * http://rdaregistry.info/Elements/e/object/P20037 (has translator agent) : 162 
 * http://rdaregistry.info/Elements/m/object/P30267 (has related agent of manifestation) : 7 
-* http://rdaregistry.info/Elements/m/object/P30321 (has contributor agent of still image) : 2 
-* http://rdaregistry.info/Elements/m/object/P30328 (has contributor agent of text) : 15 
+* http://rdaregistry.info/Elements/m/object/P30321 (has contributor agent of still image) : 4 
+* http://rdaregistry.info/Elements/m/object/P30328 (has contributor agent of text) : 27 
 * http://rdaregistry.info/Elements/w/object/P10013 (has film director agent) : 4 
 * http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work) : 3 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 355 
