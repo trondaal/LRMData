@@ -32,6 +32,39 @@
             {
                 "concept": {
                     "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/cat"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Catalan"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/chi"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Chinese"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/cze"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Czech"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
                     "value": "http://id.loc.gov/vocabulary/iso639-2/dan"
                 },
                 "label": {
@@ -109,12 +142,67 @@
             {
                 "concept": {
                     "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/gre"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Greek"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/heb"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Hebrew"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/hun"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Hungarian"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
                     "value": "http://id.loc.gov/vocabulary/iso639-2/ice"
                 },
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
                     "value": "Icelandic"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/ita"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Italian"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/kor"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Korean"
                 }
             },
             {
@@ -197,6 +285,28 @@
             {
                 "concept": {
                     "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/rum"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Romanian"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/rus"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Russian"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
                     "value": "http://id.loc.gov/vocabulary/iso639-2/spa"
                 },
                 "label": {
@@ -214,6 +324,17 @@
                     "xml:lang": "gden",
                     "type": "literal",
                     "value": "Swedish"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/tur"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Turkish"
                 }
             },
             {
@@ -384,6 +505,17 @@
             {
                 "concept": {
                     "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1018"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Tactile text"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
                     "value": "http://rdaregistry.info/termList/RDAContentType/1020"
                 },
                 "label": {
@@ -412,6 +544,17 @@
                     "xml:lang": "gden",
                     "type": "literal",
                     "value": "Audio"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1002"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Microform"
                 }
             },
             {

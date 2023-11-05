@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:map="http://www.w3.org/2005/xpath-functions/map"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:rdac="http://rdaregistry.info/Elements/c/"
+         xmlns:rdaad="http://rdaregistry.info/Elements/a/datatype/"
+         xmlns:rdaao="http://rdaregistry.info/Elements/a/object/"
+         xmlns:rdawd="http://rdaregistry.info/Elements/w/datatype/"
+         xmlns:rdawo="http://rdaregistry.info/Elements/w/object/"
+         xmlns:rdaed="http://rdaregistry.info/Elements/e/datatype/"
+         xmlns:rdaeo="http://rdaregistry.info/Elements/e/object/"
+         xmlns:rdamd="http://rdaregistry.info/Elements/m/datatype/"
+         xmlns:rdamo="http://rdaregistry.info/Elements/m/object/"
+         xmlns:rdaxd="http://rdaregistry.info/Elements/x/datatype/"
+         xmlns:mads="http://www.loc.gov/mads/rdf/v1#"
+         xmlns:mmmm="http://www.loc.gov/MARC21/slim/"
+         xmlns:rdaco="http://rdaregistry.info/termList/RDAContentType/"
+         xmlns:rdact="http://rdaregistry.info/termList/RDACarrierType/"
+         xmlns:rdamt="http://rdaregistry.info/termList/RDAMediaType/"
+         xmlns:rdat="http://rdaregistry.info/termList/"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:ex="http://www.example.org/">
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/9014152502908610800009">
+      <rdaxd:P00018>http://viaf.org/viaf/9014152502908610800009</rdaxd:P00018>
+      <rdawd:P10088>Lord of the rings : a reader's companion</rdawd:P10088>
+      <rdfs:label>Lord of the rings : a reader's companion (Hammond, Wayne G.)</rdfs:label>
+      <rdaxd:P00029>Non-fiction</rdaxd:P00029>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59153962"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/54260077"/>
+      <rdawo:P10257 rdf:resource="http://www.wikidata.org/entity/Q15228"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.wikidata.org/entity/Q15228">
+      <rdaxd:P00018>http://www.wikidata.org/entity/Q15228</rdaxd:P00018>
+      <rdawd:P10088>Lord of the rings</rdawd:P10088>
+      <rdfs:label>Lord of the rings (Tolkien, J. R. R.)</rdfs:label>
+      <rdaxd:P00029>Collection</rdaxd:P00029>
+      <rdaxd:P00029>Novel</rdaxd:P00029>
+      <rdfs:label>Lord of the rings</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/95218067"/>
+      <rdawo:P10122 rdf:resource="http://www.wikidata.org/entity/Q74287"/>
+      <rdawo:P10147 rdf:resource="http://www.wikidata.org/entity/Q208002"/>
+      <rdawo:P10147 rdf:resource="http://www.wikidata.org/entity/Q332388"/>
+      <rdawo:P10147 rdf:resource="http://www.wikidata.org/entity/Q332581"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.wikidata.org/entity/Q15228/companioned">
+      <rdaxd:P00018>http://www.wikidata.org/entity/Q15228/companioned</rdaxd:P00018>
+      <rdawd:P10088>Lord of the rings</rdawd:P10088>
+      <rdfs:label>Lord of the rings (Tolkien, J. R. R.)</rdfs:label>
+      <rdaxd:P00029>Collection</rdaxd:P00029>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/95218067"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.wikidata.org/entity/Q15228/extended">
+      <rdaxd:P00018>http://www.wikidata.org/entity/Q15228/extended</rdaxd:P00018>
+      <rdawd:P10088>The Hobbit ; Lord of the rings</rdawd:P10088>
+      <rdfs:label>The Hobbit ; Lord of the rings (Tolkien, J. R. R.)</rdfs:label>
+      <rdaxd:P00029>Collection</rdaxd:P00029>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/95218067"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.wikidata.org/entity/Q208002">
+      <rdaxd:P00018>http://www.wikidata.org/entity/Q208002</rdaxd:P00018>
+      <rdawd:P10088>Fellowship of the ring</rdawd:P10088>
+      <rdfs:label>Fellowship of the ring (Tolkien, J. R. R.)</rdfs:label>
+      <rdaxd:P00029>Novel</rdaxd:P00029>
+      <rdawd:P10088>The Fellowship of the ring</rdawd:P10088>
+      <rdfs:label>The Fellowship of the ring (Tolkien, J. R. R.)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/95218067"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.wikidata.org/entity/Q332388">
+      <rdaxd:P00018>http://www.wikidata.org/entity/Q332388</rdaxd:P00018>
+      <rdawd:P10088>Two towers</rdawd:P10088>
+      <rdfs:label>Two towers (Tolkien, J. R. R.)</rdfs:label>
+      <rdaxd:P00029>Novel</rdaxd:P00029>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/95218067"/>
+      <rdawo:P10122 rdf:resource="http://www.wikidata.org/entity/Q208002"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.wikidata.org/entity/Q332581">
+      <rdaxd:P00018>http://www.wikidata.org/entity/Q332581</rdaxd:P00018>
+      <rdawd:P10088>Return of the king</rdawd:P10088>
+      <rdfs:label>Return of the king (Tolkien, J. R. R.)</rdfs:label>
+      <rdaxd:P00029>Novel</rdaxd:P00029>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/95218067"/>
+      <rdawo:P10122 rdf:resource="http://www.wikidata.org/entity/Q332388"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.wikidata.org/entity/Q503325">
+      <rdaxd:P00018>http://www.wikidata.org/entity/Q503325</rdaxd:P00018>
+      <rdawd:P10088>The war of the ring</rdawd:P10088>
+      <rdfs:label>The war of the ring (Tolkien, J. R. R.)</rdfs:label>
+      <rdaxd:P00029>Novel</rdaxd:P00029>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10055 rdf:resource="http://viaf.org/viaf/12315790"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/95218067"/>
+      <rdawo:P10257 rdf:resource="http://www.wikidata.org/entity/Q15228"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.wikidata.org/entity/Q74287">
+      <rdaxd:P00018>http://www.wikidata.org/entity/Q74287</rdaxd:P00018>
+      <rdawd:P10088>The hobbit, or there and back again</rdawd:P10088>
+      <rdfs:label>The hobbit, or there and back again (Tolkien, J. R. R.)</rdfs:label>
+      <rdaxd:P00029>Novel</rdaxd:P00029>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10020 rdf:resource="http://www.wikidata.org/entity/Q15228"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/95218067"/>
+   </rdac:C10001>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/102370266">
+      <rdaxd:P00018>http://viaf.org/viaf/102370266</rdaxd:P00018>
+      <rdaad:P50385>Dixon, Chuck</rdaad:P50385>
+      <rdfs:label>Dixon, Chuck</rdfs:label>
+      <rdaad:P50339>1954-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/112458453">
+      <rdaxd:P00018>http://viaf.org/viaf/112458453</rdaxd:P00018>
+      <rdaad:P50385>Lee, Alan</rdaad:P50385>
+      <rdfs:label>Lee, Alan</rdfs:label>
+      <rdaad:P50339>1947-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/1169314213724530007">
+      <rdaxd:P00018>http://viaf.org/viaf/1169314213724530007</rdaxd:P00018>
+      <rdaad:P50385>Grønnvik, Oddrun</rdaad:P50385>
+      <rdfs:label>Grønnvik, Oddrun</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/12315790">
+      <rdaxd:P00018>http://viaf.org/viaf/12315790</rdaxd:P00018>
+      <rdaad:P50385>Tolkien, Christopher</rdaad:P50385>
+      <rdfs:label>Tolkien, Christopher</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/14887593">
+      <rdaxd:P00018>http://viaf.org/viaf/14887593</rdaxd:P00018>
+      <rdaad:P50385>Wenzel, David</rdaad:P50385>
+      <rdfs:label>Wenzel, David</rdfs:label>
+      <rdaad:P50339>1950-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/223273427">
+      <rdaxd:P00018>http://viaf.org/viaf/223273427</rdaxd:P00018>
+      <rdaad:P50385>Engelsen, Janniche</rdaad:P50385>
+      <rdfs:label>Engelsen, Janniche</rdfs:label>
+      <rdaad:P50339>1958-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/224621493">
+      <rdaxd:P00018>http://viaf.org/viaf/224621493</rdaxd:P00018>
+      <rdaad:P50385>Røe, Knut</rdaad:P50385>
+      <rdfs:label>Røe, Knut</rdfs:label>
+      <rdaad:P50339>1949-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/24701800">
+      <rdaxd:P00018>http://viaf.org/viaf/24701800</rdaxd:P00018>
+      <rdaad:P50385>Ribu, Anders</rdaad:P50385>
+      <rdfs:label>Ribu, Anders</rdfs:label>
+      <rdaad:P50339>1956-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/267471594">
+      <rdaxd:P00018>http://viaf.org/viaf/267471594</rdaxd:P00018>
+      <rdaad:P50385>Myhren, Eilev Groven</rdaad:P50385>
+      <rdfs:label>Myhren, Eilev Groven</rdfs:label>
+      <rdaad:P50339>1973-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/35315716">
+      <rdaxd:P00018>http://viaf.org/viaf/35315716</rdaxd:P00018>
+      <rdaad:P50385>Fraser, Eric</rdaad:P50385>
+      <rdfs:label>Fraser, Eric</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/49263415">
+      <rdaxd:P00018>http://viaf.org/viaf/49263415</rdaxd:P00018>
+      <rdaad:P50385>Grathmer, Ingahild</rdaad:P50385>
+      <rdfs:label>Grathmer, Ingahild</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/54260077">
+      <rdaxd:P00018>http://viaf.org/viaf/54260077</rdaxd:P00018>
+      <rdaad:P50385>Scull, Christina</rdaad:P50385>
+      <rdfs:label>Scull, Christina</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/59153962">
+      <rdaxd:P00018>http://viaf.org/viaf/59153962</rdaxd:P00018>
+      <rdaad:P50385>Hammond, Wayne G</rdaad:P50385>
+      <rdfs:label>Hammond, Wayne G</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/65245833">
+      <rdaxd:P00018>http://viaf.org/viaf/65245833</rdaxd:P00018>
+      <rdaad:P50385>Høverstad, Torstein Bugge</rdaad:P50385>
+      <rdfs:label>Høverstad, Torstein Bugge</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/85751968">
+      <rdaxd:P00018>http://viaf.org/viaf/85751968</rdaxd:P00018>
+      <rdaad:P50385>Deming, Sean</rdaad:P50385>
+      <rdfs:label>Deming, Sean</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/9349441">
+      <rdaxd:P00018>http://viaf.org/viaf/9349441</rdaxd:P00018>
+      <rdaad:P50385>Agøy, Nils Ivar</rdaad:P50385>
+      <rdfs:label>Agøy, Nils Ivar</rdfs:label>
+      <rdaad:P50339>1959-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/95218067">
+      <rdaxd:P00018>http://viaf.org/viaf/95218067</rdaxd:P00018>
+      <rdaad:P50385>Tolkien, J. R. R</rdaad:P50385>
+      <rdfs:label>Tolkien, J. R. R</rdfs:label>
+      <rdaad:P50339>1892-1973</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://www.example.com/aasenfinn">
+      <rdaxd:P00018>http://www.example.com/aasenfinn</rdaxd:P00018>
+      <rdaad:P50385>Åsen, Finn</rdaad:P50385>
+      <rdfs:label>Åsen, Finn</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/9014152502908610800009/exp/eng/1020">
+      <rdaed:P20316>Lord of the rings : a reader's companion</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>The Lord of the rings : a reader's companion</rdaed:P20312>
+      <rdfs:label>The Lord of the rings</rdfs:label>
+      <rdaed:P20312>Lord of the rings : a reader's companion</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Lord of the rings : a reader's companion</rdfs:label>
+      <rdaed:P20315>Lord of the rings : a reader's companion</rdaed:P20315>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9014152502908610800009"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q15228/companioned/exp/eng/1020">
+      <rdaed:P20316>Lord of the rings</rdaed:P20316>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>The lord of the rings [boxed set]</rdaed:P20312>
+      <rdfs:label>The lord of the rings [boxed set]</rdfs:label>
+      <rdaed:P20071>The fellowship of the ring -- The two towers -- The return of the king -- Lord of the rings : a reader's companion / by Wayne G. Hammond and Christina Scull.</rdaed:P20071>
+      <rdaed:P20315>Lord of the rings</rdaed:P20315>
+      <rdfs:label>Lord of the rings</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q15228/companioned"/>
+      <rdaeo:P20319 rdf:resource="http://www.wikidata.org/entity/Q208002/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://www.wikidata.org/entity/Q332388/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://www.wikidata.org/entity/Q332581/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/9014152502908610800009/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://www.wikidata.org/entity/Q15228/exp/eng/1020"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q15228/exp/eng/1020">
+      <rdaed:P20316>Lord of the rings</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>The lord of the rings</rdaed:P20312>
+      <rdfs:label>The lord of the rings</rdfs:label>
+      <rdaed:P20071>The fellowship of the ring -- The two towers -- The return of the king.</rdaed:P20071>
+      <rdaed:P20312>Lord of the rings</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Lord of the rings</rdfs:label>
+      <rdaed:P20315>Lord of the rings</rdaed:P20315>
+      <rdaxd:P00018>http://www.wikidata.org/entity/Q15228/exp/eng/1020</rdaxd:P00018>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20145 rdf:resource="http://www.wikidata.org/entity/Q208002/exp/eng/1020"/>
+      <rdaeo:P20145 rdf:resource="http://www.wikidata.org/entity/Q332388/exp/eng/1020"/>
+      <rdaeo:P20145 rdf:resource="http://www.wikidata.org/entity/Q332581/exp/eng/1020"/>
+      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q15228"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q15228/exp/nob/1020/65245833">
+      <rdaed:P20316>Lord of the rings</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Ringenes herre</rdaed:P20312>
+      <rdfs:label>Ringenes herre</rdfs:label>
+      <rdaed:P20071>Ringens brorskap -- To tårn -- Atter en konge</rdaed:P20071>
+      <rdaed:P20315>Ringenes herre</rdaed:P20315>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/65245833"/>
+      <rdaeo:P20141 rdf:resource="http://www.wikidata.org/entity/Q15228/exp/eng/1020"/>
+      <rdaeo:P20145 rdf:resource="http://www.wikidata.org/entity/Q208002/exp/nob/1020/65245833"/>
+      <rdaeo:P20145 rdf:resource="http://www.wikidata.org/entity/Q332388/exp/nob/1020/65245833"/>
+      <rdaeo:P20145 rdf:resource="http://www.wikidata.org/entity/Q332581/exp/nob/1020/65245833"/>
+      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q15228"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q15228/extended/exp/eng/1020">
+      <rdaed:P20316>The Hobbit ; Lord of the rings</rdaed:P20316>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>The hobbit ; The lord of the rings</rdaed:P20312>
+      <rdfs:label>The hobbit ; The lord of the rings</rdfs:label>
+      <rdaed:P20312>The Hobbit ; The fellowship of the ring ; The two towers ; [and] The return of the king [box set]</rdaed:P20312>
+      <rdfs:label>The Hobbit ; The fellowship of the ring ; The two towers ; [and] The return of the king [box set]</rdfs:label>
+      <rdaed:P20071>The hobbit, or there and back again -- The fellowship of the ring -- The two towers -- The return of the king</rdaed:P20071>
+      <rdaed:P20315>The Hobbit ; Lord of the rings</rdaed:P20315>
+      <rdfs:label>The Hobbit ; Lord of the rings</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q15228/extended"/>
+      <rdaeo:P20319 rdf:resource="http://www.wikidata.org/entity/Q74287/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://www.wikidata.org/entity/Q208002/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://www.wikidata.org/entity/Q332388/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://www.wikidata.org/entity/Q332581/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://www.wikidata.org/entity/Q15228/exp/eng/1020"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q208002/exp/eng/1020">
+      <rdaed:P20316>Fellowship of the ring</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>The fellowship of the ring : being the first part of The Lord of the Rings</rdaed:P20312>
+      <rdfs:label>The fellowship of the ring</rdfs:label>
+      <rdaed:P20312>Fellowship of the ring</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Fellowship of the ring</rdfs:label>
+      <rdaed:P20312>The Fellowship of the ring</rdaed:P20312>
+      <rdaed:P20315>Fellowship of the ring</rdaed:P20315>
+      <rdaxd:P00018>http://www.wikidata.org/entity/Q208002/exp/eng/1020</rdaxd:P00018>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q208002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q208002/exp/nob/1013/24701800/65245833">
+      <rdaed:P20316>Fellowship of the ring</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Ringenes herre I : ringens brorskap</rdaed:P20312>
+      <rdfs:label>Ringenes herre I</rdfs:label>
+      <rdaed:P20315>Ringens brorskap</rdaed:P20315>
+      <rdfs:label>Ringens brorskap</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20022 rdf:resource="http://viaf.org/viaf/24701800"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/65245833"/>
+      <rdaeo:P20141 rdf:resource="http://www.wikidata.org/entity/Q208002/exp/eng/1020"/>
+      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q208002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q208002/exp/nob/1020/65245833">
+      <rdaed:P20312>Fellowship of the ring</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Fellowship of the ring</rdfs:label>
+      <rdaed:P20315>Ringens brorskap</rdaed:P20315>
+      <rdfs:label>Ringens brorskap</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/65245833"/>
+      <rdaeo:P20141 rdf:resource="http://www.wikidata.org/entity/Q208002/exp/eng/1020"/>
+      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q208002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q332388/exp/eng/1020">
+      <rdaed:P20316>Two towers</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>The two towers : being the second part of The lord of the rings</rdaed:P20312>
+      <rdfs:label>The two towers</rdfs:label>
+      <rdaed:P20312>Two towers</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Two towers</rdfs:label>
+      <rdaed:P20315>Two towers</rdaed:P20315>
+      <rdaxd:P00018>http://www.wikidata.org/entity/Q332388/exp/eng/1020</rdaxd:P00018>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q332388"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q332388/exp/nob/1013/24701800/65245833">
+      <rdaed:P20316>Two towers</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Ringenes herre II : to tårn</rdaed:P20312>
+      <rdfs:label>Ringenes herre II</rdfs:label>
+      <rdaed:P20315>To tårn</rdaed:P20315>
+      <rdfs:label>To tårn</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20022 rdf:resource="http://viaf.org/viaf/24701800"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/65245833"/>
+      <rdaeo:P20141 rdf:resource="http://www.wikidata.org/entity/Q332388/exp/eng/1020"/>
+      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q332388"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q332388/exp/nob/1020/65245833">
+      <rdaed:P20312>Two towers</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Two towers</rdfs:label>
+      <rdaed:P20315>To tårn</rdaed:P20315>
+      <rdfs:label>To tårn</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/65245833"/>
+      <rdaeo:P20141 rdf:resource="http://www.wikidata.org/entity/Q332388/exp/eng/1020"/>
+      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q332388"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q332581/exp/eng/1020">
+      <rdaed:P20316>Return of the king</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>The return of the king : being the third part of The lord of the rings</rdaed:P20312>
+      <rdfs:label>The return of the king</rdfs:label>
+      <rdaed:P20312>Return of the king</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Return of the king</rdfs:label>
+      <rdaed:P20315>Return of the king</rdaed:P20315>
+      <rdaxd:P00018>http://www.wikidata.org/entity/Q332581/exp/eng/1020</rdaxd:P00018>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q332581"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q332581/exp/nob/1013/24701800/65245833">
+      <rdaed:P20316>Return of the king</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Ringenes herre III : atter en konge</rdaed:P20312>
+      <rdfs:label>Ringenes herre III</rdfs:label>
+      <rdaed:P20315>Atter en konge</rdaed:P20315>
+      <rdfs:label>Atter en konge</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20022 rdf:resource="http://viaf.org/viaf/24701800"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/65245833"/>
+      <rdaeo:P20141 rdf:resource="http://www.wikidata.org/entity/Q332581/exp/eng/1020"/>
+      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q332581"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q332581/exp/nob/1020/65245833">
+      <rdaed:P20312>Return of the king</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Return of the king</rdfs:label>
+      <rdaed:P20315>Atter en konge</rdaed:P20315>
+      <rdfs:label>Atter en konge</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/65245833"/>
+      <rdaeo:P20141 rdf:resource="http://www.wikidata.org/entity/Q332581/exp/eng/1020"/>
+      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q332581"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q503325/exp/eng/1020">
+      <rdaed:P20316>The war of the ring</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>The war of the ring</rdaed:P20312>
+      <rdfs:label>The war of the ring</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q503325"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q74287/exp/eng/1014/1020/102370266/85751968">
+      <rdaed:P20316>The hobbit, or there and back again</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>The hobbit , or there and back again : [an illustrated edition of the fantasy classic]</rdaed:P20312>
+      <rdfs:label>The hobbit , or there and back again</rdfs:label>
+      <rdaed:P20315>The hobbit, or there and back again</rdaed:P20315>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1014"/>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q74287"/>
+      <rdaeo:P20283 rdf:resource="http://viaf.org/viaf/14887593"/>
+      <rdaeo:P20330 rdf:resource="http://viaf.org/viaf/102370266"/>
+      <rdaeo:P20330 rdf:resource="http://viaf.org/viaf/85751968"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q74287/exp/eng/1020">
+      <rdaed:P20316>The hobbit, or there and back again</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>The hobbit, or there and back again</rdaed:P20312>
+      <rdfs:label>The hobbit, or there and back again</rdfs:label>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdaed:P20315>The hobbit, or there and back again</rdaed:P20315>
+      <rdaxd:P00018>http://www.wikidata.org/entity/Q74287/exp/eng/1020</rdaxd:P00018>
+      <rdfs:label>The Hobbit</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q74287"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q74287/exp/nno/1020/267471594">
+      <rdaed:P20316>The hobbit, or there and back again</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Hobbiten, eller Ditut og attende</rdaed:P20312>
+      <rdfs:label>Hobbiten, eller Ditut og attende</rdfs:label>
+      <rdaed:P20315>Hobbiten, eller Ditut og attende</rdaed:P20315>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/267471594"/>
+      <rdaeo:P20141 rdf:resource="http://www.wikidata.org/entity/Q74287/exp/eng/1020"/>
+      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q74287"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q74287/exp/nob/1013/1169314213724530007/224621493/aasenfinn">
+      <rdaed:P20316>The hobbit, or there and back again</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Hobbiten</rdaed:P20312>
+      <rdfs:label>Hobbiten</rdfs:label>
+      <rdaed:P20315>Hobbiten</rdaed:P20315>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20022 rdf:resource="http://viaf.org/viaf/224621493"/>
+      <rdaeo:P20037 rdf:resource="http://www.example.com/aasenfinn"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/1169314213724530007"/>
+      <rdaeo:P20141 rdf:resource="http://www.wikidata.org/entity/Q74287/exp/eng/1020"/>
+      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q74287"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q74287/exp/nob/1020/9349441">
+      <rdaed:P20316>The hobbit, or there and back again</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Hobbiten, eller Fram og tilbake igjen</rdaed:P20312>
+      <rdfs:label>Hobbiten, eller Fram og tilbake igjen</rdfs:label>
+      <rdaed:P20315>Hobbiten, eller Fram og tilbake igjen</rdaed:P20315>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/9349441"/>
+      <rdaeo:P20141 rdf:resource="http://www.wikidata.org/entity/Q74287/exp/eng/1020"/>
+      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q74287"/>
+   </rdac:C10006>
+   <rdac:C10007 rdf:about="http://example.org/010109954">
+      <rdamd:P30156>The fellowship of the ring</rdamd:P30156>
+      <rdamd:P30142>being the first part of The Lord of the Rings</rdamd:P30142>
+      <rdamd:P30107>2nd edition</rdamd:P30107>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : George Allen &amp; Unwin, 1966.</rdamd:P30111>
+      <rdamd:P30083>George Allen &amp; Unwin</rdamd:P30083>
+      <rdamd:P30011>1966</rdamd:P30011>
+      <rdamd:P30007>©1966</rdamd:P30007>
+      <rdamd:P30182>423 pages : maps, 23 cm.</rdamd:P30182>
+      <rdamd:P30106>The Lord of the rings ;</rdamd:P30106>
+      <rdamd:P30165>v. 1.</rdamd:P30165>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q208002/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/012525966">
+      <rdamd:P30156>The Lord of the rings</rdamd:P30156>
+      <rdamd:P30117>J.R.R. Tolkien ; illustrations by Ingahild Grathmer, drawn by Eric Fraser</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Folio Society, 1977.</rdamd:P30111>
+      <rdamd:P30083>Folio Society</rdamd:P30083>
+      <rdamd:P30011>1977</rdamd:P30011>
+      <rdamd:P30182>3 v. (459 p.; 372 p.; 487 p.) : ill., maps (on lining papers), 24 cm.</rdamd:P30182>
+      <rdamd:P30137>In slip case.</rdamd:P30137>
+      <rdamd:P30137>Originally published: London : Allen and Unwin, 1954-55.</rdamd:P30137>
+      <rdamd:P30137>Includes index.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q15228/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q208002/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332388/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332581/exp/eng/1020"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/49263415"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/35315716"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/013161843">
+      <rdamd:P30156>The fellowship of the ring</rdamd:P30156>
+      <rdamd:P30142>being the first part of The Lord of the Rings</rdamd:P30142>
+      <rdamd:P30117>by J. R. R. Tolkien</rdamd:P30117>
+      <rdamd:P30088>Oxford</rdamd:P30088>
+      <rdamd:P30111>Oxford : George Allen &amp; Unwin, 1954.</rdamd:P30111>
+      <rdamd:P30083>George Allen &amp; Unwin</rdamd:P30083>
+      <rdamd:P30011>1954</rdamd:P30011>
+      <rdamd:P30182>423 p., : ill., 23 cm.</rdamd:P30182>
+      <rdamd:P30106>The Lord of the rings ;</rdamd:P30106>
+      <rdamd:P30165>1</rdamd:P30165>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q208002/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/013171596">
+      <rdamd:P30156>The return of the king</rdamd:P30156>
+      <rdamd:P30142>being the third part of The lord of the rings</rdamd:P30142>
+      <rdamd:P30117>by J.R.R. Tolkien</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : George Allen &amp; Unwin, 1955.</rdamd:P30111>
+      <rdamd:P30083>George Allen &amp; Unwin</rdamd:P30083>
+      <rdamd:P30011>1955</rdamd:P30011>
+      <rdamd:P30182>416 p. : maps, 23 cm.</rdamd:P30182>
+      <rdamd:P30106>The lord of the rings ;</rdamd:P30106>
+      <rdamd:P30165>pt. 3</rdamd:P30165>
+      <rdamd:P30137>Map on folded sheet attached to inside cover.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332581/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/019684439">
+      <rdamd:P30156>The war of the ring</rdamd:P30156>
+      <rdamd:P30117>J.R.R. Tolkien ; edited by Christopher Tolkien</rdamd:P30117>
+      <rdamd:P30107>[New] paperback edition</rdamd:P30107>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : HarperCollins Publishers, 2002.</rdamd:P30111>
+      <rdamd:P30083>HarperCollins Publishers</rdamd:P30083>
+      <rdamd:P30011>2002</rdamd:P30011>
+      <rdamd:P30007>©1990</rdamd:P30007>
+      <rdamd:P30182>xi, 476 pages : illustrations, maps, 20 cm.</rdamd:P30182>
+      <rdamd:P30106>The history of the Lord of the rings ;</rdamd:P30106>
+      <rdamd:P30165>part 3</rdamd:P30165>
+      <rdamd:P30106>The history of Middle-earth ;</rdamd:P30106>
+      <rdamd:P30165>8</rdamd:P30165>
+      <rdamd:P30137>"This paperback edition 2002." --Title page verso.</rdamd:P30137>
+      <rdamd:P30137>First published in Great Britain: London, Unwin Hyman, 1990. Previously published in paperback by Grafton 1992. First published in paperback by HarperCollins Publishers 1997.</rdamd:P30137>
+      <rdamd:P30137>Also issued as part of a 4 volumes set in slip-case with slip-case title: The history of the Lord of the rings.</rdamd:P30137>
+      <rdamd:P30137>Includes index.</rdamd:P30137>
+      <rdamd:P30137>ISBN is of 1992 Grafton edition.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q503325/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-000720308">
+      <rdamd:P30004>ISBN 000720308X (hbk.)</rdamd:P30004>
+      <rdaxd:P00018>isbn-000720308</rdaxd:P00018>
+      <rdfs:label>ISBN000720308X (hbk.)</rdfs:label>
+      <rdamd:P30004>ISBN 000720907X (pbk.)</rdamd:P30004>
+      <rdaxd:P00018>isbn-000720907</rdaxd:P00018>
+      <rdfs:label>ISBN000720907X (pbk.)</rdfs:label>
+      <rdamd:P30156>The Lord of the rings</rdamd:P30156>
+      <rdamd:P30142>a reader's companion</rdamd:P30142>
+      <rdamd:P30117>by Wayne G. Hammond and Christina Scull</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : HarperCollins, 2005.</rdamd:P30111>
+      <rdamd:P30083>HarperCollins</rdamd:P30083>
+      <rdamd:P30011>2005</rdamd:P30011>
+      <rdamd:P30182>lxxxii, 894 p., 23 cm.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9014152502908610800009/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0044400918">
+      <rdamd:P30004>ISBN 0044400918</rdamd:P30004>
+      <rdaxd:P00018>isbn-0044400918</rdaxd:P00018>
+      <rdfs:label>ISBN0044400918</rdfs:label>
+      <rdamd:P30156>The hobbit, or there and back again</rdamd:P30156>
+      <rdamd:P30117>J. R. R. Tolkien</rdamd:P30117>
+      <rdamd:P30107>Anniversary super de luxe edition</rdamd:P30107>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Unwin Hyman Limited, 1987.</rdamd:P30111>
+      <rdamd:P30083>Unwin Hyman Limited</rdamd:P30083>
+      <rdamd:P30011>1987</rdamd:P30011>
+      <rdamd:P30007>© 1987</rdamd:P30007>
+      <rdamd:P30182>1 volume.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q74287/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0044403054">
+      <rdamd:P30004>ISBN 0044403054</rdamd:P30004>
+      <rdaxd:P00018>isbn-0044403054</rdaxd:P00018>
+      <rdfs:label>ISBN0044403054</rdfs:label>
+      <rdamd:P30156>The Lord of the rings</rdamd:P30156>
+      <rdamd:P30117>J.R.R. Tolkien</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Unwin Hyman, 1988.</rdamd:P30111>
+      <rdamd:P30083>Unwin Hyman</rdamd:P30083>
+      <rdamd:P30011>1988</rdamd:P30011>
+      <rdamd:P30182>1193 p, 23 cm.</rdamd:P30182>
+      <rdamd:P30137>Contents: Part 1. The fellowship of the ring - Part 2. The two towers - Part 3. The return of the king.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q15228/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q208002/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332388/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332581/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0044403984">
+      <rdamd:P30004>ISBN 0044403984</rdamd:P30004>
+      <rdaxd:P00018>isbn-0044403984</rdaxd:P00018>
+      <rdfs:label>ISBN0044403984</rdfs:label>
+      <rdamd:P30156>The lost road and other writings</rdamd:P30156>
+      <rdamd:P30142>language and legend before 'The Lord of the Rings'</rdamd:P30142>
+      <rdamd:P30117>J.R.R. Tolkien ; edited by Christopher Tolkien</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Unwin Paperbacks, 1989.</rdamd:P30111>
+      <rdamd:P30083>Unwin Paperbacks</rdamd:P30083>
+      <rdamd:P30011>1989</rdamd:P30011>
+      <rdamd:P30182>455 p. : maps, 20 cm.</rdamd:P30182>
+      <rdamd:P30033>Part one : The Fall of Numenor and The lost road -- Part two : Valinor and Middle Earth before The lord of the rings -- Part three : The etymologies</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0048230464">
+      <rdamd:P30004>ISBN 0048230464</rdamd:P30004>
+      <rdaxd:P00018>isbn-0048230464</rdaxd:P00018>
+      <rdfs:label>ISBN0048230464</rdfs:label>
+      <rdamd:P30156>The two towers</rdamd:P30156>
+      <rdamd:P30142>being the second part of The lord of the rings</rdamd:P30142>
+      <rdamd:P30117>by J.R.R. Tolkien</rdamd:P30117>
+      <rdamd:P30107>2nd ed</rdamd:P30107>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Allen &amp; Unwin, 1966.</rdamd:P30111>
+      <rdamd:P30083>Allen &amp; Unwin</rdamd:P30083>
+      <rdamd:P30011>1966</rdamd:P30011>
+      <rdamd:P30182>352 p. : ill., 1 map, 23 cm.</rdamd:P30182>
+      <rdamd:P30106>The Lord of the rings ;</rdamd:P30106>
+      <rdamd:P30165>v. 2</rdamd:P30165>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332388/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0048230472">
+      <rdamd:P30004>ISBN 0048230472</rdamd:P30004>
+      <rdaxd:P00018>isbn-0048230472</rdaxd:P00018>
+      <rdfs:label>ISBN0048230472</rdfs:label>
+      <rdamd:P30156>The return of the king</rdamd:P30156>
+      <rdamd:P30142>being the third part of The lord of the rings</rdamd:P30142>
+      <rdamd:P30117>by J.R.R. Tolkien</rdamd:P30117>
+      <rdamd:P30107>2nd ed</rdamd:P30107>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Allen &amp; Unwin, 1966.</rdamd:P30111>
+      <rdamd:P30083>Allen &amp; Unwin</rdamd:P30083>
+      <rdamd:P30011>1966</rdamd:P30011>
+      <rdamd:P30182>440 p. : ill., facsims., table, diagrs., 23 cm.</rdamd:P30182>
+      <rdamd:P30106>The Lord of the rings ;</rdamd:P30106>
+      <rdamd:P30165>v.3</rdamd:P30165>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332581/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0261102303">
+      <rdamd:P30004>ISBN 0261102303</rdamd:P30004>
+      <rdaxd:P00018>isbn-0261102303</rdaxd:P00018>
+      <rdfs:label>ISBN0261102303</rdfs:label>
+      <rdamd:P30156>The Lord of the rings</rdamd:P30156>
+      <rdamd:P30117>J.R.R. Tolkien ; illustrated by Alan Lee</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Harper Collins, 1991.</rdamd:P30111>
+      <rdamd:P30083>Harper Collins</rdamd:P30083>
+      <rdamd:P30011>1991</rdamd:P30011>
+      <rdamd:P30182>1193 p., [50] leaves of plates : ill. (some col.), geneal. tables, maps, 26 cm.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q15228/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q208002/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332388/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332581/exp/eng/1020"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/112458453"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8210044478">
+      <rdamd:P30004>ISBN 8210044478</rdamd:P30004>
+      <rdaxd:P00018>isbn-8210044478</rdaxd:P00018>
+      <rdfs:label>ISBN8210044478</rdfs:label>
+      <rdamd:P30156>Ringenes herre</rdamd:P30156>
+      <rdamd:P30117>av J.R.R. Tolkien ; til norsk ved Torstein Bugge Høverstad</rdamd:P30117>
+      <rdamd:P30107>5. utg</rdamd:P30107>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Tiden, 1999.</rdamd:P30111>
+      <rdamd:P30083>Tiden</rdamd:P30083>
+      <rdamd:P30011>1999</rdamd:P30011>
+      <rdamd:P30182>1095 s. : kart.</rdamd:P30182>
+      <rdamd:P30137>1. norske utg. Oslo : Tiden, 1973-1975 i 3 b. med tittel: Krigen om ringen</rdamd:P30137>
+      <rdamd:P30033>Ringens brorskap -- To tårn -- Atter en konge</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q15228/exp/nob/1020/65245833"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q208002/exp/nob/1020/65245833"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332388/exp/nob/1020/65245833"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332581/exp/nob/1020/65245833"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8278441618">
+      <rdamd:P30004>ISBN 8278441618</rdamd:P30004>
+      <rdaxd:P00018>isbn-8278441618</rdaxd:P00018>
+      <rdfs:label>ISBN8278441618</rdfs:label>
+      <rdamd:P30156>Ringenes herre I</rdamd:P30156>
+      <rdamd:P30142>ringens brorskap</rdamd:P30142>
+      <rdamd:P30117>J.R.R. Tolkien ; [oversatt av Torstein Bugge Høverstad]</rdamd:P30117>
+      <rdamd:P30088>Billingstad</rdamd:P30088>
+      <rdamd:P30111>Billingstad : Fono forl., 2003.</rdamd:P30111>
+      <rdamd:P30083>Fono forl</rdamd:P30083>
+      <rdamd:P30011>2003</rdamd:P30011>
+      <rdamd:P30182>16 plater (CD) (19 t) : digital, 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30137>Lest av Anders Ribu</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q208002/exp/nob/1013/24701800/65245833"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8278441626">
+      <rdamd:P30004>ISBN 8278441626</rdamd:P30004>
+      <rdaxd:P00018>isbn-8278441626</rdaxd:P00018>
+      <rdfs:label>ISBN8278441626</rdfs:label>
+      <rdamd:P30156>Ringenes herre II</rdamd:P30156>
+      <rdamd:P30142>to tårn</rdamd:P30142>
+      <rdamd:P30117>J.R.R. Tolkien ; [oversatt av Torstein Bugge Høverstad]</rdamd:P30117>
+      <rdamd:P30088>Billingstad</rdamd:P30088>
+      <rdamd:P30111>Billingstad : Fono forl., 2003.</rdamd:P30111>
+      <rdamd:P30083>Fono forl</rdamd:P30083>
+      <rdamd:P30011>2003</rdamd:P30011>
+      <rdamd:P30182>15 plater (CD) (17 t, 20 min) : digital, 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30137>Lest av Anders Ribu</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332388/exp/nob/1013/24701800/65245833"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8278441634">
+      <rdamd:P30004>ISBN 8278441634</rdamd:P30004>
+      <rdaxd:P00018>isbn-8278441634</rdaxd:P00018>
+      <rdfs:label>ISBN8278441634</rdfs:label>
+      <rdamd:P30156>Ringenes herre III</rdamd:P30156>
+      <rdamd:P30142>atter en konge</rdamd:P30142>
+      <rdamd:P30117>J.R.R. Tolkien ; [oversatt av: Torstein Bugge Høverstad]</rdamd:P30117>
+      <rdamd:P30088>Billingstad</rdamd:P30088>
+      <rdamd:P30111>Billingstad : Fono forl., 2003.</rdamd:P30111>
+      <rdamd:P30083>Fono forl</rdamd:P30083>
+      <rdamd:P30011>2003</rdamd:P30011>
+      <rdamd:P30182>13 plater (CD) (15 t, 45 min) : digital, 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30137>Fortsettelse av: To tårn</rdamd:P30137>
+      <rdamd:P30137>Lest av Anders Ribu</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332581/exp/nob/1013/24701800/65245833"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8278441960">
+      <rdamd:P30004>ISBN 8278441960</rdamd:P30004>
+      <rdaxd:P00018>isbn-8278441960</rdaxd:P00018>
+      <rdfs:label>ISBN8278441960</rdfs:label>
+      <rdamd:P30004>ISBN 9788278441961</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788278441961</rdaxd:P00018>
+      <rdfs:label>ISBN9788278441961</rdfs:label>
+      <rdamd:P30156>Hobbiten</rdamd:P30156>
+      <rdamd:P30117>J.R.R. Tolkien ; [oversatt av: Finn Åsen, Oddrun Grønnvik]</rdamd:P30117>
+      <rdamd:P30088>Billingstad</rdamd:P30088>
+      <rdamd:P30111>Billingstad : Fono forl., 2005.</rdamd:P30111>
+      <rdamd:P30083>Fono forl</rdamd:P30083>
+      <rdamd:P30011>2005</rdamd:P30011>
+      <rdamd:P30182>8 plater (CD) (10 t) : digital, 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30137>1. norske lydbokutg. 1995</rdamd:P30137>
+      <rdamd:P30137>Lest av: Knut Røe</rdamd:P30137>
+      <rdamd:P30137>Nytt oppl. med 13-sifret ISBN utgitt av Aller forlag</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q74287/exp/nob/1013/1169314213724530007/224621493/aasenfinn"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9780007522934">
+      <rdamd:P30004>ISBN 9780007522934</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780007522934</rdaxd:P00018>
+      <rdfs:label>ISBN9780007522934</rdfs:label>
+      <rdamd:P30156>The Hobbit ; The fellowship of the ring ; The two towers ; [and] The return of the king [box set]</rdamd:P30156>
+      <rdamd:P30117>J.R.R. Tolkien</rdamd:P30117>
+      <rdamd:P30107>Collector's edition</rdamd:P30107>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : HarperCollinsPublishers, 2013.</rdamd:P30111>
+      <rdamd:P30083>HarperCollinsPublishers</rdamd:P30083>
+      <rdamd:P30011>2013</rdamd:P30011>
+      <rdamd:P30182>4 volumes : illustrations, 23 cm.</rdamd:P30182>
+      <rdamd:P30137>In case.</rdamd:P30137>
+      <rdamd:P30033>The hobbit, or there and back again -- The fellowship of the ring -- The two towers -- The return of the king</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q15228/extended/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q74287/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q208002/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332388/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332581/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q15228/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9780007556908">
+      <rdamd:P30004>ISBN 9780007556908 (hbk.)</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780007556908</rdaxd:P00018>
+      <rdfs:label>ISBN9780007556908 (hbk.)</rdfs:label>
+      <rdamd:P30156>The Lord of the rings</rdamd:P30156>
+      <rdamd:P30142>a reader's companion</rdamd:P30142>
+      <rdamd:P30117>by Wayne G. Hammond and Christina Scull</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : HarperCollinsPublishers, 2014.</rdamd:P30111>
+      <rdamd:P30083>HarperCollinsPublishers</rdamd:P30083>
+      <rdamd:P30011>2014</rdamd:P30011>
+      <rdamd:P30007>©2014</rdamd:P30007>
+      <rdamd:P30182>lxxxii, 894 pages : illustrations (colour), 23 cm.</rdamd:P30182>
+      <rdamd:P30137>First published: 2005.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9014152502908610800009/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9780007581146">
+      <rdamd:P30004>ISBN 9780007581146</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780007581146</rdaxd:P00018>
+      <rdfs:label>ISBN9780007581146</rdfs:label>
+      <rdamd:P30156>The lord of the rings [boxed set]</rdamd:P30156>
+      <rdamd:P30117>J.R.R. Tolkien</rdamd:P30117>
+      <rdamd:P30107>60th anniversary edition</rdamd:P30107>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : HarperCollinsPublishers, 2014.</rdamd:P30111>
+      <rdamd:P30083>HarperCollinsPublishers</rdamd:P30083>
+      <rdamd:P30011>2014</rdamd:P30011>
+      <rdamd:P30182>4 volumes : illustrations (some colour), maps, 24 cm.</rdamd:P30182>
+      <rdamd:P30137>In case.</rdamd:P30137>
+      <rdamd:P30137>Volumes also issued separately.</rdamd:P30137>
+      <rdamd:P30137>Set ISBN from plastic wrapper.</rdamd:P30137>
+      <rdamd:P30137>Includes index.</rdamd:P30137>
+      <rdamd:P30033>The fellowship of the ring -- The two towers -- The return of the king -- Lord of the rings : a reader's companion / by Wayne G. Hammond and Christina Scull.</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q15228/companioned/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q208002/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332388/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332581/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9014152502908610800009/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q15228/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9780008260187">
+      <rdamd:P30004>ISBN 9780008260187</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780008260187</rdaxd:P00018>
+      <rdfs:label>ISBN9780008260187</rdfs:label>
+      <rdamd:P30156>The hobbit ; The lord of the rings</rdamd:P30156>
+      <rdamd:P30117>J.R.R. Tolkien</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : HarperCollinsPublishers, 2017.</rdamd:P30111>
+      <rdamd:P30083>HarperCollinsPublishers</rdamd:P30083>
+      <rdamd:P30011>2017</rdamd:P30011>
+      <rdamd:P30007>©2017</rdamd:P30007>
+      <rdamd:P30182>4 volumes : illustrations (some colour), maps, 16 cm.</rdamd:P30182>
+      <rdamd:P30137>Title from slip case.</rdamd:P30137>
+      <rdamd:P30137>Issued in slip case.</rdamd:P30137>
+      <rdamd:P30033>The hobbit, or there and back again -- The fellowship of the ring -- The two towers -- The return of the king</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q15228/extended/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q74287/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q208002/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332388/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332581/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q15228/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9780008537807">
+      <rdamd:P30004>ISBN 9780008537807</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780008537807</rdaxd:P00018>
+      <rdfs:label>ISBN9780008537807</rdfs:label>
+      <rdamd:P30156>The lord of the rings</rdamd:P30156>
+      <rdamd:P30117>J.R.R. Tolkien</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : HarperCollinsPublishers, 2022.</rdamd:P30111>
+      <rdamd:P30083>HarperCollinsPublishers</rdamd:P30083>
+      <rdamd:P30011>2022</rdamd:P30011>
+      <rdamd:P30007>©1966</rdamd:P30007>
+      <rdamd:P30182>3 volumes : maps, 20 cm.</rdamd:P30182>
+      <rdamd:P30137>Includes index.</rdamd:P30137>
+      <rdamd:P30137>Issued in slip case.</rdamd:P30137>
+      <rdamd:P30137>"A new legend begins : The Rings of Power, prime video"</rdamd:P30137>
+      <rdamd:P30137>This paperback edition is based on the reset edition first published 2014, which is a revised version of the reset edition first published 2004.</rdamd:P30137>
+      <rdamd:P30137>First published by HarperCollinsPublishers in 1991.</rdamd:P30137>
+      <rdamd:P30137>First published in Great Britain by George Allen &amp; Unwin 1954, second edition 1966.</rdamd:P30137>
+      <rdamd:P30033>The fellowship of the ring -- The two towers -- The return of the king.</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q15228/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q208002/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332388/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332581/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9780261102668">
+      <rdamd:P30004>ISBN 9780261102668 (pbk.)</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780261102668</rdaxd:P00018>
+      <rdfs:label>ISBN9780261102668 (pbk.)</rdfs:label>
+      <rdamd:P30004>ISBN 0261102664 (pbk.)</rdamd:P30004>
+      <rdaxd:P00018>isbn-0261102664</rdaxd:P00018>
+      <rdfs:label>ISBN0261102664 (pbk.)</rdfs:label>
+      <rdamd:P30156>The hobbit , or there and back again</rdamd:P30156>
+      <rdamd:P30142>[an illustrated edition of the fantasy classic]</rdamd:P30142>
+      <rdamd:P30117>J.R.R. Tolkien ; illustrated by David Wenzel ; adapted by Charles Dixon with Sean Deming</rdamd:P30117>
+      <rdamd:P30107>Rev ed</rdamd:P30107>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Harper Collins, 2006.</rdamd:P30111>
+      <rdamd:P30083>Harper Collins</rdamd:P30083>
+      <rdamd:P30011>2006</rdamd:P30011>
+      <rdamd:P30182>133 p. : col. ill., col. map, 26 cm.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q74287/exp/eng/1014/1020/102370266/85751968"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/14887593"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788210050381">
+      <rdamd:P30004>ISBN 9788210050381</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788210050381</rdaxd:P00018>
+      <rdfs:label>ISBN9788210050381</rdfs:label>
+      <rdamd:P30156>Hobbiten, eller Ditut og attende</rdamd:P30156>
+      <rdamd:P30117>J.R.R. Tolkien ; omsett frå engelsk av Eilev Groven Myhren</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Tiden, 2008.</rdamd:P30111>
+      <rdamd:P30083>Tiden</rdamd:P30083>
+      <rdamd:P30011>2008</rdamd:P30011>
+      <rdamd:P30182>267 s.</rdamd:P30182>
+      <rdamd:P30137>1. norske utg. 1972</rdamd:P30137>
+      <rdamd:P30137>På omslag: Nynorsk</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30069 rdf:resource="http://viaf.org/viaf/223273427"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q74287/exp/nno/1020/267471594"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788210051197">
+      <rdamd:P30004>ISBN 9788210051197</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788210051197</rdaxd:P00018>
+      <rdfs:label>ISBN9788210051197</rdfs:label>
+      <rdamd:P30156>Hobbiten, eller Fram og tilbake igjen</rdamd:P30156>
+      <rdamd:P30117>J.R.R. Tolkien ; illustrert av Alan Lee ; oversatt av Nils Ivar Agøy</rdamd:P30117>
+      <rdamd:P30107>7. utg</rdamd:P30107>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Tiden, 2011.</rdamd:P30111>
+      <rdamd:P30083>Tiden</rdamd:P30083>
+      <rdamd:P30011>2011</rdamd:P30011>
+      <rdamd:P30182>293 s. : ill.</rdamd:P30182>
+      <rdamd:P30137>1. norske utg. 1972</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q74287/exp/nob/1020/9349441"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/112458453"/>
+   </rdac:C10007>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/eng">
+      <rdfs:label>eng</rdfs:label>
+      <skos:subjectIndicator>eng</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/nno">
+      <rdfs:label>nno</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/nob">
+      <rdfs:label>nob</rdfs:label>
+      <skos:subjectIndicator>nob</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1004">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1004</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1049">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1049</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1013">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1013</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1014">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1014</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1020">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1020</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1001">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1001</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1007">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1007</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://schema.nb.no/Bibliographic/Values/V1000">
+      <skos:subjectIndicator>https://schema.nb.no/Bibliographic/Values/V1000</skos:subjectIndicator>
+   </skos:Concept>
+</rdf:RDF>
