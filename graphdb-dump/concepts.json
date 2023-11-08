@@ -307,6 +307,17 @@
             {
                 "concept": {
                     "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/wel"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Welsh"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
                     "value": "http://rdaregistry.info/termList/RDACarrierType/1004"
                 },
                 "label": {
