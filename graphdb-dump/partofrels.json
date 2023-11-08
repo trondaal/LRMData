@@ -1114,25 +1114,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/2229156133228058430004"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/w/object/P10019"
-                },
-                "l": {
-                    "xml:lang": "en",
-                    "type": "literal",
-                    "value": "is part of work"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/jegreiseralene_eksempel"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/167149294306180521627/Alt/venner"
                 },
                 "p": {
@@ -2558,44 +2539,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/farmorharkabeltv_eksempel"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/w/object/P10019"
-                },
-                "l": {
-                    "xml:lang": "en",
-                    "type": "literal",
-                    "value": "is part of work"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/farmorharkabeltv;videogutten_eksempel"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/videogutten_eksempel"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/w/object/P10019"
-                },
-                "l": {
-                    "xml:lang": "en",
-                    "type": "literal",
-                    "value": "is part of work"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/farmorharkabeltv;videogutten_eksempel"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/34565761/Mars"
                 },
                 "p": {
@@ -2648,6 +2591,44 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/167149294306180521627/Alt/e/dine/venner"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/farmorharkabeltv-videogutten_eksempel"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10019"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "is part of work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/farmorharkabeltv_eksempel"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/farmorharkabeltv-videogutten_eksempel"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10019"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "is part of work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/videogutten_eksempel"
                 }
             },
             {
@@ -5085,44 +5066,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/farmorharkabeltv_eksempel/exp/nob/1020"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/object/P20074"
-                },
-                "l": {
-                    "xml:lang": "en",
-                    "type": "literal",
-                    "value": "is part of expression"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/farmorharkabeltv;videogutten_eksempel/exp/nob/1020"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/videogutten_eksempel/exp/nob/1020"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/object/P20074"
-                },
-                "l": {
-                    "xml:lang": "en",
-                    "type": "literal",
-                    "value": "is part of expression"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/farmorharkabeltv;videogutten_eksempel/exp/nob/1020"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/30145424502786830193/exp/nob/1020"
                 },
                 "p": {
@@ -5199,7 +5142,7 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/2229156133228058430004/exp/eng/mul/nob/1023"
+                    "value": "http://viaf.org/viaf/farmorharkabeltv-videogutten_eksempel/exp/nob/1020"
                 },
                 "p": {
                     "type": "uri",
@@ -5212,7 +5155,26 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/jegreiseralene_eksempel/exp/1023"
+                    "value": "http://viaf.org/viaf/farmorharkabeltv_eksempel/exp/nob/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/farmorharkabeltv-videogutten_eksempel/exp/nob/1020"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20074"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "is part of expression"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/videogutten_eksempel/exp/nob/1020"
                 }
             }
         ]

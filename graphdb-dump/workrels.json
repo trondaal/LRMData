@@ -12,7 +12,7 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/5386167764307213890003"
+                    "value": "http://viaf.org/viaf/10455"
                 },
                 "p": {
                     "type": "uri",
@@ -25,7 +25,45 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/5386167764307213890003"
+                    "value": "http://viaf.org/viaf/10455"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/41931427"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has author agent"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/41931427"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/41931427/x"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has author agent"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/41931427"
                 }
             },
             {
@@ -240,7 +278,7 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/skadagods_eksmpel"
+                    "value": "http://viaf.org/viaf/skadagods_eksempel"
                 },
                 "p": {
                     "type": "uri",
@@ -273,25 +311,6 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/1466145424607486830095"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/2229156133228058430004"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/w/object/P10122"
-                },
-                "l": {
-                    "xml:lang": "en",
-                    "type": "literal",
-                    "value": "has prequel work"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org.viaf/5930152502773210800007"
                 }
             },
             {

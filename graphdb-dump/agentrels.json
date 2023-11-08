@@ -11640,6 +11640,25 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/10455"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/10455"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/34565761/Champange/heroin/filmmanus"
                 },
                 "p": {
@@ -11673,6 +11692,25 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/34565761"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/41931427"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/41931427"
                 }
             },
             {
@@ -11844,44 +11882,6 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/34565761"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/2229156133228058430004"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/w/object/P10053"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Composer"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/85757429"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/2229156133228058430004"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/w/object/P10013"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Director"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/283715067"
                 }
             },
             {
@@ -13122,25 +13122,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/5386167764307213890003"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Author"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/5386167764307213890003"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/9466149068473065730001"
                 },
                 "p": {
@@ -13426,25 +13407,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/farmorharkabeltv;videogutten_eksempel"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Author"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/34565761"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/hehehasse_eksempel"
                 },
                 "p": {
@@ -13559,25 +13521,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.orgviaf/varmelagerfem_eksempel"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Author"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/34565761"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/deterlangttilhelvete_eksempel"
                 },
                 "p": {
@@ -13598,25 +13541,6 @@
                 "s": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/engodtid_eksempel"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Author"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/34565761"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/hando,kjendo_eksempel"
                 },
                 "p": {
                     "type": "uri",
@@ -13934,6 +13858,25 @@
                 "o": {
                     "type": "uri",
                     "value": "https://isni.org/isni/0000000368604401"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/34565761/sinus"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/34565761"
                 }
             },
             {
@@ -15288,6 +15231,44 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/10985923/x"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/10985923"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/110569724/x"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/110569724"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/1383154137632115370007"
                 },
                 "p": {
@@ -15302,6 +15283,63 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/108159131"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/15590827/x"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/15590827"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/167306445/x"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/167306445"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/17553787/x"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/17553787"
                 }
             },
             {
@@ -15340,6 +15378,44 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/108159131"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/27061925/x"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/27061925"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/301771064/x"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/301771064"
                 }
             },
             {
@@ -15991,6 +16067,101 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/39378054/x"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/39378054"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/39378054/y"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/39378054"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/41931427/x"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/41931427"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/46733274/x"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/46733274"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/49282521/x"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/49282521"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/5046165396164221520007/01"
                 },
                 "p": {
@@ -16062,6 +16233,253 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/32103009"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/54149740/x"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/54149740"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/54149740/y"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/54149740"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/56617433/x"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/56617433"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59139553/x"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59139553"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/66503940/x"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/66503940"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/66514645/x"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/66514645"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/66718481/x"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/66718481"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/69145969/x"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/69145969"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/78136149/x"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/78136149"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/79494391/x"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/79494391"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/79514873/x"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/79514873"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/97119817/x"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/97119817"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9888758/x"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9888758"
                 }
             },
             {
@@ -16314,6 +16732,25 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/748144783071858216931"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/34565761"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://viaf/34564761/Farmor/kabel-TV/Videogutten"
                 },
                 "p": {
@@ -16423,6 +16860,25 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/180546099"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/6711164963969224300002"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10053"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Composer"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q27929280"
                 }
             },
             {
@@ -16694,6 +17150,44 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://viaf.org.viaf/5930152502773210800007"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/34565761"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/307092549"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/34565761"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/dettusendehjertet2_eksempel"
                 },
                 "p": {
@@ -16733,25 +17227,6 @@
                 "s": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/videogutten_eksempel"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Author"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/34565761"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/skadagods_eksmpel"
                 },
                 "p": {
                     "type": "uri",
@@ -17074,6 +17549,25 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/skadagods_eksempel"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/34565761"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/dettusendehjertet1_eksempel"
                 },
                 "p": {
@@ -17126,6 +17620,63 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/283715067"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/farmorharkabeltv-videogutten_eksempel"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/34565761"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/hando-kjendo_eksempel"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/34565761"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/varmelagerfem_eksempel"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/34565761"
                 }
             },
             {
@@ -28820,12 +29371,12 @@
                 },
                 "p": {
                     "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/object/P20037"
+                    "value": "http://rdaregistry.info/Elements/e/object/P20022"
                 },
                 "l": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "Translator"
+                    "value": "Narrator"
                 },
                 "o": {
                     "type": "uri",
@@ -28858,16 +29409,16 @@
                 },
                 "p": {
                     "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/object/P20037"
+                    "value": "http://rdaregistry.info/Elements/e/object/P20022"
                 },
                 "l": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "Translator"
+                    "value": "Narrator"
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/278677010"
+                    "value": "http://viaf.org/viaf/222249305"
                 }
             },
             {
@@ -28886,7 +29437,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/222249305"
+                    "value": "http://viaf.org/viaf/278677010"
                 }
             },
             {
@@ -31708,12 +32259,12 @@
                 },
                 "p": {
                     "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/object/P20024"
+                    "value": "http://rdaregistry.info/Elements/e/object/P20022"
                 },
                 "l": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "Speaker"
+                    "value": "Narrator"
                 },
                 "o": {
                     "type": "uri",
@@ -31860,12 +32411,12 @@
                 },
                 "p": {
                     "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/object/P20024"
+                    "value": "http://rdaregistry.info/Elements/e/object/P20022"
                 },
                 "l": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "Speaker"
+                    "value": "Narrator"
                 },
                 "o": {
                     "type": "uri",
@@ -35960,44 +36511,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/jegreiseralene_eksempel/exp/1023"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/object/P20012"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Actor"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/100929322"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/jegreiseralene_eksempel/exp/1023"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/object/P20012"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Actor"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/59149066621965602290"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q989760/exp/eng/1020/9864901"
                 },
                 "p": {
@@ -36069,6 +36582,25 @@
                 "o": {
                     "type": "uri",
                     "value": "http://example.org/winklerangela"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/312386681/exp/eng/1020/5148995797159751078"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20037"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Translator"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/5148995797159751078"
                 }
             },
             {
