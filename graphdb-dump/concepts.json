@@ -10,6 +10,17 @@
             {
                 "concept": {
                     "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/alb"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Albanian"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
                     "value": "http://id.loc.gov/vocabulary/iso639-2/bul"
                 },
                 "label": {
@@ -87,6 +98,17 @@
             {
                 "concept": {
                     "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/est"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Estonian"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
                     "value": "http://id.loc.gov/vocabulary/iso639-2/fin"
                 },
                 "label": {
@@ -153,6 +175,17 @@
             {
                 "concept": {
                     "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/ice"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Icelandic"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
                     "value": "http://id.loc.gov/vocabulary/iso639-2/ita"
                 },
                 "label": {
@@ -170,6 +203,17 @@
                     "xml:lang": "gden",
                     "type": "literal",
                     "value": "Korean"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/lit"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Lithuanian"
                 }
             },
             {
@@ -401,6 +445,17 @@
                     "xml:lang": "gden",
                     "type": "literal",
                     "value": "Film roll"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1002"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Maps"
                 }
             },
             {
