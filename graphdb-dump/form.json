@@ -22916,21 +22916,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/187061730/exp/nob/1013/115456625/226788912/2972149068615565730006"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "form"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "part"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/187061730/exp/nob/1013/226788912/2972149068615565730006"
                 },
                 "label": {
@@ -22940,7 +22925,7 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "standalone"
+                    "value": "part, standalone"
                 }
             },
             {
@@ -23022,21 +23007,6 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/2146462613527772337/exp/nob/1020/115456625"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "form"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "standalone"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/225729138/exp/eng/mul/nob/swe/1013"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -24417,21 +24387,6 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/9466149068473065730001/exp/dan/1020/28430790"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "form"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "standalone"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/verdenidag_eksempel/exp/1020/19327274/34565761/51783729/60552805/trygvevonhirsch_eksempel"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -26975,22 +26930,7 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "parent"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/9937151965272000470001/exp/nob/1023"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "form"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "part"
+                    "value": "part, parent"
                 }
             },
             {
@@ -29577,6 +29517,21 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/23155411318408940006/exp/eng/1010"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "standalone"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/225729138/exp/eng/mul/nob/swe/1023"
                 },
                 "label": {
                     "xml:lang": "gden",

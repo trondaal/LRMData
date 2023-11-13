@@ -2159,4 +2159,95 @@
    <skos:Concept rdf:about="https://schema.nb.no/Bibliographic/Values/V1009">
       <skos:subjectIndicator>https://schema.nb.no/Bibliographic/Values/V1009</skos:subjectIndicator>
    </skos:Concept>
+   
+   <!-- Teater eksempel -->
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/312386681">
+      <rdaxd:P00018>http://viaf.org/viaf/312386681</rdaxd:P00018>
+      <rdfs:label>Doktor Proktors prompepulver (Nesbø, Jo)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/312386681/teatermanus">
+      <rdaxd:P00018>http://viaf.org/viaf/312386681/teatermanus</rdaxd:P00018>
+      <rdawd:P10088>Doktor Proktors prompepulver</rdawd:P10088>
+      <rdfs:label>Doktor Proktors prompepulver (Morten Joachim)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1009"/>
+      <rdawo:P10127 rdf:resource="http://viaf.org/viaf/312386681"/>
+      <rdawo:P10203 rdf:resource="http://viaf.org/viaf/158145970141932251257"/>
+      <rdawo:P10203 rdf:resource="http://viaf.org/viaf/226490849"/>
+      <rdawo:P10203 rdf:resource="http://viaf.org/viaf/48145970233832251826"/>
+   </rdac:C10001>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/158145970141932251257">
+      <rdaxd:P00018>http://viaf.org/viaf/158145970141932251257</rdaxd:P00018>
+      <rdaad:P50385>Morten Joachim</rdaad:P50385>
+      <rdfs:label>Morten Joachim</rdfs:label>
+      <rdaad:P50339>1974-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/221287925">
+      <rdaxd:P00018>http://viaf.org/viaf/221287925</rdaxd:P00018>
+      <rdaad:P50385>Mjøs, Njål Helge</rdaad:P50385>
+      <rdfs:label>Mjøs, Njål Helge</rdfs:label>
+      <rdaad:P50339>1977-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/22145971357232331473">
+      <rdaxd:P00018>http://viaf.org/viaf/22145971357232331473</rdaxd:P00018>
+      <rdaad:P50385>Elvik, Kjersti</rdaad:P50385>
+      <rdfs:label>Elvik, Kjersti</rdfs:label>
+      <rdaad:P50339>1969-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/226490849">
+      <rdaxd:P00018>http://viaf.org/viaf/226490849</rdaxd:P00018>
+      <rdaad:P50385>Nergaard, Ivar</rdaad:P50385>
+      <rdfs:label>Nergaard, Ivar</rdfs:label>
+      <rdaad:P50339>1964-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/295751298">
+      <rdaxd:P00018>http://viaf.org/viaf/295751298</rdaxd:P00018>
+      <rdaad:P50385>Nationaltheatret</rdaad:P50385>
+      <rdfs:label>Nationaltheatret</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/48145970233832251826">
+      <rdaxd:P00018>http://viaf.org/viaf/48145970233832251826</rdaxd:P00018>
+      <rdaad:P50385>Skomsvoll, Ane</rdaad:P50385>
+      <rdfs:label>Skomsvoll, Ane</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/312386681/teatermanus/exp/nob/1020">
+      <rdaed:P20316>Doktor Proktors prompepulver</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Doktor Proktors prompepulver</rdaed:P20312>
+      <rdfs:label>Doktor Proktors prompepulver</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20023 rdf:resource="http://viaf.org/viaf/295751298"/>
+      <rdaeo:P20031 rdf:resource="http://viaf.org/viaf/22145971357232331473"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/312386681/teatermanus"/>
+      <rdaeo:P20401 rdf:resource="http://viaf.org/viaf/221287925"/>
+   </rdac:C10006>
+   <rdac:C10007 rdf:about="http://example.org/991420374004702202">
+      <rdamd:P30156>Doktor Proktors prompepulver</rdamd:P30156>
+      <rdamd:P30117>av Jo Nesbø ; dramatisert av Morten Joachim, Ane Skomsvoll og Ivar Nergaard ; bearbeidet av Njål Helge Mjøs og Kjersti Elvik</rdamd:P30117>
+      <rdamd:P30107>Versjon: 21. mars 2014</rdamd:P30107>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Nationaltheatret, 2014.</rdamd:P30111>
+      <rdamd:P30083>Nationaltheatret</rdamd:P30083>
+      <rdamd:P30011>2014</rdamd:P30011>
+      <rdamd:P30182>83 s., 30 cm.</rdamd:P30182>
+      <rdamd:P30137>Premiere Hovedscenen, 6. mars 2014</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/312386681/teatermanus/exp/nob/1020"/>
+   </rdac:C10007>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/nob">
+      <rdfs:label>nob</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1049">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1049</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1020">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1020</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1007">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1007</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://schema.nb.no/Bibliographic/Values/V1009">
+      <skos:subjectIndicator>https://schema.nb.no/Bibliographic/Values/V1009</skos:subjectIndicator>
+   </skos:Concept>
 </rdf:RDF>
