@@ -36150,7 +36150,26 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/2229156133228058430004/exp/eng/mul/nob/1023"
+                    "value": "http://viaf.org/viaf/engodtid_eksempel/exp/swe/1020/urbanandersson_eksempel"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20037"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Translator"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/urbanandersson_eksempel"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/jegreiseralene_eksempel/exp/1023"
                 },
                 "p": {
                     "type": "uri",
@@ -36169,7 +36188,7 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/2229156133228058430004/exp/eng/mul/nob/1023"
+                    "value": "http://viaf.org/viaf/jegreiseralene_eksempel/exp/1023"
                 },
                 "p": {
                     "type": "uri",
@@ -36183,25 +36202,6 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/59149066621965602290"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/engodtid_eksempel/exp/swe/1020/urbanandersson_eksempel"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/object/P20037"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Translator"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/urbanandersson_eksempel"
                 }
             },
             {
