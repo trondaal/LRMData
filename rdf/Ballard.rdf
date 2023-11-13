@@ -1457,6 +1457,11 @@
       <rdaad:P50385>Hartwell, David G</rdaad:P50385>
       <rdfs:label>Hartwell, David G</rdfs:label>
    </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/36913662">
+      <rdaxd:P00018>http://viaf.org/viaf/36913662</rdaxd:P00018>
+      <rdaad:P50385>Amis, Martin</rdaad:P50385>
+      <rdfs:label>Amis, Martin</rdfs:label>
+   </rdac:C10002>
    <rdac:C10002 rdf:about="http://viaf.org/viaf/43347281">
       <rdaxd:P00018>http://viaf.org/viaf/43347281</rdaxd:P00018>
       <rdaad:P50385>Ray, Joyce M</rdaad:P50385>
@@ -4059,6 +4064,8 @@
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?1274485/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57636/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://www.isfdb.org/cgi-bin/title.cgi?57637/exp/eng/1020"/>
+      <rdamo:P30328 rdf:resource="http://viaf.org/viaf/36913662"/>
+      <rdamo:P30328 rdf:resource="http://viaf.org/viaf/9842556"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0460022660">
       <rdamd:P30004>ISBN 0460022660 (pbk)</rdamd:P30004>

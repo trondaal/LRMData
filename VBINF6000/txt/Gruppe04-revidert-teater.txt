@@ -1,0 +1,43 @@
+
+
+VBINF6000 rapport over datasamling - oppdatert 24/10 2023
+-------------------------------------------------------
+
+
+Antall poster i samlingen:1
+-------------------------------------------------------
+
+
+Agenter identifisert med URI
+-------------------------------------------------------
+* http://viaf.org/viaf/22145971357232331473 (700) : Elvik, Kjersti
+* http://viaf.org/viaf/221287925 (700) : Mjøs, Njål Helge
+* http://viaf.org/viaf/158145970141932251257 (100) : Morten Joachim
+* http://viaf.org/viaf/295751298 (710) : Nationaltheatret
+* http://viaf.org/viaf/226490849 (700) : Nergaard, Ivar
+* http://viaf.org/viaf/48145970233832251826 (700) : Skomsvoll, Ane
+
+
+Verk identifisert med URI
+-------------------------------------------------------
+* http://viaf.org/viaf/312386681/teatermanus = Doktor Proktors prompepulver (text)
+
+
+Oversikt over URI relasjonstyper for Agent brukt i samlingen
+verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
+-------------------------------------------------------
+* http://rdaregistry.info/Elements/e/object/P20023 (has storyteller agent) : 1 
+* http://rdaregistry.info/Elements/e/object/P20031 (has stage director agent) : 1 
+* http://rdaregistry.info/Elements/e/object/P20401 (has musical director collective agent) : 1 
+* http://rdaregistry.info/Elements/w/object/P10203 (has screenwriter agent) : 3 
+
+
+Verk til verk RDA relasjonstyper i 700 og 758 $4-subfelt + label fra RDA registry
+-------------------------------------------------------
+* http://rdaregistry.info/Elements/w/object/P10127 (is dramatization of work) : 1 
+
+
+Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke analytter)
+-------------------------------------------------------
+001 = 991420374004702202, Doktor Proktors prompepulver / Morten Joachim / text 
+* http://rdaregistry.info/Elements/w/object/P10127 (is dramatization of work) -> Doktor Proktors prompepulver (Nesbø, Jo) (758)

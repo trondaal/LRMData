@@ -4372,6 +4372,8 @@
       <rdaed:P20312>Katz und Maus : eine Novelle</rdaed:P20312>
       <rdaed:P20312>Katz und Maus : Lehrerh. / Von Herbert Fuchs und Dieter Seiffert</rdaed:P20312>
       <rdaed:P20312>Katz und Maus : [Hauptbd.]</rdaed:P20312>
+      <rdaed:P20312>Danziger Trilogie : 2 : Katz und Maus</rdaed:P20312>
+      <rdfs:label>Danziger Trilogie</rdfs:label>
       <rdaxd:P00029>part</rdaxd:P00029>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
@@ -4540,6 +4542,8 @@
    <rdac:C10006 rdf:about="http://viaf.org/viaf/174963765/exp/swe/1020/walldenjohnw">
       <rdaed:P20316>Katz und Maus</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Katt och råtta : Roman</rdaed:P20312>
+      <rdfs:label>Katt och råtta</rdfs:label>
       <rdaed:P20312>Katt och r°atta : Roman</rdaed:P20312>
       <rdfs:label>Katt och r°atta</rdfs:label>
       <rdaed:P20312>Katt och r°atta</rdaed:P20312>
@@ -7110,7 +7114,6 @@
       <rdaxd:P00029>parent</rdaxd:P00029>
       <rdaed:P20312>Danziger Trilogie</rdaed:P20312>
       <rdfs:label>Danziger Trilogie</rdfs:label>
-      <rdaed:P20312>Danziger Trilogie : 2 : Katz und Maus</rdaed:P20312>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/185469169/exp/ger/1020"/>
@@ -9912,7 +9915,7 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/174963765/exp/swe/1020/walldenjohnw"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/577731459">
-      <rdamd:P30156>Katt och r°atta</rdamd:P30156>
+      <rdamd:P30156>Katt och råtta</rdamd:P30156>
       <rdamd:P30142>Roman</rdamd:P30142>
       <rdamd:P30117>Günter Grass. [Övers. av John W. Walldén]</rdamd:P30117>
       <rdamd:P30088>[Stockholm]</rdamd:P30088>
@@ -10581,9 +10584,6 @@
       <rdamd:P30182>185 S.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q989760/exp/ger/1020"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/185469169/exp/ger/1020"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/179378125/exp/ger/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/174963765/exp/ger/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/870833677">

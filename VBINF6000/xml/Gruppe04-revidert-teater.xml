@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<marc:record>
+    <marc:leader>01966cam a2200289 c 4500</marc:leader>
+    <marc:controlfield tag="001">991420374004702202</marc:controlfield>
+    <marc:controlfield tag="005">20230601053504.0</marc:controlfield>
+    <marc:controlfield tag="007">ta</marc:controlfield>
+    <marc:controlfield tag="008">140520s2014    no |||||||||||000|d|nob| </marc:controlfield>
+    <marc:datafield tag="082" ind1="7" ind2="4">
+        <marc:subfield code="a">792.9</marc:subfield>
+        <marc:subfield code="q">NO-OsNB</marc:subfield>
+        <marc:subfield code="2">5/nor</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="0" ind2=" ">
+        <marc:subfield code="a">Morten Joachim</marc:subfield>
+        <marc:subfield code="d">1974-</marc:subfield>
+        <marc:subfield code="0">(NO-TrBIB)8024183</marc:subfield>
+        <marc:subfield code="1">http://viaf.org/viaf/158145970141932251257</marc:subfield>
+        <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10203</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+        <marc:subfield code="a">Doktor Proktors prompepulver</marc:subfield>
+        <marc:subfield code="1">http://viaf.org/viaf/312386681/teatermanus</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+        <marc:subfield code="a">Doktor Proktors prompepulver</marc:subfield>
+        <marc:subfield code="c">av Jo Nesbø ; dramatisert av Morten Joachim, Ane Skomsvoll og Ivar Nergaard ; bearbeidet av Njål Helge Mjøs og Kjersti Elvik</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+        <marc:subfield code="a">Versjon: 21. mars 2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+        <marc:subfield code="a">[Oslo]</marc:subfield>
+        <marc:subfield code="b">Nationaltheatret</marc:subfield>
+        <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+        <marc:subfield code="a">83 s.</marc:subfield>
+        <marc:subfield code="c">30 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+        <marc:subfield code="a">text</marc:subfield>
+        <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        <marc:subfield code="2">rdaco</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+        <marc:subfield code="a">uformidlet</marc:subfield>
+        <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        <marc:subfield code="2">rdamt</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+        <marc:subfield code="a">bind</marc:subfield>
+        <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        <marc:subfield code="2">rdact</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="380" ind1=" " ind2=" ">
+        <marc:subfield code="a">text</marc:subfield>
+        <marc:subfield code="0">https://schema.nb.no/Bibliographic/Values/V1009</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+        <marc:subfield code="a">Premiere Hovedscenen, 6. mars 2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+        <marc:subfield code="a">Elvik, Kjersti</marc:subfield>
+        <marc:subfield code="d">1969-</marc:subfield>
+        <marc:subfield code="e">medarb.</marc:subfield>
+        <marc:subfield code="0">(NO-TrBIB)98067059</marc:subfield>
+        <marc:subfield code="1">http://viaf.org/viaf/22145971357232331473</marc:subfield>
+        <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20031</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+        <marc:subfield code="a">Mjøs, Njål Helge</marc:subfield>
+        <marc:subfield code="d">1977-</marc:subfield>
+        <marc:subfield code="e">medarb.</marc:subfield>
+        <marc:subfield code="0">(NO-TrBIB)10016477</marc:subfield>
+        <marc:subfield code="1">http://viaf.org/viaf/221287925</marc:subfield>
+        <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20401</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+        <marc:subfield code="a">Nergaard, Ivar</marc:subfield>
+        <marc:subfield code="d">1964-</marc:subfield>
+        <marc:subfield code="0">(NO-TrBIB)5015263</marc:subfield>
+        <marc:subfield code="1">http://viaf.org/viaf/226490849</marc:subfield>
+        <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10203</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+        <marc:subfield code="a">Skomsvoll, Ane</marc:subfield>
+        <marc:subfield code="0">(NO-TrBIB)14029250</marc:subfield>
+        <marc:subfield code="1">http://viaf.org/viaf/48145970233832251826</marc:subfield>
+        <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10203</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+        <marc:subfield code="a">Nationaltheatret</marc:subfield>
+        <marc:subfield code="0">(NO-TrBIB)90155924</marc:subfield>
+        <marc:subfield code="1">http://viaf.org/viaf/295751298</marc:subfield>
+        <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20023</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="758" ind1="1" ind2=" ">
+        <marc:subfield code="a">Doktor Proktors prompepulver (Nesbø, Jo)</marc:subfield>
+        <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10127</marc:subfield>
+        <marc:subfield code="1">http://viaf.org/viaf/312386681</marc:subfield>
+    </marc:datafield>
+</marc:record>
+</marc:collection>
