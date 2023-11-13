@@ -15,7 +15,7 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
         LANG(?l) = "en" &&
         ?t1 IN(rdac:C10001, rdac:C10006) && 
         ?t2 IN(rdac:C10001, rdac:C10006) &&
-        !(?p IN(rdaeo:P20319, rdaeo:P20145, rdawo:P10147, rdawo:P10257,rdaeo:P20231)))
+        !(?p IN(rdaeo:P20319, rdaeo:P20145, rdawo:P10147, rdawo:P10019, rdawo:P10257,rdaeo:P20231)))
         }
         order by ?l
         
