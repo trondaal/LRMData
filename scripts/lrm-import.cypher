@@ -235,6 +235,10 @@ MATCH (e:Expression)-[:REALIZES]-(w:Work)-[:CREATOR]-(a:Agent)
 set e.ids = e.ids + a.id + " : ";
 
 
+//Set random int on expressions for random sorting
+MATCH (e:Expression)
+set e.random = toInteger(rand() * (1000));
+
 //NAMES FOR INDEXING WORKS
 MATCH (w:Work)-[:CREATOR]-(a:Agent) where a.name IS NOT NULL
 WITH w, a,

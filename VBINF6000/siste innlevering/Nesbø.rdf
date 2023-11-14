@@ -873,7 +873,7 @@
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>De la jalousie</rdaed:P20312>
       <rdaed:P20315>De la jalousie</rdaed:P20315>
-      <rdfs:label>De la jalousie. Nesbø, Jo</rdfs:label>
+      <rdfs:label>De la jalousie (Nesbø, Jo)</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/fre"/>
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/66684972"/>
@@ -882,9 +882,10 @@
    <rdac:C10006 rdf:about="http://viaf.org/viaf/6666163570594316620005/exp/nob/1020">
       <rdaed:P20316>Sjalusimannen og andre fortellinger</rdaed:P20316>
       <rdaxd:P00029>parent</rdaxd:P00029>
-      <rdaed:P20312>Sjalusimannen og andre fortellinger : fortellinger</rdaed:P20312>
+      <rdaed:P20312>Sjalusimannen og andre fortellinger</rdaed:P20312>
       <rdaed:P20315>Sjalusimannen og andre fortellinger</rdaed:P20315>
       <rdfs:label>Sjalusimannen og andre fortellinger. Nesbø, Jo</rdfs:label>
+      <rdaeo:P20071>Køen -- London -- Odd -- Sjalusimannen -- Søppel -- Tilståelsen -- Øredobben</rdaeo:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
       <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/00000001/exp/nob/1020"/>
@@ -1066,6 +1067,7 @@
       <rdaed:P20312>Stemmer fra Balkan</rdaed:P20312>
       <rdaed:P20315>Stemmer fra Balkan</rdaed:P20315>
       <rdfs:label>Stemmer fra Balkan. Nesbø, Jo &amp; Søbye, Espen</rdfs:label>
+      <rdaeo:P20071>Stemmer fra Balkan / Jo Nesbø-- Atten dager i mai / Espen Søbye</rdaeo:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
       <rdaeo:P20145 rdf:resource="https://www.wikidata.org/wiki/Q7607345/a/exp/nob/1020"/>
@@ -1178,6 +1180,7 @@
       <rdamd:P30083>Aschehoug</rdamd:P30083>
       <rdamd:P30011>1999</rdamd:P30011>
       <rdamd:P30182>337 s., pl. : ill.</rdamd:P30182>
+      <rdaeo:P30033>Stemmer fra Balkan / Jo Nesbø-- Atten dager i mai / Espen Søbye</rdaeo:P30033>
       <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
@@ -1626,13 +1629,13 @@
       <rdaxd:P00018>isbn-9788252591835</rdaxd:P00018>
       <rdfs:label>ISBN9788252591835</rdfs:label>
       <rdamd:P30156>Sjalusimannen og andre fortellinger</rdamd:P30156>
-      <rdamd:P30142>fortellinger</rdamd:P30142>
       <rdamd:P30117>Jo Nesbø</rdamd:P30117>
       <rdamd:P30088>Oslo</rdamd:P30088>
       <rdamd:P30111>Oslo : Aschehoug, [2021].</rdamd:P30111>
       <rdamd:P30083>Aschehoug</rdamd:P30083>
       <rdamd:P30011>[2021]</rdamd:P30011>
       <rdamd:P30182>250 sider, 22 cm.</rdamd:P30182>
+      <rdaeo:P30033>Køen -- London -- Odd -- Sjalusimannen -- Søppel -- Tilståelsen -- Øredobben</rdaeo:P30033>
       <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
       <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
