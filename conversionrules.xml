@@ -292,7 +292,7 @@
             </datafield>
             <datafield tag="740" condition="frbrizer:linked($anchor_field, ., true())">
                 <subfield code="a" type="http://www.w3.org/2000/01/rdf-schema#label" select="frbrizer:trim(.) || ' (' || $record/*:datafield[@tag='100']/*:subfield[@code='a']/replace(., '[\s,/:=]+$', '') || ')'" label="rdf label"/>
-                <!--<subfield code="a" select="frbrizer:trim(.)" type="http://rdaregistry.info/Elements/e/datatype/P20315" label="titlepreferred"/>-->
+                <subfield code="a" select="frbrizer:trim(.)" type="http://rdaregistry.info/Elements/e/datatype/P20315" label="titlepreferred"/>
                 <subfield code="a" type="http://www.w3.org/2000/01/rdf-schema#label" select="frbrizer:trim(.)" label="rdf label"/>
             </datafield>
             <!--<datafield tag="740" condition="frbrizer:linked($anchor_field, ., false())">
