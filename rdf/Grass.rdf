@@ -4572,6 +4572,15 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/cze"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/179378125"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/179378125/exp/dan/1020">
+      <rdaed:P20316>Die Blechtrommel</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Bliktrommen : Bog 1</rdaed:P20312>
+      <rdfs:label>Bliktrommen (Grass, Günter)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dan"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/179378125"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/179378125/exp/dan/1020/boisenmogens">
       <rdaed:P20316>Die Blechtrommel</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
@@ -4737,12 +4746,11 @@
       <rdaed:P20312>Die Blechtrommel : Buch 3</rdaed:P20312>
       <rdaed:P20312>Die Blechtrommel : Buch 1</rdaed:P20312>
       <rdaed:P20312>Die Blechtrommel</rdaed:P20312>
-      <rdaed:P20312>Bliktrommen : Bog 1</rdaed:P20312>
-      <rdfs:label>Bliktrommen (Grass, Günter)</rdfs:label>
       <rdaed:P20312>A bádogdob</rdaed:P20312>
       <rdfs:label>A bádogdob (Grass, Günter)</rdfs:label>
       <rdaed:P20312>Die Blechtrommel : [Hauptw.]</rdaed:P20312>
       <rdaed:P20312>Bliktrommen : Bog 3</rdaed:P20312>
+      <rdfs:label>Bliktrommen (Grass, Günter)</rdfs:label>
       <rdaed:P20312>Die Blechtrommel : [Erg.-Bd.] : Trommelwirbel : fünfzig Jahre "Die Blechtrommel" / hrsg. von Uwe Neumann</rdaed:P20312>
       <rdaed:P20312>Bliktrommen : Bog 2</rdaed:P20312>
       <rdaed:P20312>Die Blechtrommel : Nobelpreis 1999 Deutschland</rdaed:P20312>
@@ -5056,16 +5064,6 @@
       <rdaxd:P00029>part</rdaxd:P00029>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
-      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/185469169"/>
-   </rdac:C10006>
-   <rdac:C10006 rdf:about="http://viaf.org/viaf/185469169/exp/ger/1020/9864901">
-      <rdaed:P20316>Hundejahre</rdaed:P20316>
-      <rdaxd:P00029>standalone</rdaxd:P00029>
-      <rdaed:P20312>Dog years</rdaed:P20312>
-      <rdfs:label>Dog years (Grass, Günter)</rdfs:label>
-      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
-      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
-      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/9864901"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/185469169"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/185469169/exp/ita/1020">
@@ -7447,7 +7445,7 @@
       <rdamd:P30182>617 p., 19 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/185469169/exp/ger/1020/9864901"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/185469169/exp/eng/1020/9864901"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/1008574791">
       <rdamd:P30156>The meeting at Telgte</rdamd:P30156>
@@ -7523,7 +7521,7 @@
       <rdamd:P30182>182 S.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/179378125/exp/ger/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/179378125/exp/dan/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/1029798222">
       <rdamd:P30156>Bliktrommen</rdamd:P30156>
