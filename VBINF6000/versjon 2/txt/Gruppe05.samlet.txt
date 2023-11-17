@@ -1,0 +1,149 @@
+
+
+VBINF6000 rapport over datasamling - oppdatert 24/10 2023
+-------------------------------------------------------
+
+
+Antall poster i samlingen:34
+-------------------------------------------------------
+
+
+Agenter identifisert med URI
+-------------------------------------------------------
+* http://viaf.org/viaf/urbanandersson_eksempel (700) : Andersson, Urban
+* http://viaf.org/viaf/60552805 (700) : Aurstad, Oddvar
+* http://viaf.org/viaf/227149066634465602334 (700) : Batzer, Arild
+* http://viaf.org/viaf/311494855 (700) : Berg, Ebba
+* http://viaf.org/viaf/59149066621965602290 (700) : Bergrem, Amina Eleonora
+* http://viaf.org/viaf/10543719 (700) : Dybvig, Per
+* http://viaf.org/viaf/270835697 (700) : Fouillet, Alex
+* http://viaf.org/viaf/51783729 (700) : Grøndahl, Cathrine
+* http://viaf.org/viaf/74661518 (600) : Hagerup, Inger
+* http://viaf.org/viaf/80096464 (700) : Hiorthøy, Kim
+* http://viaf.org/viaf/trygvevonhirsch_eksempel (700) : Hirsch, Trygve von
+* http://viaf.org/viaf/32145970329832252552 (700) : Jensen, Jannie
+* http://viaf.org/viaf/85757429 (700) : Kaada, John Erik
+* http://viaf.org/viaf/226817424 (700) : Kinsella, Seán
+* http://viaf.org/viaf/19327274 (700) : Larsen, Janike Kampevold
+* http://viaf.org/viaf/100929322 (700) : Larsen, Rolf Kristian
+* http://viaf.org/viaf/69039405 (100) : Obstfelder, Sigbjørn
+* http://viaf.org/viaf/34565761 (100, 700) : Renberg, Tore
+* http://viaf.org/viaf/1535876191 (710) : Rogaland teater
+* http://viaf.org/viaf/19436219 (700) : Torseter, Øyvind
+* http://viaf.org/viaf/annavoigt_eksempel (600) : Voigt, Anna
+
+
+Agent-innførsler som IKKE er identifiser med URI i $1
+men dere velger selv hvilke agenter som skal være med
+-------------------------------------------------------
+* 700  1#  $aBergrem, Amina Eleonora  $0(NO-TrBIB)11052599  $4act  $4http://rdaregistry.info/Elements/e/object/P20012
+* 700  1#  $aKaada, John Erik  $d1975-  $0(NO-TrBIB)60106  $4cmp  $4http://rdaregistry.info/Elements/a/object/P50187
+* 700  1#  $aKristiansen, Stian  $d1972-  $0(NO-TrBIB)7028772  $4http://viaf.org/viaf/283715067  $4drt  $4http://rdaregistry.info/Elements/a/datatype/P50048
+* 700  1#  $aKristiansen, Stian  $d1972-  $0(NO-TrBIB)7028772  $4drt  $4http://rdaregistry.info/Elements/w/object/P10013
+* 700  1#  $aLarsen, Rolf Kristian  $d1983-  $0(NO-TrBIB)8011770  $4act  $4http://rdaregistry.info/Elements/e/object/P20012
+* 710  2#  $aRogaland teater  $0(NO-TrBIB)90121315
+
+
+Verk identifisert med URI
+-------------------------------------------------------
+* http://viaf.org/viaf/214006009 = En prests dagbog 
+* http://viaf.org/viaf/2229156133228058430004 = Charlotte Isabel Hansen 
+* http://viaf.org/viaf/309465458 = Gi gass, Ine 
+* http://viaf.org/viaf/312321100 = Vi sees i morgen 
+* http://viaf.org/viaf/34565761 = Charlotte Isabel Hansen 
+* http://viaf.org/viaf/35146153040605250276 = Vaffelmøkk / Lungeflyteprøven 
+* http://viaf.org/viaf/5930152502773210800007 = Mannen som elsket Yngve 
+* http://viaf.org/viaf/5966165271944210690001 = Charlotte Isabel Hansen 
+* http://viaf.org/viaf/9937151965272000470001 = Kompani Orheim 
+* http://viaf.org/viaf/assalamualaikum_eksempel = Assalamu alaikum 
+* http://viaf.org/viaf/deterlangttilhelvete_eksempel = Det er langt til helvete for den som ikke vil dit : 
+* http://viaf.org/viaf/detteerminegamledager_eksempel = Dette er mine gamle dager 
+* http://viaf.org/viaf/dettusendehjerte1_eksempel = Det tusende hjerte 
+* http://viaf.org/viaf/dettusendehjertet2_eksempel = Det tusende hjertet 
+* http://viaf.org/viaf/duersalys_eksempel = Du er så lys : / Du er så lys 
+* http://viaf.org/viaf/engodtid_eksempel = En god tid : 
+* http://viaf.org/viaf/engodtid_sv_eksempel = En god tid 
+* http://viaf.org/viaf/farmorharkabeltv;videogutten_eksempel = Farmor har kabel-TV; Videogutten 
+* http://viaf.org/viaf/farmorharkabeltv_eksempel = Farmor har kabel-TV 
+* http://viaf.org/viaf/hando,kjendo_eksempel = Hando, Kjendo : 
+* http://viaf.org/viaf/hehehasse_eksempel = He he, Hasse 
+* http://viaf.org/viaf/lungeflyteproven_eksempel = Lungeflyteprøven 
+* http://viaf.org/viaf/skadagods_eksmpel = Skada gods 
+* http://viaf.org/viaf/tollaktilingeborg_eksempel = Tollak til Ingeborg 
+* http://viaf.org/viaf/trillefolket_eksempel = Trillefolket : 
+* http://viaf.org/viaf/verdenidag_eksempel = Verden i dag : 
+* http://viaf.org/viaf/videogutten_eksempel = videogutten 
+* http://viaf.orgviaf/varmelagerfem_eksempel = Varmelager fem 
+* http://www.nb.no/filmografi/show?id=780559 = Jeg reiser alene 
+
+
+URIer som brukes til både verk og agent
+kan være fordi dere bruker feil URI, eller pga hvordan subfelt er brukt
+-------------------------------------------------------
+http://viaf.org/viaf/34565761 
+
+
+Oversikt over URI relasjonstyper for Agent brukt i samlingen
+verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
+-------------------------------------------------------
+* http://rdaregistry.info/Elements/a/datatype/P50048 () : 1 
+* http://rdaregistry.info/Elements/a/datatype/P50071 () : 2 
+* http://rdaregistry.info/Elements/a/datatype/P50187 () : 1 
+* http://rdaregistry.info/Elements/a/object/P50187 (is composer agent of work of) : 1 
+* http://rdaregistry.info/Elements/e/object/P20012 (has actor agent) : 2 
+* http://rdaregistry.info/Elements/e/object/P20022 (has narrator agent) : 1 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent) : 11 
+* http://rdaregistry.info/Elements/e/object/P20330 (has editor agent) : 4 
+* http://rdaregistry.info/Elements/m/object/P30321 (has contributor agent of still image) : 3 
+* http://rdaregistry.info/Elements/m/object/P30328 (has contributor agent of text) : 1 
+* http://rdaregistry.info/Elements/w/object/P10013 (has film director agent) : 1 
+* http://rdaregistry.info/Elements/w/object/P10058 (has artist agent) : 4 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 31 
+* http://viaf.org/viaf/283715067 () : 1 
+
+
+Verk til verk RDA relasjonstyper i 700 og 758 $4-subfelt + label fra RDA registry
+-------------------------------------------------------
+* http://rdaregistry.info/Elements/w/object/P10019 (is part of work) : 1 
+* http://rdaregistry.info/Elements/w/object/P10020 (has sequel work) : 3 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 2 
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) : 8 
+* http://rdaregistry.info/Elements/w/object/P10129 (is motion picture adaptation of work) : 2 
+
+
+Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke analytter)
+-------------------------------------------------------
+001 = 990511089844702202, Kompani Orheim / Renberg, Tore /  
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) -> Mannen som elsket Yngve (758)
+001 = 999920042002402202, Charlotte Isabel Hansen / Renberg, Tore /  
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) -> Kompani Orheim (758)
+Post som mangler 001, 003, 020, Det er langt til helvete for den som ikke vil dit : / Renberg, Tore /  
+* http://rdaregistry.info/Elements/w/object/P10019 (is part of work) -> Og ordet ble ord (758)
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Hagerup, Inger (600)
+Post som mangler 001, 003, 020, Charlotte Isabel Hansen /  /  
+* http://rdaregistry.info/Elements/w/object/P10129 (is motion picture adaptation of work) -> Charlotte Isabel Hansen (758)
+001 = 990501121394702202, Mannen som elsket Yngve / Renberg, Tore /  
+* http://rdaregistry.info/Elements/w/object/P10020 (has sequel work) -> Kompani Orheim (758)
+001 = 990927806524702202, Charlotte Isabel Hansen / Renberg, Tore /  
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) -> Mannen som elsket Yngve (758)
+003 = Uk, Assalamu alaikum / Renberg, Tore, /  
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) -> Vi sees i morgen (758)
+001 = 020388815, Vi sees i morgen / Renberg, Tore, /  
+* http://rdaregistry.info/Elements/w/object/P10020 (has sequel work) -> Angrep fra alle kanter (758)
+001 = 017077045, Vi sees i morgen / Renberg, Tore, /  
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) -> Angrep fra alle kanter (758)
+Post som mangler 001, 003, 020, Jeg reiser alene /  /  
+* http://rdaregistry.info/Elements/w/object/P10129 (is motion picture adaptation of work) -> Charlotte Isabel Hansen (758)
+001 = 018562030, Skada gods / Renberg, Tore, /  
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) -> Angrep fra alle kanter (758)
+001 = 990718582964702202, Det tusende hjerte / Renberg, Tore /  
+* http://rdaregistry.info/Elements/w/object/P10020 (has sequel work) -> Det tusende hjerte (758)
+001 = 990718583854702202, Det tusende hjertet / Renberg, Tore /  
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) -> Det tusende hjertet (758)
+001 = 991128927364702202, Dette er mine gamle dager / Renberg, Tore /  
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) -> Pixley Mapogo (758)
+001 = 999919872876102202, Vaffelmøkk / Renberg, Tore /  
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) -> Vaffelmøkk / Renberg, Tore (700)
+001 = 999920429396102202, Lungeflyteprøven / Renberg, Tore /  
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) -> Lungeflyteprøven / Renberg, Tore (700)
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Voigt, Anna (600)

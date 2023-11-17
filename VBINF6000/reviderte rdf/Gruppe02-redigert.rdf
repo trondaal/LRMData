@@ -1,0 +1,2217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:map="http://www.w3.org/2005/xpath-functions/map"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:marc="http://www.loc.gov/MARC21/slim"
+         xmlns:rdac="http://rdaregistry.info/Elements/c/"
+         xmlns:rdaad="http://rdaregistry.info/Elements/a/datatype/"
+         xmlns:rdaao="http://rdaregistry.info/Elements/a/object/"
+         xmlns:rdawd="http://rdaregistry.info/Elements/w/datatype/"
+         xmlns:rdawo="http://rdaregistry.info/Elements/w/object/"
+         xmlns:rdaed="http://rdaregistry.info/Elements/e/datatype/"
+         xmlns:rdaeo="http://rdaregistry.info/Elements/e/object/"
+         xmlns:rdamd="http://rdaregistry.info/Elements/m/datatype/"
+         xmlns:rdamo="http://rdaregistry.info/Elements/m/object/"
+         xmlns:rdaxd="http://rdaregistry.info/Elements/x/datatype/"
+         xmlns:mads="http://www.loc.gov/mads/rdf/v1#"
+         xmlns:mmmm="http://www.loc.gov/MARC21/slim/"
+         xmlns:rdaco="http://rdaregistry.info/termList/RDAContentType/"
+         xmlns:rdact="http://rdaregistry.info/termList/RDACarrierType/"
+         xmlns:rdamt="http://rdaregistry.info/termList/RDAMediaType/"
+         xmlns:rdat="http://rdaregistry.info/termList/"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:ex="http://www.example.org/">
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/108159131/themildenhall">
+      <rdaxd:P00018>http://viaf.org/viaf/108159131/themildenhall</rdaxd:P00018>
+      <rdawd:P10088>The Mildenhall treasure</rdawd:P10088>
+      <rdfs:label>The Mildenhall treasure (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/1317165450330727100007">
+      <rdaxd:P00018>http://viaf.org/viaf/1317165450330727100007</rdaxd:P00018>
+      <rdawd:P10088>Lamb to the Slaughter</rdawd:P10088>
+      <rdfs:label>Lamb to the Slaughter (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/1383154137632115370007">
+      <rdaxd:P00018>http://viaf.org/viaf/1383154137632115370007</rdaxd:P00018>
+      <rdawd:P10088>Mannen i panama-hatten</rdawd:P10088>
+      <rdfs:label>Mannen i panama-hatten (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/181846148">
+      <rdaxd:P00018>http://viaf.org/viaf/181846148</rdaxd:P00018>
+      <rdawd:P10088>The magic finger</rdawd:P10088>
+      <rdfs:label>The magic finger (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/183154037">
+      <rdaxd:P00018>http://viaf.org/viaf/183154037</rdaxd:P00018>
+      <rdawd:P10088>Skjønneren</rdawd:P10088>
+      <rdfs:label>Skjønneren (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/184281139">
+      <rdaxd:P00018>http://viaf.org/viaf/184281139</rdaxd:P00018>
+      <rdawd:P10088>The enormous crocodile</rdawd:P10088>
+      <rdfs:label>The enormous crocodile (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/187061730">
+      <rdaxd:P00018>http://viaf.org/viaf/187061730</rdaxd:P00018>
+      <rdawd:P10088>Charlie and the chocolate factory</rdawd:P10088>
+      <rdfs:label>Charlie and the chocolate factory (Dahl, Roald)</rdfs:label>
+      <rdawd:P10330>Charlie Bucket loves chocolate. And Mr Willy Wonka, the wondrous inventor in the world, is opening the gates of his chocolate factory to five lucky children. It's the prize of a lifetime. Gobstoppers, wriggle sweets and a river of melted chocolate delight await. Charlie needs just one Golden Ticket and these delicious treats could be all his...</rdawd:P10330>
+      <rdawd:P10088>Charlie og sjokoladefabrikken</rdawd:P10088>
+      <rdfs:label>Charlie og sjokoladefabrikken (Dahl, Roald)</rdfs:label>
+      <rdfs:label>Charlie and the chocolate factory</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/200813669">
+      <rdaxd:P00018>http://viaf.org/viaf/200813669</rdaxd:P00018>
+      <rdawd:P10088>Matilda</rdawd:P10088>
+      <rdfs:label>Matilda (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+      <rdawo:P10074 rdf:resource="http://viaf.org/viaf/71446114"/>
+      <rdawo:P10419 rdf:resource="http://viaf.org/viaf/10808875944"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/2037165326595116290001">
+      <rdaxd:P00018>http://viaf.org/viaf/2037165326595116290001</rdaxd:P00018>
+      <rdawd:P10088>Gutten som snakket med dyrene</rdawd:P10088>
+      <rdfs:label>Gutten som snakket med dyrene (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/2146462613527772337">
+      <rdaxd:P00018>http://viaf.org/viaf/2146462613527772337</rdaxd:P00018>
+      <rdawd:P10088>The BFG</rdawd:P10088>
+      <rdfs:label>The BFG (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/225729138">
+      <rdaxd:P00018>http://viaf.org/viaf/225729138</rdaxd:P00018>
+      <rdawd:P10088>Charlie and the chocolate factory</rdawd:P10088>
+      <rdfs:label>Charlie and the chocolate factory (Burton, Tim)</rdfs:label>
+      <rdawo:P10013 rdf:resource="http://viaf.org/viaf/100119650"/>
+      <rdawo:P10129 rdf:resource="http://viaf.org/viaf/187061730"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/227309775/FromDantetoDahl">
+      <rdaxd:P00018>http://viaf.org/viaf/227309775/FromDantetoDahl</rdaxd:P00018>
+      <rdawd:P10088>From Dante to Dahl : or Out of the inferno into the Chocolate factory : a note on Roald Dahl's roots in literary traditions</rdawd:P10088>
+      <rdfs:label>From Dante to Dahl : or Out of the inferno into the Chocolate factory : a note on Roald Dahl's roots in literary traditions (Sørbø, Marie Nedregotten)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/227309775"/>
+      <rdawo:P10257 rdf:resource="http://viaf.org/viaf/187061730"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/23155411318408940006">
+      <rdaxd:P00018>http://viaf.org/viaf/23155411318408940006</rdaxd:P00018>
+      <rdawd:P10088>Charlie and the chocolate factory</rdawd:P10088>
+      <rdfs:label>Charlie and the chocolate factory (Shaiman, Marc)</rdfs:label>
+      <rdaxd:P00029>Selections.</rdaxd:P00029>
+      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/19876448"/>
+      <rdawo:P10204 rdf:resource="http://viaf.org/viaf/19876448"/>
+      <rdawo:P10204 rdf:resource="http://viaf.org/viaf/66783567"/>
+      <rdawo:P10233 rdf:resource="http://viaf.org/viaf/187061730"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/2414154387172830970000">
+      <rdaxd:P00018>http://viaf.org/viaf/2414154387172830970000</rdaxd:P00018>
+      <rdawd:P10088>James and the giant peach</rdawd:P10088>
+      <rdfs:label>James and the giant peach (Dahl, Roald)</rdfs:label>
+      <rdfs:label>James and the giant peach</rdfs:label>
+      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/230582811"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+      <rdawo:P10137 rdf:resource="http://viaf.org/viaf/2414154387172830970000"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/2687163939444101160007">
+      <rdaxd:P00018>http://viaf.org/viaf/2687163939444101160007</rdaxd:P00018>
+      <rdawd:P10088>Memories with food at Gipsy house</rdawd:P10088>
+      <rdfs:label>Memories with food at Gipsy house (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/21455678"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/293613236">
+      <rdaxd:P00018>http://viaf.org/viaf/293613236</rdaxd:P00018>
+      <rdawd:P10088>Fantastic Mr. Fox</rdawd:P10088>
+      <rdfs:label>Fantastic Mr. Fox (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/308001309">
+      <rdaxd:P00018>http://viaf.org/viaf/308001309</rdaxd:P00018>
+      <rdawd:P10088>My uncle Oswald</rdawd:P10088>
+      <rdfs:label>My uncle Oswald (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/308768851">
+      <rdaxd:P00018>http://viaf.org/viaf/308768851</rdaxd:P00018>
+      <rdawd:P10088>Annen manns rygg</rdawd:P10088>
+      <rdfs:label>Annen manns rygg (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/309279222">
+      <rdaxd:P00018>http://viaf.org/viaf/309279222</rdaxd:P00018>
+      <rdawd:P10088>Charlie and the great glass elevator</rdawd:P10088>
+      <rdfs:label>Charlie and the great glass elevator (Dahl, Roald)</rdfs:label>
+      <rdfs:label>Charlie and the great glass elevator</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+      <rdawo:P10319 rdf:resource="http://viaf.org/viaf/17153530881748701566"/>
+      <rdawo:P10319 rdf:resource="http://viaf.org/viaf/5153530934548701786"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/309343708">
+      <rdaxd:P00018>http://viaf.org/viaf/309343708</rdaxd:P00018>
+      <rdawd:P10088>The wonderful story of Henry Sugar and six more</rdawd:P10088>
+      <rdfs:label>The wonderful story of Henry Sugar and six more (Dahl, Roald)</rdfs:label>
+      <rdaxd:P00029>Eksempelsamling</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/2037165326595116290001"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/309343708/01"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/309343708/02"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/309343708/03"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/309343708/04"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/309343708/05"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/309343708/06"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/309343708/01">
+      <rdaxd:P00018>http://viaf.org/viaf/309343708/01</rdaxd:P00018>
+      <rdawd:P10088>Haikeren</rdawd:P10088>
+      <rdfs:label>Haikeren (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/309343708/02">
+      <rdaxd:P00018>http://viaf.org/viaf/309343708/02</rdaxd:P00018>
+      <rdawd:P10088>Skatten i Mildenhall</rdawd:P10088>
+      <rdfs:label>Skatten i Mildenhall (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/309343708/03">
+      <rdaxd:P00018>http://viaf.org/viaf/309343708/03</rdaxd:P00018>
+      <rdawd:P10088>The Swan</rdawd:P10088>
+      <!--P10088 endret fra Svanen til The Swan-->
+      <rdfs:label>Svanen (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/309343708/04">
+      <rdaxd:P00018>http://viaf.org/viaf/309343708/04</rdaxd:P00018>
+      <rdawd:P10088>The Wonderful Story of Henry Sugar</rdawd:P10088>
+      <!--P10088 endret fra Den fantastiske historien til The Wonderful story-->
+      <rdfs:label>Den fantastiske historien om Henry Sugar (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/309343708/05">
+      <rdaxd:P00018>http://viaf.org/viaf/309343708/05</rdaxd:P00018>
+      <rdawd:P10088>Lucky Break</rdawd:P10088>
+      <!--P10088 endret fra Flaks til Lucky Break-->
+      <rdfs:label>Flaks (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/309343708/06">
+      <rdaxd:P00018>http://viaf.org/viaf/309343708/06</rdaxd:P00018>
+      <rdawd:P10088>Rene barnematen</rdawd:P10088>
+      <rdfs:label>Rene barnematen (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/3576165060229332740009">
+      <rdaxd:P00018>http://viaf.org/viaf/3576165060229332740009</rdaxd:P00018>
+      <rdawd:P10088>Someone like you</rdawd:P10088>
+      <rdfs:label>Someone like you (Dahl, Roald)</rdfs:label>
+      <rdaxd:P00029>Eksempelsamling</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/3576165060229332740009/01"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/183154037"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/3576165060229332740009/02"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/1383154137632115370007"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/3576165060229332740009/03"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/3576165060229332740009/04"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/3576165060229332740009/05"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/3576165060229332740009/06"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/308768851"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/3576165060229332740009/07"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/3576165060229332740009/08"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/3576165060229332740009/09"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/3576165060229332740009/10"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/3576165060229332740009/11"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/3576165060229332740009/12"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/3576165060229332740009/13"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/3576165060229332740009/14"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/3576165060229332740009/15"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/3576165060229332740009/16"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/3576165060229332740009/01">
+      <rdaxd:P00018>http://viaf.org/viaf/3576165060229332740009/01</rdaxd:P00018>
+      <rdawd:P10088>Sånn er vi</rdawd:P10088>
+      <rdfs:label>Sånn er vi (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/3576165060229332740009/02">
+      <rdaxd:P00018>http://viaf.org/viaf/3576165060229332740009/02</rdaxd:P00018>
+      <rdawd:P10088>Dypfryst</rdawd:P10088>
+      <rdfs:label>Dypfryst (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/3576165060229332740009/03">
+      <rdaxd:P00018>http://viaf.org/viaf/3576165060229332740009/03</rdaxd:P00018>
+      <rdawd:P10088>Soldaten</rdawd:P10088>
+      <rdfs:label>Soldaten (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/3576165060229332740009/04">
+      <rdaxd:P00018>http://viaf.org/viaf/3576165060229332740009/04</rdaxd:P00018>
+      <rdawd:P10088>Høyt spill</rdawd:P10088>
+      <rdfs:label>Høyt spill (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/3576165060229332740009/05">
+      <rdaxd:P00018>http://viaf.org/viaf/3576165060229332740009/05</rdaxd:P00018>
+      <rdawd:P10088>En frisk dukkert</rdawd:P10088>
+      <rdfs:label>En frisk dukkert (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/3576165060229332740009/06">
+      <rdaxd:P00018>http://viaf.org/viaf/3576165060229332740009/06</rdaxd:P00018>
+      <rdawd:P10088>Skolekameraten</rdawd:P10088>
+      <rdfs:label>Skolekameraten (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/3576165060229332740009/07">
+      <rdaxd:P00018>http://viaf.org/viaf/3576165060229332740009/07</rdaxd:P00018>
+      <rdawd:P10088>Gift</rdawd:P10088>
+      <rdfs:label>Gift (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/3576165060229332740009/08">
+      <rdaxd:P00018>http://viaf.org/viaf/3576165060229332740009/08</rdaxd:P00018>
+      <rdawd:P10088>Ønsket</rdawd:P10088>
+      <rdfs:label>Ønsket (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/3576165060229332740009/09">
+      <rdaxd:P00018>http://viaf.org/viaf/3576165060229332740009/09</rdaxd:P00018>
+      <rdawd:P10088>Et hode kortere</rdawd:P10088>
+      <rdfs:label>Et hode kortere (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/3576165060229332740009/10">
+      <rdaxd:P00018>http://viaf.org/viaf/3576165060229332740009/10</rdaxd:P00018>
+      <rdawd:P10088>Lyd-maskinen</rdawd:P10088>
+      <rdfs:label>Lyd-maskinen (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/3576165060229332740009/11">
+      <rdaxd:P00018>http://viaf.org/viaf/3576165060229332740009/11</rdaxd:P00018>
+      <rdawd:P10088>Hevnen er søt</rdawd:P10088>
+      <rdfs:label>Hevnen er søt (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/3576165060229332740009/12">
+      <rdaxd:P00018>http://viaf.org/viaf/3576165060229332740009/12</rdaxd:P00018>
+      <rdawd:P10088>Den store automatiske diktografen</rdawd:P10088>
+      <rdfs:label>Den store automatiske diktografen (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/3576165060229332740009/13">
+      <rdaxd:P00018>http://viaf.org/viaf/3576165060229332740009/13</rdaxd:P00018>
+      <rdawd:P10088>Clauds hund I - Rottefangeren</rdawd:P10088>
+      <rdfs:label>Clauds hund I - Rottefangeren (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/3576165060229332740009/14">
+      <rdaxd:P00018>http://viaf.org/viaf/3576165060229332740009/14</rdaxd:P00018>
+      <rdawd:P10088>Clauds hund II - Høystakken</rdawd:P10088>
+      <rdfs:label>Clauds hund II - Høystakken (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/3576165060229332740009/15">
+      <rdaxd:P00018>http://viaf.org/viaf/3576165060229332740009/15</rdaxd:P00018>
+      <rdawd:P10088>Clauds hund III - Fremtidsplaner</rdawd:P10088>
+      <rdfs:label>Clauds hund III - Fremtidsplaner (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/3576165060229332740009/16">
+      <rdaxd:P00018>http://viaf.org/viaf/3576165060229332740009/16</rdaxd:P00018>
+      <rdawd:P10088>Clauds hund IV - Den store dagen</rdawd:P10088>
+      <rdfs:label>Clauds hund IV - Den store dagen (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/3646165450338527100001">
+      <rdaxd:P00018>http://viaf.org/viaf/3646165450338527100001</rdaxd:P00018>
+      <rdawd:P10088>Dirty beasts</rdawd:P10088>
+      <rdfs:label>Dirty beasts (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/377154501934139210003">
+      <rdaxd:P00018>http://viaf.org/viaf/377154501934139210003</rdaxd:P00018>
+      <rdawd:P10088>Kiss kiss</rdawd:P10088>
+      <rdfs:label>Kiss kiss (Dahl, Roald)</rdfs:label>
+      <rdaxd:P00029>Eksempelsamling</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/377154501934139210003/01"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/377154501934139210003/02"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/377154501934139210003/03"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/377154501934139210003/04"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/377154501934139210003/05"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/377154501934139210003/06"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/377154501934139210003/07"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/377154501934139210003/08"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/377154501934139210003/09"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/377154501934139210003/10"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/377154501934139210003/11"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/377154501934139210003/01">
+      <rdaxd:P00018>http://viaf.org/viaf/377154501934139210003/01</rdaxd:P00018>
+      <rdawd:P10088>Dronning-gelé</rdawd:P10088>
+      <rdfs:label>Dronning-gelé (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/377154501934139210003/02">
+      <rdaxd:P00018>http://viaf.org/viaf/377154501934139210003/02</rdaxd:P00018>
+      <rdawd:P10088>Edward Erobreren</rdawd:P10088>
+      <rdfs:label>Edward Erobreren (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/377154501934139210003/03">
+      <rdaxd:P00018>http://viaf.org/viaf/377154501934139210003/03</rdaxd:P00018>
+      <rdawd:P10088>Genesis og katastrofe</rdawd:P10088>
+      <rdfs:label>Genesis og katastrofe (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/377154501934139210003/04">
+      <rdaxd:P00018>http://viaf.org/viaf/377154501934139210003/04</rdaxd:P00018>
+      <rdawd:P10088>Georgy Porgy</rdawd:P10088>
+      <rdfs:label>Georgy Porgy (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/377154501934139210003/05">
+      <rdaxd:P00018>http://viaf.org/viaf/377154501934139210003/05</rdaxd:P00018>
+      <rdawd:P10088>Griseflaks</rdawd:P10088>
+      <rdfs:label>Griseflaks (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/377154501934139210003/06">
+      <rdaxd:P00018>http://viaf.org/viaf/377154501934139210003/06</rdaxd:P00018>
+      <rdawd:P10088>Mrs. Bixby og oberstens minkpels</rdawd:P10088>
+      <rdfs:label>Mrs. Bixby og oberstens minkpels (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/377154501934139210003/07">
+      <rdaxd:P00018>http://viaf.org/viaf/377154501934139210003/07</rdaxd:P00018>
+      <rdawd:P10088>Sogneprestens skatter</rdawd:P10088>
+      <rdfs:label>Sogneprestens skatter (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/377154501934139210003/08">
+      <rdaxd:P00018>http://viaf.org/viaf/377154501934139210003/08</rdaxd:P00018>
+      <rdawd:P10088>Veien til himmels</rdawd:P10088>
+      <rdfs:label>Veien til himmels (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/377154501934139210003/09">
+      <rdaxd:P00018>http://viaf.org/viaf/377154501934139210003/09</rdaxd:P00018>
+      <rdawd:P10088>Verdensmesteren</rdawd:P10088>
+      <rdfs:label>Verdensmesteren (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/377154501934139210003/10">
+      <rdaxd:P00018>http://viaf.org/viaf/377154501934139210003/10</rdaxd:P00018>
+      <rdawd:P10088>Vertinnen</rdawd:P10088>
+      <rdfs:label>Vertinnen (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/377154501934139210003/11">
+      <rdaxd:P00018>http://viaf.org/viaf/377154501934139210003/11</rdaxd:P00018>
+      <rdawd:P10088>William og Mary</rdawd:P10088>
+      <rdfs:label>William og Mary (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/4614152503094110800003">
+      <rdaxd:P00018>http://viaf.org/viaf/4614152503094110800003</rdaxd:P00018>
+      <rdawd:P10088>Charlie and the chocolate factory</rdawd:P10088>
+      <rdfs:label>Charlie and the chocolate factory (George, Richard R.)</rdfs:label>
+      <rdawo:P10127 rdf:resource="http://viaf.org/viaf/187061730"/>
+      <rdawo:P10203 rdf:resource="http://viaf.org/viaf/65832772"/>
+      <rdawo:P10319 rdf:resource="http://viaf.org/viaf/17153530881748701566"/>
+      <rdawo:P10319 rdf:resource="http://viaf.org/viaf/5153530934548701786"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/5912147270702335700001">
+      <rdaxd:P00018>http://viaf.org/viaf/5912147270702335700001</rdaxd:P00018>
+      <rdawd:P10088>Boy</rdawd:P10088>
+      <rdfs:label>Boy (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/65832772/glasselevator">
+      <rdaxd:P00018>http://viaf.org/viaf/65832772/glasselevator</rdaxd:P00018>
+      <rdawd:P10088>Charlie and the great glass elevator</rdawd:P10088>
+      <rdfs:label>Charlie and the great glass elevator (George, Richard R.)</rdfs:label>
+      <rdawo:P10142 rdf:resource="http://viaf.org/viaf/309279222"/>
+      <rdawo:P10203 rdf:resource="http://viaf.org/viaf/65832772"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/7359148269746005230000">
+      <rdaxd:P00018>http://viaf.org/viaf/7359148269746005230000</rdaxd:P00018>
+      <rdawd:P10088>Esio Trot</rdawd:P10088>
+      <rdfs:label>Esio Trot (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.wikidata.org/wiki/Q3887659">
+      <rdaxd:P00018>https://www.wikidata.org/wiki/Q3887659</rdaxd:P00018>
+      <rdawd:P10088>Over to you</rdawd:P10088>
+      <rdfs:label>Over to you (Dahl, Roald)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/108159131"/>
+   </rdac:C10001>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/100119650">
+      <rdaxd:P00018>http://viaf.org/viaf/100119650</rdaxd:P00018>
+      <rdaad:P50385>Burton, Tim</rdaad:P50385>
+      <rdfs:label>Burton, Tim</rdfs:label>
+      <rdaad:P50339>1958-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/102357902">
+      <rdaxd:P00018>http://viaf.org/viaf/102357902</rdaxd:P00018>
+      <rdaad:P50385>Munch, Trond Peter Stamsø</rdaad:P50385>
+      <rdfs:label>Munch, Trond Peter Stamsø</rdfs:label>
+      <rdaad:P50339>1960-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/103610475">
+      <rdaxd:P00018>http://viaf.org/viaf/103610475</rdaxd:P00018>
+      <rdaad:P50385>Steadman, Ralph</rdaad:P50385>
+      <rdfs:label>Steadman, Ralph</rdfs:label>
+      <rdaad:P50339>1936-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/10808875944">
+      <rdaxd:P00018>http://viaf.org/viaf/10808875944</rdaxd:P00018>
+      <rdaad:P50385>Scharffenberg, Svein</rdaad:P50385>
+      <rdfs:label>Scharffenberg, Svein</rdfs:label>
+      <rdaad:P50339>1939-2017</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/108159131">
+      <rdaxd:P00018>http://viaf.org/viaf/108159131</rdaxd:P00018>
+      <rdaad:P50385>Dahl, Roald</rdaad:P50385>
+      <rdfs:label>Dahl, Roald</rdfs:label>
+      <rdaad:P50339>1916-1990</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/108575368">
+      <rdaxd:P00018>http://viaf.org/viaf/108575368</rdaxd:P00018>
+      <rdaad:P50385>Foreman, Michael</rdaad:P50385>
+      <rdfs:label>Foreman, Michael</rdfs:label>
+      <rdaad:P50339>1938-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/108680806">
+      <rdaxd:P00018>http://viaf.org/viaf/108680806</rdaxd:P00018>
+      <rdaad:P50385>Blake, Quentin</rdaad:P50385>
+      <rdfs:label>Blake, Quentin</rdfs:label>
+      <rdaad:P50339>1932-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/115456625">
+      <rdaxd:P00018>http://viaf.org/viaf/115456625</rdaxd:P00018>
+      <rdaad:P50385>Dahl, Tor Edvin</rdaad:P50385>
+      <rdfs:label>Dahl, Tor Edvin</rdfs:label>
+      <rdaad:P50339>1943-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/117446205">
+      <rdaxd:P00018>http://viaf.org/viaf/117446205</rdaxd:P00018>
+      <rdaad:P50385>Carter, Helena Bonham</rdaad:P50385>
+      <rdfs:label>Carter, Helena Bonham</rdfs:label>
+      <rdaad:P50339>1966-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/13603894">
+      <rdaxd:P00018>http://viaf.org/viaf/13603894</rdaxd:P00018>
+      <rdaad:P50385>Schjelderup, Daisy</rdaad:P50385>
+      <rdfs:label>Schjelderup, Daisy</rdfs:label>
+      <!--<rdaad:P50385>Schelderup, Daisy</rdaad:P50385>
+      <rdfs:label>Schelderup, Daisy</rdfs:label>
+      <kan slettes-->
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/143836470">
+      <rdaxd:P00018>http://viaf.org/viaf/143836470</rdaxd:P00018>
+      <rdaad:P50385>Hoftun, Sigmund</rdaad:P50385>
+      <rdfs:label>Hoftun, Sigmund</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/17153530881748701566">
+      <rdaxd:P00018>http://viaf.org/viaf/17153530881748701566</rdaxd:P00018>
+      <rdaad:P50385>Bucket, Charlie</rdaad:P50385>
+      <rdfs:label>Bucket, Charlie</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/19876448">
+      <rdaxd:P00018>http://viaf.org/viaf/19876448</rdaxd:P00018>
+      <rdaad:P50385>Shaiman, Marc</rdaad:P50385>
+      <rdfs:label>Shaiman, Marc</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/21455678">
+      <rdaxd:P00018>http://viaf.org/viaf/21455678</rdaxd:P00018>
+      <rdaad:P50385>Dahl, Felicity</rdaad:P50385>
+      <rdfs:label>Dahl, Felicity</rdfs:label>
+      <!--legg til <rdaad:P50339>1938-</rdaad:P50339>-->
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/221275657">
+      <rdaxd:P00018>http://viaf.org/viaf/221275657</rdaxd:P00018>
+      <rdaad:P50385>Reiten, Trude</rdaad:P50385>
+      <rdfs:label>Reiten, Trude</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/226306913">
+      <rdaxd:P00018>http://viaf.org/viaf/226306913</rdaxd:P00018>
+      <rdaad:P50385>Oftebro, Nils Ole</rdaad:P50385>
+      <rdfs:label>Oftebro, Nils Ole</rdfs:label>
+      <rdaad:P50339>1944-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/226788912">
+      <rdaxd:P00018>http://viaf.org/viaf/226788912</rdaxd:P00018>
+      <rdaad:P50385>Holm, Espen Beranek</rdaad:P50385>
+      <rdfs:label>Holm, Espen Beranek</rdfs:label>
+      <rdaad:P50339>1960-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/227309775">
+      <rdaxd:P00018>http://viaf.org/viaf/227309775</rdaxd:P00018>
+      <rdaad:P50385>Sørbø, Marie Nedregotten</rdaad:P50385>
+      <rdfs:label>Sørbø, Marie Nedregotten</rdfs:label>
+      <rdaad:P50339>1955-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/228394562">
+      <rdaxd:P00018>http://viaf.org/viaf/228394562</rdaxd:P00018>
+      <rdaad:P50385>Nermoen, Berit</rdaad:P50385>
+      <rdfs:label>Nermoen, Berit</rdfs:label>
+      <rdaad:P50339>1963-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/228898095">
+      <rdaxd:P00018>http://viaf.org/viaf/228898095</rdaxd:P00018>
+      <rdaad:P50385>Thomassen, Ingeborg</rdaad:P50385>
+      <rdfs:label>Thomassen, Ingeborg</rdfs:label>
+      <rdaad:P50339>1942-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/229117289">
+      <rdaxd:P00018>http://viaf.org/viaf/229117289</rdaxd:P00018>
+      <rdaad:P50385>Mosebekk, Ellen Sofie</rdaad:P50385>
+      <rdfs:label>Mosebekk, Ellen Sofie</rdfs:label>
+      <rdaad:P50339>1982-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/229550672">
+      <rdaxd:P00018>http://viaf.org/viaf/229550672</rdaxd:P00018>
+      <rdaad:P50385>Nesheim, Arne Moen</rdaad:P50385>
+      <rdfs:label>Nesheim, Arne Moen</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/229584656">
+      <rdaxd:P00018>http://viaf.org/viaf/229584656</rdaxd:P00018>
+      <rdaad:P50385>Magnus, Peter</rdaad:P50385>
+      <rdfs:label>Magnus, Peter</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/230582811">
+      <rdaxd:P00018>http://viaf.org/viaf/230582811</rdaxd:P00018>
+      <rdaad:P50385>Holmsen, Geir</rdaad:P50385>
+      <rdfs:label>Holmsen, Geir</rdfs:label>
+      <rdaad:P50339>1956-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/28146825540207632770">
+      <rdaxd:P00018>http://viaf.org/viaf/28146825540207632770</rdaxd:P00018>
+      <rdaad:P50385>Meek, Elin</rdaad:P50385>
+      <rdfs:label>Meek, Elin</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/288294356">
+      <rdaxd:P00018>http://viaf.org/viaf/288294356</rdaxd:P00018>
+      <rdaad:P50385>Seeberg, Axel S</rdaad:P50385>
+      <rdfs:label>Seeberg, Axel S</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/297058820">
+      <rdaxd:P00018>http://viaf.org/viaf/297058820</rdaxd:P00018>
+      <rdaad:P50385>Strømdahl, Terje</rdaad:P50385>
+      <rdfs:label>Strømdahl, Terje</rdfs:label>
+      <rdaad:P50339>1952-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/2972149068615565730006">
+      <rdaxd:P00018>http://viaf.org/viaf/2972149068615565730006</rdaxd:P00018>
+      <rdaad:P50385>Ljone, Oddmund</rdaad:P50385>
+      <rdfs:label>Ljone, Oddmund</rdfs:label>
+      <rdaad:P50339>1917-1985</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/305139729">
+      <rdaxd:P00018>http://viaf.org/viaf/305139729</rdaxd:P00018>
+      <rdaad:P50385>Skjolde, Line</rdaad:P50385>
+      <rdfs:label>Skjolde, Line</rdfs:label>
+      <rdaad:P50339>1973-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/43828761">
+      <rdaxd:P00018>http://viaf.org/viaf/43828761</rdaxd:P00018>
+      <rdaad:P50385>Erlingsen, Einar Chr</rdaad:P50385>
+      <rdfs:label>Erlingsen, Einar Chr</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/5153530934548701786">
+      <rdaxd:P00018>http://viaf.org/viaf/5153530934548701786</rdaxd:P00018>
+      <rdaad:P50385>Wonka, Willy</rdaad:P50385>
+      <rdfs:label>Wonka, Willy</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/65832772">
+      <rdaxd:P00018>http://viaf.org/viaf/65832772</rdaxd:P00018>
+      <rdaad:P50385>George, Richard R</rdaad:P50385>
+      <rdfs:label>George, Richard R</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/66783567">
+      <rdaxd:P00018>http://viaf.org/viaf/66783567</rdaxd:P00018>
+      <rdaad:P50385>Wittman, Scott</rdaad:P50385>
+      <rdfs:label>Wittman, Scott</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/71446114">
+      <rdaxd:P00018>http://viaf.org/viaf/71446114</rdaxd:P00018>
+      <rdaad:P50385>Andersen, Helge</rdaad:P50385>
+      <rdfs:label>Andersen, Helge</rdfs:label>
+      <rdaad:P50339>1943-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/79317348">
+      <rdaxd:P00018>http://viaf.org/viaf/79317348</rdaxd:P00018>
+      <rdaad:P50385>Jaques, Faith</rdaad:P50385>
+      <rdfs:label>Jaques, Faith</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/81320876">
+      <rdaxd:P00018>http://viaf.org/viaf/81320876</rdaxd:P00018>
+      <rdaad:P50385>Hollen, John</rdaad:P50385>
+      <rdfs:label>Hollen, John</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/85378128">
+      <rdaxd:P00018>http://viaf.org/viaf/85378128</rdaxd:P00018>
+      <rdaad:P50385>Depp, Johnny</rdaad:P50385>
+      <rdfs:label>Depp, Johnny</rdfs:label>
+      <rdaad:P50339>1963-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/95119264">
+      <rdaxd:P00018>http://viaf.org/viaf/95119264</rdaxd:P00018>
+      <rdaad:P50385>Hodge, Douglas</rdaad:P50385>
+      <rdfs:label>Hodge, Douglas</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/9884389">
+      <rdaxd:P00018>http://viaf.org/viaf/9884389</rdaxd:P00018>
+      <rdaad:P50385>Hagerup, Klaus</rdaad:P50385>
+      <rdfs:label>Hagerup, Klaus</rdfs:label>
+      <rdaad:P50339>1946-2018</rdaad:P50339>
+   </rdac:C10002>
+   <!--kan fjernes <rdac:C10002 rdf:about="https://isni.org/isni/0000000121037484">
+      <rdaxd:P00018>https://isni.org/isni/0000000121037484</rdaxd:P00018>
+      <rdaad:P50385>Blake, Quentin</rdaad:P50385>
+      <rdfs:label>Blake, Quentin</rdfs:label>
+   </rdac:C10002>-->
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/108159131/themildenhall/exp/nob/1020/43828761">
+      <rdaed:P20316>The Mildenhall treasure</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Mildenhall-skatten</rdaed:P20312>
+      <rdfs:label>Mildenhall-skatten</rdfs:label>
+      <rdaed:P20315>Mildenhall-skatten</rdaed:P20315>
+      <rdfs:label>Mildenhall-skatten</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/43828761"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/108159131/themildenhall"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1317165450330727100007/exp/eng/1020">
+      <rdaed:P20316>Lamb to the Slaughter</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Lamb to the Slaughter (A Roald Dahl Short Story)</rdaed:P20312>
+      <rdfs:label>Lamb to the Slaughter (A Roald Dahl Short Story)</rdfs:label>
+      <rdaed:P20315>Lamb to the Slaughter (A Roald Dahl Short Story)</rdaed:P20315>
+      <rdfs:label>Lamb to the Slaughter (A Roald Dahl Short Story)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1317165450330727100007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1383154137632115370007/exp/nob/1020/229584656">
+      <rdaed:P20312>Mannen i panama-hatten</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Mannen i panama-hatten</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/229584656"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1383154137632115370007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/181846148/exp/nob/1020/115456625">
+      <rdaed:P20316>The magic finger</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Den magiske fingeren</rdaed:P20312>
+      <rdfs:label>Den magiske fingeren</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/115456625"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/181846148"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/183154037/exp/nob/1020/229584656">
+      <rdaed:P20312>Skjønneren</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Skjønneren</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/229584656"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/183154037"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/184281139/exp/eng/1020">
+      <rdaed:P20316>The enormous crocodile</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>The enormous crocodile</rdaed:P20312>
+      <rdfs:label>The enormous crocodile</rdfs:label>
+      <rdaed:P20315>The enormous crocodile</rdaed:P20315>
+      <rdfs:label>The enormous crocodile</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/184281139"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/187061730/exp/eng/1013/95119264">
+      <rdaed:P20316>Charlie and the chocolate factory</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Charlie and the chocolate factory</rdaed:P20312>
+      <rdfs:label>Charlie and the chocolate factory</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20022 rdf:resource="http://viaf.org/viaf/95119264"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/187061730"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/187061730/exp/eng/1020">
+      <rdaed:P20316>Charlie and the chocolate factory</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Charlie and the chocolate factory pop-up book</rdaed:P20312>
+      <rdfs:label>Charlie and the chocolate factory pop-up book</rdfs:label>
+      <rdaed:P20312>Charlie and the chocolate factory</rdaed:P20312>
+      <rdfs:label>Charlie and the chocolate factory</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/187061730"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/187061730/exp/nob/1013/115456625/226788912/2972149068615565730006">
+      <rdaed:P20312>Charlie and the chocolate factory</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Charlie and the chocolate factory</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20022 rdf:resource="http://viaf.org/viaf/226788912"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/115456625"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/2972149068615565730006"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/187061730"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/187061730/exp/nob/1013/226788912/2972149068615565730006">
+      <rdaed:P20316>Charlie and the chocolate factory</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Charlie og sjokoladefabrikken</rdaed:P20312>
+      <rdfs:label>Charlie og sjokoladefabrikken</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20022 rdf:resource="http://viaf.org/viaf/226788912"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/2972149068615565730006"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/187061730"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/187061730/exp/nob/1020/2972149068615565730006">
+      <rdaed:P20316>Charlie and the chocolate factory</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Charlie og sjokoladefabrikken</rdaed:P20312>
+      <rdfs:label>Charlie og sjokoladefabrikken</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/2972149068615565730006"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/187061730"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/187061730/exp/wel/1020/28146825540207632770">
+      <rdaed:P20316>Charlie and the chocolate factory</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Charlie a'r ffatri siocled</rdaed:P20312>
+      <rdfs:label>Charlie a'r ffatri siocled</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/wel"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/28146825540207632770"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/187061730"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/200813669/exp/nob/1013">
+      <rdaed:P20316>Matilda</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Matilda</rdaed:P20312>
+      <rdfs:label>Matilda</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20031 rdf:resource="http://viaf.org/viaf/9884389"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/200813669"/>
+      <rdaeo:P20384 rdf:resource="http://viaf.org/viaf/229117289"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/200813669/exp/nob/1013/115456625/297058820">
+      <rdaed:P20316>Matilda</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Matilda</rdaed:P20312>
+      <rdfs:label>Matilda</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20022 rdf:resource="http://viaf.org/viaf/297058820"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/115456625"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/200813669"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/200813669/exp/nob/1020/115456625">
+      <rdaed:P20316>Matilda</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Matilda</rdaed:P20312>
+      <rdfs:label>Matilda</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/115456625"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/200813669"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/2037165326595116290001/exp/nob/1020/115456625">
+      <rdaed:P20312>Gutten som snakket med dyrene</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Gutten som snakket med dyrene</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/115456625"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/2037165326595116290001"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/2146462613527772337/exp/nob/1020/115456625">
+      <rdaed:P20316>The BFG</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>SVK</rdaed:P20312>
+      <rdfs:label>SVK</rdfs:label>
+      <rdaed:P20315>SVK</rdaed:P20315>
+      <rdfs:label>SVK</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/115456625"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/2146462613527772337"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/225729138/exp/eng/mul/nob/swe/1013">
+      <rdaed:P20316>Charlie and the chocolate factory</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Charlie og sjokoladefabrikken</rdaed:P20312>
+      <rdfs:label>Charlie og sjokoladefabrikken</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mul"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/swe"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20012 rdf:resource="http://viaf.org/viaf/117446205"/>
+      <rdaeo:P20012 rdf:resource="http://viaf.org/viaf/85378128"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/225729138"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/227309775/FromDantetoDahl/exp/eng/1020">
+      <rdaed:P20316>From Dante to Dahl : or Out of the inferno into the Chocolate factory : a note on Roald Dahl's roots in literary traditions</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>From Dante to Dahl : or Out of the inferno into the Chocolate factory : a note on Roald Dahl's roots in literary traditions</rdaed:P20312>
+      <rdfs:label>From Dante to Dahl</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/227309775/FromDantetoDahl"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/23155411318408940006/exp/eng">
+      <rdaed:P20316>Charlie and the chocolate factory</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Charlie and the chocolate factory : the new musical</rdaed:P20312>
+      <rdfs:label>Charlie and the chocolate factory</rdfs:label>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/23155411318408940006"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/2414154387172830970000/exp/nob/1013/226306913/288294356">
+      <rdaed:P20316>James and the giant peach</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Verdens største fersken</rdaed:P20312>
+      <rdfs:label>Verdens største fersken</rdfs:label>
+      <rdaed:P20315>Verdens største fersken</rdaed:P20315>
+      <rdfs:label>Verdens største fersken</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20022 rdf:resource="http://viaf.org/viaf/226306913"/>
+      <rdaeo:P20035 rdf:resource="http://viaf.org/viaf/228394562"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/288294356"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/2414154387172830970000"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/2687163939444101160007/exp/nob/1020/115456625/228898095">
+      <rdaed:P20316>Memories with food at Gipsy house</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>I Roald Dahls kjøkken</rdaed:P20312>
+      <rdfs:label>I Roald Dahls kjøkken</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/115456625"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/228898095"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/2687163939444101160007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/293613236/exp/nob/1013/102357902/81320876">
+      <rdaed:P20316>Fantastic Mr. Fox</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Den fantastiske Mikkel Rev</rdaed:P20312>
+      <rdfs:label>Den fantastiske Mikkel Rev</rdfs:label>
+      <rdaed:P20315>Den fantastiske Mikkel Rev</rdaed:P20315>
+      <rdfs:label>Den fantastiske Mikkel Rev</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20022 rdf:resource="http://viaf.org/viaf/102357902"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/81320876"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/293613236"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/308001309/exp/nob/1020/229550672">
+      <rdaed:P20316>My uncle Oswald</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Onkel Oswald</rdaed:P20312>
+      <rdfs:label>Onkel Oswald</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/229550672"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/308001309"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/308768851/exp/nob/1020/229584656">
+      <rdaed:P20312>Annen manns rygg</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Annen manns rygg</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/229584656"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/308768851"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/309279222/exp/eng/1020">
+      <rdaed:P20316>Charlie and the great glass elevator</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Charlie and the great glass elevator</rdaed:P20312>
+      <rdfs:label>Charlie and the great glass elevator</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/309279222"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/309279222/exp/nob/1013/115456625/226788912/2972149068615565730006">
+      <rdaed:P20312>Charlie and the great glass elevator</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Charlie and the great glass elevator</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20022 rdf:resource="http://viaf.org/viaf/226788912"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/115456625"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/2972149068615565730006"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/309279222"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/309279222/exp/nob/1020">
+      <rdaed:P20316>Charlie and the great glass elevator</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Charlie og den store glassheisen</rdaed:P20312>
+      <rdfs:label>Charlie og den store glassheisen</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/115456625"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/309279222"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/309343708/01/exp/nob/1020/115456625">
+      <rdaed:P20312>Haikeren</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Haikeren</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/115456625"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/309343708/01"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/309343708/02/exp/nob/1020/115456625">
+      <rdaed:P20312>Skatten i Mildenhall</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Skatten i Mildenhall</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/115456625"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/309343708/02"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/309343708/03/exp/nob/1020/115456625">
+      <rdaed:P20312>Svanen</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Svanen</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/115456625"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/309343708/03"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/309343708/04/exp/nob/1020/115456625">
+      <rdaed:P20312>Den fantastiske historien om Henry Sugar</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Den fantastiske historien om Henry Sugar</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/115456625"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/309343708/04"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/309343708/05/exp/nob/1020/115456625">
+      <rdaed:P20312>Flaks</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Flaks</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/115456625"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/309343708/05"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/309343708/06/exp/nob/1020/115456625">
+      <rdaed:P20312>Rene barnematen</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Rene barnematen</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/115456625"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/309343708/06"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/309343708/exp/nob/1020/115456625">
+      <rdaed:P20316>The wonderful story of Henry Sugar and six more</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Den fantastiske historien om Henry Sugar og seks andre</rdaed:P20312>
+      <rdfs:label>Den fantastiske historien om Henry Sugar og seks andre</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/115456625"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/2037165326595116290001/exp/nob/1020/115456625"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/309343708/01/exp/nob/1020/115456625"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/309343708/02/exp/nob/1020/115456625"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/309343708/03/exp/nob/1020/115456625"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/309343708/04/exp/nob/1020/115456625"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/309343708/05/exp/nob/1020/115456625"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/309343708/06/exp/nob/1020/115456625"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/309343708"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3576165060229332740009/01/exp/nob/1020/229584656">
+      <rdaed:P20312>Sånn er vi</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Sånn er vi</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/229584656"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3576165060229332740009/01"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3576165060229332740009/02/exp/nob/1020/229584656">
+      <rdaed:P20312>Dypfryst</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Dypfryst</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/229584656"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3576165060229332740009/02"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3576165060229332740009/03/exp/nob/1020/229584656">
+      <rdaed:P20312>Soldaten</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Soldaten</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/229584656"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3576165060229332740009/03"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3576165060229332740009/04/exp/nob/1020/229584656">
+      <rdaed:P20312>Høyt spill</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Høyt spill</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/229584656"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3576165060229332740009/04"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3576165060229332740009/05/exp/nob/1020/229584656">
+      <rdaed:P20312>En frisk dukkert</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>En frisk dukkert</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/229584656"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3576165060229332740009/05"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3576165060229332740009/06/exp/nob/1020/229584656">
+      <rdaed:P20312>Skolekameraten</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Skolekameraten</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/229584656"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3576165060229332740009/06"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3576165060229332740009/07/exp/nob/1020/229584656">
+      <rdaed:P20312>Gift</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Gift</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/229584656"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3576165060229332740009/07"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3576165060229332740009/08/exp/nob/1020/229584656">
+      <rdaed:P20312>Ønsket</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Ønsket</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/229584656"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3576165060229332740009/08"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3576165060229332740009/09/exp/nob/1020/229584656">
+      <rdaed:P20312>Et hode kortere</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Et hode kortere</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/229584656"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3576165060229332740009/09"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3576165060229332740009/10/exp/nob/1020/229584656">
+      <rdaed:P20312>Lyd-maskinen</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Lyd-maskinen</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/229584656"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3576165060229332740009/10"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3576165060229332740009/11/exp/nob/1020/229584656">
+      <rdaed:P20312>Hevnen er søt</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Hevnen er søt</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/229584656"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3576165060229332740009/11"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3576165060229332740009/12/exp/nob/1020/229584656">
+      <rdaed:P20312>Den store automatiske diktografen</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Den store automatiske diktografen</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/229584656"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3576165060229332740009/12"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3576165060229332740009/13/exp/nob/1020/229584656">
+      <rdaed:P20312>Clauds hund I - Rottefangeren</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Clauds hund I - Rottefangeren</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/229584656"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3576165060229332740009/13"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3576165060229332740009/14/exp/nob/1020/229584656">
+      <rdaed:P20312>Clauds hund II - Høystakken</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Clauds hund II - Høystakken</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/229584656"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3576165060229332740009/14"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3576165060229332740009/15/exp/nob/1020/229584656">
+      <rdaed:P20312>Clauds hund III - Fremtidsplaner</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Clauds hund III - Fremtidsplaner</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/229584656"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3576165060229332740009/15"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3576165060229332740009/16/exp/nob/1020/229584656">
+      <rdaed:P20312>Clauds hund IV - Den store dagen</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Clauds hund IV - Den store dagen</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/229584656"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3576165060229332740009/16"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3576165060229332740009/exp/nob/1020/229584656">
+      <rdaed:P20316>Someone like you</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Et hode kortere og andre hårreisende historier</rdaed:P20312>
+      <rdfs:label>Et hode kortere og andre hårreisende historier</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/229584656"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3576165060229332740009/01/exp/nob/1020/229584656"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/183154037/exp/nob/1020/229584656"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3576165060229332740009/02/exp/nob/1020/229584656"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/1383154137632115370007/exp/nob/1020/229584656"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3576165060229332740009/03/exp/nob/1020/229584656"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3576165060229332740009/04/exp/nob/1020/229584656"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3576165060229332740009/05/exp/nob/1020/229584656"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3576165060229332740009/06/exp/nob/1020/229584656"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/308768851/exp/nob/1020/229584656"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3576165060229332740009/07/exp/nob/1020/229584656"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3576165060229332740009/08/exp/nob/1020/229584656"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3576165060229332740009/09/exp/nob/1020/229584656"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3576165060229332740009/10/exp/nob/1020/229584656"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3576165060229332740009/11/exp/nob/1020/229584656"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3576165060229332740009/12/exp/nob/1020/229584656"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3576165060229332740009/13/exp/nob/1020/229584656"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3576165060229332740009/14/exp/nob/1020/229584656"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3576165060229332740009/15/exp/nob/1020/229584656"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3576165060229332740009/16/exp/nob/1020/229584656"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3576165060229332740009"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3646165450338527100001/exp/eng/1020">
+      <rdaed:P20316>Dirty beasts</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Dirty beasts</rdaed:P20312>
+      <rdfs:label>Dirty beasts</rdfs:label>
+      <rdaed:P20315>Dirty beasts</rdaed:P20315>
+      <rdfs:label>Dirty beasts</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3646165450338527100001"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/377154501934139210003/01/exp/nob/1020/13603894">
+      <rdaed:P20312>Dronning-gelé</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Dronning-gelé</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/13603894"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/377154501934139210003/01"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/377154501934139210003/02/exp/nob/1020/13603894">
+      <rdaed:P20312>Edward Erobreren</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Edward Erobreren</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/13603894"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/377154501934139210003/02"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/377154501934139210003/03/exp/nob/1020/13603894">
+      <rdaed:P20312>Genesis og katastrofe</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Genesis og katastrofe</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/13603894"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/377154501934139210003/03"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/377154501934139210003/04/exp/nob/1020/13603894">
+      <rdaed:P20312>Georgy Porgy</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Georgy Porgy</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/13603894"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/377154501934139210003/04"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/377154501934139210003/05/exp/nob/1020/13603894">
+      <rdaed:P20312>Griseflaks</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Griseflaks</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/13603894"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/377154501934139210003/05"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/377154501934139210003/06/exp/nob/1020/13603894">
+      <rdaed:P20312>Mrs. Bixby og oberstens minkpels</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Mrs. Bixby og oberstens minkpels</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/13603894"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/377154501934139210003/06"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/377154501934139210003/07/exp/nob/1020/13603894">
+      <rdaed:P20312>Sogneprestens skatter</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Sogneprestens skatter</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/13603894"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/377154501934139210003/07"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/377154501934139210003/08/exp/nob/1020/13603894">
+      <rdaed:P20312>Veien til himmels</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Veien til himmels</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/13603894"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/377154501934139210003/08"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/377154501934139210003/09/exp/nob/1020/13603894">
+      <rdaed:P20312>Verdensmesteren</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Verdensmesteren</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/13603894"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/377154501934139210003/09"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/377154501934139210003/10/exp/nob/1020/13603894">
+      <rdaed:P20312>Vertinnen</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Vertinnen</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/13603894"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/377154501934139210003/10"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/377154501934139210003/11/exp/nob/1020/13603894">
+      <rdaed:P20312>William og Mary</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>William og Mary</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/13603894"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/377154501934139210003/11"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/377154501934139210003/exp/nob/1020/13603894">
+      <rdaed:P20316>Kiss kiss</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Kiss kiss</rdaed:P20312>
+      <rdfs:label>Kiss kiss</rdfs:label>
+      <rdaed:P20315>Kiss kiss</rdaed:P20315>
+      <rdfs:label>Kiss kiss</rdfs:label>
+      <rdaed:P20071>Dronning-gelé -- Edward Erobreren -- Genesis og katastrofe -- Georgy Porgy -- Griseflaks -- Mrs. Bixby og oberstens minkpels -- Sogneprestens skatter -- Veien til himmels -- Verdensmesteren -- Vertinnen -- William og Mary</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/13603894"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/377154501934139210003/01/exp/nob/1020/13603894"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/377154501934139210003/02/exp/nob/1020/13603894"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/377154501934139210003/03/exp/nob/1020/13603894"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/377154501934139210003/04/exp/nob/1020/13603894"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/377154501934139210003/05/exp/nob/1020/13603894"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/377154501934139210003/06/exp/nob/1020/13603894"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/377154501934139210003/07/exp/nob/1020/13603894"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/377154501934139210003/08/exp/nob/1020/13603894"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/377154501934139210003/09/exp/nob/1020/13603894"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/377154501934139210003/10/exp/nob/1020/13603894"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/377154501934139210003/11/exp/nob/1020/13603894"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/377154501934139210003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/4614152503094110800003/exp/eng/1020">
+      <rdaed:P20316>Charlie and the chocolate factory</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Charlie and the chocolate factory : the play</rdaed:P20312>
+      <rdfs:label>Charlie and the chocolate factory</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/4614152503094110800003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/5912147270702335700001/exp/nob/1020/115456625">
+      <rdaed:P20316>Boy</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Gutt : fortellinger fra bar[n]dommen</rdaed:P20312>
+      <rdfs:label>Gutt</rdfs:label>
+      <rdaed:P20315>Gutt : fortellinger fra bar[n]dommen</rdaed:P20315>
+      <rdfs:label>Gutt</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/115456625"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/5912147270702335700001"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/65832772/glasselevator/exp/eng/1020">
+      <rdaed:P20316>Charlie and the great glass elevator</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Roald Dahl's Charlie and the great glass elevator : a play</rdaed:P20312>
+      <rdfs:label>Roald Dahl's Charlie and the great glass elevator</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/65832772/glasselevator"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7359148269746005230000/exp/nob/1013/115456625/297058820">
+      <rdaed:P20316>Esio Trot</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Eddap Liks</rdaed:P20312>
+      <rdfs:label>Eddap Liks</rdfs:label>
+      <rdaed:P20315>Eddap Liks</rdaed:P20315>
+      <rdfs:label>Eddap Liks</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20022 rdf:resource="http://viaf.org/viaf/297058820"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/115456625"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7359148269746005230000"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.wikidata.org/wiki/Q3887659/exp/nob/1020/13603894/143836470">
+      <rdaed:P20316>Over to you</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Over og ut : ti historier om flyvere og flyvning</rdaed:P20312>
+      <rdfs:label>Over og ut</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/143836470"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/13603894"/>
+      <rdaeo:P20231 rdf:resource="https://www.wikidata.org/wiki/Q3887659"/>
+   </rdac:C10006>
+   <rdac:C10007 rdf:about="http://example.org/010304378">
+      <rdamd:P30156>Charlie and the chocolate factory</rdamd:P30156>
+      <rdamd:P30117>illustrated by Faith Jacques</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Allen &amp; Unwin, 1967.</rdamd:P30111>
+      <rdamd:P30083>Allen &amp; Unwin</rdamd:P30083>
+      <rdamd:P30011>1967</rdamd:P30011>
+      <rdamd:P30182>127p. : ill., 25 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>Originally published: Knopf, 1964.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/187061730/exp/eng/1020"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/79317348"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/999621289104702202">
+      <rdamd:P30156>From Dante to Dahl</rdamd:P30156>
+      <rdamd:P30142>or Out of the inferno into the Chocolate factory : a note on Roald Dahl's roots in literary traditions</rdamd:P30142>
+      <rdamd:P30117>Marie Nedregotten Sørbø</rdamd:P30117>
+      <rdamd:P30088>Volda</rdamd:P30088>
+      <rdamd:P30111>Volda : Høgskulen i Volda : Møreforsking Volda, 1996.</rdamd:P30111>
+      <rdamd:P30083>Høgskulen i Volda</rdamd:P30083>
+      <rdamd:P30083>Møreforsking Volda</rdamd:P30083>
+      <rdamd:P30011>1996</rdamd:P30011>
+      <rdamd:P30182>25 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>Notat / Høgskulen i Volda [og] Møreforsking Volda</rdamd:P30106>
+      <rdamd:P30165>14/96</rdamd:P30165>
+      <rdamd:P30137>""from Dante to Dahl" is a revised and expanded version of a paper that was originally read to the Tromsø-conference of the Nordic Association for English studies in May 1995" - Omslaget</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/227309775/FromDantetoDahl/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0047920149">
+      <rdamd:P30004>ISBN 0047920149 :</rdamd:P30004>
+      <rdaxd:P00018>isbn-0047920149</rdaxd:P00018>
+      <rdfs:label>ISBN0047920149</rdfs:label>
+      <rdamd:P30156>Roald Dahl's Charlie and the great glass elevator</rdamd:P30156>
+      <rdamd:P30142>a play</rdamd:P30142>
+      <rdamd:P30117>adapted by Richard R. George ; introduction by Roald Dahl</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Allen &amp; Unwin, 1984.</rdamd:P30111>
+      <rdamd:P30083>Allen &amp; Unwin</rdamd:P30083>
+      <rdamd:P30011>1984</rdamd:P30011>
+      <rdamd:P30182>123p. : ill., 21cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/65832772/glasselevator/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0140307559">
+      <rdamd:P30004>ISBN 0140307559 (pbk) :</rdamd:P30004>
+      <rdaxd:P00018>isbn-0140307559</rdaxd:P00018>
+      <rdfs:label>ISBN0140307559 (pbk)</rdfs:label>
+      <rdamd:P30156>Charlie and the great glass elevator</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl ; illustrated by Faith Jaques</rdamd:P30117>
+      <rdamd:P30088>Harmondsworth</rdamd:P30088>
+      <rdamd:P30111>Harmondsworth : Puffin Books, 1975.</rdamd:P30111>
+      <rdamd:P30083>Puffin Books</rdamd:P30083>
+      <rdamd:P30011>1975</rdamd:P30011>
+      <rdamd:P30182>136 p. : ill., 20 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>Puffin books</rdamd:P30106>
+      <rdamd:P30137>Originally published: New York : Knopf, 1972 ; London : Allen and Unwin, 1973.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309279222/exp/eng/1020"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/79317348"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0140318240">
+      <rdamd:P30004>ISBN 0140318240 (pbk) :</rdamd:P30004>
+      <rdaxd:P00018>isbn-0140318240</rdaxd:P00018>
+      <rdfs:label>ISBN0140318240 (pbk)</rdfs:label>
+      <rdamd:P30156>Charlie and the chocolate factory</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl ; illustrated by Michael Foreman</rdamd:P30117>
+      <rdamd:P30088>Harmondsworth</rdamd:P30088>
+      <rdamd:P30111>Harmondsworth : Puffin, 1985, c1964.</rdamd:P30111>
+      <rdamd:P30083>Puffin</rdamd:P30083>
+      <rdamd:P30011>1985, c1964</rdamd:P30011>
+      <rdamd:P30182>159p. : ill., 20cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>Originally published: New York : Knopf, 1964.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/187061730/exp/eng/1020"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/108575368"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0140320431">
+      <rdamd:P30004>ISBN 0140320431 (pbk) :</rdamd:P30004>
+      <rdaxd:P00018>isbn-0140320431</rdaxd:P00018>
+      <rdfs:label>ISBN0140320431 (pbk)</rdfs:label>
+      <rdamd:P30156>Charlie and the great glass elevator</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl ; illustrated by Michael Foreman</rdamd:P30117>
+      <rdamd:P30088>Harmondsworth</rdamd:P30088>
+      <rdamd:P30111>Harmondsworth : Puffin, 1975, c1973.</rdamd:P30111>
+      <rdamd:P30083>Puffin</rdamd:P30083>
+      <rdamd:P30011>1975, c1973</rdamd:P30011>
+      <rdamd:P30010>(1986 [printing])</rdamd:P30010>
+      <rdamd:P30182>158p., 2019cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>Originally published: London : Allen and Unwin, 1973.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309279222/exp/eng/1020"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/108575368"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0141328878">
+      <rdamd:P30004>ISBN 0141328878 (hbk)</rdamd:P30004>
+      <rdaxd:P00018>isbn-0141328878</rdaxd:P00018>
+      <rdfs:label>ISBN0141328878 (hbk)</rdfs:label>
+      <rdamd:P30004>ISBN 9780141328874 (hbk)</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780141328874</rdaxd:P00018>
+      <rdfs:label>ISBN9780141328874 (hbk)</rdfs:label>
+      <rdamd:P30156>Charlie and the chocolate factory pop-up book</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl ; illustrated by Quentin Blake</rdamd:P30117>
+      <rdamd:P30107>Abridged pop-up ed</rdamd:P30107>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Puffin, 2011.</rdamd:P30111>
+      <rdamd:P30083>Puffin</rdamd:P30083>
+      <rdamd:P30011>2011</rdamd:P30011>
+      <rdamd:P30182>1 v. (unpaged) : ill. (chiefly col.), 29 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/187061730/exp/eng/1020"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/108680806"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-1405911034">
+      <rdamd:P30004>ISBN 1405911034</rdamd:P30004>
+      <rdaxd:P00018>isbn-1405911034</rdaxd:P00018>
+      <rdfs:label>ISBN1405911034</rdfs:label>
+      <rdamd:P30004>ISBN 9781405911030</rdamd:P30004>
+      <rdaxd:P00018>isbn-9781405911030</rdaxd:P00018>
+      <rdfs:label>ISBN9781405911030</rdfs:label>
+      <rdamd:P30156>Lamb to the Slaughter (A Roald Dahl Short Story)</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Penguin, 2012.</rdamd:P30111>
+      <rdamd:P30083>Penguin</rdamd:P30083>
+      <rdamd:P30011>2012</rdamd:P30011>
+      <rdamd:P30182>1 online resource.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1003</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1018</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1317165450330727100007/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-1540012433">
+      <rdamd:P30004>ISBN 1540012433</rdamd:P30004>
+      <rdaxd:P00018>isbn-1540012433</rdaxd:P00018>
+      <rdfs:label>ISBN1540012433</rdfs:label>
+      <rdamd:P30004>ISBN 9781540012432</rdamd:P30004>
+      <rdaxd:P00018>isbn-9781540012432</rdaxd:P00018>
+      <rdfs:label>ISBN9781540012432</rdfs:label>
+      <rdamd:P30004>UPC 888680716431</rdamd:P30004>
+      <rdaxd:P00018>UPC-888680716431</rdaxd:P00018>
+      <rdamd:P30156>Charlie and the chocolate factory</rdamd:P30156>
+      <rdamd:P30142>the new musical</rdamd:P30142>
+      <rdamd:P30117>music by Marc Shaiman ; lyrics by Scott Wittman &amp; Marc Shaiman</rdamd:P30117>
+      <rdamd:P30107>Broadway edition</rdamd:P30107>
+      <rdamd:P30107>Piano/vocal selections</rdamd:P30107>
+      <rdamd:P30088>Milwaukee, WI</rdamd:P30088>
+      <rdamd:P30111>Milwaukee, WI : Hal Leonard, [2018].</rdamd:P30111>
+      <rdamd:P30083>Hal Leonard</rdamd:P30083>
+      <rdamd:P30011>[2018]</rdamd:P30011>
+      <rdamd:P30182>1 vocal score (104 pages), 31 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>"Standard piano/vocal format with the melody in the piano"--Page 4 of cover.</rdamd:P30137>
+      <rdamd:P30137>For voices and piano; with chord symbols and guitar chord diagrams.</rdamd:P30137>
+      <rdamd:P30137>Title from cover.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/23155411318408940006/exp/eng"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-7321940593371">
+      <rdamd:P30004>ISBN 7321940593371</rdamd:P30004>
+      <rdaxd:P00018>isbn-7321940593371</rdaxd:P00018>
+      <rdfs:label>ISBN7321940593371</rdfs:label>
+      <rdamd:P30156>Charlie og sjokoladefabrikken</rdamd:P30156>
+      <rdamd:P30117>regi: Tim Burton</rdamd:P30117>
+      <rdamd:P30107>2 disc special ed</rdamd:P30107>
+      <rdamd:P30088>[S.l.]</rdamd:P30088>
+      <rdamd:P30111>[S.l.] : Warner Bros., 2005.</rdamd:P30111>
+      <rdamd:P30083>Warner Bros</rdamd:P30083>
+      <rdamd:P30011>2005</rdamd:P30011>
+      <rdamd:P30182>2 plater (DVD-video) (110 min) : lyd, kol.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1004</rdamd:P30001>
+      <rdamd:P30137>59337 Z12</rdamd:P30137>
+      <rdamd:P30137>Basert på en roman av Roald Dahl</rdamd:P30137>
+      <rdamd:P30137>Ekstramateriale</rdamd:P30137>
+      <rdamd:P30137>Familiefilm, eventyr. Aldersgrense: 7 år</rdamd:P30137>
+      <rdamd:P30137>Medietilsynet : 57968</rdamd:P30137>
+      <rdamd:P30137>NDVDS59337</rdamd:P30137>
+      <rdamd:P30137>Norsk, svensk, engelsk tale og undertekster</rdamd:P30137>
+      <rdamd:P30137>Produksjon: USA, 2005</rdamd:P30137>
+      <rdamd:P30137>Rolleliste: Johnny Depp, Freddie Highmore, David Kelly, Helena Bonham Carter, Noah Taylor, Missi Pyle, James Fox, Deep Roy, Christopher Lee</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/225729138/exp/eng/mul/nob/swe/1013"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8205202028">
+      <rdamd:P30004>ISBN 8205202028</rdamd:P30004>
+      <rdaxd:P00018>isbn-8205202028</rdaxd:P00018>
+      <rdfs:label>ISBN8205202028</rdfs:label>
+      <rdamd:P30004>ISBN 8257408697</rdamd:P30004>
+      <rdaxd:P00018>isbn-8257408697</rdaxd:P00018>
+      <rdfs:label>ISBN8257408697</rdfs:label>
+      <rdamd:P30156>I Roald Dahls kjøkken</rdamd:P30156>
+      <rdamd:P30117>Roald og Felicity Dahl ; fotografering: Jan Baldwin ; oversatt av Tor Edvin Dahl ; oppskriftene er oversatt og tilrettelagt for norske forhold av Ingeborg Thomassen</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Gyldendal, 1991.</rdamd:P30111>
+      <rdamd:P30083>Gyldendal</rdamd:P30083>
+      <rdamd:P30011>1991</rdamd:P30011>
+      <rdamd:P30182>239 s. : ill., 26 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2687163939444101160007/exp/nob/1020/115456625/228898095"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8205270120">
+      <rdamd:P30004>ISBN 8205270120</rdamd:P30004>
+      <rdaxd:P00018>isbn-8205270120</rdaxd:P00018>
+      <rdfs:label>ISBN8205270120</rdfs:label>
+      <rdamd:P30156>Den fantastiske historien om Henry Sugar og seks andre</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl ; oversatt av Tor Edvin Dahl</rdamd:P30117>
+      <rdamd:P30107>2. utg</rdamd:P30107>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Gyldendal, 2000.</rdamd:P30111>
+      <rdamd:P30083>Gyldendal</rdamd:P30083>
+      <rdamd:P30011>2000</rdamd:P30011>
+      <rdamd:P30182>194 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>1. norske utg. 1989</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309343708/exp/nob/1020/115456625"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2037165326595116290001/exp/nob/1020/115456625"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309343708/01/exp/nob/1020/115456625"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309343708/02/exp/nob/1020/115456625"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309343708/03/exp/nob/1020/115456625"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309343708/04/exp/nob/1020/115456625"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309343708/05/exp/nob/1020/115456625"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309343708/06/exp/nob/1020/115456625"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8205275440">
+      <rdamd:P30004>ISBN 8205275440</rdamd:P30004>
+      <rdaxd:P00018>isbn-8205275440</rdaxd:P00018>
+      <rdfs:label>ISBN8205275440</rdfs:label>
+      <rdamd:P30156>Et hode kortere og andre hårreisende historier</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl ; oversatt av Peter Magnus</rdamd:P30117>
+      <rdamd:P30107>8. utg</rdamd:P30107>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Gyldendal, 2000.</rdamd:P30111>
+      <rdamd:P30083>Gyldendal</rdamd:P30083>
+      <rdamd:P30011>2000</rdamd:P30011>
+      <rdamd:P30182>277 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>1. norske utg. 1955 med tittel: Sånn er vi</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3576165060229332740009/exp/nob/1020/229584656"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3576165060229332740009/01/exp/nob/1020/229584656"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/183154037/exp/nob/1020/229584656"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3576165060229332740009/02/exp/nob/1020/229584656"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1383154137632115370007/exp/nob/1020/229584656"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3576165060229332740009/03/exp/nob/1020/229584656"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3576165060229332740009/04/exp/nob/1020/229584656"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3576165060229332740009/05/exp/nob/1020/229584656"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3576165060229332740009/06/exp/nob/1020/229584656"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/308768851/exp/nob/1020/229584656"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3576165060229332740009/07/exp/nob/1020/229584656"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3576165060229332740009/08/exp/nob/1020/229584656"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3576165060229332740009/09/exp/nob/1020/229584656"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3576165060229332740009/10/exp/nob/1020/229584656"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3576165060229332740009/11/exp/nob/1020/229584656"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3576165060229332740009/12/exp/nob/1020/229584656"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3576165060229332740009/13/exp/nob/1020/229584656"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3576165060229332740009/14/exp/nob/1020/229584656"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3576165060229332740009/15/exp/nob/1020/229584656"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3576165060229332740009/16/exp/nob/1020/229584656"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8205278385">
+      <rdamd:P30004>ISBN 8205278385</rdamd:P30004>
+      <rdaxd:P00018>isbn-8205278385</rdaxd:P00018>
+      <rdfs:label>ISBN8205278385</rdfs:label>
+      <rdamd:P30156>Over og ut</rdamd:P30156>
+      <rdamd:P30142>ti historier om flyvere og flyvning</rdamd:P30142>
+      <rdamd:P30117>Roald Dahl ; oversatt av Daisy Schjelderup og Sigmund Hoftun</rdamd:P30117>
+      <rdamd:P30107>2. utg</rdamd:P30107>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Gyldendal, 2001.</rdamd:P30111>
+      <rdamd:P30083>Gyldendal</rdamd:P30083>
+      <rdamd:P30011>2001</rdamd:P30011>
+      <rdamd:P30182>146 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>1. norske utg. 1975</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="https://www.wikidata.org/wiki/Q3887659/exp/nob/1020/13603894/143836470"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8205327874">
+      <rdamd:P30004>ISBN 8205327874</rdamd:P30004>
+      <rdaxd:P00018>isbn-8205327874</rdaxd:P00018>
+      <rdfs:label>ISBN8205327874</rdfs:label>
+      <rdamd:P30156>Matilda</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl ; oversatt av Tor Edvin Dahl ; illustrert av Quentin Blake</rdamd:P30117>
+      <rdamd:P30107>5. utg</rdamd:P30107>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Gyldendal, 2004.</rdamd:P30111>
+      <rdamd:P30083>Gyldendal</rdamd:P30083>
+      <rdamd:P30011>2004</rdamd:P30011>
+      <rdamd:P30182>221 s. : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>1. norske utg. 1989</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/200813669/exp/nob/1020/115456625"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/108680806"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8242108862">
+      <rdamd:P30004>ISBN 8242108862</rdamd:P30004>
+      <rdaxd:P00018>isbn-8242108862</rdaxd:P00018>
+      <rdfs:label>ISBN8242108862</rdfs:label>
+      <rdamd:P30004>ISBN 8242109729</rdamd:P30004>
+      <rdaxd:P00018>isbn-8242109729</rdaxd:P00018>
+      <rdfs:label>ISBN8242109729</rdfs:label>
+      <rdamd:P30156>Den fantastiske Mikkel Rev</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl ; [oversatt av John Hollen]</rdamd:P30117>
+      <rdamd:P30088>[Melhus]</rdamd:P30088>
+      <rdamd:P30111>[Melhus] : Lydbokforl., 2000.</rdamd:P30111>
+      <rdamd:P30083>Lydbokforl</rdamd:P30083>
+      <rdamd:P30011>2000</rdamd:P30011>
+      <rdamd:P30182>1 plate (1 t, 15 min) : digital, 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1004</rdamd:P30001>
+      <rdamd:P30137>Lest av Trond Peter Stamsø Munch ; musikk: Hallgeir Rustan</rdamd:P30137>
+      <rdamd:P30137>Utgitt i eske i to formater: 12 x 14 cm og 14 x 14 cm</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/293613236/exp/nob/1013/102357902/81320876"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8242109923">
+      <rdamd:P30004>ISBN 8242109923</rdamd:P30004>
+      <rdaxd:P00018>isbn-8242109923</rdaxd:P00018>
+      <rdfs:label>ISBN8242109923</rdfs:label>
+      <rdamd:P30156>Matilda</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl ; [oversatt av Tor Edvin Dahl]</rdamd:P30117>
+      <rdamd:P30088>[Melhus]</rdamd:P30088>
+      <rdamd:P30111>[Melhus] : Lydbokforl., 2000.</rdamd:P30111>
+      <rdamd:P30083>Lydbokforl</rdamd:P30083>
+      <rdamd:P30011>2000</rdamd:P30011>
+      <rdamd:P30182>5 plater (5 t, 28 min) : digital, 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1004</rdamd:P30001>
+      <rdamd:P30137>1. lydbokutg. 1997</rdamd:P30137>
+      <rdamd:P30137>Lest av Terje Strømdahl</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/200813669/exp/nob/1013/115456625/297058820"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8242111685">
+      <rdamd:P30004>ISBN 8242111685</rdamd:P30004>
+      <rdaxd:P00018>isbn-8242111685</rdaxd:P00018>
+      <rdfs:label>ISBN8242111685</rdfs:label>
+      <rdamd:P30156>Verdens største fersken</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl ; komponist Geir Holmsen ; regi og instruksjon Berit Nermoen, oversatt av Axel S. Seeberg</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : NRK lydbokforl. : NRK Barnetimen for de minste, 2004.</rdamd:P30111>
+      <rdamd:P30083>NRK lydbokforl</rdamd:P30083>
+      <rdamd:P30083>NRK Barnetimen for de minste</rdamd:P30083>
+      <rdamd:P30011>2004</rdamd:P30011>
+      <rdamd:P30182>2 plater (CD) (2 t, 23 min) : digital, 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1004</rdamd:P30001>
+      <rdamd:P30106>Barnetimen for de minste</rdamd:P30106>
+      <rdamd:P30137>De som er med: Nils Ole Oftebro ... et al. ; musikere Morten Reppesgård ... et al.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2414154387172830970000/exp/nob/1013/226306913/288294356"/>
+      <rdamo:P30311 rdf:resource="http://viaf.org/viaf/230582811"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8242114994">
+      <rdamd:P30004>ISBN 8242114994</rdamd:P30004>
+      <rdaxd:P00018>isbn-8242114994</rdaxd:P00018>
+      <rdfs:label>ISBN8242114994</rdfs:label>
+      <rdamd:P30156>Matilda</rdamd:P30156>
+      <rdamd:P30117>av Roald Dahl ; [dramatisert av Klaus Hagerup ; produsent Helge Andersen ; regi Svein Scharffenberg]</rdamd:P30117>
+      <rdamd:P30088>[Melhus]</rdamd:P30088>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Melhus] ; [Oslo] : NRK lydbokforl. : NRK radioteatret, 2004.</rdamd:P30111>
+      <rdamd:P30083>NRK lydbokforl</rdamd:P30083>
+      <rdamd:P30083>NRK radioteatret</rdamd:P30083>
+      <rdamd:P30011>2004</rdamd:P30011>
+      <rdamd:P30182>2 plater (CD) (1 t, 58 min) : digital, 12 cm i eske.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1004</rdamd:P30001>
+      <rdamd:P30106>Hørespill fra Lørdagsbarnetimen</rdamd:P30106>
+      <rdamd:P30137>I rollene: Ellen Sofie Mosebekk ... [et al.]</rdamd:P30137>
+      <rdamd:P30137>Produsert i NRK 1994</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/200813669/exp/nob/1013"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8242117802">
+      <rdamd:P30004>ISBN 8242117802</rdamd:P30004>
+      <rdaxd:P00018>isbn-8242117802</rdaxd:P00018>
+      <rdfs:label>ISBN8242117802</rdfs:label>
+      <rdamd:P30156>Eddap Liks</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl ; oversatt av Tor Edvin Dahl</rdamd:P30117>
+      <rdamd:P30088>[Melhus]</rdamd:P30088>
+      <rdamd:P30111>[Melhus] : Lydbokforl., 2005.</rdamd:P30111>
+      <rdamd:P30083>Lydbokforl</rdamd:P30083>
+      <rdamd:P30011>2005</rdamd:P30011>
+      <rdamd:P30182>1 plate (CD)(34 min) : digital, 12 cm ; i eske.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1004</rdamd:P30001>
+      <rdamd:P30137>Lest av Terje Strømdahl</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7359148269746005230000/exp/nob/1013/115456625/297058820"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8247804484">
+      <rdamd:P30004>ISBN 8247804484</rdamd:P30004>
+      <rdaxd:P00018>isbn-8247804484</rdaxd:P00018>
+      <rdfs:label>ISBN8247804484</rdfs:label>
+      <rdamd:P30004>ISBN 8252542654</rdamd:P30004>
+      <rdaxd:P00018>isbn-8252542654</rdaxd:P00018>
+      <rdfs:label>ISBN8252542654</rdfs:label>
+      <rdamd:P30156>Charlie og sjokoladefabrikken</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl ; illustrert av Quentin Blake ; oversatt av Oddmund Ljone</rdamd:P30117>
+      <rdamd:P30107>4. utg. [i.e. 6. utg.]</rdamd:P30107>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Gyldendal Tiden, 2000.</rdamd:P30111>
+      <rdamd:P30083>Gyldendal Tiden</rdamd:P30083>
+      <rdamd:P30011>2000</rdamd:P30011>
+      <rdamd:P30182>121 s. : ill., 27 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/187061730/exp/nob/1020/2972149068615565730006"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/108680806"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8247806495">
+      <rdamd:P30004>ISBN 8247806495</rdamd:P30004>
+      <rdaxd:P00018>isbn-8247806495</rdaxd:P00018>
+      <rdfs:label>ISBN8247806495</rdfs:label>
+      <rdamd:P30156>Gutt</rdamd:P30156>
+      <rdamd:P30142>fortellinger fra bar[n]dommen</rdamd:P30142>
+      <rdamd:P30117>Roald Dahl ; oversatt av Tor Edvin Dahl ; [vignetter: Quentin Blake]</rdamd:P30117>
+      <rdamd:P30107>3. utg</rdamd:P30107>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Gyldendal Tiden, 2000.</rdamd:P30111>
+      <rdamd:P30083>Gyldendal Tiden</rdamd:P30083>
+      <rdamd:P30011>2000</rdamd:P30011>
+      <rdamd:P30182>211 s. : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>10:12</rdamd:P30106>
+      <rdamd:P30137>1. norske utg. Oslo : Gyldendal, 1986</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/5912147270702335700001/exp/nob/1020/115456625"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/108680806"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8252532071">
+      <rdamd:P30004>ISBN 8252532071</rdamd:P30004>
+      <rdaxd:P00018>isbn-8252532071</rdaxd:P00018>
+      <rdfs:label>ISBN8252532071</rdfs:label>
+      <rdamd:P30156>SVK</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl ; oversatt av Tor Edvin Dahl ; illustrert av Quentin Blake</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Bokklubbens barn, 1999.</rdamd:P30111>
+      <rdamd:P30083>Bokklubbens barn</rdamd:P30083>
+      <rdamd:P30011>1999</rdamd:P30011>
+      <rdamd:P30182>206 s. : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>1. norske utg. Oslo : Gyldendal, 1984</rdamd:P30137>
+      <rdamd:P30137>Nytt oppl. 2006 med galt ISBN</rdamd:P30137>
+      <rdamd:P30137>Opplagshistorikk: Denne utg., [Nytt oppl.] 2001; [Nytt oppl.] 2006</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2146462613527772337/exp/nob/1020/115456625"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/108680806"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8252533590">
+      <rdamd:P30004>ISBN 8252533590</rdamd:P30004>
+      <rdaxd:P00018>isbn-8252533590</rdaxd:P00018>
+      <rdfs:label>ISBN8252533590</rdfs:label>
+      <rdamd:P30156>Kiss kiss</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl ; oversatt av Daisy Schjelderup</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Ungdomsbokklubben, 2000.</rdamd:P30111>
+      <rdamd:P30083>Ungdomsbokklubben</rdamd:P30083>
+      <rdamd:P30011>2000</rdamd:P30011>
+      <rdamd:P30182>234 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>1. norske utg. Oslo : Gyldendal, 1970</rdamd:P30137>
+      <rdamd:P30033>Dronning-gelé -- Edward Erobreren -- Genesis og katastrofe -- Georgy Porgy -- Griseflaks -- Mrs. Bixby og oberstens minkpels -- Sogneprestens skatter -- Veien til himmels -- Verdensmesteren -- Vertinnen -- William og Mary</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30069 rdf:resource="http://viaf.org/viaf/221275657"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/377154501934139210003/exp/nob/1020/13603894"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/377154501934139210003/01/exp/nob/1020/13603894"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/377154501934139210003/02/exp/nob/1020/13603894"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/377154501934139210003/03/exp/nob/1020/13603894"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/377154501934139210003/04/exp/nob/1020/13603894"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/377154501934139210003/05/exp/nob/1020/13603894"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/377154501934139210003/06/exp/nob/1020/13603894"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/377154501934139210003/07/exp/nob/1020/13603894"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/377154501934139210003/08/exp/nob/1020/13603894"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/377154501934139210003/09/exp/nob/1020/13603894"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/377154501934139210003/10/exp/nob/1020/13603894"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/377154501934139210003/11/exp/nob/1020/13603894"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8252542794">
+      <rdamd:P30004>ISBN 8252542794</rdamd:P30004>
+      <rdaxd:P00018>isbn-8252542794</rdaxd:P00018>
+      <rdfs:label>ISBN8252542794</rdfs:label>
+      <rdamd:P30156>Charlie og den store glassheisen</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl ; oversatt av Tor Edvin Dahl ; illustrert av Quentin Blake</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Boklubbens barn, 2005.</rdamd:P30111>
+      <rdamd:P30083>Boklubbens barn</rdamd:P30083>
+      <rdamd:P30011>2005</rdamd:P30011>
+      <rdamd:P30182>169 s. : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30069 rdf:resource="http://viaf.org/viaf/305139729"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309279222/exp/nob/1020"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/108680806"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8252542808">
+      <rdamd:P30004>ISBN 8252542808</rdamd:P30004>
+      <rdaxd:P00018>isbn-8252542808</rdaxd:P00018>
+      <rdfs:label>ISBN8252542808</rdfs:label>
+      <rdamd:P30156>Den magiske fingeren</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl ; oversatt av Tor Edvin Dahl, illustrert av Quentin Blake</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Boklubbens barn, 2001.</rdamd:P30111>
+      <rdamd:P30083>Boklubbens barn</rdamd:P30083>
+      <rdamd:P30011>2001</rdamd:P30011>
+      <rdamd:P30182>63 s. : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>1. norske utg. Oslo : Gyldendal, 1990</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/181846148/exp/nob/1020/115456625"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/108680806"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8252547672">
+      <rdamd:P30004>ISBN 8252547672</rdamd:P30004>
+      <rdaxd:P00018>isbn-8252547672</rdaxd:P00018>
+      <rdfs:label>ISBN8252547672</rdfs:label>
+      <rdamd:P30156>Onkel Oswald</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl ; oversatt av Arne Moen Nesheim</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Den norske bokklubben, 2002.</rdamd:P30111>
+      <rdamd:P30083>Den norske bokklubben</rdamd:P30083>
+      <rdamd:P30011>2002</rdamd:P30011>
+      <rdamd:P30182>230 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>1. norske utg. Oslo : Gyldendal, 1980</rdamd:P30137>
+      <rdamd:P30137>Utgitt som månedens bok</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/308001309/exp/nob/1020/229550672"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8292069046">
+      <rdamd:P30004>ISBN 8292069046</rdamd:P30004>
+      <rdaxd:P00018>isbn-8292069046</rdaxd:P00018>
+      <rdfs:label>ISBN8292069046</rdfs:label>
+      <rdamd:P30156>Mildenhall-skatten</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl ; illustrert av Ralph Steadman ; [til norsk ved Einar Chr. Erlingsen]</rdamd:P30117>
+      <rdamd:P30088>[Tønsberg]</rdamd:P30088>
+      <rdamd:P30111>[Tønsberg] : Kulturhistorisk forl., [2000?].</rdamd:P30111>
+      <rdamd:P30083>Kulturhistorisk forl</rdamd:P30083>
+      <rdamd:P30011>[2000?]</rdamd:P30011>
+      <rdamd:P30182>78 s. : ill., 30 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/108159131/themildenhall/exp/nob/1020/43828761"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/103610475"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9780141357317">
+      <rdamd:P30004>ISBN 9780141357317 (pbk.) :</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780141357317</rdaxd:P00018>
+      <rdfs:label>ISBN9780141357317 (pbk.)</rdfs:label>
+      <rdamd:P30156>Charlie and the chocolate factory</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Puffin, 2014.</rdamd:P30111>
+      <rdamd:P30083>Puffin</rdamd:P30083>
+      <rdamd:P30011>2014</rdamd:P30011>
+      <rdamd:P30182>146 pages : illustrations (colour), 27 cm +.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1004</rdamd:P30001>
+      <rdamd:P30137>Formerly CIP.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/187061730/exp/eng/1013/95119264"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9780141357850">
+      <rdamd:P30004>ISBN 9780141357850 (pbk.) :</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780141357850</rdaxd:P00018>
+      <rdfs:label>ISBN9780141357850 (pbk.)</rdfs:label>
+      <rdamd:P30156>Charlie and the great glass elevator</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl</rdamd:P30117>
+      <rdamd:P30107>Colour edition / illustrated by Quentin Blake</rdamd:P30107>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Puffin, 2018.</rdamd:P30111>
+      <rdamd:P30083>Puffin</rdamd:P30083>
+      <rdamd:P30011>2018</rdamd:P30011>
+      <rdamd:P30182>149 pages : illustrations (colour), 27 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>Formerly CIP.</rdamd:P30137>
+      <rdamd:P30137>Previous edition: London: Viking, 1995.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309279222/exp/eng/1020"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/108680806"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9780141374260">
+      <rdamd:P30004>ISBN 9780141374260 (pbk.) :</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780141374260</rdaxd:P00018>
+      <rdfs:label>ISBN9780141374260 (pbk.)</rdfs:label>
+      <rdamd:P30156>Charlie and the chocolate factory</rdamd:P30156>
+      <rdamd:P30142>the play</rdamd:P30142>
+      <rdamd:P30117>Roald Dahl ; adapted by Richard George ; introduction by Roald Dahl</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Puffin, 2017.</rdamd:P30111>
+      <rdamd:P30083>Puffin</rdamd:P30083>
+      <rdamd:P30011>2017</rdamd:P30011>
+      <rdamd:P30182>76 pages : illustrations, 20 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>Formerly CIP.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/4614152503094110800003/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9780141378893">
+      <rdamd:P30004>ISBN 9780141378893 (ePub ebook) :</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780141378893</rdaxd:P00018>
+      <rdfs:label>ISBN9780141378893 (ePub ebook)</rdfs:label>
+      <rdamd:P30156>Dirty beasts</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl ; illustrated by Quentin Blake</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Puffin, 2016.</rdamd:P30111>
+      <rdamd:P30083>Puffin</rdamd:P30083>
+      <rdamd:P30011>2016</rdamd:P30011>
+      <rdamd:P30182>1 online resource : illustrations (colour).</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1003</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1018</rdamd:P30001>
+      <rdamd:P30137>Previously issued in print: New York: Farrar, Straus and Giroux, 1983.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3646165450338527100001/exp/eng/1020"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/108680806"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9780241635254">
+      <rdamd:P30004>ISBN 9780241635254 (ePub ebook) :</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780241635254</rdaxd:P00018>
+      <rdfs:label>ISBN9780241635254 (ePub ebook)</rdfs:label>
+      <rdamd:P30156>The enormous crocodile</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl ; illustrated by Quentin Blake</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Puffin, 2022.</rdamd:P30111>
+      <rdamd:P30083>Puffin</rdamd:P30083>
+      <rdamd:P30011>2022</rdamd:P30011>
+      <rdamd:P30182>1 online resource : illustrations (colour).</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1003</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1018</rdamd:P30001>
+      <rdamd:P30137>Previously issued in print: London: Jonathan Cape, 1978.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/184281139/exp/eng/1020"/>
+      <rdamo:P30321 rdf:resource="https://isni.org/isni/0000000121037484"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9781904357582">
+      <rdamd:P30004>ISBN 9781904357582 (pbk.)</rdamd:P30004>
+      <rdaxd:P00018>isbn-9781904357582</rdaxd:P00018>
+      <rdfs:label>ISBN9781904357582 (pbk.)</rdfs:label>
+      <rdamd:P30156>Charlie a'r ffatri siocled</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl ; darluniau gan Quentin Blake ; cyfieithiad gan Elin Meek</rdamd:P30117>
+      <rdamd:P30088>Hengoed</rdamd:P30088>
+      <rdamd:P30111>Hengoed : Rily Publications, c2002.</rdamd:P30111>
+      <rdamd:P30083>Rily Publications</rdamd:P30083>
+      <rdamd:P30011>c2002</rdamd:P30011>
+      <rdamd:P30182>189 p. : ill., 20 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>Cyhoeddwyd y fersiwn Saesneg yn wreiddiol = Original English ed. published: 1964.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/187061730/exp/wel/1020/28146825540207632770"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/108680806"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788242148001">
+      <rdamd:P30004>ISBN 9788242148001</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788242148001</rdaxd:P00018>
+      <rdfs:label>ISBN9788242148001</rdfs:label>
+      <rdamd:P30156>Charlie og sjokoladefabrikken</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl ; [oversatt av Oddmund Ljone]</rdamd:P30117>
+      <rdamd:P30088>[Melhus]</rdamd:P30088>
+      <rdamd:P30111>[Melhus] : Lydbokforl., 2010.</rdamd:P30111>
+      <rdamd:P30083>Lydbokforl</rdamd:P30083>
+      <rdamd:P30011>2010</rdamd:P30011>
+      <rdamd:P30182>3 plater (CD) (3 t, 33 min) : digital, 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1004</rdamd:P30001>
+      <rdamd:P30137>1. norske lydbokutg. Oslo : Gyldendal, 1989</rdamd:P30137>
+      <rdamd:P30137>Lest av Espen Beranek Holm</rdamd:P30137>
+      <rdamd:P30137>På esken: Barn; fra 6 år</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/187061730/exp/nob/1013/226788912/2972149068615565730006"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788242150264">
+      <rdamd:P30004>ISBN 9788242150264</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788242150264</rdaxd:P00018>
+      <rdfs:label>ISBN9788242150264</rdfs:label>
+      <rdamd:P30156>Charlie og sjokoladefabrikken ; Charlie og den store glassheisen</rdamd:P30156>
+      <rdamd:P30117>Roald Dahl ; [oversatt av [henholdsvis] Oddmund Ljone [og] Tor Edvin Dahl]</rdamd:P30117>
+      <rdamd:P30088>[Melhus]</rdamd:P30088>
+      <rdamd:P30111>[Melhus] : Lydbokforl., 2010.</rdamd:P30111>
+      <rdamd:P30083>Lydbokforl</rdamd:P30083>
+      <rdamd:P30011>2010</rdamd:P30011>
+      <rdamd:P30182>1 digikort (6 t, 48 min), 8 cm, i eske.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1004</rdamd:P30001>
+      <rdamd:P30137>1. norske lydbokutgave henholdsvis Oslo : Gyldendal, 1989 og Lydbokforl., 2003</rdamd:P30137>
+      <rdamd:P30137>Kan kun brukes i digispiller</rdamd:P30137>
+      <rdamd:P30137>Lest av Espen Beranek Holm</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/187061730/exp/nob/1013/115456625/226788912/2972149068615565730006"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309279222/exp/nob/1013/115456625/226788912/2972149068615565730006"/>
+   </rdac:C10007>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/eng">
+      <rdfs:label>eng</rdfs:label>
+      <skos:subjectIndicator>eng</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/mul">
+      <rdfs:label>mul</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/nob">
+      <rdfs:label>nob</rdfs:label>
+      <skos:subjectIndicator>nob</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/swe">
+      <skos:subjectIndicator>swe</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/wel">
+      <rdfs:label>wel</rdfs:label>
+      <skos:subjectIndicator>wel</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1004">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1004</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1018">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1018</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1049">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1049</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1013">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1013</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1020">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1020</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1001">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1001</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1003">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1003</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1007">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1007</skos:subjectIndicator>
+   </skos:Concept>
+</rdf:RDF>

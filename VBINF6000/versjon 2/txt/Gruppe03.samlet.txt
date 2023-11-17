@@ -1,0 +1,138 @@
+
+
+VBINF6000 rapport over datasamling - oppdatert 24/10 2023
+-------------------------------------------------------
+
+
+Antall poster i samlingen:45
+-------------------------------------------------------
+
+
+Agenter identifisert med URI
+-------------------------------------------------------
+* http://viaf.org/viaf/222249305 (700) : Breivik, Silje
+* http://www.wikidata.org/entity/Q6187642 (700) : Buckley, Jessie
+* http://viaf.org/viaf/216262557 (700) : Cerri, Mara
+* http://www.wikidata.org/entity/Q7088045 (700) : Colman, Olivia
+* http://viaf.org/viaf/3088166360570907070001 (700) : Dorfman, Charles
+* http://viaf.org/viaf/32103009 (100, 600) : Ferrante, Elena
+* http://www.wikidata.org/entity/Q202381 (700) : Gyllenhaal, Maggie
+* http://viaf.org/viaf/14166357597006642993 (700) : Hendelsman-Keren, Osnat
+* http://viaf.org/viaf/180546099 (700) : Hinchliffe, Dickon / Johnson, Dakota
+* http://viaf.org/viaf/225972637 (700) : Jahr, Brit
+* http://viaf.org/viaf/230414147 (700) : Jynge, Gjertrud
+* http://viaf.org/viaf/314912552 (700) : Kleinhendler, Talia
+* http://viaf.org/viaf/46452276 (700) : Louvart, Hélène
+* http://www.wikidata.org/entity/Q73367368 (700) : Mescal, Paul
+* http://viaf.org/viaf/278677010 (700) : Sørsdal, Kristin
+
+
+Agent-innførsler som IKKE er identifiser med URI i $1
+men dere velger selv hvilke agenter som skal være med
+-------------------------------------------------------
+* 600  17  $aFerrante, Elena  $0(NO-TrBIB)90763393 $2bare
+
+
+Verk identifisert med URI
+-------------------------------------------------------
+* http://viaf.org/viaf/1125155953594542630002 = Storia della bambina perduta / Storia della bambina perduta 
+* http://viaf.org/viaf/208148269678805230009 = La spiaggia di notte 
+* http://viaf.org/viaf/2771157952110365600000 = L'invenzione occasionale 
+* http://viaf.org/viaf/309388310 = L'amore molesto / L'amore molesto (språkbasert verk)
+* http://viaf.org/viaf/313294935 = L'amica geniale / L'amica geniale (språkbasert verk)
+* http://viaf.org/viaf/315937141 = Storia di chi fugg e di chi resta / Storia di chi fugge e di chi resta / Storia di chi fugge e di chi resta (språkbasert verk)
+* http://viaf.org/viaf/316873931 = Storia del nuevo cognome / Storia del nuovo cognome (språkbasert verk)
+* http://viaf.org/viaf/3378153532506848820007 = La figlia oscura / Ferrante, Elena / La figlia oscura 
+* http://viaf.org/viaf/4275158188211520260002 = La vita buigarda degli adulti / La vita bugiarda degli adulti 
+* http://viaf.org/viaf/5046165396164221520007 = I margini e il dettato 
+* http://viaf.org/viaf/6711164963969224300002 = The lost daughter (Película cinematográfica) / The lost daughter (Moving image work)
+* http://viaf.org/viaf/7040151051877133530003 = I giorni dell'abbandono / Giorni dell'abbandono / I giorni dell'abbandono 
+* http://viaf.org/viaf/7816157583866833970003 = La frantumaglia / Frantumaglia 
+* http://www.wikidata.org/entity/Q22981812 = Napoli-kvartetten; / Napoli-romanane; 
+* https://www.wikidata.org/wiki/Q22981812 = Napoli-kvartetten; 
+
+
+Oversikt over URI relasjonstyper for Agent brukt i samlingen
+verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
+-------------------------------------------------------
+* http://rdaregistry.info/Elements/a/object/P50071 (is actor agent of) : 8 
+* http://rdaregistry.info/Elements/e/object/P20022 (has narrator agent) : 5 
+* http://rdaregistry.info/Elements/e/object/P20024 (has speaker agent) : 2 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent) : 46 
+* http://rdaregistry.info/Elements/e/object/P20094 (has illustrations expression) : 1 
+* http://rdaregistry.info/Elements/w/object/P10013 (has film director agent) : 2 
+* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work) : 2 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 43 
+* http://rdaregistry.info/Elements/w/object/P10068 (has director agent of photography) : 2 
+* http://rdaregistry.info/Elements/w/object/P10073 (has film producer agent) : 8 
+* http://rdaregistry.info/Elements/w/object/P10203 (has screenwriter agent) : 2 
+
+
+Verk til verk RDA relasjonstyper i 700 og 758 $4-subfelt + label fra RDA registry
+-------------------------------------------------------
+* http://rdaregistry.info/Elements/w/object/P10020 (has sequel work) : 1 
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) : 12 
+* http://rdaregistry.info/Elements/w/object/P10129 (is motion picture adaptation of work) : 2 
+* http://rdaregistry.info/Elements/w/object/P10191 (is continued by work) : 2 
+
+
+Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke analytter)
+-------------------------------------------------------
+001 = 999919964795702202, L'amica geniale / Ferrante, Elena /  
+* http://rdaregistry.info/Elements/w/object/P10020 (has sequel work) -> L'amica geniale (758)
+001 = 999919976278002202, La frantumaglia / Ferrante, Elena /  
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Ferrante, Elena (600)
+001 = 999920047394402202, L'invenzione occasionale / Ferrante, Elena /  
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Ferrante, Elena (600)
+001 = 999919834977202202, Storia di chi fugg e di chi resta / Ferrante, Elena /  
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) -> Storia del nuevo cognome (758)
+* http://rdaregistry.info/Elements/w/P10019 (is part of work) -> Napoli-kvartetten; / Ferrante, Elena (800)
+001 = 999919834992502202, Storia di chi fugge e di chi resta / Ferrante, Elena /  
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) -> Storia del nuevo cognome (758)
+* http://rdaregistry.info/Elements/w/P10019 (is part of work) -> Napoli-kvartetten; / Ferrante, Elena (800)
+001 = 999919843876002202, Storia del nuovo cognome / Ferrante, Elena /  
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) -> L'amica geniale (758)
+* http://rdaregistry.info/Elements/w/P10019 (is part of work) -> Napoli-kvartetten; / Ferrante, Elena (800)
+001 = 999919843876102202, L'amica geniale / Ferrante, Elena /  
+* http://rdaregistry.info/Elements/w/P10019 (is part of work) -> Napoli-kvartetten; / Ferrante, Elena (800)
+001 = 999919857157802202, Storia della bambina perduta / Ferrante, Elena /  
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) -> Storia di chi fugg e di chi resta (758)
+* http://rdaregistry.info/Elements/w/P10019 (is part of work) -> Napoli-kvartetten; / Ferrante, Elena (800)
+001 = 999919857396202202, Storia della bambina perduta / Ferrante, Elena /  
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) -> Storia di chi fugg e di chi resta (758)
+* http://rdaregistry.info/Elements/w/P10019 (is part of work) -> Napoli-kvartetten; / Ferrante, Elena (800)
+001 = 999919879802902202, Storia di chi fugge e di chi resta / Ferrante, Elena /  
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) -> Storia del nuevo cognome (758)
+* http://rdaregistry.info/Elements/w/P10019 (is part of work) -> Napoli-kvartetten; / Ferrante, Elena (800)
+001 = 991443905744702202, L'amica geniale / Ferrante, Elena / språkbasert verk 
+* http://rdaregistry.info/Elements/w/P10019 (is part of work) -> Napoli-kvartetten; / Ferrante, Elena (800)
+001 = 991509318754702202, L'amica geniale / Ferrante, Elena / språkbasert verk 
+* http://rdaregistry.info/Elements/w/P10019 (is part of work) -> Napoli-romanane; / Ferrante, Elena (800)
+001 = 991509318834702202, L'amica geniale / Ferrante, Elena / språkbasert verk 
+* http://rdaregistry.info/Elements/w/P10019 (is part of work) -> Napoli-kvartetten; / Ferrante, Elena (800)
+001 = 991511552164702202, Storia del nuovo cognome / Ferrante, Elena / språkbasert verk 
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) -> L'amica geniale (758)
+* http://rdaregistry.info/Elements/w/P10019 (is part of work) -> Napoli-kvartetten; / Ferrante, Elena (800)
+001 = 991512443164702202, Storia del nuovo cognome / Ferrante, Elena / språkbasert verk 
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) -> L'amica geniale (758)
+* http://rdaregistry.info/Elements/w/P10019 (is part of work) -> Napoli-kvartetten; / Ferrante, Elena (800)
+001 = 991515277094702202, Storia del nuovo cognome / Ferrante, Elena / språkbasert verk 
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) -> L'amica geniale (758)
+* http://rdaregistry.info/Elements/w/P10019 (is part of work) -> Napoli-kvartetten; / Ferrante, Elena (800)
+001 = 999919834977202202, Storia di chi fugge e di chi resta / Ferrante, Elena / språkbasert verk 
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) -> Storia del nuovo cognome (758)
+* http://rdaregistry.info/Elements/w/P10019 (is part of work) -> Napoli-kvartetten; / Ferrante, Elena (800)
+001 = 999919834992502202, Storia di chi fugge e di chi resta / Ferrante, Elena / språkbasert verk 
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) -> Storia del nuovo cognome (758)
+* http://rdaregistry.info/Elements/w/P10019 (is part of work) -> Napoli-kvartetten; / Ferrante, Elena (800)
+001 = 999919843876002202, Storia del nuovo cognome / Ferrante, Elena / språkbasert verk 
+* http://rdaregistry.info/Elements/w/object/P10122 (has prequel work) -> L'amica geniale (758)
+* http://rdaregistry.info/Elements/w/P10019 (is part of work) -> Napoli-kvartetten; / Ferrante, Elena (800)
+001 = a7260684, The lost daughter (Película cinematográfica) / Moving image work 
+* http://rdaregistry.info/Elements/w/object/P10129 (is motion picture adaptation of work) -> Ferrante, Elena (758)
+001 = a7260684, The lost daughter (Película cinematográfica) / Moving image work 
+* http://rdaregistry.info/Elements/w/object/P10129 (is motion picture adaptation of work) -> Ferrante, Elena (758)
+001 = 999919879802902202, Storia di chi fugge e di chi resta / Ferrante, Elena /  
+* http://rdaregistry.info/Elements/w/object/P10191 (is continued by work) -> Storia del nuovo cognome (758)
+001 = 999919880003302202, Storia della bambina perduta / Ferrante, Elena /  
+* http://rdaregistry.info/Elements/w/object/P10191 (is continued by work) -> Storia di chi fugge e di chi resta (758)

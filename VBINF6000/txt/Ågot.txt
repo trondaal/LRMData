@@ -1,0 +1,75 @@
+
+
+VBINF6000 rapport over datasamling - oppdatert 24/10 2023
+-------------------------------------------------------
+
+
+Antall poster i samlingen:11
+-------------------------------------------------------
+
+
+Agenter identifisert med URI
+-------------------------------------------------------
+* http://viaf.org/viaf/224205998 (700) : Bjørnsten, Ine Camilla
+* http://viaf.org/viaf/108680806 (700) : Blake, Quentin
+* http://viaf.org/viaf/108159131 (100) : Dahl, Roald
+* http://viaf.org/viaf/115456625 (700) : Dahl, Tor Edvin
+* http://viaf.org/viaf/24800947 (700) : Fjellheim, Frode
+* http://viaf.org/viaf/118150747092316301386 (100) : Geatches, Hazel
+* http://viaf.org/viaf/281867077 (700) : Haukås, Torfinn
+* http://viaf.org/viaf/81320876 (700) : Hollen, John
+* http://viaf.org/viaf/76442083 (700) : Seeberg, Axel S / Seeberg, Axel
+* http://viaf.org/viaf/32119127 (700) : Simeon, Michel
+* http://viaf.org/viaf/29705882 (700) : Strømdahl, Terje
+* http://viaf.org/viaf/102074796 (100) : Wood, David
+
+
+Agent-innførsler som IKKE er identifiser med URI i $1
+men dere velger selv hvilke agenter som skal være med
+-------------------------------------------------------
+* 600  10  $aBucket, Charlie  $c(Fictitious character)  $vJuvenile fiction.
+* 600  14  $aDahl, Roald.
+* 600  10  $aWonka, Willy  $c(Fictitious character)  $vJuvenile fiction.
+* 710  2#  $aHålogaland teater  $0(NO-TrBIB)90125361
+
+
+Verk identifisert med URI
+-------------------------------------------------------
+* http://viaf.org/viaf/184741199 = Tales of the unexpected 
+* http://viaf.org/viaf/191540075 = The Witches 
+* http://viaf.org/viaf/2383154387337730970007 = George's Marvellous Medicine 
+* http://viaf.org/viaf/2414154387172830970000 = James and the giant peach 
+* http://viaf.org/viaf/309279222 = Charlie and the great glass elevator 
+* http://viaf.org/viaf/309287925 = Danny champion of the world 
+* http://viaf.org/viaf/309293759 = Going solo 
+* http://viaf.org/viaf/309348580 = Ah, sweet mystery of Life 
+* http://viaf.org/viaf/89146153009705251517 = Vicar of nibbleswicke 
+* http://viaf.org/viaf/9990161453851364330000 = Rhyme stew 
+
+
+Poster hvor vi ikke finner noe verk identifisert med URI
+hverken som hovedinnførsel i 130/240 eller som analytt i 700
+-------------------------------------------------------
+001 = 019864736 / 245$a =  The magic finger. 
+
+
+Oversikt over URI relasjonstyper for Agent brukt i samlingen
+verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
+-------------------------------------------------------
+* http://rdaregistry.info/Elements/e/object/P20022 (has narrator agent) : 1 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent) : 8 
+* http://rdaregistry.info/Elements/m/object/P30321 (has contributor agent of still image) : 4 
+* http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work) : 1 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 10 
+* http://rdaregistry.info/Elements/w/object/P10203 (has screenwriter agent) : 1 
+
+
+Verk til verk RDA relasjonstyper i 700 og 758 $4-subfelt + label fra RDA registry
+-------------------------------------------------------
+* http://rdaregistry.info/Elements/w/object/P10016 (is dramatized as work) : 1 
+* http://rdaregistry.info/Elements/w/object/P10142 (is adaptation of work) : 1 
+
+
+Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke analytter)
+-------------------------------------------------------
+Ser ut som dere mangler slike relasjoner? 

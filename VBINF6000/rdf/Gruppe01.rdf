@@ -1,0 +1,2305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:map="http://www.w3.org/2005/xpath-functions/map"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:marc="http://www.loc.gov/MARC21/slim"
+         xmlns:rdac="http://rdaregistry.info/Elements/c/"
+         xmlns:rdaad="http://rdaregistry.info/Elements/a/datatype/"
+         xmlns:rdaao="http://rdaregistry.info/Elements/a/object/"
+         xmlns:rdawd="http://rdaregistry.info/Elements/w/datatype/"
+         xmlns:rdawo="http://rdaregistry.info/Elements/w/object/"
+         xmlns:rdaed="http://rdaregistry.info/Elements/e/datatype/"
+         xmlns:rdaeo="http://rdaregistry.info/Elements/e/object/"
+         xmlns:rdamd="http://rdaregistry.info/Elements/m/datatype/"
+         xmlns:rdamo="http://rdaregistry.info/Elements/m/object/"
+         xmlns:rdaxd="http://rdaregistry.info/Elements/x/datatype/"
+         xmlns:mads="http://www.loc.gov/mads/rdf/v1#"
+         xmlns:mmmm="http://www.loc.gov/MARC21/slim/"
+         xmlns:rdaco="http://rdaregistry.info/termList/RDAContentType/"
+         xmlns:rdact="http://rdaregistry.info/termList/RDACarrierType/"
+         xmlns:rdamt="http://rdaregistry.info/termList/RDAMediaType/"
+         xmlns:rdat="http://rdaregistry.info/termList/"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:ex="http://www.example.org/">
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/10455/Moby/Dick">
+      <rdaxd:P00018>http://viaf.org/viaf/10455/Moby/Dick</rdaxd:P00018>
+      <rdawd:P10088>Moby Dick</rdawd:P10088>
+      <rdfs:label>Moby Dick (Eisner, Will)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/10985923/rask">
+      <rdaxd:P00018>http://viaf.org/viaf/10985923/rask</rdaxd:P00018>
+      <rdawd:P10088>Rask</rdawd:P10088>
+      <rdfs:label>Rask (Knudsen, Sverre)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/110569724/Den/store/premien">
+      <rdaxd:P00018>http://viaf.org/viaf/110569724/Den/store/premien</rdaxd:P00018>
+      <rdawd:P10088>Den store premien</rdawd:P10088>
+      <rdfs:label>Den store premien (Carey, Peter)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/140149294366780522217/Ka/med/snøen/?">
+      <rdaxd:P00018>http://viaf.org/viaf/140149294366780522217/Ka/med/snøen/?</rdaxd:P00018>
+      <rdawd:P10088>Ka bler det te med den snøen?</rdawd:P10088>
+      <rdfs:label>Ka bler det te med den snøen? (Renberg, Tore)</rdfs:label>
+      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/167149294306180521627/Alt/e/dine/venner">
+      <rdaxd:P00018>http://viaf.org/viaf/167149294306180521627/Alt/e/dine/venner</rdaxd:P00018>
+      <rdawd:P10088>Alt e dine venner</rdawd:P10088>
+      <rdfs:label>Alt e dine venner ()</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/167149294306180521627/Alt/venner">
+      <rdaxd:P00018>http://viaf.org/viaf/167149294306180521627/Alt/venner</rdaxd:P00018>
+      <rdawd:P10088>Alt e dine venner</rdawd:P10088>
+      <rdfs:label>Alt e dine venner (Verdensrommet (musikkgruppe))</rdfs:label>
+      <rdfs:label>Alt e dine venner (Renberg, Tore)</rdfs:label>
+      <rdfs:label>Alt e dine venner ()</rdfs:label>
+      <rdawo:P10019 rdf:resource="http://viaf.org/viaf/167149294306180521627/Alt/venner"/>
+      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdawo:P10304 rdf:resource="http://viaf.org/viaf/89149294297980521531"/>
+      <rdawo:P10489 rdf:resource="http://viaf.org/viaf/167149294306180521627"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/167306445/like/rolling/stone">
+      <rdaxd:P00018>http://viaf.org/viaf/167306445/like/rolling/stone</rdaxd:P00018>
+      <rdawd:P10088>Like a rolling stone</rdawd:P10088>
+      <rdfs:label>Like a rolling stone (Johnsen, Kjetil)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/175562201">
+      <rdaxd:P00018>http://viaf.org/viaf/175562201</rdaxd:P00018>
+      <rdawd:P10088>Den hemmelige hagen</rdawd:P10088>
+      <rdfs:label>Den hemmelige hagen (Burnett, Frances Hodgson)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/177351927">
+      <rdaxd:P00018>http://viaf.org/viaf/177351927</rdaxd:P00018>
+      <rdawd:P10088>Alt for Egil</rdawd:P10088>
+      <rdfs:label>Alt for Egil ()</rdfs:label>
+      <rdfs:label>Alt for Egil (Renberg, Tore)</rdfs:label>
+      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/17145971375232330083"/>
+      <rdawo:P10066 rdf:resource="http://viaf.org/viaf/274985165"/>
+      <rdawo:P10073 rdf:resource="http://viaf.org/viaf/264849240"/>
+      <rdawo:P10160 rdf:resource="http://viaf.org/viaf/177351927"/>
+      <rdawo:P10203 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdawo:P10203 rdf:resource="http://viaf.org/viaf/274985165"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/222044519/hakkemat/mot/veggen">
+      <rdaxd:P00018>http://viaf.org/viaf/222044519/hakkemat/mot/veggen</rdaxd:P00018>
+      <rdawd:P10088>Hakkemat opp mot veggen</rdawd:P10088>
+      <rdfs:label>Hakkemat opp mot veggen (Zahl, Geir)</rdfs:label>
+      <rdawo:P10019 rdf:resource="http://viaf.org/viaf/283715067/Mannen/som/elsket/Yngve"/>
+      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/222044519"/>
+      <rdawo:P10204 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/222062902/Venner/?">
+      <rdaxd:P00018>http://viaf.org/viaf/222062902/Venner/?</rdaxd:P00018>
+      <rdawd:P10088>Skal vi være venner?</rdawd:P10088>
+      <rdfs:label>Skal vi være venner? ()</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/2229156133228058430004">
+      <rdaxd:P00018>http://viaf.org/viaf/2229156133228058430004</rdaxd:P00018>
+      <rdawd:P10088>Charlotte Isabel Hansen</rdawd:P10088>
+      <rdfs:label>Charlotte Isabel Hansen (Renberg, Tore)</rdfs:label>
+      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdawo:P10129 rdf:resource="http://viaf.org/viaf/9937151965272000470001"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/2392161938122739870007">
+      <rdaxd:P00018>http://viaf.org/viaf/2392161938122739870007</rdaxd:P00018>
+      <rdawd:P10088>Skammarens dotter</rdawd:P10088>
+      <rdfs:label>Skammarens dotter (Kaaberbøl, Lene)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/243895320">
+      <rdaxd:P00018>http://viaf.org/viaf/243895320</rdaxd:P00018>
+      <rdawd:P10088>Artemis Fowl</rdawd:P10088>
+      <rdfs:label>Artemis Fowl (Colfer, Eoin)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/283715067/Mannen/som/elsket/Yngve">
+      <rdaxd:P00018>http://viaf.org/viaf/283715067/Mannen/som/elsket/Yngve</rdaxd:P00018>
+      <rdawd:P10088>Mannen som elsket Yngve (videoopptak)</rdawd:P10088>
+      <rdfs:label>Mannen som elsket Yngve (videoopptak)</rdfs:label>
+      <rdfs:label>Mannen som elsket Yngve</rdfs:label>
+      <rdawd:P10088>Mannen som elsket Yngve</rdawd:P10088>
+      <rdawo:P10013 rdf:resource="http://viaf.org/viaf/283715067"/>
+      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/85757429"/>
+      <rdawo:P10129 rdf:resource="http://viaf.org/viaf/283715067/Mannen/som/elsket/Yngve"/>
+      <rdawo:P10203 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/301771064/boken/guder">
+      <rdaxd:P00018>http://viaf.org/viaf/301771064/boken/guder</rdaxd:P00018>
+      <rdawd:P10088>Den store boken om norrøne guder</rdawd:P10088>
+      <rdfs:label>Den store boken om norrøne guder (Bringsværd, Tor Åge)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/307153210/Karisma">
+      <rdaxd:P00018>http://viaf.org/viaf/307153210/Karisma</rdaxd:P00018>
+      <rdawd:P10088>Karisma</rdawd:P10088>
+      <rdfs:label>Karisma (Svingen, Arne)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/308562705">
+      <rdaxd:P00018>http://viaf.org/viaf/308562705</rdaxd:P00018>
+      <rdawd:P10088>Per og vesle Mads</rdawd:P10088>
+      <rdfs:label>Per og vesle Mads (Kirkegaard, Ole Lund)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/308571626/Tippe/Topphatt">
+      <rdaxd:P00018>http://viaf.org/viaf/308571626/Tippe/Topphatt</rdaxd:P00018>
+      <rdawd:P10088>Tippe Topphatt og andre fortellinger</rdawd:P10088>
+      <rdfs:label>Tippe Topphatt og andre fortellinger (Kirkegaard, Ole Lund)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/310948304">
+      <rdaxd:P00018>http://viaf.org/viaf/310948304</rdaxd:P00018>
+      <rdawd:P10088>Kurt blir grusom</rdawd:P10088>
+      <rdfs:label>Kurt blir grusom (Loe, Erlend)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/312513456">
+      <rdaxd:P00018>http://viaf.org/viaf/312513456</rdaxd:P00018>
+      <rdawd:P10088>Løvetannsang</rdawd:P10088>
+      <rdfs:label>Løvetannsang (Hagerup, Hilde)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/34565761/Champange/heroin/filmmanus">
+      <rdaxd:P00018>http://viaf.org/viaf/34565761/Champange/heroin/filmmanus</rdaxd:P00018>
+      <rdawd:P10088>Champagne eller heroin</rdawd:P10088>
+      <rdfs:label>Champagne eller heroin (Renberg, Tore)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdawo:P10257 rdf:resource="http://viaf.org/viaf/177351927"/>
+      <rdawo:P10319 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdawo:P10319 rdf:resource="http://viaf.org/viaf/274985165"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/34565761/Det/amerikanske/valget">
+      <rdaxd:P00018>http://viaf.org/viaf/34565761/Det/amerikanske/valget</rdaxd:P00018>
+      <rdawd:P10088>Det amerikanske valget</rdawd:P10088>
+      <rdfs:label>Det amerikanske valget (Stavanger enegri)</rdfs:label>
+      <rdfs:label>Det amerikanske valget ()</rdfs:label>
+      <rdawo:P10304 rdf:resource="http://viaf.org/viaf/51145970335632252661"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/34565761/Jord/løv/på">
+      <rdaxd:P00018>http://viaf.org/viaf/34565761/Jord/løv/på</rdaxd:P00018>
+      <rdawd:P10088>Jord med løv på/Meg med løv på</rdawd:P10088>
+      <rdfs:label>Jord med løv på/Meg med løv på (Renberg, Tore)</rdfs:label>
+      <rdawo:P10019 rdf:resource="http://viaf.org/viaf/34565761/Det/amerikanske/valget"/>
+      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdawo:P10304 rdf:resource="http://viaf.org/viaf/51145970335632252661"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/34565761/Mars">
+      <rdaxd:P00018>http://viaf.org/viaf/34565761/Mars</rdaxd:P00018>
+      <rdawd:P10088>Mars</rdawd:P10088>
+      <rdfs:label>Mars (Renberg, Tore)</rdfs:label>
+      <rdawo:P10019 rdf:resource="http://viaf.org/viaf/167149294306180521627/Alt/venner"/>
+      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdawo:P10304 rdf:resource="http://viaf.org/viaf/89149294297980521531"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/34565761/Varmelager/fem">
+      <rdaxd:P00018>http://viaf.org/viaf/34565761/Varmelager/fem</rdaxd:P00018>
+      <rdawd:P10088>Varmelager fem</rdawd:P10088>
+      <rdfs:label>Varmelager fem (Renberg, Tore)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/34565761/Verden/dag/bruksanvisning">
+      <rdaxd:P00018>http://viaf.org/viaf/34565761/Verden/dag/bruksanvisning</rdaxd:P00018>
+      <rdawd:P10088>Verden i dag</rdawd:P10088>
+      <rdfs:label>Verden i dag ()</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/34565761/langt/helvete">
+      <rdaxd:P00018>http://viaf.org/viaf/34565761/langt/helvete</rdaxd:P00018>
+      <rdawd:P10088>Det er langt til helvete for den som ikke vil dit</rdawd:P10088>
+      <rdfs:label>Det er langt til helvete for den som ikke vil dit (Renberg, Tore)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdawo:P10319 rdf:resource="http://viaf.org/viaf/74661518"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/34565761/sinus/blinde/kjærlighetsfortelling">
+      <rdaxd:P00018>http://viaf.org/viaf/34565761/sinus/blinde/kjærlighetsfortelling</rdaxd:P00018>
+      <rdawd:P10088>Sinus i blinde en kjærlighetsfortelling</rdawd:P10088>
+      <rdfs:label>Sinus i blinde en kjærlighetsfortelling (Renberg, Tore)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/34565761/vanskelige/følelser">
+      <rdaxd:P00018>http://viaf.org/viaf/34565761/vanskelige/følelser</rdaxd:P00018>
+      <rdawd:P10088>Vanskelige følelser</rdawd:P10088>
+      <rdfs:label>Vanskelige følelser (Renberg, Tore)</rdfs:label>
+      <rdawo:P10019 rdf:resource="http://viaf.org/viaf/167149294306180521627/Alt/venner"/>
+      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdawo:P10304 rdf:resource="http://viaf.org/viaf/89149294297980521531"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/34565761/yassir/arafat">
+      <rdaxd:P00018>http://viaf.org/viaf/34565761/yassir/arafat</rdaxd:P00018>
+      <rdawd:P10088>Yassir Arafat</rdawd:P10088>
+      <rdfs:label>Yassir Arafat (Renberg, Tore)</rdfs:label>
+      <rdawo:P10019 rdf:resource="http://viaf.org/viaf/167149294306180521627/Alt/e/dine/venner"/>
+      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdawo:P10304 rdf:resource="http://viaf.org/viaf/89149294297980521531"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/3568154387451230970006">
+      <rdaxd:P00018>http://viaf.org/viaf/3568154387451230970006</rdaxd:P00018>
+      <rdawd:P10088>Charlotte Isabel Hansen</rdawd:P10088>
+      <rdfs:label>Charlotte Isabel Hansen (Renberg, Tore)</rdfs:label>
+      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/39378054/Bare/Elvis">
+      <rdaxd:P00018>http://viaf.org/viaf/39378054/Bare/Elvis</rdaxd:P00018>
+      <rdawd:P10088>Bare Elvis</rdawd:P10088>
+      <rdfs:label>Bare Elvis (Gripe, Maria)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/41149294249780521243/Kompani/Orheim">
+      <rdaxd:P00018>http://viaf.org/viaf/41149294249780521243/Kompani/Orheim</rdaxd:P00018>
+      <rdawd:P10088>Kompani Orheim (videoopptak)</rdawd:P10088>
+      <rdfs:label>Kompani Orheim (videoopptak)</rdfs:label>
+      <rdawo:P10013 rdf:resource="http://viaf.org/viaf/41149294249780521243"/>
+      <rdawo:P10129 rdf:resource="http://viaf.org/viaf/9937151965272000470001"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/9937151965272000470001"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/46733274/Superhemmelig">
+      <rdaxd:P00018>http://viaf.org/viaf/46733274/Superhemmelig</rdaxd:P00018>
+      <rdawd:P10088>Superhemmelig</rdawd:P10088>
+      <rdfs:label>Superhemmelig (Lindgren, Barbro)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/4803160364978863680002">
+      <rdaxd:P00018>http://viaf.org/viaf/4803160364978863680002</rdaxd:P00018>
+      <rdawd:P10088>Trollkrittet</rdawd:P10088>
+      <rdfs:label>Trollkrittet (Hopp, Zinken)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/49149294365380522384/Dramatisk">
+      <rdaxd:P00018>http://viaf.org/viaf/49149294365380522384/Dramatisk</rdaxd:P00018>
+      <rdawd:P10088>Dramatisk</rdawd:P10088>
+      <rdfs:label>Dramatisk ()</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/49282521/Tor/vennene/hans">
+      <rdaxd:P00018>http://viaf.org/viaf/49282521/Tor/vennene/hans</rdaxd:P00018>
+      <rdawd:P10088>Tor og vennene hans</rdawd:P10088>
+      <rdfs:label>Tor og vennene hans (Stark, Ulf)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/56617433/Filibom/bom/bom">
+      <rdaxd:P00018>http://viaf.org/viaf/56617433/Filibom/bom/bom</rdaxd:P00018>
+      <rdawd:P10088>Ole Aleksander Filibom-bom-bom</rdawd:P10088>
+      <rdfs:label>Ole Aleksander Filibom-bom-bom (Vestly, Anne-Cath.)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/5930152502773210800007">
+      <rdaxd:P00018>http://viaf.org/viaf/5930152502773210800007</rdaxd:P00018>
+      <rdfs:label>(Renberg, Tore)</rdfs:label>
+      <rdawd:P10088>Mannen som elsket Yngve</rdawd:P10088>
+      <rdfs:label>Mannen som elsket Yngve (Renberg, Tore)</rdfs:label>
+      <rdfs:label>Mannen som elsket Yngve</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/66503940/råtne/rikard">
+      <rdaxd:P00018>http://viaf.org/viaf/66503940/råtne/rikard</rdaxd:P00018>
+      <rdawd:P10088>Råtne Rikard</rdawd:P10088>
+      <rdfs:label>Råtne Rikard (Hjorth, Vigdis)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/66514645/tigrene/opptur">
+      <rdaxd:P00018>http://viaf.org/viaf/66514645/tigrene/opptur</rdaxd:P00018>
+      <rdawd:P10088>Tigrene på opptur</rdawd:P10088>
+      <rdfs:label>Tigrene på opptur (Olsen, Pål Gerhard)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/6929149068420465730000">
+      <rdaxd:P00018>http://viaf.org/viaf/6929149068420465730000</rdaxd:P00018>
+      <rdawd:P10088>Hugo og Josefin</rdawd:P10088>
+      <rdfs:label>Hugo og Josefin (Gripe, Maria)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/7537151051963033530002/Eddie/og/Johanna">
+      <rdaxd:P00018>http://viaf.org/viaf/7537151051963033530002/Eddie/og/Johanna</rdaxd:P00018>
+      <rdawd:P10088>Eddie og Johanna</rdawd:P10088>
+      <rdfs:label>Eddie og Johanna (Lärn, Viveca)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/759154501936239210001">
+      <rdaxd:P00018>http://viaf.org/viaf/759154501936239210001</rdaxd:P00018>
+      <rdawd:P10088>Vi ses i morgen</rdawd:P10088>
+      <rdfs:label>Vi ses i morgen (Renberg, Tore)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/78136149/null/til/no">
+      <rdaxd:P00018>http://viaf.org/viaf/78136149/null/til/no</rdaxd:P00018>
+      <rdawd:P10088>Frå null til no</rdawd:P10088>
+      <rdfs:label>Frå null til no (Trohaug, Ragnfrid)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/79514873/skrekkens/sirkus">
+      <rdaxd:P00018>http://viaf.org/viaf/79514873/skrekkens/sirkus</rdaxd:P00018>
+      <rdawd:P10088>Skrekkens sirkus</rdawd:P10088>
+      <rdfs:label>Skrekkens sirkus (Shan, Darren)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/80096464/Hando/Kjendo/Torsdag">
+      <rdaxd:P00018>http://viaf.org/viaf/80096464/Hando/Kjendo/Torsdag</rdaxd:P00018>
+      <rdawd:P10088>Hando, Kjendo. Torsdag : [en fortelling om et vennskap og et underverk]</rdawd:P10088>
+      <rdfs:label>Hando, Kjendo. Torsdag : [en fortelling om et vennskap og et underverk] (Hiorthøy, Kim)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/97119817/Alle/vi/barna/i/Bakkebygrenda">
+      <rdaxd:P00018>http://viaf.org/viaf/97119817/Alle/vi/barna/i/Bakkebygrenda</rdaxd:P00018>
+      <rdawd:P10088>Alle vi barna i Bakkebygrenda</rdawd:P10088>
+      <rdfs:label>Alle vi barna i Bakkebygrenda (Lindgren, Astrid)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/9744160364964763680008">
+      <rdaxd:P00018>http://viaf.org/viaf/9744160364964763680008</rdaxd:P00018>
+      <rdawd:P10088>Kurt quo vadis</rdawd:P10088>
+      <rdfs:label>Kurt quo vadis (Loe, Erlend)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/9937151965272000470001">
+      <rdaxd:P00018>http://viaf.org/viaf/9937151965272000470001</rdaxd:P00018>
+      <rdawd:P10088>Kompani Orheim</rdawd:P10088>
+      <rdfs:label>Kompani Orheim (Renberg, Tore)</rdfs:label>
+      <rdfs:label>Kompani Orheim</rdfs:label>
+      <rdawo:P10013 rdf:resource="http://viaf.org/viaf/41149294249780521243"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdawo:P10122 rdf:resource="http://viaf.org/viaf/5930152502773210800007"/>
+      <rdawo:P10129 rdf:resource="http://viaf.org/viaf/9937151965272000470001"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf/34564761/Farmor/kabel-TV/Videogutten">
+      <rdaxd:P00018>http://viaf/34564761/Farmor/kabel-TV/Videogutten</rdaxd:P00018>
+      <rdawd:P10088>Farmor har kabel-TV ; Videogutten</rdawd:P10088>
+      <rdfs:label>Farmor har kabel-TV ; Videogutten (Renberg, Tore)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf/34565761/Han/forelska/kona/di">
+      <rdaxd:P00018>http://viaf/34565761/Han/forelska/kona/di</rdaxd:P00018>
+      <rdawd:P10088>Han er forelska i kona di</rdawd:P10088>
+      <rdfs:label>Han er forelska i kona di (Renberg, Tore)</rdfs:label>
+      <rdawo:P10019 rdf:resource="http://viaf.org/viaf/34565761/Det/amerikanske/valget"/>
+      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdawo:P10304 rdf:resource="http://viaf.org/viaf/51145970335632252661"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://viaf.org/viaf/34565761/erindringer/fremtiden">
+      <rdaxd:P00018>https://viaf.org/viaf/34565761/erindringer/fremtiden</rdaxd:P00018>
+      <rdawd:P10088>En god tid : erindringer fra fremtiden : en kjærlighetsroman fra den tid som skal komme, til minne om den tid som har vært</rdawd:P10088>
+      <rdfs:label>En god tid : erindringer fra fremtiden : en kjærlighetsroman fra den tid som skal komme, til minne om den tid som har vært (Renberg, Tore)</rdfs:label>
+      <rdawd:P10088>En god tid</rdawd:P10088>
+      <rdfs:label>En god tid (Renberg, Tore)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://viaf/34565761/Alt/for/Egil">
+      <rdaxd:P00018>https://viaf/34565761/Alt/for/Egil</rdaxd:P00018>
+      <rdawd:P10088>Alt for Egil (screenplay)</rdawd:P10088>
+      <rdfs:label>Alt for Egil (screenplay)</rdfs:label>
+      <rdawo:P10160 rdf:resource="http://viaf.org/viaf/177351927"/>
+      <rdawo:P10203 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdawo:P10203 rdf:resource="http://viaf.org/viaf/274985165"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://viaf/34565761/Renselse/Jakob/Malde">
+      <rdaxd:P00018>https://viaf/34565761/Renselse/Jakob/Malde</rdaxd:P00018>
+      <rdawd:P10088>Renselse :romanen om Jackob Malde, den ved Gud evig forbundne, for verden alltid tapte, sett, elsket, aktet</rdawd:P10088>
+      <rdfs:label>Renselse :romanen om Jackob Malde, den ved Gud evig forbundne, for verden alltid tapte, sett, elsket, aktet (Renberg, Tore)</rdfs:label>
+      <rdawd:P10088>Renselse : romanen om Jakob Malde, den ved Gud evig forbundne, for verden alltid tapte, sett, elsket, aktet</rdawd:P10088>
+      <rdfs:label>Renselse : romanen om Jakob Malde, den ved Gud evig forbundne, for verden alltid tapte, sett, elsket, aktet (Renberg, Tore)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://viaf/34565761/Trillefolket/Kjartan">
+      <rdaxd:P00018>https://viaf/34565761/Trillefolket/Kjartan</rdaxd:P00018>
+      <rdawd:P10088>Trillefolket</rdawd:P10088>
+      <rdfs:label>Trillefolket (Renberg, Tore)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10001>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/100929322">
+      <rdaxd:P00018>http://viaf.org/viaf/100929322</rdaxd:P00018>
+      <rdaad:P50385>Larsen, Rolf Kristian</rdaad:P50385>
+      <rdfs:label>Larsen, Rolf Kristian</rdfs:label>
+      <rdaad:P50339>1983-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/10543719">
+      <rdaxd:P00018>http://viaf.org/viaf/10543719</rdaxd:P00018>
+      <rdaad:P50385>Dybvig, Per</rdaad:P50385>
+      <rdfs:label>Dybvig, Per</rdfs:label>
+      <rdaad:P50339>1964-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/1091149068479965730002">
+      <rdaxd:P00018>http://viaf.org/viaf/1091149068479965730002</rdaxd:P00018>
+      <rdaad:P50385>Enger, Vebjørn</rdaad:P50385>
+      <rdfs:label>Enger, Vebjørn</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/133302399">
+      <rdaxd:P00018>http://viaf.org/viaf/133302399</rdaxd:P00018>
+      <rdaad:P50385>Tõrnquist:2004</rdaad:P50385>
+      <rdfs:label>Tõrnquist:2004</rdfs:label>
+      <rdaad:P50385>Törnqvist, Peter</rdaad:P50385>
+      <rdfs:label>Törnqvist, Peter</rdfs:label>
+      <rdaad:P50339>1963-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/140149294366780522217">
+      <rdaxd:P00018>http://viaf.org/viaf/140149294366780522217</rdaxd:P00018>
+      <rdaad:P50385>Stavanger enegri</rdaad:P50385>
+      <rdfs:label>Stavanger enegri</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/153149294274480521324">
+      <rdaxd:P00018>http://viaf.org/viaf/153149294274480521324</rdaxd:P00018>
+      <rdaad:P50385>Fjermestad, Kristian</rdaad:P50385>
+      <rdfs:label>Fjermestad, Kristian</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/160101915">
+      <rdaxd:P00018>http://viaf.org/viaf/160101915</rdaxd:P00018>
+      <rdaad:P50385>Mosli, Cecilie</rdaad:P50385>
+      <rdfs:label>Mosli, Cecilie</rdfs:label>
+      <rdaad:P50339>1973-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/167149294306180521627">
+      <rdaxd:P00018>http://viaf.org/viaf/167149294306180521627</rdaxd:P00018>
+      <rdaad:P50385>Verdensrommet (musikkgruppe)</rdaad:P50385>
+      <rdfs:label>Verdensrommet (musikkgruppe)</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/17145971375232330083">
+      <rdaxd:P00018>http://viaf.org/viaf/17145971375232330083</rdaxd:P00018>
+      <rdaad:P50385>Horntveth, Lars</rdaad:P50385>
+      <rdfs:label>Horntveth, Lars</rdfs:label>
+      <rdaad:P50339>1980-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/172057123">
+      <rdaxd:P00018>http://viaf.org/viaf/172057123</rdaxd:P00018>
+      <rdaad:P50385>Langhelle, Jørgen</rdaad:P50385>
+      <rdfs:label>Langhelle, Jørgen</rdfs:label>
+      <rdaad:P50339>1965-2021</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/191149196295074790971">
+      <rdaxd:P00018>http://viaf.org/viaf/191149196295074790971</rdaxd:P00018>
+      <rdaad:P50385>Ertvaag, Ole Christoffer</rdaad:P50385>
+      <rdfs:label>Ertvaag, Ole Christoffer</rdfs:label>
+      <rdaad:P50339>1987-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/19327274">
+      <rdaxd:P00018>http://viaf.org/viaf/19327274</rdaxd:P00018>
+      <rdaad:P50385>Larsen, Janike Kampevold</rdaad:P50385>
+      <rdfs:label>Larsen, Janike Kampevold</rdfs:label>
+      <rdaad:P50339>1966-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/211149294446580522849">
+      <rdaxd:P00018>http://viaf.org/viaf/211149294446580522849</rdaxd:P00018>
+      <rdaad:P50385>Jacobsen, Børre</rdaad:P50385>
+      <rdfs:label>Jacobsen, Børre</rdfs:label>
+      <rdaad:P50339>1974-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/222044519">
+      <rdaxd:P00018>http://viaf.org/viaf/222044519</rdaxd:P00018>
+      <rdaad:P50385>Zahl, Geir</rdaad:P50385>
+      <rdfs:label>Zahl, Geir</rdfs:label>
+      <rdaad:P50339>1975-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/222062902">
+      <rdaxd:P00018>http://viaf.org/viaf/222062902</rdaxd:P00018>
+      <rdaad:P50385>Borkenhagen, Marit</rdaad:P50385>
+      <rdfs:label>Borkenhagen, Marit</rdfs:label>
+      <rdaad:P50339>1970-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/225228973">
+      <rdaxd:P00018>http://viaf.org/viaf/225228973</rdaxd:P00018>
+      <rdaad:P50385>Joner, Kristoffer</rdaad:P50385>
+      <rdfs:label>Joner, Kristoffer</rdfs:label>
+      <rdaad:P50339>1972-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/225599858">
+      <rdaxd:P00018>http://viaf.org/viaf/225599858</rdaxd:P00018>
+      <rdaad:P50385>Skevik, Grete</rdaad:P50385>
+      <rdfs:label>Skevik, Grete</rdfs:label>
+      <rdaad:P50339>1950-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/227149066634465602334">
+      <rdaxd:P00018>http://viaf.org/viaf/227149066634465602334</rdaxd:P00018>
+      <rdaad:P50385>Batzer, Arild</rdaad:P50385>
+      <rdfs:label>Batzer, Arild</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/227709587">
+      <rdaxd:P00018>http://viaf.org/viaf/227709587</rdaxd:P00018>
+      <rdaad:P50385>Høvik, Trond</rdaad:P50385>
+      <rdfs:label>Høvik, Trond</rdfs:label>
+      <rdaad:P50339>1966-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/228766916">
+      <rdaxd:P00018>http://viaf.org/viaf/228766916</rdaxd:P00018>
+      <rdaad:P50385>Nilsson, Sally</rdaad:P50385>
+      <rdfs:label>Nilsson, Sally</rdfs:label>
+      <rdaad:P50339>1949-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/229787737">
+      <rdaxd:P00018>http://viaf.org/viaf/229787737</rdaxd:P00018>
+      <rdaad:P50385>Berven, Yngve</rdaad:P50385>
+      <rdfs:label>Berven, Yngve</rdfs:label>
+      <rdaad:P50339>1975-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/230200815">
+      <rdaxd:P00018>http://viaf.org/viaf/230200815</rdaxd:P00018>
+      <rdaad:P50385>Tunkiel, Katarzyna</rdaad:P50385>
+      <rdfs:label>Tunkiel, Katarzyna</rdfs:label>
+      <rdaad:P50339>1985-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/264849240">
+      <rdaxd:P00018>http://viaf.org/viaf/264849240</rdaxd:P00018>
+      <rdaad:P50385>Endresen, Sigve</rdaad:P50385>
+      <rdfs:label>Endresen, Sigve</rdfs:label>
+      <rdaad:P50339>1953-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/270835697">
+      <rdaxd:P00018>http://viaf.org/viaf/270835697</rdaxd:P00018>
+      <rdaad:P50385>Fouillet, Alex</rdaad:P50385>
+      <rdfs:label>Fouillet, Alex</rdfs:label>
+      <rdaad:P50339>1974-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/271919237">
+      <rdaxd:P00018>http://viaf.org/viaf/271919237</rdaxd:P00018>
+      <rdaad:P50385>Coucheron, Olaf</rdaad:P50385>
+      <rdfs:label>Coucheron, Olaf</rdfs:label>
+      <rdaad:P50339>1912-1995</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/274985165">
+      <rdaxd:P00018>http://viaf.org/viaf/274985165</rdaxd:P00018>
+      <rdaad:P50385>Rygh, Tore</rdaad:P50385>
+      <rdfs:label>Rygh, Tore</rdfs:label>
+      <rdaad:P50339>1968-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/283715067">
+      <rdaxd:P00018>http://viaf.org/viaf/283715067</rdaxd:P00018>
+      <rdaad:P50385>Kristiansen, Stian</rdaad:P50385>
+      <rdfs:label>Kristiansen, Stian</rdfs:label>
+      <rdaad:P50339>1972-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/29721490686155657300061">
+      <rdaxd:P00018>http://viaf.org/viaf/29721490686155657300061</rdaxd:P00018>
+      <rdaad:P50385>Ljone, Oddmund</rdaad:P50385>
+      <rdfs:label>Ljone, Oddmund</rdfs:label>
+      <rdaad:P50339>1917-1985</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/302657140">
+      <rdaxd:P00018>http://viaf.org/viaf/302657140</rdaxd:P00018>
+      <rdaad:P50385>Hirsch, Trygve von</rdaad:P50385>
+      <rdfs:label>Hirsch, Trygve von</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/32145970329832252552">
+      <rdaxd:P00018>http://viaf.org/viaf/32145970329832252552</rdaxd:P00018>
+      <rdaad:P50385>Jensen, Jannie</rdaad:P50385>
+      <rdfs:label>Jensen, Jannie</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/3287149108688668780004">
+      <rdaxd:P00018>http://viaf.org/viaf/3287149108688668780004</rdaxd:P00018>
+      <rdaad:P50385>Broch, Ida Elise</rdaad:P50385>
+      <rdfs:label>Broch, Ida Elise</rdfs:label>
+      <rdaad:P50339>1987-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/34565761">
+      <rdaxd:P00018>http://viaf.org/viaf/34565761</rdaxd:P00018>
+      <rdaad:P50385>Renberg, Tore</rdaad:P50385>
+      <rdfs:label>Renberg, Tore</rdfs:label>
+      <rdaad:P50339>1972-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/3595149368838385980009">
+      <rdaxd:P00018>http://viaf.org/viaf/3595149368838385980009</rdaxd:P00018>
+      <rdaad:P50385>Berning, Arthur</rdaad:P50385>
+      <rdfs:label>Berning, Arthur</rdfs:label>
+      <rdaad:P50339>1987-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/39425716">
+      <rdaxd:P00018>http://viaf.org/viaf/39425716</rdaxd:P00018>
+      <rdaad:P50385>Tenfjord, Jo</rdaad:P50385>
+      <rdfs:label>Tenfjord, Jo</rdfs:label>
+      <rdaad:P50339>1918-2007-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/406160483611904990154">
+      <rdaxd:P00018>http://viaf.org/viaf/406160483611904990154</rdaxd:P00018>
+      <rdaad:P50385>Guddingsmo, Jonny</rdaad:P50385>
+      <rdfs:label>Guddingsmo, Jonny</rdfs:label>
+      <rdaad:P50339>1971-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/410149294085080520515">
+      <rdaxd:P00018>http://viaf.org/viaf/410149294085080520515</rdaxd:P00018>
+      <rdaad:P50385>Jacobsen, Tore</rdaad:P50385>
+      <rdfs:label>Jacobsen, Tore</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/41149294249780521243">
+      <rdaxd:P00018>http://viaf.org/viaf/41149294249780521243</rdaxd:P00018>
+      <rdaad:P50385>Andresen, Arild</rdaad:P50385>
+      <rdfs:label>Andresen, Arild</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/433149066637265602491">
+      <rdaxd:P00018>http://viaf.org/viaf/433149066637265602491</rdaxd:P00018>
+      <rdaad:P50385>Dietrichson, Inger</rdaad:P50385>
+      <rdfs:label>Dietrichson, Inger</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/444149066632065602506">
+      <rdaxd:P00018>http://viaf.org/viaf/444149066632065602506</rdaxd:P00018>
+      <rdaad:P50385>Saastad, Mona Helene</rdaad:P50385>
+      <rdfs:label>Saastad, Mona Helene</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/4616154075994111860006">
+      <rdaxd:P00018>http://viaf.org/viaf/4616154075994111860006</rdaxd:P00018>
+      <rdaad:P50385>Pedersen, Jørn</rdaad:P50385>
+      <rdfs:label>Pedersen, Jørn</rdfs:label>
+      <rdaad:P50339>1962-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/48102666">
+      <rdaxd:P00018>http://viaf.org/viaf/48102666</rdaxd:P00018>
+      <rdaad:P50385>Hoff, Gerd</rdaad:P50385>
+      <rdfs:label>Hoff, Gerd</rdfs:label>
+      <rdaad:P50339>1940-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/4939156012383649700001">
+      <rdaxd:P00018>http://viaf.org/viaf/4939156012383649700001</rdaxd:P00018>
+      <rdaad:P50385>Jørgensen, Jørgen</rdaad:P50385>
+      <rdfs:label>Jørgensen, Jørgen</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/51145970335632252661">
+      <rdaxd:P00018>http://viaf.org/viaf/51145970335632252661</rdaxd:P00018>
+      <rdaad:P50385>Lye, Eirik</rdaad:P50385>
+      <rdfs:label>Lye, Eirik</rdfs:label>
+      <rdaad:P50339>1976-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/51783729">
+      <rdaxd:P00018>http://viaf.org/viaf/51783729</rdaxd:P00018>
+      <rdaad:P50385>Grøndahl, Cathrine</rdaad:P50385>
+      <rdfs:label>Grøndahl, Cathrine</rdfs:label>
+      <rdaad:P50339>1969-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/60552805">
+      <rdaxd:P00018>http://viaf.org/viaf/60552805</rdaxd:P00018>
+      <rdaad:P50385>Aurstad, Oddvar</rdaad:P50385>
+      <rdfs:label>Aurstad, Oddvar</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/60820856">
+      <rdaxd:P00018>http://viaf.org/viaf/60820856</rdaxd:P00018>
+      <rdaad:P50385>Andersson, Urban</rdaad:P50385>
+      <rdfs:label>Andersson, Urban</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/62377176">
+      <rdaxd:P00018>http://viaf.org/viaf/62377176</rdaxd:P00018>
+      <rdaad:P50385>Frauenlob, Günther</rdaad:P50385>
+      <rdfs:label>Frauenlob, Günther</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/7411743">
+      <rdaxd:P00018>http://viaf.org/viaf/7411743</rdaxd:P00018>
+      <rdaad:P50385>Brekke, Toril</rdaad:P50385>
+      <rdfs:label>Brekke, Toril</rdfs:label>
+      <rdaad:P50339>1949-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/74661518">
+      <rdaxd:P00018>http://viaf.org/viaf/74661518</rdaxd:P00018>
+      <rdaad:P50385>Hagerup, Inger</rdaad:P50385>
+      <rdfs:label>Hagerup, Inger</rdfs:label>
+      <rdaad:P50339>1905-1985</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/79086818">
+      <rdaxd:P00018>http://viaf.org/viaf/79086818</rdaxd:P00018>
+      <rdaad:P50385>Fretheim, Tor</rdaad:P50385>
+      <rdfs:label>Fretheim, Tor</rdfs:label>
+      <rdaad:P50339>1946-2018</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/80010134">
+      <rdaxd:P00018>http://viaf.org/viaf/80010134</rdaxd:P00018>
+      <rdaad:P50385>Abel, Morten</rdaad:P50385>
+      <rdfs:label>Abel, Morten</rdfs:label>
+      <rdaad:P50339>1962-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/80096464">
+      <rdaxd:P00018>http://viaf.org/viaf/80096464</rdaxd:P00018>
+      <rdaad:P50385>Hiorthøy, Kim</rdaad:P50385>
+      <rdfs:label>Hiorthøy, Kim</rdfs:label>
+      <rdaad:P50339>1973-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/85372382">
+      <rdaxd:P00018>http://viaf.org/viaf/85372382</rdaxd:P00018>
+      <rdaad:P50385>Scheen, Kjersti</rdaad:P50385>
+      <rdfs:label>Scheen, Kjersti</rdfs:label>
+      <rdaad:P50339>1943-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/85757429">
+      <rdaxd:P00018>http://viaf.org/viaf/85757429</rdaxd:P00018>
+      <rdaad:P50385>Kaada, John Erik</rdaad:P50385>
+      <rdfs:label>Kaada, John Erik</rdfs:label>
+      <rdaad:P50339>1975-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/89149294297980521531">
+      <rdaxd:P00018>http://viaf.org/viaf/89149294297980521531</rdaxd:P00018>
+      <rdaad:P50385>Riska, Inge</rdaad:P50385>
+      <rdfs:label>Riska, Inge</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/9220815">
+      <rdaxd:P00018>http://viaf.org/viaf/9220815</rdaxd:P00018>
+      <rdaad:P50385>Soli, Tina</rdaad:P50385>
+      <rdfs:label>Soli, Tina</rdfs:label>
+      <rdaad:P50339>1972-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/10455/Moby/Dick/exp/mul/nno/nob/1020">
+      <rdaed:P20312>Moby Dick</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Moby Dick</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mul"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/10455/Moby/Dick"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/10985923/rask/exp/mul/nno/nob/1020">
+      <rdaed:P20312>Rask</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Rask</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mul"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/10985923/rask"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/110569724/Den/store/premien/exp/mul/nno/nob/1020">
+      <rdaed:P20312>Den store premien</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Den store premien</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mul"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/110569724/Den/store/premien"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/140149294366780522217/Ka/med/snøen/?/exp/eng/1011">
+      <rdaed:P20316>Ka bler det te med den snøen?</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Ka bler det te med den snøen?</rdaed:P20312>
+      <rdfs:label>Ka bler det te med den snøen?</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/140149294366780522217/Ka/med/snøen/?"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/167149294306180521627/Alt/venner/exp/nob/1011">
+      <rdaed:P20316>Alt e dine venner</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Alt e dine venner</rdaed:P20312>
+      <rdfs:label>Alt e dine venner</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/153149294274480521324"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/406160483611904990154"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/4939156012383649700001"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/4616154075994111860006"/>
+      <rdaeo:P20025 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/167149294306180521627/Alt/venner"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/167306445/like/rolling/stone/exp/mul/nno/nob/1020">
+      <rdaed:P20312>Like a rolling stone</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Like a rolling stone</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mul"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/167306445/like/rolling/stone"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/175562201/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382">
+      <rdaed:P20312>Den hemmelige hagen</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Den hemmelige hagen</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20002 rdf:resource="http://viaf.org/viaf/79086818"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/7411743"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/271919237"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/433149066637265602491"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/48102666"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/29721490686155657300061"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/444149066632065602506"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/85372382"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/39425716"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/175562201"/>
+      <rdaeo:P20330 rdf:resource="http://viaf.org/viaf/222062902"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/177351927/exp/1023">
+      <rdaed:P20316>Alt for Egil</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Alt for Egil</rdaed:P20312>
+      <rdfs:label>Alt for Egil</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1023"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20012 rdf:resource="http://viaf.org/viaf/80010134"/>
+      <rdaeo:P20012 rdf:resource="http://viaf.org/viaf/227709587"/>
+      <rdaeo:P20012 rdf:resource="http://viaf.org/viaf/225228973"/>
+      <rdaeo:P20012 rdf:resource="http://viaf.org/viaf/228766916"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/177351927"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/177351927/exp/dan/eng/mul/nob/1020">
+      <rdaed:P20316>Alt for Egil (screenplay)</rdaed:P20316>
+      <rdaed:P20316>Alt for Egil</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Alt for Egil : manuskript</rdaed:P20312>
+      <rdfs:label>Alt for Egil</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mul"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dan"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/177351927"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/222044519/hakkemat/mot/veggen/exp/und/1011">
+      <rdaed:P20316>Hakkemat opp mot veggen</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Hakkemat opp mot veggen</rdaed:P20312>
+      <rdfs:label>Hakkemat opp mot veggen</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/und"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/222044519/hakkemat/mot/veggen"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/222062902/Venner/?/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382">
+      <rdaed:P20316>Skal vi være venner?</rdaed:P20316>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>Skal vi være venner?</rdaed:P20312>
+      <rdfs:label>Skal vi være venner?</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20002 rdf:resource="http://viaf.org/viaf/79086818"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/7411743"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/271919237"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/433149066637265602491"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/48102666"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/29721490686155657300061"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/444149066632065602506"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/85372382"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/39425716"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/222062902/Venner/?"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/175562201/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/39378054/Bare/Elvis/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/6929149068420465730000/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/66503940/råtne/rikard/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/4803160364978863680002/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/308562705/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/308571626/Tippe/Topphatt/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/7537151051963033530002/Eddie/og/Johanna/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/97119817/Alle/vi/barna/i/Bakkebygrenda/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/46733274/Superhemmelig/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/9744160364964763680008/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/34565761/sinus/blinde/kjærlighetsfortelling/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/49282521/Tor/vennene/hans/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/56617433/Filibom/bom/bom/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdaeo:P20330 rdf:resource="http://viaf.org/viaf/222062902"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/2229156133228058430004/exp/nob/1020">
+      <rdaed:P20316>Charlotte Isabel Hansen</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Charlotte Isabel Hansen : roman</rdaed:P20312>
+      <rdfs:label>Charlotte Isabel Hansen</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/2229156133228058430004"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/2392161938122739870007/exp/mul/nno/nob/1020">
+      <rdaed:P20312>Skammarens dotter</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Skammarens dotter</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mul"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/2392161938122739870007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/243895320/exp/mul/nno/nob/1020">
+      <rdaed:P20312>Artemis Fowl</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Artemis Fowl</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mul"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/243895320"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/283715067/Mannen/som/elsket/Yngve/exp/1023">
+      <rdaed:P20316>Mannen som elsket Yngve (videoopptak)</rdaed:P20316>
+      <rdaed:P20312>Mannen som elsket Yngve</rdaed:P20312>
+      <rdfs:label>Mannen som elsket Yngve</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1023"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20012 rdf:resource="http://viaf.org/viaf/3595149368838385980009"/>
+      <rdaeo:P20012 rdf:resource="http://viaf.org/viaf/3287149108688668780004"/>
+      <rdaeo:P20012 rdf:resource="http://viaf.org/viaf/191149196295074790971"/>
+      <rdaeo:P20012 rdf:resource="http://viaf.org/viaf/225228973"/>
+      <rdaeo:P20012 rdf:resource="http://viaf.org/viaf/172057123"/>
+      <rdaeo:P20012 rdf:resource="http://viaf.org/viaf/100929322"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/283715067/Mannen/som/elsket/Yngve"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/301771064/boken/guder/exp/mul/nno/nob/1020">
+      <rdaed:P20312>Den store boken om norrøne guder</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Den store boken om norrøne guder</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mul"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/301771064/boken/guder"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/307153210/Karisma/exp/mul/nno/nob/1020">
+      <rdaed:P20312>Karisma</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Karisma</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mul"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/307153210/Karisma"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/308562705/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382">
+      <rdaed:P20312>Per og vesle Mads</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Per og vesle Mads</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20002 rdf:resource="http://viaf.org/viaf/79086818"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/7411743"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/271919237"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/433149066637265602491"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/48102666"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/29721490686155657300061"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/444149066632065602506"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/85372382"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/39425716"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/308562705"/>
+      <rdaeo:P20330 rdf:resource="http://viaf.org/viaf/222062902"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/308571626/Tippe/Topphatt/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382">
+      <rdaed:P20312>Tippe Topphatt og andre fortellinger</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Tippe Topphatt og andre fortellinger</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20002 rdf:resource="http://viaf.org/viaf/79086818"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/7411743"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/271919237"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/433149066637265602491"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/48102666"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/29721490686155657300061"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/444149066632065602506"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/85372382"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/39425716"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/308571626/Tippe/Topphatt"/>
+      <rdaeo:P20330 rdf:resource="http://viaf.org/viaf/222062902"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/310948304/exp/mul/nno/nob/1020">
+      <rdaed:P20312>Kurt blir grusom</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Kurt blir grusom</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mul"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/310948304"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/312513456/exp/mul/nno/nob/1020">
+      <rdaed:P20312>Løvetannsang</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Løvetannsang</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mul"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/312513456"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/34565761/Champange/heroin/filmmanus/exp/nob/1020">
+      <rdaed:P20316>Champagne eller heroin</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Champagne eller heroin : fortellingen om et filmmanus</rdaed:P20312>
+      <rdfs:label>Champagne eller heroin</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/34565761/Champange/heroin/filmmanus"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/34565761/Det/amerikanske/valget/exp/nob/1011">
+      <rdaed:P20316>Det amerikanske valget</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Det amerikanske valget</rdaed:P20312>
+      <rdfs:label>Det amerikanske valget</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/211149294446580522849"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/410149294085080520515"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/4939156012383649700001"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/153149294274480521324"/>
+      <rdaeo:P20025 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/34565761/Det/amerikanske/valget"/>
+      <rdaeo:P20435 rdf:resource="http://viaf.org/viaf/140149294366780522217"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/34565761/Jord/løv/på/exp/nob/1011">
+      <rdaed:P20316>Jord med løv på/Meg med løv på</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Jord med løv på</rdaed:P20312>
+      <rdfs:label>Jord med løv på</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/153149294274480521324"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/211149294446580522849"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/410149294085080520515"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/4939156012383649700001"/>
+      <rdaeo:P20025 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/34565761/Jord/løv/på"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/34565761/Mars/exp/nob/1011">
+      <rdaed:P20316>Mars</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Mars</rdaed:P20312>
+      <rdfs:label>Mars</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/153149294274480521324"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/406160483611904990154"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/4939156012383649700001"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/4616154075994111860006"/>
+      <rdaeo:P20025 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/34565761/Mars"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/34565761/Varmelager/fem/exp/nob/1020">
+      <rdaed:P20316>Varmelager fem</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Varmelager fem</rdaed:P20312>
+      <rdfs:label>Varmelager fem</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/34565761/Varmelager/fem"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/34565761/Verden/dag/bruksanvisning/exp/nob/1020/19327274/302657140/34565761/51783729/60552805">
+      <rdaed:P20316>Verden i dag</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Verden i dag : en bruksanvisning</rdaed:P20312>
+      <rdfs:label>Verden i dag</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/302657140"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/34565761/Verden/dag/bruksanvisning"/>
+      <rdaeo:P20330 rdf:resource="http://viaf.org/viaf/60552805"/>
+      <rdaeo:P20330 rdf:resource="http://viaf.org/viaf/51783729"/>
+      <rdaeo:P20330 rdf:resource="http://viaf.org/viaf/19327274"/>
+      <rdaeo:P20330 rdf:resource="http://viaf.org/viaf/34565761"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/34565761/langt/helvete/exp/nob/1020">
+      <rdaed:P20316>Det er langt til helvete for den som ikke vil dit</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Det er langt til helvete for den som ikke vil dit : om Inger Hagerup</rdaed:P20312>
+      <rdfs:label>Det er langt til helvete for den som ikke vil dit</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/34565761/langt/helvete"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/34565761/sinus/blinde/kjærlighetsfortelling/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382">
+      <rdaed:P20312>Sinus i blinde en kjærlighetsfortelling</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Sinus i blinde en kjærlighetsfortelling</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20002 rdf:resource="http://viaf.org/viaf/79086818"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/7411743"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/271919237"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/433149066637265602491"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/48102666"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/29721490686155657300061"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/444149066632065602506"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/85372382"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/39425716"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/34565761/sinus/blinde/kjærlighetsfortelling"/>
+      <rdaeo:P20330 rdf:resource="http://viaf.org/viaf/222062902"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/34565761/vanskelige/følelser/exp/nob/1011">
+      <rdaed:P20316>Vanskelige følelser</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Vanskelige følelser</rdaed:P20312>
+      <rdfs:label>Vanskelige følelser</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/406160483611904990154"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/4939156012383649700001"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/4616154075994111860006"/>
+      <rdaeo:P20025 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/34565761/vanskelige/følelser"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/34565761/yassir/arafat/exp/nob/1011">
+      <rdaed:P20316>Yassir Arafat</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Yassir Arafat</rdaed:P20312>
+      <rdfs:label>Yassir Arafat</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/153149294274480521324"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/406160483611904990154"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/4939156012383649700001"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/4616154075994111860006"/>
+      <rdaeo:P20025 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/34565761/yassir/arafat"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3568154387451230970006/exp/nob/1013">
+      <rdaed:P20316>Charlotte Isabel Hansen</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Charlotte Isabel Hansen</rdaed:P20312>
+      <rdfs:label>Charlotte Isabel Hansen</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3568154387451230970006"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/39378054/Bare/Elvis/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382">
+      <rdaed:P20312>Bare Elvis</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Bare Elvis</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20002 rdf:resource="http://viaf.org/viaf/79086818"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/7411743"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/271919237"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/433149066637265602491"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/48102666"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/29721490686155657300061"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/444149066632065602506"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/85372382"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/39425716"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/39378054/Bare/Elvis"/>
+      <rdaeo:P20330 rdf:resource="http://viaf.org/viaf/222062902"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/41149294249780521243/Kompani/Orheim/exp/1023">
+      <rdaed:P20316>Kompani Orheim (videoopptak)</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Kompani Orheim</rdaed:P20312>
+      <rdfs:label>Kompani Orheim</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1023"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20012 rdf:resource="http://viaf.org/viaf/1091149068479965730002"/>
+      <rdaeo:P20012 rdf:resource="http://viaf.org/viaf/225228973"/>
+      <rdaeo:P20012 rdf:resource="http://viaf.org/viaf/160101915"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/9937151965272000470001/exp/nob/1023"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/41149294249780521243/Kompani/Orheim"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/46733274/Superhemmelig/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382">
+      <rdaed:P20312>Superhemmelig</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Superhemmelig</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20002 rdf:resource="http://viaf.org/viaf/79086818"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/7411743"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/271919237"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/433149066637265602491"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/48102666"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/29721490686155657300061"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/444149066632065602506"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/85372382"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/39425716"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/46733274/Superhemmelig"/>
+      <rdaeo:P20330 rdf:resource="http://viaf.org/viaf/222062902"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/4803160364978863680002/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382">
+      <rdaed:P20312>Trollkrittet</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Trollkrittet</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20002 rdf:resource="http://viaf.org/viaf/79086818"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/7411743"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/271919237"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/433149066637265602491"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/48102666"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/29721490686155657300061"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/444149066632065602506"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/85372382"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/39425716"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/4803160364978863680002"/>
+      <rdaeo:P20330 rdf:resource="http://viaf.org/viaf/222062902"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/49149294365380522384/Dramatisk/exp/mul/nno/nob/1020">
+      <rdaed:P20316>Dramatisk</rdaed:P20316>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>Dramatisk</rdaed:P20312>
+      <rdfs:label>Dramatisk</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mul"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/49149294365380522384/Dramatisk"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/301771064/boken/guder/exp/mul/nno/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/110569724/Den/store/premien/exp/mul/nno/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/243895320/exp/mul/nno/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/10455/Moby/Dick/exp/mul/nno/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/312513456/exp/mul/nno/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/167306445/like/rolling/stone/exp/mul/nno/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/2392161938122739870007/exp/mul/nno/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/10985923/rask/exp/mul/nno/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/310948304/exp/mul/nno/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/66514645/tigrene/opptur/exp/mul/nno/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/5930152502773210800007/exp/mul/nno/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/79514873/skrekkens/sirkus/exp/mul/nno/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/307153210/Karisma/exp/mul/nno/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/78136149/null/til/no/exp/mul/nno/nob/1020"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/49282521/Tor/vennene/hans/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382">
+      <rdaed:P20312>Tor og vennene hans</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Tor og vennene hans</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20002 rdf:resource="http://viaf.org/viaf/79086818"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/7411743"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/271919237"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/433149066637265602491"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/48102666"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/29721490686155657300061"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/444149066632065602506"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/85372382"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/39425716"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/49282521/Tor/vennene/hans"/>
+      <rdaeo:P20330 rdf:resource="http://viaf.org/viaf/222062902"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/56617433/Filibom/bom/bom/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382">
+      <rdaed:P20312>Ole Aleksander Filibom-bom-bom</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Ole Aleksander Filibom-bom-bom</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20002 rdf:resource="http://viaf.org/viaf/79086818"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/7411743"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/271919237"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/433149066637265602491"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/48102666"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/29721490686155657300061"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/444149066632065602506"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/85372382"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/39425716"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/56617433/Filibom/bom/bom"/>
+      <rdaeo:P20330 rdf:resource="http://viaf.org/viaf/222062902"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/5930152502773210800007/exp/dan/1020/227149066634465602334/32145970329832252552">
+      <rdaed:P20316>Mannen som elsket Yngve</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Mig og Yngve : roman</rdaed:P20312>
+      <rdfs:label>Mig og Yngve</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dan"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/227149066634465602334"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/32145970329832252552"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/5930152502773210800007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/5930152502773210800007/exp/fre/1020/270835697">
+      <rdaed:P20316>Mannen som elsket Yngve</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>L'homme qui aimait Yngve : roman</rdaed:P20312>
+      <rdfs:label>L'homme qui aimait Yngve</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/fre"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/270835697"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/5930152502773210800007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/5930152502773210800007/exp/mul/nno/nob/1020">
+      <rdaed:P20312>Mannen som elsket Yngve</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Mannen som elsket Yngve</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mul"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/5930152502773210800007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/5930152502773210800007/exp/nob/1013/100929322">
+      <rdaed:P20316>Mannen som elsket Yngve</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Mannen som elsket Yngve</rdaed:P20312>
+      <rdfs:label>Mannen som elsket Yngve</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/100929322"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/5930152502773210800007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/5930152502773210800007/exp/nob/1020/133302399">
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Mannen som elsket Yngve : roman</rdaed:P20312>
+      <rdfs:label>Mannen som elsket Yngve</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/133302399"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/5930152502773210800007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/5930152502773210800007/exp/pol/1020/230200815">
+      <rdaed:P20316>Mannen som elsket Yngve</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Człowiek, który pokochał Yngvego</rdaed:P20312>
+      <rdfs:label>Człowiek, który pokochał Yngvego</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/pol"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/230200815"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/5930152502773210800007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/5930152502773210800007/exp/por/1020/225599858">
+      <rdaed:P20316>Mannen som elsket Yngve</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>O homem que amava Yngve</rdaed:P20312>
+      <rdfs:label>O homem que amava Yngve</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/por"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/225599858"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/5930152502773210800007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/5930152502773210800007/exp/swe/1020/133302399">
+      <rdaed:P20316>Mannen som elsket Yngve</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Mannen som älskade Yngve</rdaed:P20312>
+      <rdfs:label>Mannen som älskade Yngve</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/swe"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/133302399"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/5930152502773210800007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/66503940/råtne/rikard/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382">
+      <rdaed:P20312>Råtne Rikard</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Råtne Rikard</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20002 rdf:resource="http://viaf.org/viaf/79086818"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/7411743"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/271919237"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/433149066637265602491"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/48102666"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/29721490686155657300061"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/444149066632065602506"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/85372382"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/39425716"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/66503940/råtne/rikard"/>
+      <rdaeo:P20330 rdf:resource="http://viaf.org/viaf/222062902"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/66514645/tigrene/opptur/exp/mul/nno/nob/1020">
+      <rdaed:P20312>Tigrene på opptur</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Tigrene på opptur</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mul"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/66514645/tigrene/opptur"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/6929149068420465730000/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382">
+      <rdaed:P20312>Hugo og Josefin</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Hugo og Josefin</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20002 rdf:resource="http://viaf.org/viaf/79086818"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/7411743"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/271919237"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/433149066637265602491"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/48102666"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/29721490686155657300061"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/444149066632065602506"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/85372382"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/39425716"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/6929149068420465730000"/>
+      <rdaeo:P20330 rdf:resource="http://viaf.org/viaf/222062902"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7537151051963033530002/Eddie/og/Johanna/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382">
+      <rdaed:P20312>Eddie og Johanna</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Eddie og Johanna</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20002 rdf:resource="http://viaf.org/viaf/79086818"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/7411743"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/271919237"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/433149066637265602491"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/48102666"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/29721490686155657300061"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/444149066632065602506"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/85372382"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/39425716"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7537151051963033530002/Eddie/og/Johanna"/>
+      <rdaeo:P20330 rdf:resource="http://viaf.org/viaf/222062902"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/759154501936239210001/exp/nob/1020">
+      <rdaed:P20316>Vi ses i morgen</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Vi ses i morgen : roman</rdaed:P20312>
+      <rdfs:label>Vi ses i morgen</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/759154501936239210001"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/78136149/null/til/no/exp/mul/nno/nob/1020">
+      <rdaed:P20312>Frå null til no</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Frå null til no</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mul"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/78136149/null/til/no"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/79514873/skrekkens/sirkus/exp/mul/nno/nob/1020">
+      <rdaed:P20312>Skrekkens sirkus</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Skrekkens sirkus</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mul"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/79514873/skrekkens/sirkus"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/80096464/Hando/Kjendo/Torsdag/exp/nob/1020">
+      <rdaed:P20316>Hando, Kjendo. Torsdag : [en fortelling om et vennskap og et underverk]</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Hando, Kjendo : torsdag</rdaed:P20312>
+      <rdfs:label>Hando, Kjendo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/80096464/Hando/Kjendo/Torsdag"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/97119817/Alle/vi/barna/i/Bakkebygrenda/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382">
+      <rdaed:P20312>Alle vi barna i Bakkebygrenda</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Alle vi barna i Bakkebygrenda</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20002 rdf:resource="http://viaf.org/viaf/79086818"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/7411743"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/271919237"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/433149066637265602491"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/48102666"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/29721490686155657300061"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/444149066632065602506"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/85372382"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/39425716"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/97119817/Alle/vi/barna/i/Bakkebygrenda"/>
+      <rdaeo:P20330 rdf:resource="http://viaf.org/viaf/222062902"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/9744160364964763680008/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382">
+      <rdaed:P20312>Kurt quo vadis</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Kurt quo vadis</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20002 rdf:resource="http://viaf.org/viaf/79086818"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/7411743"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/271919237"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/433149066637265602491"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/48102666"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/29721490686155657300061"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/444149066632065602506"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/85372382"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/39425716"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9744160364964763680008"/>
+      <rdaeo:P20330 rdf:resource="http://viaf.org/viaf/222062902"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/9937151965272000470001/exp/dan/1020/227149066634465602334/32145970329832252552">
+      <rdaed:P20316>Kompani Orheim</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Kompagni Orheim : roman</rdaed:P20312>
+      <rdfs:label>Kompagni Orheim</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dan"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/227149066634465602334"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/32145970329832252552"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9937151965272000470001"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/9937151965272000470001/exp/nob/1013/229787737">
+      <rdaed:P20316>Kompani Orheim</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Kompani Orheim</rdaed:P20312>
+      <rdfs:label>Kompani Orheim</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20022 rdf:resource="http://viaf.org/viaf/229787737"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9937151965272000470001"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/9937151965272000470001/exp/nob/1020">
+      <rdaed:P20316>Kompani Orheim</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Kompani Orheim : roman</rdaed:P20312>
+      <rdfs:label>Kompani Orheim</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9937151965272000470001"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/9937151965272000470001/exp/nob/1023">
+      <rdaed:P20312>Kompani Orheim</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Kompani Orheim</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1023"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20012 rdf:resource="http://viaf.org/viaf/1091149068479965730002"/>
+      <rdaeo:P20012 rdf:resource="http://viaf.org/viaf/225228973"/>
+      <rdaeo:P20012 rdf:resource="http://viaf.org/viaf/160101915"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9937151965272000470001"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf/34564761/Farmor/kabel-TV/Videogutten/exp/nob/1020">
+      <rdaed:P20316>Farmor har kabel-TV ; Videogutten</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Farmor har kabel-TV ; Videogutten : romaner</rdaed:P20312>
+      <rdfs:label>Farmor har kabel-TV ; Videogutten</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf/34564761/Farmor/kabel-TV/Videogutten"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf/34565761/Han/forelska/kona/di/exp/nob/1011">
+      <rdaed:P20316>Han er forelska i kona di</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Han er forelska i kona di</rdaed:P20312>
+      <rdfs:label>Han er forelska i kona di</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/153149294274480521324"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/211149294446580522849"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/410149294085080520515"/>
+      <rdaeo:P20020 rdf:resource="http://viaf.org/viaf/4939156012383649700001"/>
+      <rdaeo:P20025 rdf:resource="http://viaf.org/viaf/34565761"/>
+      <rdaeo:P20231 rdf:resource="http://viaf/34565761/Han/forelska/kona/di"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://viaf.org/viaf/34565761/erindringer/fremtiden/exp/nob/1020">
+      <rdaed:P20316>En god tid : erindringer fra fremtiden : en kjærlighetsroman fra den tid som skal komme, til minne om den tid som har vært</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>En god tid : erindringer fra fremtiden</rdaed:P20312>
+      <rdfs:label>En god tid</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="https://viaf.org/viaf/34565761/erindringer/fremtiden"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://viaf.org/viaf/34565761/erindringer/fremtiden/exp/swe/1020/60820856">
+      <rdaed:P20316>En god tid</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>En god tid : minnen från framtiden</rdaed:P20312>
+      <rdfs:label>En god tid</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/swe"/>
+      <rdaeo:P20049 rdf:resource="http://viaf.org/viaf/60820856"/>
+      <rdaeo:P20231 rdf:resource="https://viaf.org/viaf/34565761/erindringer/fremtiden"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://viaf/34565761/Alt/for/Egil/exp/dan/eng/mul/nob/1020">
+      <rdaed:P20316>Alt for Egil (screenplay)</rdaed:P20316>
+      <rdaed:P20316>Alt for Egil</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Alt for Egil : manuskript</rdaed:P20312>
+      <rdfs:label>Alt for Egil</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mul"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dan"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="https://viaf/34565761/Alt/for/Egil"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://viaf/34565761/Renselse/Jakob/Malde/exp/ger/1020/62377176">
+      <rdaed:P20316>Renselse : romanen om Jakob Malde, den ved Gud evig forbundne, for verden alltid tapte, sett, elsket, aktet</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Das Wunder im Erdbeerfeld : der Roman über Jakob Malde, seinem Gott ewiglich verbunden, der Welt für immer verloren, gesehen, geliebt, geachtet</rdaed:P20312>
+      <rdfs:label>Das Wunder im Erdbeerfeld</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/62377176"/>
+      <rdaeo:P20231 rdf:resource="https://viaf/34565761/Renselse/Jakob/Malde"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://viaf/34565761/Renselse/Jakob/Malde/exp/nob/1020">
+      <rdaed:P20316>Renselse :romanen om Jackob Malde, den ved Gud evig forbundne, for verden alltid tapte, sett, elsket, aktet</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Renselse : romanen om Jakob Malde, den ved Gud evig forbundne, for verden alltid tapte, sett, elsket, aktet</rdaed:P20312>
+      <rdfs:label>Renselse</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="https://viaf/34565761/Renselse/Jakob/Malde"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://viaf/34565761/Trillefolket/Kjartan/exp/nob/1020">
+      <rdaed:P20316>Trillefolket</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Trillefolket : hva hendte med Kjartan?</rdaed:P20312>
+      <rdfs:label>Trillefolket</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="https://viaf/34565761/Trillefolket/Kjartan"/>
+   </rdac:C10006>
+   <rdac:C10007 rdf:about="http://example.org/990106445204702202">
+      <rdamd:P30156>Det er langt til helvete for den som ikke vil dit</rdamd:P30156>
+      <rdamd:P30142>om Inger Hagerup</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30011>1998</rdamd:P30011>
+      <rdamd:P30111>, 1998.</rdamd:P30111>
+      <rdamd:P30182>s. 64-81.</rdamd:P30182>
+      <rdamd:P30050>Og ordet ble ord, Oslo : Aschehoug, c1998.</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/34565761/langt/helvete/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/990417479254702202">
+      <rdamd:P30156>Champagne eller heroin</rdamd:P30156>
+      <rdamd:P30142>fortellingen om et filmmanus</rdamd:P30142>
+      <rdamd:P30117>av Tore Renberg</rdamd:P30117>
+      <rdamd:P30011>2004</rdamd:P30011>
+      <rdamd:P30111>, 2004.</rdamd:P30111>
+      <rdamd:P30182>S. 42-[45] : port.</rdamd:P30182>
+      <rdamd:P30050>Rushprint, Oslo : Rush-print, 39(2004)nr 4.</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/34565761/Champange/heroin/filmmanus/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/990521247894702202">
+      <rdamd:P30156>Alt e dine venner</rdamd:P30156>
+      <rdamd:P30117>sangene er laget av Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>Stavanger</rdamd:P30088>
+      <rdamd:P30111>Stavanger : Checkpoint Charlie, 2002.</rdamd:P30111>
+      <rdamd:P30083>Checkpoint Charlie</rdamd:P30083>
+      <rdamd:P30011>2002</rdamd:P30011>
+      <rdamd:P30182>1 plate (CD) (19 min) : digital, 12 cm.</rdamd:P30182>
+      <rdamd:P30137>Checkpoint Charlie: CCAP 013</rdamd:P30137>
+      <rdamd:P30137>Innspilt: Sandnes : Musikkforum, nov.-des. 2001</rdamd:P30137>
+      <rdamd:P30137>Verdensrommet (Tore Renberg, sang, gitar, elgitar, orgel; Jørn Pedersen, gitar, elgitar; Jørgen Jørgensen, keyboard; Kristian Fjermestad, el-bass; Jonny Guddingsmo, trommer, perkusjon). Produsert av Verdensrommet og Inge Riska</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1013"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/167149294306180521627/Alt/venner/exp/nob/1011"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/990601314384702202">
+      <rdamd:P30156>Alt e dine venner</rdamd:P30156>
+      <rdamd:P30011>2002</rdamd:P30011>
+      <rdamd:P30111>, 2002.</rdamd:P30111>
+      <rdamd:P30182>(3 min, 48 s).</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1013"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/167149294306180521627/Alt/venner/exp/nob/1011"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/990601314704702202">
+      <rdamd:P30156>Vanskelige følelser</rdamd:P30156>
+      <rdamd:P30011>2002</rdamd:P30011>
+      <rdamd:P30111>, 2002.</rdamd:P30111>
+      <rdamd:P30182>(3 min, 28 s).</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1013"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/34565761/vanskelige/følelser/exp/nob/1011"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/990601314894702202">
+      <rdamd:P30156>Yassir Arafat</rdamd:P30156>
+      <rdamd:P30011>2002</rdamd:P30011>
+      <rdamd:P30111>, 2002.</rdamd:P30111>
+      <rdamd:P30182>(3 min, 35 s).</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1013"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/34565761/yassir/arafat/exp/nob/1011"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/990601314974702202">
+      <rdamd:P30156>Mars</rdamd:P30156>
+      <rdamd:P30011>2002</rdamd:P30011>
+      <rdamd:P30111>, 2002.</rdamd:P30111>
+      <rdamd:P30182>(4 min, 41 s).</rdamd:P30182>
+      <rdamd:P30050>Alt e dine venner, Stavanger : Checkpoint Charlie, 2002, 4.</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1013"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/34565761/Mars/exp/nob/1011"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/990601363914702202">
+      <rdamd:P30156>Ka bler det te med den snøen?</rdamd:P30156>
+      <rdamd:P30117>T. Renberg</rdamd:P30117>
+      <rdamd:P30011>2004</rdamd:P30011>
+      <rdamd:P30111>, 2004.</rdamd:P30111>
+      <rdamd:P30182>(4 min, 16 s).</rdamd:P30182>
+      <rdamd:P30050>(Not just) another X-mas album, Stavanger : Checkpoint Charlie, 2004, 9.</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1013"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/140149294366780522217/Ka/med/snøen/?/exp/eng/1011"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/990607703174702202">
+      <rdamd:P30156>Det amerikanske valget</rdamd:P30156>
+      <rdamd:P30117>[musikk og tekster [hovedsakelig]: Tore Renberg]</rdamd:P30117>
+      <rdamd:P30088>Stavanger</rdamd:P30088>
+      <rdamd:P30111>Stavanger : Kippers, 2006.</rdamd:P30111>
+      <rdamd:P30083>Kippers</rdamd:P30083>
+      <rdamd:P30011>2006</rdamd:P30011>
+      <rdamd:P30182>1 plate (CD) (47 min) : digital, 12 cm.</rdamd:P30182>
+      <rdamd:P30137>Innspilt: Randaberg : Out of Tune(s) Studio, 2005</rdamd:P30137>
+      <rdamd:P30137>Kippers: K 20</rdamd:P30137>
+      <rdamd:P30137>Stavanger energi (Tore Renberg, sang, melodika, elpiano, fiolin, perkusjon; Børre Jacobsen, elgitar, sang; Kristian Fjermestad, elbass; Jørgen Jørgensen, synthesizer; Tore Jacobsen, trommer). Produsert av Eirik Lye, Tore Renberg og Børre Jacobsen</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1013"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/34565761/Det/amerikanske/valget/exp/nob/1011"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/990612818914702202">
+      <rdamd:P30156>Jord med løv på</rdamd:P30156>
+      <rdamd:P30011>2006</rdamd:P30011>
+      <rdamd:P30111>, 2006.</rdamd:P30111>
+      <rdamd:P30182>(6 min).</rdamd:P30182>
+      <rdamd:P30050>Det amerikanske valget, Stavanger : Kippers, 2006, 1.</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1013"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/34565761/Jord/løv/på/exp/nob/1011"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/990612820064702202">
+      <rdamd:P30156>Han er forelska i kona di</rdamd:P30156>
+      <rdamd:P30011>2006</rdamd:P30011>
+      <rdamd:P30111>, 2006.</rdamd:P30111>
+      <rdamd:P30182>(3 min, 20 s).</rdamd:P30182>
+      <rdamd:P30050>Det amerikanske valget, Stavanger : Kippers, 2006, 2.</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1013"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf/34565761/Han/forelska/kona/di/exp/nob/1011"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/990812685644702202">
+      <rdamd:P30156>Hakkemat opp mot veggen</rdamd:P30156>
+      <rdamd:P30117>Zahl, Renberg</rdamd:P30117>
+      <rdamd:P30011>2008</rdamd:P30011>
+      <rdamd:P30111>, 2008.</rdamd:P30111>
+      <rdamd:P30182>(1 min, 54 s).</rdamd:P30182>
+      <rdamd:P30050>Mannen som elsket Yngve, [Oslo] : Oh No! Records, 2008, 2:18.</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1013"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/222044519/hakkemat/mot/veggen/exp/und/1011"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/991215983304702202">
+      <rdamd:P30156>Kompani Orheim</rdamd:P30156>
+      <rdamd:P30117>regi: Arild Andresen</rdamd:P30117>
+      <rdamd:P30088>[S.l.]</rdamd:P30088>
+      <rdamd:P30111>[S.l.] : Motlys, 2012.</rdamd:P30111>
+      <rdamd:P30083>Motlys</rdamd:P30083>
+      <rdamd:P30011>2012</rdamd:P30011>
+      <rdamd:P30182>1 videoplate (DVD-video) (104 min) : lyd, kol.</rdamd:P30182>
+      <rdamd:P30137>Basert på: Kompani Orheim / Tore Renberg</rdamd:P30137>
+      <rdamd:P30137>Drama, aldersgrense 11 år.</rdamd:P30137>
+      <rdamd:P30137>Ekstramateriale: intervju, slettede scener, trailer, kommentarspor</rdamd:P30137>
+      <rdamd:P30137>Kodet for region 2</rdamd:P30137>
+      <rdamd:P30137>Medietilsynet : 164087</rdamd:P30137>
+      <rdamd:P30137>Norsk språk, norske og engelske undertekst valgbar.</rdamd:P30137>
+      <rdamd:P30137>NSD 8800316</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1060"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/41149294249780521243/Kompani/Orheim/exp/1023"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9937151965272000470001/exp/nob/1023"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/IAN-7321940018331">
+      <rdamd:P30004>IAN 7321940018331</rdamd:P30004>
+      <rdaxd:P00018>IAN-7321940018331</rdaxd:P00018>
+      <rdamd:P30156>Alt for Egil</rdamd:P30156>
+      <rdamd:P30117>regi: Tore Rygh ; produsent: Sigve Endresen</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Sandrew Metronome Norge, c2004.</rdamd:P30111>
+      <rdamd:P30083>Sandrew Metronome Norge</rdamd:P30083>
+      <rdamd:P30011>c2004</rdamd:P30011>
+      <rdamd:P30182>1 plate (DVD-video) (1 t, 27 min) : lyd, kol.</rdamd:P30182>
+      <rdamd:P30137>Ekstramateriale: Kommentar, dokumentar, musikkvideo, trailere etc</rdamd:P30137>
+      <rdamd:P30137>Kodet for sone 2</rdamd:P30137>
+      <rdamd:P30137>Komponist: Lars Horntveth. Musikk: Morten Abel et al.</rdamd:P30137>
+      <rdamd:P30137>Manus: Tore Renberg og Tore Rygh</rdamd:P30137>
+      <rdamd:P30137>Norsk tale. Norsk og engelsk undertekst</rdamd:P30137>
+      <rdamd:P30137>Produksjon: Norge : Motlys/Sydvestfilm, 2004</rdamd:P30137>
+      <rdamd:P30137>Rolleliste: Kristoffer Joner, Trond Høvik, Morten Abel, Nina Ellen Ødegård, Sally Nilsson</rdamd:P30137>
+      <rdamd:P30137>Statens filmtilsyn : 53144</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1060"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/177351927/exp/1023"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/NN-7071400027402">
+      <rdamd:P30004>NN 7071400027402</rdamd:P30004>
+      <rdaxd:P00018>NN-7071400027402</rdaxd:P00018>
+      <rdamd:P30156>Mannen som elsket Yngve</rdamd:P30156>
+      <rdamd:P30117>regi: Stian Kristiansen</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Sandrew Metronome Norge : Warner Bros. Entertainment Norge, c2008.</rdamd:P30111>
+      <rdamd:P30083>Sandrew Metronome Norge</rdamd:P30083>
+      <rdamd:P30083>Warner Bros. Entertainment Norge</rdamd:P30083>
+      <rdamd:P30011>c2008</rdamd:P30011>
+      <rdamd:P30182>1 plate (DVD-video) (94 min) : lyd, kol.</rdamd:P30182>
+      <rdamd:P30137>Drama. Manus: Tore Renberg etter egen roman. Komponist: Kaada</rdamd:P30137>
+      <rdamd:P30137>Ekstramateriale: bakomfilm, slettede scener, bloopers, hva skjer videre?, jakten på Jarle Klepp, 2 kommentarspor</rdamd:P30137>
+      <rdamd:P30137>Kodet for region 2. Widescreen</rdamd:P30137>
+      <rdamd:P30137>Medietilsynet : 127466</rdamd:P30137>
+      <rdamd:P30137>NDVDS : F2740</rdamd:P30137>
+      <rdamd:P30137>Norsk tale. Norske undertekster valgbare</rdamd:P30137>
+      <rdamd:P30137>Produksjon: Norge : Motlys, 2008</rdamd:P30137>
+      <rdamd:P30137>Rolleliste: Rolf Kristian Larsen, Arthur Berning, Ida Elise Broch, Ole Christoffer Ertvaag, Jørgen Langhelle, Kristoffer Joner et al.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1060"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/283715067/Mannen/som/elsket/Yngve/exp/1023"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-291316739">
+      <rdamd:P30004>ISBN 291316739X</rdamd:P30004>
+      <rdaxd:P00018>isbn-291316739</rdaxd:P00018>
+      <rdfs:label>ISBN291316739X</rdfs:label>
+      <rdamd:P30156>L'homme qui aimait Yngve</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg ; traduit du norvégien par Alex Fouillet</rdamd:P30117>
+      <rdamd:P30088>[Paris]</rdamd:P30088>
+      <rdamd:P30111>[Paris] : Odin, 2004.</rdamd:P30111>
+      <rdamd:P30083>Odin</rdamd:P30083>
+      <rdamd:P30011>2004</rdamd:P30011>
+      <rdamd:P30182>397 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/5930152502773210800007/exp/fre/1020/270835697"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-3442729203">
+      <rdamd:P30004>ISBN 3442729203</rdamd:P30004>
+      <rdaxd:P00018>isbn-3442729203</rdaxd:P00018>
+      <rdfs:label>ISBN3442729203</rdfs:label>
+      <rdamd:P30156>Das Wunder im Erdbeerfeld</rdamd:P30156>
+      <rdamd:P30142>der Roman über Jakob Malde, seinem Gott ewiglich verbunden, der Welt für immer verloren, gesehen, geliebt, geachtet</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg ; aus dem Norwegischen von Günther Frauenlob</rdamd:P30117>
+      <rdamd:P30088>München</rdamd:P30088>
+      <rdamd:P30111>München : btb, 2002.</rdamd:P30111>
+      <rdamd:P30083>btb</rdamd:P30083>
+      <rdamd:P30011>2002</rdamd:P30011>
+      <rdamd:P30182>383 s.</rdamd:P30182>
+      <rdamd:P30106>[Goldmann]</rdamd:P30106>
+      <rdamd:P30106>btb</rdamd:P30106>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="https://viaf/34565761/Renselse/Jakob/Malde/exp/ger/1020/62377176"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8202221676">
+      <rdamd:P30004>ISBN 8202221676</rdamd:P30004>
+      <rdaxd:P00018>isbn-8202221676</rdaxd:P00018>
+      <rdfs:label>ISBN8202221676</rdfs:label>
+      <rdamd:P30156>Trillefolket</rdamd:P30156>
+      <rdamd:P30142>hva hendte med Kjartan?</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg ; tegninger av Per Dybvig</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen, 2002.</rdamd:P30111>
+      <rdamd:P30083>Cappelen</rdamd:P30083>
+      <rdamd:P30011>2002</rdamd:P30011>
+      <rdamd:P30182>91 s. : ill.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="https://viaf/34565761/Trillefolket/Kjartan/exp/nob/1020"/>
+      <rdamo:P30343 rdf:resource="http://viaf.org/viaf/10543719"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8205256802">
+      <rdamd:P30004>ISBN 8205256802</rdamd:P30004>
+      <rdaxd:P00018>isbn-8205256802</rdaxd:P00018>
+      <rdfs:label>ISBN8205256802</rdfs:label>
+      <rdamd:P30156>Verden i dag</rdamd:P30156>
+      <rdamd:P30142>en bruksanvisning</rdamd:P30142>
+      <rdamd:P30117>redigert av Cathrine Grøndahl, Janike Kampevold Larsen og Tore Renberg ; bokstavvignetter ved Kim Hiorthøy ; [billedredaksjon: Oddvar Aurstad ... [et al.] ; [enkelte tekster] er oversatt fra svensk og dansk av Trygve von Hirsch]</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Gyldendal, 2000.</rdamd:P30111>
+      <rdamd:P30083>Gyldendal</rdamd:P30083>
+      <rdamd:P30011>2000</rdamd:P30011>
+      <rdamd:P30182>303 s. : ill.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/34565761/Verden/dag/bruksanvisning/exp/nob/1020/19327274/302657140/34565761/51783729/60552805"/>
+      <rdamo:P30343 rdf:resource="http://viaf.org/viaf/80096464"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8210043633">
+      <rdamd:P30004>ISBN 8210043633</rdamd:P30004>
+      <rdaxd:P00018>isbn-8210043633</rdaxd:P00018>
+      <rdfs:label>ISBN8210043633</rdfs:label>
+      <rdamd:P30156>En god tid</rdamd:P30156>
+      <rdamd:P30142>erindringer fra fremtiden</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Tiden, 2000.</rdamd:P30111>
+      <rdamd:P30083>Tiden</rdamd:P30083>
+      <rdamd:P30011>2000</rdamd:P30011>
+      <rdamd:P30182>237 s.</rdamd:P30182>
+      <rdamd:P30137>På løst omslag: Roman</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="https://viaf.org/viaf/34565761/erindringer/fremtiden/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8210044419">
+      <rdamd:P30004>ISBN 8210044419</rdamd:P30004>
+      <rdaxd:P00018>isbn-8210044419</rdaxd:P00018>
+      <rdfs:label>ISBN8210044419</rdfs:label>
+      <rdamd:P30156>Renselse</rdamd:P30156>
+      <rdamd:P30142>romanen om Jakob Malde, den ved Gud evig forbundne, for verden alltid tapte, sett, elsket, aktet</rdamd:P30142>
+      <rdamd:P30117>av Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Tiden, 1999.</rdamd:P30111>
+      <rdamd:P30083>Tiden</rdamd:P30083>
+      <rdamd:P30011>1999</rdamd:P30011>
+      <rdamd:P30182>334 s.</rdamd:P30182>
+      <rdamd:P30106>Tidens pocketutgave</rdamd:P30106>
+      <rdamd:P30137>1. utg. 1998</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="https://viaf/34565761/Renselse/Jakob/Malde/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8210046446">
+      <rdamd:P30004>ISBN 8210046446</rdamd:P30004>
+      <rdaxd:P00018>isbn-8210046446</rdaxd:P00018>
+      <rdfs:label>ISBN8210046446</rdfs:label>
+      <rdamd:P30156>Varmelager fem</rdamd:P30156>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Tiden, cop. 2001.</rdamd:P30111>
+      <rdamd:P30083>Tiden</rdamd:P30083>
+      <rdamd:P30011>cop. 2001</rdamd:P30011>
+      <rdamd:P30182>[142] s. : ill., 29 cm.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/34565761/Varmelager/fem/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8242117993">
+      <rdamd:P30004>ISBN 8242117993</rdamd:P30004>
+      <rdaxd:P00018>isbn-8242117993</rdaxd:P00018>
+      <rdfs:label>ISBN8242117993</rdfs:label>
+      <rdamd:P30156>Kompani Orheim</rdamd:P30156>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>[Melhus]</rdamd:P30088>
+      <rdamd:P30111>[Melhus] : Lydbokforl., 2005.</rdamd:P30111>
+      <rdamd:P30083>Lydbokforl</rdamd:P30083>
+      <rdamd:P30011>2005</rdamd:P30011>
+      <rdamd:P30182>12 plater (CD) (14 t, 24 min) : digital, 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30137>Lest av Yngve Berven</rdamd:P30137>
+      <rdamd:P30137>På esken: Romaner, noveller</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9937151965272000470001/exp/nob/1013/229787737"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8247806010">
+      <rdamd:P30004>ISBN 8247806010</rdamd:P30004>
+      <rdaxd:P00018>isbn-8247806010</rdaxd:P00018>
+      <rdfs:label>ISBN8247806010</rdfs:label>
+      <rdamd:P30156>Hando, Kjendo</rdamd:P30156>
+      <rdamd:P30142>torsdag</rdamd:P30142>
+      <rdamd:P30117>[tegninger av Kim Hiorthøy ; tekst av Tore Renberg]</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Gyldendal Tiden, cop. 2000.</rdamd:P30111>
+      <rdamd:P30083>Gyldendal Tiden</rdamd:P30083>
+      <rdamd:P30011>cop. 2000</rdamd:P30011>
+      <rdamd:P30182>[62] s. : ill.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/80096464/Hando/Kjendo/Torsdag/exp/nob/1020"/>
+      <rdamo:P30343 rdf:resource="http://viaf.org/viaf/80096464"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8249501470">
+      <rdamd:P30004>ISBN 8249501470</rdamd:P30004>
+      <rdaxd:P00018>isbn-8249501470</rdaxd:P00018>
+      <rdfs:label>ISBN8249501470</rdfs:label>
+      <rdamd:P30004>ISBN 8252549209</rdamd:P30004>
+      <rdaxd:P00018>isbn-8252549209</rdaxd:P00018>
+      <rdfs:label>ISBN8252549209</rdfs:label>
+      <rdamd:P30156>Mannen som elsket Yngve</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Oktober, 2003.</rdamd:P30111>
+      <rdamd:P30083>Oktober</rdamd:P30083>
+      <rdamd:P30011>2003</rdamd:P30011>
+      <rdamd:P30182>381 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/5930152502773210800007/exp/nob/1020/133302399"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8249502779">
+      <rdamd:P30004>ISBN 8249502779</rdamd:P30004>
+      <rdaxd:P00018>isbn-8249502779</rdaxd:P00018>
+      <rdfs:label>ISBN8249502779</rdfs:label>
+      <rdamd:P30156>Alt for Egil</rdamd:P30156>
+      <rdamd:P30142>manuskript</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg &amp; Tore Rygh</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Oktober, 2004.</rdamd:P30111>
+      <rdamd:P30083>Oktober</rdamd:P30083>
+      <rdamd:P30011>2004</rdamd:P30011>
+      <rdamd:P30182>213 s. : ill.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="https://viaf/34565761/Alt/for/Egil/exp/dan/eng/mul/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/177351927/exp/dan/eng/mul/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8249502914">
+      <rdamd:P30004>ISBN 8249502914</rdamd:P30004>
+      <rdaxd:P00018>isbn-8249502914</rdaxd:P00018>
+      <rdfs:label>ISBN8249502914</rdfs:label>
+      <rdamd:P30004>ISBN 8252560644</rdamd:P30004>
+      <rdaxd:P00018>isbn-8252560644</rdaxd:P00018>
+      <rdfs:label>ISBN8252560644</rdfs:label>
+      <rdamd:P30156>Kompani Orheim</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Oktober, 2005.</rdamd:P30111>
+      <rdamd:P30083>Oktober</rdamd:P30083>
+      <rdamd:P30011>2005</rdamd:P30011>
+      <rdamd:P30182>460 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9937151965272000470001/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8249504240">
+      <rdamd:P30004>ISBN 8249504240</rdamd:P30004>
+      <rdaxd:P00018>isbn-8249504240</rdaxd:P00018>
+      <rdfs:label>ISBN8249504240</rdfs:label>
+      <rdamd:P30004>ISBN 9788249504244</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788249504244</rdaxd:P00018>
+      <rdfs:label>ISBN9788249504244</rdfs:label>
+      <rdamd:P30156>Mannen som elsket Yngve</rdamd:P30156>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>[Melhus]</rdamd:P30088>
+      <rdamd:P30111>[Melhus] : Lydbokforl., 2008.</rdamd:P30111>
+      <rdamd:P30083>Lydbokforl</rdamd:P30083>
+      <rdamd:P30011>2008</rdamd:P30011>
+      <rdamd:P30182>10 plater (CD) (12 t, 17 min) : digital, 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30137>Lest av Rolf Kristian Larsen</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/5930152502773210800007/exp/nob/1013/100929322"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8252542948">
+      <rdamd:P30004>ISBN 8252542948</rdamd:P30004>
+      <rdaxd:P00018>isbn-8252542948</rdaxd:P00018>
+      <rdfs:label>ISBN8252542948</rdfs:label>
+      <rdamd:P30156>Skal vi være venner?</rdamd:P30156>
+      <rdamd:P30117>Marit Borkenhagen (red.) ; illustrert av Tina Soli ; oversettelser av: Inger Dietrichson ... [et al.]</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Bokklubbens barn, 2002.</rdamd:P30111>
+      <rdamd:P30083>Bokklubbens barn</rdamd:P30083>
+      <rdamd:P30011>2002</rdamd:P30011>
+      <rdamd:P30182>111 s. : ill.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/222062902/Venner/?/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/175562201/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/39378054/Bare/Elvis/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/6929149068420465730000/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/66503940/råtne/rikard/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/4803160364978863680002/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/308562705/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/308571626/Tippe/Topphatt/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7537151051963033530002/Eddie/og/Johanna/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/97119817/Alle/vi/barna/i/Bakkebygrenda/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/46733274/Superhemmelig/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9744160364964763680008/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/34565761/sinus/blinde/kjærlighetsfortelling/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/49282521/Tor/vennene/hans/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/56617433/Filibom/bom/bom/exp/nob/1020/222062902/271919237/29721490686155657300061/39425716/433149066637265602491/444149066632065602506/48102666/7411743/85372382"/>
+      <rdamo:P30343 rdf:resource="http://viaf.org/viaf/9220815"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8299625823">
+      <rdamd:P30004>ISBN 8299625823</rdamd:P30004>
+      <rdaxd:P00018>isbn-8299625823</rdaxd:P00018>
+      <rdfs:label>ISBN8299625823</rdfs:label>
+      <rdamd:P30156>Dramatisk</rdamd:P30156>
+      <rdamd:P30117>tekstsamlingen er redigert av Foreningen !les</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Foreningen !les, 2003.</rdamd:P30111>
+      <rdamd:P30083>Foreningen !les</rdamd:P30083>
+      <rdamd:P30011>2003</rdamd:P30011>
+      <rdamd:P30182>87 s. : ill.</rdamd:P30182>
+      <rdamd:P30106>Aksjon tXt</rdamd:P30106>
+      <rdamd:P30165>2003</rdamd:P30165>
+      <rdamd:P30137>"En Foreningen !les produksjon" - Omslaget</rdamd:P30137>
+      <rdamd:P30137>Boken er en gave til alle elever i ungdomsskolen</rdamd:P30137>
+      <rdamd:P30137>Inneholder utdrag fra 14 tidligere publiserte bøker</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/49149294365380522384/Dramatisk/exp/mul/nno/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/301771064/boken/guder/exp/mul/nno/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/110569724/Den/store/premien/exp/mul/nno/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/243895320/exp/mul/nno/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/10455/Moby/Dick/exp/mul/nno/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/312513456/exp/mul/nno/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/167306445/like/rolling/stone/exp/mul/nno/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2392161938122739870007/exp/mul/nno/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/10985923/rask/exp/mul/nno/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/310948304/exp/mul/nno/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/66514645/tigrene/opptur/exp/mul/nno/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/5930152502773210800007/exp/mul/nno/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/79514873/skrekkens/sirkus/exp/mul/nno/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/307153210/Karisma/exp/mul/nno/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/78136149/null/til/no/exp/mul/nno/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9113008854">
+      <rdamd:P30004>ISBN 9113008854</rdamd:P30004>
+      <rdaxd:P00018>isbn-9113008854</rdaxd:P00018>
+      <rdfs:label>ISBN9113008854</rdfs:label>
+      <rdamd:P30156>En god tid</rdamd:P30156>
+      <rdamd:P30142>minnen från framtiden</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg ; översättning av Urban Andersson</rdamd:P30117>
+      <rdamd:P30088>Stockholm</rdamd:P30088>
+      <rdamd:P30111>Stockholm : Norstedt, 2001.</rdamd:P30111>
+      <rdamd:P30083>Norstedt</rdamd:P30083>
+      <rdamd:P30011>2001</rdamd:P30011>
+      <rdamd:P30182>231 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="https://viaf.org/viaf/34565761/erindringer/fremtiden/exp/swe/1020/60820856"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9113012606">
+      <rdamd:P30004>ISBN 9113012606</rdamd:P30004>
+      <rdaxd:P00018>isbn-9113012606</rdaxd:P00018>
+      <rdfs:label>ISBN9113012606</rdfs:label>
+      <rdamd:P30156>Mannen som älskade Yngve</rdamd:P30156>
+      <rdamd:P30117>Tore Renberg ; översättning Peter Törnqvist</rdamd:P30117>
+      <rdamd:P30088>[Stockholm]</rdamd:P30088>
+      <rdamd:P30111>[Stockholm] : Norstedt, 2004.</rdamd:P30111>
+      <rdamd:P30083>Norstedt</rdamd:P30083>
+      <rdamd:P30011>2004</rdamd:P30011>
+      <rdamd:P30182>393 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/5930152502773210800007/exp/swe/1020/133302399"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788242145284">
+      <rdamd:P30004>ISBN 9788242145284</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788242145284</rdaxd:P00018>
+      <rdfs:label>ISBN9788242145284</rdfs:label>
+      <rdamd:P30156>Charlotte Isabel Hansen</rdamd:P30156>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>[Melhus]</rdamd:P30088>
+      <rdamd:P30111>[Melhus] : Lydbokforl., 2008.</rdamd:P30111>
+      <rdamd:P30083>Lydbokforl</rdamd:P30083>
+      <rdamd:P30011>2008</rdamd:P30011>
+      <rdamd:P30182>8 plater (CD) (9 t, 51 min) : digital, 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30137>Lest av forfatteren</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3568154387451230970006/exp/nob/1013"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788249504695">
+      <rdamd:P30004>ISBN 9788249504695</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788249504695</rdaxd:P00018>
+      <rdfs:label>ISBN9788249504695</rdfs:label>
+      <rdamd:P30156>Farmor har kabel-TV ; Videogutten</rdamd:P30156>
+      <rdamd:P30142>romaner</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Oktober, 2007.</rdamd:P30111>
+      <rdamd:P30083>Oktober</rdamd:P30083>
+      <rdamd:P30011>2007</rdamd:P30011>
+      <rdamd:P30182>219 s.</rdamd:P30182>
+      <rdamd:P30106>Oktober pocket</rdamd:P30106>
+      <rdamd:P30137>1. utg. 2006</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf/34564761/Farmor/kabel-TV/Videogutten/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788249506477">
+      <rdamd:P30004>ISBN 9788249506477</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788249506477</rdaxd:P00018>
+      <rdfs:label>ISBN9788249506477</rdfs:label>
+      <rdamd:P30156>Charlotte Isabel Hansen</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Oktober, cop. 2009.</rdamd:P30111>
+      <rdamd:P30083>Oktober</rdamd:P30083>
+      <rdamd:P30011>cop. 2009</rdamd:P30011>
+      <rdamd:P30182>354 s.</rdamd:P30182>
+      <rdamd:P30106>Oktober pocket</rdamd:P30106>
+      <rdamd:P30137>1. utg. 2008</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2229156133228058430004/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788249514021">
+      <rdamd:P30004>ISBN 9788249514021</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788249514021</rdaxd:P00018>
+      <rdfs:label>ISBN9788249514021</rdfs:label>
+      <rdamd:P30156>Vi ses i morgen</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Oktober, 2014.</rdamd:P30111>
+      <rdamd:P30083>Oktober</rdamd:P30083>
+      <rdamd:P30011>2014</rdamd:P30011>
+      <rdamd:P30182>603 s.</rdamd:P30182>
+      <rdamd:P30137>1. utg. 2013</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/759154501936239210001/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788362180318">
+      <rdamd:P30004>ISBN 9788362180318</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788362180318</rdaxd:P00018>
+      <rdfs:label>ISBN9788362180318</rdfs:label>
+      <rdamd:P30156>Człowiek, który pokochał Yngvego</rdamd:P30156>
+      <rdamd:P30117>Tore Renberg ; przełożyła Katarzyna Tunkiel</rdamd:P30117>
+      <rdamd:P30088>Warszawa</rdamd:P30088>
+      <rdamd:P30111>Warszawa : Akcent, 2011.</rdamd:P30111>
+      <rdamd:P30083>Akcent</rdamd:P30083>
+      <rdamd:P30011>2011</rdamd:P30011>
+      <rdamd:P30182>356 s.</rdamd:P30182>
+      <rdamd:P30106>Europa czyta</rdamd:P30106>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/5930152502773210800007/exp/pol/1020/230200815"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788572344692">
+      <rdamd:P30004>ISBN 9788572344692</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788572344692</rdaxd:P00018>
+      <rdfs:label>ISBN9788572344692</rdfs:label>
+      <rdamd:P30156>O homem que amava Yngve</rdamd:P30156>
+      <rdamd:P30117>Tore Renberg ; tradução do noruegues Grete Skevik</rdamd:P30117>
+      <rdamd:P30088>São Paulo</rdamd:P30088>
+      <rdamd:P30111>São Paulo : DBA, cop. 2014.</rdamd:P30111>
+      <rdamd:P30083>DBA</rdamd:P30083>
+      <rdamd:P30011>cop. 2014</rdamd:P30011>
+      <rdamd:P30182>335 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/5930152502773210800007/exp/por/1020/225599858"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788790524777">
+      <rdamd:P30004>ISBN 9788790524777</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788790524777</rdaxd:P00018>
+      <rdfs:label>ISBN9788790524777</rdfs:label>
+      <rdamd:P30156>Kompagni Orheim</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg ; på dansk ved Jannie Jensen &amp; Arild Batzer</rdamd:P30117>
+      <rdamd:P30088>Roskilde</rdamd:P30088>
+      <rdamd:P30111>Roskilde : Batzer &amp; Co., 2008.</rdamd:P30111>
+      <rdamd:P30083>Batzer &amp; Co</rdamd:P30083>
+      <rdamd:P30011>2008</rdamd:P30011>
+      <rdamd:P30182>525 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9937151965272000470001/exp/dan/1020/227149066634465602334/32145970329832252552"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788790524913">
+      <rdamd:P30004>ISBN 9788790524913</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788790524913</rdaxd:P00018>
+      <rdfs:label>ISBN9788790524913</rdfs:label>
+      <rdamd:P30156>Mig og Yngve</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Tore Renberg ; på dansk ved Jannie Jensen &amp; Arild Batzer</rdamd:P30117>
+      <rdamd:P30088>Roskilde</rdamd:P30088>
+      <rdamd:P30111>Roskilde : Batzer &amp; Co., 2009.</rdamd:P30111>
+      <rdamd:P30083>Batzer &amp; Co</rdamd:P30083>
+      <rdamd:P30011>2009</rdamd:P30011>
+      <rdamd:P30182>427 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/5930152502773210800007/exp/dan/1020/227149066634465602334/32145970329832252552"/>
+   </rdac:C10007>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/dan">
+      <rdfs:label>dan</rdfs:label>
+      <skos:subjectIndicator>dan</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/eng">
+      <rdfs:label>eng</rdfs:label>
+      <skos:subjectIndicator>eng</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/fre">
+      <rdfs:label>fre</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/ger">
+      <rdfs:label>ger</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/mul">
+      <rdfs:label>mul</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/nno">
+      <skos:subjectIndicator>nno</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/nob">
+      <rdfs:label>nob</rdfs:label>
+      <skos:subjectIndicator>nob</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/pol">
+      <rdfs:label>pol</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/por">
+      <rdfs:label>por</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/swe">
+      <rdfs:label>swe</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/und">
+      <rdfs:label>und</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1004">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1004</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1013">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1013</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1049">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1049</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1060">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1060</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1011">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1011</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1013">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1013</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1020">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1020</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1023">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1023</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1001">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1001</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1007">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1007</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1008">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1008</skos:subjectIndicator>
+   </skos:Concept>
+</rdf:RDF>

@@ -15,10 +15,20 @@
         <marc:datafield tag="042" ind1=" " ind2=" ">
             <marc:subfield code="a">ukblsr</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="130" ind1="0" ind2="0">
+            <marc:subfield code="a">Nobelpreis 1983-1985</marc:subfield>
+            <marc:subfield code="k">Collection</marc:subfield>
+            <marc:subfield code="1">http://example.org/nobelpresi1983-1985</marc:subfield>
+            <marc:subfield code="8">p</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2="0">
+            <marc:subfield code="a">Nobelpreis 1983-1985</marc:subfield>
+            <marc:subfield code="8">p</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="4">
             <marc:subfield code="a">Der Turm der Kathedrale :</marc:subfield>
             <marc:subfield code="b">Nobelpreis 1983 England /</marc:subfield>
-            <marc:subfield code="c">William Golding. Der Regenschirm vom Piccadilly ; und, Die
+            <marc:subfield code="c">William Golding. Der Regenschirm vom Piccadilly ; und, Die 
                 Pestsäule : Nobelpreis 1984 Tschechoslowakei / Jaroslav Seifert. Die Strasse in
                 Flandern : Nobelpreis 1985 Frankreich / Claude Simon.</marc:subfield>
         </marc:datafield>
@@ -68,10 +78,13 @@
             <marc:subfield code="a">"Diese Ausgabe ist eine auf den Kreis der Nobelpreisfreunde
                 beschränkte Auflage."</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Der Turm der Kathedrale / William Golding -- Regenschirm vom Piccadilly / Jaroslav Seifert -- Strasse in Flandern / Claude Simon</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="2">
             <marc:subfield code="a">Golding, William</marc:subfield>
             <marc:subfield code="d">1911-1993.</marc:subfield>
-            <marc:subfield code="t">Spire</marc:subfield>
+            <marc:subfield code="t">The Spire</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/178994871</marc:subfield>
             <marc:subfield code="l">ger</marc:subfield>
             <marc:subfield code="8">1/c</marc:subfield>
@@ -83,7 +96,7 @@
         <marc:datafield tag="700" ind1="1" ind2="2">
             <marc:subfield code="a">Seifert, Jaroslav</marc:subfield>
             <marc:subfield code="d">1901-1986.</marc:subfield>
-            <marc:subfield code="t">Deštník z Piccadilly.</marc:subfield>
+            <marc:subfield code="t">Deštník z Piccadilly</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/312341155</marc:subfield>
             <marc:subfield code="l">ger</marc:subfield>
             <marc:subfield code="8">2/c</marc:subfield>
@@ -313,8 +326,7 @@
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="c">a novel by William Golding ; with an introduction and notes by
-                Ian Gregor and Mark Kinkead Weekes.</marc:subfield>
+            <marc:subfield code="c">a novel by William Golding ; with an introduction and notes by Ian Gregor and Mark Kinkead Weekes.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="250" ind1=" " ind2=" ">
             <marc:subfield code="a">Educational edition.</marc:subfield>
@@ -1240,13 +1252,13 @@
         <marc:datafield tag="600" ind1="1" ind2="4">
             <marc:subfield code="a">Golding, William</marc:subfield>
             <marc:subfield code="d">1911-1993.</marc:subfield>
-            <marc:subfield code="t">Spire.</marc:subfield>
+            <marc:subfield code="t">The Spire</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/178994871</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Golding, William</marc:subfield>
             <marc:subfield code="d">1911-1993.</marc:subfield>
-            <marc:subfield code="t">Spire.</marc:subfield>
+            <marc:subfield code="t">The Spire</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/178994871</marc:subfield>
             <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10187</marc:subfield>
         </marc:datafield>
@@ -1578,6 +1590,7 @@
         <marc:datafield tag="240" ind1="1" ind2="2">
             <marc:subfield code="a">To the Ends of the Earth</marc:subfield>
             <marc:subfield code="1">http://www.wikidata.org/entity/Q4394863</marc:subfield>
+            <marc:subfield code="k">Collection</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
             <marc:subfield code="a">To the ends of the Earth /</marc:subfield>
@@ -1615,9 +1628,7 @@
             <marc:subfield code="a">Originally published: 1991.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="505" ind1="0" ind2=" ">
-            <marc:subfield code="a">Contents: Rites of passage. Originally published: 1980 - Close
-                quarters. Originally published: 1987 - Fire down below. Originally published:
-                1989.</marc:subfield>
+            <marc:subfield code="a">Rites of passage -- Close quarters-- Fire down below</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="500" ind1=" " ind2=" ">
             <marc:subfield code="a">Formerly CIP.</marc:subfield>
@@ -1714,6 +1725,11 @@
             <marc:subfield code="a">The Scorpion God</marc:subfield>
             <marc:subfield code="k">Collection</marc:subfield>
             <marc:subfield code="1">http://www.wikidata.org/entity/Q7762618</marc:subfield>
+            <marc:subfield code="8">p</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2="0" tag="740">
+            <marc:subfield code="a">The Scorpion God</marc:subfield>
+            <marc:subfield code="8">p</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="4">
             <marc:subfield code="a">The scorpion god :</marc:subfield>
@@ -1751,8 +1767,7 @@
             <marc:subfield code="a">Envoy extraordinary originally published 1956.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="505" ind1="0" ind2=" ">
-            <marc:subfield code="a">The scorpion god.--Clonk clonk.--Envoy
-                extraordinary.</marc:subfield>
+            <marc:subfield code="a">The scorpion god -- Clonk clonk -- Envoy extraordinary</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="588" ind1="0" ind2=" ">
             <marc:subfield code="a">Print version record.</marc:subfield>
@@ -1762,21 +1777,21 @@
             <marc:subfield code="d">1911-1993</marc:subfield>
             <marc:subfield code="t">The Scorpion God</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/308018847</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="2">
             <marc:subfield code="a">Golding, William</marc:subfield>
             <marc:subfield code="d">1911-1993</marc:subfield>
             <marc:subfield code="t">Clonk Clonk</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/180585027</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="2">
             <marc:subfield code="a">Golding, William</marc:subfield>
             <marc:subfield code="d">1911-1993</marc:subfield>
             <marc:subfield code="t">Envoy Extraordinary</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/177762289</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNB-UK-William-Golding.xml">
@@ -2256,9 +2271,14 @@
             <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="240" ind1=" " ind2=" ">
-            <marc:subfield code="a">William Golding's "Lord of the flies"</marc:subfield>
+            <marc:subfield code="a">Lord of the flies</marc:subfield>
             <marc:subfield code="k">Play</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/310430410</marc:subfield>
+            <marc:subfield code="8">p</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1=" " ind2=" ">
+            <marc:subfield code="a">Lord of the flies</marc:subfield>
+            <marc:subfield code="8">p</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
             <marc:subfield code="a">William Golding's "Lord of the flies" /</marc:subfield>
@@ -3055,8 +3075,7 @@
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
             <marc:subfield code="a">Pincher Martin /</marc:subfield>
-            <marc:subfield code="c">William Golding ; with a afterword by Philippa
-                Gregory.</marc:subfield>
+            <marc:subfield code="c">William Golding ; with a afterword by Philippa Gregory.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="264" ind1=" " ind2="1">
             <marc:subfield code="a">London :</marc:subfield>
@@ -3590,13 +3609,13 @@
         <marc:datafield tag="600" ind1="1" ind2="4">
             <marc:subfield code="a">Golding, William</marc:subfield>
             <marc:subfield code="d">1911-1993.</marc:subfield>
-            <marc:subfield code="t">Spire.</marc:subfield>
+            <marc:subfield code="t">The Spire</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/178994871</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Golding, William</marc:subfield>
             <marc:subfield code="d">1911-1993.</marc:subfield>
-            <marc:subfield code="t">Spire.</marc:subfield>
+            <marc:subfield code="t">The Spire</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/178994871</marc:subfield>
             <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10150</marc:subfield>
         </marc:datafield>
@@ -3635,6 +3654,11 @@
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the Flies</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/119144648592107423604</marc:subfield>
+            <marc:subfield code="8">p</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="1" ind2="0">
+            <marc:subfield code="a">Lord of the Flies</marc:subfield>
+            <marc:subfield code="8">p</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies /</marc:subfield>
@@ -3777,8 +3801,7 @@
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="4">
             <marc:subfield code="a">The pyramid /</marc:subfield>
-            <marc:subfield code="c">William Golding, introduction by Penelope
-                Lively.</marc:subfield>
+            <marc:subfield code="c">William Golding, introduction by Penelope Lively.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="264" ind1=" " ind2="1">
             <marc:subfield code="a">London :</marc:subfield>
@@ -3823,6 +3846,12 @@
             <marc:subfield code="a">Country life</marc:subfield>
             <marc:subfield code="z">England</marc:subfield>
             <marc:subfield code="v">Fiction.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Lively, Penelope</marc:subfield>
+            <marc:subfield code="4">aui</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/m/object/P30328</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/108497462</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNB-UK-William-Golding.xml">
@@ -4433,8 +4462,7 @@
             <marc:subfield code="a">Originally published: London : Faber, 1971.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="505" ind1="0" ind2=" ">
-            <marc:subfield code="a">Contents: The scorpion god _ Clonk clonk _ Envoy
-                extraordinary.</marc:subfield>
+            <marc:subfield code="a">The scorpion god -- Clonk clonk -- Envoy extraordinary</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="2">
             <marc:subfield code="a">Golding, William</marc:subfield>
@@ -4493,7 +4521,7 @@
             <marc:subfield code="1">http://viaf.org/viaf/89500102/CollectionX</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
-            <marc:subfield code="a">Lord of the flies ;</marc:subfield>
+            <marc:subfield code="a">Lord of the flies</marc:subfield>
             <marc:subfield code="b">Pincher Martin ; Rites of passage /</marc:subfield>
             <marc:subfield code="c">William Golding.</marc:subfield>
         </marc:datafield>
@@ -4526,9 +4554,7 @@
             <marc:subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="505" ind1="0" ind2=" ">
-            <marc:subfield code="a">Contents: Lord of the flies. Originally published: London :
-                Faber, 1954 _ Pincher Martin. Originally published: London : Faber, 1956 _ Rites of
-                Passage. Originally published: London : Faber, 1980.</marc:subfield>
+            <marc:subfield code="a">Lord of the flies -- Pincher Martin  -- Rites of Passage</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="2">
             <marc:subfield code="a">Golding, William</marc:subfield>
@@ -4653,8 +4679,7 @@
         <marc:datafield tag="245" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies :</marc:subfield>
             <marc:subfield code="b">a novel /</marc:subfield>
-            <marc:subfield code="c">by William Golding ; with an introduction and notes by Ian
-                Gregor and Mark Kinkead Weekes.</marc:subfield>
+            <marc:subfield code="c">by William Golding ; with an introduction and notes by Ian Gregor and Mark Kinkead Weekes.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="250" ind1=" " ind2=" ">
             <marc:subfield code="a">Educational ed.</marc:subfield>
@@ -4688,8 +4713,7 @@
             <marc:subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="500" ind1=" " ind2=" ">
-            <marc:subfield code="a">Originally published: London, Faber &amp; Faber,
-                1954.</marc:subfield>
+            <marc:subfield code="a">Originally published: London, Faber &amp; Faber, 1954.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Gregor, Ian.</marc:subfield>
@@ -4933,13 +4957,13 @@
         <marc:datafield tag="600" ind1="1" ind2="4">
             <marc:subfield code="a">Golding, William</marc:subfield>
             <marc:subfield code="d">1911-1993.</marc:subfield>
-            <marc:subfield code="t">Spire.</marc:subfield>
+            <marc:subfield code="t">The Spire</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/178994871</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Golding, William</marc:subfield>
             <marc:subfield code="d">1911-1993.</marc:subfield>
-            <marc:subfield code="t">Spire</marc:subfield>
+            <marc:subfield code="t">The Spire</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/178994871</marc:subfield>
             <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10187</marc:subfield>
         </marc:datafield>
@@ -4988,6 +5012,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="2">
             <marc:subfield code="a">To the Ends of the Earth</marc:subfield>
+            <marc:subfield code="k">Collection</marc:subfield>
             <marc:subfield code="1">http://www.wikidata.org/entity/Q4394863</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
@@ -5019,6 +5044,9 @@
         <marc:datafield tag="380" ind1=" " ind2=" ">
             <marc:subfield code="a">Language-based work</marc:subfield>
             <marc:subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="505" ind1="0" ind2=" ">
+            <marc:subfield code="a">Rites of passage -- Close quarters-- Fire down below</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="2">
             <marc:subfield code="a">Golding, William</marc:subfield>
@@ -5164,15 +5192,14 @@
             <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
-            <marc:subfield code="a">Spire.</marc:subfield>
+            <marc:subfield code="a">The Spire</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/178994871</marc:subfield>
             <marc:subfield code="8">1/c</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
             <marc:subfield code="a">La construcción de la torre /</marc:subfield>
-            <marc:subfield code="c">William Golding ; traducción del inglés por Encarna
-                Quijada.</marc:subfield>
+            <marc:subfield code="c">William Golding ; traducción del inglés por Encarna Quijada.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="250" ind1=" " ind2=" ">
             <marc:subfield code="a">1. ed.</marc:subfield>
@@ -5264,8 +5291,7 @@
         <marc:datafield tag="245" ind1="1" ind2="4">
             <marc:subfield code="a">The scorpion god :</marc:subfield>
             <marc:subfield code="b">three short novels /</marc:subfield>
-            <marc:subfield code="c">William Golding ; with an introduction by Craig
-                Raine.</marc:subfield>
+            <marc:subfield code="c">William Golding ; with an introduction by Craig Raine.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="264" ind1=" " ind2="1">
             <marc:subfield code="a">London :</marc:subfield>
@@ -5299,8 +5325,7 @@
             <marc:subfield code="a">Originally published: 1971.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="505" ind1="0" ind2=" ">
-            <marc:subfield code="a">The scorpion God.--Clonk clonk.--Envoy
-                extraordinary.</marc:subfield>
+            <marc:subfield code="a">The scorpion God -- Clonk clonk -- Envoy extraordinary</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="500" ind1=" " ind2=" ">
             <marc:subfield code="a">Formerly CIP.</marc:subfield>
@@ -5326,6 +5351,12 @@
             <marc:subfield code="t">Envoy extraordinary.</marc:subfield>
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="1">http://viaf.org/viaf/177762289</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Raine, Craig</marc:subfield>
+            <marc:subfield code="4">aui</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/m/object/P30328</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/109262065</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNB-UK-William-Golding.xml">
@@ -5869,6 +5900,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">To the Ends of the Earth</marc:subfield>
+            <marc:subfield code="k">Collection</marc:subfield>
             <marc:subfield code="1">http://www.wikidata.org/entity/Q4394863</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
@@ -5909,8 +5941,7 @@
                 Originally published: 1991.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="505" ind1="0" ind2=" ">
-            <marc:subfield code="a">Contents: Rites of passage - Close quarters - Fire down
-                below.</marc:subfield>
+            <marc:subfield code="a">Rites of passage -- Close quarters -- Fire down</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="500" ind1=" " ind2=" ">
             <marc:subfield code="a">Formerly CIP.</marc:subfield>
@@ -6338,8 +6369,7 @@
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="4">
             <marc:subfield code="a">The double tongue /</marc:subfield>
-            <marc:subfield code="c">William Golding ; [with an introduction by Meg
-                Rosoff].</marc:subfield>
+            <marc:subfield code="c">William Golding ; [with an introduction by Meg Rosoff].</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="260" ind1=" " ind2=" ">
             <marc:subfield code="a">London :</marc:subfield>
@@ -6375,6 +6405,12 @@
         <marc:datafield tag="500" ind1=" " ind2=" ">
             <marc:subfield code="a">Formerly CIP.</marc:subfield>
             <marc:subfield code="5">Uk</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Rosoff, Meg</marc:subfield>
+            <marc:subfield code="4">aui</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/m/object/P30328</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/79549905</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNB-UK-William-Golding.xml">
@@ -6543,7 +6579,7 @@
             <marc:subfield code="1">http://viaf.org/viaf/89500102</marc:subfield>
             <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
         </marc:datafield>
-        <marc:datafield ind1="0" ind2="0" tag="240">
+        <marc:datafield ind1="1" ind2="0" tag="240">
             <marc:subfield code="a">The Scorpion God</marc:subfield>
             <marc:subfield code="k">Collection</marc:subfield>
             <marc:subfield code="1">http://www.wikidata.org/entity/Q7762618</marc:subfield>
@@ -6579,9 +6615,8 @@
             <marc:subfield code="a">Language-based work</marc:subfield>
             <marc:subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="500" ind1=" " ind2=" ">
-            <marc:subfield code="a">Contents: The scorpion god.-Clonk clonk.-Envoy
-                extraordinary.</marc:subfield>
+        <marc:datafield tag="505" ind1=" " ind2=" ">
+            <marc:subfield code="a">The scorpion god -- Clonk clonk -- Envoy extraordinary</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="2">
             <marc:subfield code="a">Golding, William</marc:subfield>
@@ -6589,7 +6624,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">The Scorpion God</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/308018847</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="2">
             <marc:subfield code="a">Golding, William</marc:subfield>
@@ -6597,7 +6632,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">Clonk Clonk</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/180585027</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="2">
             <marc:subfield code="a">Golding, William</marc:subfield>
@@ -6605,7 +6640,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">Envoy Extraordinary</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/177762289</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNB-UK-William-Golding.xml">
@@ -6664,13 +6699,16 @@
             <marc:subfield code="a">Language-based work</marc:subfield>
             <marc:subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="505" ind1="0" ind2=" ">
+            <marc:subfield code="a">The Scorpion god -- Clonk Clonk -- Envoy Extraordinary</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="2">
             <marc:subfield code="a">Golding, William</marc:subfield>
             <marc:subfield code="d">1911-1993</marc:subfield>
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">The Scorpion God</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/308018847</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="2">
             <marc:subfield code="a">Golding, William</marc:subfield>
@@ -6678,7 +6716,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">Clonk Clonk</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/180585027</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="2">
             <marc:subfield code="a">Golding, William</marc:subfield>
@@ -6686,7 +6724,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">Envoy Extraordinary</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/177762289</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNB-UK-William-Golding.xml">
@@ -7411,8 +7449,7 @@
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies /</marc:subfield>
-            <marc:subfield code="c">William Golding ; preface by Ian McEwan ; illustrations by Sam
-                Weber.</marc:subfield>
+            <marc:subfield code="c">William Golding ; preface by Ian McEwan ; illustrations by Sam Weber.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="260" ind1=" " ind2=" ">
             <marc:subfield code="a">London :</marc:subfield>
@@ -7449,6 +7486,18 @@
         </marc:datafield>
         <marc:datafield tag="500" ind1=" " ind2=" ">
             <marc:subfield code="a">In slipcase.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">McEwan, Ian</marc:subfield>
+            <marc:subfield code="4">aui</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/m/object/P30328</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/109587997</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2=" " tag="700">
+            <marc:subfield code="a">Weber, Sam</marc:subfield>
+            <marc:subfield code="4">ill</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/m/object/P30321</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/webersam</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNB-UK-William-Golding.xml">
@@ -7757,8 +7806,7 @@
             <marc:subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="500" ind1=" " ind2=" ">
-            <marc:subfield code="a">"With a new introduction by Stephen
-                King"--Cover.</marc:subfield>
+            <marc:subfield code="a">"With a new introduction by Stephen King"--Cover.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="500" ind1=" " ind2=" ">
             <marc:subfield code="a">Originally published: 1954.</marc:subfield>
@@ -7780,6 +7828,12 @@
         <marc:datafield tag="650" ind1=" " ind2="0">
             <marc:subfield code="a">Interpersonal relations in children</marc:subfield>
             <marc:subfield code="v">Fiction.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">King, Stephen</marc:subfield>
+            <marc:subfield code="4">aui</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/m/object/P30328</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/97113511</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNB-UK-William-Golding.xml">
@@ -8563,6 +8617,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">To the Ends of the Earth</marc:subfield>
+            <marc:subfield code="k">Collection</marc:subfield>
             <marc:subfield code="1">http://www.wikidata.org/entity/Q4394863</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
@@ -8594,6 +8649,9 @@
         <marc:datafield tag="380" ind1=" " ind2=" ">
             <marc:subfield code="a">Language-based work</marc:subfield>
             <marc:subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="505" ind1="0" ind2=" ">
+            <marc:subfield code="a">Rites of passage -- Close quarters-- Fire down below</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="2">
             <marc:subfield code="a">Golding, William</marc:subfield>
@@ -9207,11 +9265,12 @@
             <marc:subfield code="1">http://viaf.org/viaf/89500102</marc:subfield>
             <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
         </marc:datafield>
-        <marc:datafield ind1="0" ind2="0" tag="240">
+        <marc:datafield ind1="1" ind2="0" tag="240">
             <marc:subfield code="a">The Scorpion God</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="k">Collection</marc:subfield>
             <marc:subfield code="1">http://www.wikidata.org/entity/Q7762618</marc:subfield>
+            <marc:subfield code="8">5/p</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
             <marc:subfield code="a">El dios Escorpión ; Clonc clonc ; El enviado especial
@@ -9257,13 +9316,16 @@
             <marc:subfield code="a">Originally published as: El dios Escorpión : tres novelas
                 cortas, 1973.</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="505" ind1="0" ind2=" ">
+            <marc:subfield code="a">El dios Escorpión -- Clonc clonc -- El enviado especial</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="2">
             <marc:subfield code="a">Golding, William</marc:subfield>
             <marc:subfield code="d">1911-1993</marc:subfield>
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">The Scorpion God</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/308018847</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="8">2/c</marc:subfield>
         </marc:datafield>
@@ -9277,7 +9339,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">Clonk Clonk</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/180585027</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="8">3/c</marc:subfield>
         </marc:datafield>
@@ -9291,7 +9353,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">Envoy Extraordinary</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/177762289</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="8">4/c</marc:subfield>
         </marc:datafield>
@@ -9305,10 +9367,10 @@
             <marc:subfield code="1">http://viaf.org/viaf/12367718</marc:subfield>
             <marc:subfield code="4">trl</marc:subfield>
             <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20037</marc:subfield>
-            <marc:subfield code="8">4/c</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="740" created="true">
             <marc:subfield code="a">El dios Escorpión</marc:subfield>
+            <marc:subfield code="8">5/p</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNB-UK-William-Golding.xml">
@@ -9449,8 +9511,7 @@
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
             <marc:subfield code="a">Rites of passage /</marc:subfield>
-            <marc:subfield code="c">William Golding ; with an introduction by Robert
-                McCrum.</marc:subfield>
+            <marc:subfield code="c">William Golding ; with an introduction by Robert McCrum.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="264" ind1=" " ind2="1">
             <marc:subfield code="a">[London] :</marc:subfield>
@@ -9504,6 +9565,12 @@
         <marc:datafield tag="650" ind1=" " ind2="7">
             <marc:subfield code="a">Navigation &amp; Seamanship</marc:subfield>
             <marc:subfield code="2">bicssc</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">McCrum, Robert</marc:subfield>
+            <marc:subfield code="4">aui</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/m/object/P30328</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/24835909</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="859" ind1=" " ind2=" ">
             <marc:subfield code="a">ELD</marc:subfield>
@@ -9748,9 +9815,7 @@
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies /</marc:subfield>
-            <marc:subfield code="c">William Golding ; introduction by E.M. Forster ; with a
-                biographical and critical note by E.L. Epstein ; illustrated by Ben
-                Gibson.</marc:subfield>
+            <marc:subfield code="c">William Golding ; introduction by E.M. Forster ; with a biographical and critical note by E.L. Epstein ; illustrated by Ben Gibson.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="250" ind1=" " ind2=" ">
             <marc:subfield code="a">1st Perigee hardcover edition, 50th anniversary edition</marc:subfield>
@@ -9806,6 +9871,18 @@
         <marc:datafield tag="650" ind1=" " ind2="0">
             <marc:subfield code="a">Boys</marc:subfield>
             <marc:subfield code="v">Fiction.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Forster, E.M.</marc:subfield>
+            <marc:subfield code="4">aui</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/m/object/P30328</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/31996364</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Epstein, Edmund Lloyd</marc:subfield>
+            <marc:subfield code="4">aui</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/m/object/P30328</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/19810356</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="710" ind1="2" ind2=" ">
             <marc:subfield code="a">Berkley Publishing Group.</marc:subfield>
@@ -10299,8 +10376,7 @@
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
             <marc:subfield code="a">Darkness visible /</marc:subfield>
-            <marc:subfield code="c">William Golding ; with an introduction by Philip
-                Hensher.</marc:subfield>
+            <marc:subfield code="c">William Golding ; with an introduction by Philip Hensher.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="264" ind1=" " ind2="1">
             <marc:subfield code="a">London :</marc:subfield>
@@ -11018,7 +11094,7 @@
             <marc:subfield code="1">http://viaf.org/viaf/89500102</marc:subfield>
             <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
         </marc:datafield>
-        <marc:datafield ind1="0" ind2="0" tag="240">
+        <marc:datafield ind1="1" ind2="0" tag="240">
             <marc:subfield code="a">The Scorpion God</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="k">Collection</marc:subfield>
@@ -11061,6 +11137,9 @@
             <marc:subfield code="a">El Libro de Bolsillo. Sección: Literatura</marc:subfield>
             <marc:subfield code="v">v. 468</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="505" ind1="0" ind2=" ">
+            <marc:subfield code="a">El dios Escorpión -- Clonc clonc -- El enviado especial</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Champourcin, Ernestina de</marc:subfield>
             <marc:subfield code="d">1905-1999</marc:subfield>
@@ -11073,7 +11152,7 @@
             <marc:subfield code="d">1911-1993</marc:subfield>
             <marc:subfield code="t">The Scorpion God</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/308018847</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="8">2/c</marc:subfield>
         </marc:datafield>
@@ -11087,7 +11166,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">Clonk Clonk</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/180585027</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="8">3/c</marc:subfield>
         </marc:datafield>
@@ -11101,7 +11180,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">Envoy Extraordinary</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/177762289</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="8">4/c</marc:subfield>
         </marc:datafield>
@@ -11227,7 +11306,7 @@
             <marc:subfield code="1">http://viaf.org/viaf/89500102</marc:subfield>
             <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
         </marc:datafield>
-        <marc:datafield ind1="0" ind2="0" tag="240">
+        <marc:datafield ind1="1" ind2="0" tag="240">
             <marc:subfield code="a">The Scorpion God</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="k">Collection</marc:subfield>
@@ -11278,6 +11357,9 @@
             <marc:subfield code="p">Literatura</marc:subfield>
             <marc:subfield code="v">5637</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="505" ind1="0" ind2=" ">
+            <marc:subfield code="a">El dios Escorpión -- Clonc clonc -- El enviado especial</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Champourcin, Ernestina de</marc:subfield>
             <marc:subfield code="d">1905-1999</marc:subfield>
@@ -11291,7 +11373,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">The Scorpion God</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/308018847</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="8">2/c</marc:subfield>
         </marc:datafield>
@@ -11305,7 +11387,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">Clonk Clonk</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/180585027</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="8">3/c</marc:subfield>
         </marc:datafield>
@@ -11319,7 +11401,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">Envoy Extraordinary</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/177762289</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="8">4/c</marc:subfield>
         </marc:datafield>
@@ -12962,6 +13044,9 @@
         <marc:datafield tag="490" ind1="1" ind2=" ">
             <marc:subfield code="a">El libro de bolsillo. Biblioteca de autor</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="505" ind1="0" ind2=" ">
+            <marc:subfield code="a">El dios Escorpión -- Clonc clonc -- El enviado especial</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Champourcin, Ernestina de</marc:subfield>
             <marc:subfield code="d">1905-1999</marc:subfield>
@@ -12975,7 +13060,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">The Scorpion God</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/308018847</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="8">2/c</marc:subfield>
         </marc:datafield>
@@ -12989,7 +13074,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">Clonk Clonk</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/180585027</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="8">3/c</marc:subfield>
         </marc:datafield>
@@ -13003,7 +13088,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">Envoy Extraordinary</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/177762289</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="8">4/c</marc:subfield>
         </marc:datafield>
@@ -13097,6 +13182,9 @@
             <marc:subfield code="a">Biblioteca fundamental de nuestro tiempo ;13. Sección
                 Literatura</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="505" ind1="0" ind2=" ">
+            <marc:subfield code="a">El dios Escorpión -- Clonc clonc -- El enviado especial</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Champourcin, Ernestina de</marc:subfield>
             <marc:subfield code="d">1905-1999</marc:subfield>
@@ -13110,7 +13198,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">The Scorpion God</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/308018847</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="8">2/c</marc:subfield>
         </marc:datafield>
@@ -13124,7 +13212,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">Clonk Clonk</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/180585027</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="8">3/c</marc:subfield>
         </marc:datafield>
@@ -13138,7 +13226,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">Envoy Extraordinary</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/177762289</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="8">4/c</marc:subfield>
         </marc:datafield>
@@ -13579,6 +13667,9 @@
             <marc:subfield code="a">Biblioteca fundamental de nuestro tiempo ;13. Sección
                 literatura</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="505" ind1="0" ind2=" ">
+            <marc:subfield code="a">El dios Escorpión -- Clonc clonc -- El enviado especial</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Champourcin, Ernestina de</marc:subfield>
             <marc:subfield code="d">1905-1999</marc:subfield>
@@ -13592,7 +13683,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">The Scorpion God</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/308018847</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="8">2/c</marc:subfield>
         </marc:datafield>
@@ -13606,7 +13697,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">Clonk Clonk</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/180585027</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="8">3/c</marc:subfield>
         </marc:datafield>
@@ -13620,7 +13711,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">Envoy Extraordinary</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/177762289</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="8">4/c</marc:subfield>
         </marc:datafield>
@@ -14886,8 +14977,7 @@
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
             <marc:subfield code="a">El señor de las moscas</marc:subfield>
-            <marc:subfield code="c">William Golding ; ilustraciones, Jorge González ; traducción,
-                Carmen Vergara ; epílogo, Ian McEwan</marc:subfield>
+            <marc:subfield code="c">William Golding ; ilustraciones, Jorge González ; traducción, Carmen Vergara ; epílogo, Ian McEwan</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="250" ind1=" " ind2=" ">
             <marc:subfield code="a">1ª ed.</marc:subfield>
@@ -14934,6 +15024,18 @@
             <marc:subfield code="4">trl</marc:subfield>
             <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20037</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/86744222</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">McEwan, Ian</marc:subfield>
+            <marc:subfield code="4">aft</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/m/object/P30328</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/109587997</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1=" " ind2=" ">
+            <marc:subfield code="a">González, Jorge</marc:subfield>
+            <marc:subfield code="4">aft</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/m/object/P30321</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/17472763</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="740" created="true">
             <marc:subfield code="a">El señor de las moscas</marc:subfield>
@@ -15587,7 +15689,7 @@
             <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="4">
-            <marc:subfield code="a">The spire</marc:subfield>
+            <marc:subfield code="a">The Spire</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/178994871</marc:subfield>
             <marc:subfield code="8">1/c</marc:subfield>
@@ -15595,8 +15697,7 @@
         <marc:datafield tag="245" ind1="1" ind2="3">
             <marc:subfield code="a">La construcción de la torre</marc:subfield>
             <marc:subfield code="h">[Texto impreso]</marc:subfield>
-            <marc:subfield code="c">William Golding ; traducción del inglés por Encarna
-                Quijada</marc:subfield>
+            <marc:subfield code="c">William Golding ; traducción del inglés por Encarna Quijada</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="250" ind1=" " ind2=" ">
             <marc:subfield code="a">1ª ed.</marc:subfield>
@@ -15633,6 +15734,12 @@
         </marc:datafield>
         <marc:datafield tag="594" ind1=" " ind2=" ">
             <marc:subfield code="a">Traducción de: The spire</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Quijada, Encarna.</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/e/object/P20037</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/581145857119122922888</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="740" created="true">
             <marc:subfield code="a">La construcción de la torre</marc:subfield>
@@ -16610,6 +16717,9 @@
             <marc:subfield code="a">El Libro de bolsillo</marc:subfield>
             <marc:subfield code="v">468. Sección Literatura</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="505" ind1="0" ind2=" ">
+            <marc:subfield code="a">El dios Escorpión -- Clonc clonc -- El enviado especial</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Champourcin, Ernestina de</marc:subfield>
             <marc:subfield code="d">1905-1999</marc:subfield>
@@ -16623,7 +16733,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">The Scorpion God</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/308018847</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="8">2/c</marc:subfield>
         </marc:datafield>
@@ -16637,7 +16747,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">Clonk Clonk</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/180585027</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="8">3/c</marc:subfield>
         </marc:datafield>
@@ -16651,7 +16761,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">Envoy Extraordinary</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/177762289</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="8">4/c</marc:subfield>
         </marc:datafield>
@@ -20079,50 +20189,10 @@
             <marc:subfield code="t">Lord of the flies</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
-        <marc:datafield ind1=" " ind2="7" tag="650">
-            <marc:subfield code="0">(DE-588)4014801-4</marc:subfield>
-            <marc:subfield code="0">http://d-nb.info/gnd/4014801-4</marc:subfield>
-            <marc:subfield code="0">(DE-101)040148017</marc:subfield>
-            <marc:subfield code="a">Englischunterricht</marc:subfield>
-            <marc:subfield code="2">gnd</marc:subfield>
-        </marc:datafield>
-        <marc:datafield ind1=" " ind2="7" tag="650">
-            <marc:subfield code="0">(DE-588)4053510-1</marc:subfield>
-            <marc:subfield code="0">http://d-nb.info/gnd/4053510-1</marc:subfield>
-            <marc:subfield code="0">(DE-101)04053510X</marc:subfield>
-            <marc:subfield code="a">Schuljahr 8</marc:subfield>
-            <marc:subfield code="2">gnd</marc:subfield>
-        </marc:datafield>
-        <marc:datafield ind1="0" ind2="0" tag="689">
-            <marc:subfield code="0">(DE-588)4123300-1</marc:subfield>
-            <marc:subfield code="0">http://d-nb.info/gnd/4123300-1</marc:subfield>
-            <marc:subfield code="0">(DE-101)04123300X</marc:subfield>
-            <marc:subfield code="D">p</marc:subfield>
-            <marc:subfield code="a">Golding, William</marc:subfield>
-            <marc:subfield code="d">1911-1993</marc:subfield>
-            <marc:subfield code="t">Lord of the flies</marc:subfield>
-        </marc:datafield>
-        <marc:datafield ind1="0" ind2="1" tag="689">
-            <marc:subfield code="0">(DE-588)4014801-4</marc:subfield>
-            <marc:subfield code="0">http://d-nb.info/gnd/4014801-4</marc:subfield>
-            <marc:subfield code="0">(DE-101)040148017</marc:subfield>
-            <marc:subfield code="D">s</marc:subfield>
-            <marc:subfield code="a">Englischunterricht</marc:subfield>
-        </marc:datafield>
-        <marc:datafield ind1="0" ind2="2" tag="689">
-            <marc:subfield code="0">(DE-588)4053510-1</marc:subfield>
-            <marc:subfield code="0">http://d-nb.info/gnd/4053510-1</marc:subfield>
-            <marc:subfield code="0">(DE-101)04053510X</marc:subfield>
-            <marc:subfield code="D">s</marc:subfield>
-            <marc:subfield code="a">Schuljahr 8</marc:subfield>
-        </marc:datafield>
-        <marc:datafield ind1="0" ind2="3" tag="689">
-            <marc:subfield code="A">f</marc:subfield>
-            <marc:subfield code="a">Lehrmittel</marc:subfield>
-        </marc:datafield>
-        <marc:datafield ind1="0" ind2=" " tag="689">
-            <marc:subfield code="5">DE-101</marc:subfield>
-            <marc:subfield code="5">DE-101</marc:subfield>
+        <marc:datafield tag="758" ind1="1" ind2=" ">
+            <marc:subfield code="a">Lord of the flies (Golding, William)</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/119144648592107423604/exp/eng/1020</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10628</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record type="Bibliographic" source="1983-DNB-UK-William-Golding.xml">
@@ -20657,6 +20727,11 @@
         <marc:datafield ind1="0" ind2=" " tag="689">
             <marc:subfield code="5">DE-101</marc:subfield>
             <marc:subfield code="5">DE-101</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="758" ind1=" " ind2=" ">
+            <marc:subfield code="a">Lord of the flies (Golding, William)</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/119144648592107423604</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10150</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="780">
             <marc:subfield code="i">Früher u.d.T.:</marc:subfield>
@@ -21420,6 +21495,13 @@
         <marc:datafield ind1="0" ind2=" " tag="689">
             <marc:subfield code="5">DE-101</marc:subfield>
             <marc:subfield code="5">DE-101</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Golding, William</marc:subfield>
+            <marc:subfield code="d">1911-1993.</marc:subfield>
+            <marc:subfield code="t">Lord of the flies.</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/119144648592107423604</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10187</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record type="Bibliographic" source="1983-DNB-UK-William-Golding.xml">
@@ -23438,8 +23520,7 @@
         <marc:datafield ind1="0" ind2="0" tag="245">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
             <marc:subfield code="b">a novel</marc:subfield>
-            <marc:subfield code="c">by William Golding. With an introd. and notes by Ian Gregor and
-                Mark Kinkead-Weekes</marc:subfield>
+            <marc:subfield code="c">by William Golding. With an introd. and notes by Ian Gregor and Mark Kinkead-Weekes</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="250">
             <marc:subfield code="a">Educational ed.</marc:subfield>
@@ -23481,6 +23562,18 @@
         <marc:datafield ind1=" " ind2=" " tag="500">
             <marc:subfield code="a">Vom Verl. Faber and Farber, London, übernommene
                 Ausg.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Gregor, Ian.</marc:subfield>
+            <marc:subfield code="4">aui</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/m/object/P30328</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/14894463</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kinkead-Weekes, Mark</marc:subfield>
+            <marc:subfield code="4">aui</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/m/object/P30328</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/6049</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record type="Bibliographic" source="1983-DNB-UK-William-Golding.xml">
@@ -27539,67 +27632,15 @@
             <marc:subfield code="t">The Coral Island</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/191996024</marc:subfield>
         </marc:datafield>
-        <marc:datafield ind1=" " ind2="7" tag="650">
-            <marc:subfield code="0">(DE-588)4011975-0</marc:subfield>
-            <marc:subfield code="0">http://d-nb.info/gnd/4011975-0</marc:subfield>
-            <marc:subfield code="0">(DE-101)040119750</marc:subfield>
-            <marc:subfield code="a">Deutschunterricht</marc:subfield>
-            <marc:subfield code="2">gnd</marc:subfield>
+        <marc:datafield tag="758" ind1=" " ind2=" ">
+            <marc:subfield code="a">Lord of the flies (Golding, William)</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/119144648592107423604</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10150</marc:subfield>
         </marc:datafield>
-        <marc:datafield ind1=" " ind2="7" tag="650">
-            <marc:subfield code="0">(DE-588)4011975-0</marc:subfield>
-            <marc:subfield code="0">http://d-nb.info/gnd/4011975-0</marc:subfield>
-            <marc:subfield code="0">(DE-101)040119750</marc:subfield>
-            <marc:subfield code="a">Deutschunterricht</marc:subfield>
-            <marc:subfield code="2">gnd</marc:subfield>
-        </marc:datafield>
-        <marc:datafield ind1="0" ind2="0" tag="689">
-            <marc:subfield code="0">(DE-588)4123300-1</marc:subfield>
-            <marc:subfield code="0">http://d-nb.info/gnd/4123300-1</marc:subfield>
-            <marc:subfield code="0">(DE-101)04123300X</marc:subfield>
-            <marc:subfield code="D">p</marc:subfield>
-            <marc:subfield code="a">Golding, William</marc:subfield>
-            <marc:subfield code="d">1911-1993</marc:subfield>
-            <marc:subfield code="t">Lord of the flies</marc:subfield>
-        </marc:datafield>
-        <marc:datafield ind1="0" ind2="1" tag="689">
-            <marc:subfield code="0">(DE-588)4011975-0</marc:subfield>
-            <marc:subfield code="0">http://d-nb.info/gnd/4011975-0</marc:subfield>
-            <marc:subfield code="0">(DE-101)040119750</marc:subfield>
-            <marc:subfield code="D">s</marc:subfield>
-            <marc:subfield code="a">Deutschunterricht</marc:subfield>
-        </marc:datafield>
-        <marc:datafield ind1="0" ind2="2" tag="689">
-            <marc:subfield code="A">f</marc:subfield>
-            <marc:subfield code="a">Lehrmittel</marc:subfield>
-        </marc:datafield>
-        <marc:datafield ind1="0" ind2=" " tag="689">
-            <marc:subfield code="5">DE-101</marc:subfield>
-            <marc:subfield code="5">DE-101</marc:subfield>
-        </marc:datafield>
-        <marc:datafield ind1="1" ind2="0" tag="689">
-            <marc:subfield code="0">(DE-588)4318888-6</marc:subfield>
-            <marc:subfield code="0">http://d-nb.info/gnd/4318888-6</marc:subfield>
-            <marc:subfield code="0">(DE-101)043188885</marc:subfield>
-            <marc:subfield code="D">p</marc:subfield>
-            <marc:subfield code="a">Ballantyne, Robert M.</marc:subfield>
-            <marc:subfield code="d">1825-1894</marc:subfield>
-            <marc:subfield code="t">The Coral Island</marc:subfield>
-        </marc:datafield>
-        <marc:datafield ind1="1" ind2="1" tag="689">
-            <marc:subfield code="0">(DE-588)4011975-0</marc:subfield>
-            <marc:subfield code="0">http://d-nb.info/gnd/4011975-0</marc:subfield>
-            <marc:subfield code="0">(DE-101)040119750</marc:subfield>
-            <marc:subfield code="D">s</marc:subfield>
-            <marc:subfield code="a">Deutschunterricht</marc:subfield>
-        </marc:datafield>
-        <marc:datafield ind1="1" ind2="2" tag="689">
-            <marc:subfield code="A">f</marc:subfield>
-            <marc:subfield code="a">Lehrmittel</marc:subfield>
-        </marc:datafield>
-        <marc:datafield ind1="1" ind2=" " tag="689">
-            <marc:subfield code="5">DE-101</marc:subfield>
-            <marc:subfield code="5">DE-101</marc:subfield>
+        <marc:datafield tag="758" ind1=" " ind2=" ">
+            <marc:subfield code="a">The Coral Island (Ballantyne, Robert M.)</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/191996024</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10150</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2="0" tag="830">
             <marc:subfield code="a">Analysen und Reflexionen</marc:subfield>
@@ -29330,6 +29371,13 @@
             <marc:subfield code="5">DE-101</marc:subfield>
             <marc:subfield code="5">DE-101</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Golding, William</marc:subfield>
+            <marc:subfield code="d">1911-1993.</marc:subfield>
+            <marc:subfield code="t">Lord of the flies.</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/119144648592107423604</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10187</marc:subfield>
+        </marc:datafield>
     </marc:record>
     <marc:record type="Bibliographic" source="1983-DNB-UK-William-Golding.xml">
         <marc:leader>00000nam a2200000 c 4500</marc:leader>
@@ -29952,6 +30000,11 @@
             <marc:subfield code="l">ger</marc:subfield>
             <marc:subfield code="k">Collection</marc:subfield>
             <marc:subfield code="1">http://www.wikidata.org/entity/Q7762618</marc:subfield>
+            <marc:subfield code="8">p</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2="0" tag="740">
+            <marc:subfield code="a">Der Sonderbotschafter</marc:subfield>
+            <marc:subfield code="8">p</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="245">
             <marc:subfield code="a">Der Sonderbotschafter</marc:subfield>
@@ -30003,6 +30056,9 @@
             <marc:subfield code="a">Lizenz d. Claassen-Verl., Düsseldorf. - Enth. 3
                 Romane</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="505" ind1="0" ind2=" ">
+            <marc:subfield code="a">Der Skorpion-Gott -- Clonk Clonk -- Der Sonderbotschafter</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="1" ind2=" " tag="700">
             <marc:subfield code="a">Herrera, Ulla H. de</marc:subfield>
             <marc:subfield code="4">trl</marc:subfield>
@@ -30014,7 +30070,7 @@
             <marc:subfield code="d">1911-1993</marc:subfield>
             <marc:subfield code="t">The Scorpion God</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/308018847</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">ger</marc:subfield>
             <marc:subfield code="8">2/c</marc:subfield>
         </marc:datafield>
@@ -30027,7 +30083,7 @@
             <marc:subfield code="d">1911-1993</marc:subfield>
             <marc:subfield code="t">Clonk Clonk</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/180585027</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">ger</marc:subfield>
             <marc:subfield code="8">3/c</marc:subfield>
         </marc:datafield>
@@ -30041,7 +30097,7 @@
             <!--            <marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">Envoy Extraordinary</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/177762289</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">ger</marc:subfield>
             <marc:subfield code="8">4/c</marc:subfield>
         </marc:datafield>
@@ -30186,36 +30242,10 @@
             <marc:subfield code="t">Lord of the flies</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
-        <marc:datafield ind1=" " ind2="7" tag="650">
-            <marc:subfield code="0">(DE-588)4011975-0</marc:subfield>
-            <marc:subfield code="0">http://d-nb.info/gnd/4011975-0</marc:subfield>
-            <marc:subfield code="0">(DE-101)040119750</marc:subfield>
-            <marc:subfield code="a">Deutschunterricht</marc:subfield>
-            <marc:subfield code="2">gnd</marc:subfield>
-        </marc:datafield>
-        <marc:datafield ind1="0" ind2="0" tag="689">
-            <marc:subfield code="0">(DE-588)4123300-1</marc:subfield>
-            <marc:subfield code="0">http://d-nb.info/gnd/4123300-1</marc:subfield>
-            <marc:subfield code="0">(DE-101)04123300X</marc:subfield>
-            <marc:subfield code="D">p</marc:subfield>
-            <marc:subfield code="a">Golding, William</marc:subfield>
-            <marc:subfield code="d">1911-1993</marc:subfield>
-            <marc:subfield code="t">Lord of the flies</marc:subfield>
-        </marc:datafield>
-        <marc:datafield ind1="0" ind2="1" tag="689">
-            <marc:subfield code="0">(DE-588)4011975-0</marc:subfield>
-            <marc:subfield code="0">http://d-nb.info/gnd/4011975-0</marc:subfield>
-            <marc:subfield code="0">(DE-101)040119750</marc:subfield>
-            <marc:subfield code="D">s</marc:subfield>
-            <marc:subfield code="a">Deutschunterricht</marc:subfield>
-        </marc:datafield>
-        <marc:datafield ind1="0" ind2="2" tag="689">
-            <marc:subfield code="A">f</marc:subfield>
-            <marc:subfield code="a">Lehrmittel</marc:subfield>
-        </marc:datafield>
-        <marc:datafield ind1="0" ind2=" " tag="689">
-            <marc:subfield code="5">DE-101</marc:subfield>
-            <marc:subfield code="5">DE-101</marc:subfield>
+        <marc:datafield tag="758" ind1=" " ind2=" ">
+            <marc:subfield code="a">Lord of the flies (Golding, William)</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/119144648592107423604</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10150</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="780">
             <marc:subfield code="i">Früher u.d.T.:</marc:subfield>
@@ -30344,6 +30374,9 @@
         <marc:datafield ind1=" " ind2=" " tag="500">
             <marc:subfield code="a">Enthält 3 Romane.</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="505" ind1="0" ind2=" ">
+            <marc:subfield code="a">Der Skorpion-Gott -- Clonk Clonk -- Der Sonderbotschafter</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="1" ind2=" " tag="700">
             <marc:subfield code="a">Herrera, Ulla H. de</marc:subfield>
             <marc:subfield code="4">trl</marc:subfield>
@@ -30356,7 +30389,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">The Scorpion God</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/308018847</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">ger</marc:subfield>
             <marc:subfield code="8">2/c</marc:subfield>
         </marc:datafield>
@@ -30370,7 +30403,7 @@
             <!--            <marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">Clonk Clonk</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/180585027</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">ger</marc:subfield>
             <marc:subfield code="8">3/c</marc:subfield>
         </marc:datafield>
@@ -30384,7 +30417,7 @@
             <!--<marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>-->
             <marc:subfield code="t">Envoy Extraordinary</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/177762289</marc:subfield>
-            <marc:subfield code="k">novella</marc:subfield>
+            <marc:subfield code="k">Novella</marc:subfield>
             <marc:subfield code="l">ger</marc:subfield>
             <marc:subfield code="8">4/c</marc:subfield>
         </marc:datafield>
@@ -31358,6 +31391,13 @@
             <marc:subfield code="5">DE-101</marc:subfield>
             <marc:subfield code="5">DE-101</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Golding, William</marc:subfield>
+            <marc:subfield code="d">1911-1993.</marc:subfield>
+            <marc:subfield code="t">Lord of the flies.</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/119144648592107423604</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10150</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1=" " ind2="0" tag="830">
             <marc:subfield code="a">Mentor-Lektüre-Durchblick</marc:subfield>
             <marc:subfield code="v">434 : Englisch</marc:subfield>
@@ -31614,32 +31654,10 @@
             <marc:subfield code="t">Lord of the flies</marc:subfield>
             <marc:subfield code="1">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
-        <marc:datafield ind1=" " ind2="7" tag="650">
-            <marc:subfield code="0">(DE-588)4011975-0</marc:subfield>
-            <marc:subfield code="0">http://d-nb.info/gnd/4011975-0</marc:subfield>
-            <marc:subfield code="0">(DE-101)040119750</marc:subfield>
-            <marc:subfield code="a">Deutschunterricht</marc:subfield>
-            <marc:subfield code="2">gnd</marc:subfield>
-        </marc:datafield>
-        <marc:datafield ind1="0" ind2="0" tag="689">
-            <marc:subfield code="0">(DE-588)4123300-1</marc:subfield>
-            <marc:subfield code="0">http://d-nb.info/gnd/4123300-1</marc:subfield>
-            <marc:subfield code="0">(DE-101)04123300X</marc:subfield>
-            <marc:subfield code="D">p</marc:subfield>
-            <marc:subfield code="a">Golding, William</marc:subfield>
-            <marc:subfield code="d">1911-1993</marc:subfield>
-            <marc:subfield code="t">Lord of the flies</marc:subfield>
-        </marc:datafield>
-        <marc:datafield ind1="0" ind2="1" tag="689">
-            <marc:subfield code="0">(DE-588)4011975-0</marc:subfield>
-            <marc:subfield code="0">http://d-nb.info/gnd/4011975-0</marc:subfield>
-            <marc:subfield code="0">(DE-101)040119750</marc:subfield>
-            <marc:subfield code="D">s</marc:subfield>
-            <marc:subfield code="a">Deutschunterricht</marc:subfield>
-        </marc:datafield>
-        <marc:datafield ind1="0" ind2=" " tag="689">
-            <marc:subfield code="5">DE-101</marc:subfield>
-            <marc:subfield code="5">DE-101</marc:subfield>
+        <marc:datafield tag="758" ind1=" " ind2=" ">
+            <marc:subfield code="a">Lord of the flies (Golding, William)</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/119144648592107423604</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10150</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2="0" tag="830">
             <marc:subfield code="a">Blickpunkt</marc:subfield>
@@ -32681,7 +32699,7 @@
             <marc:subfield code="9">3-88389-001-4</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="041">
-            <marc:subfield code="a">ger</marc:subfield>
+            <marc:subfield code="a">eng</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="044">
             <marc:subfield code="c">XA-DE</marc:subfield>
@@ -36655,6 +36673,12 @@
             <marc:subfield code="2">fast</marc:subfield>
             <marc:subfield code="0">(OCoLC)fst01726738</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">McCrum, Robert</marc:subfield>
+            <marc:subfield code="4">aui</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/m/object/P30328</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/24835909</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="859" ind1=" " ind2=" ">
             <marc:subfield code="a">ELD</marc:subfield>
             <marc:subfield code="b">ebook</marc:subfield>
@@ -36719,6 +36743,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="2">
             <marc:subfield code="a">To the Ends of the Earth</marc:subfield>
+            <marc:subfield code="k">Collection</marc:subfield>
             <marc:subfield code="1">http://www.wikidata.org/entity/Q4394863</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
@@ -36758,7 +36783,7 @@
             <marc:subfield code="a">Reissued on the occasion of the BBC television adaptation. - Originally published: 1991.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="505" ind1="0" ind2=" ">
-            <marc:subfield code="a">Contents: Rites of passage - Close quarters - Fire down below.</marc:subfield>
+            <marc:subfield code="a">Rites of passage -- Close quarters -- Fire down below</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="2">
             <marc:subfield code="a">Golding, William</marc:subfield>
@@ -36826,6 +36851,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="2">
             <marc:subfield code="a">To the Ends of the Earth</marc:subfield>
+            <marc:subfield code="k">Collection</marc:subfield>
             <marc:subfield code="1">http://www.wikidata.org/entity/Q4394863</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
@@ -36862,7 +36888,7 @@
             <marc:subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="505" ind1="0" ind2=" ">
-            <marc:subfield code="a">Contents: Rites of passage -- Close quarters -- Fire down below</marc:subfield>
+            <marc:subfield code="a">Rites of passage -- Close quarters -- Fire down below</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="2">
             <marc:subfield code="a">Golding, William</marc:subfield>
@@ -36916,6 +36942,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="2">
             <marc:subfield code="a">To the Ends of the Earth</marc:subfield>
+            <marc:subfield code="k">Collection</marc:subfield>
             <marc:subfield code="1">http://www.wikidata.org/entity/Q4394863</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
@@ -36955,7 +36982,7 @@
             <marc:subfield code="a">Originally published: London : Faber, 1991.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="505" ind1="0" ind2=" ">
-            <marc:subfield code="a">Rites of passage -- Close quarters -- Fire down below.</marc:subfield>
+            <marc:subfield code="a">Rites of passage -- Close quarters -- Fire down below</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="2">
             <marc:subfield code="a">Golding, William</marc:subfield>

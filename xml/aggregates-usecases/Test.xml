@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+    <marc:record>
+        <marc:leader>01382cam a2200373 c 4500</marc:leader>
+        <marc:controlfield tag="005">20170126174145.0</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="007">cr||||||||||||</marc:controlfield>
+        <marc:controlfield tag="008">140709s1997    no#||||| |||||000|1|nob| </marc:controlfield>
+        <marc:controlfield tag="001">999726515864702201</marc:controlfield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">8205253331</marc:subfield>
+            <marc:subfield code="c">Nkr 2450.00</marc:subfield>
+            <marc:subfield code="q">ib.</marc:subfield>
+            <marc:subfield code="q">kpl. b. 1-15</marc:subfield>
+            <marc:subfield code="q">11</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="1" ind2=" ">
+            <marc:subfield code="a">nob</marc:subfield>
+            <marc:subfield code="9">created from marc:controlfield</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="080" ind1=" " ind2=" ">
+            <marc:subfield code="a">839.6</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a">839.823</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">4/nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="4">aut</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="0" ind2="0">
+            <marc:subfield code="a">August</marc:subfield>
+            <marc:subfield code="k">Novel</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/3267149068489065730001</marc:subfield>
+            <marc:subfield code="8">p</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740" ind1="0" ind2="0">
+            <marc:subfield code="a">August</marc:subfield>
+            <marc:subfield code="8">p</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Samlede verker</marc:subfield>
+            <marc:subfield code="n">B. 11</marc:subfield>
+            <marc:subfield code="p">August</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="250" ind1=" " ind2=" ">
+            <marc:subfield code="a">9. utg.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Oslo]</marc:subfield>
+            <marc:subfield code="b">Gyldendal</marc:subfield>
+            <marc:subfield code="c">1997</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">254 s.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " autocreated="true">
+            <marc:subfield code="a">text</marc:subfield>
+            <marc:subfield code="b">txt</marc:subfield>
+            <marc:subfield code="2">rdacontent</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " a="t">
+            <marc:subfield code="a">text</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" " a="t2">
+            <marc:subfield code="a">unmediated</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" " a="t2">
+            <marc:subfield code="a">volume</marc:subfield>
+            <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" " a="t2">
+            <marc:subfield code="a">Language-based work</marc:subfield>
+            <marc:subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">1. utg. 1930</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="506" ind1="0" ind2=" ">
+            <marc:subfield code="f">Åpen tilgang</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="533" ind1=" " ind2=" ">
+            <marc:subfield code="a">Elektronisk reproduksjon</marc:subfield>
+            <marc:subfield code="b">[Norge]</marc:subfield>
+            <marc:subfield code="c">Nasjonalbiblioteket Digital</marc:subfield>
+            <marc:subfield code="d">2009-12-11</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="773" ind1="0" ind2="8">
+            <marc:subfield code="a">Hamsun, Knut, 1859-1952</marc:subfield>
+            <marc:subfield code="b">9. utg.</marc:subfield>
+            <marc:subfield code="d">[Oslo] : Gyldendal, 1997</marc:subfield>
+            <marc:subfield code="g">B. 11</marc:subfield>
+            <marc:subfield code="i">Inkludert i</marc:subfield>
+            <marc:subfield code="s">Verker</marc:subfield>
+            <marc:subfield code="t">Samlede verker</marc:subfield>
+            <marc:subfield code="w">999726506604702201</marc:subfield>
+            <marc:subfield code="z">8205253331</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="0">
+            <marc:subfield code="u">http://urn.nb.no/URN:NBN:no-nb_digibok_2008091100055</marc:subfield>
+            <marc:subfield code="y">NB digitalisert</marc:subfield>
+            <marc:subfield code="z">Elektronisk reproduksjon. Gratis. For norske
+                IP-adresser</marc:subfield>
+            <marc:subfield code="3">Fulltekst</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1=" " ind2=" ">
+            <marc:subfield code="u">http://content.bibsys.no/content/?type=descr_forlagssentr&amp;isbn=8205253331</marc:subfield>
+            <marc:subfield code="3">Beskrivelse fra Forlagssentralen</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

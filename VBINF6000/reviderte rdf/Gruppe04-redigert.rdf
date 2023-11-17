@@ -1,0 +1,2165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:map="http://www.w3.org/2005/xpath-functions/map"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:marc="http://www.loc.gov/MARC21/slim"
+         xmlns:rdac="http://rdaregistry.info/Elements/c/"
+         xmlns:rdaad="http://rdaregistry.info/Elements/a/datatype/"
+         xmlns:rdaao="http://rdaregistry.info/Elements/a/object/"
+         xmlns:rdawd="http://rdaregistry.info/Elements/w/datatype/"
+         xmlns:rdawo="http://rdaregistry.info/Elements/w/object/"
+         xmlns:rdaed="http://rdaregistry.info/Elements/e/datatype/"
+         xmlns:rdaeo="http://rdaregistry.info/Elements/e/object/"
+         xmlns:rdamd="http://rdaregistry.info/Elements/m/datatype/"
+         xmlns:rdamo="http://rdaregistry.info/Elements/m/object/"
+         xmlns:rdaxd="http://rdaregistry.info/Elements/x/datatype/"
+         xmlns:mads="http://www.loc.gov/mads/rdf/v1#"
+         xmlns:mmmm="http://www.loc.gov/MARC21/slim/"
+         xmlns:rdaco="http://rdaregistry.info/termList/RDAContentType/"
+         xmlns:rdact="http://rdaregistry.info/termList/RDACarrierType/"
+         xmlns:rdamt="http://rdaregistry.info/termList/RDAMediaType/"
+         xmlns:rdat="http://rdaregistry.info/termList/"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:ex="http://www.example.org/">
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/00000000">
+      <rdaxd:P00018>http://viaf.org/viaf/00000000</rdaxd:P00018>
+      <rdawd:P10088>Rumba med Gunn og andre tekster</rdawd:P10088>
+      <rdfs:label>Rumba med Gunn og andre tekster (Nesbø, Jo)</rdfs:label>
+      <rdawd:P10330>Jo Nesbø har gjort verdenssuksess som krimforfatter, men han er også låtskriver. Per Dybvig er en av landets mest anerkjente illustratører, og har illustrert barnebokserien om Doktor Proktor. Med Rumba med Gunn og andre tekster møtes Nesbø og Dybvig på nytt, denne gangen i Di Derres univers. Og leserne møter faren til Ivar, Erik Vea, nittimetersbakken og Gunn, slik vi aldri har sett dem før. Boka inneholder også en samtale mellom Jo Nesbø og Hallgeir Opedal, om låtskriving, rytmeforståelse, kompiser, avstandsforelskelse og fotball.</rdawd:P10330>
+      <rdawo:P10057 rdf:resource="http://viaf.org/viaf/56002739"/>
+      <rdawo:P10058 rdf:resource="http://viaf.org/viaf/10543719"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/44460209"/>
+      <rdawo:P10154 rdf:resource="https://www.wikidata.org/wiki/Q11978469"/>
+      <rdawo:P10319 rdf:resource="http://viaf.org/viaf/44460209"/>
+      <rdawo:P10319 rdf:resource="http://viaf.org/viaf/1059149296144180670005"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/00000001">
+      <rdaxd:P00018>http://viaf.org/viaf/00000001</rdaxd:P00018>
+      <rdawd:P10088>Køen</rdawd:P10088>
+      <rdfs:label>Køen (Nesbø, Jo)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/44460209"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/00000002">
+      <rdaxd:P00018>http://viaf.org/viaf/00000002</rdaxd:P00018>
+      <rdawd:P10088>London</rdawd:P10088>
+      <rdfs:label>London (Nesbø, Jo)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/44460209"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/00000003">
+      <rdaxd:P00018>http://viaf.org/viaf/00000003</rdaxd:P00018>
+      <rdawd:P10088>Odd</rdawd:P10088>
+      <rdfs:label>Odd (Nesbø, Jo)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/44460209"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/00000004">
+      <rdaxd:P00018>http://viaf.org/viaf/00000004</rdaxd:P00018>
+      <rdawd:P10088>Øredobben</rdawd:P10088>
+      <rdfs:label>Øredobben (Nesbø, Jo)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/44460209"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/00000005">
+      <rdaxd:P00018>http://viaf.org/viaf/00000005</rdaxd:P00018>
+      <rdawd:P10088>Sjalusimannen</rdawd:P10088>
+      <rdfs:label>Sjalusimannen (Nesbø, Jo)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/44460209"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/00000006">
+      <rdaxd:P00018>http://viaf.org/viaf/00000006</rdaxd:P00018>
+      <rdawd:P10088>Søppel</rdawd:P10088>
+      <rdfs:label>Søppel (Nesbø, Jo)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/44460209"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/00000007">
+      <rdaxd:P00018>http://viaf.org/viaf/00000007</rdaxd:P00018>
+      <rdawd:P10088>Tilståelsen</rdawd:P10088>
+      <rdfs:label>Tilståelsen (Nesbø, Jo)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/44460209"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/00000008">
+      <rdaxd:P00018>http://viaf.org/viaf/00000008</rdaxd:P00018>
+      <rdawd:P10088>Aschehoug storpocket</rdawd:P10088>
+      <rdfs:label>Aschehoug storpocket</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/1466145424607486830095">
+      <rdaxd:P00018>http://viaf.org/viaf/1466145424607486830095</rdaxd:P00018>
+      <rdfs:label>Frelseren</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/174877157">
+      <rdaxd:P00018>http://viaf.org/viaf/174877157</rdaxd:P00018>
+      <rdawd:P10088>Harry Hole</rdawd:P10088>
+      <rdfs:label>Harry Hole</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/175013769">
+      <rdaxd:P00018>http://viaf.org/viaf/175013769</rdaxd:P00018>
+      <rdawd:P10088>Série noire</rdawd:P10088>
+      <rdfs:label>Série noire</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/1753145424623686830733">
+      <rdaxd:P00018>http://viaf.org/viaf/1753145424623686830733</rdaxd:P00018>
+      <rdawd:P10088>Marekors</rdawd:P10088>
+      <rdfs:label>Marekors (Nesbø, Jo)</rdfs:label>
+      <rdawd:P10330>En hetebølge rammer et feriestille Oslo. I en leilighet ved Vår Frelsers Gravlund begynner det å dryppe små svarte klumper gjennom gulvet. Samtidig - i sin leilighet i Sofies gate - ligger førstebetjent Harry Hole på gulvet, forfyllet, forlatt og oppsagt. Han har sviktet alle sine nærmeste i sin fanatiske, men mislykkede jakt på å avsløre kollegaen Tom Waaler som morder. En myrdet kvinne med en avklippet pekefinger er funnet. Harry Hole har fått sitt siste oppdrag. Sammen med den eneste andre førstebetjenten som ikke er på ferie: Tom Waaler.</rdawd:P10330>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/44460209"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/1765145424612186831344">
+      <rdaxd:P00018>http://viaf.org/viaf/1765145424612186831344</rdaxd:P00018>
+      <rdawd:P10088>Rødstrupe</rdawd:P10088>
+      <rdfs:label>Rødstrupe (Nesbø, Jo)</rdfs:label>
+      <rdawd:P10330>Ved et uhell skyter og sårer politietterforskeren Harry Hole en amerikansk Secret Service-agent under Clintons Norgesbesøk. Saken blir dysset ned, og Harry overføres til Overvåkningspolitiet. En faks tikker inn om en våpenliga som er blitt rullet opp i Johannesburg og avslører at en attentatrifle har havnet i Oslo. Harry blir satt på sporet av norske frontkjempere, nynazister og en kontakt med kodenavnet Prinsen, som synes å ha forbindelser innenfor politiets egne rekker. En morder har gjort scenen klar for sin siste opptreden.</rdawd:P10330>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/44460209"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/2304161819210527960001">
+      <rdaxd:P00018>http://viaf.org/viaf/2304161819210527960001</rdaxd:P00018>
+      <rdfs:label>Macbeth</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/2331160546916410240008">
+      <rdaxd:P00018>http://viaf.org/viaf/2331160546916410240008</rdaxd:P00018>
+      <rdawd:P10088>Kongeriket</rdawd:P10088>
+      <rdfs:label>Kongeriket (Nesbø, Jo)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/44460209"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/2490154501856639210005">
+      <rdaxd:P00018>http://viaf.org/viaf/2490154501856639210005</rdaxd:P00018>
+      <rdawd:P10088>Hodejegerne</rdawd:P10088>
+      <rdfs:label>Hodejegerne (Nesbø, Jo)</rdfs:label>
+      <rdaxd:P00018>Filmatisering av:</rdaxd:P00018>
+      <rdfs:label>Hodejegerne</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/44460209"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/2536149068402365730009">
+      <rdaxd:P00018>http://viaf.org/viaf/2536149068402365730009</rdaxd:P00018>
+      <rdawd:P10088>Flaggermusmannen</rdawd:P10088>
+      <rdfs:label>Flaggermusmannen (Nesbø, Jo)</rdfs:label>
+      <rdawd:P10330>Politimannen Harry Hole er i Sydney for å bistå australsk politi i etterforskningen av mordet på en ung norsk kvinne. På sin vei gjennom lyssky miljøer treffer han horer og halliker, transer, klovner og pushere. Harry Hole har reist så langt vekk fra Norge som det er mulig å komme. Saken er komplisert, og i den blinde nattejakten på morderen har han bare svake ekko å navigere etter.</rdawd:P10330>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/44460209"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/309841729">
+      <rdaxd:P00018>http://viaf.org/viaf/309841729</rdaxd:P00018>
+      <rdawd:P10088>Sønnen</rdawd:P10088>
+      <rdfs:label>Sønnen (Nesbø, Jo)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/44460209"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/312386681">
+      <rdaxd:P00018>http://viaf.org/viaf/312386681</rdaxd:P00018>
+      <rdawd:P10088>Doktor Proktors prompepulver</rdawd:P10088>
+      <rdfs:label>Doktor Proktors prompepulver. Nesbø, Jo</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/44460209"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/312388673">
+      <rdaxd:P00018>http://viaf.org/viaf/312388673</rdaxd:P00018>
+      <rdawd:P10088>Snømannen</rdawd:P10088>
+      <rdfs:label>Snømannen (Nesbø, Jo)</rdfs:label>
+      <rdawo:P10019 rdf:resource="http://viaf.org/viaf/174877157"/>
+      <rdawo:P10019 rdf:resource="http://viaf.org/viaf/00000008"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/44460209"/>
+      <rdawo:P10122 rdf:resource="http://viaf.org/viaf/1466145424607486830095"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/4357153289911832770005">
+      <rdaxd:P00018>http://viaf.org/viaf/4357153289911832770005</rdaxd:P00018>
+      <rdawd:P10088>Macbeth</rdawd:P10088>
+      <rdfs:label>Macbeth (Nesbø, Jo)</rdfs:label>
+      <rdawd:P10330>Den korrupte politimesteren som har styrt industribyen ned i en hengemyr av korrupsjon, kriminalitet og kaos, er endelig død. Med dette er folkets håp tent, og maktkampen er i gang. Førstebetjentene Macbeth og Duff, tidligere bestevenner fra barnehjemmet de vokste opp på, har begge markert seg i kampen mot byens to rivaliserende narkotikabander. Nå slåss de om samme høyere stilling i politiet. Imens legger Lady - byens mektige kasinoeier - ambisiøse og morderiske planer for seg og elskeren sin, Macbeth. «Macbeth» er Nesbøs bidrag til forlaget Hogarths Shakespeare-serie, som består av romaner en rekke anerkjente forfattere har skrevet med utgangspunkt i et Shakespeare-stykke.</rdawd:P10330>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/44460209"/>
+      <rdawo:P10290 rdf:resource="http://viaf.org/viaf/2304161819210527960001"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/496145424547186830921">
+      <rdaxd:P00018>http://viaf.org/viaf/496145424547186830921</rdaxd:P00018>
+      <rdawd:P10088>Sorgenfri</rdawd:P10088>
+      <rdfs:label>Sorgenfri (Nesbø, Jo)</rdfs:label>
+      <rdawd:P10330>I et banklokale i Oslo sentrum setter en bankraner geværet til hodet på en kvinnelig ansatt og gir filialsjefen 20 sekunder på å låse opp og tømme minibanken. Han bruker 26. Raneren viser seks fingre i overvåkningskameraet og trekker av. Førstebetjent Harry Hole får saken ? og blir straks direkte berørt da hans gamle flamme Anna blir funnet død i sin låste leilighet. Alt tyder på selvmord. Den eneste som kan hjelpe politiet med å finne den morderiske raneren, er Raskolnikov, en sigøyner og mytisk bankraner som sitter i fengsel etter å ha meldt seg selv. Så slår raneren til igjen. En fortelling om rettferdighet, om hevn og om å kjøpslå med djevelen.</rdawd:P10330>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/44460209"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/5386167764307213890003">
+      <rdaxd:P00018>http://viaf.org/viaf/5386167764307213890003</rdaxd:P00018>
+      <rdawd:P10088>Blodmåne</rdawd:P10088>
+      <rdfs:label>Blodmåne (Nesbø, Jo)</rdfs:label>
+      <rdawd:P10330>Etter å ha mistet det som betydde mest for ham drar Harry til LA for å drikke seg i hjel. Der møter han den eldre skuespilleren Lucille, som han redder fra et narkotikakartell hun skylder en million dollar. I gjengjeld gir hun ham husly og en skreddersydd dress. Da to jenter blir drept i Oslo vil Katrine Bratt kontakte Harry, men sjefene i politiet ønsker ikke lenger å samarbeide med ham. Derimot vil en av de mistenkte i saken, en eiendomsbaron, ansette ham som privatetterforsker. Harry er ikke interessert, men når narkotikakartellet tar Lucille som gissel har han ikke noe valg; han må løse saken for å få bonusen som dekker gjelden hennes, og han har bare ti dager på seg. Teamet hans består av en kokainselgende barndomsvenn, en kreftsyk psykolog og en korrupt politimann. Klokken tikker, og det er varslet blodmåne over Oslo. Boken inngår i BS bestselgerabonnement.</rdawd:P10330>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/44460209"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/6666163570594316620005">
+      <rdaxd:P00018>http://viaf.org/viaf/6666163570594316620005</rdaxd:P00018>
+      <rdawd:P10088>Sjalusimannen og andre fortellinger</rdawd:P10088>
+      <rdfs:label>Sjalusimannen og andre fortellinger (Nesbø, Jo)</rdfs:label>
+      <rdawd:P10330>En gresk politietterforsker er ekspert på sjalusi, og blir tilkalt da en tysk turist blir meldt savnet. To tvillingbrødre elsker den samme kvinnen, og en taxisjåfør finner en øredobb i bilen til taxieieren. En kvinne har funnet ut at mannen har hatt en affære med hennes beste venninne, og har besluttet seg for å ta sitt eget liv, men en flytur skal forandre alt. Novellene i denne boken handler om sterke følelser og potensielt dødelig utfall av sjalusi, utroskap og begjær. Novellen «Sjalusimannen» er også utgitt som lyddrama. Omtalen er utarbeidet av BS.</rdawd:P10330>
+      <rdawo:P10019 rdf:resource="http://viaf.org/viaf/175013769"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/44460209"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/00000001"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/00000002"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/00000003"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/00000004"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/00000005"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/00000006"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/00000007"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/7269159941690125440003">
+      <rdaxd:P00018>http://viaf.org/viaf/7269159941690125440003</rdaxd:P00018>
+      <rdawd:P10088>Kongeriket</rdawd:P10088>
+      <rdfs:label>Kongeriket (Nesbø, Jo)</rdfs:label>
+      <rdawd:P10330>«Jøss, så god han er ... en uhyggelig god roman, som ingen andre enn Nesbø kunne skrevet.» Cathrine Krøger, Dagbladet (Terningkast 6) I en liten norsk bygd lever bilmekanikeren Roy et relativt fredelig og enkelt liv da lillebroren Carl vender hjem etter mange år i utlandet. Med Carl, hans nye kone Shannon og planene om et høyfjellshotell som kan skape nytt liv i den lille bygda, begynner mørke hemmeligheter fra guttenes barndom igjen å piple fram. Da de var små, forsvarte Roy broren mot mobbere og mørke rykter, men lojaliteten mellom brødrene settes på prøve når grådighet og svik kommer i veien for Carls planer. Når bygdas lensmann på nytt begynner å stille spørsmål ved det tragiske dødsfallet til guttenes foreldre, må Roy ta stilling til hvor langt han er villig til å gå for å beskytte broren. Og hvordan skal egentlig Roy forholde seg til at Shannon fanger hans oppmerksomhet? Kongeriket er en mørk og mektig spenningsroman fra bygde-Norge - om ambisjoner, lojalitet og kjærlighet. Ikke minst er det en roman om hemmeligheter som truer med å kutte båndene mellom to brødre.</rdawd:P10330>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/44460209"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/73155464827102041322">
+      <rdaxd:P00018>http://viaf.org/viaf/73155464827102041322</rdaxd:P00018>
+      <rdfs:label>Kniv</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/9466149068473065730001">
+      <rdaxd:P00018>http://viaf.org/viaf/9466149068473065730001</rdaxd:P00018>
+      <rdawd:P10088>Kakerlakkene</rdawd:P10088>
+      <rdfs:label>Kakerlakkene (Nesbø, Jo)</rdfs:label>
+      <rdawd:P10330>Den norske ambassadøren i Thailand blir funnet drept på et horehus i Bangkok, og i Oslo legges en plan for hvordan en skandale skal unngås. Politimannen Harry Hole setter seg på flyet med fylleånde og B12-sprøyter. Snart vandrer han rundt i Bangkoks bakgater blant opiumshus, templer, turistreklame, barneprostituerte og go-go-barer. Harry Hole oppdager etter hvert at det dreier seg om mer enn mord: Det er noe som kravler og kryper bak veggene. Noe som ikke tåler dagens lys.</rdawd:P10330>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/44460209"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.wikidata.org/wiki/Q11978469">
+      <rdaxd:P00018>https://www.wikidata.org/wiki/Q11978469</rdaxd:P00018>
+      <rdawd:P10088>Kvinner &amp; klær</rdawd:P10088>
+      <rdfs:label>Kvinner &amp; klær (Di derre)</rdfs:label>
+      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/1059149296144180670005"/>
+      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/32145971586832332596"/>
+      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/93399375"/>
+      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/44460209"/>
+      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/225429689"/>
+      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/229139785"/>
+      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/171602609"/>
+      <rdawo:P10064 rdf:resource="http://viaf.org/viaf/305139524"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.wikidata.org/wiki/Q1592308">
+      <rdaxd:P00018>https://www.wikidata.org/wiki/Q1592308</rdaxd:P00018>
+      <rdawd:P10088>Hodejegerne</rdawd:P10088>
+      <rdfs:label>Hodejegerne (Tyldum, Morten)</rdfs:label>
+      <rdawo:P10013 rdf:resource="http://viaf.org/viaf/187553559"/>
+      <rdawo:P10129 rdf:resource="http://viaf.org/viaf/2490154501856639210005"/>
+      <rdawo:P10203 rdf:resource="http://viaf.org/viaf/42539772"/>
+      <rdawo:P10203 rdf:resource="http://viaf.org/viaf/120895739"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.wikidata.org/wiki/Q6373735">
+      <rdaxd:P00018>https://www.wikidata.org/wiki/Q6373735</rdaxd:P00018>
+      <rdawd:P10088>Karusellmusikk</rdawd:P10088>
+      <rdfs:label>Karusellmusikk (Nesbø, Jo)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/44460209"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.wikidata.org/wiki/Q7607345">
+      <rdaxd:P00018>https://www.wikidata.org/wiki/Q7607345</rdaxd:P00018>
+      <rdawd:P10088>Stemmer fra Balkan</rdawd:P10088>
+      <rdfs:label>Stemmer fra Balkan (Nesbø, Jo)</rdfs:label>
+      <rdaxd:P00029>Eksempelsamling</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/44460209"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/39457273"/>
+      <rdawo:P10147 rdf:resource="https://www.wikidata.org/wiki/Q7607345/a"/>
+      <rdawo:P10147 rdf:resource="https://www.wikidata.org/wiki/Q7607345/b"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.wikidata.org/wiki/Q7607345/a">
+      <rdaxd:P00018>https://www.wikidata.org/wiki/Q7607345/a</rdaxd:P00018>
+      <rdawd:P10088>Atten dager i mai</rdawd:P10088>
+      <rdfs:label>Atten dager i mai (Søbye, Espen)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/39457273"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.wikidata.org/wiki/Q7607345/b">
+      <rdaxd:P00018>https://www.wikidata.org/wiki/Q7607345/b</rdaxd:P00018>
+      <rdawd:P10088>Stemmer fra Balkan</rdawd:P10088>
+      <rdfs:label>Stemmer fra Balkan (Nesbø, Jo)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/44460209"/>
+   </rdac:C10001>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/10543719">
+      <rdaxd:P00018>http://viaf.org/viaf/10543719</rdaxd:P00018>
+      <rdaad:P50385>Dybvig, Per</rdaad:P50385>
+      <rdfs:label>Dybvig, Per</rdfs:label>
+      <rdaad:P50339>1964-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/11821932">
+      <rdaxd:P00018>http://viaf.org/viaf/11821932</rdaxd:P00018>
+      <rdaad:P50385>Olaisen, Per</rdaad:P50385>
+      <rdfs:label>Olaisen, Per</rdfs:label>
+      <rdaad:P50339>1971-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/120895739">
+      <rdaxd:P00018>http://viaf.org/viaf/120895739</rdaxd:P00018>
+      <rdaad:P50385>Gudmestad,Lars</rdaad:P50385>
+      <rdfs:label>Gudmestad,Lars</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/158145970141932251257">
+      <rdaxd:P00018>http://viaf.org/viaf/158145970141932251257</rdaxd:P00018>
+      <rdaad:P50385>Joachim, Morten</rdaad:P50385>
+      <rdfs:label>Joachim, Morten</rdfs:label>
+      <rdaad:P50339>1974-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/165905590">
+      <rdaxd:P00018>http://viaf.org/viaf/165905590</rdaxd:P00018>
+      <rdaad:P50385>Menna, Outi</rdaad:P50385>
+      <rdfs:label>Menna, Outi</rdfs:label>
+      <rdaad:P50339>1973-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/171602609">
+      <rdaxd:P00018>http://viaf.org/viaf/171602609</rdaxd:P00018>
+      <rdaad:P50385>Sundstøl, Geir</rdaad:P50385>
+      <rdfs:label>Sundstøl, Geir</rdfs:label>
+      <rdaad:P50339>1969-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/187553559">
+      <rdaxd:P00018>http://viaf.org/viaf/187553559</rdaxd:P00018>
+      <rdaad:P50385>Tyldum, Morten</rdaad:P50385>
+      <rdfs:label>Tyldum, Morten</rdfs:label>
+      <rdaad:P50339>1967-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/20146635593841981935">
+      <rdaxd:P00018>http://viaf.org/viaf/20146635593841981935</rdaxd:P00018>
+      <rdaad:P50385>Remlov, Kai</rdaad:P50385>
+      <rdfs:label>Remlov, Kai</rdfs:label>
+      <rdaad:P50339>1946-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/20625366">
+      <rdaxd:P00018>http://viaf.org/viaf/20625366</rdaxd:P00018>
+      <rdaad:P50385>Ousdal, Mads</rdaad:P50385>
+      <rdfs:label>Ousdal, Mads</rdfs:label>
+      <rdaad:P50339>1970-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/221287925">
+      <rdaxd:P00018>http://viaf.org/viaf/221287925</rdaxd:P00018>
+      <rdaad:P50385>Mjøs, Njål Helge</rdaad:P50385>
+      <rdfs:label>Mjøs, Njål Helge</rdfs:label>
+      <rdaad:P50339>1977-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/22145971357232331473">
+      <rdaxd:P00018>http://viaf.org/viaf/22145971357232331473</rdaxd:P00018>
+      <rdaad:P50385>Elvik, Kjersti</rdaad:P50385>
+      <rdfs:label>Elvik, Kjersti</rdfs:label>
+      <rdaad:P50339>1969-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/221968005">
+      <rdaxd:P00018>http://viaf.org/viaf/221968005</rdaxd:P00018>
+      <rdaad:P50385>Kërçishta, Erblina</rdaad:P50385>
+      <rdfs:label>Kërçishta, Erblina</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/225429689">
+      <rdaxd:P00018>http://viaf.org/viaf/225429689</rdaxd:P00018>
+      <rdaad:P50385>Nesbø, Knut</rdaad:P50385>
+      <rdfs:label>Nesbø, Knut</rdfs:label>
+      <rdaad:P50339>1961-2013</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/225581798">
+      <rdaxd:P00018>http://viaf.org/viaf/225581798</rdaxd:P00018>
+      <rdaad:P50385>Blekkingh-Muller, Femke</rdaad:P50385>
+      <rdfs:label>Blekkingh-Muller, Femke</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/226490849">
+      <rdaxd:P00018>http://viaf.org/viaf/226490849</rdaxd:P00018>
+      <rdaad:P50385>Nergaard, Ivar</rdaad:P50385>
+      <rdfs:label>Nergaard, Ivar</rdfs:label>
+      <rdaad:P50339>1964-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/227229707">
+      <rdaxd:P00018>http://viaf.org/viaf/227229707</rdaxd:P00018>
+      <rdaad:P50385>Harr, Thorbjørn</rdaad:P50385>
+      <rdfs:label>Harr, Thorbjørn</rdfs:label>
+      <rdaad:P50339>1974-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/229139785">
+      <rdaxd:P00018>http://viaf.org/viaf/229139785</rdaxd:P00018>
+      <rdaad:P50385>Stenhammer, Espen</rdaad:P50385>
+      <rdfs:label>Stenhammer, Espen</rdfs:label>
+      <rdaad:P50339>1966-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/28430790">
+      <rdaxd:P00018>http://viaf.org/viaf/28430790</rdaxd:P00018>
+      <rdaad:P50385>Andersen, Allan Hilton</rdaad:P50385>
+      <rdfs:label>Andersen, Allan Hilton</rdfs:label>
+      <rdaad:P50339>1948-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/295751298">
+      <rdaxd:P00018>http://viaf.org/viaf/295751298</rdaxd:P00018>
+      <rdaad:P50385>Nationaltheatret</rdaad:P50385>
+      <rdfs:label>Nationaltheatret</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/303126341">
+      <rdaxd:P00018>http://viaf.org/viaf/303126341</rdaxd:P00018>
+      <rdaad:P50385>Hanso, Riina</rdaad:P50385>
+      <rdfs:label>Hanso, Riina</rdfs:label>
+      <rdaad:P50339>1984-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/305057240">
+      <rdaxd:P00018>http://viaf.org/viaf/305057240</rdaxd:P00018>
+      <rdaad:P50385>Denin̦a, Dace</rdaad:P50385>
+      <rdfs:label>Denin̦a, Dace</rdfs:label>
+      <rdaad:P50339>1973-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/305139524">
+      <rdaxd:P00018>http://viaf.org/viaf/305139524</rdaxd:P00018>
+      <rdaad:P50385>Robøle, Kai</rdaad:P50385>
+      <rdfs:label>Robøle, Kai</rdfs:label>
+      <rdaad:P50339>1963-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/3149365923185600853">
+      <rdaxd:P00018>http://viaf.org/viaf/3149365923185600853</rdaxd:P00018>
+      <rdaad:P50385>Kŭneva, Eva</rdaad:P50385>
+      <rdfs:label>Kŭneva, Eva</rdfs:label>
+      <rdaad:P50339>1985-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/32145971586832332596">
+      <rdaxd:P00018>http://viaf.org/viaf/32145971586832332596</rdaxd:P00018>
+      <rdaad:P50385>Larsen, Magnus</rdaad:P50385>
+      <rdfs:label>Larsen, Magnus</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/39457273">
+      <rdaxd:P00018>http://viaf.org/viaf/39457273</rdaxd:P00018>
+      <rdaad:P50385>Søbye, Espen</rdaad:P50385>
+      <rdfs:label>Søbye, Espen</rdfs:label>
+      <rdaad:P50339>1954-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/42539772">
+      <rdaxd:P00018>http://viaf.org/viaf/42539772</rdaxd:P00018>
+      <rdaad:P50385>Ryberg, Ulf</rdaad:P50385>
+      <rdfs:label>Ryberg, Ulf</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/44460209">
+      <rdaxd:P00018>http://viaf.org/viaf/44460209</rdaxd:P00018>
+      <rdaad:P50385>Nesbø, Jo</rdaad:P50385>
+      <rdfs:label>Nesbø, Jo</rdfs:label>
+      <rdaad:P50339>1960-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/48145970233832251826">
+      <rdaxd:P00018>http://viaf.org/viaf/48145970233832251826</rdaxd:P00018>
+      <rdaad:P50385>Skomsvoll, Ane</rdaad:P50385>
+      <rdfs:label>Skomsvoll, Ane</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/56002739">
+      <rdaxd:P00018>http://viaf.org/viaf/56002739</rdaxd:P00018>
+      <rdaad:P50385>Opedal, Hallgeir</rdaad:P50385>
+      <rdfs:label>Opedal, Hallgeir</rdfs:label>
+      <rdaad:P50339>1965-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/58828223">
+      <rdaxd:P00018>http://viaf.org/viaf/58828223</rdaxd:P00018>
+      <rdaad:P50385>Storhøi, Dennis</rdaad:P50385>
+      <rdfs:label>Storhøi, Dennis</rdfs:label>
+      <rdaad:P50339>1960-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/6107504">
+      <rdaxd:P00018>http://viaf.org/viaf/6107504</rdaxd:P00018>
+      <rdaad:P50385>Vroom, Annelies de</rdaad:P50385>
+      <rdfs:label>Vroom, Annelies de</rdfs:label>
+      <rdaad:P50339>1962-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/66684972">
+      <rdaxd:P00018>http://viaf.org/viaf/66684972</rdaxd:P00018>
+      <rdaad:P50385>Romand-Monnier, Céline</rdaad:P50385>
+      <rdfs:label>Romand-Monnier, Céline</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/66758386">
+      <rdaxd:P00018>http://viaf.org/viaf/66758386</rdaxd:P00018>
+      <rdaad:P50385>Eríkur Örn Norðahl</rdaad:P50385>
+      <rdfs:label>Eríkur Örn Norðahl</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/71301550">
+      <rdaxd:P00018>http://viaf.org/viaf/71301550</rdaxd:P00018>
+      <rdaad:P50385>Barslund, Charlotte</rdaad:P50385>
+      <rdfs:label>Barslund, Charlotte</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/74752521">
+      <rdaxd:P00018>http://viaf.org/viaf/74752521</rdaxd:P00018>
+      <rdaad:P50385>Lagergren, Barbro</rdaad:P50385>
+      <rdfs:label>Lagergren, Barbro</rdfs:label>
+      <rdaad:P50339>1949-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/78742232">
+      <rdaxd:P00018>http://viaf.org/viaf/78742232</rdaxd:P00018>
+      <rdaad:P50385>Bartlett, Don</rdaad:P50385>
+      <rdfs:label>Bartlett, Don</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/78864428">
+      <rdaxd:P00018>http://viaf.org/viaf/78864428</rdaxd:P00018>
+      <rdaad:P50385>Lowery, Mike</rdaad:P50385>
+      <rdfs:label>Lowery, Mike</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/79151651">
+      <rdaxd:P00018>http://viaf.org/viaf/79151651</rdaxd:P00018>
+      <rdaad:P50385>Schmidt-Henkel, Hinrich</rdaad:P50385>
+      <rdfs:label>Schmidt-Henkel, Hinrich</rdfs:label>
+      <rdaad:P50339>1959-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/92839136">
+      <rdaxd:P00018>http://viaf.org/viaf/92839136</rdaxd:P00018>
+      <rdaad:P50385>Ferguson, Robert</rdaad:P50385>
+      <rdfs:label>Ferguson, Robert</rdfs:label>
+      <rdaad:P50339>1948-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/93399375">
+      <rdaxd:P00018>http://viaf.org/viaf/93399375</rdaxd:P00018>
+      <rdaad:P50385>McConnell, Tim Scott</rdaad:P50385>
+      <rdfs:label>McConnell, Tim Scott</rdfs:label>
+      <rdaad:P50339>1958-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/98145970313132252267">
+      <rdaxd:P00018>http://viaf.org/viaf/98145970313132252267</rdaxd:P00018>
+      <rdaad:P50385>Nepaitė, Justė</rdaad:P50385>
+      <rdfs:label>Nepaitė, Justė</rdfs:label>
+      <rdaad:P50339>1988-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10005 rdf:about="http://viaf.org/viaf/1059149296144180670005">
+      <rdaxd:P00018>http://viaf.org/viaf/1059149296144180670005</rdaxd:P00018>
+      <rdaad:P50385>Di derre (musikkgruppe)</rdaad:P50385>
+      <rdfs:label>Di derre (musikkgruppe)</rdfs:label>
+   </rdac:C10005>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/00000000/exp/nob/1020">
+      <rdaed:P20316>Rumba med Gunn og andre tekster</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Jo Nesbø snakker med Hallgeir Opedal om Rumba med Gunn og andre tekster</rdaed:P20312>
+      <rdaed:P20315>Rumba med Gunn og andre tekster</rdaed:P20315>
+      <rdfs:label>Rumba med Gunn og andre tekster. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/00000000"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/00000001/exp/nob/1020">
+      <rdaed:P20312>Køen</rdaed:P20312>
+      <rdaed:P20315>Køen</rdaed:P20315>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Køen. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/00000001"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/00000002/exp/nob/1020">
+      <rdaed:P20312>London</rdaed:P20312>
+      <rdaed:P20315>London</rdaed:P20315>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>London. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/00000002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/00000003/exp/nob/1020">
+      <rdaed:P20312>Odd</rdaed:P20312>
+      <rdaed:P20315>Odd</rdaed:P20315>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Odd. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/00000003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/00000004/exp/nob/1020">
+      <rdaed:P20312>Øredobben</rdaed:P20312>
+      <rdaed:P20315>Øredobben</rdaed:P20315>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Øredobben. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/00000004"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/00000005/exp/nob/1020">
+      <rdaed:P20312>Sjalusimannen</rdaed:P20312>
+      <rdaed:P20315>Sjalusimannen</rdaed:P20315>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Sjalusimannen. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/00000005"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/00000006/exp/nob/1020">
+      <rdaed:P20312>Søppel</rdaed:P20312>
+      <rdaed:P20315>Søppel</rdaed:P20315>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Søppel. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/00000006"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/00000007/exp/nob/1020">
+      <rdaed:P20312>Tilståelsen</rdaed:P20312>
+      <rdaed:P20315>Tilståelsen</rdaed:P20315>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Tilståelsen. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/00000007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1753145424623686830733/exp/nob/1020">
+      <rdaed:P20316>Marekors</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Marekors</rdaed:P20312>
+      <rdaed:P20315>Marekors</rdaed:P20315>
+      <rdfs:label>Marekors (Nesbø, Jo)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1753145424623686830733"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1765145424612186831344/exp/nob/1020">
+      <rdaed:P20316>Rødstrupe</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Rødstrupe</rdaed:P20312>
+      <rdaed:P20315>Rødstrupe</rdaed:P20315>
+      <rdfs:label>Rødstrupe (Nesbø, Jo)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1765145424612186831344"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/2331160546916410240008/exp/eng/1020/92839136">
+      <rdaed:P20316>Kongeriket</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>The Kingdom</rdaed:P20312>
+      <rdaed:P20315>The Kingdom</rdaed:P20315>
+      <rdfs:label>The Kingdom. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/92839136"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/2331160546916410240008"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/2490154501856639210005/exp/nob/1013/227229707">
+      <rdaed:P20316>Hodejegerne</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Hodejegerne</rdaed:P20312>
+      <rdfs:label>Hodejegerne. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20022 rdf:resource="http://viaf.org/viaf/227229707"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/2490154501856639210005"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/2536149068402365730009/exp/fin/1020/165905590">
+      <rdaed:P20316>Flaggermusmannen</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Lepakkomies</rdaed:P20312>
+      <rdfs:label>Lepakkomies</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/fin"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/165905590"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/2536149068402365730009"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/2536149068402365730009/exp/nob/1020">
+      <rdaed:P20316>Flaggermusmannen</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Flaggermusmannen</rdaed:P20312>
+      <rdaed:P20315>Flaggermusmannen</rdaed:P20315>
+      <rdfs:label>Flaggermusmannen (Nesbø, Jo)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/2536149068402365730009"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/2536149068402365730009/exp/swe/1020/11821932">
+      <rdaed:P20316>Flaggermusmannen</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Fladdermusmannen</rdaed:P20312>
+      <rdaed:P20315>Fladdermusmannen</rdaed:P20315>
+      <rdfs:label>Fladdermusmannen (Nesbø, Jo)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/swe"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/11821932"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/2536149068402365730009"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/309841729/exp/eng/1020/71301550">
+      <rdaed:P20316>Sønnen</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>The son</rdaed:P20312>
+      <rdfs:label>The son. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/71301550"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/309841729"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/309841729/exp/nob/1020">
+      <rdaed:P20316>Sønnen</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Sønnen</rdaed:P20312>
+      <rdfs:label>Sønnen. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/309841729"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/312386681/exp/alb/1020/221968005">
+      <rdaed:P20316>Doktor Proktors prompepulver</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Superpluhuri për pordhacë i Doktor Proktorit</rdaed:P20312>
+      <rdaed:P20315>Superpluhuri për pordhacë i Doktor Proktorit</rdaed:P20315>
+      <rdfs:label>Superpluhuri për pordhacë i Doktor Proktorit. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/alb"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/221968005"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/312386681"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/312386681/exp/dan/1020/28430790">
+      <rdaed:P20316>Doktor Proktors prompepulver</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Doktor Proktors pruttepulver</rdaed:P20312>
+      <rdaed:P20315>Doktor Proktors pruttepulver</rdaed:P20315>
+      <rdfs:label>Doktor Proktors pruttepulver. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dan"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/28430790"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/312386681"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/312386681/exp/dut/1020/225581798">
+      <rdaed:P20316>Doktor Proktors prompepulver</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Dr. Proktors schetenpoeder</rdaed:P20312>
+      <rdaed:P20315>Dr. Proktors schetenpoeder</rdaed:P20315>
+      <rdfs:label>Dr. Proktors schetenpoeder. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dut"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/225581798"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/312386681"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/312386681/exp/eng/1020/5148995797159751078">
+      <rdaed:P20316>Doktor Proktors prompepulver</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Doctor Proctor's fart powder</rdaed:P20312>
+      <rdaed:P20315>Doctor Proctor's fart powder</rdaed:P20315>
+      <rdfs:label>Doctor Proctor's fart powder. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/5148995797159751078"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/312386681"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/312386681/exp/ger/1020/79151651">
+      <rdaed:P20316>Doktor Proktors prompepulver</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Doktor Proktors Pupspulver</rdaed:P20312>
+      <rdaed:P20315>Doktor Proktors Pupspulver</rdaed:P20315>
+      <rdfs:label>Doktor Proktors Pupspulver. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/79151651"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/312386681"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/312386681/exp/ice/1020/66758386">
+      <rdaed:P20316>Doktor Proktors prompepulver</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Doktor Proktor og prumpuduftið</rdaed:P20312>
+      <rdaed:P20315>Doktor Proktor og prumpuduftið</rdaed:P20315>
+      <rdfs:label>Doktor Proktor og prumpuduftið. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ice"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/66758386"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/312386681"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/312386681/exp/nob/1013">
+      <rdaed:P20316>Dotor Proktors prompepulver</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Doktor Proktors prompepulver</rdaed:P20312>
+      <rdaed:P20315>Doktor Proktors prompepulver</rdaed:P20315>
+      <rdfs:label>Doktor Proktors prompepulver. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/312386681"/>
+      <rdaeo:P20378 rdf:resource="http://viaf.org/viaf/226490849"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/312386681/exp/nob/1020">
+      <rdaed:P20316>Doktor Proktors prompepulver</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Doktor Proktors prompepulver</rdaed:P20312>
+      <rdaed:P20315>Doktor Proktors prompepulver</rdaed:P20315>
+      <rdfs:label>Doktor Proktors prompepulver. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/312386681"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/312386681/exp/swe/1020/74752521">
+      <rdaed:P20316>Doktor Proktors prompepulver</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Doktor Proktors pruttpulver</rdaed:P20312>
+      <rdaed:P20315>Doktor Proktors pruttpulver</rdaed:P20315>
+      <rdfs:label>Doktor Proktors pruttpulver. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/swe"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/74752521"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/312386681"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/312388673/exp/dan/1020/28430790">
+      <rdaed:P20316>Snømannen</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Snemanden</rdaed:P20312>
+      <rdaed:P20315>Snemanden</rdaed:P20315>
+      <rdfs:label>Snemanden. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dan"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/28430790"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/312388673"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/312388673/exp/eng/1020/78742232">
+      <rdaed:P20316>Snømannen</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>The snowman</rdaed:P20312>
+      <rdaed:P20315>The snowman</rdaed:P20315>
+      <rdfs:label>The snowman. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/78742232"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/312388673"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/312388673/exp/nob/1013/58828223">
+      <rdaed:P20316>Snømannen</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Snømannen</rdaed:P20312>
+      <rdaed:P20315>Snømannen</rdaed:P20315>
+      <rdfs:label>Snømannen. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20022 rdf:resource="http://viaf.org/viaf/58828223"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/312388673"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/312388673/exp/nob/1020">
+      <rdaed:P20316>Snømannen</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Snømannen : roman</rdaed:P20312>
+      <rdaed:P20315>Snømannen</rdaed:P20315>
+      <rdfs:label>Snømannen. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/312388673"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/4357153289911832770005/exp/eng/1020/78742232">
+      <rdaed:P20316>Macbeth</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Macbeth</rdaed:P20312>
+      <rdfs:label>Macbeth. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/78742232"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/4357153289911832770005"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/4357153289911832770005/exp/nob/1013/20146635593841981935">
+      <rdaed:P20316>Macbeth</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Macbeth</rdaed:P20312>
+      <rdfs:label>Macbeth. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20022 rdf:resource="http://viaf.org/viaf/20146635593841981935"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/4357153289911832770005"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/4357153289911832770005/exp/nob/1020">
+      <rdaed:P20316>Macbeth</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Macbeth : roman</rdaed:P20312>
+      <rdfs:label>Macbeth. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/4357153289911832770005"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/496145424547186830921/exp/nob/1020">
+      <rdaed:P20316>Sorgenfri</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Sorgenfri</rdaed:P20312>
+      <rdaed:P20315>Sorgenfri</rdaed:P20315>
+      <rdfs:label>Sorgenfri (Nesbø, Jo)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/496145424547186830921"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/5386167764307213890003/exp/dut/1020/6107504">
+      <rdaed:P20316>Blodmåne</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Bloedmaan</rdaed:P20312>
+      <rdaed:P20315>Bloedmaan</rdaed:P20315>
+      <rdfs:label>Bloedmaan (Nesbø, Jo)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dut"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/6107504"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/5386167764307213890003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/5386167764307213890003/exp/nob/1020">
+      <rdaed:P20316>Blodmåne</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Blodmåne</rdaed:P20312>
+      <rdaed:P20315>Blodmåne</rdaed:P20315>
+      <rdfs:label>Blodmåne (Nesbø, Jo)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/5386167764307213890003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/6666163570594316620005/exp/fre/1020/66684972">
+      <rdaed:P20316>Sjalusimannen og andre fortellinger</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>De la jalousie</rdaed:P20312>
+      <rdaed:P20315>De la jalousie</rdaed:P20315>
+      <rdfs:label>De la jalousie. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/fre"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/66684972"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/6666163570594316620005"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/6666163570594316620005/exp/nob/1020">
+      <rdaed:P20316>Sjalusimannen og andre fortellinger</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Sjalusimannen og andre fortellinger : fortellinger</rdaed:P20312>
+      <rdaed:P20315>Sjalusimannen og andre fortellinger</rdaed:P20315>
+      <rdfs:label>Sjalusimannen og andre fortellinger. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/00000001/exp/nob/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/00000002/exp/nob/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/00000003/exp/nob/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/00000004/exp/nob/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/00000005/exp/nob/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/00000006/exp/nob/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/00000007/exp/nob/1020"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/6666163570594316620005"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7269159941690125440003/exp/bul/1020/3149365923185600853">
+      <rdaed:P20316>Kongeriket</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Kralstvoto</rdaed:P20312>
+      <rdaed:P20315>Kralstvoto</rdaed:P20315>
+      <rdfs:label>Kralstvoto. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/bul"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/3149365923185600853"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7269159941690125440003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7269159941690125440003/exp/dut/1020/6107504">
+      <rdaed:P20316>Kongeriket</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Koninkrijk</rdaed:P20312>
+      <rdaed:P20315>Koninkrijk</rdaed:P20315>
+      <rdfs:label>Koninkrijk. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dut"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/6107504"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7269159941690125440003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7269159941690125440003/exp/eng/1020/92839136">
+      <rdaed:P20316>Kongeriket</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>The Kingdom</rdaed:P20312>
+      <rdaed:P20315>The Kingdom</rdaed:P20315>
+      <rdfs:label>The Kingdom. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/92839136"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7269159941690125440003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7269159941690125440003/exp/est/1020/303126341">
+      <rdaed:P20316>Kongeriket</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Kuningriik</rdaed:P20312>
+      <rdaed:P20315>Kuningriik</rdaed:P20315>
+      <rdfs:label>Kuningriik. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/est"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/303126341"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7269159941690125440003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7269159941690125440003/exp/lav/1020/305057240">
+      <rdaed:P20316>Kongeriket</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Karaļvalsts</rdaed:P20312>
+      <rdaed:P20315>Karaļvalsts</rdaed:P20315>
+      <rdfs:label>Karaļvalsts. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/lav"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/305057240"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7269159941690125440003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7269159941690125440003/exp/lit/1020/98145970313132252267">
+      <rdaed:P20316>Kongeriket</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Karalystė</rdaed:P20312>
+      <rdaed:P20315>Karalystė</rdaed:P20315>
+      <rdfs:label>Karalystė. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/lit"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/98145970313132252267"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7269159941690125440003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7269159941690125440003/exp/nob/1020">
+      <rdaed:P20316>Kongeriket</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Kongeriket : roman</rdaed:P20312>
+      <rdaed:P20315>Kongeriket : roman</rdaed:P20315>
+      <rdfs:label>Kongeriket. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7269159941690125440003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7269159941690125440003/exp/swe/1020/11821932">
+      <rdaed:P20316>Kongeriket</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Kungariket</rdaed:P20312>
+      <rdaed:P20315>Kungariket</rdaed:P20315>
+      <rdfs:label>Kungariket. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/swe"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/11821932"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7269159941690125440003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/9466149068473065730001/exp/dan/1020/28430790">
+      <rdaed:P20316>Kakkerlakkene</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Kakerlakkerne</rdaed:P20312>
+      <rdaed:P20315>Kakkerlakkene</rdaed:P20315>
+      <rdfs:label>Kakkerlakkerne (Nesbø, Jo)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dan"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/28430790"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9466149068473065730001"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/9466149068473065730001/exp/nob/1020">
+      <rdaed:P20316>Kakerlakkene</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Kakerlakkene</rdaed:P20312>
+      <rdaed:P20315>Kakerlakkene</rdaed:P20315>
+      <rdfs:label>Kakerlakkene (Nesbø, Jo)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9466149068473065730001"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.wikidata.org/wiki/Q11978469/exp/1011">
+      <rdaed:P20316>Kvinner &amp; klær</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Kvinner &amp; klær : 11 sanger om kvinner og én om jakka mi</rdaed:P20312>
+      <rdaed:P20315>Kvinner &amp; klær : 11 sanger om kvinner og én om jakka mi</rdaed:P20315>
+      <rdfs:label>Kvinner &amp; klær. Di derre</rdfs:label>
+      <rdaed:P20071>Innhold: Hvor er min kvinne ; Ba-ba-ba ; Rumba med Gunn ; Stopp ; Jakka mi ; Kråka på taket ; Bare en fyr jeg kjenner ; Pen ; Minibar ; Jenter ; Jeg kunne vært din kjole ; Skal du bli med</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
+      <rdaeo:P20231 rdf:resource="https://www.wikidata.org/wiki/Q11978469"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.wikidata.org/wiki/Q1592308/exp/1023">
+      <rdaed:P20316>Hodejegerne</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Hodejegerne</rdaed:P20312>
+      <rdfs:label>Hodejegerne</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1023"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="https://www.wikidata.org/wiki/Q1592308"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.wikidata.org/wiki/Q6373735/exp/nob/1013/20625366">
+      <rdaed:P20316>Karusellmusikk</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Karusellmusikk : noveller</rdaed:P20312>
+      <rdfs:label>Karusellmusikk. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20022 rdf:resource="http://viaf.org/viaf/20625366"/>
+      <rdaeo:P20231 rdf:resource="https://www.wikidata.org/wiki/Q6373735"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.wikidata.org/wiki/Q6373735/exp/nob/1020">
+      <rdaed:P20316>Karusellmusikk</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Karusellmusikk</rdaed:P20312>
+      <rdfs:label>Karusellmusikk. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="https://www.wikidata.org/wiki/Q6373735"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.wikidata.org/wiki/Q7607345/a/exp/nob/1020">
+      <rdaed:P20312>Atten dager i mai</rdaed:P20312>
+      <rdaed:P20315>Atten dager i mai</rdaed:P20315>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Atten dager i mai. Søbye, Espen</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="https://www.wikidata.org/wiki/Q7607345/a"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.wikidata.org/wiki/Q7607345/b/exp/nob/1020">
+      <rdaed:P20312>Stemmer fra Balkan</rdaed:P20312>
+      <rdaed:P20315>Stemmer fra Balkan</rdaed:P20315>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Stemmer fra Balkan. Nesbø, Jo</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="https://www.wikidata.org/wiki/Q7607345/b"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.wikidata.org/wiki/Q7607345/exp/nob/1020">
+      <rdaed:P20316>Stemmer fra Balkan</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Stemmer fra Balkan</rdaed:P20312>
+      <rdaed:P20315>Stemmer fra Balkan</rdaed:P20315>
+      <rdfs:label>Stemmer fra Balkan. Nesbø, Jo &amp; Søbye, Espen</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20145 rdf:resource="https://www.wikidata.org/wiki/Q7607345/a/exp/nob/1020"/>
+      <rdaeo:P20145 rdf:resource="https://www.wikidata.org/wiki/Q7607345/b/exp/nob/1020"/>
+      <rdaeo:P20231 rdf:resource="https://www.wikidata.org/wiki/Q7607345"/>
+   </rdac:C10006>
+   <rdac:C10007 rdf:about="http://example.org/991420374004702202">
+      <rdamd:P30156>Doktor Proktors prompepulver</rdamd:P30156>
+      <rdamd:P30117>av Jo Nesbø ; dramatisert av Morten Joachim, Ane Skomsvoll og Ivar Nergaard ; bearbeidet av Njål Helge Mjøs og Kjersti Elvik</rdamd:P30117>
+      <rdamd:P30107>Versjon: 21. mars 2014</rdamd:P30107>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Nationaltheatret, 2014.</rdamd:P30111>
+      <rdamd:P30083>Nationaltheatret</rdamd:P30083>
+      <rdamd:P30011>2014</rdamd:P30011>
+      <rdamd:P30182>83 s., 30 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>Premiere Hovedscenen, 6. mars 2014</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/999920074467202202">
+      <rdamd:P30156>Kvinner &amp; klær</rdamd:P30156>
+      <rdamd:P30142>11 sanger om kvinner og én om jakka mi</rdamd:P30142>
+      <rdamd:P30117>tekst og musikk av Jo Nesbø</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Tomato : Slagerfabrikken, 1994.</rdamd:P30111>
+      <rdamd:P30083>Tomato : Slagerfabrikken</rdamd:P30083>
+      <rdamd:P30011>1994</rdamd:P30011>
+      <rdamd:P30182>1 plate : digital, 12 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1013</rdamd:P30001>
+      <rdamd:P30137>Di derre (Jo Nesbø; Magnus Larsen; Knut Nesbø; Espen Stenhammer; Geir Sundstøl; Tim Scott McConnell) ; med musikere ; produsent: Kai Robøle</rdamd:P30137>
+      <rdamd:P30137>Tomato : Slagerfabrikken: XCD 22028</rdamd:P30137>
+      <rdamd:P30033>Innhold: Hvor er min kvinne ; Ba-ba-ba ; Rumba med Gunn ; Stopp ; Jakka mi ; Kråka på taket ; Bare en fyr jeg kjenner ; Pen ; Minibar ; Jenter ; Jeg kunne vært din kjole ; Skal du bli med</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1013"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="https://www.wikidata.org/wiki/Q11978469/exp/1011"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/IAN-7041271939937">
+      <rdamd:P30004>IAN 7041271939937</rdamd:P30004>
+      <rdaxd:P00018>IAN-7041271939937</rdaxd:P00018>
+      <rdamd:P30156>Hodejegerne</rdamd:P30156>
+      <rdamd:P30117>regi: Morten Tyldum</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Nordisk Film Distribusjon AS, 2011.</rdamd:P30111>
+      <rdamd:P30083>Nordisk Film Distribusjon AS</rdamd:P30083>
+      <rdamd:P30011>2011</rdamd:P30011>
+      <rdamd:P30182>1 videoplate (DVD-video) (1 t, 38 min.) : lyd, kol.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1008</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1060</rdamd:P30001>
+      <rdamd:P30137>Aldersgrense: 15 år</rdamd:P30137>
+      <rdamd:P30137>Basert på: Hodejegerne / Jo Nesbø</rdamd:P30137>
+      <rdamd:P30137>DVD : 1939931</rdamd:P30137>
+      <rdamd:P30137>Ekstramateriale: Bakom filmen, musikkvideo, trailer, teasertrailer, kommentarspor</rdamd:P30137>
+      <rdamd:P30137>Medietilsynet : 160201</rdamd:P30137>
+      <rdamd:P30137>Norsk språk, tekstet for hørselshemmede</rdamd:P30137>
+      <rdamd:P30137>Rolleliste: Aksel Hennie, Synne Macody Lund, Nikolaj Coster-Waldau, Eivind Sander, Julie Ølgaard</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1060"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
+      <rdamo:P30139 rdf:resource="https://www.wikidata.org/wiki/Q1592308/exp/1023"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-1409089657">
+      <rdamd:P30004>ISBN 1409089657</rdamd:P30004>
+      <rdaxd:P00018>isbn-1409089657</rdaxd:P00018>
+      <rdfs:label>ISBN1409089657</rdfs:label>
+      <rdamd:P30004>ISBN 9781409089650</rdamd:P30004>
+      <rdaxd:P00018>isbn-9781409089650</rdaxd:P00018>
+      <rdfs:label>ISBN9781409089650</rdfs:label>
+      <rdamd:P30156>The snowman</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø ; translated from the Norwegian by Don Bartlett</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Harvill Secker, 2010.</rdamd:P30111>
+      <rdamd:P30083>Harvill Secker</rdamd:P30083>
+      <rdamd:P30011>2010</rdamd:P30011>
+      <rdamd:P30182>1 online resource (454 pages) : illustrations, maps.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/312388673/exp/eng/1020/78742232"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-144816110">
+      <rdamd:P30004>ISBN 144816110X</rdamd:P30004>
+      <rdaxd:P00018>isbn-144816110</rdaxd:P00018>
+      <rdamd:P30004>ISBN 9781448161102</rdamd:P30004>
+      <rdaxd:P00018>isbn-9781448161102</rdaxd:P00018>
+      <rdfs:label>The son. Nesbo, Jo.</rdfs:label>
+      <rdamd:P30156>The son</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbo ; translated from the Norwegian by Charlotte Barslund</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Vintage Digital, 2014.</rdamd:P30111>
+      <rdamd:P30083>Vintage Digital</rdamd:P30083>
+      <rdamd:P30011>2014</rdamd:P30011>
+      <rdamd:P30182>1 online resource (656 pages).</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1003</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1018</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309841729/exp/eng/1020/71301550"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8203182127">
+      <rdamd:P30004>ISBN 8203182127</rdamd:P30004>
+      <rdaxd:P00018>isbn-8203182127</rdaxd:P00018>
+      <rdfs:label>ISBN8203182127</rdfs:label>
+      <rdamd:P30156>Stemmer fra Balkan</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø. Atten dager i mai / Espen Søbye</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Aschehoug, 1999.</rdamd:P30111>
+      <rdamd:P30083>Aschehoug</rdamd:P30083>
+      <rdamd:P30011>1999</rdamd:P30011>
+      <rdamd:P30182>337 s., pl. : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="https://www.wikidata.org/wiki/Q7607345/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="https://www.wikidata.org/wiki/Q7607345/a/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="https://www.wikidata.org/wiki/Q7607345/b/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8203182380">
+      <rdamd:P30004>ISBN 8203182380</rdamd:P30004>
+      <rdfs:label>ISBN8203182380</rdfs:label>
+      <rdamd:P30156>Kakerlakkene</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Jo Nesbø</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Aschehoug, 2000.</rdamd:P30111>
+      <rdamd:P30083>Aschehoug</rdamd:P30083>
+      <rdamd:P30011>2000</rdamd:P30011>
+      <rdamd:P30182>337 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>En Maxi-bok fra Aschehoug</rdamd:P30106>
+      <rdamd:P30137>1. utg. 1998</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9466149068473065730001/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8203185096">
+      <rdamd:P30004>ISBN 8203185096</rdamd:P30004>
+      <rdfs:label>ISBN8203185096</rdfs:label>
+      <rdamd:P30156>Rødstrupe</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Jo Nesbø</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Aschehoug, 2001.</rdamd:P30111>
+      <rdamd:P30083>Aschehoug</rdamd:P30083>
+      <rdamd:P30011>2001</rdamd:P30011>
+      <rdamd:P30182>434 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>Aschehoug krim</rdamd:P30106>
+      <rdamd:P30137>1. utg. 2000</rdamd:P30137>
+      <rdamd:P30137>Fra 2. oppl. med 432 s.</rdamd:P30137>
+      <rdamd:P30137>Opplagshistorikk: Aschehoug krim, 2.-3. oppl. 2001; 4. oppl. 2002; 5. oppl. 2003; 6.-7. oppl. 2004</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1765145424612186831344/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8203186238">
+      <rdamd:P30004>ISBN 8203186238</rdamd:P30004>
+      <rdfs:label>ISBN8203186238</rdfs:label>
+      <rdamd:P30004>ISBN 9788203186233</rdamd:P30004>
+      <rdfs:label>ISBN9788203186233</rdfs:label>
+      <rdamd:P30156>Flaggermusmannen</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Jo Nesbø</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Aschehoug, 2002.</rdamd:P30111>
+      <rdamd:P30083>Aschehoug</rdamd:P30083>
+      <rdamd:P30011>2002</rdamd:P30011>
+      <rdamd:P30182>338 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>Aschehoug krim</rdamd:P30106>
+      <rdamd:P30137>1. utg. 1997</rdamd:P30137>
+      <rdamd:P30137>10. oppl. med 13-sifret ISBN</rdamd:P30137>
+      <rdamd:P30137>Opplagshistorikk: Aschehoug krim, 2. oppl. 2003; 3.-6. oppl. 2004; 10.-12. oppl. 2007</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2536149068402365730009/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8203186742">
+      <rdamd:P30004>ISBN 8203186742</rdamd:P30004>
+      <rdfs:label>ISBN8203186742</rdfs:label>
+      <rdamd:P30004>ISBN 9788203186745</rdamd:P30004>
+      <rdfs:label>ISBN9788203186745</rdfs:label>
+      <rdamd:P30156>Sorgenfri</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Jo Nesbø</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Aschehoug, cop. 2003.</rdamd:P30111>
+      <rdamd:P30083>Aschehoug</rdamd:P30083>
+      <rdamd:P30011>cop. 2003</rdamd:P30011>
+      <rdamd:P30182>378 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>Aschehoug krim</rdamd:P30106>
+      <rdamd:P30137>1. utg. 2002</rdamd:P30137>
+      <rdamd:P30137>Fra 10. oppl. 2006 med både 10- og 13-sifret ISBN</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/496145424547186830921/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8203188044">
+      <rdamd:P30004>ISBN 8203188044</rdamd:P30004>
+      <rdfs:label>ISBN8203188044</rdfs:label>
+      <rdamd:P30004>ISBN 9788203188046</rdamd:P30004>
+      <rdfs:label>ISBN9788203188046</rdfs:label>
+      <rdamd:P30156>Marekors</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Jo Nesbø</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Aschehoug, 2004.</rdamd:P30111>
+      <rdamd:P30083>Aschehoug</rdamd:P30083>
+      <rdamd:P30011>2004</rdamd:P30011>
+      <rdamd:P30182>419 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>Aschehoug krim</rdamd:P30106>
+      <rdamd:P30137>1. utg. 2003</rdamd:P30137>
+      <rdamd:P30137>Fra 7. oppl. 2006 med både 10- og 13-sifret ISBN</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1753145424623686830733/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8242111146">
+      <rdamd:P30004>ISBN 8242111146</rdamd:P30004>
+      <rdaxd:P00018>isbn-8242111146</rdaxd:P00018>
+      <rdfs:label>Karusellmusikk. Nesbø, Jo</rdfs:label>
+      <rdamd:P30004>ISBN 9788242111142</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788242111142</rdaxd:P00018>
+      <rdamd:P30156>Karusellmusikk</rdamd:P30156>
+      <rdamd:P30142>noveller</rdamd:P30142>
+      <rdamd:P30117>Jo Nesbø</rdamd:P30117>
+      <rdamd:P30088>[Melhus]</rdamd:P30088>
+      <rdamd:P30111>[Melhus] : Lydbokforl., 2001.</rdamd:P30111>
+      <rdamd:P30083>Lydbokforl</rdamd:P30083>
+      <rdamd:P30011>2001</rdamd:P30011>
+      <rdamd:P30182>4 plater (3 t, 58 min), 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1004</rdamd:P30001>
+      <rdamd:P30137>Lest av Mads Ousdal</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="https://www.wikidata.org/wiki/Q6373735/exp/nob/1013/20625366"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8773946591">
+      <rdamd:P30004>ISBN 8773946591</rdamd:P30004>
+      <rdaxd:P00018>isbn-8773946591</rdaxd:P00018>
+      <rdfs:label>ISBN8773946591</rdfs:label>
+      <rdamd:P30156>Kakerlakkerne</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø ; oversat af Allan Hilton Andersen</rdamd:P30117>
+      <rdamd:P30088>Århus</rdamd:P30088>
+      <rdamd:P30111>Århus : Modtryk, 2001.</rdamd:P30111>
+      <rdamd:P30083>Modtryk</rdamd:P30083>
+      <rdamd:P30011>2001</rdamd:P30011>
+      <rdamd:P30182>346 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>Modtryks spændingsbøger</rdamd:P30106>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9466149068473065730001/exp/dan/1020/28430790"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9176437159">
+      <rdamd:P30004>ISBN 9176437159</rdamd:P30004>
+      <rdaxd:P00018>isbn-9176437159</rdaxd:P00018>
+      <rdfs:label>ISBN9176437159</rdfs:label>
+      <rdamd:P30156>Fladdermusmannen</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø ; översättning Per Olaisen</rdamd:P30117>
+      <rdamd:P30088>[Stockholm]</rdamd:P30088>
+      <rdamd:P30111>[Stockholm] : MånPocket, 2000.</rdamd:P30111>
+      <rdamd:P30083>MånPocket</rdamd:P30083>
+      <rdamd:P30011>2000</rdamd:P30011>
+      <rdamd:P30182>358 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>MånPocket</rdamd:P30106>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2536149068402365730009/exp/swe/1020/11821932"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9515788412">
+      <rdamd:P30004>ISBN 9515788412</rdamd:P30004>
+      <rdaxd:P00018>isbn-9515788412</rdaxd:P00018>
+      <rdfs:label>ISBN9515788412</rdfs:label>
+      <rdamd:P30156>Lepakkomies</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø ; suomentanut Outi Menna</rdamd:P30117>
+      <rdamd:P30088>Helsinki</rdamd:P30088>
+      <rdamd:P30111>Helsinki : Like, 2001.</rdamd:P30111>
+      <rdamd:P30083>Like</rdamd:P30083>
+      <rdamd:P30011>2001</rdamd:P30011>
+      <rdamd:P30182>398 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>[Rikos kannattaa]</rdamd:P30106>
+      <rdamd:P30137>Serietittel fra løst omslag</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2536149068402365730009/exp/fin/1020/165905590"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9780099598060">
+      <rdamd:P30004>ISBN 9780099598060</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780099598060</rdaxd:P00018>
+      <rdfs:label>Macbeth. Nesbo, Jo</rdfs:label>
+      <rdamd:P30004>ISBN 9780099598077</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780099598077</rdaxd:P00018>
+      <rdamd:P30156>Macbeth</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbo ; translated from the Norwegian by Don Bartlett</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Vintage, 2018.</rdamd:P30111>
+      <rdamd:P30083>Vintage</rdamd:P30083>
+      <rdamd:P30011>2018</rdamd:P30011>
+      <rdamd:P30182>611 pages, 20 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>Formerly CIP.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/4357153289911832770005/exp/eng/1020/78742232"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9780525655411">
+      <rdamd:P30004>ISBN 978-0-525-65541-1</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780525655411</rdaxd:P00018>
+      <rdfs:label>The Kingdom. Nesbø, Jo</rdfs:label>
+      <rdamd:P30156>The Kingdom</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø ; translated from the Norwegian by Robert Ferguson</rdamd:P30117>
+      <rdamd:P30088>New York</rdamd:P30088>
+      <rdamd:P30111>New York : Alfred A. Knopf, 2020.</rdamd:P30111>
+      <rdamd:P30083>Alfred A. Knopf</rdamd:P30083>
+      <rdamd:P30011>2020</rdamd:P30011>
+      <rdamd:P30182>549 sider, 25 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2331160546916410240008/exp/eng/1020/92839136"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7269159941690125440003/exp/eng/1020/92839136"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9781784709112">
+      <rdamd:P30004>ISBN 978-1-784-70911-2</rdamd:P30004>
+      <rdaxd:P00018>isbn-9781784709112</rdaxd:P00018>
+      <rdfs:label>The Kingdom. Nesbo, Jo</rdfs:label>
+      <rdamd:P30156>The Kingdom</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbo ; [English translation: Robert Ferguson]</rdamd:P30117>
+      <rdamd:P30088>[London]</rdamd:P30088>
+      <rdamd:P30111>[London] : Vintage, 2021.</rdamd:P30111>
+      <rdamd:P30083>Vintage</rdamd:P30083>
+      <rdamd:P30011>2021</rdamd:P30011>
+      <rdamd:P30182>647 sider.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7269159941690125440003/exp/eng/1020/92839136"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9781847386533">
+      <rdamd:P30004>ISBN 9781847386533</rdamd:P30004>
+      <rdaxd:P00018>isbn-9781847386533</rdaxd:P00018>
+      <rdfs:label>ISBN9781847386533</rdfs:label>
+      <rdamd:P30156>Doctor Proctor's fart powder</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø ; illustrated by Mike Lowery</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Simon and Schuster, 2010.</rdamd:P30111>
+      <rdamd:P30083>Simon and Schuster</rdamd:P30083>
+      <rdamd:P30011>2010</rdamd:P30011>
+      <rdamd:P30182>265 s. : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>[Doctor Proctor's fart powder]</rdamd:P30106>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/312386681/exp/eng/1020"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/78864428"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9782072946868">
+      <rdamd:P30004>ISBN 978-2-07-294686-8</rdamd:P30004>
+      <rdaxd:P00018>isbn-9782072946868</rdaxd:P00018>
+      <rdfs:label>ISBN978-2-07-294686-8</rdfs:label>
+      <rdamd:P30156>De la jalousie</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø</rdamd:P30117>
+      <rdamd:P30088>[Paris]</rdamd:P30088>
+      <rdamd:P30111>[Paris] : Gallimard, [2022].</rdamd:P30111>
+      <rdamd:P30083>Gallimard</rdamd:P30083>
+      <rdamd:P30011>[2022]</rdamd:P30011>
+      <rdamd:P30182>341 sider.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>Série noire</rdamd:P30106>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/6666163570594316620005/exp/fre/1020/66684972"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9783401063041">
+      <rdamd:P30004>ISBN 9783401063041</rdamd:P30004>
+      <rdaxd:P00018>isbn-9783401063041</rdaxd:P00018>
+      <rdfs:label>ISBN9783401063041</rdfs:label>
+      <rdamd:P30156>Doktor Proktors Pupspulver</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø ; aus dem Norwegischen von Hinrich Schmidt-Henkel ; mit Illustrationen von Per Dybvig</rdamd:P30117>
+      <rdamd:P30107>4. Aufl</rdamd:P30107>
+      <rdamd:P30088>Würzburg</rdamd:P30088>
+      <rdamd:P30111>Würzburg : Arena, 2008.</rdamd:P30111>
+      <rdamd:P30083>Arena</rdamd:P30083>
+      <rdamd:P30011>2008</rdamd:P30011>
+      <rdamd:P30182>230 s. : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/312386681/exp/ger/1020/79151651"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/10543719"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9786094796050">
+      <rdamd:P30004>ISBN 978-609-479-605-0</rdamd:P30004>
+      <rdaxd:P00018>isbn-9786094796050</rdaxd:P00018>
+      <rdfs:label>ISBN978-609-479-605-0</rdfs:label>
+      <rdamd:P30156>Karalystė</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø</rdamd:P30117>
+      <rdamd:P30088>Vilnius</rdamd:P30088>
+      <rdamd:P30111>Vilnius : Baltos lankos, [2022].</rdamd:P30111>
+      <rdamd:P30083>Baltos lankos</rdamd:P30083>
+      <rdamd:P30011>[2022]</rdamd:P30011>
+      <rdamd:P30182>639 sider.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7269159941690125440003/exp/lit/1020/98145970313132252267"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788202273101">
+      <rdamd:P30004>ISBN 978-82-02-27310-1</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788202273101</rdaxd:P00018>
+      <rdfs:label>ISBN978-82-02-27310-1</rdfs:label>
+      <rdamd:P30004>ISBN 978-82-03-19212-8</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788203192128</rdaxd:P00018>
+      <rdfs:label>ISBN978-82-03-19212-8</rdfs:label>
+      <rdamd:P30004>ISBN 978-82-525-6580-5</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788252565805</rdaxd:P00018>
+      <rdfs:label>ISBN978-82-525-6580-5</rdfs:label>
+      <rdamd:P30156>Snømannen</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Jo Nesbø</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Aschehoug, 2007.</rdamd:P30111>
+      <rdamd:P30083>Aschehoug</rdamd:P30083>
+      <rdamd:P30011>2007</rdamd:P30011>
+      <rdamd:P30182>438 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>Harry Hole</rdamd:P30106>
+      <rdamd:P30165>7</rdamd:P30165>
+      <rdamd:P30137>Opplagshistorikk: 9. oppl. 2011</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/312388673/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788203194788">
+      <rdamd:P30004>ISBN 9788203194788</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788203194788</rdaxd:P00018>
+      <rdfs:label>ISBN9788203194788</rdfs:label>
+      <rdamd:P30156>Snømannen</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Jo Nesbø</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Aschehoug, 2009.</rdamd:P30111>
+      <rdamd:P30083>Aschehoug</rdamd:P30083>
+      <rdamd:P30011>2009</rdamd:P30011>
+      <rdamd:P30182>438 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>Aschehoug storpocket</rdamd:P30106>
+      <rdamd:P30137>1. utg. 2007</rdamd:P30137>
+      <rdamd:P30137>På omslaget: En krim med Harry Hole</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/312388673/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788203249600">
+      <rdamd:P30004>ISBN 978-82-03-24960-0</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788203249600</rdaxd:P00018>
+      <rdfs:label>ISBN978-82-03-24960-0</rdfs:label>
+      <rdamd:P30004>ISBN 978-82-525-6676-5</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788252566765</rdaxd:P00018>
+      <rdfs:label>ISBN978-82-525-6676-5</rdfs:label>
+      <rdamd:P30156>Doktor Proktors prompepulver</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø ; tegninger av Per Dybvig</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Aschehoug, 2007.</rdamd:P30111>
+      <rdamd:P30083>Aschehoug</rdamd:P30083>
+      <rdamd:P30011>2007</rdamd:P30011>
+      <rdamd:P30182>205 s. : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>15. oppl. med 222 s. og tallet 1 på ryggen</rdamd:P30137>
+      <rdamd:P30137>Opplagshistorikk: 3.-4. oppl. 2007; 15. oppl. 2012</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/312386681/exp/nob/1020"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/10543719"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788203268656">
+      <rdamd:P30004>ISBN 9788203268656</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788203268656</rdaxd:P00018>
+      <rdfs:label>ISBN9788203268656</rdfs:label>
+      <rdamd:P30156>Kongeriket</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Jo Nesbø</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Aschehoug, [2020].</rdamd:P30111>
+      <rdamd:P30083>Aschehoug</rdamd:P30083>
+      <rdamd:P30011>[2020]</rdamd:P30011>
+      <rdamd:P30182>630 sider, 22 cm.</rdamd:P30182>
+      <rdamd:P30002>http://www.rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://www.rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://www.rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://www.rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7269159941690125440003/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788203355936">
+      <rdamd:P30004>ISBN 978-82-03-35593-6</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788203355936</rdaxd:P00018>
+      <rdfs:label>Sønnen. Nesbø, Jo</rdfs:label>
+      <rdamd:P30004>ISBN 978-82-525-8317-5</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788252583175</rdaxd:P00018>
+      <rdamd:P30156>Sønnen</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Aschehoug, 2014.</rdamd:P30111>
+      <rdamd:P30083>Aschehoug</rdamd:P30083>
+      <rdamd:P30011>2014</rdamd:P30011>
+      <rdamd:P30182>510 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309841729/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788203364235">
+      <rdamd:P30004>ISBN 978-82-03-36423-5</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788203364235</rdaxd:P00018>
+      <rdfs:label>ISBN978-82-03-36423-5</rdfs:label>
+      <rdamd:P30156>Jo Nesbø snakker med Hallgeir Opedal om Rumba med Gunn og andre tekster</rdamd:P30156>
+      <rdamd:P30117>illustrert av Per Dybvig</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Aschehoug, cop. 2018.</rdamd:P30111>
+      <rdamd:P30083>Aschehoug</rdamd:P30083>
+      <rdamd:P30011>cop. 2018</rdamd:P30011>
+      <rdamd:P30182>111 s. : ill. (noen kol.), 24 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/00000000/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788203366437">
+      <rdamd:P30004>ISBN 9788203366437</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788203366437</rdaxd:P00018>
+      <rdfs:label>ISBN9788203366437</rdfs:label>
+      <rdamd:P30004>ISBN 9788252591835</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788252591835</rdaxd:P00018>
+      <rdfs:label>ISBN9788252591835</rdfs:label>
+      <rdamd:P30156>Sjalusimannen og andre fortellinger</rdamd:P30156>
+      <rdamd:P30142>fortellinger</rdamd:P30142>
+      <rdamd:P30117>Jo Nesbø</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Aschehoug, [2021].</rdamd:P30111>
+      <rdamd:P30083>Aschehoug</rdamd:P30083>
+      <rdamd:P30011>[2021]</rdamd:P30011>
+      <rdamd:P30182>250 sider, 22 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/6666163570594316620005/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/00000001/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/00000002/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/00000003/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/00000004/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/00000005/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/00000006/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/00000007/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788203366741">
+      <rdamd:P30004>ISBN 9788203366741</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788203366741</rdaxd:P00018>
+      <rdfs:label>ISBN9788203366741</rdfs:label>
+      <rdamd:P30156>Kongeriket</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Jo Nesbø</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Aschehoug, [2021].</rdamd:P30111>
+      <rdamd:P30083>Aschehoug</rdamd:P30083>
+      <rdamd:P30011>[2021]</rdamd:P30011>
+      <rdamd:P30182>630 sider, 21 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>1. utgave (innbundet) 2020</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7269159941690125440003/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788203395185">
+      <rdamd:P30004>ISBN 9788203395185</rdamd:P30004>
+      <rdfs:label>ISBN9788203395185</rdfs:label>
+      <rdamd:P30004>ISBN 9788252593099</rdamd:P30004>
+      <rdfs:label>ISBN9788252593099</rdfs:label>
+      <rdamd:P30156>Blodmåne</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Jo Nesbø</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Aschehoug, [2022].</rdamd:P30111>
+      <rdamd:P30083>Aschehoug</rdamd:P30083>
+      <rdamd:P30011>[2022]</rdamd:P30011>
+      <rdamd:P30182>487 sider.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>Harry Hole</rdamd:P30106>
+      <rdamd:P30165>13</rdamd:P30165>
+      <rdamd:P30137>Deler av opplaget også med Bokklubbens ISBN</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/5386167764307213890003/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788232032686">
+      <rdamd:P30004>ISBN 978-82-320-3268-6</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788232032686</rdaxd:P00018>
+      <rdfs:label>Macbeth. Nesbø, Jo</rdfs:label>
+      <rdamd:P30156>Macbeth</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Jo Nesbø</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Aschehoug, 2018.</rdamd:P30111>
+      <rdamd:P30083>Aschehoug</rdamd:P30083>
+      <rdamd:P30011>2018</rdamd:P30011>
+      <rdamd:P30182>572 s., 21 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>[The Hogarth Shakespeare-series]</rdamd:P30106>
+      <rdamd:P30137>1. utg. Oslo : Aschehoug, 2018</rdamd:P30137>
+      <rdamd:P30137>Denne utgaven er laget spesielt for Bestselgerforlaget</rdamd:P30137>
+      <rdamd:P30137>Inspirert av William Shakespeares skuespill Macbeth. Inngår i Hogarth Shakespeare-prosjektet</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/4357153289911832770005/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788242119858">
+      <rdamd:P30004>ISBN 9788242119858</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788242119858</rdaxd:P00018>
+      <rdfs:label>ISBN9788242119858</rdfs:label>
+      <rdamd:P30156>Snømannen</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø</rdamd:P30117>
+      <rdamd:P30088>[Melhus]</rdamd:P30088>
+      <rdamd:P30111>[Melhus] : Lydbokforl., 2007.</rdamd:P30111>
+      <rdamd:P30083>Lydbokforl</rdamd:P30083>
+      <rdamd:P30011>2007</rdamd:P30011>
+      <rdamd:P30182>12 plater (CD) (14 t, 38 min) : digital, 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1004</rdamd:P30001>
+      <rdamd:P30137>Lest av Dennis Storhøi</rdamd:P30137>
+      <rdamd:P30137>På esken: Krim</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/312388673/exp/nob/1013/58828223"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788242122933">
+      <rdamd:P30004>ISBN 9788242122933</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788242122933</rdaxd:P00018>
+      <rdfs:label>ISBN9788242122933</rdfs:label>
+      <rdamd:P30156>Doktor Proktors prompepulver</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø</rdamd:P30117>
+      <rdamd:P30088>[Melhus]</rdamd:P30088>
+      <rdamd:P30111>[Melhus] : Lydbokforl., 2007.</rdamd:P30111>
+      <rdamd:P30083>Lydbokforl</rdamd:P30083>
+      <rdamd:P30011>2007</rdamd:P30011>
+      <rdamd:P30182>3 plater (CD)(3 t, 7 min) : digital, 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1004</rdamd:P30001>
+      <rdamd:P30137>Lest av Ivar Nergaard</rdamd:P30137>
+      <rdamd:P30137>På esken: Barn. Fra 8 år</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/312386681/exp/nob/1013"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788242123862">
+      <rdamd:P30004>ISBN 9788242123862</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788242123862</rdaxd:P00018>
+      <rdfs:label>ISBN9788242123862</rdfs:label>
+      <rdamd:P30156>Doktor Proktors prompepulver</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø</rdamd:P30117>
+      <rdamd:P30088>[Melhus]</rdamd:P30088>
+      <rdamd:P30111>[Melhus] : Lydbokforl., 2007.</rdamd:P30111>
+      <rdamd:P30083>Lydbokforl</rdamd:P30083>
+      <rdamd:P30011>2007</rdamd:P30011>
+      <rdamd:P30182>1 avspiller med lydfil (3 t, 6 min) : digital.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1002</rdamd:P30001>
+      <rdamd:P30137>Digital lydbok med integrert avspilling (digibok)</rdamd:P30137>
+      <rdamd:P30137>Lest av Ivar Nergaard</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1002"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/312386681/exp/nob/1013"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788242145079">
+      <rdamd:P30004>ISBN 9788242145079</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788242145079</rdaxd:P00018>
+      <rdfs:label>Hodejegerne. Nesbø, Jo</rdfs:label>
+      <rdamd:P30156>Hodejegerne</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø</rdamd:P30117>
+      <rdamd:P30088>[Melhus]</rdamd:P30088>
+      <rdamd:P30111>[Melhus] : Lydbokforl., cop. 2008.</rdamd:P30111>
+      <rdamd:P30083>Lydbokforl</rdamd:P30083>
+      <rdamd:P30011>cop. 2008</rdamd:P30011>
+      <rdamd:P30182>6 plater (CD) (7 t, 45 min) : digital, 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1004</rdamd:P30001>
+      <rdamd:P30137>Lest av Thorbjørn Harr</rdamd:P30137>
+      <rdamd:P30137>På esken: Krim</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2490154501856639210005/exp/nob/1013/227229707"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788242174123">
+      <rdamd:P30004>ISBN 978-82-421-7412-3</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788242174123</rdaxd:P00018>
+      <rdfs:label>Macbeth. Nesbø, Jo</rdfs:label>
+      <rdamd:P30156>Macbeth</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Lydbokforl., 2018.</rdamd:P30111>
+      <rdamd:P30083>Lydbokforl</rdamd:P30083>
+      <rdamd:P30011>2018</rdamd:P30011>
+      <rdamd:P30182>14 CD-er (17 t, 6 min), 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1001</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1004</rdamd:P30001>
+      <rdamd:P30106>[The Hogarth Shakespeare-series]</rdamd:P30106>
+      <rdamd:P30137>Inspirert av William Shakespeares skuespill Macbeth. Inngår i Hogarth Shakespeare-prosjektet</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/4357153289911832770005/exp/nob/1013/20146635593841981935"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788252585506">
+      <rdamd:P30004>ISBN 9788252585506</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788252585506</rdaxd:P00018>
+      <rdfs:label>Karusellmusikk. Nesbø, Jo</rdfs:label>
+      <rdamd:P30156>Karusellmusikk</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Bokklubben, 2015.</rdamd:P30111>
+      <rdamd:P30083>Bokklubben</rdamd:P30083>
+      <rdamd:P30011>2015</rdamd:P30011>
+      <rdamd:P30182>169 s., 21 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>1. utg. Oslo : Aschehoug, 2001</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="https://www.wikidata.org/wiki/Q6373735/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788702067392">
+      <rdamd:P30004>ISBN 9788702067392</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788702067392</rdaxd:P00018>
+      <rdfs:label>ISBN9788702067392</rdfs:label>
+      <rdamd:P30156>Doktor Proktors pruttepulver</rdamd:P30156>
+      <rdamd:P30117>af Jo Nesbø ; oversat af Allan Hilton Andersen</rdamd:P30117>
+      <rdamd:P30088>[København]</rdamd:P30088>
+      <rdamd:P30111>[København] : Gyldendal, 2008.</rdamd:P30111>
+      <rdamd:P30083>Gyldendal</rdamd:P30083>
+      <rdamd:P30011>2008</rdamd:P30011>
+      <rdamd:P30182>214 s. : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>Tegninger av Per Dybvig</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/312386681/exp/dan/1020/28430790"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/10543719"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788770530934">
+      <rdamd:P30004>ISBN 9788770530934</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788770530934</rdaxd:P00018>
+      <rdfs:label>ISBN9788770530934</rdfs:label>
+      <rdamd:P30156>Snemanden</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø ; oversat af Allan Hilton Andersen</rdamd:P30117>
+      <rdamd:P30107>2. opl</rdamd:P30107>
+      <rdamd:P30088>[Århus]</rdamd:P30088>
+      <rdamd:P30111>[Århus] : Modtryk, 2007.</rdamd:P30111>
+      <rdamd:P30083>Modtryk</rdamd:P30083>
+      <rdamd:P30011>2007</rdamd:P30011>
+      <rdamd:P30182>460 s.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>1. oppl. 2007</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/312388673/exp/dan/1020/28430790"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789047701071">
+      <rdamd:P30004>ISBN 9789047701071</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789047701071</rdaxd:P00018>
+      <rdfs:label>ISBN9789047701071</rdfs:label>
+      <rdamd:P30156>Dr. Proktors schetenpoeder</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø ; met tekeningen van Georgien Overwater ; vertaling: Femke Blekkingh-Muller</rdamd:P30117>
+      <rdamd:P30107>2. druk</rdamd:P30107>
+      <rdamd:P30088>Rotterdam</rdamd:P30088>
+      <rdamd:P30111>Rotterdam : Lemniscaat, 2008.</rdamd:P30111>
+      <rdamd:P30083>Lemniscaat</rdamd:P30083>
+      <rdamd:P30011>2008</rdamd:P30011>
+      <rdamd:P30182>227 s. : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/312386681/exp/dut/1020/225581798"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789100185596">
+      <rdamd:P30004>ISBN 978-91-0-018559-6</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789100185596</rdaxd:P00018>
+      <rdfs:label>ISBN978-91-0-018559-6</rdfs:label>
+      <rdamd:P30156>Kungariket</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø ; översättning av Per Olaisen</rdamd:P30117>
+      <rdamd:P30088>[Stockholm]</rdamd:P30088>
+      <rdamd:P30111>[Stockholm] : Albert Bonniers förlag, [2020].</rdamd:P30111>
+      <rdamd:P30083>Albert Bonniers förlag</rdamd:P30083>
+      <rdamd:P30011>[2020]</rdamd:P30011>
+      <rdamd:P30182>605 sider, 23 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30137>På løst omslag: Thriller</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7269159941690125440003/exp/swe/1020/11821932"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789100187804">
+      <rdamd:P30004>ISBN 978-91-0-018780-4</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789100187804</rdaxd:P00018>
+      <rdfs:label>ISBN978-91-0-018780-4</rdfs:label>
+      <rdamd:P30156>Kungariket</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø ; översättning av Per Olaisen</rdamd:P30117>
+      <rdamd:P30088>Stockholm</rdamd:P30088>
+      <rdamd:P30111>Stockholm : Albert Bonniers förlag, [2021].</rdamd:P30111>
+      <rdamd:P30083>Albert Bonniers förlag</rdamd:P30083>
+      <rdamd:P30011>[2021]</rdamd:P30011>
+      <rdamd:P30182>605 sider, 21 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7269159941690125440003/exp/swe/1020/11821932"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789164202840">
+      <rdamd:P30004>ISBN 9789164202840</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789164202840</rdaxd:P00018>
+      <rdfs:label>ISBN9789164202840</rdfs:label>
+      <rdamd:P30156>Doktor Proktors pruttpulver</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø ; illustrationer av Per Dybvig ; översättning av Barbro Lagergren</rdamd:P30117>
+      <rdamd:P30088>[Stockholm]</rdamd:P30088>
+      <rdamd:P30111>[Stockholm] : Piratförlaget, 2009.</rdamd:P30111>
+      <rdamd:P30083>Piratförlaget</rdamd:P30083>
+      <rdamd:P30011>2009</rdamd:P30011>
+      <rdamd:P30182>230 s. : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>Lilla piratförlaget</rdamd:P30106>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/312386681/exp/swe/1020/74752521"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/10543719"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789403108711">
+      <rdamd:P30004>ISBN 978-94-031-0871-1</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789403108711</rdaxd:P00018>
+      <rdfs:label>ISBN978-94-031-0871-1</rdfs:label>
+      <rdamd:P30156>Koninkrijk</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø ; vertaald door Annelies de Vroom</rdamd:P30117>
+      <rdamd:P30088>Amsterdam</rdamd:P30088>
+      <rdamd:P30111>Amsterdam : Cargo, 2021.</rdamd:P30111>
+      <rdamd:P30083>Cargo</rdamd:P30083>
+      <rdamd:P30011>2021</rdamd:P30011>
+      <rdamd:P30182>508 sider, 23 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7269159941690125440003/exp/dut/1020/6107504"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789403108810">
+      <rdamd:P30004>ISBN 978-94-031-0881-0</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789403108810</rdaxd:P00018>
+      <rdfs:label>ISBN978-94-031-0881-0</rdfs:label>
+      <rdamd:P30156>Bloedmaan</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø</rdamd:P30117>
+      <rdamd:P30088>Amsterdam</rdamd:P30088>
+      <rdamd:P30111>Amsterdam : Cargo, 2023.</rdamd:P30111>
+      <rdamd:P30083>Cargo</rdamd:P30083>
+      <rdamd:P30011>2023</rdamd:P30011>
+      <rdamd:P30182>509 sider.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/5386167764307213890003/exp/dut/1020/6107504"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789543574919">
+      <rdamd:P30004>ISBN 978-954-357-491-9</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789543574919</rdaxd:P00018>
+      <rdfs:label>ISBN978-954-357-491-9</rdfs:label>
+      <rdamd:P30156>Kralstvoto</rdamd:P30156>
+      <rdamd:P30117>Ju Nesb'o</rdamd:P30117>
+      <rdamd:P30107>I izdanie</rdamd:P30107>
+      <rdamd:P30088>[Sofija]</rdamd:P30088>
+      <rdamd:P30111>[Sofija] : IK "EMAS", [2021].</rdamd:P30111>
+      <rdamd:P30083>IK "EMAS"</rdamd:P30083>
+      <rdamd:P30011>[2021]</rdamd:P30011>
+      <rdamd:P30182>612 sider, 20 cm.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30106>Kriminale</rdamd:P30106>
+      <rdamd:P30165>49</rdamd:P30165>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7269159941690125440003/exp/bul/1020/3149365923185600853"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789928103147">
+      <rdamd:P30004>ISBN 9789928103147</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789928103147</rdaxd:P00018>
+      <rdfs:label>ISBN9789928103147</rdfs:label>
+      <rdamd:P30156>Superpluhuri për pordhacë i Doktor Proktorit</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø ; përktheu: Erblina Kërçishta</rdamd:P30117>
+      <rdamd:P30088>[Tiranë]</rdamd:P30088>
+      <rdamd:P30111>[Tiranë] : Dituria, cop. 2011.</rdamd:P30111>
+      <rdamd:P30083>Dituria</rdamd:P30083>
+      <rdamd:P30011>cop. 2011</rdamd:P30011>
+      <rdamd:P30182>158 s. : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/312386681/exp/alb/1020/221968005"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789934093838">
+      <rdamd:P30004>ISBN 978-9934-0-9383-8</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789934093838</rdaxd:P00018>
+      <rdfs:label>ISBN978-9934-0-9383-8</rdfs:label>
+      <rdamd:P30156>Karaļvalsts</rdamd:P30156>
+      <rdamd:P30117>Jū Nesbē ; no norvēģu valodas tulkojusi Dace Deniņa</rdamd:P30117>
+      <rdamd:P30088>Riga</rdamd:P30088>
+      <rdamd:P30111>Riga : Zvaigzne, [2021].</rdamd:P30111>
+      <rdamd:P30083>Zvaigzne</rdamd:P30083>
+      <rdamd:P30011>[2021]</rdamd:P30011>
+      <rdamd:P30182>524 sider.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7269159941690125440003/exp/lav/1020/305057240"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789979329824">
+      <rdamd:P30004>ISBN 9789979329824</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789979329824</rdaxd:P00018>
+      <rdfs:label>ISBN9789979329824</rdfs:label>
+      <rdamd:P30156>Doktor Proktor og prumpuduftið</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø ; Per Dybvig myndskreytti ; Eiríkur Örn Norðahl þýddi</rdamd:P30117>
+      <rdamd:P30088>Reykjavík</rdamd:P30088>
+      <rdamd:P30111>Reykjavík : Mál og menning, 2008.</rdamd:P30111>
+      <rdamd:P30083>Mál og menning</rdamd:P30083>
+      <rdamd:P30011>2008</rdamd:P30011>
+      <rdamd:P30182>190 s. : ill.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/312386681/exp/ice/1020/66758386"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/10543719"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789985350966">
+      <rdamd:P30004>ISBN 978-9985-3-5096-6</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789985350966</rdaxd:P00018>
+      <rdfs:label>ISBN978-9985-3-5096-6</rdfs:label>
+      <rdamd:P30156>Kuningriik</rdamd:P30156>
+      <rdamd:P30117>Jo Nesbø</rdamd:P30117>
+      <rdamd:P30088>Tallinn</rdamd:P30088>
+      <rdamd:P30111>Tallinn : Varrak, 2021.</rdamd:P30111>
+      <rdamd:P30083>Varrak</rdamd:P30083>
+      <rdamd:P30011>2021</rdamd:P30011>
+      <rdamd:P30182>533 sider.</rdamd:P30182>
+      <rdamd:P30002>http://rdaregistry.info/termList/RDAMediaType/1007</rdamd:P30002>
+      <rdamd:P30001>http://rdaregistry.info/termList/RDACarrierType/1049</rdamd:P30001>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7269159941690125440003/exp/est/1020/303126341"/>
+   </rdac:C10007>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/alb">
+      <rdfs:label>alb</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/bul">
+      <rdfs:label>bul</rdfs:label>
+      <skos:subjectIndicator>bul</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/dan">
+      <rdfs:label>dan</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/dut">
+      <rdfs:label>dut</rdfs:label>
+      <skos:subjectIndicator>dut</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/eng">
+      <rdfs:label>eng</rdfs:label>
+      <skos:subjectIndicator>eng</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/est">
+      <rdfs:label>est</rdfs:label>
+      <skos:subjectIndicator>est</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/fin">
+      <rdfs:label>fin</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/fre">
+      <rdfs:label>fre</rdfs:label>
+      <skos:subjectIndicator>fre</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/ger">
+      <rdfs:label>ger</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/ice">
+      <rdfs:label>ice</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/lav">
+      <rdfs:label>lav</rdfs:label>
+      <skos:subjectIndicator>lav</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/lit">
+      <rdfs:label>lit</rdfs:label>
+      <skos:subjectIndicator>lit</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/nob">
+      <rdfs:label>nob</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/swe">
+      <rdfs:label>swe</rdfs:label>
+      <skos:subjectIndicator>swe</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1002">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1002</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1004">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1004</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1013">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1013</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1018">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1018</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1049">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1049</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1060">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1060</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1011">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1011</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1013">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1013</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1020">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1020</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1023">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1023</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1001">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1001</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1003">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1003</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1007">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1007</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1008">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1008</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://www.rdaregistry.info/termList/RDACarrierType/1049">
+      <skos:subjectIndicator>http://www.rdaregistry.info/termList/RDACarrierType/1049</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://www.rdaregistry.info/termList/RDAMediaType/1007">
+      <skos:subjectIndicator>http://www.rdaregistry.info/termList/RDAMediaType/1007</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://schema.nb.no/Bibliographic/Values/V1000">
+      <skos:subjectIndicator>https://schema.nb.no/Bibliographic/Values/V1000</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://schema.nb.no/Bibliographic/Values/V1009">
+      <skos:subjectIndicator>https://schema.nb.no/Bibliographic/Values/V1009</skos:subjectIndicator>
+   </skos:Concept>
+</rdf:RDF>
