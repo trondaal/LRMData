@@ -132,6 +132,7 @@ MATCH (r:Resource)
 SET r += {titles: '', names: '', types: '', uris: '', ids: '', language: '', content: ''};
 
 //UPDATE FIELDS FOR FULLTEXT INDEXING OF NODES
+
 //NAMES
 MATCH (e:Expression)-[:CREATOR]-(a:Agent) where a.name IS NOT NULL
 set e.names = e.names + a.name + " : ";
@@ -144,6 +145,9 @@ set e.names = e.names + a.name + " : ";
 
 MATCH (e:Expression)-[:REALIZES]-(w:Work)-[:SUBJECT]-(a:Agent) where a.name IS NOT NULL
 set e.names = e.names + a.name + " : ";
+
+MATCH (e:Expression)-[:REALIZES]-(w:Work)-[:SUBJECT]-(a:Agent) where a.variantname IS NOT NULL
+set e.names = e.names + a.variantname + " : ";
 
 MATCH (e:Expression)-[:REALIZES]-(w:Work)-[:RELATED]->(:Work)-[:CREATOR]-(a:Agent) where a.name IS NOT NULL
 set e.names = e.names + a.name + " : ";
