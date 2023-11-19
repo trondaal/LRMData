@@ -78,6 +78,7 @@
       <rdaxd:P00018>http://viaf.org/viaf/176021540</rdaxd:P00018>
       <rdawd:P10088>4:50 from Paddington</rdawd:P10088>
       <rdfs:label>4:50 from Paddington (Christie, Agatha)</rdfs:label>
+      <rdaxd:P00029>Novel</rdaxd:P00029>
       <rdawo:P10061 rdf:resource="https://isni.org/isni/0000000121022127"/>
       <rdawo:P10319 rdf:resource="http://viaf.org/viaf/20152329368502672984"/>
    </rdac:C10001>
@@ -88,6 +89,14 @@
       <rdfs:label>Secret adversary (Christie, Agatha)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="https://isni.org/isni/0000000121022127"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/177374432">
+      <rdaxd:P00018>http://viaf.org/viaf/177374432</rdaxd:P00018>
+      <rdaxd:P00029>Novel</rdaxd:P00029>
+      <rdawd:P10088>Nemesis</rdawd:P10088>
+      <rdfs:label>Nemesis (Christie, Agatha)</rdfs:label>
+      <rdawo:P10061 rdf:resource="https://isni.org/isni/0000000121022127"/>
+      <rdawo:P10319 rdf:resource="http://viaf.org/viaf/20152329368502672984"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/180572444">
       <rdaxd:P00018>http://viaf.org/viaf/180572444</rdaxd:P00018>
@@ -102,6 +111,13 @@
       <rdaxd:P00029>Novel</rdaxd:P00029>
       <rdawd:P10088>A murder is announced</rdawd:P10088>
       <rdfs:label>A murder is announced (Christie, Agatha)</rdfs:label>
+      <rdawo:P10061 rdf:resource="https://isni.org/isni/0000000121022127"/>
+      <rdawo:P10319 rdf:resource="http://viaf.org/viaf/20152329368502672984"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/182019214">
+      <rdaxd:P00018>http://viaf.org/viaf/182019214</rdaxd:P00018>
+      <rdawd:P10088>A Caribbean mystery</rdawd:P10088>
+      <rdfs:label>A Caribbean mystery (Christie, Agatha)</rdfs:label>
       <rdawo:P10061 rdf:resource="https://isni.org/isni/0000000121022127"/>
       <rdawo:P10319 rdf:resource="http://viaf.org/viaf/20152329368502672984"/>
    </rdac:C10001>
@@ -138,6 +154,14 @@
       <rdfs:label>Thirty-nine steps (Buchan, John)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/66464527"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/186075806">
+      <rdaxd:P00018>http://viaf.org/viaf/186075806</rdaxd:P00018>
+      <rdaxd:P00029>Novel</rdaxd:P00029>
+      <rdawd:P10088>They do it with mirrors</rdawd:P10088>
+      <rdfs:label>They do it with mirrors (Christie, Agatha)</rdfs:label>
+      <rdawo:P10061 rdf:resource="https://isni.org/isni/0000000121022127"/>
+      <rdawo:P10319 rdf:resource="http://viaf.org/viaf/20152329368502672984"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/186192338">
       <rdaxd:P00018>http://viaf.org/viaf/186192338</rdaxd:P00018>
@@ -570,6 +594,13 @@
       <rdawo:P10061 rdf:resource="https://isni.org/isni/0000000121022127"/>
       <rdawo:P10319 rdf:resource="http://viaf.org/viaf/20152329368502672984"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="https://isni.org/isni/0000000121022127/missmarpleomnibus">
+      <rdaxd:P00018>https://isni.org/isni/0000000121022127/missmarpleomnibus</rdaxd:P00018>
+      <rdawd:P10088>Miss Marple omnibus</rdawd:P10088>
+      <rdfs:label>Miss Marple omnibus (Christie, Agatha)</rdfs:label>
+      <rdawo:P10061 rdf:resource="https://isni.org/isni/0000000121022127"/>
+      <rdawo:P10319 rdf:resource="http://viaf.org/viaf/20152329368502672984"/>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="https://isni.org/isni/0000000121022127/missmarplequartet">
       <rdaxd:P00018>https://isni.org/isni/0000000121022127/missmarplequartet</rdaxd:P00018>
       <rdawd:P10088>A Miss Marple quartet</rdawd:P10088>
@@ -901,6 +932,7 @@
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>4:50 from Paddington</rdaed:P20312>
       <rdfs:label>4:50 from Paddington (Christie, Agatha)</rdfs:label>
+      <rdaxd:P00029>part</rdaxd:P00029>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/176021540"/>
@@ -912,6 +944,14 @@
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/176364162"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/177374432/exp/eng/1020">
+      <rdaed:P20312>Nemesis</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Nemesis (Christie, Agatha)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/177374432"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/180572444/exp/eng/1020">
       <rdaed:P20312>Why didn't they ask Evans?</rdaed:P20312>
@@ -928,6 +968,14 @@
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/181004220"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/182019214/exp/eng/1020">
+      <rdaed:P20312>A Caribbean mystery</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>A Caribbean mystery (Christie, Agatha)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/182019214"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/1846151051771433530005/exp/eng/1020">
       <rdaed:P20316>The murder at the vicarage</rdaed:P20316>
@@ -962,6 +1010,14 @@
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/185057844"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/186075806/exp/eng/1020">
+      <rdaed:P20312>They do it with mirrors</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>They do it with mirrors (Christie, Agatha)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/186075806"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/186192338/exp/eng/1020">
       <rdaed:P20312>Hollow</rdaed:P20312>
@@ -1471,11 +1527,34 @@
       <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>The murder at the vicarage ; : The mirror crack'd from side to side : a Miss Marple duo</rdaed:P20312>
       <rdfs:label>The murder at the vicarage ; (Christie, Agatha)</rdfs:label>
+      <rdaed:P20071>Murder at the vicarage -- Mirror crack'd from side to side</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="https://isni.org/isni/0000000121022127/missmarpleduo"/>
       <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/1846151051771433530005/exp/eng/1020"/>
       <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/308553963/exp/eng/1020"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://isni.org/isni/0000000121022127/missmarpleomnibus/exp/eng/1020">
+      <rdaed:P20316>Miss Marple omnibus</rdaed:P20316>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>Miss Marple omnibus</rdaed:P20312>
+      <rdfs:label>Miss Marple omnibus (Christie, Agatha)</rdfs:label>
+      <rdaed:P20071>The body in the library -- The moving finger -- A murder is announced -- 4.50 from Paddington -- A Caribbean mystery -- A pocket full of Rye -- The mirror cracked from side to side -- They do it with mirrors -- Nemesis -- Sleeping murder -- At Bertram's hotel -- The murder at the vicarage</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="https://isni.org/isni/0000000121022127/missmarpleomnibus"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/184645888/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/310912134/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/181004220/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/176021540/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/182019214/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/780165573946837800003/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/308553963/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/186075806/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/177374432/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/740147270586435700009/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/7037151474835800490008/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/1846151051771433530005/exp/eng/1020"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000121022127/missmarplequartet/exp/eng/1020">
       <rdaed:P20316>A Miss Marple quartet</rdaed:P20316>
@@ -1494,9 +1573,10 @@
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000121022127/missmarplequintet/exp/eng/1020">
       <rdaed:P20316>A Miss Marple quintet</rdaed:P20316>
       <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>A Miss Marple quintet</rdaed:P20312>
+      <rdfs:label>A Miss Marple quintet (Christie, Agatha)</rdfs:label>
       <rdaed:P20071>The murder at the vicarage - A murder is announced - A pocket full of rye - The mirror crack'd from side to side - At Bertram's Hotel</rdaed:P20071>
       <rdaed:P20315>A Miss Marple quintet</rdaed:P20315>
-      <rdfs:label>A Miss Marple quintet (Christie, Agatha)</rdfs:label>
       <rdfs:label>A Miss Marple quintet</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
@@ -1755,6 +1835,28 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/181004220/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/780165573946837800003/exp/eng/1020"/>
    </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0002444909">
+      <rdamd:P30004>ISBN 0002444909</rdamd:P30004>
+      <rdaxd:P00018>isbn-0002444909</rdaxd:P00018>
+      <rdfs:label>ISBN0002444909</rdfs:label>
+      <rdamd:P30156>A Miss Marple quintet</rdamd:P30156>
+      <rdamd:P30117>Agatha Christie</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Collins, 1978.</rdamd:P30111>
+      <rdamd:P30083>Collins</rdamd:P30083>
+      <rdamd:P30011>1978</rdamd:P30011>
+      <rdamd:P30182>901p, 23cm.</rdamd:P30182>
+      <rdamd:P30106>Collins collector's choice</rdamd:P30106>
+      <rdamd:P30033>The murder at the vicarage - A murder is announced - A pocket full of rye - The mirror crack'd from side to side - At Bertram's Hotel</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="https://isni.org/isni/0000000121022127/missmarplequintet/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1846151051771433530005/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/181004220/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/780165573946837800003/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/308553963/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7037151474835800490008/exp/eng/1020"/>
+   </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0002446855">
       <rdamd:P30004>ISBN 0002446855</rdamd:P30004>
       <rdaxd:P00018>isbn-0002446855</rdaxd:P00018>
@@ -1855,6 +1957,40 @@
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1097151656348508400001/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0006499597">
+      <rdamd:P30004>ISBN 0006499597</rdamd:P30004>
+      <rdaxd:P00018>isbn-0006499597</rdaxd:P00018>
+      <rdfs:label>ISBN0006499597</rdfs:label>
+      <rdamd:P30004>ISBN 0006499600</rdamd:P30004>
+      <rdaxd:P00018>isbn-0006499600</rdaxd:P00018>
+      <rdfs:label>ISBN0006499600</rdfs:label>
+      <rdamd:P30004>ISBN 0006499619</rdamd:P30004>
+      <rdaxd:P00018>isbn-0006499619</rdaxd:P00018>
+      <rdfs:label>ISBN0006499619</rdfs:label>
+      <rdamd:P30156>Miss Marple omnibus</rdamd:P30156>
+      <rdamd:P30117>Agatha Christie</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : HarperCollins, 1997.</rdamd:P30111>
+      <rdamd:P30083>HarperCollins</rdamd:P30083>
+      <rdamd:P30011>1997</rdamd:P30011>
+      <rdamd:P30182>717,654,694p, 20cm.</rdamd:P30182>
+      <rdamd:P30033>The body in the library -- The moving finger -- A murder is announced -- 4.50 from Paddington -- A Caribbean mystery -- A pocket full of Rye -- The mirror cracked from side to side -- They do it with mirrors -- Nemesis -- Sleeping murder -- At Bertram's hotel -- The murder at the vicarage</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="https://isni.org/isni/0000000121022127/missmarpleomnibus/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/184645888/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/310912134/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/181004220/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/176021540/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/182019214/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/780165573946837800003/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/308553963/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/186075806/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/177374432/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/740147270586435700009/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7037151474835800490008/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1846151051771433530005/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0007119321">
       <rdamd:P30004>ISBN 0007119321 (pbk)</rdamd:P30004>
@@ -2234,6 +2370,7 @@
       <rdamd:P30011>1983</rdamd:P30011>
       <rdamd:P30182>380 p., 23 cm.</rdamd:P30182>
       <rdamd:P30137>The mirror crack'd from side to side originally published: London : Collins, 1962.</rdamd:P30137>
+      <rdamd:P30033>Murder at the vicarage -- Mirror crack'd from side to side</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="https://isni.org/isni/0000000121022127/missmarpleduo/exp/eng/1020"/>

@@ -5681,6 +5681,21 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/176021540"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Novel"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/181004220"
                 },
                 "label": {
@@ -5757,6 +5772,36 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/780165573946837800003"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Novel"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/177374432"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Novel"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/186075806"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -29660,7 +29705,7 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "standalone"
+                    "value": "part, standalone"
                 }
             },
             {
@@ -29802,6 +29847,66 @@
                 "entity": {
                     "type": "uri",
                     "value": "https://isni.org/isni/0000000121022127/missmarplequintet/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "aggregate"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/177374432/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "part"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/182019214/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "part"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/186075806/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "part"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000121022127/missmarpleomnibus/exp/eng/1020"
                 },
                 "label": {
                     "xml:lang": "gden",

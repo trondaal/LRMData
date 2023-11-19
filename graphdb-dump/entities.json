@@ -11087,6 +11087,50 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/177374432"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Work"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/182019214"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Work"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/186075806"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Work"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000121022127/missmarpleomnibus"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Work"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/66142208"
                 },
                 "label": {
@@ -37873,6 +37917,50 @@
                 "entity": {
                     "type": "uri",
                     "value": "https://isni.org/isni/0000000121022127/missmarplequintet/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/177374432/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/182019214/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/186075806/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000121022127/missmarpleomnibus/exp/eng/1020"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -67155,6 +67243,28 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://example.org/isbn-0907486398"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Manifestation"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0002444909"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Manifestation"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0006499597"
                 },
                 "label": {
                     "xml:lang": "gden",

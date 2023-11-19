@@ -4,7 +4,7 @@ VBINF6000 rapport over datasamling - oppdatert 24/10 2023
 -------------------------------------------------------
 
 
-Antall poster i samlingen:47
+Antall poster i samlingen:48
 -------------------------------------------------------
 
 
@@ -62,14 +62,17 @@ Verk identifisert med URI
 * http://viaf.org/viaf/174408071 = Hercule Poirot's Christmas. (Language-based work)
 * http://viaf.org/viaf/174556225 = Room 13. (Language-based work)
 * http://viaf.org/viaf/174999513 = Cat among the pigeons. (Language-based work)
-* http://viaf.org/viaf/176021540 = 4:50 from Paddington 
+* http://viaf.org/viaf/176021540 = 4:50 from Paddington / 4.50 from Paddington 
 * http://viaf.org/viaf/176364162 = Secret adversary. (Language-based work)
+* http://viaf.org/viaf/177374432 = Nemesis 
 * http://viaf.org/viaf/180572444 = Why didn't they ask Evans?. (Language-based work)
 * http://viaf.org/viaf/181004220 = A murder is announced 
+* http://viaf.org/viaf/182019214 = A Caribbean mystery 
 * http://viaf.org/viaf/1846151051771433530005 = The murder at the vicarage / / The murder at the vicarage (Language-based work)
 * http://viaf.org/viaf/184645888 = The body in the library 
 * http://viaf.org/viaf/184807703 = Evil under the sun. (Language-based work)
 * http://viaf.org/viaf/185057844 = Thirty-nine steps. (Language-based work)
+* http://viaf.org/viaf/186075806 = They do it with mirrors 
 * http://viaf.org/viaf/186192338 = Hollow. (Language-based work)
 * http://viaf.org/viaf/1868153954866905680001 = Reflecting on Miss Marple 
 * http://viaf.org/viaf/205790185 = Whose body?. (Language-based work)
@@ -121,6 +124,7 @@ Verk identifisert med URI
 * https://isni.org/isni/0000000121022127/herculepoirot = Hercule Poirot (Language-based work)
 * https://isni.org/isni/0000000121022127/herculepoirotatlarge = Hercule Poirot at large (Language-based work)
 * https://isni.org/isni/0000000121022127/missmarpleduo = A Miss Marple duo 
+* https://isni.org/isni/0000000121022127/missmarpleomnibus = Miss Marple omnibus 
 * https://isni.org/isni/0000000121022127/missmarplequartet = A Miss Marple quartet 
 * https://isni.org/isni/0000000121022127/missmarplequintet = A Miss Marple quintet 
 * https://isni.org/isni/0000000121022127/murderstodiefrom = Murders to die for (Language-based work)
@@ -144,7 +148,7 @@ verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 * http://rdaregistry.info/Elements/w/object/P10013 (has film director agent) : 3 
 * http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work) : 2 
 * http://rdaregistry.info/Elements/w/object/P10058 (has artist agent) : 4 
-* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 43 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 44 
 * http://rdaregistry.info/Elements/w/object/P10437 (has creator person of work) : 1 
 * https://id.nb.no/vocabulary/perfrel/1 () : 1 
 
@@ -206,7 +210,7 @@ Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke an
 * http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Poirot, Hercule (600)
 001 = 991938873804341, A Miss Marple quartet / Christie, Agatha, /  
 * http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Marple, Jane (600)
-001 = 991942003804341, A Miss Marple quintet / Christie, Agatha, /  
+001 = 991942003804341, A Miss Marple quintet / Christie, Agatha /  
 * http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Marple, Jane (600)
 001 = 991962823804341, Sleeping murder / Christie, Agatha, /  
 * http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Marple, Jane (600)
@@ -220,6 +224,8 @@ Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke an
 * http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Marple, Jane (600)
 001 = 9912313443804341, Agatha Christie's Miss Marple : the life and times of Miss Jane Marple / Hart, Anne /  
 * http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Christie, Agatha, (600)
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Marple, Jane (600)
+001 = 994016453804341, Miss Marple omnibus / Christie, Agatha, /  
 * http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Marple, Jane (600)
 001 = 9914538723804341, A Miss Marple duo / Christie, Agatha, /  
 * http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Marple, Jane (600)
