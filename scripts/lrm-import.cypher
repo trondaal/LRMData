@@ -5,7 +5,6 @@ MATCH (n:Concept)
 DETACH DELETE n;
 
 DROP INDEX expressions;
-DROP INDEX works;
 DROP INDEX resource_uri;
 
 CREATE INDEX resource_uri FOR (n:Resource) ON n.uri;
