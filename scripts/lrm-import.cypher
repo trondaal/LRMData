@@ -9,8 +9,8 @@ DROP INDEX works;
 DROP INDEX resource_uri;
 
 CREATE INDEX resource_uri FOR (n:Resource) ON n.uri;
-CREATE FULLTEXT INDEX expressions FOR (n:Expression) ON EACH [n.title, n.titles, n.titlevariant, n.titlepreferred, n.contentsnote, n.names, n.form, n.types, n.uris, n.ids, n.language, n.content];
-CREATE FULLTEXT INDEX works FOR (n:Work) ON EACH [n.title, n.titles, n.titlevariant, n.titlepreferred, n.names, n.types, n.form];
+CREATE FULLTEXT INDEX expressions FOR (n:Expression) ON EACH [n.title, n.titles, n.titlevariant, n.titlepreferred, n.contentsnote, n.creators, n.form, n.types, n.uris, n.ids, n.language, n.content, n.subject];
+CREATE FULLTEXT INDEX works FOR (n:Work) ON EACH [n.title, n.titles, n.titlevariant, n.titlepreferred, n.creators, n.types, n.form];
 
 WITH "entities.json" AS url
 CALL apoc.load.json(url) YIELD value
@@ -129,37 +129,31 @@ YIELD node
 RETURN node;
 
 MATCH (r:Resource)
-SET r += {titles: '', names: '', types: '', uris: '', ids: '', language: '', content: ''};
+SET r += {titles: '', creators: '', types: '', uris: '', ids: '', language: '', content: '', subjects: ''};
 
 //UPDATE FIELDS FOR FULLTEXT INDEXING OF NODES
 
-//NAMES
+//creators
 MATCH (e:Expression)-[:CREATOR]-(a:Agent) where a.name IS NOT NULL
-set e.names = e.names + a.name + " : ";
+set e.creators = e.creators + a.name + " : ";
 
 MATCH (e:Expression)-[:REALIZES]-(w:Work)-[:CREATOR]-(a:Agent) where a.name IS NOT NULL
-set e.names = e.names + a.name + " : ";
+set e.creators = e.creators + a.name + " : ";
 
 MATCH (e:Expression)-[:EMBODIES]-(m:Manifestation)-[:CREATOR]-(a:Agent) where a.name IS NOT NULL
-set e.names = e.names + a.name + " : ";
-
-MATCH (e:Expression)-[:REALIZES]-(w:Work)-[:SUBJECT]-(a:Agent) where a.name IS NOT NULL
-set e.names = e.names + a.name + " : ";
-
-MATCH (e:Expression)-[:REALIZES]-(w:Work)-[:SUBJECT]-(a:Agent) where a.variantname IS NOT NULL
-set e.names = e.names + a.variantname + " : ";
+set e.creators = e.creators + a.name + " : ";
 
 MATCH (e:Expression)-[:REALIZES]-(w:Work)-[:RELATED]->(:Work)-[:CREATOR]-(a:Agent) where a.name IS NOT NULL
-set e.names = e.names + a.name + " : ";
+set e.creators = e.creators + a.name + " : ";
 
 MATCH (e:Expression)-[:REALIZES]-(w:Work)-[:PARTOF]-(:Work)-[:CREATOR]-(a:Agent) where a.name IS NOT NULL
-set e.names = e.names + a.name + " : ";
+set e.creators = e.creators + a.name + " : ";
 
 MATCH (e:Expression)-[:PARTOF]-(:Expression)-[:CREATOR]-(a:Agent) where a.name IS NOT NULL
-set e.names = e.names + a.name + " : ";
+set e.creators = e.creators + a.name + " : ";
 
 MATCH (e:Expression)-[:RELATED]-(:Expression)-[:CREATOR]-(a:Agent) where a.name IS NOT NULL
-set e.names = e.names + a.name + " : ";
+set e.creators = e.creators + a.name + " : ";
 
 
 //TITLES
@@ -167,7 +161,7 @@ MATCH (e:Expression)-[:REALIZES]-(w:Work) where w.title IS NOT NULL
 set e.titles = e.titles + w.title + " : ";
 
 MATCH (e:Expression)-[:REALIZES]-(w:Work) where w.name IS NOT NULL
-set e.names = e.names + w.name + " : ";
+set e.creators = e.creators + w.name + " : ";
 
 //MATCH (e:Expression)-[:EMBODIES]-(m:Manifestation) where m.title IS NOT NULL
 //set e.titles = e.titles + m.title + " : ";
@@ -195,6 +189,16 @@ set e.titles = e.titles + w.title + " : ";
 
 MATCH (e:Expression)-[:REALIZES]-(:Work)-[:PARTOF]-(w:Work) where w.title IS NOT NULL
 set e.titles = e.titles + w.title + " : ";
+
+//SUBJECTS
+MATCH (e:Expression)-[:REALIZES]-(w:Work)-[:SUBJECT]-(s:Agent) where s.name IS NOT NULL
+set e.subjects = e.subjects + s.name + " : ";
+
+MATCH (e:Expression)-[:REALIZES]-(w:Work)-[:SUBJECT]-(s:Agent) where s.variantname IS NOT NULL
+set e.subjects = e.subjects + s.variantname + " : ";
+
+MATCH (e:Expression)-[:REALIZES]-(w:Work)-[:SUBJECT]-(s:Agent) where s.subject IS NOT NULL
+set e.subjects = e.subjects + s.title + " : ";
 
 
 //FORM, TYPE AND LANGUAGE
@@ -243,54 +247,54 @@ set e.ids = e.ids + a.id + " : ";
 MATCH (e:Expression)
 set e.random = toInteger(rand() * (1000));
 
-//NAMES FOR INDEXING WORKS
+//creators FOR INDEXING WORKS
 MATCH (w:Work)-[:CREATOR]-(a:Agent) where a.name IS NOT NULL
 WITH w, a,
 CASE
-    WHEN w.names IS NULL then a.name
-    ELSE w.names + " : " + a.name
-END AS names
-set w.names = names;
+    WHEN w.creators IS NULL then a.name
+    ELSE w.creators + " : " + a.name
+END AS creators
+set w.creators = creators;
 
 MATCH (w:Work)<-[:REALIZES]-(e:Expression)-[:CREATOR]-(a:Agent) where a.name IS NOT NULL
 WITH w, a,
 CASE
-    WHEN w.names IS NULL then a.name
-    ELSE w.names + " : " + a.name
-END AS names
-set w.names = names;
+    WHEN w.creators IS NULL then a.name
+    ELSE w.creators + " : " + a.name
+END AS creators
+set w.creators = creators;
 
 MATCH (w:Work)<-[:REALIZES]-(e:Expression)-[:EMBODIES]-(m:Manifestation)-[:CREATOR]-(a:Agent) where a.name IS NOT NULL
 WITH w, a,
 CASE
-    WHEN w.names IS NULL then a.name
-    ELSE w.names + " : " + a.name
-END AS names
-set w.names = names;
+    WHEN w.creators IS NULL then a.name
+    ELSE w.creators + " : " + a.name
+END AS creators
+set w.creators = creators;
 
 MATCH (w:Work)-[:SUBJECT]-(a:Agent) where a.name IS NOT NULL
 WITH w, a,
 CASE
-    WHEN w.names IS NULL then a.name
-    ELSE w.names + " : " + a.name
-END AS names
-set w.names = names;
+    WHEN w.creators IS NULL then a.name
+    ELSE w.creators + " : " + a.name
+END AS creators
+set w.creators = creators;
 
 MATCH (w:Work)-[:RELATED]->(:Work)-[:CREATOR]-(a:Agent) where a.name IS NOT NULL
 WITH w, a,
 CASE
-    WHEN w.names IS NULL then a.name
-    ELSE w.names + " : " + a.name
-END AS names
-set w.names = names;
+    WHEN w.creators IS NULL then a.name
+    ELSE w.creators + " : " + a.name
+END AS creators
+set w.creators = creators;
 
 MATCH (w:Work)-[:PARTOF]-(:Work)-[:CREATOR]-(a:Agent) where a.name IS NOT NULL
 WITH w, a,
 CASE
-    WHEN w.names IS NULL then a.name
-    ELSE w.names + " : " + a.name
-END AS names
-set w.names = names;
+    WHEN w.creators IS NULL then a.name
+    ELSE w.creators + " : " + a.name
+END AS creators
+set w.creators = creators;
 
 //TITLES FOR INDEXING WORKS
 MATCH (w:Work)<-[:REALIZES]-(e:Expression ) where e.titlepreferred IS NOT NULL
