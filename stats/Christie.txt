@@ -4,7 +4,7 @@ VBINF6000 rapport over datasamling - oppdatert 24/10 2023
 -------------------------------------------------------
 
 
-Antall poster i samlingen:36
+Antall poster i samlingen:47
 -------------------------------------------------------
 
 
@@ -21,7 +21,7 @@ Agenter identifisert med URI
 * https://isni.org/isni/0000000114794233 (700) : Branagh, Kenneth
 * http://viaf.org/viaf/66464527 (700) : Buchan, John
 * https://www.imdb.com/name/nm0144045 (700) : Cassel, Jean Pierre
-* https://isni.org/isni/0000000121022127 (100) : Christie, Agatha
+* https://isni.org/isni/0000000121022127 (100, 600) : Christie, Agatha
 * https://www.imdb.com/name/nm0000125 (700) : Connery, Sean
 * https://www.imdb.com/name/nm0004851 (700) : Cruz, Penélope
 * https://www.imdb.com/name/nm0000353 (700) : Dafoe, Willem
@@ -29,13 +29,17 @@ Agenter identifisert med URI
 * https://www.imdb.com/name/nm0000136 (700) : Depp, Johnny
 * http://viaf.org/viaf/299042726 (100) : Douglas, Traci L
 * https://www.imdb.com/name/nm0001215 (700) : Finney, Albert
+* http://viaf.org/viaf/79360006 (100) : Hart, Anne
 * https://isni.org/isni/0000000361531262 (700) : Larssen, Christian
 * https://www.imdb.com/name/nm0001486 (700) : Lumet, Sidney
+* http://viaf.org/viaf/20152329368502672984 (600) : Marple, Jane
 * https://isni.org/isni/0000000365729866/trio (100) : Per Einar Watle Trio
 * http://viaf.org/viaf/22943082 (600) : Poirot, Hercule
 * http://viaf.org/viaf/34462302 (100) : Rivière, François
 * http://viaf.org/viaf/29540426 (700) : Sayers, Dorothy L
+* http://viaf.org/viaf/4976740 (100) : Shaw, Marion
 * https://isni.org/isni/0000000368604401 (700) : Solidor
+* http://viaf.org/viaf/15449889 (700) : Vanacker, Sabine
 * http://viaf.org/viaf/76323989 (700) : Verne, Jules
 * http://viaf.org/viaf/56617609 (700) : Wallace, Edgar
 * https://isni.org/isni/0000000365729866 (700) : Watle, Per Einar
@@ -44,43 +48,42 @@ Agenter identifisert med URI
 Agent-innførsler som IKKE er identifiser med URI i $1
 men dere velger selv hvilke agenter som skal være med
 -------------------------------------------------------
-* 600  10  $aMarple, Jane  $c(Fictitious character)  $vFiction.
-* 600  10  $aPoirot, Hercule  $c(Fictitious character)  $vFiction.
-* 600  10  $aPoirot, Hercule  $c(Fictitious character)  $vFiction.
+* 600  10  $aChristie, Agatha,  $d1890-1976  $xCharacters  $xMiss Marple.
 * 600  17  $aPoirot, Hercule  $c(Fictitious character)  $0(OCoLC)fst01068127 $2fast
 * 600  10  $aPoirot, Hercule  $c(Fictitious character)  $vFiction.
-* 600  10  $aPoirot, Hercule  $c(Fictitious character)  $vComic books, strips, etc.  $vFiction.
-* 600  10  $aPoirot, Hercule  $c(Fictitious character)  $vFiction.
-* 600  10  $aPoirot, Hercule  $c(Fictitious character)  $vFiction.
-* 600  10  $aPoirot, Hercule  $c(Fictitious character)  $vFiction.
-* 600  10  $aPoirot, Hercule  $c(Fictitious character)  $vFiction.
-* 600  10  $aPoirot, Hercule  $c(Fictitious character)
 * 710  2#  $aPer Einar Watle Trio  $4https://id.nb.no/vocabulary/perfrel/1
 
 
 Verk identifisert med URI
 -------------------------------------------------------
 * http://viaf.org/viaf/1009145424587286830098 = Mystery of the blue train. (Language-based work)
+* http://viaf.org/viaf/1097151656348508400001 = Agatha Christie's Miss Marple : the life and times of Miss Jane Marple 
 * http://viaf.org/viaf/12155103895976200651 = Murder in Mesopotamia. / Murder in Mesopotamia (Language-based work)
 * http://viaf.org/viaf/174408071 = Hercule Poirot's Christmas. (Language-based work)
 * http://viaf.org/viaf/174556225 = Room 13. (Language-based work)
 * http://viaf.org/viaf/174999513 = Cat among the pigeons. (Language-based work)
+* http://viaf.org/viaf/176021540 = 4:50 from Paddington 
 * http://viaf.org/viaf/176364162 = Secret adversary. (Language-based work)
 * http://viaf.org/viaf/180572444 = Why didn't they ask Evans?. (Language-based work)
+* http://viaf.org/viaf/181004220 = A murder is announced 
 * http://viaf.org/viaf/1846151051771433530005 = The murder at the vicarage / / The murder at the vicarage (Language-based work)
+* http://viaf.org/viaf/184645888 = The body in the library 
 * http://viaf.org/viaf/184807703 = Evil under the sun. (Language-based work)
 * http://viaf.org/viaf/185057844 = Thirty-nine steps. (Language-based work)
 * http://viaf.org/viaf/186192338 = Hollow. (Language-based work)
+* http://viaf.org/viaf/1868153954866905680001 = Reflecting on Miss Marple 
 * http://viaf.org/viaf/205790185 = Whose body?. (Language-based work)
 * http://viaf.org/viaf/217048217 = Murder of Roger Ackroyd. (Language-based work)
 * http://viaf.org/viaf/228691003 = Mysterious affair at Styles. (Language-based work)
 * http://viaf.org/viaf/298756107 = Sphinx des glaces. (Language-based work)
 * http://viaf.org/viaf/299042726/classictales = Classic tales of mystery (Language-based work)
 * http://viaf.org/viaf/308552019 = ABC murders. (Language-based work)
+* http://viaf.org/viaf/308553963 = The mirror crack'd from side to side / Mirror crack'd from side to side. 
 * http://viaf.org/viaf/309258229 = Death on the Nile / Death on the Nile. (Language-based work)
 * http://viaf.org/viaf/309260721 = Secret of Chimneys. / Secret of chimneys. (Language-based work)
-* http://viaf.org/viaf/309261613 = Murder is easy. (Language-based work)
+* http://viaf.org/viaf/309261613 = Murder is easy. / Murder is easy (Language-based work)
 * http://viaf.org/viaf/310911986 = Cards on the table 
+* http://viaf.org/viaf/310912134 = The moving finger 
 * http://viaf.org/viaf/310912914 = Appointment with death / Appointment with death. (Language-based work)
 * http://viaf.org/viaf/310915681 = Sittaford mystery. (Language-based work)
 * http://viaf.org/viaf/312333230 = Man in the brown suit. (Language-based work)
@@ -91,8 +94,10 @@ Verk identifisert med URI
 * http://viaf.org/viaf/34462302/orient = Crime de l'Orient-Express 
 * http://viaf.org/viaf/5243165573959737800001 = Murder on the links. / The murder on the links (Language-based work)
 * http://viaf.org/viaf/638145424602986831437 = The labours of Hercules. 
+* http://viaf.org/viaf/7037151474835800490008 = At Bertram's Hotel 
 * http://viaf.org/viaf/73145424522186831318 = Death in the clouds / Death in the clouds. (Language-based work)
 * http://viaf.org/viaf/740147270586435700009 = Sleeping murder (Language-based work)
+* http://viaf.org/viaf/780165573946837800003 = A pocket full of rye 
 * http://viaf.org/viaf/8172154501923039210006 = Death comes as the end (Language-based work)
 * http://viaf.org/viaf/8905164661901103390006 = The hound of death, and other stories (Language-based work)
 * http://viaf.org/viaf/8905164661901103390006/02 = The Red Signal (Language-based work)
@@ -115,6 +120,9 @@ Verk identifisert med URI
 * https://isni.org/isni/0000000121022127/frenchcollection = Poirot : the French collection (Language-based work)
 * https://isni.org/isni/0000000121022127/herculepoirot = Hercule Poirot (Language-based work)
 * https://isni.org/isni/0000000121022127/herculepoirotatlarge = Hercule Poirot at large (Language-based work)
+* https://isni.org/isni/0000000121022127/missmarpleduo = A Miss Marple duo 
+* https://isni.org/isni/0000000121022127/missmarplequartet = A Miss Marple quartet 
+* https://isni.org/isni/0000000121022127/missmarplequintet = A Miss Marple quintet 
 * https://isni.org/isni/0000000121022127/murderstodiefrom = Murders to die for (Language-based work)
 * https://isni.org/isni/0000000121022127/omnibus/1920s/1 = Agatha Christie omnibus : 1920s. (Language-based work)
 * https://isni.org/isni/0000000121022127/omnibus/1920s/2 = Agatha Christie omnibus : 1920s. (Language-based work)
@@ -136,7 +144,7 @@ verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 * http://rdaregistry.info/Elements/w/object/P10013 (has film director agent) : 3 
 * http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work) : 2 
 * http://rdaregistry.info/Elements/w/object/P10058 (has artist agent) : 4 
-* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 31 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 43 
 * http://rdaregistry.info/Elements/w/object/P10437 (has creator person of work) : 1 
 * https://id.nb.no/vocabulary/perfrel/1 () : 1 
 
@@ -150,8 +158,15 @@ Verk til verk RDA relasjonstyper i 700 og 758 $4-subfelt + label fra RDA registr
 
 Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke analytter)
 -------------------------------------------------------
+001 = 019476843, Murder on the Orient Express / Christie, Agatha, /  
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Poirot, Hercule (600)
+001 = 019014638, Murder on the Orient Express / Christie, Agatha, /  
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Poirot, Hercule (600)
+001 = 016448168, Murder on the Orient Express / Christie, Agatha, /  
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Poirot, Hercule (600)
 001 = 013650155, Crime de l'Orient-Express / Rivière, François, /  
 * http://rdaregistry.info/Elements/w/object/P10252 (is graphic novelization of work) -> Murder on the Orient Express. / Christie, Agatha, (700)
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Poirot, Hercule (600)
 001 = xxxxxxxxx1111, Murder on the Orient Express: The Graphic Novel / Al-Greene, Bob /  
 * http://rdaregistry.info/Elements/w/object/P10252 (is graphic novelization of work) -> Murder on the Orient Express. / Christie, Agatha, (700)
 001 = 019181043, Murder on the Orient Express / Bennett, Richard Rodney. /  
@@ -177,3 +192,41 @@ Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke an
 * http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Poirot, Hercule (600)
 001 = 016448166, Hercule Poirot / Christie, Agatha, / Language-based work 
 * http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Poirot, Hercule (600)
+001 = 018036731, The murder at the vicarage / / Christie, Agatha, / Language-based work 
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Marple, Jane (600)
+001 = 009730474, The murder at the vicarage / / Christie, Agatha, / Language-based work 
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Marple, Jane (600)
+001 = 009379834, Appointment with death / Christie, Agatha, / Language-based work 
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Poirot, Hercule (600)
+001 = 015589621, Appointment with death / Christie, Agatha, / Language-based work 
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Poirot, Hercule (600)
+001 = 020377385, Death on the Nile / Christie, Agatha, / Language-based work 
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Poirot, Hercule (600)
+001 = 017093510, Death in the clouds / Christie, Agatha, / Language-based work 
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Poirot, Hercule (600)
+001 = 991938873804341, A Miss Marple quartet / Christie, Agatha, /  
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Marple, Jane (600)
+001 = 991942003804341, A Miss Marple quintet / Christie, Agatha, /  
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Marple, Jane (600)
+001 = 991962823804341, Sleeping murder / Christie, Agatha, /  
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Marple, Jane (600)
+001 = 9913177823804341, Sleeping murder / Christie, Agatha, /  
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Marple, Jane (600)
+001 = 993999773804341, Agatha Christie's Miss Marple : the life and times of Miss Jane Marple / Hart, Anne /  
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Christie, Agatha, (600)
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Marple, Jane (600)
+001 = 9918105273804341, Agatha Christie's Miss Marple : the life and times of Miss Jane Marple / Hart, Anne /  
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Christie, Agatha, (600)
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Marple, Jane (600)
+001 = 9912313443804341, Agatha Christie's Miss Marple : the life and times of Miss Jane Marple / Hart, Anne /  
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Christie, Agatha, (600)
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Marple, Jane (600)
+001 = 9914538723804341, A Miss Marple duo / Christie, Agatha, /  
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Marple, Jane (600)
+001 = 9918283763804341, Reflecting on Miss Marple / Shaw, Marion /  
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Christie, Agatha, (600)
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Marple, Jane (600)
+001 = 9920632893804341, 4:50 from Paddington / Christie, Agatha, /  
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Marple, Jane (600)
+001 = 99116588027704341, The mirror crack'd from side to side / Christie, Agatha, /  
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Marple, Jane (600)

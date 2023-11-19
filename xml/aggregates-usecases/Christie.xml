@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <collection xmlns="http://www.loc.gov/MARC21/slim"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
     <!-- Murder on the orient expressm Novel -->
     <record>
         <leader>00859nam a22002778i 4500</leader>
@@ -70,6 +70,7 @@
             <subfield code="a">Poirot, Hercule</subfield>
             <subfield code="c">(Fictitious character)</subfield>
             <subfield code="v">Fiction.</subfield>
+            <subfield code="1">http://viaf.org/viaf/22943082</subfield>
         </datafield>
     </record>
     <record>
@@ -138,6 +139,7 @@
             <subfield code="a">Poirot, Hercule</subfield>
             <subfield code="c">(Fictitious character)</subfield>
             <subfield code="v">Fiction.</subfield>
+            <subfield code="1">http://viaf.org/viaf/22943082</subfield>
         </datafield>
         <datafield tag="600" ind1="1" ind2="7">
             <subfield code="a">Poirot, Hercule</subfield>
@@ -217,6 +219,7 @@
             <subfield code="a">Poirot, Hercule</subfield>
             <subfield code="c">(Fictitious character)</subfield>
             <subfield code="v">Fiction.</subfield>
+            <subfield code="1">http://viaf.org/viaf/22943082</subfield>
         </datafield>
     </record>
     <!-- Adaptation of murder on the orient express -->
@@ -307,6 +310,7 @@
             <subfield code="c">(Fictitious character)</subfield>
             <subfield code="v">Comic books, strips, etc.</subfield>
             <subfield code="v">Fiction.</subfield>
+            <subfield code="1">http://viaf.org/viaf/22943082</subfield>
         </datafield>
         <datafield tag="700" ind1="0" ind2=" ">
             <subfield code="a">Solidor,</subfield>
@@ -415,11 +419,6 @@
             <subfield code="b">Faber Music</subfield>
             <subfield code="q">(Engraving ID)</subfield>
         </datafield>
-        <datafield tag="040" ind1=" " ind2=" ">
-            <subfield code="a">Uk</subfield>
-            <subfield code="b">eng</subfield>
-            <subfield code="c">Uk</subfield>
-        </datafield>
         <datafield tag="082" ind1="1" ind2="4">
             <subfield code="a">780</subfield>
             <subfield code="2">15</subfield>
@@ -477,16 +476,6 @@
         <datafield tag="588" ind1=" " ind2=" ">
             <subfield code="a">Description based on publisher metadata.</subfield>
         </datafield>
-        <datafield tag="655" ind1=" " ind2="7">
-            <subfield code="a">Instrumental music.</subfield>
-            <subfield code="2">fast</subfield>
-            <subfield code="0">(OCoLC)fst01726652</subfield>
-        </datafield>
-        <datafield tag="655" ind1=" " ind2="7">
-            <subfield code="a">Motion picture music.</subfield>
-            <subfield code="2">fast</subfield>
-            <subfield code="0">(OCoLC)fst01726674</subfield>
-        </datafield>
         <datafield ind1="1" ind2="0" tag="758">
             <subfield code="a">Murder on the Orient Express</subfield>
             <subfield code="k">Movie</subfield>
@@ -501,10 +490,6 @@
         <controlfield tag="008">930308s1974    enk||| ||||||||||       |</controlfield>
         <datafield tag="019" ind1="d" ind2=" ">
             <subfield code="a">ag03270060</subfield>
-        </datafield>
-        <datafield tag="040" ind1=" " ind2=" ">
-            <subfield code="a">Uk</subfield>
-            <subfield code="c">Uk</subfield>
         </datafield>
         <datafield tag="082" ind1="1" ind2="4">
             <subfield code="a">780</subfield>
@@ -555,7 +540,7 @@
         </datafield>
     </record>
     <!-- Innspilling -->
-    <record xmlns="http://www.loc.gov/MARC21/slim">
+    <record>
         <leader>00000njm a22     7c 4500</leader>
         <controlfield tag="001">999921937688802201</controlfield>
         <controlfield tag="007">cr||||||||||||</controlfield>
@@ -567,11 +552,6 @@
         <datafield ind1="0" ind2="3" tag="028">
             <subfield code="a">CSSE 04</subfield>
             <subfield code="b">CSSE Records</subfield>
-        </datafield>
-        <datafield ind1=" " ind2=" " tag="040">
-            <subfield code="b">nob</subfield>
-            <subfield code="d">NO-OsNB</subfield>
-            <subfield code="e">rda</subfield>
         </datafield>
         <datafield tag="100" ind1="1" ind2=" ">
             <subfield code="a">Per Einar Watle Trio</subfield>
@@ -740,8 +720,6 @@
             <subfield code="w">991006639664702201</subfield>
         </datafield>
     </record>-->
-    
-    
     <!-- Murder on the orient express movies -->
     <record>
         <leader>01140ngm a2200253 u 4500</leader>
@@ -864,11 +842,6 @@
             <subfield code="1">http://viaf.org/viaf/316741387</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10129</subfield>
         </datafield>
-        <datafield ind1="0" ind2="1" tag="852">
-            <subfield code="a">47BIBSYS_HH</subfield>
-            <subfield code="6">999919870634102214</subfield>
-            <subfield code="9">P</subfield>
-        </datafield>
     </record>
     <record>
         <leader>01345ngm a2200325 c 4500</leader>
@@ -878,14 +851,6 @@
         <controlfield tag="008">200213s2008    no ||| |     |    v|eng|c</controlfield>
         <datafield tag="024" ind1="3" ind2=" ">
             <subfield code="a">5050582555363</subfield>
-        </datafield>
-        <datafield tag="035" ind1=" " ind2=" ">
-            <subfield code="a">(EXLNZ-47BIBSYS_NETWORK)999921020274902201</subfield>
-        </datafield>
-        <datafield tag="040" ind1=" " ind2=" ">
-            <subfield code="a">NO-TrBIB</subfield>
-            <subfield code="b">nob</subfield>
-            <subfield code="e">rda</subfield>
         </datafield>
         <datafield tag="041" ind1="0" ind2=" ">
             <subfield code="j">swe</subfield>
@@ -983,7 +948,7 @@
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10129</subfield>
         </datafield>
     </record>
-    <record xmlns="http://www.loc.gov/MARC21/slim">
+    <record>
         <leader>01793ngm a22003615c 4500</leader>
         <controlfield tag="001">999921241891502201</controlfield>
         <controlfield tag="005">20201104114828.0</controlfield>
@@ -1042,16 +1007,6 @@
         </datafield>
         <datafield ind1=" " ind2=" " tag="546">
             <subfield code="a">Tale: engelsk, tekst: norsk, svensk, dansk, finsk, engelsk, fransk, m.fl.</subfield>
-        </datafield>
-        <datafield ind1=" " ind2="0" tag="653">
-            <subfield code="a">britisk</subfield>
-            <subfield code="a">amerikansk</subfield>
-            <subfield code="a">engelsk</subfield>
-            <subfield code="a">spillefilm</subfield>
-            <subfield code="a">krim</subfield>
-            <subfield code="a">kriminal</subfield>
-            <subfield code="a">Poirot</subfield>
-            <subfield code="a">mysterium</subfield>
         </datafield>
         <datafield ind1="1" ind2=" " tag="700">
             <subfield code="a">Lumet, Sidney</subfield>
@@ -1124,15 +1079,6 @@
         <datafield ind1="0" ind2=" " tag="740">
             <subfield code="a">Hercule Poirot</subfield>
         </datafield>
-        <datafield ind1="4" ind2="2" tag="856">
-            <subfield code="3">Mer om filmen</subfield>
-            <subfield code="u">https://www.imdb.com/title/tt0071877/</subfield>
-        </datafield>
-        <datafield ind1="0" ind2="1" tag="852">
-            <subfield code="a">47BIBSYS_HH</subfield>
-            <subfield code="6">999919985634602214</subfield>
-            <subfield code="9">P</subfield>
-        </datafield>
         <datafield tag="600" ind1="1" ind2="0">
             <subfield code="a">Poirot, Hercule</subfield>
             <subfield code="c">(Fictitious character)</subfield>
@@ -1147,7 +1093,6 @@
             <subfield code="1">http://viaf.org/viaf/316741387</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10129</subfield>
         </datafield>
-        
     </record>
     <!-- Movie collection -->
     <!--<record xmlns="http://www.loc.gov/MARC21/slim">
@@ -1327,7 +1272,6 @@
             <subfield code="1">http://viaf.org/viaf/638145424602986831437</subfield>
         </datafield>
     </record>
-   
     <record>
         <leader>01989 am a2200433ua 4500</leader>
         <controlfield tag="001">009375336</controlfield>
@@ -2024,7 +1968,7 @@
             <subfield code="a">Christie, Agatha,</subfield>
             <subfield code="d">1890-1976.</subfield>
             <subfield code="k">Novel</subfield>
-            <subfield code="t">Murder is easy.</subfield>
+            <subfield code="t">Murder is easy</subfield>
             <subfield code="1">http://viaf.org/viaf/309261613</subfield>
         </datafield>
         <datafield tag="700" ind1="1" ind2="2">
@@ -2048,7 +1992,6 @@
             <subfield code="t">Murder on the Orient Express.</subfield>
             <subfield code="1">http://viaf.org/viaf/316741387</subfield>
         </datafield>
-
     </record>
     <record>
         <leader>01515nam a22003858i 4500</leader>
@@ -2238,7 +2181,6 @@
             <subfield code="2">rdacarrier</subfield>
             <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
         </datafield>
-
         <datafield tag="500" ind1=" " ind2=" ">
             <subfield code="a">Boxed.</subfield>
         </datafield>
@@ -2388,7 +2330,7 @@
             <subfield code="a">Christie, Agatha,</subfield>
             <subfield code="d">1890-1976.</subfield>
             <subfield code="k">Novel</subfield>
-            <subfield code="t">Murder on the Orient Express.</subfield>
+            <subfield code="t">Murder on the Orient Express</subfield>
             <subfield code="1">http://viaf.org/viaf/316741387</subfield>
         </datafield>
         <datafield tag="700" ind1="1" ind2="2">
@@ -2476,6 +2418,7 @@
             <subfield code="a">Marple, Jane</subfield>
             <subfield code="c">(Fictitious character)</subfield>
             <subfield code="v">Fiction.</subfield>
+            <subfield code="1">http://viaf.org/viaf/20152329368502672984</subfield>
         </datafield>
     </record>
     <record>
@@ -2549,6 +2492,12 @@
         </datafield>
         <datafield tag="500" ind1=" " ind2=" ">
             <subfield code="a">Originally published : London: Collins, 1930.</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Marple, Jane</subfield>
+            <subfield code="c">(Fictitious character)</subfield>
+            <subfield code="v">Fiction.</subfield>
+            <subfield code="1">http://viaf.org/viaf/20152329368502672984</subfield>
         </datafield>
     </record>
     <record>
@@ -2702,6 +2651,7 @@
             <subfield code="a">Poirot, Hercule</subfield>
             <subfield code="c">(Fictitious character)</subfield>
             <subfield code="v">Fiction.</subfield>
+            <subfield code="1">http://viaf.org/viaf/22943082</subfield>
         </datafield>
         <datafield tag="800" ind1="1" ind2=" ">
             <subfield code="a">Christie, Agatha,</subfield>
@@ -2788,6 +2738,7 @@
             <subfield code="a">Poirot, Hercule</subfield>
             <subfield code="c">(Fictitious character)</subfield>
             <subfield code="v">Fiction.</subfield>
+            <subfield code="1">http://viaf.org/viaf/22943082</subfield>
         </datafield>
     </record>
     <record>
@@ -3025,6 +2976,7 @@
             <subfield code="a">Poirot, Hercule</subfield>
             <subfield code="c">(Fictitious character)</subfield>
             <subfield code="v">Fiction.</subfield>
+            <subfield code="1">http://viaf.org/viaf/22943082</subfield>
         </datafield>
     </record>
     <record>
@@ -3180,7 +3132,6 @@
             <subfield code="1">http://viaf.org/viaf/8905164661901103390006/12</subfield>
         </datafield>
     </record>
-
     <record>
         <leader>01053pam a2200313 i 4500</leader>
         <controlfield tag="001">017093510</controlfield>
@@ -3260,6 +3211,7 @@
         <datafield tag="600" ind1="1" ind2="0">
             <subfield code="a">Poirot, Hercule</subfield>
             <subfield code="c">(Fictitious character)</subfield>
+            <subfield code="1">http://viaf.org/viaf/22943082</subfield>
         </datafield>
     </record>
     <record>
@@ -3600,7 +3552,7 @@
         <datafield tag="082" ind1="0" ind2="4">
             <subfield code="a">823.08720808</subfield>
             <subfield code="2">23</subfield>
-        </datafield>    
+        </datafield>
         <datafield tag="100" ind1="1" ind2=" ">
             <subfield code="a">Douglas, Traci L.,</subfield>
             <subfield code="d">1968-</subfield>
@@ -3679,7 +3631,7 @@
             <subfield code="1">http://viaf.org/viaf/185057844</subfield>
             <subfield code="8">1/c</subfield>
         </datafield>
-        <!-- 2 --> 
+        <!-- 2 -->
         <datafield tag="700" ind1="1" ind2="2">
             <subfield code="a">Christie, Agatha,</subfield>
             <subfield code="d">1890-1976.</subfield>
@@ -3741,5 +3693,990 @@
             <subfield code="8">5/c</subfield>
         </datafield>
     </record>
-
+    
+    <!-- Miss Marple collections and some individual volumes -->
+    <record>
+        <leader>00763 am a2200241 x 4500</leader>
+        <controlfield tag="001">991938873804341</controlfield>
+        <controlfield tag="005">20161025091615.0</controlfield>
+        <controlfield tag="008">860716s1985    enk     w     00011 eng  </controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">000231469x</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">823/.912</subfield>
+            <subfield code="2">19</subfield>
+            <subfield code="d">F</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="1">https://isni.org/isni/0000000121022127</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="0" ind2="2">
+            <subfield code="a">A Miss Marple quartet</subfield>
+            <subfield code="1">https://isni.org/isni/0000000121022127/missmarplequartet</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="2">
+            <subfield code="a">A Miss Marple quartet</subfield>
+            <subfield code="c">Agatha Christie</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London</subfield>
+            <subfield code="b">Collins</subfield>
+            <subfield code="c">1985</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">664p</subfield>
+            <subfield code="c">23cm</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="350" ind1="0" ind2="0">
+            <subfield code="a">£9.95 : CIP rev.</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2="0">
+            <subfield code="a">The body in the library -- The moving finger -- A murder is announced -- A pocket full of rye</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Marple, Jane</subfield>
+            <subfield code="c">(Fictitious character)</subfield>
+            <subfield code="v">Fiction.</subfield>
+            <subfield code="1">http://viaf.org/viaf/20152329368502672984</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">The body in the library</subfield>
+            <subfield code="1">http://viaf.org/viaf/184645888</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">The moving finger</subfield>
+            <subfield code="1">http://viaf.org/viaf/310912134</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">A murder is announced</subfield>
+            <subfield code="1">http://viaf.org/viaf/181004220</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">A pocket full of rye</subfield>
+            <subfield code="1">http://viaf.org/viaf/780165573946837800003</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00879 am a2200277 x 4500</leader>
+        <controlfield tag="001">991942003804341</controlfield>
+        <controlfield tag="005">20161025091624.0</controlfield>
+        <controlfield tag="008">781020r19781930enk     w     00011 eng  </controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0002444909</subfield>
+        </datafield>
+        <datafield tag="049" ind1="0" ind2="0">
+            <subfield code="a">NL</subfield>
+            <subfield code="b">800606</subfield>
+            <subfield code="c">NL</subfield>
+            <subfield code="d">800606</subfield>
+            <subfield code="e">E</subfield>
+            <subfield code="f">200</subfield>
+            <subfield code="g">NL</subfield>
+            <subfield code="h">*</subfield>
+            <subfield code="i">NL</subfield>
+            <subfield code="z">EC NL</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">823/.9/1</subfield>
+            <subfield code="2">18</subfield>
+            <subfield code="d">F</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="1">https://isni.org/isni/0000000121022127</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="2">
+            <subfield code="a">A Miss Marple quintet</subfield>
+            <subfield code="1">https://isni.org/isni/0000000121022127/missmarplequintet</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London</subfield>
+            <subfield code="b">Collins</subfield>
+            <subfield code="c">1978</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">901p</subfield>
+            <subfield code="c">23cm</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="350" ind1="0" ind2="0">
+            <subfield code="a">£4.95</subfield>
+        </datafield>
+        <datafield tag="490" ind1="0" ind2="0">
+            <subfield code="a">Collins collector's choice</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2="0">
+            <subfield code="a">The murder at the vicarage - A murder is announced - A pocket full of rye - The mirror crack'd from side to side - At Bertram's Hotel</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Marple, Jane</subfield>
+            <subfield code="c">(Fictitious character)</subfield>
+            <subfield code="v">Fiction.</subfield>
+            <subfield code="1">http://viaf.org/viaf/20152329368502672984</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">The murder at the vicarage</subfield>
+            <subfield code="1">http://viaf.org/viaf/1846151051771433530005</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">A murder is announced</subfield>
+            <subfield code="1">http://viaf.org/viaf/181004220</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">A pocket full of rye</subfield>
+            <subfield code="1">http://viaf.org/viaf/780165573946837800003</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">The mirror crack'd from side to side</subfield>
+            <subfield code="1">http://viaf.org/viaf/308553963</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">At Bertram's Hotel</subfield>
+            <subfield code="1">http://viaf.org/viaf/7037151474835800490008</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00806cam a2200265 x 4500</leader>
+        <controlfield tag="001">991962823804341</controlfield>
+        <controlfield tag="005">20161025091653.0</controlfield>
+        <controlfield tag="008">720322r19821976enk     w     00011 eng  </controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0006165338</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">823/.912</subfield>
+            <subfield code="2">19</subfield>
+            <subfield code="d">F</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="1">https://isni.org/isni/0000000121022127</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="2">
+            <subfield code="a">Sleeping murder</subfield>
+            <subfield code="1">http://viaf.org/viaf/740147270586435700009</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Sleeping murder</subfield>
+            <subfield code="b">Miss Marple's last case</subfield>
+            <subfield code="c">Agatha Christie</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[London]</subfield>
+            <subfield code="b">Collins</subfield>
+            <subfield code="c">1977, c1976</subfield>
+            <subfield code="k">1982 [printing]</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">192p</subfield>
+            <subfield code="c">18cm</subfield>
+            <subfield code="e">pbk</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="350" ind1="0" ind2="0">
+            <subfield code="a">£1.25</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Originally published: London : Collins, 1976</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Marple, Jane</subfield>
+            <subfield code="c">(Fictitious character)</subfield>
+            <subfield code="v">Fiction.</subfield>
+            <subfield code="1">http://viaf.org/viaf/20152329368502672984</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00630cam a2200205 x 4500</leader>
+        <controlfield tag="001">9913177823804341</controlfield>
+        <controlfield tag="008">841129r19781976enk     w     00011 eng  </controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0708901093</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">823/.9/1</subfield>
+            <subfield code="d">F</subfield>
+            <subfield code="2">18</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="1">https://isni.org/isni/0000000121022127</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="2">
+            <subfield code="a">Sleeping murder</subfield>
+            <subfield code="1">http://viaf.org/viaf/740147270586435700009</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Sleeping murder :</subfield>
+            <subfield code="b">Miss Marple's last case /</subfield>
+            <subfield code="c">Agatha Christie.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Leicester :</subfield>
+            <subfield code="b">Ulverscroft,</subfield>
+            <subfield code="c">1978.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">First published: London : Collins, 1976.</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Marple, Jane</subfield>
+            <subfield code="c">(Fictitious character)</subfield>
+            <subfield code="v">Fiction.</subfield>
+            <subfield code="1">http://viaf.org/viaf/20152329368502672984</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00857pam a22002655x 4500</leader>
+        <controlfield tag="001">993999773804341</controlfield>
+        <controlfield tag="005">20161025104324.0</controlfield>
+        <controlfield tag="008">980116r19971985enk           00000 eng b</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0006499562</subfield>
+        </datafield>
+        <datafield tag="020" ind1="1" ind2="0">
+            <subfield code="a">0006499562</subfield>
+            <subfield code="c">m</subfield>
+        </datafield>
+        <datafield tag="091" ind1="0" ind2="0">
+            <subfield code="a">c899612655</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Hart, Anne</subfield>
+            <subfield code="1">http://viaf.org/viaf/79360006</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Agatha Christie's Miss Marple : the life and times of Miss Jane Marple</subfield>
+            <subfield code="1">http://viaf.org/viaf/1097151656348508400001</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Agatha Christie's Miss Marple :</subfield>
+            <subfield code="b">the life and times of Miss Jane Marple /</subfield>
+            <subfield code="c">Anne Hart.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">HarperCollins,</subfield>
+            <subfield code="c">1997, c1985.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">ix,150p</subfield>
+            <subfield code="c">18cm</subfield>
+            <subfield code="e">pbk</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">x,176p</subfield>
+            <subfield code="b">ill</subfield>
+            <subfield code="c">18cm</subfield>
+            <subfield code="e">pbk</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Originally published: U.S.A. : Dodd, Mead &amp; Co., 1985.</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976</subfield>
+            <subfield code="x">Characters</subfield>
+            <subfield code="x">Miss Marple.</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="1">https://isni.org/isni/0000000121022127</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Marple, Jane</subfield>
+            <subfield code="c">(Fictitious character)</subfield>
+            <subfield code="v">Fiction.</subfield>
+            <subfield code="1">http://viaf.org/viaf/20152329368502672984</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00765pam a2200265 x 4500</leader>
+        <controlfield tag="001">9918105273804341</controlfield>
+        <controlfield tag="005">20171124152648.0</controlfield>
+        <controlfield tag="008">910528r19911985enka          00010 eng b</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0747409048</subfield>
+        </datafield>
+        <datafield tag="020" ind1="1" ind2="0">
+            <subfield code="a">0747409048</subfield>
+            <subfield code="c">m</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">823.912</subfield>
+            <subfield code="2">20</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Hart, Anne</subfield>
+            <subfield code="1">http://viaf.org/viaf/79360006</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Agatha Christie's Miss Marple : the life and times of Miss Jane Marple</subfield>
+            <subfield code="1">http://viaf.org/viaf/1097151656348508400001</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The life and times of Miss Jane Marple /</subfield>
+            <subfield code="c">by Anne Hart.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Sphere,</subfield>
+            <subfield code="c">1990,c1985.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">x,176p</subfield>
+            <subfield code="b">ill</subfield>
+            <subfield code="c">18cm</subfield>
+            <subfield code="e">pbk</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="350" ind1="0" ind2="0">
+            <subfield code="a">£3.50  : CIP rev.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Originally published: New York : Dodd, Mead, 1985</subfield>
+        </datafield>
+        <datafield tag="504" ind1="0" ind2="0">
+            <subfield code="a">Bibliography: p162</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="1">https://isni.org/isni/0000000121022127</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Marple, Jane</subfield>
+            <subfield code="c">(Fictitious character)</subfield>
+            <subfield code="v">Fiction.</subfield>
+            <subfield code="1">http://viaf.org/viaf/20152329368502672984</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00738cam a2200265 x 4500</leader>
+        <controlfield tag="001">9912313443804341</controlfield>
+        <controlfield tag="008">870218r19861985enkb    w     00011 eng  </controlfield>
+        <datafield tag="016" ind1="0" ind2="0">
+            <subfield code="a">100=NOTNAL</subfield>
+        </datafield>
+        <datafield tag="017" ind1="0" ind2="0">
+            <subfield code="a">300</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0333426541</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">813/.54</subfield>
+            <subfield code="d">F</subfield>
+            <subfield code="2">19</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Hart, Anne</subfield>
+            <subfield code="1">http://viaf.org/viaf/79360006</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Agatha Christie's Miss Marple : the life and times of Miss Jane Marple</subfield>
+            <subfield code="1">http://viaf.org/viaf/1097151656348508400001</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The life and times of Miss Jane Marple</subfield>
+            <subfield code="c">by Anne Hart</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London</subfield>
+            <subfield code="b">Macmillan</subfield>
+            <subfield code="c">1986, c1985</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">161p</subfield>
+            <subfield code="i">1map</subfield>
+            <subfield code="c">23cm</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="350" ind1="0" ind2="0">
+            <subfield code="a">£8.95 : CIP rev.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Originally published: New York : Dodd, Mead, 1985</subfield>
+        </datafield>
+        <datafield tag="504" ind1="0" ind2="0">
+            <subfield code="a">Bibliography: p144-161</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="1">https://isni.org/isni/0000000121022127</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Marple, Jane</subfield>
+            <subfield code="c">(Fictitious character)</subfield>
+            <subfield code="v">Fiction.</subfield>
+            <subfield code="1">http://viaf.org/viaf/20152329368502672984</subfield>
+        </datafield>
+    </record>
+<!--    <record>
+        <leader>01237cam a2200313 x 4500</leader>
+        <controlfield tag="001">994016453804341</controlfield>
+        <controlfield tag="005">20161025104332.0</controlfield>
+        <controlfield tag="008">980121s1997    enk           0001j eng b</controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">b  97059464 </subfield>
+        </datafield>
+        <datafield tag="020" ind1="1" ind2="0">
+            <subfield code="a">0006499597</subfield>
+            <subfield code="c">x</subfield>
+            <subfield code="c">v.1</subfield>
+            <subfield code="c">£8.99</subfield>
+        </datafield>
+        <datafield tag="020" ind1="1" ind2="0">
+            <subfield code="a">0006499600</subfield>
+            <subfield code="c">x</subfield>
+            <subfield code="c">v.2</subfield>
+            <subfield code="c">£8.99</subfield>
+        </datafield>
+        <datafield tag="020" ind1="1" ind2="0">
+            <subfield code="a">0006499619</subfield>
+            <subfield code="c">x</subfield>
+            <subfield code="c">v.3</subfield>
+            <subfield code="c">£8.99</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">823.912</subfield>
+            <subfield code="2">21</subfield>
+            <subfield code="d">F</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="1">https://isni.org/isni/0000000121022127</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Miss Marple omnibus</subfield>
+            <subfield code="1">https://isni.org/isni/0000000121022127/missmarpleomnibus</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Miss Marple omnibus /</subfield>
+            <subfield code="c">Agatha Christie.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">HarperCollins,</subfield>
+            <subfield code="c">1997.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="f">3</subfield>
+            <subfield code="a">717,654,694p</subfield>
+            <subfield code="c">20cm</subfield>
+            <subfield code="e">pbk</subfield>
+            <subfield code="n">v.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="350" ind1="0" ind2="0">
+            <subfield code="a">No price</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2="0">
+            <subfield code="a">The body in the library - The moving finger - A murder is announced - 4.50 from Paddington 
+                -  A Caribbean mystery - A pocket full of Rye - The mirror cracked from side to side - They do it with mirrors - Nemesis - Sleeping murder - At Bertram's hotel - The murder at the vicarage</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Marple, Jane</subfield>
+            <subfield code="c">(Fictitious character)</subfield>
+            <subfield code="v">Fiction.</subfield>
+            <subfield code="1">http://viaf.org/viaf/20152329368502672984</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">The body in the library</subfield>
+            <subfield code="1">http://viaf.org/viaf/184645888</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">The moving finger</subfield>
+            <subfield code="1">http://viaf.org/viaf/310912134</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">A murder is announced</subfield>
+            <subfield code="1">http://viaf.org/viaf/181004220</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">4.50 from Paddington</subfield>
+            <subfield code="1">http://viaf.org/viaf/176021540</subfield>
+        </datafield>
+        
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">A pocket full of rye</subfield>
+            <subfield code="1">http://viaf.org/viaf/780165573946837800003</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">At Bertram's Hotel</subfield>
+            <subfield code="1">http://viaf.org/viaf/7037151474835800490008</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="t">Sleeping murder</subfield>
+            <subfield code="1">http://viaf.org/viaf/740147270586435700009</subfield>
+        </datafield>
+    </record>-->
+    <record>
+        <leader>00798cam a2200217 a 4500</leader>
+        <controlfield tag="001">9914538723804341</controlfield>
+        <controlfield tag="005">20180601120129.0</controlfield>
+        <controlfield tag="008">940213s1983    enk           000 1 eng  </controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0907486398</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">823/.912</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="1">https://isni.org/isni/0000000121022127</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="0" ind2="4">
+            <subfield code="a">A Miss Marple duo</subfield>
+            <subfield code="1">https://isni.org/isni/0000000121022127/missmarpleduo</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The murder at the vicarage ;</subfield>
+            <subfield code="b">The mirror crack'd from side to side : a Miss Marple duo /</subfield>
+            <subfield code="c">Agatha Christie.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Chancellor,</subfield>
+            <subfield code="c">1983.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">380 p. ;</subfield>
+            <subfield code="c">23 cm.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">The mirror crack'd from side to side originally published: London : Collins, 1962.</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Marple, Jane</subfield>
+            <subfield code="c">(Fictitious character)</subfield>
+            <subfield code="v">Fiction.</subfield>
+            <subfield code="1">http://viaf.org/viaf/20152329368502672984</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="t">The murder at the vicarage</subfield>
+            <subfield code="1">http://viaf.org/viaf/1846151051771433530005</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="t">Mirror crack'd from side to side.</subfield>
+            <subfield code="1">http://viaf.org/viaf/308553963</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00753nam a22002658x 4500</leader>
+        <controlfield tag="001">9918283763804341</controlfield>
+        <controlfield tag="008">910827s1991    enk     w     00110 eng b</controlfield>
+        <datafield tag="016" ind1="0" ind2="0">
+            <subfield code="a">700=NOTNAL</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0415017947</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">823.912</subfield>
+            <subfield code="2">20</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2="0">
+            <subfield code="a">Shaw, Marion</subfield>
+            <subfield code="1">http://viaf.org/viaf/4976740</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Reflecting on Miss Marple</subfield>
+            <subfield code="1">http://viaf.org/viaf/1868153954866905680001</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Reflecting on Miss Marple /</subfield>
+            <subfield code="c">Marion Shaw and Sabine Vanacker.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Routledge,</subfield>
+            <subfield code="c">1991.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">[128]p</subfield>
+            <subfield code="c">20cm</subfield>
+            <subfield code="e">pbk</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="350" ind1="0" ind2="0">
+            <subfield code="a">£6.99 : CIP entry (May)</subfield>
+        </datafield>
+        <datafield tag="440" ind1="0" ind2="0">
+            <subfield code="a">Heroines?</subfield>
+        </datafield>
+        <datafield tag="504" ind1="0" ind2="0">
+            <subfield code="a">Includes bibliography and index</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="1">https://isni.org/isni/0000000121022127</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Marple, Jane</subfield>
+            <subfield code="c">(Fictitious character)</subfield>
+            <subfield code="v">Fiction.</subfield>
+            <subfield code="1">http://viaf.org/viaf/20152329368502672984</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="0">
+            <subfield code="a">Vanacker, Sabine.</subfield>
+            <subfield code="1">http://viaf.org/viaf/15449889</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00712 am a2200265 x 4500</leader>
+        <controlfield tag="001">9920632893804341</controlfield>
+        <controlfield tag="005">20190819145106.0</controlfield>
+        <controlfield tag="008">740315r19741957enk     w     00011 eng b</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0330238914</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">823/.9/1</subfield>
+            <subfield code="2">18</subfield>
+            <subfield code="d">F</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="1">https://isni.org/isni/0000000121022127</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="4">
+            <subfield code="a">4:50 from Paddington</subfield>
+            <subfield code="1">http://viaf.org/viaf/176021540</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">4:50 from Paddington</subfield>
+            <subfield code="c">Agatha Christie</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London</subfield>
+            <subfield code="b">Pan Books</subfield>
+            <subfield code="c">1974</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">220p</subfield>
+            <subfield code="c">18cm</subfield>
+            <subfield code="e">pbk</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="350" ind1="0" ind2="0">
+            <subfield code="a">£0.30</subfield>
+        </datafield>
+        <datafield tag="490" ind1="0" ind2="0">
+            <subfield code="a">A Miss Marple story</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Originally published: London : Collins, 1957</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Marple, Jane</subfield>
+            <subfield code="c">(Fictitious character)</subfield>
+            <subfield code="v">Fiction.</subfield>
+            <subfield code="1">http://viaf.org/viaf/20152329368502672984</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01605aam a22004091i 4500</leader>
+        <controlfield tag="001">99116588027704341</controlfield>
+        <controlfield tag="005">20201109170050.0</controlfield>
+        <controlfield tag="006">m    ||  d |      </controlfield>
+        <controlfield tag="007">cr |||||||||||</controlfield>
+        <controlfield tag="008">201031s2010    xxk||||go    |||| ||eng  </controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0007422458</subfield>
+            <subfield code="q">(EPUB)</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780007422456</subfield>
+            <subfield code="q">(EPUB)</subfield>
+        </datafield>
+        <datafield tag="037" ind1=" " ind2=" ">
+            <subfield code="a">uk.co.harpercollins.063342</subfield>
+            <subfield code="b">Ingram Content Group</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Christie, Agatha,</subfield>
+            <subfield code="d">1890-1976.</subfield>
+            <subfield code="1">https://isni.org/isni/0000000121022127</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="4">
+            <subfield code="a">The mirror crack'd from side to side</subfield>
+            <subfield code="1">http://viaf.org/viaf/308553963</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The mirror crack'd from side to side /</subfield>
+            <subfield code="c">Agatha Christie.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">HarperCollins,</subfield>
+            <subfield code="c">2010.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 online resource (288 pages).</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Miss Marple</subfield>
+        </datafield>
+        <datafield tag="540" ind1=" " ind2=" ">
+            <subfield code="a">Restricted: Printing from this resource is governed by The Legal Deposit Libraries (Non-Print Works) Regulations (UK) and UK copyright law currently in force.</subfield>
+            <subfield code="5">Uk</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Marple, Jane</subfield>
+            <subfield code="c">(Fictitious character)</subfield>
+            <subfield code="v">Fiction.</subfield>
+            <subfield code="1">http://viaf.org/viaf/20152329368502672984</subfield>
+        </datafield>
+    </record>
 </collection>
