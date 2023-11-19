@@ -9,7 +9,7 @@ DROP INDEX works;
 DROP INDEX resource_uri;
 
 CREATE INDEX resource_uri FOR (n:Resource) ON n.uri;
-CREATE FULLTEXT INDEX expressions FOR (n:Expression) ON EACH [n.title, n.titles, n.titlevariant, n.titlepreferred, n.contentsnote, n.creators, n.form, n.types, n.uris, n.ids, n.language, n.content, n.subject];
+CREATE FULLTEXT INDEX expressions FOR (n:Expression) ON EACH [n.title, n.titles, n.titlevariant, n.titlepreferred, n.contentsnote, n.creators, n.form, n.types, n.uris, n.ids, n.language, n.content, n.subjects];
 
 WITH "entities.json" AS url
 CALL apoc.load.json(url) YIELD value
