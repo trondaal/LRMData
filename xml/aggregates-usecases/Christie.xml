@@ -3818,9 +3818,14 @@
             <subfield code="1">https://isni.org/isni/0000000121022127</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
         </datafield>
-        <datafield tag="240" ind1="1" ind2="2">
+        <datafield tag="240" ind1="0" ind2="2">
             <subfield code="a">A Miss Marple quintet</subfield>
             <subfield code="1">https://isni.org/isni/0000000121022127/missmarplequintet</subfield>
+            <subfield code="8">p</subfield>
+        </datafield>
+        <datafield tag="740" ind1="0" ind2="2">
+            <subfield code="a">A Miss Marple quintet</subfield>
+            <subfield code="8">p</subfield>
         </datafield>
         <datafield tag="260" ind1=" " ind2=" ">
             <subfield code="a">London</subfield>

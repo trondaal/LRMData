@@ -582,11 +582,6 @@
       <rdawd:P10088>A Miss Marple quintet</rdawd:P10088>
       <rdfs:label>A Miss Marple quintet (Christie, Agatha)</rdfs:label>
       <rdawo:P10061 rdf:resource="https://isni.org/isni/0000000121022127"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/1846151051771433530005"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/181004220"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/780165573946837800003"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/308553963"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/7037151474835800490008"/>
       <rdawo:P10319 rdf:resource="http://viaf.org/viaf/20152329368502672984"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://isni.org/isni/0000000121022127/murderstodiefrom">
@@ -1498,16 +1493,19 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000121022127/missmarplequintet/exp/eng/1020">
       <rdaed:P20316>A Miss Marple quintet</rdaed:P20316>
-      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20071>The murder at the vicarage - A murder is announced - A pocket full of rye - The mirror crack'd from side to side - At Bertram's Hotel</rdaed:P20071>
+      <rdaed:P20315>A Miss Marple quintet</rdaed:P20315>
+      <rdfs:label>A Miss Marple quintet (Christie, Agatha)</rdfs:label>
+      <rdfs:label>A Miss Marple quintet</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/1846151051771433530005/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/181004220/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/780165573946837800003/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/308553963/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/7037151474835800490008/exp/eng/1020"/>
       <rdaeo:P20231 rdf:resource="https://isni.org/isni/0000000121022127/missmarplequintet"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/1846151051771433530005/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/181004220/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/780165573946837800003/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/308553963/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/7037151474835800490008/exp/eng/1020"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="https://isni.org/isni/0000000121022127/murderstodiefrom/exp/eng/1020">
       <rdaed:P20316>Murders to die for</rdaed:P20316>
