@@ -32,6 +32,7 @@ Agenter identifisert med URI
 * https://isni.org/isni/0000000361531262 (700) : Larssen, Christian
 * https://www.imdb.com/name/nm0001486 (700) : Lumet, Sidney
 * https://isni.org/isni/0000000365729866/trio (100) : Per Einar Watle Trio
+* http://viaf.org/viaf/22943082 (600) : Poirot, Hercule
 * http://viaf.org/viaf/34462302 (100) : Rivière, François
 * http://viaf.org/viaf/29540426 (700) : Sayers, Dorothy L
 * https://isni.org/isni/0000000368604401 (700) : Solidor
@@ -49,10 +50,6 @@ men dere velger selv hvilke agenter som skal være med
 * 600  17  $aPoirot, Hercule  $c(Fictitious character)  $0(OCoLC)fst01068127 $2fast
 * 600  10  $aPoirot, Hercule  $c(Fictitious character)  $vFiction.
 * 600  10  $aPoirot, Hercule  $c(Fictitious character)  $vComic books, strips, etc.  $vFiction.
-* 600  10  $aPoirot, Hercule  $c(Fictitious character)  $vFiction.
-* 600  10  $aPoirot, Hercule  $c(Fictitious character)  $vFiction.
-* 600  10  $aPoirot, Hercule  $c(Fictitious character)  $vFiction.
-* 600  10  $aPoirot, Hercule  $c(Fictitious character)  $vFiction.
 * 600  10  $aPoirot, Hercule  $c(Fictitious character)  $vFiction.
 * 600  10  $aPoirot, Hercule  $c(Fictitious character)  $vFiction.
 * 600  10  $aPoirot, Hercule  $c(Fictitious character)  $vFiction.
@@ -117,7 +114,7 @@ Verk identifisert med URI
 * https://isni.org/isni/0000000121022127/bestofpoirot = The best of Poirot 
 * https://isni.org/isni/0000000121022127/frenchcollection = Poirot : the French collection (Language-based work)
 * https://isni.org/isni/0000000121022127/herculepoirot = Hercule Poirot (Language-based work)
-* https://isni.org/isni/0000000121022127/herculepoirotatlarge = Hercule poirot at large (Language-based work)
+* https://isni.org/isni/0000000121022127/herculepoirotatlarge = Hercule Poirot at large (Language-based work)
 * https://isni.org/isni/0000000121022127/murderstodiefrom = Murders to die for (Language-based work)
 * https://isni.org/isni/0000000121022127/omnibus/1920s/1 = Agatha Christie omnibus : 1920s. (Language-based work)
 * https://isni.org/isni/0000000121022127/omnibus/1920s/2 = Agatha Christie omnibus : 1920s. (Language-based work)
@@ -167,3 +164,16 @@ Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke an
 * http://rdaregistry.info/Elements/w/object/P10129 (is motion picture adaptation of work) -> Murder on the Orient Express / Christie, Agatha, (700)
 001 = 999921241891502201, Murder on the Orient Express /  
 * http://rdaregistry.info/Elements/w/object/P10129 (is motion picture adaptation of work) -> Murder on the Orient Express / Christie, Agatha, (700)
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Poirot, Hercule (600)
+001 = 006715657, The best of Poirot / Christie, Agatha, /  
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Poirot, Hercule (600)
+001 = 009375354, Agatha Christie omnibus : 1920s. / Christie, Agatha, / Language-based work 
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Poirot, Hercule (600)
+001 = 006716271, Poirot in the Orient / / Christie, Agatha, / Language-based work 
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Poirot, Hercule (600)
+001 = 006716310, Poirot : the French collection / Christie, Agatha, / Language-based work 
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Poirot, Hercule (600)
+001 = 018508255, Hercule Poirot at large / Christie, Agatha, / Language-based work 
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Poirot, Hercule (600)
+001 = 016448166, Hercule Poirot / Christie, Agatha, / Language-based work 
+* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Poirot, Hercule (600)
