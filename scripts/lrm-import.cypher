@@ -10,7 +10,6 @@ DROP INDEX resource_uri;
 
 CREATE INDEX resource_uri FOR (n:Resource) ON n.uri;
 CREATE FULLTEXT INDEX expressions FOR (n:Expression) ON EACH [n.title, n.titles, n.titlevariant, n.titlepreferred, n.contentsnote, n.creators, n.form, n.types, n.uris, n.ids, n.language, n.content, n.subject];
-CREATE FULLTEXT INDEX works FOR (n:Work) ON EACH [n.title, n.titles, n.titlevariant, n.titlepreferred, n.creators, n.types, n.form];
 
 WITH "entities.json" AS url
 CALL apoc.load.json(url) YIELD value
@@ -181,9 +180,6 @@ set from.titles = from.titles + to.title + " : ";
 MATCH (from:Expression)-[:RELATED]-(to:Expression) where to.title IS NOT NULL
 set from.titles = from.titles + to.title + " : ";
 
-MATCH (e:Expression)-[:REALIZES]-(:Work)-[:SUBJECT]->(w:Work) where w.title IS NOT NULL
-set e.titles = e.titles + w.title + " : ";
-
 MATCH (e:Expression)-[:REALIZES]-(:Work)-[:RELATED]->(w:Work) where w.title IS NOT NULL
 set e.titles = e.titles + w.title + " : ";
 
@@ -197,8 +193,8 @@ set e.subjects = e.subjects + s.name + " : ";
 MATCH (e:Expression)-[:REALIZES]-(w:Work)-[:SUBJECT]-(s:Agent) where s.variantname IS NOT NULL
 set e.subjects = e.subjects + s.variantname + " : ";
 
-MATCH (e:Expression)-[:REALIZES]-(w:Work)-[:SUBJECT]-(s:Agent) where s.subject IS NOT NULL
-set e.subjects = e.subjects + s.title + " : ";
+MATCH (e:Expression)-[:REALIZES]-(:Work)-[:SUBJECT]->(w:Work) where w.title IS NOT NULL
+set e.titles = e.titles + w.title + " : ";
 
 
 //FORM, TYPE AND LANGUAGE
@@ -227,6 +223,7 @@ set e.uris = e.uris + a.uri + " : ";
 //Identifiers for expressions
 MATCH (e:Expression)
 set e.id = "E" + ID(e);
+
 MATCH (e:Expression)
 set e.ids = e.ids +  e.id  + " ";
 
@@ -242,130 +239,6 @@ set e.ids = e.ids + a.id + " : ";
 MATCH (e:Expression)-[:REALIZES]-(w:Work)-[:CREATOR]-(a:Agent)
 set e.ids = e.ids + a.id + " : ";
 
-
 //Set random int on expressions for random sorting
 MATCH (e:Expression)
 set e.random = toInteger(rand() * (1000));
-
-//creators FOR INDEXING WORKS
-MATCH (w:Work)-[:CREATOR]-(a:Agent) where a.name IS NOT NULL
-WITH w, a,
-CASE
-    WHEN w.creators IS NULL then a.name
-    ELSE w.creators + " : " + a.name
-END AS creators
-set w.creators = creators;
-
-MATCH (w:Work)<-[:REALIZES]-(e:Expression)-[:CREATOR]-(a:Agent) where a.name IS NOT NULL
-WITH w, a,
-CASE
-    WHEN w.creators IS NULL then a.name
-    ELSE w.creators + " : " + a.name
-END AS creators
-set w.creators = creators;
-
-MATCH (w:Work)<-[:REALIZES]-(e:Expression)-[:EMBODIES]-(m:Manifestation)-[:CREATOR]-(a:Agent) where a.name IS NOT NULL
-WITH w, a,
-CASE
-    WHEN w.creators IS NULL then a.name
-    ELSE w.creators + " : " + a.name
-END AS creators
-set w.creators = creators;
-
-MATCH (w:Work)-[:SUBJECT]-(a:Agent) where a.name IS NOT NULL
-WITH w, a,
-CASE
-    WHEN w.creators IS NULL then a.name
-    ELSE w.creators + " : " + a.name
-END AS creators
-set w.creators = creators;
-
-MATCH (w:Work)-[:RELATED]->(:Work)-[:CREATOR]-(a:Agent) where a.name IS NOT NULL
-WITH w, a,
-CASE
-    WHEN w.creators IS NULL then a.name
-    ELSE w.creators + " : " + a.name
-END AS creators
-set w.creators = creators;
-
-MATCH (w:Work)-[:PARTOF]-(:Work)-[:CREATOR]-(a:Agent) where a.name IS NOT NULL
-WITH w, a,
-CASE
-    WHEN w.creators IS NULL then a.name
-    ELSE w.creators + " : " + a.name
-END AS creators
-set w.creators = creators;
-
-//TITLES FOR INDEXING WORKS
-MATCH (w:Work)<-[:REALIZES]-(e:Expression ) where e.titlepreferred IS NOT NULL
-WITH e,w,
-CASE
-    WHEN w.titles IS NULL then e.titlepreferred
-    ELSE w.titles + " : " + e.titlepreferred
-END AS title
-set w.titles = title;
-
-MATCH (w:Work)<-[:REALIZES]-(e:Expression) where e.title IS NOT NULL
-WITH e,w,
-CASE
-    WHEN w.titles IS NULL then e.title
-    ELSE w.titles + " : " + e.title
-END AS title
-set w.titles = title;
-
-MATCH (w:Work)<-[:REALIZES]-(e:Expression) where e.titlealternative IS NOT NULL
-WITH e,w,
-CASE
-    WHEN w.titles IS NULL then e.titlealternative
-    ELSE w.titles + " : " + e.titlealternative
-END AS title
-set w.titles = title;
-
-MATCH (w:Work)<-[:REALIZES]-(e:Expression)-[:EMBODIES]-(m:Manifestation) where m.title IS NOT NULL
-WITH m,w,
-CASE
-    WHEN w.titles IS NULL then m.title
-    ELSE w.titles + " : " + m.title
-END AS title
-set w.titles = title;
-
-MATCH (w:Work)<-[:REALIZES]-(e:Expression)-[:EMBODIES]-(m:Manifestation) where m.subtitle IS NOT NULL
-WITH m,w,
-CASE
-    WHEN w.titles IS NULL then m.subtitle
-    ELSE w.titles + " : " + m.subtitle
-END AS title
-set w.titles = title;
-
-MATCH (w:Work)<-[:REALIZES]-(e:Expression)-[:EMBODIES]-(m:Manifestation) where m.part IS NOT NULL
-WITH m,w,
-CASE
-    WHEN w.titles IS NULL then m.part
-    ELSE w.titles + " : " + m.part
-END AS title
-set w.titles = title;
-
-MATCH (w:Work)-[:SUBJECT]->(w2:Work)  where w2.title IS NOT NULL
-WITH w,w2,
-CASE
-    WHEN w.titles IS NULL then w2.title
-    ELSE w.titles + " : " + w2.title
-END AS title
-set w.titles = title;
-
-
-MATCH (w:Work)-[:RELATED]->(w2:Work) where w2.title IS NOT NULL
-WITH w,w2,
-CASE
-    WHEN w.titles IS NULL then w2.title
-    ELSE w.titles + " : " + w2.title
-END AS title
-set w.titles = title;
-
-MATCH (w:Work)-[:PARTOF]-(w2:Work) where w2.title IS NOT NULL
-WITH w,w2,
-CASE
-    WHEN w.titles IS NULL then w2.title
-    ELSE w.titles + " : " + w2.title
-END AS title
-set w.titles = title  + " : ";
