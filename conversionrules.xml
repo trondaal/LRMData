@@ -501,6 +501,7 @@
                 <!--.<subfield code="a" type="http://rdaregistry.info/Elements/a/datatype/P50413" select="frbrizer:trim(.)" label="has preferred name of the agent"/>-->
                 <subfield code="d" type="http://rdaregistry.info/Elements/a/datatype/P50339" select="frbrizer:trim(.)" label="has related timespan of agent"/>
                 <subfield code="1" type="http://rdaregistry.info/Elements/x/datatype/P00018" label="has identifier for agent"/>
+                <subfield code="q" type="http://rdaregistry.info/Elements/a/datatype/P50415" select="frbrizer:trim(.)" label="has variant name of the agent"/>
             </datafield>
             <datafield tag="610" condition=". eq $this_field">
                 <subfield code="a" type="http://www.w3.org/2000/01/rdf-schema#label" select="frbrizer:trim(.)" label="rdf label"/>

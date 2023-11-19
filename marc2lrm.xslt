@@ -2321,10 +2321,10 @@
             <xsl:attribute name="type"
                            select="if ($this_field/@tag = '600') then 'http://rdaregistry.info/Elements/c/C10002' else if ($this_field/@tag = '610') then 'http://rdaregistry.info/Elements/c/C10005' else if ($this_field/@tag = '611') then 'http://rdaregistry.info/Elements/c/C10011' else 'http://rdaregistry.info/Elements/c/C10002'"/>
             <xsl:attribute name="templatename" select="$this_template_name"/>
-            <xsl:for-each select="$record/*:datafield[@tag='600'][. eq $this_field][*:subfield/@code = ('a','d','1')]">
+            <xsl:for-each select="$record/*:datafield[@tag='600'][. eq $this_field][*:subfield/@code = ('a','d','1','q')]">
                <xsl:copy>
                   <xsl:call-template name="copy-attributes"/>
-                  <xsl:for-each select="*:subfield[@code = ('a','d','1')]">
+                  <xsl:for-each select="*:subfield[@code = ('a','d','1','q')]">
                      <xsl:if test="@code = 'a'">
                         <xsl:copy>
                            <xsl:call-template name="copy-content">
@@ -2357,6 +2357,15 @@
                               <xsl:with-param name="type"
                                               select="'http://rdaregistry.info/Elements/x/datatype/P00018'"/>
                               <xsl:with-param name="select" select="."/>
+                           </xsl:call-template>
+                        </xsl:copy>
+                     </xsl:if>
+                     <xsl:if test="@code = 'q'">
+                        <xsl:copy>
+                           <xsl:call-template name="copy-content">
+                              <xsl:with-param name="type"
+                                              select="'http://rdaregistry.info/Elements/a/datatype/P50415'"/>
+                              <xsl:with-param name="select" select="frbrizer:trim(.)"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
