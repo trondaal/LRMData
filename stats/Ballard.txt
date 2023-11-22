@@ -40,7 +40,6 @@ Agenter identifisert med URI
 * http://viaf.org/viaf/54154517 (700) : Spinrad, Norman
 * https://isni.org/isni/0000000372289205 (100) : Van Moll, Erwin
 * http://viaf.org/viaf/111614127 (700) : Vance, Jack
-* http://example.org/surveyitem (600) : surveyitem
 
 
 Agent-innførsler som IKKE er identifiser med URI i $1
@@ -284,17 +283,4 @@ Ser ut som dere mangler verk-til-verk relasjoner?
 
 Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke analytter)
 -------------------------------------------------------
-001 = p1m8hc6jmr57njhj, Crash / Ballard, J. G. / Novel 
-* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> surveyitem (600)
-001 = 014632893, Hello America / Ballard, J. G. / Fiction 
-* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> surveyitem (600)
-001 = 010077516, Empire of the sun / Ballard, J. G. / Fiction 
-* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> surveyitem (600)
-001 = 021119950, The four-dimensional nightmare / Ballard, J. G. / Fiction 
-* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> surveyitem (600)
-001 = 017103567, The complete stories of J.G. Ballard / Ballard, J. G. / Short story 
-* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> surveyitem (600)
-001 = 010705360, Low-flying aircraft, and other stories / Ballard, J. G. / Short story 
-* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> surveyitem (600)
-001 = 011691325, The best of J. G. Ballard / Ballard, J. G. / Fiction 
-* http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> surveyitem (600)
+Ser ut som dere mangler slike relasjoner? 

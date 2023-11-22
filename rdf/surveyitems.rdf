@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xml:lang="en"
+    xmlns:map="http://www.w3.org/2005/xpath-functions/map"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:rdac="http://rdaregistry.info/Elements/c/"
+    xmlns:rdaad="http://rdaregistry.info/Elements/a/datatype/"
+    xmlns:rdaao="http://rdaregistry.info/Elements/a/object/"
+    xmlns:rdawd="http://rdaregistry.info/Elements/w/datatype/"
+    xmlns:rdawo="http://rdaregistry.info/Elements/w/object/"
+    xmlns:rdaed="http://rdaregistry.info/Elements/e/datatype/"
+    xmlns:rdaeo="http://rdaregistry.info/Elements/e/object/"
+    xmlns:rdamd="http://rdaregistry.info/Elements/m/datatype/"
+    xmlns:rdamo="http://rdaregistry.info/Elements/m/object/"
+    xmlns:rdaxd="http://rdaregistry.info/Elements/x/datatype/"
+    xmlns:mads="http://www.loc.gov/mads/rdf/v1#"
+    xmlns:mmmm="http://www.loc.gov/MARC21/slim/"
+    xmlns:rdaco="http://rdaregistry.info/termList/RDAContentType/"
+    xmlns:rdact="http://rdaregistry.info/termList/RDACarrierType/"
+    xmlns:rdamt="http://rdaregistry.info/termList/RDAMediaType/"
+    xmlns:rdat="http://rdaregistry.info/termList/"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:ex="http://www.example.org/">
+    <rdac:C10002 rdf:about="http://example.org/surveyitem">
+        <rdaxd:P00018>http://example.org/surveyitem</rdaxd:P00018>
+        <rdaad:P50385>surveyitem</rdaad:P50385>
+        <rdfs:label>surveyitem</rdfs:label>
+    </rdac:C10002>
+    <!-- Ballard -->
+    <rdac:C10001 rdf:about="http://viaf.org/viaf/180997771">
+        <rdaxd:P00018>http://viaf.org/viaf/180997771</rdaxd:P00018>
+        <rdfs:label>Empire of the sun (Ballard, J. G.)</rdfs:label>
+        <rdawo:P10319 rdf:resource="http://example.org/surveyitem"/>
+    </rdac:C10001>
+    <rdac:C10001 rdf:about="http://viaf.org/viaf/183430784">
+        <rdaxd:P00018>http://viaf.org/viaf/183430784</rdaxd:P00018>
+        <rdawd:P10088>The four-dimensional nightmare</rdawd:P10088>
+        <rdfs:label>The four-dimensional nightmare (Ballard, J. G.)</rdfs:label>
+        <rdawo:P10319 rdf:resource="http://example.org/surveyitem"/>
+    </rdac:C10001>
+    <rdac:C10001 rdf:about="http://viaf.org/viaf/9842556/complete">
+        <rdaxd:P00018>http://viaf.org/viaf/9842556/complete</rdaxd:P00018>
+        <rdawd:P10088>The complete stories of J.G. Ballard</rdawd:P10088>
+        <rdfs:label>The complete stories of J.G. Ballard (Ballard, J. G.)</rdfs:label>
+        <rdaxd:P00029>Collection</rdaxd:P00029>
+        <rdawo:P10061 rdf:resource="http://viaf.org/viaf/9842556"/>
+        <rdawo:P10319 rdf:resource="http://example.org/surveyitem"/>
+    </rdac:C10001>
+    <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57583">
+        <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?57583</rdaxd:P00018>
+        <rdaxd:P00029>Short story</rdaxd:P00029>
+        <rdawd:P10088>The dead astronaut</rdawd:P10088>
+        <rdfs:label>The dead astronaut (Ballard, J. G.)</rdfs:label>
+        <rdawo:P10061 rdf:resource="http://viaf.org/viaf/9842556"/>
+        <rdawo:P10319 rdf:resource="http://example.org/surveyitem"/>
+    </rdac:C10001>
+    <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57599">
+        <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?57599</rdaxd:P00018>
+        <rdaxd:P00029>Short story</rdaxd:P00029>
+        <rdawd:P10088>The life and death of God</rdawd:P10088>
+        <rdfs:label>The life and death of God (Ballard, J. G.)</rdfs:label>
+        <rdawo:P10061 rdf:resource="http://viaf.org/viaf/9842556"/>
+        <rdawo:P10319 rdf:resource="http://example.org/surveyitem"/>
+    </rdac:C10001>
+    <rdac:C10001 rdf:about="http://www.isfdb.org/cgi-bin/title.cgi?57602">
+        <rdaxd:P00018>http://www.isfdb.org/cgi-bin/title.cgi?57602</rdaxd:P00018>
+        <rdaxd:P00029>Short story</rdaxd:P00029>
+        <rdawd:P10088>Low-flying aircraft</rdawd:P10088>
+        <rdfs:label>Low-flying aircraft (Ballard, J. G.)</rdfs:label>
+        <rdawo:P10061 rdf:resource="http://viaf.org/viaf/9842556"/>
+        <rdawo:P10319 rdf:resource="http://example.org/surveyitem"/>
+    </rdac:C10001>
+    <rdac:C10001 rdf:about="http://www.wikidata.org/entity/Q6692707">
+        <rdaxd:P00018>http://www.wikidata.org/entity/Q6692707</rdaxd:P00018>
+        <rdawd:P10088>Low-flying aircraft, and other stories</rdawd:P10088>
+        <rdfs:label>Low-flying aircraft, and other stories (Ballard, J. G.)</rdfs:label>
+        <rdaxd:P00029>Collection</rdaxd:P00029>
+        <rdawo:P10319 rdf:resource="http://example.org/surveyitem"/>
+    </rdac:C10001>
+    <rdac:C10001 rdf:about="http://viaf.org/viaf/202977755">
+        <rdaxd:P00018>http://viaf.org/viaf/202977755</rdaxd:P00018>
+        <rdawd:P10088>Hello America</rdawd:P10088>
+        <rdfs:label>Hello America (Ballard, J. G.)</rdfs:label>
+        <rdaxd:P00029>Novel</rdaxd:P00029>
+        <rdawo:P10319 rdf:resource="http://example.org/surveyitem"/>
+    </rdac:C10001>
+    <rdac:C10001 rdf:about="http://viaf.org/viaf/305922109">
+        <rdaxd:P00018>http://viaf.org/viaf/305922109</rdaxd:P00018>
+        <rdawd:P10088>Crash</rdawd:P10088>
+        <rdfs:label>Crash (Ballard, J. G.)</rdfs:label>
+        <rdaxd:P00029>Novel</rdaxd:P00029>
+        <rdawd:P10330>In this hallucinatory novel, an automobile provides the hellish tableau in which Vaughan, a "TV scientist" turned "nightmare angel of the highways," experiments with erotic atrocities among auto crash victims, each more sinister than the last. James Ballard, his friend and fellow obsessive, tells the story of this twisted visionary as he careens rapidly toward his own demise in an internationally orchestrated car crash with Elizabeth Taylor.</rdawd:P10330>
+        <rdawo:P10319 rdf:resource="http://example.org/surveyitem"/>
+    </rdac:C10001>
+</rdf:RDF>
