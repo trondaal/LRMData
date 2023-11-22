@@ -23100,6 +23100,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://example.org/surveyitem"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "surveyitem"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://example.org/suskindpatrick/dietaube"
                 },
                 "label": {

@@ -192,6 +192,12 @@
         <datafield tag="520" ind1=" " ind2=" ">
             <subfield code="a">In this hallucinatory novel, an automobile provides the hellish tableau in which Vaughan, a "TV scientist" turned "nightmare angel of the highways," experiments with erotic atrocities among auto crash victims, each more sinister than the last. James Ballard, his friend and fellow obsessive, tells the story of this twisted visionary as he careens rapidly toward his own demise in an internationally orchestrated car crash with Elizabeth Taylor.</subfield>
         </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <!-- used to generate examples -->
+            <subfield code="a">surveyitem</subfield>
+            <subfield code="1">http://example.org/surveyitem</subfield>
+            <subfield code="8">1/c</subfield>
+        </datafield>
     </record>
     <!-- Hello America -->
     <record>
@@ -264,6 +270,12 @@
         </datafield>
         <datafield tag="500" ind1=" " ind2=" ">
             <subfield code="a">Originally published: London: Cape, 1981.</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <!-- used to generate examples -->
+            <subfield code="a">surveyitem</subfield>
+            <subfield code="1">http://example.org/surveyitem</subfield>
+            <subfield code="8">1/c</subfield>
         </datafield>
     </record>
     <record>
@@ -398,6 +410,11 @@
         <datafield tag="380" ind1=" " ind2=" ">
             <subfield code="a">Fiction</subfield>
         </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <!-- used to generate examples -->
+            <subfield code="a">surveyitem</subfield>
+            <subfield code="1">http://example.org/surveyitem</subfield>
+        </datafield>   
     </record>
     <record>
         <leader>01438pam a2200373 a 4500</leader>
@@ -669,7 +686,15 @@
             <subfield code="t">Chronopolis</subfield>
             <subfield code="1">http://www.isfdb.org/cgi-bin/title.cgi?41557</subfield>
         </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <!-- used to generate examples -->
+            <subfield code="a">surveyitem</subfield>
+            <subfield code="1">http://example.org/surveyitem</subfield>
+            <subfield code="8">1/c</subfield>
+        </datafield>
     </record>
+    
+
 
     <record>
         <leader>00996cam a2200241 a 4500</leader>
@@ -972,6 +997,13 @@
             <subfield code="a">The complete stories of J.G. Ballard</subfield>
             <subfield code="k">Collection</subfield>
             <subfield code="1">http://viaf.org/viaf/9842556/complete</subfield>
+            <subfield code="8">1/c</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <!-- used to generate examples -->
+            <subfield code="a">surveyitem</subfield>
+            <subfield code="1">http://example.org/surveyitem</subfield>
+            <subfield code="8">1/c</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="4">
             <subfield code="a">The complete stories of J.G. Ballard /</subfield>
@@ -2335,10 +2367,15 @@
             <subfield code="1">http://viaf.org/viaf/9842556</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
         </datafield>
-        <datafield tag="240" ind1="0" ind2="0">
+        <datafield tag="240" ind1="1" ind2="0">
             <subfield code="a">Low-flying aircraft, and other stories</subfield>
             <subfield code="k">Collection</subfield>
             <subfield code="1">http://www.wikidata.org/entity/Q6692707</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <!-- used to generate examples -->
+            <subfield code="a">surveyitem</subfield>
+            <subfield code="1">http://example.org/surveyitem</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="0">
             <subfield code="a">Low-flying aircraft, and other stories /</subfield>
@@ -3598,6 +3635,13 @@
             <subfield code="a">The best of J. G. Ballard</subfield>
             <subfield code="k">Collection</subfield>
             <subfield code="1">https://www.isfdb.org/cgi-bin/pl.cgi?35804</subfield>
+            <subfield code="8">1/c</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <!-- used to generate examples -->
+            <subfield code="a">surveyitem</subfield>
+            <subfield code="1">http://example.org/surveyitem</subfield>
+            <subfield code="8">1/c</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="4">
             <subfield code="a">The best of J. G. Ballard /</subfield>
