@@ -2,7 +2,6 @@
 <collection xmlns="http://www.loc.gov/MARC21/slim"
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
-    
     <!-- 
     Tolkien, J. R. R.: http://www.wikidata.org/entity/Q892 
             <subfield code="1">http://viaf.org/viaf/95218067</subfield>
@@ -1229,10 +1228,10 @@
             <subfield code="a">The Lord of the rings ;</subfield>
             <subfield code="v">v. 2</subfield>
         </datafield>
-        <datafield tag="758" ind1="1" ind2=" ">
+        <!--<datafield tag="758" ind1="1" ind2=" ">
             <subfield code="1">http://www.wikidata.org/entity/Q208002</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10122</subfield>
-        </datafield>
+        </datafield>-->
         <datafield tag="800" ind1="1" ind2=" ">
             <subfield code="a">Tolkien, J. R. R.</subfield>
             <subfield code="q">(John Ronald Reuel),</subfield>
@@ -1303,10 +1302,10 @@
         <datafield tag="500" ind1=" " ind2=" ">
             <subfield code="a">Map on folded sheet attached to inside cover.</subfield>
         </datafield>
-        <datafield tag="758" ind1="1" ind2=" ">
+        <!--<datafield tag="758" ind1="1" ind2=" ">
             <subfield code="1">http://www.wikidata.org/entity/Q332388</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10122</subfield>
-        </datafield>
+        </datafield>-->
         <datafield tag="800" ind1="1" ind2=" ">
             <subfield code="a">Tolkien, J. R. R.</subfield>
             <subfield code="q">(John Ronald Reuel),</subfield>
@@ -1509,11 +1508,11 @@
             <subfield code="4">http://rdaregistry.info/Elements/m/object/P30321</subfield>
             <subfield code="1">http://viaf.org/viaf/35315716</subfield>
         </datafield>
-        <datafield tag="758" ind1="1" ind2=" ">
+<!--        <datafield tag="758" ind1="1" ind2=" ">
             <subfield code="1">http://www.wikidata.org/entity/Q74287</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10122</subfield>
             <subfield code="8">1/c</subfield>
-        </datafield>
+        </datafield>-->
     </record>
     <record>
         <leader>00811cam a2200253 a 4500</leader>
