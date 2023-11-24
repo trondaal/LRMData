@@ -95,37 +95,20 @@
         <rdawo:P10319 rdf:resource="http://example.org/surveyitem"/>
     </rdac:C10001>
     <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/pl.cgi?279033">
-        <rdaxd:P00018>https://www.isfdb.org/cgi-bin/pl.cgi?279033</rdaxd:P00018>
-        <rdawd:P10088>The best of J. G. Ballard</rdawd:P10088>
         <rdfs:label>The best of J. G. Ballard (Ballard, J. G.)</rdfs:label>
-        <rdaxd:P00029>Collection</rdaxd:P00029>
-        <rdawd:P10088>The best short stories of J.G. Ballard</rdawd:P10088>
-        <rdfs:label>The best short stories of J.G. Ballard (Ballard, J. G.)</rdfs:label>
-        <rdawo:P10061 rdf:resource="http://viaf.org/viaf/9842556"/>
         <rdawo:P10319 rdf:resource="http://example.org/surveyitem"/>
     </rdac:C10001>
     <!-- Tolkien -->
     <rdac:C10001 rdf:about="http://www.wikidata.org/entity/Q15228">
-        <rdaxd:P00018>http://www.wikidata.org/entity/Q15228</rdaxd:P00018>
-        <rdawd:P10088>Lord of the rings</rdawd:P10088>
         <rdfs:label>Lord of the rings (Tolkien, J. R. R.)</rdfs:label>
-        <rdaxd:P00029>Collection</rdaxd:P00029>
-        <rdaxd:P00029>Novel</rdaxd:P00029>
-        <rdfs:label>Lord of the rings</rdfs:label>
         <rdawo:P10319 rdf:resource="http://example.org/surveyitem"/>
     </rdac:C10001>
     <rdac:C10001 rdf:about="http://www.wikidata.org/entity/Q15228/companioned">
-        <rdaxd:P00018>http://www.wikidata.org/entity/Q15228/companioned</rdaxd:P00018>
-        <rdawd:P10088>Lord of the rings [with a readers companion]</rdawd:P10088>
         <rdfs:label>Lord of the rings [with a readers companion] (Tolkien, J. R. R.)</rdfs:label>
-        <rdaxd:P00029>Collection</rdaxd:P00029>
         <rdawo:P10319 rdf:resource="http://example.org/surveyitem"/>
     </rdac:C10001>
     <rdac:C10001 rdf:about="http://www.wikidata.org/entity/Q15228/extended">
-        <rdaxd:P00018>http://www.wikidata.org/entity/Q15228/extended</rdaxd:P00018>
-        <rdawd:P10088>The Hobbit ; Lord of the rings</rdawd:P10088>
         <rdfs:label>The Hobbit ; Lord of the rings (Tolkien, J. R. R.)</rdfs:label>
-        <rdaxd:P00029>Collection</rdaxd:P00029>
         <rdawo:P10319 rdf:resource="http://example.org/surveyitem"/>
     </rdac:C10001>
     <rdac:C10001 rdf:about="http://www.wikidata.org/entity/Q208002">
@@ -156,6 +139,26 @@
         <rdawd:P10088>The hobbit, or there and back again</rdawd:P10088>
         <rdfs:label>The hobbit, or there and back again (Tolkien, J. R. R.)</rdfs:label>
         <rdaxd:P00029>Novel</rdaxd:P00029>
+        <rdawo:P10319 rdf:resource="http://example.org/surveyitem"/>
+    </rdac:C10001>
+    <rdac:C10001 rdf:about="http://viaf.org/viaf/183065413">
+        <rdfs:label>The silmarillion (Tolkien, J. R. R.)</rdfs:label>
+        <rdawo:P10319 rdf:resource="http://example.org/surveyitem"/>
+    </rdac:C10001>
+    <rdac:C10001 rdf:about="http://viaf.org/viaf/219968903">
+        <rdfs:label>Unfinished tales of Númenor and Middle-earth (Tolkien, J. R. R.)</rdfs:label>
+        <rdawo:P10319 rdf:resource="http://example.org/surveyitem"/>
+    </rdac:C10001>
+    <rdac:C10001 rdf:about="http://viaf.org/viaf/95218067/letters">
+        <rdfs:label>The letters of J.R.R. Tolkien (Tolkien, J. R. R.)</rdfs:label>
+        <rdawo:P10319 rdf:resource="http://example.org/surveyitem"/>
+    </rdac:C10001>
+    <rdac:C10001 rdf:about="http://viaf.org/viaf/95218067/poemsandsongs">
+        <rdfs:label>Poems and songs of middle earth (Tolkien, J. R. R.)</rdfs:label>
+        <rdawo:P10319 rdf:resource="http://example.org/surveyitem"/>
+    </rdac:C10001>
+    <rdac:C10001 rdf:about="http://www.wikidata.org/entity/Q112731328">
+        <rdfs:label>The fall of Númenor and other tales from the Second Age of Middle-Earth (Tolkien, J. R. R.)</rdfs:label>
         <rdawo:P10319 rdf:resource="http://example.org/surveyitem"/>
     </rdac:C10001>
     <!-- Christie -->

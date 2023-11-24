@@ -3080,6 +3080,36 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-0048231398"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN0048231398"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0048231797"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN0048231797"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0048232084"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN0048232084"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-009946604"
                 },
                 "label": {
@@ -3455,6 +3485,16 @@
                 "label": {
                     "type": "literal",
                     "value": "ISBN0233956506"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0261102168"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN0261102168"
                 }
             },
             {
@@ -11190,6 +11230,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-9780007381234"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN0007381239"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-9780007522934"
                 },
                 "label": {
@@ -11350,11 +11400,41 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-9780008537852"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN9780008537852 (ePub ebook)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-9780008542184"
                 },
                 "label": {
                     "type": "literal",
                     "value": "ISBN9780008542184 (pbk.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780008560317"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN9780008560317 (ePub ebook)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9780061927744"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN9780061927744"
                 }
             },
             {
@@ -27753,6 +27833,27 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/183065413"
+                },
+                "label": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "The silmarillion (Tolkien, J. R. R.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/183065413/exp/eng/1020/12315790"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "The silmarillion (Tolkien, J. R. R.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/183154037"
                 },
                 "label": {
@@ -30977,6 +31078,27 @@
                 "label": {
                     "type": "literal",
                     "value": "Ca\u00edda inexorable"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/219968903"
+                },
+                "label": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "Unfinished tales of N\u00famenor and Middle-earth (Tolkien, J. R. R.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/219968903/exp/eng/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Unfinished tales of N\u00famenor and Middle-earth (Tolkien, J. R. R.)"
                 }
             },
             {
@@ -37645,6 +37767,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/41837660"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Carpenter, Humphrey"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/41841418/lauscherhermann"
                 },
                 "label": {
@@ -43630,6 +43762,48 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/95218067/letters"
+                },
+                "label": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "The letters of J.R.R. Tolkien (Tolkien, J. R. R.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/95218067/letters/exp/eng/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "The letters of J.R.R. Tolkien (Tolkien, J. R. R.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/95218067/poemsandsongs"
+                },
+                "label": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "Poems and songs of middle earth (Tolkien, J. R. R.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/95218067/poemsandsongs/exp/eng/1013"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Poems and songs of middle earth (Tolkien, J. R. R.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/97006424"
                 },
                 "label": {
@@ -48004,6 +48178,27 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q112731328"
+                },
+                "label": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "The fall of N\u00famenor and other tales from the Second Age of Middle-Earth (Tolkien, J. R. R.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q112731328/exp/eng/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "The fall of N\u00famenor (Tolkien, J. R. R.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q11966095"
                 },
                 "label": {
@@ -48409,7 +48604,7 @@
                 "label": {
                     "xml:lang": "en",
                     "type": "literal",
-                    "value": "Lord of the rings"
+                    "value": "Lord of the rings (Tolkien, J. R. R.)"
                 }
             },
             {
@@ -49853,6 +50048,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "https://isni.org/isni/000000008178197X"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Sibley, Brian"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "https://isni.org/isni/0000000108589241"
                 },
                 "label": {
@@ -50394,6 +50599,16 @@
                 "label": {
                     "type": "literal",
                     "value": "Damon, Matt"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000121480873"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Lee, Alan"
                 }
             },
             {

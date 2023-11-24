@@ -22,6 +22,21 @@
          xmlns:rdat="http://rdaregistry.info/termList/"
          xmlns:skos="http://www.w3.org/2004/02/skos/core#"
          xmlns:ex="http://www.example.org/">
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/183065413">
+      <rdaxd:P00018>http://viaf.org/viaf/183065413</rdaxd:P00018>
+      <rdawd:P10088>The silmarillion</rdawd:P10088>
+      <rdfs:label>The silmarillion (Tolkien, J. R. R.)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/95218067"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/219968903">
+      <rdaxd:P00018>http://viaf.org/viaf/219968903</rdaxd:P00018>
+      <rdawd:P10088>Unfinished tales of Númenor and Middle-earth</rdawd:P10088>
+      <rdfs:label>Unfinished tales of Númenor and Middle-earth (Tolkien, J. R. R.)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/95218067"/>
+      <rdawo:P10393 rdf:resource="http://viaf.org/viaf/12315790"/>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/9014152502908610800009">
       <rdaxd:P00018>http://viaf.org/viaf/9014152502908610800009</rdaxd:P00018>
       <rdawd:P10088>Lord of the rings : a reader's companion</rdawd:P10088>
@@ -31,6 +46,27 @@
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/59153962"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/54260077"/>
       <rdawo:P10257 rdf:resource="http://www.wikidata.org/entity/Q15228"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/95218067/letters">
+      <rdaxd:P00018>http://viaf.org/viaf/95218067/letters</rdaxd:P00018>
+      <rdawd:P10088>The letters of J.R.R. Tolkien</rdawd:P10088>
+      <rdfs:label>The letters of J.R.R. Tolkien (Tolkien, J. R. R.)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/95218067"/>
+      <rdawo:P10393 rdf:resource="http://viaf.org/viaf/41837660"/>
+      <rdawo:P10393 rdf:resource="http://viaf.org/viaf/12315790"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/95218067/poemsandsongs">
+      <rdaxd:P00018>http://viaf.org/viaf/95218067/poemsandsongs</rdaxd:P00018>
+      <rdawd:P10088>Poems and songs of middle earth</rdawd:P10088>
+      <rdfs:label>Poems and songs of middle earth (Tolkien, J. R. R.)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/95218067"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://www.wikidata.org/entity/Q112731328">
+      <rdaxd:P00018>http://www.wikidata.org/entity/Q112731328</rdaxd:P00018>
+      <rdawd:P10088>The fall of Númenor and other tales from the Second Age of Middle-Earth</rdawd:P10088>
+      <rdfs:label>The fall of Númenor and other tales from the Second Age of Middle-Earth (Tolkien, J. R. R.)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/95218067"/>
+      <rdawo:P10393 rdf:resource="https://isni.org/isni/000000008178197X"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://www.wikidata.org/entity/Q15228">
       <rdaxd:P00018>http://www.wikidata.org/entity/Q15228</rdaxd:P00018>
@@ -98,9 +134,9 @@
       <rdfs:label>The war of the ring (Tolkien, J. R. R.)</rdfs:label>
       <rdaxd:P00029>Novel</rdaxd:P00029>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
-      <rdawo:P10055 rdf:resource="http://viaf.org/viaf/12315790"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/95218067"/>
       <rdawo:P10257 rdf:resource="http://www.wikidata.org/entity/Q15228"/>
+      <rdawo:P10393 rdf:resource="http://viaf.org/viaf/12315790"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://www.wikidata.org/entity/Q74287">
       <rdaxd:P00018>http://www.wikidata.org/entity/Q74287</rdaxd:P00018>
@@ -168,6 +204,11 @@
       <rdaad:P50385>Fraser, Eric</rdaad:P50385>
       <rdfs:label>Fraser, Eric</rdfs:label>
    </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/41837660">
+      <rdaxd:P00018>http://viaf.org/viaf/41837660</rdaxd:P00018>
+      <rdaad:P50385>Carpenter, Humphrey</rdaad:P50385>
+      <rdfs:label>Carpenter, Humphrey</rdfs:label>
+   </rdac:C10002>
    <rdac:C10002 rdf:about="http://viaf.org/viaf/49263415">
       <rdaxd:P00018>http://viaf.org/viaf/49263415</rdaxd:P00018>
       <rdaad:P50385>Grathmer, Ingahild</rdaad:P50385>
@@ -210,6 +251,37 @@
       <rdaad:P50385>Åsen, Finn</rdaad:P50385>
       <rdfs:label>Åsen, Finn</rdfs:label>
    </rdac:C10002>
+   <rdac:C10002 rdf:about="https://isni.org/isni/000000008178197X">
+      <rdaxd:P00018>https://isni.org/isni/000000008178197X</rdaxd:P00018>
+      <rdaad:P50385>Sibley, Brian</rdaad:P50385>
+      <rdfs:label>Sibley, Brian</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="https://isni.org/isni/0000000121480873">
+      <rdaxd:P00018>https://isni.org/isni/0000000121480873</rdaxd:P00018>
+      <rdaad:P50385>Lee, Alan</rdaad:P50385>
+      <rdfs:label>Lee, Alan</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/183065413/exp/eng/1020/12315790">
+      <rdaed:P20316>The silmarillion</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>The silmarillion</rdaed:P20312>
+      <rdfs:label>The silmarillion (Tolkien, J. R. R.)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/183065413"/>
+      <rdaeo:P20330 rdf:resource="http://viaf.org/viaf/12315790"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/219968903/exp/eng/1020">
+      <rdaed:P20316>Unfinished tales of Númenor and Middle-earth</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20316>Prose works</rdaed:P20316>
+      <rdaed:P20312>Unfinished tales of Númenor and Middle-earth</rdaed:P20312>
+      <rdfs:label>Unfinished tales of Númenor and Middle-earth (Tolkien, J. R. R.)</rdfs:label>
+      <rdaed:P20071>Of Tuor and his coming to Gondolin -- Narn i hîn Húrin -- A description of the island of Númenor -- Aldarion and Erendis -- The line of Elros : Kings of Númenor -- The history of Galadriel and Celeborn -- The disaster of the Gladden Fields -- Cirion and Eorl and the friendship of Gondor and Rohan -- The quest of Erebor -- The hunt for the Ring -- The battles of the Fords of Isen -- The Drúedain -- The Istari -- The Palantíri.</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/219968903"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/9014152502908610800009/exp/eng/1020">
       <rdaed:P20316>Lord of the rings : a reader's companion</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
@@ -223,6 +295,35 @@
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9014152502908610800009"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/95218067/letters/exp/eng/1020">
+      <rdaed:P20316>The letters of J.R.R. Tolkien</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>The letters of J.R.R. Tolkien</rdaed:P20312>
+      <rdfs:label>The letters of J.R.R. Tolkien (Tolkien, J. R. R.)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/95218067/letters"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/95218067/poemsandsongs/exp/eng/1013">
+      <rdaed:P20316>Poems and songs of middle earth</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Poems and songs of middle earth</rdaed:P20312>
+      <rdfs:label>Poems and songs of middle earth (Tolkien, J. R. R.)</rdfs:label>
+      <rdaed:P20071>The adventures of Tom Bombadil -- The mewlips -- The hoard -- Perry-the-winkle -- The man in the moon came down too soon -- The sea-bell -- A Elbereth Gilthoniel (in Elvish) -- The road goes ever on / words by J.R.R. Tolkien ; music by Donald Swann ; sung by William Elvin with the composer at the piano -- The road goes ever on -- Upon the hearth the fire is red -- In the willow-meads of Tasarinan -- In western lands -- Namarie (in Elvish) -- I sit beside the fire : refrain A Elbereth Gilthoniel -- Errantry.</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/95218067/poemsandsongs"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q112731328/exp/eng/1020">
+      <rdaed:P20316>Short stories</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20316>The fall of Númenor and other tales from the Second Age of Middle-Earth</rdaed:P20316>
+      <rdaed:P20312>The fall of Númenor : and other tales from the Second Age of Middle-Earth</rdaed:P20312>
+      <rdfs:label>The fall of Númenor (Tolkien, J. R. R.)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q112731328"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://www.wikidata.org/entity/Q15228/companioned/exp/eng/1020">
       <rdaed:P20316>Lord of the rings [with a readers companion]</rdaed:P20316>
@@ -598,6 +699,22 @@
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q503325/exp/eng/1020"/>
    </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/022763547">
+      <rdamd:P30156>Poems and songs of middle earth</rdamd:P30156>
+      <rdamd:P30117>read by the author, J.R.R. Tolkien</rdamd:P30117>
+      <rdamd:P30088>New York, N.Y</rdamd:P30088>
+      <rdamd:P30111>New York, N.Y. : Caedmon Records Inc., [1967].</rdamd:P30111>
+      <rdamd:P30083>Caedmon Records Inc</rdamd:P30083>
+      <rdamd:P30011>[1967]</rdamd:P30011>
+      <rdamd:P30007>©1967</rdamd:P30007>
+      <rdamd:P30182>1 audio disc : analog, 33 1/3 rpm, stereo, 12 in.</rdamd:P30182>
+      <rdamd:P30137>Copyright in the words George Allen and Unwin Ltd. ; copyright in the music Donald Swann.</rdamd:P30137>
+      <rdamd:P30137>Critical notes by W.H. Auden on container.</rdamd:P30137>
+      <rdamd:P30033>The adventures of Tom Bombadil -- The mewlips -- The hoard -- Perry-the-winkle -- The man in the moon came down too soon -- The sea-bell -- A Elbereth Gilthoniel (in Elvish) -- The road goes ever on / words by J.R.R. Tolkien ; music by Donald Swann ; sung by William Elvin with the composer at the piano -- The road goes ever on -- Upon the hearth the fire is red -- In the willow-meads of Tasarinan -- In western lands -- Namarie (in Elvish) -- I sit beside the fire : refrain A Elbereth Gilthoniel -- Errantry.</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/95218067/poemsandsongs/exp/eng/1013"/>
+   </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-000720308">
       <rdamd:P30004>ISBN 000720308X (hbk.)</rdamd:P30004>
       <rdaxd:P00018>isbn-000720308</rdaxd:P00018>
@@ -665,7 +782,7 @@
       <rdamd:P30083>Unwin Paperbacks</rdamd:P30083>
       <rdamd:P30011>1989</rdamd:P30011>
       <rdamd:P30182>455 p. : maps, 20 cm.</rdamd:P30182>
-      <rdamd:P30033>Part one : The Fall of Numenor and The lost road -- Part two : Valinor and Middle Earth before The lord of the rings -- Part three : The etymologies</rdamd:P30033>
+      <rdamd:P30033>The Fall of Numenor and The lost road -- Valinor and Middle Earth before The lord of the rings -- The etymologies</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
    </rdac:C10007>
@@ -706,6 +823,78 @@
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332581/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0048231398">
+      <rdamd:P30004>ISBN 0048231398</rdamd:P30004>
+      <rdaxd:P00018>isbn-0048231398</rdaxd:P00018>
+      <rdfs:label>ISBN0048231398</rdfs:label>
+      <rdamd:P30156>The silmarillion</rdamd:P30156>
+      <rdamd:P30117>J. R. R. Tolkien ; edited by Christopher Tolkien</rdamd:P30117>
+      <rdamd:P30107>Collector's edition</rdamd:P30107>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : George Allen &amp; Unwin, 1977.</rdamd:P30111>
+      <rdamd:P30083>George Allen &amp; Unwin</rdamd:P30083>
+      <rdamd:P30011>1977</rdamd:P30011>
+      <rdamd:P30007>©1977</rdamd:P30007>
+      <rdamd:P30182>365 pages,1 unnumbered folded leaf of plates : illustrations, genealogical tables, maps (1 folded), 23 cm.</rdamd:P30182>
+      <rdamd:P30137>Includes index.</rdamd:P30137>
+      <rdamd:P30137>First edition plate affixed on first free end paper: "This is copy number ... of the first one thousand copies off the press of the first edition of The Silmarillion by J.R.R. Tolkien reserved for later publication in this collector's edition."</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/183065413/exp/eng/1020/12315790"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0048231797">
+      <rdamd:P30004>ISBN 0048231797</rdamd:P30004>
+      <rdaxd:P00018>isbn-0048231797</rdaxd:P00018>
+      <rdfs:label>ISBN0048231797</rdfs:label>
+      <rdamd:P30156>Unfinished tales of Númenor and Middle-earth</rdamd:P30156>
+      <rdamd:P30117>by J. R. R. Tolkien ; edited with introduction, commentary, index and maps by Christopher Tolkien</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Allen &amp; Unwin, 1980.</rdamd:P30111>
+      <rdamd:P30083>Allen &amp; Unwin</rdamd:P30083>
+      <rdamd:P30011>1980</rdamd:P30011>
+      <rdamd:P30182>472 p, : maps, 20 cm.</rdamd:P30182>
+      <rdamd:P30033>Of Tuor and his coming to Gondolin -- Narn i hîn Húrin -- A description of the island of Númenor -- Aldarion and Erendis -- The line of Elros : Kings of Númenor -- The history of Galadriel and Celeborn -- The disaster of the Gladden Fields -- Cirion and Eorl and the friendship of Gondor and Rohan -- The quest of Erebor -- The hunt for the Ring -- The battles of the Fords of Isen -- The Drúedain -- The Istari -- The Palantíri.</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/219968903/exp/eng/1020"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/12315790"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0048232084">
+      <rdamd:P30004>ISBN 0048232084</rdamd:P30004>
+      <rdaxd:P00018>isbn-0048232084</rdaxd:P00018>
+      <rdfs:label>ISBN0048232084</rdfs:label>
+      <rdamd:P30156>Unfinished tales of Númenor and Middle-earth</rdamd:P30156>
+      <rdamd:P30117>by J.R.R. Tolkien ; edited with introduction, commentary, index, and maps by Christopher Tolkien</rdamd:P30117>
+      <rdamd:P30088>London ;</rdamd:P30088>
+      <rdamd:P30088>Boston</rdamd:P30088>
+      <rdamd:P30111>London ; Boston : Unwin Paperbacks, 1982.</rdamd:P30111>
+      <rdamd:P30083>Unwin Paperbacks</rdamd:P30083>
+      <rdamd:P30011>1982</rdamd:P30011>
+      <rdamd:P30182>472 p. : 3 maps, 20 cm.</rdamd:P30182>
+      <rdamd:P30033>Of Tuor and his coming to Gondolin -- Narn i hîn Húrin -- A description of the island of Númenor -- Aldarion and Erendis -- The line of Elros : Kings of Númenor -- The history of Galadriel and Celeborn -- The disaster of the Gladden Fields -- Cirion and Eorl and the friendship of Gondor and Rohan -- The quest of Erebor -- The hunt for the Ring -- The battles of the Fords of Isen -- The Drúedain -- The Istari -- The Palantíri.</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/219968903/exp/eng/1020"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/12315790"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0261102168">
+      <rdamd:P30004>ISBN 0261102168</rdamd:P30004>
+      <rdaxd:P00018>isbn-0261102168</rdaxd:P00018>
+      <rdfs:label>ISBN0261102168</rdfs:label>
+      <rdamd:P30156>Unfinished tales of Númenor and Middle-earth</rdamd:P30156>
+      <rdamd:P30117>by J.R.R. Tolkien ; edited with introduction, commentary, index and maps by Christopher Tolkien</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Grafton, 1991.</rdamd:P30111>
+      <rdamd:P30083>Grafton</rdamd:P30083>
+      <rdamd:P30011>1991</rdamd:P30011>
+      <rdamd:P30182>472 p, : maps, 20 cm.</rdamd:P30182>
+      <rdamd:P30137>Originally published: London: George Allen &amp; Unwin, 1980</rdamd:P30137>
+      <rdamd:P30033>Of Tuor and his coming to Gondolin -- Narn i hîn Húrin -- A description of the island of Númenor -- Aldarion and Erendis -- The line of Elros : Kings of Númenor -- The history of Galadriel and Celeborn -- The disaster of the Gladden Fields -- Cirion and Eorl and the friendship of Gondor and Rohan -- The quest of Erebor -- The hunt for the Ring -- The battles of the Fords of Isen -- The Drúedain -- The Istari -- The Palantíri.</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/219968903/exp/eng/1020"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/12315790"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0261102303">
       <rdamd:P30004>ISBN 0261102303</rdamd:P30004>
@@ -819,6 +1008,28 @@
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q74287/exp/nob/1013/1169314213724530007/224621493/aasenfinn"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9780007381234">
+      <rdamd:P30004>ISBN 9780007381234</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780007381234</rdaxd:P00018>
+      <rdfs:label>ISBN9780007381234</rdfs:label>
+      <rdamd:P30004>ISBN 0007381239</rdamd:P30004>
+      <rdaxd:P00018>isbn-0007381239</rdaxd:P00018>
+      <rdfs:label>ISBN0007381239</rdfs:label>
+      <rdamd:P30156>The letters of J.R.R. Tolkien</rdamd:P30156>
+      <rdamd:P30117>a selection edited by Humphrey Carpenter with the assistance of Christopher Tolkien</rdamd:P30117>
+      <rdamd:P30107>First edition</rdamd:P30107>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : HarperCollinsPublishers, [2012].</rdamd:P30111>
+      <rdamd:P30083>HarperCollinsPublishers</rdamd:P30083>
+      <rdamd:P30011>[2012]</rdamd:P30011>
+      <rdamd:P30007>©1981</rdamd:P30007>
+      <rdamd:P30182>1 online resource.</rdamd:P30182>
+      <rdamd:P30137>Originally published in print: Great Britain : George Allen &amp; Unwin, 1981.</rdamd:P30137>
+      <rdamd:P30137>Academic</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/95218067/letters/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9780007522934">
       <rdamd:P30004>ISBN 9780007522934</rdamd:P30004>
@@ -938,6 +1149,62 @@
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332388/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q332581/exp/eng/1020"/>
    </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9780008537852">
+      <rdamd:P30004>ISBN 9780008537852 (ePub ebook)</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780008537852</rdaxd:P00018>
+      <rdfs:label>ISBN9780008537852 (ePub ebook)</rdfs:label>
+      <rdamd:P30156>The fall of Númenor</rdamd:P30156>
+      <rdamd:P30142>and other tales from the Second Age of Middle-Earth</rdamd:P30142>
+      <rdamd:P30117>J.R.R. Tolkien ; illustrated by Alan Lee ; edited by Brian Sibley</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : HarperCollinsPublishers, 2022.</rdamd:P30111>
+      <rdamd:P30083>HarperCollinsPublishers</rdamd:P30083>
+      <rdamd:P30011>2022</rdamd:P30011>
+      <rdamd:P30182>1 online resource : illustrations.</rdamd:P30182>
+      <rdamd:P30137>Academic</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
+      <rdamo:P30139 rdf:resource="http://www.wikidata.org/entity/Q112731328/exp/eng/1020"/>
+      <rdamo:P30321 rdf:resource="https://isni.org/isni/0000000121480873"/>
+      <rdamo:P30328 rdf:resource="https://isni.org/isni/000000008178197X"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9780008560317">
+      <rdamd:P30004>ISBN 9780008560317 (ePub ebook)</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780008560317</rdaxd:P00018>
+      <rdfs:label>ISBN9780008560317 (ePub ebook)</rdfs:label>
+      <rdamd:P30156>The Silmarillion</rdamd:P30156>
+      <rdamd:P30117>J.R.R. Tolkien ; edited by Christopher Tolkien</rdamd:P30117>
+      <rdamd:P30107>Illustrated edition</rdamd:P30107>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : HarperCollinsPublishers, 2022.</rdamd:P30111>
+      <rdamd:P30083>HarperCollinsPublishers</rdamd:P30083>
+      <rdamd:P30011>2022</rdamd:P30011>
+      <rdamd:P30182>1 online resource : illustrations (black and white, and colour).</rdamd:P30182>
+      <rdamd:P30137>Academic</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/183065413/exp/eng/1020/12315790"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9780061927744">
+      <rdamd:P30004>ISBN 9780061927744</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780061927744</rdaxd:P00018>
+      <rdfs:label>ISBN9780061927744</rdfs:label>
+      <rdamd:P30156>Unfinished tales of Númenor and Middle-earth</rdamd:P30156>
+      <rdamd:P30117>by J.R.R. Tolkien ; edited by Christopher Tolkien</rdamd:P30117>
+      <rdamd:P30088>Pymble, NSW ;</rdamd:P30088>
+      <rdamd:P30088>New York</rdamd:P30088>
+      <rdamd:P30111>Pymble, NSW ; New York : HarperCollins e-books, 2009.</rdamd:P30111>
+      <rdamd:P30083>HarperCollins e-books</rdamd:P30083>
+      <rdamd:P30011>2009</rdamd:P30011>
+      <rdamd:P30182>1 online resource (624 pages).</rdamd:P30182>
+      <rdamd:P30137>Includes index.</rdamd:P30137>
+      <rdamd:P30137>Title from eBook information screen.</rdamd:P30137>
+      <rdamd:P30137>Academic</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/219968903/exp/eng/1020"/>
+      <rdamo:P30321 rdf:resource="http://viaf.org/viaf/12315790"/>
+   </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9780261102668">
       <rdamd:P30004>ISBN 9780261102668 (pbk.)</rdamd:P30004>
       <rdaxd:P00018>isbn-9780261102668</rdaxd:P00018>
@@ -1009,6 +1276,9 @@
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1004">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1004</skos:subjectIndicator>
    </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1018">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1018</skos:subjectIndicator>
+   </skos:Concept>
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1049">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1049</skos:subjectIndicator>
    </skos:Concept>
@@ -1023,6 +1293,9 @@
    </skos:Concept>
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1001">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1001</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1003">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1003</skos:subjectIndicator>
    </skos:Concept>
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1007">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1007</skos:subjectIndicator>

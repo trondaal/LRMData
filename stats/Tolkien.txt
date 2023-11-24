@@ -4,13 +4,14 @@ VBINF6000 rapport over datasamling - oppdatert 24/10 2023
 -------------------------------------------------------
 
 
-Antall poster i samlingen:26
+Antall poster i samlingen:35
 -------------------------------------------------------
 
 
 Agenter identifisert med URI
 -------------------------------------------------------
 * http://viaf.org/viaf/9349441 (700) : Agøy, Nils Ivar
+* http://viaf.org/viaf/41837660 (700) : Carpenter, Humphrey
 * http://viaf.org/viaf/85751968 (700) : Deming, Sean
 * http://viaf.org/viaf/102370266 (700) : Dixon, Chuck
 * http://viaf.org/viaf/223273427 (700) : Engelsen, Janniche
@@ -19,11 +20,13 @@ Agenter identifisert med URI
 * http://viaf.org/viaf/1169314213724530007 (700) : Grønnvik, Oddrun
 * http://viaf.org/viaf/59153962 (700, 100) : Hammond, Wayne G
 * http://viaf.org/viaf/65245833 (700) : Høverstad, Torstein Bugge
+* https://isni.org/isni/0000000121480873 (700) : Lee, Alan
 * http://viaf.org/viaf/112458453 (700) : Lee, Alan
 * http://viaf.org/viaf/267471594 (700) : Myhren, Eilev Groven
 * http://viaf.org/viaf/24701800 (700) : Ribu, Anders
 * http://viaf.org/viaf/224621493 (700) : Røe, Knut
 * http://viaf.org/viaf/54260077 (700) : Scull, Christina
+* https://isni.org/isni/000000008178197X (700) : Sibley, Brian
 * http://viaf.org/viaf/12315790 (700) : Tolkien, Christopher
 * http://viaf.org/viaf/95218067 (100) : Tolkien, J. R. R / Tolkien, J.R.R
 * http://viaf.org/viaf/14887593 (700) : Wenzel, David
@@ -36,12 +39,22 @@ men dere velger selv hvilke agenter som skal være med
 * 600  10  $aBaggins, Bilbo  $vFiction.
 * 600  10  $aBaggins, Bilbo  $vComic books, strips, etc.
 * 600  10  $aBaggins, Frodo  $vFiction.
+* 600  10  $aTolkien, J. R. R.  $d1892-1973  $q(John Ronald Reuel),  $vCorrespondence.
+* 600  17  $aTolkien, J. R. R.  $d1892-1973  $q(John Ronald Reuel),  $0(OCoLC)fst00030031 $2fast
+* 600  17  $aTolkien, John R. R. $2swd
+* 700  1#  $aElvin, William,  $eperformer.  $4prf
+* 700  1#  $aSwann, Donald,  $d1923-1994,  $ecomposer,  $einstrumentalist.
 
 
 Verk identifisert med URI
 -------------------------------------------------------
 * J.R.R. Tolkien ; edited by Christopher Tolkien. = The lost road and other writings : language and legend before 'The Lord of the Rings' (Language-based work)
+* http://viaf.org/viaf/183065413 = The silmarillion / The Silmarillion (Language-based work)
+* http://viaf.org/viaf/219968903 = Unfinished tales of Númenor and Middle-earth (Language-based work)
 * http://viaf.org/viaf/9014152502908610800009 = Lord of the rings : a reader's companion / Lord of the rings : a reader's companion. (Language-based work)
+* http://viaf.org/viaf/95218067/letters = The letters of J.R.R. Tolkien 
+* http://viaf.org/viaf/95218067/poemsandsongs = Poems and songs of middle earth 
+* http://www.wikidata.org/entity/Q112731328 = The fall of Númenor and other tales from the Second Age of Middle-Earth 
 * http://www.wikidata.org/entity/Q15228 = Lord of the rings (Language-based work)
 * http://www.wikidata.org/entity/Q15228/companioned = Lord of the rings [with a readers companion] (Language-based work)
 * http://www.wikidata.org/entity/Q15228/extended = The Hobbit ; Lord of the rings (Language-based work)
@@ -58,11 +71,12 @@ verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 * http://rdaregistry.info/Elements/e/object/P20022 (has narrator agent) : 4 
 * http://rdaregistry.info/Elements/e/object/P20037 (has translator agent) : 8 
 * http://rdaregistry.info/Elements/e/object/P20283 (has colourist agent) : 1 
-* http://rdaregistry.info/Elements/e/object/P20330 (has editor agent) : 2 
+* http://rdaregistry.info/Elements/e/object/P20330 (has editor agent) : 4 
 * http://rdaregistry.info/Elements/m/object/P30069 (has book designer agent) : 1 
-* http://rdaregistry.info/Elements/m/object/P30321 (has contributor agent of still image) : 6 
-* http://rdaregistry.info/Elements/w/object/P10055 (has compiler agent) : 2 
-* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 30 
+* http://rdaregistry.info/Elements/m/object/P30321 (has contributor agent of still image) : 11 
+* http://rdaregistry.info/Elements/m/object/P30328 (has contributor agent of text) : 1 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 39 
+* http://rdaregistry.info/Elements/w/object/P10393 (has aggregator agent) : 9 
 
 
 Verk til verk RDA relasjonstyper i 700 og 758 $4-subfelt + label fra RDA registry

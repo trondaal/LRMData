@@ -1229,7 +1229,7 @@
             <subfield code="a">The Lord of the rings ;</subfield>
             <subfield code="v">v. 2</subfield>
         </datafield>
-        <datafield tag="758"  ind1="1" ind2=" ">
+        <datafield tag="758" ind1="1" ind2=" ">
             <subfield code="1">http://www.wikidata.org/entity/Q208002</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10122</subfield>
         </datafield>
@@ -1303,7 +1303,7 @@
         <datafield tag="500" ind1=" " ind2=" ">
             <subfield code="a">Map on folded sheet attached to inside cover.</subfield>
         </datafield>
-        <datafield tag="758"  ind1="1" ind2=" ">
+        <datafield tag="758" ind1="1" ind2=" ">
             <subfield code="1">http://www.wikidata.org/entity/Q332388</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10122</subfield>
         </datafield>
@@ -1509,7 +1509,7 @@
             <subfield code="4">http://rdaregistry.info/Elements/m/object/P30321</subfield>
             <subfield code="1">http://viaf.org/viaf/35315716</subfield>
         </datafield>
-        <datafield tag="758"  ind1="1" ind2=" ">
+        <datafield tag="758" ind1="1" ind2=" ">
             <subfield code="1">http://www.wikidata.org/entity/Q74287</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10122</subfield>
             <subfield code="8">1/c</subfield>
@@ -2613,11 +2613,6 @@
             <subfield code="q">invalid</subfield>
             <subfield code="q">paperback</subfield>
         </datafield>
-        <datafield tag="040" ind1=" " ind2=" ">
-            <subfield code="b">eng</subfield>
-            <subfield code="e">rda</subfield>
-            <subfield code="d">UkOxU</subfield>
-        </datafield>
         <datafield tag="043" ind1=" " ind2=" ">
             <subfield code="a">e-uk-en</subfield>
         </datafield>
@@ -2683,7 +2678,7 @@
             <subfield code="v">8</subfield>
         </datafield>
         <datafield tag="500" ind1=" " ind2=" ">
-            <subfield code="a">&quot;This paperback edition 2002.&quot; --Title page verso.</subfield>
+            <subfield code="a">"This paperback edition 2002." --Title page verso.</subfield>
         </datafield>
         <datafield tag="500" ind1=" " ind2=" ">
             <subfield code="a">First published in Great Britain: London, Unwin Hyman, 1990. Previously published in paperback by Grafton 1992. First published in paperback by HarperCollins Publishers 1997.</subfield>
@@ -2705,13 +2700,10 @@
             <subfield code="x">Criticism, Textual.</subfield>
             <subfield code="1">http://www.wikidata.org/entity/Q15228</subfield>
         </datafield>
-        <datafield tag="650" ind1=" " ind2="0">
-            <subfield code="a">Middle Earth (Imaginary place).</subfield>
-        </datafield>
         <datafield tag="700" ind1="1" ind2=" ">
             <subfield code="a">Tolkien, Christopher.</subfield>
             <subfield code="1">http://viaf.org/viaf/12315790</subfield>
-            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10055 </subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10393</subfield>
         </datafield>
         <datafield tag="800" ind1="1" ind2=" ">
             <subfield code="a">Tolkien, Christopher.</subfield>
@@ -2723,12 +2715,6 @@
             <subfield code="t">History of Middle-Earth ;</subfield>
             <subfield code="v">8.</subfield>
         </datafield>
-        <datafield tag="852" ind1="8" ind2=" ">
-            <subfield code="a">UkOxU</subfield>
-            <subfield code="b">OUSNU</subfield>
-            <subfield code="c">OUSPR</subfield>
-            <subfield code="h">EF.TOL</subfield>
-        </datafield>
     </record>
     <record>
         <leader>00807nam a2200193 a 4500</leader>
@@ -2738,12 +2724,6 @@
         <controlfield tag="008">911024r19891987enk           000 0 eng d</controlfield>
         <datafield tag="020" ind1=" " ind2=" ">
             <subfield code="a">0044403984</subfield>
-        </datafield>
-        <datafield tag="035" ind1=" " ind2=" ">
-            <subfield code="a">oxf98605492</subfield>
-        </datafield>
-        <datafield tag="092" ind1=" " ind2=" ">
-            <subfield code="a">D0401000192</subfield>
         </datafield>
         <datafield tag="100" ind1="1" ind2=" ">
             <subfield code="a">Tolkien, J. R. R.</subfield>
@@ -2794,7 +2774,7 @@
             <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
         </datafield>
         <datafield tag="505" ind1="0" ind2=" ">
-            <subfield code="a">Part one : The Fall of Numenor and The lost road -- Part two : Valinor and Middle Earth before The lord of the rings -- Part three : The etymologies</subfield>
+            <subfield code="a">The Fall of Numenor and The lost road -- Valinor and Middle Earth before The lord of the rings -- The etymologies</subfield>
         </datafield>
         <datafield tag="600" ind1="1" ind2="0">
             <subfield code="a">Tolkien, J. R. R.</subfield>
@@ -2807,13 +2787,882 @@
         <datafield tag="700" ind1="1" ind2=" ">
             <subfield code="a">Tolkien, Christopher.</subfield>
             <subfield code="1">http://viaf.org/viaf/12315790</subfield>
-            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10055 </subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10393</subfield>
         </datafield>
-        <datafield tag="852" ind1="8" ind2=" ">
-            <subfield code="a">UkOxU</subfield>
-            <subfield code="b">BODBL</subfield>
-            <subfield code="h">X92.G00149</subfield>
-            <subfield code="m">(Box B000000002018)</subfield>
+    </record>
+    <!-- Other collections and works -->
+    <!-- Fall of Numenor -->
+    <record>
+        <leader>02018pam a22004331i 4500</leader>
+        <controlfield tag="001">023228786</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20230222180820.0</controlfield>
+        <controlfield tag="006">m    ||  d |      </controlfield>
+        <controlfield tag="007">cr |||||||||||</controlfield>
+        <controlfield tag="008">220629s2022    enka    o     000|j|eng|d</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780008537852 (ePub ebook) :</subfield>
+            <subfield code="c">£20.00</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9780008537838 (hbk.) :</subfield>
+            <subfield code="c">£25.00</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823.912</subfield>
+            <subfield code="2">23</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973,</subfield>
+            <subfield code="e">author.</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Short stories.</subfield>
+            <subfield code="k">Selections</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The fall of Númenor :</subfield>
+            <subfield code="b">and other tales from the Second Age of Middle-Earth /</subfield>
+            <subfield code="c">J.R.R. Tolkien ; illustrated by Alan Lee ; edited by Brian Sibley.</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">The fall of Númenor and other tales from the Second Age of Middle-Earth</subfield>
+            <subfield code="1">http://www.wikidata.org/entity/Q112731328</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">HarperCollinsPublishers,</subfield>
+            <subfield code="c">2022.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 online resource :</subfield>
+            <subfield code="b">illustrations.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">computer</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1003</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">online resource</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1018</subfield>
+        </datafield>
+        <datafield tag="506" ind1="1" ind2=" ">
+            <subfield code="a">Legal Deposit;</subfield>
+            <subfield code="c">Only available on premises controlled by the deposit library and to one user at any one time;</subfield>
+            <subfield code="e">The Legal Deposit Libraries (Non-Print Works) Regulations (UK).</subfield>
+            <subfield code="5">UkOxU</subfield>
+        </datafield>
+        <datafield tag="540" ind1=" " ind2=" ">
+            <subfield code="a">Restricted: Printing from this resource is governed by The Legal Deposit Libraries (Non-Print Works) Regulations (UK) and UK copyright law currently in force.</subfield>
+            <subfield code="5">UkOxU</subfield>
+        </datafield>
+        <datafield tag="588" ind1=" " ind2=" ">
+            <subfield code="a">Description based on CIP data; resource not viewed.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Academic</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lee, Alan,</subfield>
+            <subfield code="e">illustrator.</subfield>
+            <subfield code="1">https://isni.org/isni/0000000121480873</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/m/object/P30321</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Sibley, Brian,</subfield>
+            <subfield code="e">editor.</subfield>
+            <subfield code="1">https://isni.org/isni/000000008178197X</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10393</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/m/object/P30328</subfield>
+        </datafield>
+        <datafield tag="776" ind1="0" ind2="8">
+            <subfield code="i">Print version :</subfield>
+            <subfield code="z">9780008537838</subfield>
+        </datafield>
+    </record>
+    <!-- Unfinished tales -->
+    <record>
+        <leader>00799nam a2200229 a 4500</leader>
+        <controlfield tag="001">011055390</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20011022171047.0</controlfield>
+        <controlfield tag="008">940914s1980    enkb          001 1 eng d</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0048231797</subfield>
+        </datafield>
+        <datafield tag="082" ind1=" " ind2=" ">
+            <subfield code="a">823.912F</subfield>
+            <subfield code="2">20</subfield>
+        </datafield>
+        <datafield tag="092" ind1=" " ind2=" ">
+            <subfield code="a">D0501875755</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973,</subfield>
+            <subfield code="e">author.</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Unfinished tales of Númenor and Middle-earth</subfield>
+            <subfield code="1">http://viaf.org/viaf/219968903</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Unfinished tales of Númenor and Middle-earth /</subfield>
+            <subfield code="c">by J. R. R. Tolkien ; edited with introduction, commentary, index and maps by Christopher Tolkien.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Allen &amp; Unwin,</subfield>
+            <subfield code="c">1980.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">472 p,</subfield>
+            <subfield code="b">maps ;</subfield>
+            <subfield code="c">20 cm.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Language-based work</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
+        </datafield>
+        <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes index.</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Of Tuor and his coming to Gondolin -- Narn i hîn Húrin -- A description of the island of Númenor -- Aldarion and Erendis -- The line of Elros : Kings of Númenor -- The history of Galadriel and Celeborn -- The disaster of the Gladden Fields -- Cirion and Eorl and the friendship of Gondor and Rohan -- The quest of Erebor -- The hunt for the Ring -- The battles of the Fords of Isen -- The Drúedain -- The Istari -- The Palantíri.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, Christopher.</subfield>
+            <subfield code="1">http://viaf.org/viaf/12315790</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10393</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/m/object/P30321</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00805nam a2200229 a 4500</leader>
+        <controlfield tag="001">010576930</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">19960514091755.0</controlfield>
+        <controlfield tag="008">500101r19911980enkb          001 1 eng d</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0261102168</subfield>
+        </datafield>
+        <datafield tag="082" ind1=" " ind2=" ">
+            <subfield code="a">823.912</subfield>
+            <subfield code="d">F</subfield>
+            <subfield code="2">20</subfield>
+        </datafield>
+        <datafield tag="092" ind1=" " ind2=" ">
+            <subfield code="a">D0401167148</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973,</subfield>
+            <subfield code="e">author.</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Unfinished tales of Númenor and Middle-earth</subfield>
+            <subfield code="1">http://viaf.org/viaf/219968903</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Unfinished tales of Númenor and Middle-earth /</subfield>
+            <subfield code="c">by J.R.R. Tolkien ; edited with introduction, commentary, index and maps by Christopher Tolkien</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Grafton,</subfield>
+            <subfield code="c">1991</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">472 p,</subfield>
+            <subfield code="b">maps ;</subfield>
+            <subfield code="c">20 cm</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Language-based work</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Originally published: London: George Allen &amp; Unwin, 1980</subfield>
+        </datafield>
+        <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes index</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Of Tuor and his coming to Gondolin -- Narn i hîn Húrin -- A description of the island of Númenor -- Aldarion and Erendis -- The line of Elros : Kings of Númenor -- The history of Galadriel and Celeborn -- The disaster of the Gladden Fields -- Cirion and Eorl and the friendship of Gondor and Rohan -- The quest of Erebor -- The hunt for the Ring -- The battles of the Fords of Isen -- The Drúedain -- The Istari -- The Palantíri.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, Christopher.</subfield>
+            <subfield code="1">http://viaf.org/viaf/12315790</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10393</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/m/object/P30321</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01259nam a22002292  4500</leader>
+        <controlfield tag="001">012525998</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">19970828184455.0</controlfield>
+        <controlfield tag="008">830114s1982    enkb     b    001 1 eng d</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0048232084</subfield>
+        </datafield>
+        <datafield tag="090" ind1=" " ind2=" ">
+            <subfield code="a">PR6039.O32</subfield>
+            <subfield code="b">A6 1982</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973,</subfield>
+            <subfield code="e">author.</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Prose works.</subfield>
+            <subfield code="k">Selections</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Unfinished tales of Númenor and Middle-earth</subfield>
+            <subfield code="1">http://viaf.org/viaf/219968903</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Unfinished tales of Númenor and Middle-earth /</subfield>
+            <subfield code="c">by J.R.R. Tolkien ; edited with introduction, commentary, index, and maps by Christopher Tolkien.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London ;</subfield>
+            <subfield code="a">Boston :</subfield>
+            <subfield code="b">Unwin Paperbacks,</subfield>
+            <subfield code="c">1982.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">472 p. :</subfield>
+            <subfield code="b">3 maps ;</subfield>
+            <subfield code="c">20 cm.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Language-based work</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
+        </datafield>
+        <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index.</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Of Tuor and his coming to Gondolin -- Narn i hîn Húrin -- A description of the island of Númenor -- Aldarion and Erendis -- The line of Elros : Kings of Númenor -- The history of Galadriel and Celeborn -- The disaster of the Gladden Fields -- Cirion and Eorl and the friendship of Gondor and Rohan -- The quest of Erebor -- The hunt for the Ring -- The battles of the Fords of Isen -- The Drúedain -- The Istari -- The Palantíri.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, Christopher.</subfield>
+            <subfield code="1">http://viaf.org/viaf/12315790</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10393</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/m/object/P30321</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>02868aam a22006611a 4500</leader>
+        <controlfield tag="001">021811478</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20191204154906.0</controlfield>
+        <controlfield tag="006">m    ||  d |      </controlfield>
+        <controlfield tag="007">cr |||||||||||</controlfield>
+        <controlfield tag="008">090916s2009    at b    o     001 1 eng d</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780061927744</subfield>
+            <subfield code="q">(electronic bk. ;</subfield>
+            <subfield code="q">Adobe Digital Editions)</subfield>
+        </datafield>
+        <!--<datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0061927740</subfield>
+            <subfield code="q">(electronic bk. ;</subfield>
+            <subfield code="q">Adobe Digital Editions)</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780061927751</subfield>
+            <subfield code="q">(electronic bk. ;</subfield>
+            <subfield code="q">Adobe Digital Editions)</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0061927759</subfield>
+            <subfield code="q">(electronic bk. ;</subfield>
+            <subfield code="q">Adobe Digital Editions)</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780061927720</subfield>
+            <subfield code="q">(electronic bk. ;</subfield>
+            <subfield code="q">Mobipocket Reader)</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0061927724</subfield>
+            <subfield code="q">(electronic bk. ;</subfield>
+            <subfield code="q">Mobipocket Reader)</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780007322572</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0007322577</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9780261103627</subfield>
+        </datafield>-->
+        <datafield tag="037" ind1=" " ind2=" ">
+            <subfield code="a">uk.co.harpercollins.049050</subfield>
+            <subfield code="b">Ingram Content Group</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823.912</subfield>
+            <subfield code="2">22</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973,</subfield>
+            <subfield code="e">author.</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Unfinished tales of Númenor and Middle-earth</subfield>
+            <subfield code="1">http://viaf.org/viaf/219968903</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Unfinished tales of Númenor and Middle-earth /</subfield>
+            <subfield code="c">by J.R.R. Tolkien ; edited by Christopher Tolkien.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Pymble, NSW ;</subfield>
+            <subfield code="a">New York :</subfield>
+            <subfield code="b">HarperCollins e-books,</subfield>
+            <subfield code="c">2009.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 online resource (624 pages).</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">computer</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1003</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">online resource</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1018</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes index.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Title from eBook information screen.</subfield>
+        </datafield>
+        <datafield tag="506" ind1="1" ind2=" ">
+            <subfield code="a">Legal Deposit;</subfield>
+            <subfield code="c">Only available on premises controlled by the deposit library and to one user at any one time;</subfield>
+            <subfield code="e">The Legal Deposit Libraries (Non-Print Works) Regulations (UK).</subfield>
+            <subfield code="5">UkOxU</subfield>
+        </datafield>
+        <datafield tag="540" ind1=" " ind2=" ">
+            <subfield code="a">Restricted: Printing from this resource is governed by The Legal Deposit Libraries (Non-Print Works) Regulations (UK) and UK copyright law currently in force.</subfield>
+            <subfield code="5">UkOxU</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Academic</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, Christopher.</subfield>
+            <subfield code="1">http://viaf.org/viaf/12315790</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10393</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/m/object/P30321</subfield>
+        </datafield>
+    </record>
+    <!-- Silmarillion -->
+    <record>
+        <leader>01267nam a2200301 i 4500</leader>
+        <controlfield tag="001">022801279</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20220408105704.0</controlfield>
+        <controlfield tag="008">880808s1977    enkabfj       001 1 eng  </controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">77-76277</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0048231398</subfield>
+            <subfield code="q">hardback</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973,</subfield>
+            <subfield code="e">author.</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="4">
+            <subfield code="a">The silmarillion</subfield>
+            <subfield code="1">http://viaf.org/viaf/183065413</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The silmarillion</subfield>
+            <subfield code="c">J. R. R. Tolkien ; edited by Christopher Tolkien.</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">Collector's edition</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">George Allen &amp; Unwin,</subfield>
+            <subfield code="c">1977.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">©1977</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">365 pages,1 unnumbered folded leaf of plates :</subfield>
+            <subfield code="b">illustrations, genealogical tables, maps (1 folded) ;</subfield>
+            <subfield code="c">23 cm</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Language-based work</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Includes index.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">First edition plate affixed on first free end paper: "This is copy number ... of the first one thousand copies off the press of the first edition of The Silmarillion by J.R.R. Tolkien reserved for later publication in this collector's edition."</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, Christopher.</subfield>
+            <subfield code="1">http://viaf.org/viaf/12315790</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20330</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01895pam a22004211i 4500</leader>
+        <controlfield tag="001">023228912</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20221130180423.0</controlfield>
+        <controlfield tag="006">m    ||  d |      </controlfield>
+        <controlfield tag="007">cr |||||||||||</controlfield>
+        <controlfield tag="008">220629s2022    enka    o     000|f|eng|d</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780008560317 (ePub ebook) :</subfield>
+            <subfield code="c">£20.00</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9780008537890 (hbk.) :</subfield>
+            <subfield code="c">£45.00</subfield>
+        </datafield>
+        <datafield tag="037" ind1=" " ind2=" ">
+            <subfield code="a">uk.co.harpercollins.240652</subfield>
+            <subfield code="b">Ingram Content Group</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">823.912</subfield>
+            <subfield code="2">23</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973,</subfield>
+            <subfield code="e">author.</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="4">
+            <subfield code="a">The Silmarillion</subfield>
+            <subfield code="1">http://viaf.org/viaf/183065413</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The Silmarillion /</subfield>
+            <subfield code="c">J.R.R. Tolkien ; edited by Christopher Tolkien.</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">Illustrated edition.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">HarperCollinsPublishers,</subfield>
+            <subfield code="c">2022.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 online resource :</subfield>
+            <subfield code="b">illustrations (black and white, and colour).</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="506" ind1="1" ind2=" ">
+            <subfield code="a">Legal Deposit;</subfield>
+            <subfield code="c">Only available on premises controlled by the deposit library and to one user at any one time;</subfield>
+            <subfield code="e">The Legal Deposit Libraries (Non-Print Works) Regulations (UK).</subfield>
+            <subfield code="5">UkOxU</subfield>
+        </datafield>
+        <datafield tag="540" ind1=" " ind2=" ">
+            <subfield code="a">Restricted: Printing from this resource is governed by The Legal Deposit Libraries (Non-Print Works) Regulations (UK) and UK copyright law currently in force.</subfield>
+            <subfield code="5">UkOxU</subfield>
+        </datafield>
+        <datafield tag="588" ind1=" " ind2=" ">
+            <subfield code="a">Description based on CIP data; resource not viewed.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Academic</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, Christopher.</subfield>
+            <subfield code="1">http://viaf.org/viaf/12315790</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20330</subfield>
+        </datafield>
+        <datafield tag="776" ind1="0" ind2="8">
+            <subfield code="i">Print version :</subfield>
+            <subfield code="z">9780008537890</subfield>
+        </datafield>
+    </record>
+    <!-- Poems and songs of middle earth -->
+    <record>
+        <leader>03033cim a2200589 i 4500</leader>
+        <controlfield tag="001">022763547</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20220221100855.0</controlfield>
+        <controlfield tag="007">sd bumenn||||e</controlfield>
+        <controlfield tag="008">770222s1967    nyunnnn        p  n eng  </controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">r 67003894</subfield>
+        </datafield>
+        <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">TC 1231</subfield>
+            <subfield code="b">Caedmon</subfield>
+        </datafield>
+        <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">e-uk-en</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">821.91</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973,</subfield>
+            <subfield code="e">author.</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Poems and songs of middle earth</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067/poemsandsongs</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Poems and songs of middle earth /</subfield>
+            <subfield code="c">read by the author, J.R.R. Tolkien.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">New York, N.Y. :</subfield>
+            <subfield code="b">Caedmon Records Inc.,</subfield>
+            <subfield code="c">[1967]</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">©1967</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 audio disc :</subfield>
+            <subfield code="b">analog, 33 1/3 rpm, stereo ;</subfield>
+            <subfield code="c">12 in.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">spoken word</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1013</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">audio</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1001</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">audio disc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1004</subfield>
+        </datafield>
+        <datafield tag="340" ind1=" " ind2=" ">
+            <subfield code="b">12 in.</subfield>
+        </datafield>
+        <datafield tag="344" ind1=" " ind2=" ">
+            <subfield code="a">analog</subfield>
+            <subfield code="c">33 1/3 rpm</subfield>
+            <subfield code="g">stereo</subfield>
+            <subfield code="2">rda</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Copyright in the words George Allen and Unwin Ltd. ; copyright in the music Donald Swann.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Critical notes by W.H. Auden on container.</subfield>
+        </datafield>
+        <datafield tag="511" ind1="0" ind2=" ">
+            <subfield code="a">Poems in English and Elvish from The Lord of the Rings and The Adventures of Tom Bombadil read by J.R.R. Tolkien ; The Road Goes Ever On, sung by William Elvin with Donald Swann, the composer, at the piano.</subfield>
+        </datafield>
+        <datafield tag="508" ind1=" " ind2=" ">
+            <subfield code="a">Directed by Howard Slacker.</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2="0">
+            <subfield code="a">The adventures of Tom Bombadil -- The mewlips -- The hoard -- Perry-the-winkle -- The man in the moon came down too soon --
+             The sea-bell -- A Elbereth Gilthoniel (in Elvish) --  The road goes ever on / words by J.R.R. Tolkien ; music by Donald Swann ; sung by William Elvin with the composer at the piano --
+             The road goes ever on -- Upon the hearth the fire is red -- In the willow-meads of Tasarinan -- In western lands --
+             Namarie (in Elvish) -- I sit beside the fire : refrain A Elbereth Gilthoniel -- Errantry.</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2="0">
+            <subfield code="t">The adventures of Tom Bombadil --</subfield>
+            <subfield code="t">The mewlips --</subfield>
+            <subfield code="t">The hoard --</subfield>
+            <subfield code="t">Perry-the-winkle --</subfield>
+            <subfield code="t">The man in the moon came down too soon --</subfield>
+            <subfield code="t">The sea-bell --</subfield>
+            <subfield code="t">A Elbereth Gilthoniel (in Elvish) --</subfield>
+            <subfield code="t">The road goes ever on /</subfield>
+            <subfield code="r">words by J.R.R. Tolkien ; music by Donald Swann ; sung by William Elvin with the composer at the piano --</subfield>
+            <subfield code="t">The road goes ever on --</subfield>
+            <subfield code="t">Upon the hearth the fire is red --</subfield>
+            <subfield code="t">In the willow-meads of Tasarinan--</subfield>
+            <subfield code="t">In western lands --</subfield>
+            <subfield code="t">Namarie (in Elvish) --</subfield>
+            <subfield code="t">I sit beside the fire : refrain A Elbereth Gilthoniel --</subfield>
+            <subfield code="t">Errantry.</subfield>
+        </datafield>
+        <datafield tag="648" ind1=" " ind2="7">
+            <subfield code="a">1900-1999</subfield>
+            <subfield code="2">fast</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Elvin, William,</subfield>
+            <subfield code="e">performer.</subfield>
+            <subfield code="4">prf</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Swann, Donald,</subfield>
+            <subfield code="d">1923-1994,</subfield>
+            <subfield code="e">composer,</subfield>
+            <subfield code="e">instrumentalist.</subfield>
+        </datafield>
+        <datafield tag="730" ind1="0" ind2="2">
+            <subfield code="a">Road goes ever on.</subfield>
+        </datafield>
+    </record>
+    <!-- Letters -->
+    <record>
+        <leader>03009aam a2200673 a 4500</leader>
+        <controlfield tag="001">021415400</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20190130173326.0</controlfield>
+        <controlfield tag="006">m    ||  d |      </controlfield>
+        <controlfield tag="007">cr |||||||||||</controlfield>
+        <controlfield tag="008">110812r20121981enk     ob    000 0aeng  </controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780007381234</subfield>
+            <subfield code="q">(electronic bk.)</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0007381239</subfield>
+            <subfield code="q">(electronic bk.)</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="z">9780261102651</subfield>
+            <subfield code="q">(paperback)</subfield>
+        </datafield>
+        <datafield tag="037" ind1=" " ind2=" ">
+            <subfield code="a">uk.co.harpercollins.058104</subfield>
+            <subfield code="b">Ingram Content Group</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">828.91209</subfield>
+            <subfield code="2">19</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973,</subfield>
+            <subfield code="e">author.</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">The letters of J.R.R. Tolkien</subfield>
+            <subfield code="1">http://viaf.org/viaf/95218067/letters</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The letters of J.R.R. Tolkien /</subfield>
+            <subfield code="c">a selection edited by Humphrey Carpenter with the assistance of Christopher Tolkien.</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">First edition.</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">HarperCollinsPublishers,</subfield>
+            <subfield code="c">[2012].</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">©1981</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 online resource.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="2">rdacontent</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">computer</subfield>
+            <subfield code="2">rdamedia</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1003</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">online resource</subfield>
+            <subfield code="2">rdacarrier</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1018</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Originally published in print: Great Britain : George Allen &amp; Unwin, 1981.</subfield>
+        </datafield>
+        <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references.</subfield>
+        </datafield>
+        <datafield tag="506" ind1="1" ind2=" ">
+            <subfield code="a">Legal Deposit;</subfield>
+            <subfield code="c">Only available on premises controlled by the deposit library and to one user at any one time;</subfield>
+            <subfield code="e">The Legal Deposit Libraries (Non-Print Works) Regulations (UK).</subfield>
+            <subfield code="5">UkOxU</subfield>
+        </datafield>
+        <datafield tag="540" ind1=" " ind2=" ">
+            <subfield code="a">Restricted: Printing from this resource is governed by The Legal Deposit Libraries (Non-Print Works) Regulations (UK) and UK copyright law currently in force.</subfield>
+            <subfield code="5">UkOxU</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Academic</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973</subfield>
+            <subfield code="v">Correspondence.</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="7">
+            <subfield code="a">Tolkien, J. R. R.</subfield>
+            <subfield code="q">(John Ronald Reuel),</subfield>
+            <subfield code="d">1892-1973</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst00030031</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="7">
+            <subfield code="a">Tolkien, John R. R.</subfield>
+            <subfield code="2">swd</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Carpenter, Humphrey,</subfield>
+            <subfield code="1">http://viaf.org/viaf/41837660</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10393</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Tolkien, Christopher.</subfield>
+            <subfield code="1">http://viaf.org/viaf/12315790</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10393</subfield>
         </datafield>
     </record>
 </collection>
