@@ -255,7 +255,7 @@ set e.random = toInteger(rand() * (1000));
 CALL gds.graph.project(
     'lrm',              
     'Resource',            
-    ['CREATOR', 'REALIZES', 'PARTOF','RELATED']             
+    ['CREATOR', 'REALIZES', 'PARTOF','RELATED', 'AGGREGATES']             
 );
 
 CALL gds.pageRank.write('lrm', {
