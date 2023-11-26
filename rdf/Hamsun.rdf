@@ -844,6 +844,13 @@
       <rdawo:P10147 rdf:resource="http://viaf.org/viaf/59083692/hemmeligv"/>
       <rdawo:P10147 rdf:resource="http://viaf.org/viaf/59083692/julegilde"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="https://isni.org/isni/0000000361689449/paagjengroddestier">
+      <rdaxd:P00018>https://isni.org/isni/0000000361689449/paagjengroddestier</rdaxd:P00018>
+      <rdawd:P10088>Paa gjengrodde stier</rdawd:P10088>
+      <rdfs:label>Paa gjengrodde stier (Sørensen, Reidar)</rdfs:label>
+      <rdawo:P10061 rdf:resource="https://isni.org/isni/0000000361689449"/>
+      <rdawo:P10142 rdf:resource="http://viaf.org/viaf/30145424502786830193"/>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="https://www.imdb.com/title/tt0011440">
       <rdaxd:P00018>https://www.imdb.com/title/tt0011440/</rdaxd:P00018>
       <rdawd:P10088>Markens grøde</rdawd:P10088>
@@ -911,8 +918,8 @@
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://example.org/andersoncarll">
       <rdaxd:P00018>http://example.org/andersoncarll</rdaxd:P00018>
-      <rdaad:P50385>Anderson, Carl L</rdaad:P50385>
-      <rdfs:label>Anderson, Carl L</rdfs:label>
+      <rdaad:P50385>Anderson, Carl L.</rdaad:P50385>
+      <rdfs:label>Anderson, Carl L.</rdfs:label>
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://example.org/arntzeneven">
       <rdaxd:P00018>http://example.org/arntzeneven</rdaxd:P00018>
@@ -968,8 +975,8 @@
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://example.org/blancafortmanuelr">
       <rdaxd:P00018>http://example.org/blancafortmanuelr</rdaxd:P00018>
-      <rdaad:P50385>Blancafort, Manuel R</rdaad:P50385>
-      <rdfs:label>Blancafort, Manuel R</rdfs:label>
+      <rdaad:P50385>Blancafort, Manuel R.</rdaad:P50385>
+      <rdfs:label>Blancafort, Manuel R.</rdfs:label>
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://example.org/blekenhkon">
       <rdaxd:P00018>http://example.org/blekenhkon</rdaxd:P00018>
@@ -1034,8 +1041,8 @@
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://example.org/chaterarthurg">
       <rdaxd:P00018>http://example.org/chaterarthurg</rdaxd:P00018>
-      <rdaad:P50385>Chater, Arthur G</rdaad:P50385>
-      <rdfs:label>Chater, Arthur G</rdfs:label>
+      <rdaad:P50385>Chater, Arthur G.</rdaad:P50385>
+      <rdfs:label>Chater, Arthur G.</rdfs:label>
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://example.org/christensenlarssaabye">
       <rdaxd:P00018>http://example.org/christensenlarssaabye</rdaxd:P00018>
@@ -1177,13 +1184,13 @@
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://example.org/gossg">
       <rdaxd:P00018>http://example.org/gossg</rdaxd:P00018>
-      <rdaad:P50385>Gossé, G</rdaad:P50385>
-      <rdfs:label>Gossé, G</rdfs:label>
+      <rdaad:P50385>Gossé, G.</rdaad:P50385>
+      <rdfs:label>Gossé, G.</rdfs:label>
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://example.org/gossl">
       <rdaxd:P00018>http://example.org/gossl</rdaxd:P00018>
-      <rdaad:P50385>Gossé, L</rdaad:P50385>
-      <rdfs:label>Gossé, L</rdfs:label>
+      <rdaad:P50385>Gossé, L.</rdaad:P50385>
+      <rdfs:label>Gossé, L.</rdfs:label>
       <rdaad:P50339>1916-2001</rdaad:P50339>
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://example.org/grblsofie">
@@ -1328,8 +1335,8 @@
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://example.org/ipb">
       <rdaxd:P00018>http://example.org/ipb</rdaxd:P00018>
-      <rdaad:P50385>I. P. B</rdaad:P50385>
-      <rdfs:label>I. P. B</rdfs:label>
+      <rdaad:P50385>I. P. B.</rdaad:P50385>
+      <rdfs:label>I. P. B.</rdfs:label>
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://example.org/jenssenolavchristopher">
       <rdaxd:P00018>http://example.org/jenssenolavchristopher</rdaxd:P00018>
@@ -1400,8 +1407,8 @@
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://example.org/knutsennilsm">
       <rdaxd:P00018>http://example.org/knutsennilsm</rdaxd:P00018>
-      <rdaad:P50385>Knutsen, Nils M</rdaad:P50385>
-      <rdfs:label>Knutsen, Nils M</rdfs:label>
+      <rdaad:P50385>Knutsen, Nils M.</rdaad:P50385>
+      <rdfs:label>Knutsen, Nils M.</rdfs:label>
       <rdaad:P50339>1943-</rdaad:P50339>
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://example.org/knutsennilsmagne">
@@ -1681,8 +1688,8 @@
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://example.org/sandveim">
       <rdaxd:P00018>http://example.org/sandveim</rdaxd:P00018>
-      <rdaad:P50385>Sandvei, M</rdaad:P50385>
-      <rdfs:label>Sandvei, M</rdfs:label>
+      <rdaad:P50385>Sandvei, M.</rdaad:P50385>
+      <rdfs:label>Sandvei, M.</rdfs:label>
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://example.org/sautreaugeorges">
       <rdaxd:P00018>http://example.org/sautreaugeorges</rdaxd:P00018>
@@ -1845,8 +1852,8 @@
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://personid.no/10165">
       <rdaxd:P00018>http://personid.no/10165</rdaxd:P00018>
-      <rdaad:P50385>F. C</rdaad:P50385>
-      <rdfs:label>F. C</rdfs:label>
+      <rdaad:P50385>F. C.</rdaad:P50385>
+      <rdfs:label>F. C.</rdfs:label>
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://viaf.org/viaf/107756506">
       <rdaxd:P00018>http://viaf.org/viaf/107756506</rdaxd:P00018>
@@ -1878,8 +1885,8 @@
       <rdaad:P50385>Angermann, Sophie</rdaad:P50385>
       <rdfs:label>Angermann, Sophie</rdfs:label>
       <rdaad:P50339>1892-1973</rdaad:P50339>
-      <rdaad:P50385>Angermann, S</rdaad:P50385>
-      <rdfs:label>Angermann, S</rdfs:label>
+      <rdaad:P50385>Angermann, S.</rdaad:P50385>
+      <rdfs:label>Angermann, S.</rdfs:label>
    </rdac:C10002>
    <rdac:C10002 rdf:about="http://viaf.org/viaf/17979510">
       <rdaxd:P00018>http://viaf.org/viaf/17979510</rdaxd:P00018>
@@ -1974,6 +1981,12 @@
       <rdaad:P50385>Ferguson, Robert</rdaad:P50385>
       <rdfs:label>Ferguson, Robert</rdfs:label>
       <rdaad:P50339>1948-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="https://isni.org/isni/0000000361689449">
+      <rdaxd:P00018>https://isni.org/isni/0000000361689449</rdaxd:P00018>
+      <rdaad:P50385>Sørensen, Reidar</rdaad:P50385>
+      <rdfs:label>Sørensen, Reidar</rdfs:label>
+      <rdaad:P50339>1956-</rdaad:P50339>
    </rdac:C10002>
    <rdac:C10006 rdf:about="http://example.org/barraultjeanlouis/lafaim/exp/fre/1020">
       <rdaed:P20316>La faim</rdaed:P20316>
@@ -6465,6 +6478,15 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
       <rdaeo:P20231 rdf:resource="http://www.wikidata.org/entity/Q15062328"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="https://isni.org/isni/0000000361689449/paagjengroddestier/exp/nob/1020">
+      <rdaed:P20316>Paa gjengrodde stier</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Paa gjengrodde stier</rdaed:P20312>
+      <rdfs:label>Paa gjengrodde stier (Sørensen, Reidar)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="https://isni.org/isni/0000000361689449/paagjengroddestier"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="https://www.imdb.com/title/tt0011440/exp/1023">
       <rdaed:P20316>Markens grøde</rdaed:P20316>
       <rdaed:P20312>Markens grøde</rdaed:P20312>
@@ -7224,7 +7246,7 @@
       <rdamd:P30142>Roman</rdamd:P30142>
       <rdamd:P30117>Knut Hamsun. [Einzige berecht. Übers. aus d. Norweg. v. Pauline Klaiber-Gottschau]</rdamd:P30117>
       <rdamd:P30088>Heidelberg</rdamd:P30088>
-      <rdamd:P30088>Marbach a. N</rdamd:P30088>
+      <rdamd:P30088>Marbach a. N.</rdamd:P30088>
       <rdamd:P30111>Heidelberg ; Marbach a. N. : "Bücher für alle" Palladium Verl., [1954].</rdamd:P30111>
       <rdamd:P30083>"Bücher für alle" Palladium Verl</rdamd:P30083>
       <rdamd:P30011>[1954]</rdamd:P30011>
@@ -7510,7 +7532,7 @@
       <rdamd:P30156>August Weltumsegler</rdamd:P30156>
       <rdamd:P30142>Roman</rdamd:P30142>
       <rdamd:P30117>Knut Hamsun. Berecht. Übers. von J. Sandmeier u. S. Angermann</rdamd:P30117>
-      <rdamd:P30088>Frankfurt a.M</rdamd:P30088>
+      <rdamd:P30088>Frankfurt a.M.</rdamd:P30088>
       <rdamd:P30111>Frankfurt a.M. : Büchergilde Gutenberg, 1957.</rdamd:P30111>
       <rdamd:P30083>Büchergilde Gutenberg</rdamd:P30083>
       <rdamd:P30011>1957</rdamd:P30011>
@@ -7669,7 +7691,7 @@
    <rdac:C10007 rdf:about="http://example.org/451794532">
       <rdamd:P30156>Das letzte Kapitel</rdamd:P30156>
       <rdamd:P30117>Hamsun. [Aus d. Norweg. übertr. von Erwin Magnus. Mit e. Nachw. von Wolfgang Lange]</rdamd:P30117>
-      <rdamd:P30088>Frankfurt a.M</rdamd:P30088>
+      <rdamd:P30088>Frankfurt a.M.</rdamd:P30088>
       <rdamd:P30088>Hamburg</rdamd:P30088>
       <rdamd:P30111>Frankfurt a.M. ; Hamburg : Fischer Bücherei, 1961.</rdamd:P30111>
       <rdamd:P30083>Fischer Bücherei</rdamd:P30083>
@@ -7701,7 +7723,7 @@
       <rdamd:P30142>Roman</rdamd:P30142>
       <rdamd:P30117>Knut Hamsun. Mit e. Nachw. von Thomas Mann. Berecht. Übers. von Pauline Klaiber-Gottschau</rdamd:P30117>
       <rdamd:P30107>Ungekürzte Ausg</rdamd:P30107>
-      <rdamd:P30088>Frankfurt a.M</rdamd:P30088>
+      <rdamd:P30088>Frankfurt a.M.</rdamd:P30088>
       <rdamd:P30088>Hamburg</rdamd:P30088>
       <rdamd:P30111>Frankfurt a.M. ; Hamburg : Fischer Bücherei, 1958.</rdamd:P30111>
       <rdamd:P30083>Fischer Bücherei</rdamd:P30083>
@@ -8574,7 +8596,7 @@
       <rdamd:P30117>Knut Hamsun. Einzig berecht., neu durchges. Übertr. aus d. Norweg. von Erwin Magnus</rdamd:P30117>
       <rdamd:P30088>Berlin</rdamd:P30088>
       <rdamd:P30111>Berlin : Volksverband d. Bücherfreunde, Wegweiser Verl. G.m.b.H., [1929].</rdamd:P30111>
-      <rdamd:P30083>Volksverband d. Bücherfreunde, Wegweiser Verl. G.m.b.H</rdamd:P30083>
+      <rdamd:P30083>Volksverband d. Bücherfreunde, Wegweiser Verl. G.m.b.H.</rdamd:P30083>
       <rdamd:P30011>[1929]</rdamd:P30011>
       <rdamd:P30182>493 S., 8.</rdamd:P30182>
       <rdamd:P30106>Auswahlreihe des Volksverbandes der Bücherfreunde</rdamd:P30106>
@@ -10770,6 +10792,20 @@
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/220443771/exp/fre/1020"/>
    </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/990936537004702201">
+      <rdamd:P30156>Paa gjengrodde stier</rdamd:P30156>
+      <rdamd:P30117>av Knut Hamsun ; bearbeidet av Reidar Sørensen</rdamd:P30117>
+      <rdamd:P30107>3. utkast</rdamd:P30107>
+      <rdamd:P30088>Mo i Rana</rdamd:P30088>
+      <rdamd:P30111>Mo i Rana : [Nordland teater], 2009.</rdamd:P30111>
+      <rdamd:P30083>[Nordland teater]</rdamd:P30083>
+      <rdamd:P30011>2009</rdamd:P30011>
+      <rdamd:P30182>25 bl.</rdamd:P30182>
+      <rdamd:P30137>Premiere: Åpningen av Hamsun-senteret, Hamarøy 4. aug. 2009</rdamd:P30137>
+      <rdamd:P30137>Teatermanus</rdamd:P30137>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
+      <rdamo:P30139 rdf:resource="https://isni.org/isni/0000000361689449/paagjengroddestier/exp/nob/1020"/>
+   </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/991015756294702201">
       <rdamd:P30156>Telegrafisten</rdamd:P30156>
       <rdamd:P30117>en film av Erik Gustavson ; basert på Knut Hamsuns roman "Sværmere"</rdamd:P30117>
@@ -12363,7 +12399,7 @@
       <rdamd:P30156>Bjørger</rdamd:P30156>
       <rdamd:P30142>fortælling</rdamd:P30142>
       <rdamd:P30117>av Knud Pedersen Hamsund</rdamd:P30117>
-      <rdamd:P30088>Brooklyn, N.Y</rdamd:P30088>
+      <rdamd:P30088>Brooklyn, N.Y.</rdamd:P30088>
       <rdamd:P30111>Brooklyn, N.Y. : Knudsen, 1925.</rdamd:P30111>
       <rdamd:P30083>Knudsen</rdamd:P30083>
       <rdamd:P30011>1925</rdamd:P30011>
@@ -12501,7 +12537,7 @@
       <rdamd:P30117>Pearl S. Buck ; Knut Hamsun, Victoria ; Rudyard Kipling, Stalky y Cía. ; [traductores, Carlos Paytuví, Berta Curiel, Antonio Ribera Jordá]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1960].</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1960]</rdamd:P30011>
       <rdamd:P30175>Imp. Pulcra]</rdamd:P30175>
       <rdamd:P30182>495 pág., 18 cm.</rdamd:P30182>
@@ -12517,7 +12553,7 @@
       <rdamd:P30117>Pearl S. Buck ; Knut Hamsun, Victoria ; Rudyard Kipling, Stalky y Cia. ; [traductores, Carlos Paytuví, Berta Curiel, Antonio Riber Jordá]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1962.</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1962</rdamd:P30011>
       <rdamd:P30175>Guada]</rdamd:P30175>
       <rdamd:P30182>XIII + 490 pág. + 1 hoj., 18 cm.</rdamd:P30182>
@@ -12533,7 +12569,7 @@
       <rdamd:P30117>Knut Hamsin, Victoria Ruiyard Kipling, Stalk y Cía. [Traductores, Carlos Paytuvi, Berta Curiel, Antonio Ribera Jordá]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1966].</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1966]</rdamd:P30011>
       <rdamd:P30182>2 h., XII, 490 p., 1 h., 18 cm.</rdamd:P30182>
       <rdamd:P30106>Premios Nobel de Literatura</rdamd:P30106>
@@ -12629,7 +12665,7 @@
       <rdamd:P30117>[traducciones de Alfonso Nadal, R. Pérez Bances]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1969].</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1969]</rdamd:P30011>
       <rdamd:P30182>440 p., 3 h., 18 cm.</rdamd:P30182>
       <rdamd:P30106>Los clásicos del Siglo XX</rdamd:P30106>
@@ -12788,7 +12824,7 @@
       <rdamd:P30117>por Knut Hamsun ; [versión castellana de R. Perez Bances]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., D.L. 1962.</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>D.L. 1962</rdamd:P30011>
       <rdamd:P30182>187 p., 19 cm.</rdamd:P30182>
       <rdamd:P30106>Libros "Plaza"</rdamd:P30106>
@@ -12802,7 +12838,7 @@
       <rdamd:P30117>Knut Hamsun ; [traducción de A. Hernández Cata]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : Ediciones G. P., cop. 1965.</rdamd:P30111>
-      <rdamd:P30083>Ediciones G. P</rdamd:P30083>
+      <rdamd:P30083>Ediciones G. P.</rdamd:P30083>
       <rdamd:P30011>cop. 1965</rdamd:P30011>
       <rdamd:P30182>142 p., 18 cm.</rdamd:P30182>
       <rdamd:P30137>En el lomo: 365</rdamd:P30137>
@@ -12827,7 +12863,7 @@
       <rdamd:P30117>. François Mauriac, El fín de la noche Knut Hamsun, Un vagabundo toca con sordina. [Traducciones de Isabel Iglesias, Fernando Gutiérrez, Pedro Camacho]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1966].</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1966]</rdamd:P30011>
       <rdamd:P30182>472 p., 1 h., 18 cm.</rdamd:P30182>
       <rdamd:P30106>Premios Nobel de Literatura</rdamd:P30106>
@@ -12843,7 +12879,7 @@
       <rdamd:P30117>François Mauriac, Thérèse Desqueyroux. Knut Hamsun, Benoni. [Traductores, G. y L. Gossé, Luis G. de Vegueta, Rafael Ferro]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1966].</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1966]</rdamd:P30011>
       <rdamd:P30182>437 p., 3 h., 18 cm.</rdamd:P30182>
       <rdamd:P30106>Premios Nobel</rdamd:P30106>
@@ -12873,7 +12909,7 @@
       <rdamd:P30117>Rudyard Kipling, Nuevas Historias de Puck. Knut Hamsun, Pan. [Traducciones de Jorge Ferrer-Vidal Turull, Juan G. de Luaces, A. Fernández Catá]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1966].</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1966]</rdamd:P30011>
       <rdamd:P30182>512 p., 18 cm.</rdamd:P30182>
       <rdamd:P30106>Premios Nobel de Literatura</rdamd:P30106>
@@ -12903,7 +12939,7 @@
       <rdamd:P30117>[traducción de P.B.]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1967].</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1967]</rdamd:P30011>
       <rdamd:P30182>446 p., 18 cm.</rdamd:P30182>
       <rdamd:P30106>Libros "Reno"</rdamd:P30106>
@@ -12947,7 +12983,7 @@
       <rdamd:P30117>por Knut Hamsun ; [versión de F. C.]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1958.</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1958</rdamd:P30011>
       <rdamd:P30175>Guada]</rdamd:P30175>
       <rdamd:P30182>125 p., 18 cm.</rdamd:P30182>
@@ -12962,7 +12998,7 @@
       <rdamd:P30117>por Knut Hamsun ; [versión de F. C.]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1963.</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1963</rdamd:P30011>
       <rdamd:P30175>Saturno]</rdamd:P30175>
       <rdamd:P30182>124 p., 1 h., 18 cm.</rdamd:P30182>
@@ -13084,7 +13120,7 @@
       <rdamd:P30117>por Knut Hamson ; [versión de Pedro Camacho]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1959.</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1959</rdamd:P30011>
       <rdamd:P30175>Guada]</rdamd:P30175>
       <rdamd:P30182>160 p., 18 cm.</rdamd:P30182>
@@ -13099,7 +13135,7 @@
       <rdamd:P30117>por Knut Hamsun ; [versión de Pedro Camacho]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1964.</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1964</rdamd:P30011>
       <rdamd:P30175>Guada]</rdamd:P30175>
       <rdamd:P30182>167 p., 18 cm.</rdamd:P30182>
@@ -13125,7 +13161,7 @@
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/bimo0000977150">
       <rdamd:P30156>Hambre</rdamd:P30156>
-      <rdamd:P30117>Traducción por José Viana. Nota preliminar de F.S.R</rdamd:P30117>
+      <rdamd:P30117>Traducción por José Viana. Nota preliminar de F.S.R.</rdamd:P30117>
       <rdamd:P30107>[3ª ed.]</rdamd:P30107>
       <rdamd:P30088>[Madrid</rdamd:P30088>
       <rdamd:P30111>[Madrid : Romero Requejo, 1960].</rdamd:P30111>
@@ -13145,7 +13181,7 @@
       <rdamd:P30117>por Knut Hamsun... [Versión de José Viana]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1962.</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1962</rdamd:P30011>
       <rdamd:P30175>Guada]</rdamd:P30175>
       <rdamd:P30182>159 p., 18 cm.</rdamd:P30182>
@@ -13157,7 +13193,7 @@
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/bimo0000977152">
       <rdamd:P30156>Hambre</rdamd:P30156>
-      <rdamd:P30117>Traducción por José Viana. Nota preliminar de F.S.R</rdamd:P30117>
+      <rdamd:P30117>Traducción por José Viana. Nota preliminar de F.S.R.</rdamd:P30117>
       <rdamd:P30107>[4ª ed.]</rdamd:P30107>
       <rdamd:P30088>[Madrid]</rdamd:P30088>
       <rdamd:P30111>[Madrid] : Aguilar, [1963.</rdamd:P30111>
@@ -13193,7 +13229,7 @@
       <rdamd:P30117>[Versión de José Viana]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1967].</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1967]</rdamd:P30011>
       <rdamd:P30182>156 p., 1 h., 18 cm.</rdamd:P30182>
       <rdamd:P30106>Libros "Plaza"</rdamd:P30106>
@@ -13236,7 +13272,7 @@
       <rdamd:P30117>Knut Hamsun ; Thomas Mann, Tristán. Sigrid Undset, La edad feliz ; [traductores, Frans Vives, Edgard Pedro Bruck, F.C.]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1960].</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1960]</rdamd:P30011>
       <rdamd:P30175>Imp. Pulcra]</rdamd:P30175>
       <rdamd:P30182>510 p., 18 cm.</rdamd:P30182>
@@ -13253,7 +13289,7 @@
       <rdamd:P30117>[Versión... de Frans Vives]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1961.</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1961</rdamd:P30011>
       <rdamd:P30175>Guada]</rdamd:P30175>
       <rdamd:P30182>452 p., 18 cm.</rdamd:P30182>
@@ -13267,7 +13303,7 @@
       <rdamd:P30117>[Versión de Frans Vives]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1963.</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1963</rdamd:P30011>
       <rdamd:P30175>Guada]</rdamd:P30175>
       <rdamd:P30182>448 p., 18 cm.</rdamd:P30182>
@@ -13281,7 +13317,7 @@
       <rdamd:P30117>Knut Hamsun ; Thomas Mann, Tristán. Sigrid Undset, La edad feliz ; [traductores, Frans Vives, Edgard Pedro Bruk, F.C.]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1963.</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1963</rdamd:P30011>
       <rdamd:P30175>Guada]</rdamd:P30175>
       <rdamd:P30182>510 p., 18 cm.</rdamd:P30182>
@@ -13298,7 +13334,7 @@
       <rdamd:P30117>Knut Hamsun, Thomas Mann Tristan. Sigrid Undset, La edad Feliz [Traductores, Frans Vives, Edgar Pedro Bruck, F.C.]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1966].</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1966]</rdamd:P30011>
       <rdamd:P30182>510 p., 18 cm.</rdamd:P30182>
       <rdamd:P30106>Premios Nobel</rdamd:P30106>
@@ -13314,7 +13350,7 @@
       <rdamd:P30117>[Traduccion de Frans Vives]</rdamd:P30117>
       <rdamd:P30088>[Barcelona]</rdamd:P30088>
       <rdamd:P30111>[Barcelona] : G.P., [1969].</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1969]</rdamd:P30011>
       <rdamd:P30182>448 p., 18 cm.</rdamd:P30182>
       <rdamd:P30106>Libros "Reno"</rdamd:P30106>
@@ -13384,7 +13420,7 @@
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/bimo0000977184">
       <rdamd:P30156>Pan</rdamd:P30156>
-      <rdamd:P30117>Knut Hamsun ; Traducción de A. Hernández Catá ; nota preliminar de F.S.R</rdamd:P30117>
+      <rdamd:P30117>Knut Hamsun ; Traducción de A. Hernández Catá ; nota preliminar de F.S.R.</rdamd:P30117>
       <rdamd:P30088>[Madrid]</rdamd:P30088>
       <rdamd:P30111>[Madrid] : Aguilar : Halar, 1951].</rdamd:P30111>
       <rdamd:P30083>Aguilar</rdamd:P30083>
@@ -13400,7 +13436,7 @@
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/bimo0000977185">
       <rdamd:P30156>Pan</rdamd:P30156>
-      <rdamd:P30117>traducción de A. Hernández Catá ; nota preliminar de F.S.R</rdamd:P30117>
+      <rdamd:P30117>traducción de A. Hernández Catá ; nota preliminar de F.S.R.</rdamd:P30117>
       <rdamd:P30107>[3ª ed.]</rdamd:P30107>
       <rdamd:P30088>[Madrid]</rdamd:P30088>
       <rdamd:P30111>[Madrid] : Aguilar : Izquierdo, 1959].</rdamd:P30111>
@@ -13418,7 +13454,7 @@
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/bimo0000977186">
       <rdamd:P30156>Pan</rdamd:P30156>
-      <rdamd:P30117>traducción de A. Hernández Catá ; nota preliminar de F.S.R</rdamd:P30117>
+      <rdamd:P30117>traducción de A. Hernández Catá ; nota preliminar de F.S.R.</rdamd:P30117>
       <rdamd:P30107>[4ª ed.]</rdamd:P30107>
       <rdamd:P30088>[Madrid]</rdamd:P30088>
       <rdamd:P30111>[Madrid] : Aguilar : Gardal Boix y Morer, 1962].</rdamd:P30111>
@@ -13449,7 +13485,7 @@
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/bimo0000977188">
       <rdamd:P30156>Pan</rdamd:P30156>
-      <rdamd:P30117>traducción de A. Hernández Catá ; nota preliminar de F.S.R</rdamd:P30117>
+      <rdamd:P30117>traducción de A. Hernández Catá ; nota preliminar de F.S.R.</rdamd:P30117>
       <rdamd:P30107>[5ª ed.]</rdamd:P30107>
       <rdamd:P30088>[Madrid]</rdamd:P30088>
       <rdamd:P30111>[Madrid] : Aguilar : Gardal, 1964].</rdamd:P30111>
@@ -13483,7 +13519,7 @@
       <rdamd:P30117>[traducción de A. Hernández Catá]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1965].</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1965]</rdamd:P30011>
       <rdamd:P30182>142 p., 1 h., 18 cm.</rdamd:P30182>
       <rdamd:P30106>Libros Plaza</rdamd:P30106>
@@ -13513,7 +13549,7 @@
       <rdamd:P30117>[traducciones de A. Hernández Catá [y otros]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1968].</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1968]</rdamd:P30011>
       <rdamd:P30182>510 p., 1 h., 18 cm.</rdamd:P30182>
       <rdamd:P30106>Los Clásicos del Siglo XX</rdamd:P30106>
@@ -13527,7 +13563,7 @@
       <rdamd:P30117>por Knut Hamsun</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1960].</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1960]</rdamd:P30011>
       <rdamd:P30175>[Guada]</rdamd:P30175>
       <rdamd:P30182>192 p., 18 cm.</rdamd:P30182>
@@ -13541,7 +13577,7 @@
       <rdamd:P30156>Rosa</rdamd:P30156>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1965].</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1965]</rdamd:P30011>
       <rdamd:P30182>184 p., 18 cm.</rdamd:P30182>
       <rdamd:P30106>Libros Plaza</rdamd:P30106>
@@ -13603,7 +13639,7 @@
       <rdamd:P30117>por Knut Hamsun ; [versión de R. Pérez Bances, Montserrat Costa]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1961.</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1961</rdamd:P30011>
       <rdamd:P30175>Guada]</rdamd:P30175>
       <rdamd:P30182>160 p., 18 cm.</rdamd:P30182>
@@ -13646,7 +13682,7 @@
       <rdamd:P30117>por Knut Hamsun. [Versión castellana de R. Pérez Bances]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1959.</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1959</rdamd:P30011>
       <rdamd:P30175>Guada]</rdamd:P30175>
       <rdamd:P30182>191 p., 18 cm.</rdamd:P30182>
@@ -13659,7 +13695,7 @@
       <rdamd:P30117>por Knut Hamsun. [Versión de R. Pérez Bances]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1962.</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1962</rdamd:P30011>
       <rdamd:P30175>Saturno]</rdamd:P30175>
       <rdamd:P30182>188 p., 18 cm.</rdamd:P30182>
@@ -13710,7 +13746,7 @@
       <rdamd:P30117>[traducciones de F.C., Pedro Camacho, Luis Molins]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1968].</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1968]</rdamd:P30011>
       <rdamd:P30182>452 p., 2 h., 18 cm.</rdamd:P30182>
       <rdamd:P30106>Los Clasicos del Siglo XX</rdamd:P30106>
@@ -13759,7 +13795,7 @@
       <rdamd:P30117>por Knut Hamsun. [Versión castellana de Luis Molins]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1958.</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1958</rdamd:P30011>
       <rdamd:P30175>Guada]</rdamd:P30175>
       <rdamd:P30182>156 p., 1 h., 18 cm.</rdamd:P30182>
@@ -13774,7 +13810,7 @@
       <rdamd:P30117>por Knut Hamsun. [Versión de Luis Molins]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1962.</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1962</rdamd:P30011>
       <rdamd:P30175>Guada]</rdamd:P30175>
       <rdamd:P30182>160 p., 18 cm.</rdamd:P30182>
@@ -13804,7 +13840,7 @@
       <rdamd:P30117>por Knut Hamsun. [Versión... de Pedro Camacho]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1958.</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1958</rdamd:P30011>
       <rdamd:P30175>Guada]</rdamd:P30175>
       <rdamd:P30182>128 p., 18 cm.</rdamd:P30182>
@@ -13819,7 +13855,7 @@
       <rdamd:P30117>por Knut Hamsun ; [versión de Pedro Camacho]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1963.</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1963</rdamd:P30011>
       <rdamd:P30175>Saturno]</rdamd:P30175>
       <rdamd:P30182>142 p., 18 cm.</rdamd:P30182>
@@ -13834,7 +13870,7 @@
       <rdamd:P30117>[Traducción de Luis Molins Correa]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1966].</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1966]</rdamd:P30011>
       <rdamd:P30182>499 p., 2 h., 18 cm.</rdamd:P30182>
       <rdamd:P30106>Libros "Reno"</rdamd:P30106>
@@ -13848,7 +13884,7 @@
       <rdamd:P30117>[Traduccion de Luis Molins Correa]</rdamd:P30117>
       <rdamd:P30088>[Barcelona]</rdamd:P30088>
       <rdamd:P30111>[Barcelona] : G.P., [1969].</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1969]</rdamd:P30011>
       <rdamd:P30182>500 p., 2 h., 18 cm.</rdamd:P30182>
       <rdamd:P30106>Libros "Reno"</rdamd:P30106>
@@ -13880,7 +13916,7 @@
       <rdamd:P30117>. Los esclavos del amor [Traducción de Berta Curiel y María Lana Jorvell]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1964].</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1964]</rdamd:P30011>
       <rdamd:P30182>320 p., 18 cm.</rdamd:P30182>
       <rdamd:P30106>Libros Reno</rdamd:P30106>
@@ -13936,7 +13972,7 @@
       <rdamd:P30117>Knut Hamsun, La ultima alegria. Thomas Mann, El nacimiento del doctor Fausto</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1967].</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1967]</rdamd:P30011>
       <rdamd:P30182>440 p., 1 h., 18 cm.</rdamd:P30182>
       <rdamd:P30106>Los Premios Nobel de Literatura</rdamd:P30106>
@@ -13952,7 +13988,7 @@
       <rdamd:P30117>Hermann Hesse, Hermann Lausoher. Knut Hamsun. Vida azarosa [Traductores Ricardo Atwel de Veyga, Victor Scholz, Maria Lana]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1966].</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1966]</rdamd:P30011>
       <rdamd:P30182>506 p., 1 h., 18 cm.</rdamd:P30182>
       <rdamd:P30106>Los Premios Nobel de Literatura</rdamd:P30106>
@@ -13968,7 +14004,7 @@
       <rdamd:P30117>Francois Mauriac. Knut Hamsun, Hambre. Tames Mann, Vision. [Traduccion Fernando Gutierrez, Jose Viana, Manuel Blancafort]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G.P., [1966].</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1966]</rdamd:P30011>
       <rdamd:P30182>448 p., 18 cm.</rdamd:P30182>
       <rdamd:P30106>Premios Nobel de Literatura</rdamd:P30106>
@@ -13997,7 +14033,7 @@
       <rdamd:P30117>Rabindranath Tagore. La ciudad de Segelfoss / Knut Hamsun. La risa / Henri Bergson ; [traductores, Zenobia Camprubí de Jiménez, Frans Vives, Amalia Aydee Raggio]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G. P. : [Guada, 1960].</rdamd:P30111>
-      <rdamd:P30083>G. P</rdamd:P30083>
+      <rdamd:P30083>G. P.</rdamd:P30083>
       <rdamd:P30083>[Guada</rdamd:P30083>
       <rdamd:P30011>1960]</rdamd:P30011>
       <rdamd:P30182>509 p., 19 cm.</rdamd:P30182>
@@ -14014,7 +14050,7 @@
       <rdamd:P30117>Rabindranath Tagore. La ciudad de Segelfoss / Knut Hamsun. La risa / Henri Bergson ; [traductores, Zenobia Camprubí de Jiménez, Frans Vives, Amalia Aydee Raggio]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G. P. : [Guada, 1963].</rdamd:P30111>
-      <rdamd:P30083>G. P</rdamd:P30083>
+      <rdamd:P30083>G. P.</rdamd:P30083>
       <rdamd:P30083>[Guada</rdamd:P30083>
       <rdamd:P30011>1963]</rdamd:P30011>
       <rdamd:P30182>504 p., 1 h., 19 cm.</rdamd:P30182>
@@ -14031,7 +14067,7 @@
       <rdamd:P30117>Rabindranath Tagore. La ciudad de Segelfoss / Knut Hamsun. La risa / Henri Bergson ; [traductores Zenobia Camprubí de Jiménez, Frans Vives, Amalia Aydee Raggio]</rdamd:P30117>
       <rdamd:P30088>Barcelona</rdamd:P30088>
       <rdamd:P30111>Barcelona : G. P., [1966].</rdamd:P30111>
-      <rdamd:P30083>G. P</rdamd:P30083>
+      <rdamd:P30083>G. P.</rdamd:P30083>
       <rdamd:P30011>[1966]</rdamd:P30011>
       <rdamd:P30182>504 p., 1 h., 18 cm.</rdamd:P30182>
       <rdamd:P30106>Premios Nobel</rdamd:P30106>
@@ -14874,7 +14910,7 @@
       <rdfs:label>ISBN1582876363</rdfs:label>
       <rdamd:P30156>The growth of the soil</rdamd:P30156>
       <rdamd:P30117>Knut Hamsun</rdamd:P30117>
-      <rdamd:P30088>Wickford, R.I</rdamd:P30088>
+      <rdamd:P30088>Wickford, R.I.</rdamd:P30088>
       <rdamd:P30111>Wickford, R.I. : North Books, 2001.</rdamd:P30111>
       <rdamd:P30083>North Books</rdamd:P30083>
       <rdamd:P30011>2001</rdamd:P30011>
@@ -19189,7 +19225,7 @@
       <rdamd:P30117>[traducción de José Lleonart</rdamd:P30117>
       <rdamd:P30088>Esplugas de Llobregat (Barcelona)]</rdamd:P30088>
       <rdamd:P30111>Esplugas de Llobregat (Barcelona)] : G.P., [1975].</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>[1975]</rdamd:P30011>
       <rdamd:P30182>344 p., 1 h., 18 cm.</rdamd:P30182>
       <rdamd:P30106>Libros Reno</rdamd:P30106>
@@ -19206,7 +19242,7 @@
       <rdamd:P30117>Knut Hamsun ; [traducción del noruego por Pedro Camacho]</rdamd:P30117>
       <rdamd:P30088>Esplugas de Llobregat, Barcelona</rdamd:P30088>
       <rdamd:P30111>Esplugas de Llobregat, Barcelona : G.P., 1976.</rdamd:P30111>
-      <rdamd:P30083>G.P</rdamd:P30083>
+      <rdamd:P30083>G.P.</rdamd:P30083>
       <rdamd:P30011>1976</rdamd:P30011>
       <rdamd:P30182>248 p., 1 h., 18 cm.</rdamd:P30182>
       <rdamd:P30106>Libros reno</rdamd:P30106>
@@ -19778,7 +19814,7 @@
       <rdfs:label>ISBN0374531102</rdfs:label>
       <rdamd:P30156>Hunger</rdamd:P30156>
       <rdamd:P30117>Knut Hamsun ; introduction by Paul Auster ; translated from the Norwegian and with an afterword by Robert Bly</rdamd:P30117>
-      <rdamd:P30088>N.Y</rdamd:P30088>
+      <rdamd:P30088>N.Y.</rdamd:P30088>
       <rdamd:P30111>N.Y. : Farrar, Straus and Giroux, 2008.</rdamd:P30111>
       <rdamd:P30083>Farrar, Straus and Giroux</rdamd:P30083>
       <rdamd:P30011>2008</rdamd:P30011>
@@ -19800,7 +19836,7 @@
       <rdfs:label>ISBN0486476006</rdfs:label>
       <rdamd:P30156>Growth of the soil</rdamd:P30156>
       <rdamd:P30117>Knut Hamsun ; translated from the Norwegian by W.W. Worster</rdamd:P30117>
-      <rdamd:P30088>Mineola, N.Y</rdamd:P30088>
+      <rdamd:P30088>Mineola, N.Y.</rdamd:P30088>
       <rdamd:P30111>Mineola, N.Y. : Dover Publications, 2010.</rdamd:P30111>
       <rdamd:P30083>Dover Publications</rdamd:P30083>
       <rdamd:P30011>2010</rdamd:P30011>
@@ -19815,7 +19851,7 @@
       <rdfs:label>ISBN9780554318325</rdfs:label>
       <rdamd:P30156>Shallow soil</rdamd:P30156>
       <rdamd:P30117>Knut Hamsun ; authorised translation from the Norwegian by Carl Christian Hyllested</rdamd:P30117>
-      <rdamd:P30088>Charleston, S.C</rdamd:P30088>
+      <rdamd:P30088>Charleston, S.C.</rdamd:P30088>
       <rdamd:P30111>Charleston, S.C. : BiblioBazaar, [2008?].</rdamd:P30111>
       <rdamd:P30083>BiblioBazaar</rdamd:P30083>
       <rdamd:P30011>[2008?]</rdamd:P30011>
@@ -19830,7 +19866,7 @@
       <rdfs:label>ISBN9780554320571</rdfs:label>
       <rdamd:P30156>Look back on happiness</rdamd:P30156>
       <rdamd:P30117>Knut Hamsun</rdamd:P30117>
-      <rdamd:P30088>Charleston, S.C</rdamd:P30088>
+      <rdamd:P30088>Charleston, S.C.</rdamd:P30088>
       <rdamd:P30111>Charleston, S.C. : BiblioBazaar, [2008?].</rdamd:P30111>
       <rdamd:P30083>BiblioBazaar</rdamd:P30083>
       <rdamd:P30011>[2008?]</rdamd:P30011>
@@ -19919,7 +19955,7 @@
       <rdfs:label>ISBN9781103170807</rdfs:label>
       <rdamd:P30156>Hunger</rdamd:P30156>
       <rdamd:P30117>Knut Hamsun ; translated from the Norwegian of Knut Hamsun by George Egerton ; with an introduction by Edwin Björkman</rdamd:P30117>
-      <rdamd:P30088>Charleston, S.C</rdamd:P30088>
+      <rdamd:P30088>Charleston, S.C.</rdamd:P30088>
       <rdamd:P30111>Charleston, S.C. : BiblioLife, [2009].</rdamd:P30111>
       <rdamd:P30083>BiblioLife</rdamd:P30083>
       <rdamd:P30011>[2009]</rdamd:P30011>

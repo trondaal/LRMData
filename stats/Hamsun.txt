@@ -4,7 +4,7 @@ VBINF6000 rapport over datasamling - oppdatert 24/10 2023
 -------------------------------------------------------
 
 
-Antall poster i samlingen:1091
+Antall poster i samlingen:1092
 -------------------------------------------------------
 
 
@@ -189,6 +189,7 @@ Agenter identifisert med URI
 * http://example.org/strmdahlwenche (700) : Strømdahl, Wenche
 * http://example.org/sundquistbjrn (700) : Sundquist, Bjørn
 * http://example.org/srensenhansgerhard (700) : Sørensen, Hans Gerhard
+* https://isni.org/isni/0000000361689449 (100) : Sørensen, Reidar
 * http://viaf.org/viaf/24608356 (700) : Tagore, Rabindranath
 * http://example.org/thalbitzerkaren (700) : Thalbitzer, Karen
 * http://example.org/tushinghamrita (700) : Tushingham, Rita
@@ -227,6 +228,7 @@ men dere velger selv hvilke agenter som skal være med
 * 710  2#  $aNationaltheatret
 * 710  2#  $aNationaltheatret
 * 710  2#  $aNorbok  $eSonstige  $4oth
+* 710  2#  $aNordland teater  $0(NO-TrBIB)90209732  $4pbl
 * 710  2#  $aNorsk rikskringkasting
 * 710  2#  $aOffizin Haag Drugulin  $eSonstige  $4oth
 * 710  2#  $aUnion Design AS  $eSonstige  $4oth
@@ -342,6 +344,7 @@ Verk identifisert med URI
 * http://www.wikidata.org/entity/Q15062323 = Munken vendt / Munken Vendt (Language-based work)
 * http://www.wikidata.org/entity/Q15062327 = Aftenrøde (Language-based work)
 * http://www.wikidata.org/entity/Q15062328 = Siesta (Language-based work)
+* https://isni.org/isni/0000000361689449/paagjengroddestier = Paa gjengrodde stier 
 * https://www.imdb.com/title/tt0011440/ = Markens grøde (Moving image work)
 * https://www.imdb.com/title/tt0061042/ = Sult (Moving image work)
 * https://www.imdb.com/title/tt0077965/ = Mysteries 
@@ -364,7 +367,7 @@ verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 * http://rdaregistry.info/Elements/w/object/P10014 (has radio director agent) : 2 
 * http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work) : 2 
 * http://rdaregistry.info/Elements/w/object/P10056 (has photographer agent of work) : 2 
-* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 1077 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 1078 
 * http://rdaregistry.info/Elements/w/object/P10066 (has director agent) : 7 
 * http://rdaregistry.info/Elements/w/object/P10068 (has director agent of photography) : 1 
 * http://rdaregistry.info/Elements/w/object/P10203 (has screenwriter agent) : 5 
@@ -375,7 +378,7 @@ Verk til verk RDA relasjonstyper i 700 og 758 $4-subfelt + label fra RDA registr
 * http://rdaregistry.info/Elements/w/object/P10019 (is part of work) : 8 
 * http://rdaregistry.info/Elements/w/object/P10127 (is dramatization of work) : 3 
 * http://rdaregistry.info/Elements/w/object/P10134 (is motion picture screenplay based on work) : 7 
-* http://rdaregistry.info/Elements/w/object/P10142 (is adaptation of work) : 1 
+* http://rdaregistry.info/Elements/w/object/P10142 (is adaptation of work) : 2 
 * http://rdaregistry.info/Elements/w/object/P10156 (is preceded by work) : 2 
 
 
@@ -426,3 +429,5 @@ Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke an
 * http://rdaregistry.info/Elements/w/object/P10134 (is motion picture screenplay based on work) -> Markens grøde / Hamsun, Knut (700)
 001 = 991015792334702201, Landstrykere / Moving image work 
 * http://rdaregistry.info/Elements/w/object/P10134 (is motion picture screenplay based on work) -> Landstrykere / Hamsun, Knut (700)
+001 = 990936537004702201, Paa gjengrodde stier / Sørensen, Reidar /  
+* http://rdaregistry.info/Elements/w/object/P10142 (is adaptation of work) -> Paa gjengrodde stier / Hamsun, Knut (700)

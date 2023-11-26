@@ -9162,17 +9162,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/seancormacmccarthy/thesis"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Work"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q3061599"
                 },
                 "label": {
@@ -11176,6 +11165,17 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q112731328"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Work"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000361689449/paagjengroddestier"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -19216,17 +19216,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/seancormacmccarthy"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Agent"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "https://isni.org/isni/0000000046450913"
                 },
                 "label": {
@@ -20174,6 +20163,17 @@
                 "entity": {
                     "type": "uri",
                     "value": "https://isni.org/isni/0000000121480873"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Agent"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000361689449"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -34803,17 +34803,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/seancormacmccarthy/thesis/exp/eng/1020"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Expression"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "https://isni.org/isni/0000000046450913/collateral/01/exp/eng/1011"
                 },
                 "label": {
@@ -38115,6 +38104,17 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q112731328/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://isni.org/isni/0000000361689449/paagjengroddestier/exp/nob/1020"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -65658,17 +65658,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://example.org/017034914"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Manifestation"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "http://example.org/15039940"
                 },
                 "label": {
@@ -67518,6 +67507,17 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://example.org/isbn-9780061927744"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Manifestation"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/990936537004702201"
                 },
                 "label": {
                     "xml:lang": "gden",

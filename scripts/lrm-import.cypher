@@ -96,6 +96,16 @@ MATCH
   CALL apoc.create.relationship(s, "PARTOF",{type: property, role: label}, o) yield rel
 RETURN rel;
 
+WITH "aggregates.json" AS url
+CALL apoc.load.json(url) YIELD value
+UNWIND value.results.bindings AS e
+WITH e.s.value as source, e.p.value as property, e.l.value as label, e.o.value as object
+MATCH
+  (s:Resource {uri: source}),
+  (o:Resource {uri: object})
+  CALL apoc.create.relationship(s, "AGGREGATES",{type: property, role: label}, o) yield rel
+RETURN rel;
+
 WITH "horisontalrelationships.json" AS url
 CALL apoc.load.json(url) YIELD value
 UNWIND value.results.bindings AS e
@@ -241,3 +251,18 @@ set e.ids = e.ids + a.id + " : ";
 //Set random int on expressions for random sorting
 MATCH (e:Expression)
 set e.random = toInteger(rand() * (1000));
+
+CALL gds.graph.project(
+    'lrm',              
+    'Resource',            
+    ['CREATOR', 'REALIZES', 'PARTOF','RELATED']             
+);
+
+CALL gds.pageRank.write('lrm', {
+  maxIterations: 20,
+  dampingFactor: 0.85,
+  writeProperty: 'pagerank'
+})
+YIELD nodePropertiesWritten, ranIterations;
+
+CALL gds.graph.drop('lrm');

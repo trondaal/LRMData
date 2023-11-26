@@ -5057,7 +5057,7 @@
             <marc:subfield code="z">9781447289463</marc:subfield>
         </marc:datafield>
     </marc:record>
-    <marc:record>
+<!--    <marc:record>
         <marc:leader>01260cam a22002777i 4500</marc:leader>
         <marc:controlfield tag="001">017034914</marc:controlfield>
         <marc:controlfield tag="003">Uk</marc:controlfield>
@@ -5119,7 +5119,7 @@
             <marc:subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1018</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="502" ind1=" " ind2=" ">
-            <marc:subfield code="a">Thesis (Ph.D.)--University of Birmingham, 1991.</marc:subfield>
+            <marc:subfield code="a">Thesis (Ph.D.)-University of Birmingham, 1991.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="504" ind1=" " ind2=" ">
             <marc:subfield code="a">Includes bibliographical references.</marc:subfield>
@@ -5128,7 +5128,7 @@
             <marc:subfield code="a">University of Birmingham,</marc:subfield>
             <marc:subfield code="e">degree granting institution.</marc:subfield>
         </marc:datafield>
-    </marc:record>
+    </marc:record>-->
     <marc:record>
         <marc:leader>01289pam a22003131i 4500</marc:leader>
         <marc:controlfield tag="001">016914643</marc:controlfield>
