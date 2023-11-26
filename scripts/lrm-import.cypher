@@ -252,16 +252,39 @@ set e.ids = e.ids + a.id + " : ";
 MATCH (e:Expression)
 set e.random = toInteger(rand() * (1000));
 
+MATCH (c)-[a:AGGREGATES]-(d)
+SET a.weight = 2.0
+
+MATCH (c)-[a:PARTOF]-(d)
+SET a.weight = 2.0
+
+MATCH (c)-[a:REALIZES]-(d)
+SET a.weight = 0.2
+
+MATCH (c)-[a:RELATED]-(d)
+SET a.weight = 0.2
+
+MATCH (c)-[a:EMBODIES]-(d)
+SET a.weight = 0.2
+
+CALL gds.graph.drop('lrm');
+
 CALL gds.graph.project(
     'lrm',              
-    'Resource',            
-    ['CREATOR', 'REALIZES', 'PARTOF','RELATED', 'AGGREGATES']             
+    'Resource', 
+    {                                         
+    AGGREGATES: { properties: "weight" },
+    PARTOF: { properties: "weight" },
+    REALIZES: { properties: "weight" },
+    RELATED: { properties: "weight" }   
+    }            
 );
 
 CALL gds.pageRank.write('lrm', {
   maxIterations: 20,
   dampingFactor: 0.85,
-  writeProperty: 'pagerank'
+  writeProperty: 'pagerank',
+  relationshipWeightProperty: 'weight'
 })
 YIELD nodePropertiesWritten, ranIterations;
 
