@@ -171,8 +171,6 @@ set e.titles = e.titles + w.title + " : ";
 MATCH (e:Expression)-[:REALIZES]-(w:Work) where w.titlevariant IS NOT NULL
 set e.titlevariant = e.titles + w.titlevariant + " : ";
 
-titlevariant
-
 MATCH (e:Expression)-[:REALIZES]-(w:Work) where w.name IS NOT NULL
 set e.creators = e.creators + w.name + " : ";
 
