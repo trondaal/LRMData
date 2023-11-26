@@ -2160,16 +2160,6 @@
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://example.org/gundersendag"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Gundersen, Dag"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
                     "value": "http://example.org/gustavsonerik"
                 },
                 "label": {
@@ -7975,16 +7965,6 @@
                 "label": {
                     "type": "literal",
                     "value": "ISBN8205242178"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-8205243263"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "ISBN8205243263"
                 }
             },
             {
@@ -20250,16 +20230,6 @@
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://example.org/kittelsenth"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Kittelsen, Th"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
                     "value": "http://example.org/kiyhermann"
                 },
                 "label": {
@@ -21025,16 +20995,6 @@
                 "label": {
                     "type": "literal",
                     "value": "Maria"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://example.org/marstrandervilhelm"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Marstrander, Vilhelm"
                 }
             },
             {
@@ -23000,16 +22960,6 @@
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://example.org/srensenhansgerhard"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "S\u00f8rensen, Hans Gerhard"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
                     "value": "http://example.org/stallybrassgunnvor"
                 },
                 "label": {
@@ -23526,16 +23476,6 @@
                 "label": {
                     "type": "literal",
                     "value": "H\u00f6lderlin (Weiss, Peter)"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://example.org/werenskiolderik"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Werenskiold, Erik"
                 }
             },
             {
@@ -31366,16 +31306,6 @@
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/220443771/exp/nob/1020/gundersendag"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Sult (Hamsun, Knut)"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/220443771/exp/spa/1020"
                 },
                 "label": {
@@ -34546,7 +34476,7 @@
                 },
                 "label": {
                     "type": "literal",
-                    "value": "Under h\u00f8ststj\u00e6rnen (Hamsun, Knut)"
+                    "value": "Under h\u00f8ststjernen (Hamsun, Knut)"
                 }
             },
             {
@@ -39833,16 +39763,6 @@
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/59083692/kjrlighetensslaverogandrenoveller/exp/nob/1020"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Kj\u00e6rlighetens slaver : og andre noveller (Hamsun, Knut)"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/59083692/kvindesejr"
                 },
                 "label": {
@@ -40053,11 +39973,131 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1900/b1"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede Romaner og Fort\u00e6llinger B. 1 (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1900/b1/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede Romaner og Fort\u00e6llinger (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1900/b2"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede Romaner og Fort\u00e6llinger, Bind 2 (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1900/b2/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede Romaner og Fort\u00e6llinger (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1900/b3"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede Romaner og Fort\u00e6llinger, Bind 3 (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1900/b3/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede Romaner og Fort\u00e6llinger (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1900/b4"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede Romaner og Fort\u00e6llinger B. 4 (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1900/b4/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede Romaner og Fort\u00e6llinger (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1900/b5"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede Romaner og Fort\u00e6llinger B. 5 (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1900/b5/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede Romaner og Fort\u00e6llinger (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1930/b2"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker, Bind 2 (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1930/b2/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede Verker (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/59083692/samledeverker/1930/b7"
                 },
                 "label": {
                     "type": "literal",
-                    "value": "Samlede verker : 7 (Hamsun, Knut)"
+                    "value": "Samlede verker, Bind 7 (Hamsun, Knut)"
                 }
             },
             {
@@ -40073,37 +40113,17 @@
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/59083692/samledeverker/2000/B15"
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1990/b1"
                 },
                 "label": {
                     "type": "literal",
-                    "value": "Samlede verker : B. 15 (Hamsun, Knut)"
+                    "value": "Samlede verker, Bind 1 (Hamsun, Knut)"
                 }
             },
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/59083692/samledeverker/2000/B15/exp/nob/1020"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Samlede verker (Hamsun, Knut)"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/59083692/samledeverker/2000/b14"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Samlede verker : Bind 14 (Hamsun, Knut)"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/59083692/samledeverker/2000/b14/exp/nob/1020"
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1990/b1/exp/nob/1020"
                 },
                 "label": {
                     "type": "literal",
@@ -40113,17 +40133,17 @@
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/59083692/samledeverker/2007/b14"
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1990/b14"
                 },
                 "label": {
                     "type": "literal",
-                    "value": "Samlede verker : Bind 18 (Hamsun, Knut)"
+                    "value": "Samlede verker, Bind 14 (Hamsun, Knut)"
                 }
             },
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/59083692/samledeverker/2007/b14/exp/nob/1020"
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1990/b14/exp/nob/1020"
                 },
                 "label": {
                     "type": "literal",
@@ -40133,17 +40153,297 @@
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/59083692/samledeverker/2009/B23"
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1990/b15"
                 },
                 "label": {
                     "type": "literal",
-                    "value": "Samlede verker : B. 23 (Hamsun, Knut)"
+                    "value": "Samlede verker, Bind 15 (Hamsun, Knut)"
                 }
             },
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/59083692/samledeverker/2009/B23/exp/nob/1020"
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1990/b15/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1990/b3"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker, Bind 3 (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1990/b3/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1990/b4"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker, Bind 4 (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1990/b4/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1990/b5"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker, Bind 5 (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1990/b5/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1990/b6"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker, Bind 6 (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1990/b6/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1990/b7"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker, Bind 7 (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1990/b7/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2007/b18"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker, Bind 18 (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2007/b18/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2007/b19"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker, Bind 19 (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2007/b19/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2007/b21"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker, Bind 21 (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2007/b21/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2007/b22"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker, Bind 22 (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2007/b22/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2007/b24"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker, Bind 24 (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2007/b24/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2007/b3"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker, Bind 3 (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2007/b3/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2007/b4"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker, Bind 4 (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2007/b4/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2007/b7"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker, Bind 7 (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2007/b7/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2009/b23"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Samlede verker, Bind 23 (Hamsun, Knut)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/2009/b23/exp/nob/1020"
                 },
                 "label": {
                     "type": "literal",
@@ -40258,27 +40558,6 @@
                 "label": {
                     "type": "literal",
                     "value": "Vandrer-trilogien (Hamsun, Knut)"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/59083692/verker/bind7"
-                },
-                "label": {
-                    "xml:lang": "en",
-                    "type": "literal",
-                    "value": "Samlede verker : Bind 7 (Hamsun, Knut)"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/59083692/verker/bind7/exp/nob/1020"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Samlede verker (Hamsun, Knut)"
                 }
             },
             {

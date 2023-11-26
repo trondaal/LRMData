@@ -4,7 +4,7 @@ VBINF6000 rapport over datasamling - oppdatert 24/10 2023
 -------------------------------------------------------
 
 
-Antall poster i samlingen:1092
+Antall poster i samlingen:1091
 -------------------------------------------------------
 
 
@@ -78,7 +78,6 @@ Agenter identifisert med URI
 * http://example.org/guilhoningunn (700) : Guilhon, Ingunn
 * http://example.org/gullvaghakon (700) : Gullvåg, Håkon
 * http://example.org/gullvghkon (700) : Gullvåg, Håkon
-* http://example.org/gundersendag (700) : Gundersen, Dag
 * http://example.org/gustavsonerik (700) : Gustavson, Erik
 * http://example.org/gutirrezfernando (700) : Gutiérrez, Fernando
 * http://example.org/halvorsenleif (700) : Halvorsen, Leif
@@ -108,7 +107,6 @@ Agenter identifisert med URI
 * http://example.org/keelaldo (700) : Keel, Aldo
 * http://example.org/keelingeborg (700) : Keel, Ingeborg
 * http://example.org/kehlmanndaniel (700) : Kehlmann, Daniel
-* http://example.org/kittelsenth (700) : Kittelsen, Th
 * http://example.org/kiyhermann (700) : Kiy, Hermann
 * http://viaf.org/viaf/117364598 (700) : Klaiber-Gottschau, Pauline
 * http://example.org/knustjutta (700) : Knust, Jutta
@@ -136,7 +134,6 @@ Agenter identifisert med URI
 * http://viaf.org/viaf/17979510 (700) : Magnus, Erwin
 * http://example.org/mannmathilde (700) : Mann, Mathilde
 * http://viaf.org/viaf/54151065 (700) : Mann, Thomas
-* http://example.org/marstrandervilhelm (700) : Marstrander, Vilhelm
 * http://example.org/mathesonfredrik (700) : Matheson, Fredrik
 * http://example.org/mcfarlanejameswalter (700) : McFarlane, James Walter / McFarlane, James
 * http://example.org/mcleanduncan (700) : McLean, Duncan
@@ -188,7 +185,6 @@ Agenter identifisert med URI
 * http://example.org/stoblingruth (700) : Stöbling, Ruth
 * http://example.org/strmdahlwenche (700) : Strømdahl, Wenche
 * http://example.org/sundquistbjrn (700) : Sundquist, Bjørn
-* http://example.org/srensenhansgerhard (700) : Sørensen, Hans Gerhard
 * https://isni.org/isni/0000000361689449 (100) : Sørensen, Reidar
 * http://viaf.org/viaf/24608356 (700) : Tagore, Rabindranath
 * http://example.org/thalbitzerkaren (700) : Thalbitzer, Karen
@@ -199,7 +195,6 @@ Agenter identifisert med URI
 * http://example.org/vivesfrancisco (700) : Vives, Francisco
 * http://example.org/vivesfrans (700) : Vives, Frans
 * http://example.org/weibelsiegfried (700) : Weibel, Siegfried
-* http://example.org/werenskiolderik (700) : Werenskiold, Erik
 * http://example.org/werkmsterbarbro (700) : Werkmäster, Barbro
 * http://example.org/werneroskar (700) : Werner, Oskar
 * http://example.org/wettergreenragna (700) : Wettergreen, Ragna
@@ -295,7 +290,6 @@ Verk identifisert med URI
 * http://viaf.org/viaf/59083692/jontro = Jon Tro (Language-based work)
 * http://viaf.org/viaf/59083692/julegilde = Julegilde (Language-based work)
 * http://viaf.org/viaf/59083692/juliaasen = Jul i aasen (Language-based work)
-* http://viaf.org/viaf/59083692/kjrlighetensslaverogandrenoveller = Kjærlighetens slaver : og andre noveller (Language-based work)
 * http://viaf.org/viaf/59083692/kvindesejr = Kvindesejr (Language-based work)
 * http://viaf.org/viaf/59083692/lidtparis = Lidt Paris (Language-based work)
 * http://viaf.org/viaf/59083692/medskydshest = Med skydshest (Language-based work)
@@ -306,17 +300,35 @@ Verk identifisert med URI
 * http://viaf.org/viaf/59083692/paagaden = Paa gaden (Language-based work)
 * http://viaf.org/viaf/59083692/rejersenafsydstjrnen = Rejersen af "Sydstjærnen" (Language-based work)
 * http://viaf.org/viaf/59083692/ringen = Ringen (Language-based work)
-* http://viaf.org/viaf/59083692/samledeverker/1930/b7 = Samlede verker : 7 (Language-based work)
-* http://viaf.org/viaf/59083692/samledeverker/2000/B15 = Samlede verker : B. 15 (Language-based work)
-* http://viaf.org/viaf/59083692/samledeverker/2000/b14 = Samlede verker : Bind 14 (Language-based work)
-* http://viaf.org/viaf/59083692/samledeverker/2007/b14 = Samlede verker : Bind 18 (Language-based work)
-* http://viaf.org/viaf/59083692/samledeverker/2009/B23 = Samlede verker : B. 23 (Language-based work)
+* http://viaf.org/viaf/59083692/samledeverker/1900/b1 = Samlede Romaner og Fortællinger B. 1 (Language-based work)
+* http://viaf.org/viaf/59083692/samledeverker/1900/b2 = Samlede Romaner og Fortællinger, Bind 2 (Language-based work)
+* http://viaf.org/viaf/59083692/samledeverker/1900/b3 = Samlede Romaner og Fortællinger, Bind 3 (Language-based work)
+* http://viaf.org/viaf/59083692/samledeverker/1900/b4 = Samlede Romaner og Fortællinger B. 4 (Language-based work)
+* http://viaf.org/viaf/59083692/samledeverker/1900/b5 = Samlede Romaner og Fortællinger B. 5 (Language-based work)
+* http://viaf.org/viaf/59083692/samledeverker/1930/b2 = Samlede verker, Bind 2 (Language-based work)
+* http://viaf.org/viaf/59083692/samledeverker/1930/b7 = Samlede verker, Bind 7 (Language-based work)
+* http://viaf.org/viaf/59083692/samledeverker/1990/b1 = Samlede verker, Bind 1 (Language-based work)
+* http://viaf.org/viaf/59083692/samledeverker/1990/b14 = Samlede verker, Bind 14 (Language-based work)
+* http://viaf.org/viaf/59083692/samledeverker/1990/b15 = Samlede verker, Bind 15 (Language-based work)
+* http://viaf.org/viaf/59083692/samledeverker/1990/b3 = Samlede verker, Bind 3 (Language-based work)
+* http://viaf.org/viaf/59083692/samledeverker/1990/b4 = Samlede verker, Bind 4 (Language-based work)
+* http://viaf.org/viaf/59083692/samledeverker/1990/b5 = Samlede verker, Bind 5 (Language-based work)
+* http://viaf.org/viaf/59083692/samledeverker/1990/b6 = Samlede verker, Bind 6 (Language-based work)
+* http://viaf.org/viaf/59083692/samledeverker/1990/b7 = Samlede verker, Bind 7 (Language-based work)
+* http://viaf.org/viaf/59083692/samledeverker/2007/b18 = Samlede verker, Bind 18 (Language-based work)
+* http://viaf.org/viaf/59083692/samledeverker/2007/b19 = Samlede verker, Bind 19 (Language-based work)
+* http://viaf.org/viaf/59083692/samledeverker/2007/b21 = Samlede verker, Bind 21 (Language-based work)
+* http://viaf.org/viaf/59083692/samledeverker/2007/b22 = Samlede verker, Bind 22 (Language-based work)
+* http://viaf.org/viaf/59083692/samledeverker/2007/b24 = Samlede verker, Bind 24 (Language-based work)
+* http://viaf.org/viaf/59083692/samledeverker/2007/b3 = Samlede verker, Bind 3 (Language-based work)
+* http://viaf.org/viaf/59083692/samledeverker/2007/b4 = Samlede verker, Bind 4 (Language-based work)
+* http://viaf.org/viaf/59083692/samledeverker/2007/b7 = Samlede verker, Bind 7 (Language-based work)
+* http://viaf.org/viaf/59083692/samledeverker/2009/b23 = Samlede verker, Bind 23 (Language-based work)
 * http://viaf.org/viaf/59083692/udisdensommer = Udi søden sommer (Language-based work)
 * http://viaf.org/viaf/59083692/underhalvmaanen = Under Halvmaanen (Language-based work)
 * http://viaf.org/viaf/59083692/vagabondsdage = Vagabonds dage (Language-based work)
 * http://viaf.org/viaf/59083692/vagabondsdager = Vagabonds dager (Language-based work)
 * http://viaf.org/viaf/59083692/vandrertriologi = Vandrer-trilogien 
-* http://viaf.org/viaf/59083692/verker/bind7 = Samlede verker : Bind 7 (Language-based work)
 * http://viaf.org/viaf/59083692/æreskjælm = En æreskjælm (Language-based work)
 * http://viaf.org/viaf/61541730/lerire = Le rire (Language-based work)
 * http://viaf.org/viaf/73860916/denlykkeligealder = Den lykkelige Alder (Language-based work)
@@ -359,15 +371,15 @@ verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 * http://rdaregistry.info/Elements/e/object/P20012 (has actor agent) : 22 
 * http://rdaregistry.info/Elements/e/object/P20020 (has instrumentalist agent) : 2 
 * http://rdaregistry.info/Elements/e/object/P20022 (has narrator agent) : 39 
-* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent) : 817 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent) : 816 
 * http://rdaregistry.info/Elements/m/object/P30069 (has book designer agent) : 5 
 * http://rdaregistry.info/Elements/m/object/P30267 (has related agent of manifestation) : 24 
-* http://rdaregistry.info/Elements/m/object/P30321 (has contributor agent of still image) : 43 
+* http://rdaregistry.info/Elements/m/object/P30321 (has contributor agent of still image) : 39 
 * http://rdaregistry.info/Elements/m/object/P30328 (has contributor agent of text) : 63 
 * http://rdaregistry.info/Elements/w/object/P10014 (has radio director agent) : 2 
 * http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work) : 2 
 * http://rdaregistry.info/Elements/w/object/P10056 (has photographer agent of work) : 2 
-* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 1078 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 1077 
 * http://rdaregistry.info/Elements/w/object/P10066 (has director agent) : 7 
 * http://rdaregistry.info/Elements/w/object/P10068 (has director agent of photography) : 1 
 * http://rdaregistry.info/Elements/w/object/P10203 (has screenwriter agent) : 5 
