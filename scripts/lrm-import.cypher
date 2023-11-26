@@ -169,7 +169,7 @@ MATCH (e:Expression)-[:REALIZES]-(w:Work) where w.title IS NOT NULL
 set e.titles = e.titles + w.title + " : ";
 
 MATCH (e:Expression)-[:REALIZES]-(w:Work) where w.titlevariant IS NOT NULL
-set e.titlevariant = e.titles + w.titlevariant + " : ";
+set e.titles = e.titles + w.titlevariant + " : ";
 
 MATCH (e:Expression)-[:REALIZES]-(w:Work) where w.name IS NOT NULL
 set e.creators = e.creators + w.name + " : ";
