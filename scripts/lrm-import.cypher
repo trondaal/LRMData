@@ -270,7 +270,6 @@ SET a.weight = 0.2;
 MATCH (c)-[a:EMBODIES]-(d)
 SET a.weight = 0.2;
 
-CALL gds.graph.drop('lrm');
 
 CALL gds.graph.project(
     'lrm',              
