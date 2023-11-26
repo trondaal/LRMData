@@ -256,19 +256,19 @@ MATCH (e:Expression)
 set e.random = toInteger(rand() * (1000));
 
 MATCH (c)-[a:AGGREGATES]-(d)
-SET a.weight = 2.0;
+SET a.weight = 1.0;
 
 MATCH (c)-[a:PARTOF]-(d)
-SET a.weight = 2.0;
+SET a.weight = 1.0;
 
 MATCH (c)-[a:REALIZES]-(d)
-SET a.weight = 0.2;
+SET a.weight = 1.0;
 
 MATCH (c)-[a:RELATED]-(d)
-SET a.weight = 0.2;
+SET a.weight = 0.5;
 
 MATCH (c)-[a:EMBODIES]-(d)
-SET a.weight = 0.2;
+SET a.weight = 0.5;
 
 
 CALL gds.graph.project(
