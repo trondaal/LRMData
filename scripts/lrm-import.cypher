@@ -168,6 +168,11 @@ set e.creators = e.creators + a.name + " : ";
 MATCH (e:Expression)-[:REALIZES]-(w:Work) where w.title IS NOT NULL
 set e.titles = e.titles + w.title + " : ";
 
+MATCH (e:Expression)-[:REALIZES]-(w:Work) where w.titlevariant IS NOT NULL
+set e.titlevariant = e.titles + w.titlevariant + " : ";
+
+titlevariant
+
 MATCH (e:Expression)-[:REALIZES]-(w:Work) where w.name IS NOT NULL
 set e.creators = e.creators + w.name + " : ";
 
@@ -253,19 +258,19 @@ MATCH (e:Expression)
 set e.random = toInteger(rand() * (1000));
 
 MATCH (c)-[a:AGGREGATES]-(d)
-SET a.weight = 2.0
+SET a.weight = 2.0;
 
 MATCH (c)-[a:PARTOF]-(d)
-SET a.weight = 2.0
+SET a.weight = 2.0;
 
 MATCH (c)-[a:REALIZES]-(d)
-SET a.weight = 0.2
+SET a.weight = 0.2;
 
 MATCH (c)-[a:RELATED]-(d)
-SET a.weight = 0.2
+SET a.weight = 0.2;
 
 MATCH (c)-[a:EMBODIES]-(d)
-SET a.weight = 0.2
+SET a.weight = 0.2;
 
 CALL gds.graph.drop('lrm');
 
@@ -273,10 +278,10 @@ CALL gds.graph.project(
     'lrm',              
     'Resource', 
     {                                         
-    AGGREGATES: { properties: "weight" },
-    PARTOF: { properties: "weight" },
-    REALIZES: { properties: "weight" },
-    RELATED: { properties: "weight" }   
+    AGGREGATES: { properties: "weight", orientation: 'REVERSE' },
+    PARTOF: { properties: "weight", orientation: 'REVERSE' },
+    REALIZES: { properties: "weight", orientation: 'REVERSE' },
+    RELATED: { properties: "weight", orientation: 'REVERSE' }   
     }            
 );
 
