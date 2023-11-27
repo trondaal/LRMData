@@ -4,7 +4,7 @@ VBINF6000 rapport over datasamling - oppdatert 24/10 2023
 -------------------------------------------------------
 
 
-Antall poster i samlingen:1091
+Antall poster i samlingen:1092
 -------------------------------------------------------
 
 
@@ -206,6 +206,7 @@ Agent-innførsler som IKKE er identifiser med URI i $1
 men dere velger selv hvilke agenter som skal være med
 -------------------------------------------------------
 * 700  1#  $aBjørn Rudborg  $4aft  $4http://rdaregistry.info/Elements/m/object/P30328  $4pht  $4http://rdaregistry.info/Elements/w/object/P10056  $4http://rdaregistry.info/Elements/m/object/P30321
+* 700  1#  $aLarsen, Lars Frode  $d1948-  $0(NO-TrBIB)90509605
 * 700  1#  $aOle Petter Førland  $4aft  $4http://rdaregistry.info/Elements/m/object/P30328  $4pht  $4http://rdaregistry.info/Elements/w/object/P10056  $4http://rdaregistry.info/Elements/m/object/P30321
 * 710  2#  $aAlbert Langen  $eVerlag  $gFirma  $4pbl
 * 710  2#  $aAlbert Langen  $eVerlag  $gFirma  $4pbl
@@ -380,7 +381,7 @@ verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 * http://rdaregistry.info/Elements/w/object/P10014 (has radio director agent) : 2 
 * http://rdaregistry.info/Elements/w/object/P10053 (has composer agent of work) : 2 
 * http://rdaregistry.info/Elements/w/object/P10056 (has photographer agent of work) : 2 
-* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 1077 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 1078 
 * http://rdaregistry.info/Elements/w/object/P10066 (has director agent) : 7 
 * http://rdaregistry.info/Elements/w/object/P10068 (has director agent of photography) : 1 
 * http://rdaregistry.info/Elements/w/object/P10203 (has screenwriter agent) : 5 

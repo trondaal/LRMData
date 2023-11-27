@@ -3297,6 +3297,8 @@
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Mysterier</rdaed:P20312>
       <rdfs:label>Mysterier (Hamsun, Knut)</rdfs:label>
+      <rdaed:P20312>Samlede verker : B. 2 : Mysterier</rdaed:P20312>
+      <rdfs:label>Samlede verker (Hamsun, Knut)</rdfs:label>
       <rdaxd:P00029>part</rdaxd:P00029>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
@@ -22467,6 +22469,27 @@
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/ondedager/exp/nob/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/ganskealminneligflue/exp/nob/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/59083692/æreskjælm/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788205359079">
+      <rdamd:P30004>ISBN 9788205359079</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788205359079</rdaxd:P00018>
+      <rdfs:label>ISBN9788205359079</rdfs:label>
+      <rdamd:P30004>ISBN 9788205375611</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788205375611</rdaxd:P00018>
+      <rdfs:label>ISBN9788205375611</rdfs:label>
+      <rdamd:P30156>Samlede verker</rdamd:P30156>
+      <rdamd:P30014>B. 2</rdamd:P30014>
+      <rdamd:P30134>Mysterier</rdamd:P30134>
+      <rdamd:P30107>Ny utg</rdamd:P30107>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Gyldendal, 2007.</rdamd:P30111>
+      <rdamd:P30083>Gyldendal</rdamd:P30083>
+      <rdamd:P30011>2007</rdamd:P30011>
+      <rdamd:P30182>321 s.</rdamd:P30182>
+      <rdamd:P30137>1. utg. København : Philipsen, 1892</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/206863699/exp/nob/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788205359086-3">
       <rdamd:P30004>ISBN 9788205359086</rdamd:P30004>

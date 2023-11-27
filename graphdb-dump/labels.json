@@ -17560,6 +17560,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-9788205359079"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN9788205359079"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-9788205359086-3"
                 },
                 "label": {
