@@ -32231,6 +32231,21 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-8205253749"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/victoriamysterierdekorert/exp/nob/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-8205257094"
                 },
                 "l": {
@@ -32301,6 +32316,21 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/220443771/exp/nob/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8205275408-1"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/samledeverker/1990/b1/exp/nob/1020"
                 }
             },
             {
@@ -80211,6 +80241,21 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/59083692/samledeverker/2009/b23"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/victoriamysterierdekorert/exp/nob/1020"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/victoriamysterierdekorert"
                 }
             }
         ]

@@ -21020,7 +21020,7 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "aggregate, parent"
+                    "value": "parent"
                 }
             },
             {
@@ -30207,6 +30207,21 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/59083692/samledeverker/2009/b23/exp/nob/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "aggregate"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/59083692/victoriamysterierdekorert/exp/nob/1020"
                 },
                 "label": {
                     "xml:lang": "gden",
