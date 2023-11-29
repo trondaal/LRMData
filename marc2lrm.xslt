@@ -829,14 +829,6 @@
                               </xsl:call-template>
                            </xsl:copy>
                         </xsl:if>
-                        <xsl:if test="@code = 'a'">
-                           <xsl:copy>
-                              <xsl:call-template name="copy-content">
-                                 <xsl:with-param name="type" select="'http://www.w3.org/2000/01/rdf-schema#label'"/>
-                                 <xsl:with-param name="select" select="frbrizer:trim(.)"/>
-                              </xsl:call-template>
-                           </xsl:copy>
-                        </xsl:if>
                      </xsl:for-each>
                   </xsl:copy>
                </xsl:for-each>
@@ -854,7 +846,7 @@
                               </xsl:call-template>
                            </xsl:copy>
                         </xsl:if>
-                        <xsl:if test="@code = 'a'">
+                        <xsl:if test="@code = 'a' and not($record[*:datafield[@tag='740'][frbrizer:linked($anchor_field, ., true())]/*:subfield[@code='a']])">
                            <xsl:copy>
                               <xsl:call-template name="copy-content">
                                  <xsl:with-param name="type" select="'http://www.w3.org/2000/01/rdf-schema#label'"/>
@@ -2865,7 +2857,8 @@
                         <xsl:copy>
                            <xsl:call-template name="copy-content">
                               <xsl:with-param name="type" select="'http://www.w3.org/2000/01/rdf-schema#label'"/>
-                              <xsl:with-param name="select" select="frbrizer:trim(.)"/>
+                              <xsl:with-param name="select"
+                                              select="frbrizer:trim(.) || ' (' || $anchor_field/*:subfield[@code='a']/replace(., '[\s,/:=]+$', '') || ')'"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
