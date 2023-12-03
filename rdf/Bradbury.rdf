@@ -61,18 +61,14 @@
       <rdaxd:P00018>http://viaf.org/viaf/185473935</rdaxd:P00018>
       <rdawd:P10088>Fahrenheit 451</rdawd:P10088>
       <rdfs:label>Fahrenheit 451 (Bradbury, Ray)</rdfs:label>
-      <rdfs:label>Fahrenheit 451 ()</rdfs:label>
       <rdfs:label>Fahrenheit 451 (Santos, Víctor)</rdfs:label>
       <rdfs:label>Fahrenheit 451 (Hamilton, Tim)</rdfs:label>
       <rdawd:P10330>A book burner in a future fascist state finds out books are a vital part of a culture he never knew. He clandestinely pursues reading, until he is betrayed.</rdawd:P10330>
-      <rdawd:P10330>Montag, a regimented fireman in charge of burning the forbidden volumes, meets a revolutionary school teacher who dares to read. Suddenly he finds himself a hunted fugitive, forced to choose not only between two women, but between personal safety and intellectual freedom.</rdawd:P10330>
-      <rdawd:P10330>In a future when books are banned and destroyed by the government, a fireman in charge of the burning becomes involved with a schoolteacher who flaunts the law by collecting and reading books.</rdawd:P10330>
       <rdawd:P10330>"... the object echoes the fiction it contains. At first glance, it is completely black, as if carbonized, already a victim of the firemen's assault. But, as you warm it up with a flame or with your hand, page after page, the black ink disappears and reveals Bradbury's text. As it cools down, it goes back to black, neat and apparently deprived of its power of subversion, memory and reflexion."--Publisher's website (accessed 3/12/19).</rdawd:P10330>
       <rdawd:P10330>Artist's book printed using thermochromic ink on fireproof paper; the pages appear solid black until heated, whereupon text is revealed.</rdawd:P10330>
       <rdawd:P10330>Guy Montag és bomber en un futur imaginari en el que aquests professionals tenen la missió de cremar els llibres, i perseguir aquells que els llegeixen. Aquest és el punt de partida de Fahrenheit 451, una de les novel·les més cèlebres de la ciència-ficció i que, juntament amb 1984 de George Orwell i Un món feliç d'Aldous Huxley, descriu una civilització occidental esclavitzada per la tecnologia, els tranquil·litzants i el conformisme social.Fahrenheit 451 és molt més que una faula sobre un futur aparentment feliç i despreocupat, però gris i sotmès per l'estupidesa humana, aborda temes d'un interès cabdal com ho són el poder, la censura i la importància de la literatura i de la força de la paraula com elements vertebradors del pensament i la responsabilitat social davant de la manipulació dels governants.</rdawd:P10330>
       <rdawd:P10330>Fahrenheit 451: la temperatura a la que el papel se enciende y arde. Guy Montag es un bombero y el trabajo de un bombero es quemar libros, que están prohibidos porque son causa de discordia y sufrimiento.El Sabueso Mecánico del Departamento de Incendios, armado con una letal inyección hipodérmica, escoltado por helicópteros, está preparado para rastrear a los disidentes que aún conservan y leen libros. Como 1984, de George Orwell, como Un mundo feliz, de Aldous Huxley, Fahrenheit 451 describe una civilización occidental esclavizada por los medios, los tranquilizantes y el conformismo.La visión de Bradbury es asombrosamente profética: pantallas de televisión que ocupan paredes y exhiben folletines interactivos; avenidas donde los coches corren a 150 kilómetros por hora persiguiendo a peatones; una población que no escucha otra cosa que una insípida corriente de música y noticias transmitidas por unos diminutos auriculares insertados en las orejas.«Fahrenheit 451 es el más convincente de todos los infiernos conformistas.» KINGSLEY AMIS</rdawd:P10330>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
-      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1002"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/2146095153500370503">
@@ -140,6 +136,16 @@
       <rdaxd:P00029>Short story collection</rdaxd:P00029>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.imdb.com/title/tt0060390">
+      <rdaxd:P00018>https://www.imdb.com/title/tt0060390</rdaxd:P00018>
+      <rdawd:P10088>Fahrenheit 451</rdawd:P10088>
+      <rdfs:label>Fahrenheit 451</rdfs:label>
+      <rdawd:P10330>Montag, a regimented fireman in charge of burning the forbidden volumes, meets a revolutionary school teacher who dares to read. Suddenly he finds himself a hunted fugitive, forced to choose not only between two women, but between personal safety and intellectual freedom.</rdawd:P10330>
+      <rdawd:P10330>In a future when books are banned and destroyed by the government, a fireman in charge of the burning becomes involved with a schoolteacher who flaunts the law by collecting and reading books.</rdawd:P10330>
+      <rdawd:P10330>Montag, un disciplinado bombero encargado de quemar libros prohibidos, conoce a una revolucionaria maestra que se atreve a leer. De pronto, se encuentra transformado en un fugitivo, obligado a escoger no sólo entre dos mujeres, sino entre su seguridad personal y su libertad intelectual</rdawd:P10330>
+      <rdawd:P10330>En un mundo controlado donde la individualidad y la creatividad han desaparecido en favor de la seguridad y la comodidad, los libros están prohibidos y deben ser quemados o se corre el riesgo de convertirse en fugitivo de la ley</rdawd:P10330>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1002"/>
    </rdac:C10001>
    <rdac:C10002 rdf:about="http://viaf.org/viaf/12305881">
       <rdaxd:P00018>http://viaf.org/viaf/12305881</rdaxd:P00018>
@@ -219,11 +225,12 @@
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/76117483"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1404145424624286831356"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="http://viaf.org/viaf/1404145424624286831356/exp/und">
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1404145424624286831356/exp/und/1020">
       <rdaed:P20316>The golden apples of the sun</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>The golden apples of the sun : [short stories]</rdaed:P20312>
       <rdfs:label>The golden apples of the sun (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/und"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1404145424624286831356"/>
    </rdac:C10006>
@@ -299,23 +306,6 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/76117483"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/175761003"/>
-   </rdac:C10006>
-   <rdac:C10006 rdf:about="http://viaf.org/viaf/185473935/exp/1023">
-      <rdaed:P20316>Fahrenheit 451</rdaed:P20316>
-      <rdaxd:P00029>standalone</rdaxd:P00029>
-      <rdaed:P20312>Fahrenheit 451</rdaed:P20312>
-      <rdfs:label>Fahrenheit 451</rdfs:label>
-      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1023"/>
-      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
-      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/fre"/>
-      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mul"/>
-      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
-      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ita"/>
-      <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/engfrespa"/>
-      <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
-      <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ita"/>
-      <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
-      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/185473935"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/185473935/exp/baq/1020">
       <rdaed:P20316>Fahrenheit 451</rdaed:P20316>
@@ -666,6 +656,33 @@
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="https://en.wikipedia.org/wiki/The_Small_Assassin"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.imdb.com/title/tt0060390/exp/1023">
+      <rdaed:P20316>Fahrenheit 451</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>Fahrenheit 451</rdaed:P20312>
+      <rdfs:label>Fahrenheit 451</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1023"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/fre"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mul"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ita"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/engfrespa"/>
+      <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ita"/>
+      <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaeo:P20231 rdf:resource="https://www.imdb.com/title/tt0060390"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.imdb.com/title/tt0060390/exp/eng/mul/1023">
+      <rdaed:P20312>Fahrenheit 451</rdaed:P20312>
+      <rdfs:label>Fahrenheit 451</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1023"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mul"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mul"/>
+      <rdaeo:P20231 rdf:resource="https://www.imdb.com/title/tt0060390"/>
    </rdac:C10006>
    <rdac:C10007 rdf:about="http://example.org/10252631">
       <rdamd:P30156>Timeless stories for today and tomorrow</rdamd:P30156>
@@ -2102,6 +2119,8 @@
       <rdamd:P30088>Lond. &amp;c</rdamd:P30088>
       <rdamd:P30111>Lond. &amp;c, 1984-.</rdamd:P30111>
       <rdamd:P30011>1984-</rdamd:P30011>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/990112641760107026">
       <rdamd:P30156>El hombre ilustrado</rdamd:P30156>
@@ -2109,6 +2128,8 @@
       <rdamd:P30111>La Habana, 1967.</rdamd:P30111>
       <rdamd:P30011>1967</rdamd:P30011>
       <rdamd:P30137>Transl</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/990112641770107026">
       <rdamd:P30156>The golden apples of the sun</rdamd:P30156>
@@ -2117,7 +2138,9 @@
       <rdamd:P30088>New York</rdamd:P30088>
       <rdamd:P30111>New York, 1961.</rdamd:P30111>
       <rdamd:P30011>1961</rdamd:P30011>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1404145424624286831356/exp/und"/>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1404145424624286831356/exp/und/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/990112641780107026">
       <rdamd:P30156>Old Ahab's friend, and friend to Noah, speaks his piece</rdamd:P30156>
@@ -2127,6 +2150,8 @@
       <rdamd:P30111>[Glendale] : Apollo year two, 1971.</rdamd:P30111>
       <rdamd:P30083>Apollo year two</rdamd:P30083>
       <rdamd:P30011>1971</rdamd:P30011>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/990113557150107026">
       <rdamd:P30156>In the dead of night</rdamd:P30156>
@@ -2181,7 +2206,7 @@
       <rdamd:P30137>Special features: the novel, a discussion with author Ray Bradbury; the making of Fahrenheit 451; feature commentary with Julie Christie; the music of Fahrenheit 451; the original title sequence of feature; photo poster gallery; theatrical trailer.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1060"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/185473935/exp/1023"/>
+      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0060390/exp/1023"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/990158163150107026">
       <rdamd:P30156>Pillar of fire and other plays for today, tomorrow, and beyond tomorrow</rdamd:P30156>
@@ -2263,7 +2288,7 @@
       <rdamd:P30137>A DVD release of the motion picture originally produced in 1966.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1060"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/185473935/exp/1023"/>
+      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0060390/exp/1023"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/990209585030107026">
       <rdamd:P30156>The day it rained forever</rdamd:P30156>
@@ -2495,7 +2520,7 @@
       <rdamd:P30137>Originally produced as a motion picture in 1966.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1060"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/185473935/exp/1023"/>
+      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0060390/exp/1023"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/IAN-5051893222746">
       <rdamd:P30004>IAN 5051893222746</rdamd:P30004>
@@ -2628,6 +2653,7 @@
       <rdamd:P30137>Incluye material extra con información adicional sobre la película</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1060"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
+      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0060390/exp/1023"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/a4592018">
       <rdamd:P30156>Ciencia ficción</rdamd:P30156>
@@ -2646,6 +2672,7 @@
       <rdamd:P30033>DVD 1. Fahrenheit 451 / directed by François Truffaut ; screenplay by François Truffaut and Jean-Louis Richard ; produced by Lewis M. Allen ; original music by Bernard Herrmann ; cinematography by Nicolas Roeg -- DVD 2. Matadero cinco = Slaughterhouse-Five / director George Roy Hill ; argumento, Kurt Vonnegut Jr., Stephen Geller ; producida por Paul Monash ; música original, Glenn Gould ; director de fotografía, Miroslav Ondrícek</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1060"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
+      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0060390/exp/eng/mul/1023"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/a4640074">
       <rdamd:P30156>The small assassin</rdamd:P30156>
@@ -2686,6 +2713,7 @@
       <rdamd:P30137>Incluyen extras con información adicional</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1060"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
+      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0060390/exp/1023"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/a5320096">
       <rdamd:P30156>El monstruo de tiempos remotos</rdamd:P30156>
@@ -2860,6 +2888,7 @@
       <rdamd:P30137>Basada en la novela de Ray Bradbury</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1052"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
+      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0060390/exp/1023"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/bivi0000020236">
       <rdamd:P30156>El carnaval de las tinieblas</rdamd:P30156>
@@ -2888,7 +2917,7 @@
       <rdamd:P30137>Basada en la novela homónima de Ray Bradbury</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1060"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/185473935/exp/1023"/>
+      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0060390/exp/1023"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/bivi0000023680">
       <rdamd:P30156>Fahrenheit 451</rdamd:P30156>
@@ -2903,6 +2932,7 @@
       <rdamd:P30137>Película de ciencia-ficción realizada en 1966</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1052"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
+      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0060390/exp/1023"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/bivi0000031540">
       <rdamd:P30156>El carnaval de las tinieblas</rdamd:P30156>
@@ -2932,6 +2962,7 @@
       <rdamd:P30137>Película de ciencia-ficción realizada en 1966</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1052"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
+      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0060390/exp/1023"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/bivi0000054777">
       <rdamd:P30156>Fahrenheit 451</rdamd:P30156>
@@ -2946,6 +2977,7 @@
       <rdamd:P30137>Película de ciencia-ficción realizada en 1966</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1052"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
+      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0060390/exp/1023"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0002241056">
       <rdamd:P30004>ISBN 0002241056</rdamd:P30004>
@@ -2960,6 +2992,8 @@
       <rdamd:P30083>HarperCollins</rdamd:P30083>
       <rdamd:P30011>1992 ;</rdamd:P30011>
       <rdamd:P30011>266 p</rdamd:P30011>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0003300277">
       <rdamd:P30004>ISBN 0003300277</rdamd:P30004>
@@ -9903,6 +9937,8 @@
       <rdamd:P30106>Bibliotecas de autor</rdamd:P30106>
       <rdamd:P30137>Información provisional</rdamd:P30137>
       <rdamd:P30137>García de Isusi, Víctor Manuel, traductor</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788445007655">
       <rdamd:P30004>ISBN 978-84-450-0765-5</rdamd:P30004>

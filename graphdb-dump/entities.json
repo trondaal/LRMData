@@ -11560,6 +11560,17 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "https://www.imdb.com/title/tt0060390"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Work"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/66142208"
                 },
                 "label": {
@@ -38928,17 +38939,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/1404145424624286831356/exp/und"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Expression"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/175761003/adaptation/exp/eng/1020"
                 },
                 "label": {
@@ -38962,17 +38962,6 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/175761003/exp/eng/1020"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Expression"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/185473935/exp/1023"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -39204,6 +39193,39 @@
                 "entity": {
                     "type": "uri",
                     "value": "https://en.wikipedia.org/wiki/The_Small_Assassin/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/1404145424624286831356/exp/und/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt0060390/exp/1023"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt0060390/exp/eng/mul/1023"
                 },
                 "label": {
                     "xml:lang": "gden",
