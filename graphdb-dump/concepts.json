@@ -21,6 +21,17 @@
             {
                 "concept": {
                     "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/baq"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Basque"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
                     "value": "http://id.loc.gov/vocabulary/iso639-2/bul"
                 },
                 "label": {
@@ -137,6 +148,17 @@
                     "xml:lang": "gden",
                     "type": "literal",
                     "value": "German"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/glg"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Galician"
                 }
             },
             {

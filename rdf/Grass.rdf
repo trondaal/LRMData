@@ -4,7 +4,6 @@
          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
          xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
          xmlns:xs="http://www.w3.org/2001/XMLSchema"
-         xmlns:marc="http://www.loc.gov/MARC21/slim"
          xmlns:rdac="http://rdaregistry.info/Elements/c/"
          xmlns:rdaad="http://rdaregistry.info/Elements/a/datatype/"
          xmlns:rdaao="http://rdaregistry.info/Elements/a/object/"
@@ -11420,7 +11419,7 @@
       <rdamd:P30182>1 videodisco (DVD) (ca. 140 min) : son., col.</rdamd:P30182>
       <rdamd:P30137>Basada en la novela homónima de Günter Grass</rdamd:P30137>
       <rdamd:P30137>Película ganadora de la Palma de Oro en el XXXII Festival de Cannes de 1979, Oscar a la Mejor Película de habla no inglesa en 1980, ganadora del Golden Bowl por la Academia Alemana de Cine, premio a la Mejor Película Extranjera por la Asociación de Críticos de Cine de Los Angeles, ganadora del Golden Screen en Alemania y premio de la National Board of Review a la Mejor Película Extranjera en 1980</rdamd:P30137>
-      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1013"/>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1060"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
       <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0078875/exp/1023"/>
    </rdac:C10007>
@@ -12673,7 +12672,7 @@
       <rdamd:P30011>2005</rdamd:P30011>
       <rdamd:P30182>175 p. : col. ill., 22 x 28 cm +.</rdamd:P30182>
       <rdamd:P30137>DVD has information on the making of the film plus bonus material.</rdamd:P30137>
-      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1013"/>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1060"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
       <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0420289/exp/1023"/>
    </rdac:C10007>
@@ -22913,7 +22912,7 @@
       <rdamd:P30111>Göttingen : Steidl, 2016.</rdamd:P30111>
       <rdamd:P30083>Steidl</rdamd:P30083>
       <rdamd:P30011>2016</rdamd:P30011>
-      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1013"/>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1060"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/6194148269702405230001/exp/ger/1013/gomringernora/sommergunterbaby"/>
    </rdac:C10007>
@@ -24211,9 +24210,6 @@
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1007">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1007</skos:subjectIndicator>
    </skos:Concept>
-   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1013">
-      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1013</skos:subjectIndicator>
-   </skos:Concept>
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1018">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1018</skos:subjectIndicator>
    </skos:Concept>
@@ -24225,6 +24221,9 @@
    </skos:Concept>
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1052">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1052</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1060">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1060</skos:subjectIndicator>
    </skos:Concept>
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1013">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1013</skos:subjectIndicator>
