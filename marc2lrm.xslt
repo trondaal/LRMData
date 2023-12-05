@@ -5313,7 +5313,7 @@
                         <xsl:value-of select="."/>
                     </xsl:when>
                     <xsl:otherwise>
-                        <xsl:value-of select="replace(., '[\s\.,/:=]+$', '')"/>
+                        <xsl:value-of select="replace(., '[\s\.,/:=;]+$', '')"/>
                     </xsl:otherwise>
                 </xsl:choose>
             </xsl:for-each>
