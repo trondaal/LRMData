@@ -57155,7 +57155,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/1239151052019833530008/exp/eng/1020"
+                    "value": "http://viaf.org/viaf/1239151052019833530008/augmented/exp/eng/1020"
                 }
             },
             {
@@ -84486,6 +84486,21 @@
                 "o": {
                     "type": "uri",
                     "value": "https://www.imdb.com/title/tt0060390"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/1239151052019833530008/augmented/exp/eng/1020"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/1239151052019833530008/augmented"
                 }
             }
         ]
