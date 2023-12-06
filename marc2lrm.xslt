@@ -5402,7 +5402,8 @@
                     <xsl:value-of select="string-join($formatted, ' ; ')"/>     
                 </xsl:when>
                 <xsl:otherwise>
-                    <xsl:value-of select="string-join($formatted, ' ; ') || '.'"/>    
+                    <!--<xsl:value-of select="string-join($formatted, ' ; ') || '.'"/>-->
+                    <xsl:value-of select="string-join($formatted, ' ; ')"/>
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:function>
