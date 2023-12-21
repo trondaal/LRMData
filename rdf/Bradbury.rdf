@@ -22,6 +22,20 @@
          xmlns:rdat="http://rdaregistry.info/termList/"
          xmlns:skos="http://www.w3.org/2004/02/skos/core#"
          xmlns:ex="http://www.example.org/">
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/1066162985524886300002">
+      <rdaxd:P00018>http://viaf.org/viaf/1066162985524886300002</rdaxd:P00018>
+      <rdawd:P10088>Leviathan '99</rdawd:P10088>
+      <rdfs:label>Leviathan '99 (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/1142162985500686300007">
+      <rdaxd:P00018>http://viaf.org/viaf/1142162985500686300007</rdaxd:P00018>
+      <rdawd:P10088>A graveyard for lunatics</rdawd:P10088>
+      <rdfs:label>A graveyard for lunatics (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/1239151052019833530008">
       <rdaxd:P00018>http://viaf.org/viaf/1239151052019833530008</rdaxd:P00018>
       <rdawd:P10088>Something wicked this way comes</rdawd:P10088>
@@ -42,10 +56,25 @@
       <rdfs:label>Something wicked this way comes (Bradbury, Ray)</rdfs:label>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/1356145424675986830487">
+      <rdaxd:P00018>http://viaf.org/viaf/1356145424675986830487</rdaxd:P00018>
+      <rdawd:P10088>Zen in the art of writing</rdawd:P10088>
+      <rdfs:label>Zen in the art of writing (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/1404145424624286831356">
       <rdaxd:P00018>http://viaf.org/viaf/1404145424624286831356</rdaxd:P00018>
       <rdawd:P10088>The golden apples of the sun</rdawd:P10088>
       <rdfs:label>The golden apples of the sun (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/174579606">
+      <rdaxd:P00018>http://viaf.org/viaf/174579606</rdaxd:P00018>
+      <rdawd:P10088>Switch on the night</rdawd:P10088>
+      <rdfs:label>Switch on the night (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10330>A lonely little boy who is afraid of the dark is introduced to a whole new world by a little girl named Dark.</rdawd:P10330>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
    </rdac:C10001>
@@ -54,6 +83,7 @@
       <rdawd:P10088>The martian chronicles</rdawd:P10088>
       <rdfs:label>The martian chronicles ()</rdfs:label>
       <rdfs:label>The martian chronicles (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10330>Les cròniques marcianes, obra clàssica de la ciència-ficció, recull les vicissituds de la colonització del planeta Mart i l'accidentada decadència de la seva civilització. A setanta milions de milles de distància del planeta Terra, el viatger de l'espai hi pot trobar els mateixos paranys dels quals creia fugir: la grolleria, la solitud, l'enveja o les parades de frankfurts.</rdawd:P10330>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
    </rdac:C10001>
@@ -62,6 +92,27 @@
       <rdawd:P10088>The martian chronicles</rdawd:P10088>
       <rdfs:label>The martian chronicles (Calero, Dennis.)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/181334419">
+      <rdaxd:P00018>http://viaf.org/viaf/181334419</rdaxd:P00018>
+      <rdawd:P10088>Somewhere a Band Is Playing</rdawd:P10088>
+      <rdfs:label>Somewhere a Band Is Playing (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/183843031">
+      <rdaxd:P00018>http://viaf.org/viaf/183843031</rdaxd:P00018>
+      <rdawd:P10088>I sing the body electric!</rdawd:P10088>
+      <rdfs:label>I sing the body electric! (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/184365511">
+      <rdaxd:P00018>http://viaf.org/viaf/184365511</rdaxd:P00018>
+      <rdawd:P10088>The day it rained forever</rdawd:P10088>
+      <rdfs:label>The day it rained forever (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/185473935">
       <rdaxd:P00018>http://viaf.org/viaf/185473935</rdaxd:P00018>
@@ -74,6 +125,13 @@
       <rdawd:P10330>Artist's book printed using thermochromic ink on fireproof paper; the pages appear solid black until heated, whereupon text is revealed.</rdawd:P10330>
       <rdawd:P10330>Guy Montag és bomber en un futur imaginari en el que aquests professionals tenen la missió de cremar els llibres, i perseguir aquells que els llegeixen. Aquest és el punt de partida de Fahrenheit 451, una de les novel·les més cèlebres de la ciència-ficció i que, juntament amb 1984 de George Orwell i Un món feliç d'Aldous Huxley, descriu una civilització occidental esclavitzada per la tecnologia, els tranquil·litzants i el conformisme social.Fahrenheit 451 és molt més que una faula sobre un futur aparentment feliç i despreocupat, però gris i sotmès per l'estupidesa humana, aborda temes d'un interès cabdal com ho són el poder, la censura i la importància de la literatura i de la força de la paraula com elements vertebradors del pensament i la responsabilitat social davant de la manipulació dels governants.</rdawd:P10330>
       <rdawd:P10330>Fahrenheit 451: la temperatura a la que el papel se enciende y arde. Guy Montag es un bombero y el trabajo de un bombero es quemar libros, que están prohibidos porque son causa de discordia y sufrimiento.El Sabueso Mecánico del Departamento de Incendios, armado con una letal inyección hipodérmica, escoltado por helicópteros, está preparado para rastrear a los disidentes que aún conservan y leen libros. Como 1984, de George Orwell, como Un mundo feliz, de Aldous Huxley, Fahrenheit 451 describe una civilización occidental esclavizada por los medios, los tranquilizantes y el conformismo.La visión de Bradbury es asombrosamente profética: pantallas de televisión que ocupan paredes y exhiben folletines interactivos; avenidas donde los coches corren a 150 kilómetros por hora persiguiendo a peatones; una población que no escucha otra cosa que una insípida corriente de música y noticias transmitidas por unos diminutos auriculares insertados en las orejas.«Fahrenheit 451 es el más convincente de todos los infiernos conformistas.» KINGSLEY AMIS</rdawd:P10330>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/209899296">
+      <rdaxd:P00018>http://viaf.org/viaf/209899296</rdaxd:P00018>
+      <rdawd:P10088>A medicine for melancholy</rdawd:P10088>
+      <rdfs:label>A medicine for melancholy (Bradbury, Ray)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
    </rdac:C10001>
@@ -106,6 +164,22 @@
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/308001247">
+      <rdaxd:P00018>http://viaf.org/viaf/308001247</rdaxd:P00018>
+      <rdawd:P10088>S is for Space</rdawd:P10088>
+      <rdfs:label>S is for Space (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/308077573">
+      <rdaxd:P00018>http://viaf.org/viaf/308077573</rdaxd:P00018>
+      <rdawd:P10088>We'll always have Paris</rdawd:P10088>
+      <rdfs:label>We'll always have Paris (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10330>A new collection of never-before-published stories, in which Bradbury explores the myriad ways to be reborn, the circumstances that can make any man a killer, and returns us to Mars.</rdawd:P10330>
+      <rdawd:P10330>En Siempre nos quedará París, una colección de veintiún relatos y un poema nunca antes publicados, el inimitable Ray Bradbury logra de nuevo lo que pocos escritores han hecho tan bien: nos deleita con una prosa que sorprende e inspira, a la vez que revela verdades y da pie a pensamientos profundos. Sus relatos nos emocionan en su reflexión acerca de las flaquezas y debilidades humanas, y lo hacen con la magia de siempre. Ya sea explorando las innumerables maneras de renacer, las circunstancias que pueden convertir a un hombre en un asesino, o llevándonos de nuevo a Marte, Bradbury nos abre su mundo. Un mundo que nos absorbe y nos conmueve.</rdawd:P10330>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/309258185">
       <rdaxd:P00018>http://viaf.org/viaf/309258185</rdaxd:P00018>
       <rdawd:P10088>Dandelion wine</rdawd:P10088>
@@ -120,12 +194,52 @@
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/309287148">
+      <rdaxd:P00018>http://viaf.org/viaf/309287148</rdaxd:P00018>
+      <rdawd:P10088>R is for rocket</rdawd:P10088>
+      <rdfs:label>R is for rocket (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/309288199">
+      <rdaxd:P00018>http://viaf.org/viaf/309288199</rdaxd:P00018>
+      <rdawd:P10088>The halloween tree</rdawd:P10088>
+      <rdfs:label>The halloween tree (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10330>A group of children and a "spirit" go back through time to discover the beginnings of Halloween.</rdawd:P10330>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/309316425">
       <rdaxd:P00018>http://viaf.org/viaf/309316425</rdaxd:P00018>
       <rdawd:P10088>The machineries of joy</rdawd:P10088>
       <rdfs:label>The machineries of joy (Bradbury, Ray)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/4143155226755084490000">
+      <rdaxd:P00018>http://viaf.org/viaf/4143155226755084490000</rdaxd:P00018>
+      <rdawd:P10088>Ahmed and the oblivion machines</rdawd:P10088>
+      <rdfs:label>Ahmed and the oblivion machines (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/4273164842509813040000">
+      <rdaxd:P00018>http://viaf.org/viaf/4273164842509813040000</rdaxd:P00018>
+      <rdawd:P10088>Long after midnight</rdawd:P10088>
+      <rdfs:label>Long after midnight (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10330>Two drifters caught in the backwash of space wander from city to dead city, sifting the rubble for the fabled Blue Bottle of Mars-and find in it two different, equally entrancing, dooms ... A young boy in Green Town, Illinois, does not marry-yet marries-his beloved eighth-grade teacher ... In the hell of a Manhattan July night, Will Morgan is offered a possibly Mephistophelean proposal by which he might gain a perfect love and a magical immunity ... A jealous husband who orders an exact replica of his unfaithful wife from an android manufacturing company (purpose: murder) runs afoul of the compassionate new "live robot" law ... At forty-eight, seized with an overwhelming desire to settle an old score, a man journeys back into the past under the spell of his "utterly perfect, incredibly delightful idea," only to recoil in stunned disbelief when he confronts, at last, his former tormentor ... Bradbury's imaginative field is boundless. In this book, his stories carry us from the cozy familiarity of the small-town America we lived in in Dandelion Wine to the frozen desert and double moon that have been part of our interior landscape since The Martian Chronicles. His characters range from the "ordinary"--A rookie cop, an unhappy wife on vacation in Mexico, an old parish priest hearing confession-to the quite extraordinary: the parrot to whom Ernest Hemingway confided the plot of his last, greatest, never-put-down-on-paper novel, and a woman who, in New York City in the summer of 1974, hangs out a sign reading "Melissa Toad, Witch." Fantastic or conventional, chillingly suspenseful or hauntingly nostalgic, each of these stories has that aura of the unexpected combined with the special ring of absolute rightness that is brilliantly, uniquely Bradbury.</rdawd:P10330>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/5196155286593787180009">
+      <rdaxd:P00018>http://viaf.org/viaf/5196155286593787180009</rdaxd:P00018>
+      <rdawd:P10088>Now and forever</rdawd:P10088>
+      <rdfs:label>Now and forever (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10330>Presents two novellas, including "Somewhere a Band Is Playing," in which a young writer discovers that all is not as it seems in a nostalgic community, and "Leviathan '99," in which Ishmael Hunnicut Jones prepares for a first interstellar hunt.</rdawd:P10330>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/1066162985524886300002"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/181334419"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://en.wikipedia.org/wiki/The_Small_Assassin">
       <rdaxd:P00018>https://en.wikipedia.org/wiki/The_Small_Assassin</rdaxd:P00018>
@@ -162,6 +276,42 @@
       <rdfs:label>Abelenda, Francisco</rdfs:label>
       <rdaad:P50339>1922-2014</rdaad:P50339>
    </rdac:C10002>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1066162985524886300002/exp/eng/1020">
+      <rdaed:P20312>Leviathan '99</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Leviathan '99 (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1066162985524886300002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1142162985500686300007/exp/cat/1020">
+      <rdaed:P20316>A graveyard for lunatics</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Un cementiri de llunàtics : una altra història de dues ciutats</rdaed:P20312>
+      <rdfs:label>Un cementiri de llunàtics (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/cat"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1142162985500686300007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1142162985500686300007/exp/eng/1020">
+      <rdaed:P20316>A graveyard for lunatics</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>A graveyard for lunatics : another tale of two cities</rdaed:P20312>
+      <rdfs:label>A graveyard for lunatics (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1142162985500686300007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1142162985500686300007/exp/spa/1020">
+      <rdaed:P20316>A graveyard for lunatics</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Cementerio para lunáticos</rdaed:P20312>
+      <rdfs:label>Cementerio para lunáticos (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20312>Cementerio para lunáticos : otra historia de dos ciudades</rdaed:P20312>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1142162985500686300007"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/1239151052019833530008/augmented/exp/eng/1020">
       <rdaed:P20316>Something wicked this way comes</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
@@ -200,6 +350,33 @@
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1239151052019833530008/play"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1356145424675986830487/exp/cat/1020">
+      <rdaed:P20316>Zen in the art of writing</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Zen en l'art d'escriure</rdaed:P20312>
+      <rdfs:label>Zen en l'art d'escriure (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/cat"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1356145424675986830487"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1356145424675986830487/exp/eng/1020">
+      <rdaed:P20316>Zen in the art of writing</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Zen in the art of writing</rdaed:P20312>
+      <rdfs:label>Zen in the art of writing (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1356145424675986830487"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1356145424675986830487/exp/spa/1020">
+      <rdaed:P20316>Zen in the art of writing</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Zen en el arte de escribir</rdaed:P20312>
+      <rdfs:label>Zen en el arte de escribir (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1356145424675986830487"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/1404145424624286831356/exp/cat/1020">
       <rdaed:P20316>The golden apples of the sun</rdaed:P20316>
@@ -242,6 +419,52 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/und"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1404145424624286831356"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/174579606/exp/cat/1020">
+      <rdaed:P20316>Switch on the night</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Encendre la nit</rdaed:P20312>
+      <rdfs:label>Encendre la nit (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/cat"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/174579606"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/174579606/exp/cat/eng/1020">
+      <rdaed:P20316>Switch on the night</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Encendre la nit</rdaed:P20312>
+      <rdfs:label>Encendre la nit (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/cat"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/174579606"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/174579606/exp/eng/1020">
+      <rdaed:P20316>Switch on the night</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Switch on the night</rdaed:P20312>
+      <rdfs:label>Switch on the night (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/174579606"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/174579606/exp/nob/1020">
+      <rdaed:P20316>Switch on the night</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Gutten som var redd for mørket</rdaed:P20312>
+      <rdfs:label>Gutten som var redd for mørket (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/174579606"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/174579606/exp/spa/1020">
+      <rdaed:P20316>Switch on the night</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Encender la noche</rdaed:P20312>
+      <rdfs:label>Encender la noche (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/174579606"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/175761003/adaptation/exp/eng/1020">
       <rdaed:P20316>The martian chronicles</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
@@ -250,6 +473,15 @@
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/175761003/adaptation"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/175761003/exp/cat/1020">
+      <rdaed:P20316>The martian chronicles</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Les cròniques marcianes</rdaed:P20312>
+      <rdfs:label>Les cròniques marcianes (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/cat"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/175761003"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/175761003/exp/eng/1013">
       <rdaed:P20316>The martian chronicles</rdaed:P20316>
@@ -266,6 +498,7 @@
       <rdaed:P20316>Silver locusts</rdaed:P20316>
       <rdaed:P20312>The Martian chronicles</rdaed:P20312>
       <rdfs:label>The Martian chronicles (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20312>The Martian chronicles : the fortieth anniversary edition</rdaed:P20312>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/175761003"/>
@@ -314,6 +547,65 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/76117483"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/175761003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/181334419/exp/eng/1020">
+      <rdaed:P20312>Somewhere a Band Is Playing</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Somewhere a Band Is Playing (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/181334419"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/183843031/exp/eng/1020">
+      <rdaed:P20316>I sing the body electric!</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>I sing the body electric and other stories</rdaed:P20312>
+      <rdfs:label>I sing the body electric and other stories (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20312>I sing the body electric</rdaed:P20312>
+      <rdfs:label>I sing the body electric (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20312>I sing the body electric! : Stories</rdaed:P20312>
+      <rdaed:P20071>The Kilimanjaro device -- The terrible conflagration up at the place -- Tomorrow's child -- The women -- The inspired chicken motel -- Downwind from Gettysburg -- Yes, we'll gather at the river -- The cold wind and the warm -- Night call, collect -- The haunting of the new -- I sing the body electric! -- The tombling day -- Any friend of Nicholas Nickleby's a friend of mine -- Heavy-set -- The man in the Rorschach shirt -- Henry the Ninth -- The lost city of Mars -- Christus Apollo.</rdaed:P20071>
+      <rdaed:P20071>The Kilimanjaro device.--The terrible conflagration up at the place.--Tomorrow's child.--The women.--The Inspired Chicken Motel.--Downwind from Gettysburg.--Yes, we'll gather at the river.--The cold wind and the warm.--Night call, collect.--The haunting of the new.--I sing the body electric!--The Tombling day.--Any friend of Nicholas Nickleby's is a friend of mine.--Heavy-Set.--The man in the Rorschach shirt.--Henry the Ninth.--The lost city of Mars.--Christus Apollo.</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/183843031"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/183843031/exp/ger/1020">
+      <rdaed:P20316>I sing the body electric!</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Gesänge des Computers : Erzählungen</rdaed:P20312>
+      <rdfs:label>Gesänge des Computers (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/183843031"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/183843031/exp/spa/1020">
+      <rdaed:P20316>I sing the body electric!</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Fantasmas de lo nuevo</rdaed:P20312>
+      <rdfs:label>Fantasmas de lo nuevo (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/183843031"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/183843031/exp/swe/1020">
+      <rdaed:P20316>I sing the body electric!</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Den kalla vinden och den varma</rdaed:P20312>
+      <rdfs:label>Den kalla vinden och den varma (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/swe"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/183843031"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/184365511/exp/eng/1020">
+      <rdaed:P20316>The day it rained forever</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>The day it rained forever</rdaed:P20312>
+      <rdfs:label>The day it rained forever (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20312>The day it rained forever : a comedy in one act</rdaed:P20312>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/184365511"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/185473935/exp/baq/1020">
       <rdaed:P20316>Fahrenheit 451</rdaed:P20316>
@@ -439,6 +731,34 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/76117483"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/185473935"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/209899296/exp/eng/1020">
+      <rdaed:P20316>A medicine for melancholy</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>A medicine for melancholy</rdaed:P20312>
+      <rdfs:label>A medicine for melancholy (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/209899296"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/209899296/exp/spa/1020">
+      <rdaed:P20316>A medicine for melancholy</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Remedio para melancólicos</rdaed:P20312>
+      <rdfs:label>Remedio para melancólicos (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/209899296"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/209899296/exp/spa/1020/76117483">
+      <rdaed:P20316>A medicine for melancholy</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Remedio para melancólicos</rdaed:P20312>
+      <rdfs:label>Remedio para melancólicos (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/76117483"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/209899296"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/2146095153500370503/andmore/exp/eng/1020">
       <rdaed:P20316>The illustrated man ; The October country ; other stories</rdaed:P20316>
@@ -576,6 +896,70 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/307984830"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/307984830/exp/nob/1020">
+      <rdaed:P20316>Death is a lonely business</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Døden er en ensom sak</rdaed:P20312>
+      <rdfs:label>Døden er en ensom sak (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/307984830"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/307984830/exp/spa/1020">
+      <rdaed:P20316>Death is a lonely business</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>La muerte es un asunto solitario</rdaed:P20312>
+      <rdfs:label>La muerte es un asunto solitario (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/307984830"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/308001247/exp/eng/1020">
+      <rdaed:P20316>S is for Space</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>S is for Space</rdaed:P20312>
+      <rdfs:label>S is for Space (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/308001247"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/308001247/exp/spa/1020">
+      <rdaed:P20316>S is for Space</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Cuentos espaciales</rdaed:P20312>
+      <rdfs:label>Cuentos espaciales (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/308001247"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/308077573/exp/Español/spa/1020">
+      <rdaed:P20316>We'll always have Paris</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Siempre nos quedará París</rdaed:P20312>
+      <rdfs:label>Siempre nos quedará París (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/Español"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/308077573"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/308077573/exp/eng/1020">
+      <rdaed:P20316>We'll always have Paris</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>We'll always have Paris : stories</rdaed:P20312>
+      <rdfs:label>We'll always have Paris (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/308077573"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/308077573/exp/spa/1020">
+      <rdaed:P20316>We'll always have Paris</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Siempre nos quedará París</rdaed:P20312>
+      <rdfs:label>Siempre nos quedará París (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/308077573"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/309258185/exp/eng/1020">
       <rdaed:P20316>Dandelion wine</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
@@ -620,6 +1004,33 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/309258185/play"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/309287148/exp/eng/1020">
+      <rdaed:P20316>R is for rocket</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>R is for rocket</rdaed:P20312>
+      <rdfs:label>R is for rocket (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/309287148"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/309288199/exp/eng/1020">
+      <rdaed:P20316>The halloween tree</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>The Halloween tree</rdaed:P20312>
+      <rdfs:label>The Halloween tree (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/309288199"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/309288199/exp/spa/1020">
+      <rdaed:P20316>The halloween tree</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>El árbol de las brujas</rdaed:P20312>
+      <rdfs:label>El árbol de las brujas (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/309288199"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/309316425/exp/eng/1020">
       <rdaed:P20316>The machineries of joy</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
@@ -638,6 +1049,81 @@
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/309316425"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/4143155226755084490000/exp/eng/1020">
+      <rdaed:P20316>Ahmed and the oblivion machines</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Ahmed and the oblivion machines : a fable</rdaed:P20312>
+      <rdfs:label>Ahmed and the oblivion machines (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/4143155226755084490000"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/4143155226755084490000/exp/ita/1020">
+      <rdaed:P20316>Ahmed and the oblivion machines</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Ahmed e le Macchine dell'Oblio</rdaed:P20312>
+      <rdfs:label>Ahmed e le Macchine dell'Oblio (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ita"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/4143155226755084490000"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/4143155226755084490000/exp/spa/1020">
+      <rdaed:P20316>Ahmed and the oblivion machines</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Ahmed y las máquinas del olvido : una fábula</rdaed:P20312>
+      <rdfs:label>Ahmed y las máquinas del olvido (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/4143155226755084490000"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/4273164842509813040000/exp/eng/1013">
+      <rdaed:P20316>Long after midnight</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Long after midnight</rdaed:P20312>
+      <rdfs:label>Long after midnight (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/4273164842509813040000"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/4273164842509813040000/exp/eng/1020">
+      <rdaed:P20316>Long after midnight</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Long after midnight</rdaed:P20312>
+      <rdfs:label>Long after midnight (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/4273164842509813040000"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/4273164842509813040000/exp/spa/1020">
+      <rdaed:P20316>Long after midnight</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Mucho después de medianoche</rdaed:P20312>
+      <rdfs:label>Mucho después de medianoche (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/4273164842509813040000"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/5196155286593787180009/exp/eng/1020">
+      <rdaed:P20316>Now and forever</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Now and forever</rdaed:P20312>
+      <rdfs:label>Now and forever (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20071>Somewhere a band is playing -- Leviathan '99</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/1066162985524886300002/exp/eng/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/181334419/exp/eng/1020"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/5196155286593787180009"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/5196155286593787180009/exp/spa/1020">
+      <rdaed:P20316>Now and forever</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Ahora y siempre</rdaed:P20312>
+      <rdfs:label>Ahora y siempre (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/5196155286593787180009"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="https://en.wikipedia.org/wiki/The_Small_Assassin/exp/eng/1020">
       <rdaed:P20316>The small assassin</rdaed:P20316>
@@ -961,6 +1447,7 @@
       <rdamd:P30137>Limited ed. of 2,000, designed by Ernst Reichl, and signed by author and illustrator.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/175761003/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/2463288">
       <rdamd:P30156>Dandelion wine</rdamd:P30156>
@@ -1030,6 +1517,7 @@
       <rdamd:P30137>Stories.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309287148/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/2888491">
       <rdamd:P30156>The Martian chronicles</rdamd:P30156>
@@ -1200,6 +1688,7 @@
       <rdamd:P30137>Short stories.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/209899296/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/4710654">
       <rdamd:P30156>About Norman Corwin</rdamd:P30156>
@@ -1357,6 +1846,7 @@
       <rdamd:P30137>Short stories.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/184365511/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/7064954">
       <rdamd:P30156>S is for space</rdamd:P30156>
@@ -1368,6 +1858,7 @@
       <rdamd:P30182>238 p., 22 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/308001247/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/7160747">
       <rdamd:P30156>[Marionettes Incorporated] [Sound recording]</rdamd:P30156>
@@ -1414,6 +1905,7 @@
       <rdamd:P30182>unpaged. illus., 22 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/174579606/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/7502466">
       <rdamd:P30156>The anthem sprinters</rdamd:P30156>
@@ -1500,6 +1992,7 @@
       <rdamd:P30033>The Kilimanjaro device.--The terrible conflagration up at the place.--Tomorrow's child.--The women.--The inspired chicken motel.--Downwind from Gettysburg.--Yes, we'll gather at the river.--The cold wind and the warm.--Night call, collect.--The haunting of the new.--I sing the body electric!--The tombling day.--Any friend of Nicholas Nickleby's a friend of mine.--Heavy-set.--The man in the Rorschach shirt.--Henry the Ninth.--The lost city of Mars.--Christus Apollo.</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/183843031/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/8113820">
       <rdamd:P30156>[The whole town's sleeping] [Sound recording]</rdamd:P30156>
@@ -1544,6 +2037,7 @@
       <rdamd:P30182>239 p., 21 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/308001247/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/8867779">
       <rdamd:P30156>The circus of Dr. Lao</rdamd:P30156>
@@ -1615,6 +2109,7 @@
       <rdamd:P30182>222 p., 21 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/175761003/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/9374211">
       <rdamd:P30156>Burgess Meredith reads Ray Bradbury</rdamd:P30156>
@@ -1912,6 +2407,7 @@
       <rdamd:P30137>Originally published, Pantheon Books, 1955</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/174579606/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/990112292990107026">
       <rdamd:P30156>The October country</rdamd:P30156>
@@ -1946,6 +2442,7 @@
       <rdamd:P30137>Short stories</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/184365511/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/990112293100107026">
       <rdamd:P30156>A medicine for melancholy</rdamd:P30156>
@@ -1959,6 +2456,7 @@
       <rdamd:P30137>Short stories</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/209899296/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/990112293140107026">
       <rdamd:P30156>Timeless stories for today and tomorrow</rdamd:P30156>
@@ -2030,6 +2528,7 @@
       <rdamd:P30137>"A Bantam book F2915".</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309287148/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/990112293480107026">
       <rdamd:P30156>R is for rocket</rdamd:P30156>
@@ -2041,6 +2540,7 @@
       <rdamd:P30137>Stories</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309287148/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/990112293520107026">
       <rdamd:P30156>S is for Space</rdamd:P30156>
@@ -2051,6 +2551,7 @@
       <rdamd:P30182>239 p., 21 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/308001247/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/990112294060107026">
       <rdamd:P30156>This attic where the meadow greens</rdamd:P30156>
@@ -2257,6 +2758,7 @@
       <rdamd:P30137>Based on the author's short story of the same name.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/184365511/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/990205483034702202">
       <rdamd:P30156>The machineries of joy</rdamd:P30156>
@@ -2297,6 +2799,7 @@
       <rdamd:P30137>Short stories</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/184365511/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/990226410764702202">
       <rdamd:P30156>Fotgjengeren</rdamd:P30156>
@@ -3221,6 +3724,7 @@
       <rdamd:P30137>Originally published: Alfred A. Knopf, 1985.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/307984830/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0060104430">
       <rdamd:P30004>ISBN 0060104430</rdamd:P30004>
@@ -3337,9 +3841,12 @@
       <rdamd:P30011>c2007</rdamd:P30011>
       <rdamd:P30182>209 p., 22 cm.</rdamd:P30182>
       <rdamd:P30137>"An imprint of HarperCollins Publishers".</rdamd:P30137>
-      <rdamd:P30033>Somewhere a band is playing -- Leviathan '99.</rdamd:P30033>
+      <rdamd:P30033>Somewhere a band is playing -- Leviathan '99</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/5196155286593787180009/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1066162985524886300002/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/181334419/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0061670138">
       <rdamd:P30004>ISBN 0061670138 (acid-free paper)</rdamd:P30004>
@@ -3359,6 +3866,7 @@
       <rdamd:P30182>xii, 210 p., 22 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/308077573/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0062242113">
       <rdamd:P30004>ISBN 0062242113</rdamd:P30004>
@@ -3450,6 +3958,7 @@
       <rdamd:P30137>Short stories</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/184365511/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0140152466">
       <rdamd:P30004>ISBN 0140152466</rdamd:P30004>
@@ -3464,6 +3973,7 @@
       <rdamd:P30137>Originally published: London : Rupert Hart-Davis, 1959</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/184365511/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0174320558">
       <rdamd:P30004>ISBN 0174320558</rdamd:P30004>
@@ -3510,6 +4020,7 @@
       <rdamd:P30137>"First published in Great Britain 1973"--Verso of t.p</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309288199/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0246108282">
       <rdamd:P30004>ISBN 0246108282</rdamd:P30004>
@@ -3541,6 +4052,7 @@
       <rdamd:P30137>Collection of twenty-two stories first published from 1944 to 1976.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/4273164842509813040000/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-024611083">
       <rdamd:P30004>ISBN 024611083X</rdamd:P30004>
@@ -3600,6 +4112,7 @@
       <rdamd:P30182>[224] p, 24 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/307984830/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0246134305">
       <rdamd:P30004>ISBN 0246134305</rdamd:P30004>
@@ -3640,6 +4153,7 @@
       <rdamd:P30182>285 p., 25 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1142162985500686300007/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0246635975">
       <rdamd:P30004>ISBN 0246635975</rdamd:P30004>
@@ -3672,6 +4186,7 @@
       <rdamd:P30137>First British edition</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/183843031/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0246643072">
       <rdamd:P30004>ISBN 0246643072</rdamd:P30004>
@@ -3846,6 +4361,7 @@
       <rdamd:P30033>The Kilimanjaro device -- The terrible conflagration up at the place -- Tomorrow's child -- The women -- The inspired chicken motel -- Downwind from Gettysburg -- Yes, we'll gather at the river -- The cold wind and the warm -- Night call, collect -- The haunting of the new -- I sing the body electric! -- The tombling day -- Any friend of Nicholas Nickleby's a friend of mine -- Heavy-set -- The man in the Rorschach shirt -- Henry the Ninth -- The lost city of Mars -- Christus Apollo.</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/183843031/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0380789655">
       <rdamd:P30004>ISBN 0380789655 (pbk.)</rdamd:P30004>
@@ -3898,6 +4414,7 @@
       <rdamd:P30182>307 p., 21 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1142162985500686300007/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0380973812">
       <rdamd:P30004>ISBN 0380973812</rdamd:P30004>
@@ -3979,6 +4496,7 @@
       <rdamd:P30182>1 v. (unpaged) : ill., 25 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/4143155226755084490000/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0380977265">
       <rdamd:P30004>ISBN 0380977265</rdamd:P30004>
@@ -4027,6 +4545,7 @@
       <rdamd:P30182>298 p. : illus., 22 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/175761003/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0385050607">
       <rdamd:P30004>ISBN 0385050607</rdamd:P30004>
@@ -4043,6 +4562,7 @@
       <rdamd:P30182>xi, 205 p., 25 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/175761003/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0394422066">
       <rdamd:P30004>ISBN 0394422066</rdamd:P30004>
@@ -4090,6 +4610,7 @@
       <rdamd:P30182>vii, 271 p., 22 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/4273164842509813040000/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0394496051">
       <rdamd:P30004>ISBN 0394496051</rdamd:P30004>
@@ -4228,6 +4749,7 @@
       <rdamd:P30182>285 p., 22 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1142162985500686300007/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0394578783">
       <rdamd:P30004>ISBN 0394578783</rdamd:P30004>
@@ -4263,6 +4785,7 @@
       <rdamd:P30106>An Umbrella book</rdamd:P30106>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/174579606/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0394824091">
       <rdamd:P30004>ISBN 0394824091</rdamd:P30004>
@@ -4281,6 +4804,7 @@
       <rdamd:P30182>145 p. : illus., 24 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309288199/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0435123602">
       <rdamd:P30004>ISBN 0435123602</rdamd:P30004>
@@ -4417,6 +4941,7 @@
       <rdamd:P30033>The Kilimanjaro device.--The terrible conflagration up at the place.--Tomorrow's child.--The women.--The Inspired Chicken Motel.--Downwind from Gettysburg.--Yes, we'll gather at the river.--The cold wind and the warm.--Night call, collect.--The haunting of the new.--I sing the body electric!--The Tombling day.--Any friend of Nicholas Nickleby's is a friend of mine.--Heavy-Set.--The man in the Rorschach shirt.--Henry the Ninth.--The lost city of Mars.--Christus Apollo.</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/183843031/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0552672971">
       <rdamd:P30004>ISBN 0552672971</rdamd:P30004>
@@ -4471,6 +4996,7 @@
       <rdamd:P30182>1 v. (unpaged) : col. ill., 23 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/174579606/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-05533512571">
       <rdamd:P30004>ISBN 0553351257 (v. 1 : trade pbk.)</rdamd:P30004>
@@ -4508,6 +5034,7 @@
       <rdamd:P30182>285 p., 21 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1142162985500686300007/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-057507874">
       <rdamd:P30004>ISBN 057507874X (pbk.)</rdamd:P30004>
@@ -4688,6 +5215,7 @@
       <rdamd:P30182>271 p., 18 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/307984830/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0586212132">
       <rdamd:P30004>ISBN 0586212132</rdamd:P30004>
@@ -4702,6 +5230,7 @@
       <rdamd:P30137>First published: London : Rupert Hart-Davis, 1970</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/183843031/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0671017845">
       <rdamd:P30004>ISBN 0671017845</rdamd:P30004>
@@ -4746,6 +5275,7 @@
       <rdamd:P30137>Originally published: London : Rupert Hart-Davis, 1970.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/183843031/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-067101790">
       <rdamd:P30004>ISBN 067101790X</rdamd:P30004>
@@ -4806,6 +5336,7 @@
       <rdamd:P30137>Originally published: New York : Alfred A. Knopf, 1972.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309288199/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0671037692">
       <rdamd:P30004>ISBN 0671037692</rdamd:P30004>
@@ -4820,6 +5351,7 @@
       <rdamd:P30182>275 p., 18 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/4273164842509813040000/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0671037706">
       <rdamd:P30004>ISBN 0671037706</rdamd:P30004>
@@ -6107,6 +6639,7 @@
       <rdamd:P30182>xv, 154 p. : ill., 22 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1356145424675986830487/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-1887368663">
       <rdamd:P30004>ISBN 1887368663</rdamd:P30004>
@@ -6142,6 +6675,7 @@
       <rdamd:P30137>LC has no. 1, signed by author.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309288199/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-1887368868">
       <rdamd:P30004>ISBN 1887368868</rdamd:P30004>
@@ -6390,6 +6924,7 @@
       <rdamd:P30165>Nr.31044</rdamd:P30165>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/183843031/exp/ger/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8202120802">
       <rdamd:P30004>ISBN 8202120802</rdamd:P30004>
@@ -6577,6 +7112,7 @@
       <rdamd:P30182>275 s., 22 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/307984830/exp/nob/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8240800254">
       <rdamd:P30004>ISBN 8240800254</rdamd:P30004>
@@ -6592,6 +7128,7 @@
       <rdamd:P30137>Oversatt etter: Pojken som blev vän med mörkret</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/174579606/exp/nob/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8242119066">
       <rdamd:P30004>ISBN 8242119066</rdamd:P30004>
@@ -6844,6 +7381,7 @@
       <rdamd:P30165>3</rdamd:P30165>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/175761003/exp/cat/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8421751131">
       <rdamd:P30004>ISBN 84-217-5113-1</rdamd:P30004>
@@ -7043,6 +7581,7 @@
       <rdamd:P30137>Indice</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/308001247/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8426444822">
       <rdamd:P30004>ISBN 84-264-4482-2</rdamd:P30004>
@@ -7259,6 +7798,7 @@
       <rdamd:P30137>Traducción de: The martian chronicles</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/175761003/exp/cat/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8435040011">
       <rdamd:P30004>ISBN 84-350-4001-1</rdamd:P30004>
@@ -7413,6 +7953,7 @@
       <rdamd:P30182>294 p., 21 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/183843031/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8445070606">
       <rdamd:P30004>ISBN 84-450-7060-6</rdamd:P30004>
@@ -7461,6 +8002,7 @@
       <rdamd:P30182>314 p., 21 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/4273164842509813040000/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8445071165">
       <rdamd:P30004>ISBN 84-450-7116-5</rdamd:P30004>
@@ -7540,6 +8082,7 @@
       <rdamd:P30182>373 p., 21 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1142162985500686300007/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8445071807">
       <rdamd:P30004>ISBN 84-450-7180-7</rdamd:P30004>
@@ -7587,6 +8130,7 @@
       <rdamd:P30182>232 p., 21 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/209899296/exp/spa/1020/76117483"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8445071939">
       <rdamd:P30004>ISBN 84-450-7193-9</rdamd:P30004>
@@ -7602,6 +8146,7 @@
       <rdamd:P30182>146 p., 23 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1356145424675986830487/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8445071971">
       <rdamd:P30004>ISBN 84-450-7197-1</rdamd:P30004>
@@ -7663,6 +8208,7 @@
       <rdamd:P30182>155 p., 21 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309288199/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8445072331">
       <rdamd:P30004>ISBN 84-450-7233-1</rdamd:P30004>
@@ -7792,6 +8338,7 @@
       <rdamd:P30182>63 p. : il., 30 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/4143155226755084490000/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8445073249">
       <rdamd:P30004>ISBN 84-450-7324-9</rdamd:P30004>
@@ -7807,6 +8354,7 @@
       <rdamd:P30182>349 p., 20 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/183843031/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-844507363">
       <rdamd:P30004>ISBN 84-450-7363-X</rdamd:P30004>
@@ -7877,6 +8425,7 @@
       <rdamd:P30106>Autores</rdamd:P30106>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/183843031/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8445073893">
       <rdamd:P30004>ISBN 84-450-7389-3</rdamd:P30004>
@@ -7893,6 +8442,7 @@
       <rdamd:P30106>[Biblioteca Ray Bradbury]</rdamd:P30106>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1356145424675986830487/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8445073958">
       <rdamd:P30004>ISBN 84-450-7395-8</rdamd:P30004>
@@ -7949,6 +8499,7 @@
       <rdamd:P30106>Autores</rdamd:P30106>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1142162985500686300007/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8445074113">
       <rdamd:P30004>ISBN 84-450-7411-3</rdamd:P30004>
@@ -7987,6 +8538,7 @@
       <rdamd:P30106>Autores</rdamd:P30106>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309288199/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8445074253">
       <rdamd:P30004>ISBN 84-450-7425-3</rdamd:P30004>
@@ -8019,6 +8571,7 @@
       <rdamd:P30165>1</rdamd:P30165>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/209899296/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8445074970">
       <rdamd:P30004>ISBN 84-450-7497-0</rdamd:P30004>
@@ -8065,6 +8618,7 @@
       <rdamd:P30106>Biblioteca Ray Bradbury</rdamd:P30106>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1356145424675986830487/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8445075713">
       <rdamd:P30004>ISBN 84-450-7571-3</rdamd:P30004>
@@ -8116,6 +8670,7 @@
       <rdamd:P30165>8011</rdamd:P30165>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/209899296/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8445076043">
       <rdamd:P30004>ISBN 84-450-7604-3</rdamd:P30004>
@@ -8361,6 +8916,7 @@
       <rdamd:P30182>318 p., 18 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/175761003/exp/cat/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8481301078">
       <rdamd:P30004>ISBN 84-8130-107-8</rdamd:P30004>
@@ -8428,6 +8984,7 @@
       <rdamd:P30182>318 p., 19 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/175761003/exp/cat/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8484370240">
       <rdamd:P30004>ISBN 84-8437-024-0</rdamd:P30004>
@@ -8511,6 +9068,7 @@
       <rdamd:P30033>Encendre la nit / Ray Bradbury. Els arbres que sabien parlar / Angela I. Ionescu</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/174579606/exp/cat/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8486595592">
       <rdamd:P30004>ISBN 84-86595-59-2</rdamd:P30004>
@@ -8540,6 +9098,7 @@
       <rdamd:P30182>[45] p. : il. col., 32 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/174579606/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8496075796">
       <rdamd:P30004>ISBN 84-96075-79-6</rdamd:P30004>
@@ -8687,6 +9246,7 @@
       <rdamd:P30165>8</rdamd:P30165>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/4143155226755084490000/exp/ita/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-911721341">
       <rdamd:P30004>ISBN 911721341X</rdamd:P30004>
@@ -8703,6 +9263,7 @@
       <rdamd:P30137>Translation of: I sing the body electric!</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/183843031/exp/swe/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9780006479222">
       <rdamd:P30004>ISBN 9780006479222 (pbk.)</rdamd:P30004>
@@ -8750,6 +9311,7 @@
       <rdamd:P30137>Academic</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/184365511/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9780007541706">
       <rdamd:P30004>ISBN 9780007541706 (ePub ebook)</rdamd:P30004>
@@ -8767,6 +9329,7 @@
       <rdamd:P30137>Previously issued in print: London: Rupert Hart-Davis, 1970.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/183843031/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9780008414047">
       <rdamd:P30004>ISBN 9780008414047 (pbk.)</rdamd:P30004>
@@ -8810,6 +9373,7 @@
       <rdamd:P30182>145 p. : ill., 24 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309288199/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9780553512700">
       <rdamd:P30004>ISBN 9780553512700 (hardcover)</rdamd:P30004>
@@ -8829,6 +9393,7 @@
       <rdamd:P30137>Story originally published: New York : Alfred A. Knopf, ©1972.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309288199/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9780575087330">
       <rdamd:P30004>ISBN 9780575087330</rdamd:P30004>
@@ -8958,6 +9523,7 @@
       <rdamd:P30137>Title from container.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/4273164842509813040000/exp/eng/1013"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-97815067001442">
       <rdamd:P30004>ISBN 9781506700144 (v. 2)</rdamd:P30004>
@@ -9248,6 +9814,7 @@
       <rdamd:P30106>Allaprima</rdamd:P30106>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/174579606/exp/cat/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788412470789">
       <rdamd:P30004>ISBN 978-84-124707-8-9</rdamd:P30004>
@@ -9532,6 +10099,7 @@
       <rdamd:P30182>206 p., 23 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/308077573/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788445002612">
       <rdamd:P30004>ISBN 9788445002612</rdamd:P30004>
@@ -9547,6 +10115,7 @@
       <rdamd:P30137>Registro generado automáticamente a partir de metadatos facilitados por Libranda</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/308077573/exp/Español/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788445004760">
       <rdamd:P30004>ISBN 9788445004760</rdamd:P30004>
@@ -9582,6 +10151,7 @@
       <rdamd:P30137>En la portada: Minotauro</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/308077573/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788445006740">
       <rdamd:P30004>ISBN 978-84-450-0674-0</rdamd:P30004>
@@ -9649,6 +10219,7 @@
       <rdamd:P30106>Biblioteca Ray Bradbury</rdamd:P30106>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309288199/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788445007440">
       <rdamd:P30004>ISBN 978-84-450-0744-0</rdamd:P30004>
@@ -9719,6 +10290,7 @@
       <rdamd:P30137>"Once exhuberantes ensayos sobre el placer de escribir por uno de los más imaginativos y prolíficos autores del siglo XX"--Página 4 de la cubierta</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1356145424675986830487/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788445007488">
       <rdamd:P30004>ISBN 978-84-450-0748-8</rdamd:P30004>
@@ -9735,6 +10307,7 @@
       <rdamd:P30106>Biblioteca Ray Bradbury</rdamd:P30106>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/308077573/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788445007495">
       <rdamd:P30004>ISBN 978-84-450-0749-5</rdamd:P30004>
@@ -9750,6 +10323,7 @@
       <rdamd:P30106>Biblioteca Ray Bradbury</rdamd:P30106>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1142162985500686300007/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788445007501">
       <rdamd:P30004>ISBN 978-84-450-0750-1</rdamd:P30004>
@@ -9766,6 +10340,7 @@
       <rdamd:P30106>Biblioteca Ray Bradbury</rdamd:P30106>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/209899296/exp/spa/1020/76117483"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788445007518">
       <rdamd:P30004>ISBN 978-84-450-0751-8</rdamd:P30004>
@@ -9781,6 +10356,7 @@
       <rdamd:P30106>Biblioteca Ray Bradbury</rdamd:P30106>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/4273164842509813040000/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788445007525">
       <rdamd:P30004>ISBN 978-84-450-0752-5</rdamd:P30004>
@@ -9830,6 +10406,7 @@
       <rdamd:P30106>Biblioteca Ray Bradbury</rdamd:P30106>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/5196155286593787180009/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788445007556">
       <rdamd:P30004>ISBN 978-84-450-0755-6</rdamd:P30004>
@@ -9863,6 +10440,7 @@
       <rdamd:P30137>"En esta colección de dieciocho relatos, Bradbury lleva al lector de viaje por el espacio y el tiempo, a dimensiones ilimitadas del futuro y a territorios inexplorados del pasado"--Página 4 de la cubierta</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/183843031/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788445007587">
       <rdamd:P30004>ISBN 978-84-450-0758-7</rdamd:P30004>
@@ -9938,6 +10516,7 @@
       <rdamd:P30106>Biblioteca Ray Bradbury</rdamd:P30106>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/307984830/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788445007662">
       <rdamd:P30004>ISBN 978-84-450-0766-2</rdamd:P30004>
@@ -9970,6 +10549,7 @@
       <rdamd:P30137>Registro generado automáticamente a partir de metadatos facilitados por Libranda</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/309288199/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788445007839">
       <rdamd:P30004>ISBN 978-84-450-0783-9</rdamd:P30004>
@@ -10120,6 +10700,7 @@
       <rdamd:P30106>Biblioteca Ray Bradbury</rdamd:P30106>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/4273164842509813040000/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788445013229">
       <rdamd:P30004>ISBN 978-84-450-1322-9</rdamd:P30004>
@@ -10234,6 +10815,7 @@
       <rdamd:P30182>217 p., 23 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/5196155286593787180009/exp/spa/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788445077580">
       <rdamd:P30004>ISBN 978-84-450-7758-0</rdamd:P30004>
@@ -10422,6 +11004,7 @@
       <rdamd:P30137>Registro generado automáticamente a partir de metadatos facilitados por Libranda</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/175761003/exp/cat/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788475888217">
       <rdamd:P30004>ISBN 978-84-7588-821-7</rdamd:P30004>
@@ -10582,6 +11165,7 @@
       <rdamd:P30165>46</rdamd:P30165>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1142162985500686300007/exp/cat/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788494751097">
       <rdamd:P30004>ISBN 978-84-947510-9-7</rdamd:P30004>
@@ -10652,6 +11236,7 @@
       <rdamd:P30165>5</rdamd:P30165>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1356145424675986830487/exp/cat/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788494990045">
       <rdamd:P30004>ISBN 978-84-949900-4-5</rdamd:P30004>
@@ -10765,6 +11350,7 @@
       <rdamd:P30182>253 p., 20 cm.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/175761003/exp/cat/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788499895581">
       <rdamd:P30004>ISBN 978-84-9989-558-1</rdamd:P30004>

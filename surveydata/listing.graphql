@@ -1,0 +1,187 @@
+query ExampleQuery {
+    HamsunMysterier: expressionsFulltextExpressions(phrase: "Mysterier AND Knut AND Hamsun AND (content: text) AND (language: norwegian)", where: {expression: {manifestationsAggregate: {count_GT: 0}}}) {
+    score,
+    expression {
+      pagerank,
+      random,
+      titlepreferred
+      uri
+      form
+      title
+      manifestationsConnection {
+        totalCount
+      }
+    }
+  }
+  BallardTerminalBeach: expressionsFulltextExpressions(phrase: "Terminal AND Beach AND Ballard AND (content: text) AND (language: english)", where: {expression: {manifestationsAggregate: {count_GT: 0}}}) {
+    score,
+    expression {
+      pagerank,
+      random,
+      titlepreferred
+      uri
+      form
+      title
+      manifestationsConnection {
+        totalCount
+      }
+    }
+  }
+  TwainTomSawyer: expressionsFulltextExpressions(phrase: "Tom AND Sawyer AND Mark AND Twain AND (content: text) AND (language: english)", where: {expression: {manifestationsAggregate: {count_GT: 0}}}) {
+    score,
+    expression {
+      pagerank,
+      random,
+      titlepreferred
+      uri
+      form
+      title
+      manifestationsConnection {
+        totalCount
+      }
+    }
+  }
+  TolkienLord: expressionsFulltextExpressions(phrase: "Lord AND Rings AND Tolkien AND (content: text) AND (language: english)", where: {expression: {manifestationsAggregate: {count_GT: 0}}}) {
+    score,
+    expression {
+      pagerank,
+      random,
+      titlepreferred
+      uri
+      form
+      title
+      manifestationsConnection {
+        totalCount
+      }
+    }
+  }
+  ChristieLinks: expressionsFulltextExpressions(phrase: "Murder AND Links AND Agatha AND Christie AND (content: text) AND (language: english)", where: {expression: {manifestationsAggregate: {count_GT: 0}}}) {
+    score,
+    expression {
+      pagerank,
+      random,
+      titlepreferred
+      uri
+      form
+      title
+      manifestationsConnection {
+        totalCount
+      }
+    }
+  }
+  ChristieOrient: expressionsFulltextExpressions(phrase: "Murder AND Orient AND Express AND Agatha AND Christie AND (content: text) AND (language: english)", where: {expression: {manifestationsAggregate: {count_GT: 0}}}) {
+    score,
+    expression {
+      pagerank,
+      random,
+      titlepreferred
+      uri
+      form
+      title
+      manifestationsConnection {
+        totalCount
+      }
+    }
+  }
+  McCormacPrettyHorses: expressionsFulltextExpressions(phrase: "All AND Pretty AND Horses AND Cormac AND McCarthy AND (content: text) AND (language: english)", where: {expression: {manifestationsAggregate: {count_GT: 0}}}) {
+    score,
+    expression {
+      pagerank,
+      random,
+      titlepreferred
+      uri
+      form
+      title
+      manifestationsConnection {
+        totalCount
+      }
+    }
+  }
+  Hamsun: expressionsFulltextExpressions(phrase: "Knut AND Hamsun AND (content: text) AND (language: norwegian) AND (subjects: surveyitem)", where: {expression: {manifestationsAggregate: {count_GT: 0}}}) {
+    score,
+    expression {
+      pagerank,
+      random,
+      titlepreferred
+      uri
+      form
+      title
+      manifestationsConnection {
+        totalCount
+      }
+    }
+  }
+  Christie: expressionsFulltextExpressions(phrase: "Agatha AND Christie AND (content: text) AND (language: english) AND (subjects: surveyitem)", where: {expression: {manifestationsAggregate: {count_GT: 0}}}) {
+    score,
+    expression {
+      pagerank,
+      random,
+      titlepreferred
+      uri
+      form
+      title
+      manifestationsConnection {
+        totalCount
+      }
+    }
+  }
+  Tolkien: expressionsFulltextExpressions(phrase: "J AND R AND Tolkien AND (content: text) AND (language: english) AND (subjects: surveyitem)", where: {expression: {manifestationsAggregate: {count_GT: 0}}}) {
+    score,
+    expression {
+      pagerank,
+      random,
+      titlepreferred
+      uri
+      form
+      title
+      manifestationsConnection {
+        totalCount
+      }
+    }
+  }
+  Twain: expressionsFulltextExpressions(phrase: "Mark AND Twain AND (content: text) AND (language: english) AND (subjects: surveyitem)", where: {expression: {manifestationsAggregate: {count_GT: 0}}}) {
+    score,
+    expression {
+      pagerank,
+      random,
+      titlepreferred
+      uri
+      form
+      title
+      manifestationsConnection {
+        totalCount
+      }
+    }
+  }
+  Ballard: expressionsFulltextExpressions(phrase: "J AND G AND Ballard AND (content: text) AND (language: english) AND (subjects: surveyitem)", where: {expression: {manifestationsAggregate: {count_GT: 0}}}) {
+    score,
+    expression {
+      pagerank,
+      random,
+      titlepreferred
+      uri
+      form
+      title
+      manifestationsConnection {
+        totalCount
+      }
+    }
+  }
+  McCarthy: expressionsFulltextExpressions(phrase: "Cormac AND McCarthy AND (content: text) AND (language: english) AND (subjects: surveyitem)", where: {expression: {manifestationsAggregate: {count_GT: 0}}}) {
+    score,
+    expression {
+      pagerank,
+      random,
+      titlepreferred
+      uri
+      form
+      title
+      manifestationsConnection {
+        totalCount
+      }
+    }
+  }
+
+  
+}
+
