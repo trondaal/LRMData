@@ -3339,16 +3339,6 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/217145857943523021156"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="http://viaf.org/viaf/220443771/exp/eng/1020">
-      <rdaed:P20316>Sult</rdaed:P20316>
-      <rdaxd:P00029>standalone</rdaxd:P00029>
-      <rdaed:P20312>Hunger</rdaed:P20312>
-      <rdaed:P20315>Hunger</rdaed:P20315>
-      <rdfs:label>Hunger (Hamsun, Knut)</rdfs:label>
-      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
-      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
-      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/220443771"/>
-   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/220443771/exp/eng/1020/111655332">
       <rdaed:P20316>Sult</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
@@ -3392,6 +3382,17 @@
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20037 rdf:resource="http://example.org/egertongeorge"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/220443771"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/220443771/exp/eng/1020/hoyerniels">
+      <rdaed:P20316>Sult</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Hunger</rdaed:P20312>
+      <rdaed:P20315>Hunger</rdaed:P20315>
+      <rdfs:label>Hunger (Hamsun, Knut)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/hoyerniels"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/220443771"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/220443771/exp/fre/1020">
@@ -3526,7 +3527,7 @@
       <rdaeo:P20037 rdf:resource="http://example.org/borchmarievon"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/220443771"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="http://viaf.org/viaf/220443771/exp/ger/1020/harthernernst">
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/220443771/exp/ger/1020/hoyerniels">
       <rdaed:P20316>Sult</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Hunger</rdaed:P20312>
@@ -3534,7 +3535,7 @@
       <rdfs:label>Hunger (Hamsun, Knut)</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
-      <rdaeo:P20037 rdf:resource="http://example.org/harthernernst"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/hoyerniels"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/220443771"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/220443771/exp/ger/1020/weibelsiegfried">
@@ -3577,6 +3578,7 @@
       <rdfs:label>Sult (Hamsun, Knut)</rdfs:label>
       <rdaed:P20312>Sult : roman</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
+      <rdaed:P20315>Sult</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/220443771"/>
@@ -5983,17 +5985,6 @@
       <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/117364598"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/8450149068552765730000"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="http://viaf.org/viaf/8450149068552765730000/exp/ger/1020/harthernernst">
-      <rdaed:P20316>Børn av tiden</rdaed:P20316>
-      <rdaxd:P00029>standalone</rdaxd:P00029>
-      <rdaed:P20312>Kinder ihrer Zeit : Roman</rdaed:P20312>
-      <rdaed:P20315>Kinder ihrer Zeit</rdaed:P20315>
-      <rdfs:label>Kinder ihrer Zeit (Hamsun, Knut)</rdfs:label>
-      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
-      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
-      <rdaeo:P20037 rdf:resource="http://example.org/harthernernst"/>
-      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/8450149068552765730000"/>
-   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/8450149068552765730000/exp/ger/1020/hoyerniels">
       <rdaed:P20316>Børn av tiden</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
@@ -6800,7 +6791,7 @@
       <rdamd:P30011>1920</rdamd:P30011>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/220443771/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/220443771/exp/eng/1020/egertongeorge"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/011513503">
       <rdamd:P30156>Hunger</rdamd:P30156>
@@ -6811,7 +6802,7 @@
       <rdamd:P30011>1921</rdamd:P30011>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/220443771/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/220443771/exp/eng/1020/hoyerniels"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/011513504">
       <rdamd:P30156>Hunger</rdamd:P30156>
@@ -7037,7 +7028,7 @@
       <rdamd:P30011>1921 (1957)</rdamd:P30011>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/220443771/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/220443771/exp/eng/1020/egertongeorge"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/1023795175">
       <rdamd:P30156>Nach Jahr und Tag</rdamd:P30156>
@@ -8903,7 +8894,7 @@
       <rdamd:P30106>Das neue Buch</rdamd:P30106>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/220443771/exp/ger/1020/harthernernst"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/220443771/exp/ger/1020/hoyerniels"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/573639213">
       <rdamd:P30156>Hunger</rdamd:P30156>
@@ -11354,7 +11345,7 @@
       <rdamd:P30182>310 s.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/220443771/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/220443771/exp/eng/1020/egertongeorge"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/999104147344702201">
       <rdamd:P30156>Victoria</rdamd:P30156>
@@ -12564,7 +12555,7 @@
       <rdamd:P30182>XIII, 263 s.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/220443771/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/220443771/exp/eng/1020/egertongeorge"/>
       <rdamo:P30328 rdf:resource="http://example.org/bjrkmanedwin"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/999906669134702201">
@@ -12589,7 +12580,7 @@
       <rdamd:P30182>X, 312 s.</rdamd:P30182>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/220443771/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/220443771/exp/eng/1020/egertongeorge"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/999920237853402201">
       <rdamd:P30156>Hunger</rdamd:P30156>
@@ -21326,7 +21317,7 @@
       <rdamd:P30137>Lizenz des List-Verl., München</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/8450149068552765730000/exp/ger/1020/harthernernst"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/8450149068552765730000/exp/ger/1020/hoyerniels"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9783471777657">
       <rdamd:P30004>ISBN 9783471777657</rdamd:P30004>

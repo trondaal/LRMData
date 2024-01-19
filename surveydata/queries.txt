@@ -1,0 +1,100 @@
+#Delete redundant nodes from relevant (introduced by an error in the frontend)
+let $doc := "file:/Users/trondaal/GitHub/LRMData/surveydata/2024.01.18.records.xml"
+for $reduntant in doc($doc)//properties/relevant[not(. = ../results)]
+return delete node $reduntant
+
+#Remove array element
+
+let $doc := "file:/Users/trondaal/GitHub/LRMData/surveydata/2024.01.18.records.xml"
+for $relevant in doc($doc)//properties/relevant[array]
+let $content := translate(normalize-space($relevant/array), ' ', '')
+return $relevant
+
+#Update results and relevant elements with title and form
+let $doc := "file:/Users/trondaal/GitHub/LRMData/surveydata/2024.01.18.records.xml"
+let $records := "file:/Users/trondaal/GitHub/LRMData/surveydata/categorized.xml"
+for $relevant in doc($doc)//properties/(relevant, resaults)
+let $uri := $relevant
+let $target := doc($records)//expression[uri = $uri]
+let $form := $target[1]/form
+let $manifestations := $target/manifestationsConnection/totalCount
+let $title := if ($target[1]/titlepreferred ne "null") then $target[1]/titlepreferred else $target[1]/title
+return (insert node attribute form {$form}  into $relevant, insert node attribute title {normalize-space($title)}  into $relevant)
+
+#Update relevant with calculated score
+
+
+# Statistics for task 1 and 2
+declare namespace output = 'http://www.w3.org/2010/xslt-xquery-serialization';
+declare option output:method 'text';
+
+let $queries := distinct-values(//properties[task = ('1', '2')]/query)
+for $q in $queries
+return ('&#xa;' || $q || '&#9;' || '&#9;' || '&#9;', 
+    (for $relevant in //properties[query = $q]/relevant
+    group by $uri := $relevant/string()
+    let $title := $relevant[1]/@title/string()
+    let $c_all := count($relevant)
+    let $c_t1 := count($relevant[../task = ('1')])
+    let $c_t2 := count($relevant[../task = ('2')])
+    let $score := format-number(sum($relevant/@score), "##0.0")
+    let $bib_e := format-number(avg($relevant/../bibliographicExpertise), "##0.0")
+    let $search_e := format-number(avg($relevant/../searchExpertise), "##0.0")
+    let $task_e := format-number(avg($relevant/../searchExpertise), "##0.0")
+    order by count($relevant) descending
+    return '&#xa;' || $title  || '&#9;' || $c_t1|| '&#9;' || $c_t2 || '&#9;' || $c_all || '&#9;' || $score || '&#9;' || $bib_e || '&#9;' || $search_e|| '&#9;' || $task_e|| '&#9;' || $relevant[1]/@form ),
+    for $results in //properties[query = $q]/results[not(. = //properties[query = $q]/relevant)]
+    group by $uri := $results/string()
+    return '&#xa;' || $results[1]/@title)
+    
+declare namespace output = 'http://www.w3.org/2010/xslt-xquery-serialization';
+declare option output:method 'text';
+
+let $queries := distinct-values(//properties[task = ('3', '4')]/query)
+for $q in $queries
+return ('&#xa;' || $q || '&#9;' || '&#9;' || '&#9;', 
+    (for $relevant in //properties[query = $q]/relevant
+    group by $uri := $relevant/string()
+    let $title := $relevant[1]/@title/string()
+    let $c_all := count($relevant)
+    let $c_t1 := count($relevant[../task = ('1')])
+    let $c_t2 := count($relevant[../task = ('2')])
+    let $score := format-number(sum($relevant/@score), "##0.0")
+    let $bib_e := format-number(avg($relevant/../bibliographicExpertise), "##0.0")
+    let $search_e := format-number(avg($relevant/../searchExpertise), "##0.0")
+    let $task_e := format-number(avg($relevant/../searchExpertise), "##0.0")
+    order by count($relevant) descending
+    return '&#xa;' || $title  || '&#9;' || $c_t1|| '&#9;' || $c_t2 || '&#9;' || $c_all || '&#9;' || $score || '&#9;' || $bib_e || '&#9;' || $search_e|| '&#9;' || $task_e|| '&#9;' || $relevant[1]/@form ),
+    for $results in //properties[query = $q]/results[not(. = //properties[query = $q]/relevant)]
+    group by $uri := $results/string()
+    return '&#xa;' || $results[1]/@title)
+    
+    
+# Statistics for task 3 and 4
+let $queries := distinct-values(//properties[task = ('3', '4')]/query)
+for $q in $queries
+return ('&#xa;' || $q || '&#9;' || '&#9;' || '&#9;', 
+    (for $relevant in //properties[query = $q]/relevant
+    group by $uri := $relevant/string()
+    let $title := $relevant[1]/@title/string()
+    let $c_all := count($relevant)
+    let $c_t1 := count($relevant[../task = ('1')])
+    let $c_t2 := count($relevant[../task = ('2')])
+    let $score := format-number(sum($relevant/@score), "##0.0")
+    let $bib_e := format-number(avg($relevant/../bibliographicExpertise), "##0.0")
+    let $search_e := format-number(avg($relevant/../searchExpertise), "##0.0")
+    let $task_e := format-number(avg($relevant/../searchExpertise), "##0.0")
+    order by count($relevant) descending
+    return '&#xa;' || $title  || '&#9;' ||$c_all || '&#9;' || $bib_e || '&#9;' || $search_e|| '&#9;' || $task_e|| '&#9;' || $relevant[1]/@form ),
+    for $results in //properties[query = $q]/results[not(. = //properties[query = $q]/relevant)]
+    group by $uri := $results/string()
+    return '&#xa;' || $results[1]/@title)
+
+#Count participants
+declare namespace output = 'http://www.w3.org/2010/xslt-xquery-serialization';
+declare option output:method 'text';
+
+for $task in //properties[task = ('3', '4')]
+group by $q := $task/query
+let $participants := count(distinct-values($task/respondent ))
+return '&#xa;' || $q || " : " || $participants
