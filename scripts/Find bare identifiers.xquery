@@ -11,4 +11,6 @@ return map{$name : distinct-values($person/*:subfield[@code='0'])});
 for $person in doc($doc)//*:datafield[@tag=('100', '600', '700', '800', '110', '610', '710', '810', '111', '611', '711', '811')]
 where not($person/*:subfield[@code = '0' and starts-with(., '(NO-TrBIB)')])
 let $id := $aut($person/*:subfield[@code = 'a'])
-return <marc:subfield code="0">{$person/*:subfield[@code = 'a']}</marc:subfield>
+order by $person/*:subfield[@code='a']
+(:return if ($id ne '') then ()  else $person/*:subfield[@code='a']:)
+return insert node <marc:subfield code="0">{$id}</marc:subfield> into $person
