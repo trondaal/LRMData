@@ -13,4 +13,4 @@ where not($person/*:subfield[@code = '0' and starts-with(., '(NO-TrBIB)')])
 let $id := $aut($person/*:subfield[@code = 'a'])
 order by $person/*:subfield[@code='a']
 (:return if ($id ne '') then ()  else $person/*:subfield[@code='a']:)
-return insert node <marc:subfield code="0">{$id}</marc:subfield> into $person
+return if ($id ne '') then insert node <marc:subfield code="0">{$id}</marc:subfield> into $person else ()
