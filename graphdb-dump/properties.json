@@ -5596,6 +5596,21 @@
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
+                    "value": "contentsnote"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Evas \u00f8ye -- Se deg ikke tilbake!"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/fossum/003/exp/nob/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
                     "value": "titlepreferred"
                 },
                 "value": {
@@ -5717,6 +5732,36 @@
                     "xml:lang": "gden",
                     "type": "literal",
                     "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake! : kriminalroman"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
                 },
                 "value": {
                     "type": "literal",
@@ -6011,51 +6056,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/2949151051818133530003/exp/nob"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "titlepreferred"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Evas \u00f8ye"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/2949151051818133530003/exp/nob"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Evas \u00f8ye : kriminalroman"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/2949151051818133530003/exp/nob"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "titlevariant"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Evas \u00f8ye"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/2949151051818133530003/exp/nob/1013/228782183"
                 },
                 "label": {
@@ -6171,6 +6171,96 @@
                 "value": {
                     "type": "literal",
                     "value": "Evas \u00f8ye (filmatisering"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlepreferred"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake!"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/und/1013"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlepreferred"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/und/1013"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/und/1013"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake"
                 }
             },
             {
@@ -16451,6 +16541,21 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-8202167132"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "contentsnote"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Evas \u00f8ye -- Se deg ikke tilbake!"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-8202167353"
                 },
                 "label": {
@@ -20631,6 +20736,2496 @@
                 "value": {
                     "type": "literal",
                     "value": "At\u0113na detekt\u012bvs"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/990308325514702202"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/990308325514702202"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "av Karin Fossum ; dramatisert for fjernsyn av \u00c5se Vikene"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/990308325514702202"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "208 bl."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/990308325514702202"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo] : [NRK drama], 1998"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/990308325514702202"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/990308325514702202"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[NRK drama]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/990308325514702202"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1998"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/990308325514702202"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Inneholder 4. episoder: Pike savnet, Fedre, Skjulte spor, M\u00f8te med en morder"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/990308325514702202"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "TV-manus"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202158885"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 8202158885"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202158885"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 8257411418"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202158885"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake!"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202158885"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "subtitle"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "kriminalroman"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202158885"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Karin Fossum"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202158885"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "275 s."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202158885"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo] : Cappelen, 1996"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202158885"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202158885"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Cappelen"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202158885"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1996"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167159"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 8202167159"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167159"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake!"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167159"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "subtitle"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "kriminalroman"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167159"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Karin Fossum"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167159"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "275 s."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167159"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo] : Cappelen, 1997"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167159"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167159"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Cappelen"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167159"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1997"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167159"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "series"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Cap spenningens mestere"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167159"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1. utg. 1996"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167159"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Opplagshistorikk: Denne utg., 2.-3. oppl. 1997; 4. oppl. 1998 (Nkr 69.00) ; 5. oppl. 2000; 6. oppl. 2001 (Nkr 79.00)"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167361"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 8202167361"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167361"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake!"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167361"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "subtitle"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "kriminalroman"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167361"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Karin Fossum"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167361"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "275 s."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167361"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo] : Cappelen, 1997"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167361"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167361"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Cappelen"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167361"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1997"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167361"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "series"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Cappelens storb\u00f8ker"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167361"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1. utg. 1996"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167361"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Opplagshistorikk: Storbokutg., 2. oppl. 1998; 3. oppl. 2001"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202188296"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 8202188296"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202188296"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake!"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202188296"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "subtitle"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "kriminalroman"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202188296"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Karin Fossum"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202188296"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "275 s."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202188296"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo] : Cappelen, 2000"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202188296"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202188296"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Cappelen"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202188296"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "2000"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202188296"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "series"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "CUB"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202188296"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1. utg. 1996"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202201233"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 8202201233"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202201233"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202201233"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Karin Fossum"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202201233"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "275 s."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202201233"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo] : Cappelen, 2000"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202201233"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202201233"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Cappelen"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202201233"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "2000"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202201233"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "series"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Cappelen krim"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202201233"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "seriesnumbering"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "19"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202201233"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1. utg. 1996"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202228174"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 8202228174"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202228174"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake!"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202228174"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "subtitle"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "kriminalroman"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202228174"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Karin Fossum"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202228174"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "275 s."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202228174"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Oslo : Cappelen, 2003"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202228174"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Oslo"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202228174"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Cappelen"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202228174"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "2003"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202228174"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "series"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Cap spenningens mestere"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202228174"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Opplagshistorikk: Denne utg., 2. oppl. 2004"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202228174"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1. utg. 1996"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202259118"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 8202259118"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202259118"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 9788202259112"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202259118"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake!"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202259118"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Karin Fossum"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202259118"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "275 s."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202259118"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo] : Cappelen, 2006"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202259118"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202259118"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Cappelen"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202259118"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "2006"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202259118"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "series"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "En Konrad Sejer-krim"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202259118"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1. utg. 1996"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278440085"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 8278440085"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278440085"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278440085"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "6 lydkassetter."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278440085"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Billingstad : Fono, 1996"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278440085"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Billingstad"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278440085"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Fono"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278440085"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1996"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278442444"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 8278442444"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278442444"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 9788278442449"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278442444"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake!"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278442444"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Karin Fossum"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278442444"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "7 plater (CD) (8 t, 25 min) : digital, 12 cm, i eske."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278442444"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Oslo : Fono forl., 2006"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278442444"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Oslo"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278442444"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Fono forl"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278442444"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "2006"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278442444"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Lest av Trini Lund"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202286552"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 9788202286552"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202286552"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake!"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202286552"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Karin Fossum"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202286552"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1 plate (MP3-CD) (8 t, 25 min) : digital, 12 cm, i omslag."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202286552"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Oslo : Cappelen Damm, 2008"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202286552"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Oslo"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202286552"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Cappelen Damm"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202286552"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "2008"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202286552"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Lest av Trini Lund"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202286552"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1. lydbokutg. Billingstad : Fono, 1996"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202303150"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 9788202303150"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202303150"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake!"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202303150"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Karin Fossum"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202303150"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1 fil : EPUB."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202303150"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Oslo : Cappelen Damm, 2011"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202303150"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Oslo"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202303150"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Cappelen Damm"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202303150"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "2011"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202303150"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Tittel fra tittelskjermbildet"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202324247"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 9788202324247"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202324247"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake!"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202324247"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Karin Fossum"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202324247"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "272 s."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202324247"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo] : Cappelen Damm, 2010"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202324247"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202324247"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Cappelen Damm"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202324247"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "2010"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202324247"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "series"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "En Konrad Sejer-krim"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202324247"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "seriesnumbering"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "nr. 2"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202324247"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1. utg. Oslo : Cappelen, 1996"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202478605"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 9788202478605"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202478605"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake!"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202478605"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Karin Fossum"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202478605"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "272 s."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202478605"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo] : Cappelen Damm, 2015"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202478605"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202478605"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Cappelen Damm"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202478605"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "2015"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202478605"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "series"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "En Konrad Sejer-krim"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202478605"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "seriesnumbering"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[2]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202478605"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1. utg. Oslo : Cappelen, 1996"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202602581"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 978-82-02-60258-1"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202602581"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake!"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202602581"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Karin Fossum"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202602581"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "271 s., 21 cm."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202602581"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo] : Cappelen Damm, 2018"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202602581"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202602581"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Cappelen Damm"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202602581"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "2018"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202602581"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "series"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "En Konrad Sejer-krim"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202602581"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "seriesnumbering"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[2]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202602581"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1. utg. Oslo : Cappelen, 1996"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788252580167"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 9788252580167"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788252580167"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake!"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788252580167"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Karin Fossum"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788252580167"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "272 s."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788252580167"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo] : Bokklubben, 2012"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788252580167"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[Oslo]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788252580167"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Bokklubben"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788252580167"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "2012"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788252580167"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1. utg. Oslo : Cappelen, 1996"
                 }
             }
         ]

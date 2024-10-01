@@ -136,6 +136,18 @@
             <subfield code="b">Cappelen</subfield>
             <subfield code="c">c2000</subfield>
         </datafield>
+        <datafield tag="336" ind1=" " ind2=" " a="t">
+            <subfield code="a">text</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" " a="t">
+            <subfield code="a">computer</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1003</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" " a="t">
+            <subfield code="a">online</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1018</subfield>
+        </datafield>
         <datafield tag="490" ind1="1" ind2=" ">
             <subfield code="a">Cappelen e-bok</subfield>
         </datafield>
@@ -2560,6 +2572,9 @@
         <datafield tag="500" ind1=" " ind2=" ">
             <subfield code="a">Undertittel: Kriminalromaner</subfield>
         </datafield>
+        <datafield tag="505" ind1=" " ind2=" ">
+            <subfield code="a">Evas øye -- Se deg ikke tilbake!</subfield>
+        </datafield>
         <datafield tag="700" ind1="0" ind2="2">
             <subfield code="a">Fossum, Karin</subfield>
             <subfield code="t">Evas øye</subfield>
@@ -3838,5 +3853,1649 @@
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10129</subfield>
         </datafield>
     </record>
+    <!-- Se deg ikke tilbake -->
+    <record>
+        <leader>01767cam a2200481 c 4500</leader>
+        <controlfield tag="001">990000004004702202</controlfield>
+        <controlfield tag="005">20230308121728.0</controlfield>
+        <controlfield tag="007">cr||||||||||||</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">150506s2000    no#||||| |||||000|1|nob| </controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">00000040x</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">00000040x</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">0006820</subfield>
+            <subfield code="2">nbf</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8202188296</subfield>
+            <subfield code="q">h.</subfield>
+            <subfield code="c">Nkr 98.00</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">norbibl</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a">839.823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">4/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="1">http://viaf.org/viaf/9129151051843933530004</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="740" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake! :</subfield>
+            <subfield code="b">kriminalroman</subfield>
+            <subfield code="c">Karin Fossum</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Oslo]</subfield>
+            <subfield code="b">Cappelen</subfield>
+            <subfield code="c">2000</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">275 s.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">tekst</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">uformidlet</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">bind</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
+        
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">CUB</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">1. utg. 1996</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2013-08-30</subfield>
+        </datafield>
+        <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">CUB</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01686cam a2200469 c 4500</leader>
+        <controlfield tag="001">990007429964702202</controlfield>
+        <controlfield tag="005">20230227124238.0</controlfield>
+        <controlfield tag="007">cr||||||||||||</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">110826s2000    no#||||| |||||000|1|nob| </controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">000742996</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">000742996</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">0007931</subfield>
+            <subfield code="2">nbf</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8202201233</subfield>
+            <subfield code="q">h.</subfield>
+            <subfield code="c">Nkr 54.00</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">norbibl</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a">839.823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">4/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="1">http://viaf.org/viaf/9129151051843933530004</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="740" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="c">Karin Fossum</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Oslo]</subfield>
+            <subfield code="b">Cappelen</subfield>
+            <subfield code="c">2000</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">275 s.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">tekst</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">uformidlet</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">bind</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
+        
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">Cappelen krim</subfield>
+            <subfield code="v">19</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">1. utg. 1996</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2008-10-17</subfield>
+        </datafield>
+        <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Cappelen krim</subfield>
+            <subfield code="v">19</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01186cam a2200349 c 4500</leader>
+        <controlfield tag="001">990308325514702202</controlfield>
+        <controlfield tag="005">20110826164444.0</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">110826s1998    xx#|||||||||||000|u|nob| </controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">030832551</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="080" ind1=" " ind2=" ">
+            <subfield code="a">791.44.071.11</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Vikene, Åse</subfield>
+            <subfield code="0">(NO-TrBIB)2038291</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="c">av Karin Fossum ; dramatisert for fjernsyn av Åse Vikene</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Oslo]</subfield>
+            <subfield code="b">[NRK drama]</subfield>
+            <subfield code="c">1998</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">208 bl.</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Inneholder 4. episoder: Pike savnet, Fedre, Skjulte spor, Møte med en morder</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">TV-manus</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+        </datafield>
+        <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">NRK drama</subfield>
+            <subfield code="0">(NO-TrBIB)68439</subfield>
+        </datafield>
+        <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">Fedre</subfield>
+        </datafield>
+        <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">Møte med en morder</subfield>
+        </datafield>
+        <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">Pike savnet</subfield>
+        </datafield>
+        <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">Skjulte spor</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>02349cam a2200553 c 4500</leader>
+        <controlfield tag="001">990308733984702202</controlfield>
+        <controlfield tag="005">20230308122356.0</controlfield>
+        <controlfield tag="007">cr||||||||||||</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">150407s2003    no#||||| |||||000|1|nob| </controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">030873398</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">030873398</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">0309746</subfield>
+            <subfield code="2">nbf</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8202228174</subfield>
+            <subfield code="q">h.</subfield>
+            <subfield code="c">Nkr 99.00</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">norbibl</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
+        </datafield>
+        <datafield tag="080" ind1=" " ind2=" ">
+            <subfield code="a">839.6</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a">839.823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">5/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="1">http://viaf.org/viaf/9129151051843933530004</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="740" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake! :</subfield>
+            <subfield code="b">kriminalroman</subfield>
+            <subfield code="c">Karin Fossum</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Oslo</subfield>
+            <subfield code="b">Cappelen</subfield>
+            <subfield code="c">2003</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">275 s.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">tekst</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">uformidlet</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">bind</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
+        
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">Cap spenningens mestere</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">1. utg. 1996</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Opplagshistorikk:  Denne utg., 2. oppl. 2004</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2009-06-16</subfield>
+        </datafield>
+        <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Cap spenningens mestere</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>02537cam a2200565 c 4500</leader>
+        <controlfield tag="001">990601748114702202</controlfield>
+        <controlfield tag="005">20230531155905.0</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">120816s2006    no#|||||||||||000|f|nob| </controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">060174811</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">060174811</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">0606571</subfield>
+            <subfield code="2">nbf</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8202259118</subfield>
+            <subfield code="q">h.</subfield>
+            <subfield code="c">Nkr 99.00</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9788202259112</subfield>
+            <subfield code="q">h.</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">norbibl</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">839.82</subfield>
+            <subfield code="2">23</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a">839.823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">5/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="1">http://viaf.org/viaf/9129151051843933530004</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="740" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake!</subfield>
+            <subfield code="c">Karin Fossum</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Oslo]</subfield>
+            <subfield code="b">Cappelen</subfield>
+            <subfield code="c">2006</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">275 s.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">tekst</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">uformidlet</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">bind</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
+        
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">En Konrad Sejer-krim</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">1. utg. 1996</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2016-07-28</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Romaner</subfield>
+            <subfield code="0">(uri)https://id.nb.no/vocabulary/ntsf/258</subfield>
+            <subfield code="2">ntsf</subfield>
+        </datafield>
+        <datafield tag="800" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="t">En Konrad Sejer-krim</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>02319cim a2200505 c 4500</leader>
+        <controlfield tag="001">990610879554702202</controlfield>
+        <controlfield tag="005">20230228102939.0</controlfield>
+        <controlfield tag="007">sd f||||||||||</controlfield>
+        <controlfield tag="008">110826s2006    no#|||| |||||||f#|||nob| </controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">061087955</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">061087955</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">0612662</subfield>
+            <subfield code="2">nbf</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8278442444</subfield>
+            <subfield code="c">Nkr 298.00</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9788278442449</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">norbibl</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a">839.823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">5/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="1">http://viaf.org/viaf/9129151051843933530004</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="740" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake!</subfield>
+            <subfield code="c">Karin Fossum</subfield>
+            <subfield code="h">[lydopptak]</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Oslo</subfield>
+            <subfield code="b">Fono forl.</subfield>
+            <subfield code="c">2006</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">7 plater (CD) (8 t, 25 min)</subfield>
+            <subfield code="b">digital</subfield>
+            <subfield code="c">12 cm, i eske</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Lest av Trini Lund</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lund, Trini</subfield>
+            <subfield code="d">1951-</subfield>
+            <subfield code="e">medarb.</subfield>
+            <subfield code="0">(NO-TrBIB)98025238</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>02250cim a2200493 c 4500</leader>
+        <controlfield tag="001">990807717264702202</controlfield>
+        <controlfield tag="005">20230307145902.0</controlfield>
+        <controlfield tag="007">sd f||||||||||</controlfield>
+        <controlfield tag="008">110826s2008    no#|||| |||||||f#|||nob| </controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">080771726</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">080771726</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">0809994</subfield>
+            <subfield code="2">nbf</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9788202286552</subfield>
+            <subfield code="c">Nkr 99.00</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">norbibl</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a">839.823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">5/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake!</subfield>
+            <subfield code="c">Karin Fossum</subfield>
+            <subfield code="h">[lydopptak]</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="1">http://viaf.org/viaf/9129151051843933530004</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="740" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Oslo</subfield>
+            <subfield code="b">Cappelen Damm</subfield>
+            <subfield code="c">2008</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 plate (MP3-CD) (8 t, 25 min)</subfield>
+            <subfield code="b">digital</subfield>
+            <subfield code="c">12 cm, i omslag</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">1. lydbokutg. Billingstad : Fono, 1996</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Lest av Trini Lund</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lund, Trini</subfield>
+            <subfield code="d">1951-</subfield>
+            <subfield code="e">medarb.</subfield>
+            <subfield code="0">(NO-TrBIB)98025238</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>02494cam a2200553 c 4500</leader>
+        <controlfield tag="001">991007142004702202</controlfield>
+        <controlfield tag="005">20230531184219.0</controlfield>
+        <controlfield tag="007">cr||||||||||||</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">140508s2010    no#||||| |||||000|f|nob| </controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">10071420x</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">10071420x</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9788202324247</subfield>
+            <subfield code="q">h.</subfield>
+            <subfield code="c">Nkr 139.00</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">norbibl</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a">839.823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">5/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="1">http://viaf.org/viaf/9129151051843933530004</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="740" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake!</subfield>
+            <subfield code="c">Karin Fossum</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Oslo]</subfield>
+            <subfield code="b">Cappelen Damm</subfield>
+            <subfield code="c">2010</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">272 s.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">tekst</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">uformidlet</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">bind</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
+        
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">En Konrad Sejer-krim</subfield>
+            <subfield code="v">nr. 2</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">1. utg. Oslo : Cappelen, 1996</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2013-12-03</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Romaner</subfield>
+            <subfield code="0">(uri)https://id.nb.no/vocabulary/ntsf/258</subfield>
+            <subfield code="2">ntsf</subfield>
+        </datafield>
+        <datafield tag="800" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="t">En Konrad Sejer-krim</subfield>
+            <subfield code="v">nr. 2</subfield>
+            <subfield code="d">1954-</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01731cam a2200469 c 4500</leader>
+        <controlfield tag="001">991216769354702202</controlfield>
+        <controlfield tag="005">20230531211149.0</controlfield>
+        <controlfield tag="007">cr||||||||||||</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">130929s2012    no#||||| |||||000|f|nob| </controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">121676935</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">121676935</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">1224956</subfield>
+            <subfield code="2">nbf</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9788252580167</subfield>
+            <subfield code="q">ib.</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">norbibl</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">839.82</subfield>
+            <subfield code="2">23</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a">839.823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">5/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="1">http://viaf.org/viaf/9129151051843933530004</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="740" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake!</subfield>
+            <subfield code="c">Karin Fossum</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Oslo]</subfield>
+            <subfield code="b">Bokklubben</subfield>
+            <subfield code="c">2012</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">272 s.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">tekst</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">uformidlet</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">bind</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
+        
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">1. utg. Oslo : Cappelen, 1996</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2013-08-09</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Romaner</subfield>
+            <subfield code="0">(uri)https://id.nb.no/vocabulary/ntsf/258</subfield>
+            <subfield code="2">ntsf</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01549cam a2200349 c 4500</leader>
+        <controlfield tag="001">991328233494702202</controlfield>
+        <controlfield tag="005">20230531221330.0</controlfield>
+        <controlfield tag="007">cr |||||||||||</controlfield>
+        <controlfield tag="008">130926s2011    no#|||||o|||||000|f|nob| </controlfield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">1328888</subfield>
+            <subfield code="2">nbf</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9788202303150</subfield>
+            <subfield code="c">Nkr 99.00</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">norbibl</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a">839.823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">5/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="1">http://viaf.org/viaf/9129151051843933530004</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="740" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake!</subfield>
+            <subfield code="c">Karin Fossum</subfield>
+            <subfield code="h">[elektronisk ressurs]</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Oslo</subfield>
+            <subfield code="b">Cappelen Damm</subfield>
+            <subfield code="c">2011</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 fil</subfield>
+            <subfield code="b">EPUB</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Tittel fra tittelskjermbildet</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Romaner</subfield>
+            <subfield code="0">(uri)https://id.nb.no/vocabulary/ntsf/258</subfield>
+            <subfield code="2">ntsf</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>01767cam a2200457 c 4500</leader>
+        <controlfield tag="001">991512316214702202</controlfield>
+        <controlfield tag="005">20230601074023.0</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">150831s2015    no#|||||||||||000|f|nob| </controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">151231621</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">151231621</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">1522175</subfield>
+            <subfield code="2">nbf</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9788202478605</subfield>
+            <subfield code="q">h.</subfield>
+            <subfield code="c">Nkr 99.90</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">norbibl</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a">839.823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">5/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="4">aut</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="1">http://viaf.org/viaf/9129151051843933530004</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="740" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake!</subfield>
+            <subfield code="c">Karin Fossum</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Oslo]</subfield>
+            <subfield code="b">Cappelen Damm</subfield>
+            <subfield code="c">2015</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">272 s.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">tekst</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">uformidlet</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">bind</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
+        
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">En Konrad Sejer-krim</subfield>
+            <subfield code="v">[2]</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">1. utg. Oslo : Cappelen, 1996</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2019-09-18</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Romaner</subfield>
+            <subfield code="0">(uri)https://id.nb.no/vocabulary/ntsf/258</subfield>
+            <subfield code="2">ntsf</subfield>
+        </datafield>
+        <datafield tag="800" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="t">En Konrad Sejer-krim</subfield>
+            <subfield code="v">2</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="4">aut</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>02647cam a2200613 c 4500</leader>
+        <controlfield tag="001">999609024224702202</controlfield>
+        <controlfield tag="005">20230801140605.0</controlfield>
+        <controlfield tag="007">cr||||||||||||</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">150112s1996    no ||||| |||||000|1|nob| </controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">960902422</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">960902422</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">9608963</subfield>
+            <subfield code="2">nbf</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8202158885</subfield>
+            <subfield code="q">ib.</subfield>
+            <subfield code="q">Cappelen</subfield>
+            <subfield code="c">Nkr 279.00</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8257411418</subfield>
+            <subfield code="q">ib.</subfield>
+            <subfield code="q">Bokklubben nye bøker</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">norbibl</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a">839.823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">4/nor</subfield>
+        </datafield>
+        <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">S 4 Fossum, Karin</subfield>
+            <subfield code="2">oosk</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="4">aut</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="1">http://viaf.org/viaf/9129151051843933530004</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="740" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake! :</subfield>
+            <subfield code="b">kriminalroman</subfield>
+            <subfield code="c">Karin Fossum</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Oslo]</subfield>
+            <subfield code="b">Cappelen</subfield>
+            <subfield code="c">1996</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">275 s.</subfield>
+        </datafield>
+
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">tekst</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">uformidlet</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">bind</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2008-07-08</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">roman</subfield>
+            <subfield code="a">skjønnlitteratur</subfield>
+            <subfield code="a">kriminalromaner</subfield>
+            <subfield code="a">norsk</subfield>
+            <subfield code="a">krim/spenning</subfield>
+            <subfield code="a">1990-tallet</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="4">
+            <subfield code="a">Kriminal</subfield>
+        </datafield>
+        <datafield tag="767" ind1="0" ind2=" ">
+            <subfield code="6">880-01</subfield>
+            <subfield code="t">Jarima djalissa al-atfal</subfield>
+            <subfield code="w">99992191086850220</subfield>
+            <subfield code="z">9789773197681</subfield>
+        </datafield>
+        <datafield tag="767" ind1="0" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="t">Don't look back</subfield>
+            <subfield code="b">1st Harvest ed.</subfield>
+            <subfield code="w">990604192024702201</subfield>
+        </datafield>
+        <datafield tag="767" ind1="0" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="t">Don't look back</subfield>
+            <subfield code="w">991339871404702201</subfield>
+        </datafield>
+        <datafield tag="767" ind1="0" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="t">Ne pogleždaj nazad</subfield>
+            <subfield code="w">991209142804702201</subfield>
+        </datafield>
+        <datafield tag="767" ind1="0" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="t">Neobzeraj sa</subfield>
+            <subfield code="w">991426592584702201</subfield>
+        </datafield>
+        <datafield tag="767" ind1="0" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="t">No mires atrás</subfield>
+            <subfield code="w">999920333584702201</subfield>
+        </datafield>
+        <datafield tag="767" ind1="0" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="t">Se dig inte om!</subfield>
+            <subfield code="w">999906260594702201</subfield>
+        </datafield>
+        <datafield tag="767" ind1="0" ind2=" ">
+            <subfield code="t">Ne osvrći se</subfield>
+            <subfield code="w">999920631243202201</subfield>
+            <subfield code="z">978-86-7963-466-5</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>03241cam a2200757 c 4500</leader>
+        <controlfield tag="001">999705762934702202</controlfield>
+        <controlfield tag="005">20230401072951.0</controlfield>
+        <controlfield tag="007">cr||||||||||||</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">150107s1997    no#||||| |||||000|1|nob| </controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">970576293</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">970576293</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">970576293</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">970576293</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">970576293</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">970576293</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">9706716</subfield>
+            <subfield code="2">nbf</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8202167159</subfield>
+            <subfield code="q">h.</subfield>
+            <subfield code="c">Nkr 59.00</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">norbibl</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
+        </datafield>
+        <datafield tag="080" ind1=" " ind2=" ">
+            <subfield code="a">839.6</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a">839.823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">4/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="1">http://viaf.org/viaf/9129151051843933530004</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="740" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake! :</subfield>
+            <subfield code="b">kriminalroman</subfield>
+            <subfield code="c">Karin Fossum</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Oslo]</subfield>
+            <subfield code="b">Cappelen</subfield>
+            <subfield code="c">1997</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">275 s.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">tekst</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">uformidlet</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">bind</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">Cap spenningens mestere</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">1. utg. 1996</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Opplagshistorikk:  Denne utg., 2.-3. oppl. 1997; 4. oppl. 1998 (Nkr 69.00) ;  5. oppl. 2000; 6. oppl. 2001 (Nkr 79.00)</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2009-04-20</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">norsk-litteratur</subfield>
+        </datafield>
+        <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Cap spenningens mestere</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>02378cam a2200601 c 4500</leader>
+        <controlfield tag="001">999710790134702202</controlfield>
+        <controlfield tag="005">20230401081622.0</controlfield>
+        <controlfield tag="007">cr||||||||||||</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">150624s1997    no#||||| |||||000|1|nob| </controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">971079013</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">971079013</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">971079013</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">9708116</subfield>
+            <subfield code="2">nbf</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8202167361</subfield>
+            <subfield code="q">ib.</subfield>
+            <subfield code="c">Nkr 149.00</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">norbibl</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="c">no</subfield>
+        </datafield>
+        <datafield tag="080" ind1=" " ind2=" ">
+            <subfield code="a">82</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">839.82</subfield>
+            <subfield code="2">23</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a">839.823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">4/nor</subfield>
+        </datafield>
+        <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">S 4b</subfield>
+            <subfield code="2">oosk</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="1">http://viaf.org/viaf/9129151051843933530004</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="740" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake! :</subfield>
+            <subfield code="b">kriminalroman</subfield>
+            <subfield code="c">Karin Fossum</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Oslo]</subfield>
+            <subfield code="b">Cappelen</subfield>
+            <subfield code="c">1997</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">275 s.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">tekst</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">uformidlet</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">bind</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
+        
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">Cappelens storbøker</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">1. utg. 1996</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Opplagshistorikk:  Storbokutg., 2. oppl. 1998; 3. oppl. 2001</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2009-02-25</subfield>
+        </datafield>
+        <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Cappelens storbøker</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00791cam a22002413c 4500</leader>
+        <controlfield tag="001">999728875474702202</controlfield>
+        <controlfield tag="005">20160115085946.0</controlfield>
+        <controlfield tag="008">010321s1996    xx#|||||||||||000|u|und| </controlfield>
+        <datafield tag="014" ind1="1" ind2=" ">
+            <subfield code="a">972887547</subfield>
+            <subfield code="b">(NO-TrBIB)</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8278440085</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsNB</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="1">http://viaf.org/viaf/9129151051843933530004</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="740" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="h">[lydopptak]</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Billingstad</subfield>
+            <subfield code="b">Fono</subfield>
+            <subfield code="c">1996</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">6 lydkassetter</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" " a="t">
+            <subfield code="a">spoken word</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1013</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" " a="t">
+            <subfield code="a">audio</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1001</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" " a="t">
+            <subfield code="a">audio</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1001</subfield>
+        </datafield>
+        
+    </record>
+    <record>
+        <leader>02861nam a2200517 c 4500</leader>
+        <controlfield tag="001">999919951798602202</controlfield>
+        <controlfield tag="005">20230402105650.0</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">180605s2018    no     e |||||00| 1 nob| </controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">978-82-02-60258-1</subfield>
+            <subfield code="q">h.</subfield>
+            <subfield code="c">Nkr 179.00</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">NO-OsBAS</subfield>
+            <subfield code="b">nob</subfield>
+            <subfield code="d">NO-OsNB</subfield>
+            <subfield code="e">katreg</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">839.82374</subfield>
+            <subfield code="q">NO-OsBAS</subfield>
+            <subfield code="2">23/nor</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="4">aut</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="k">Novel</subfield>
+            <subfield code="1">http://viaf.org/viaf/9129151051843933530004</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="740" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Se deg ikke tilbake!</subfield>
+            <subfield code="c">Karin Fossum</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Oslo]</subfield>
+            <subfield code="b">Cappelen Damm</subfield>
+            <subfield code="c">2018</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">271 s.</subfield>
+            <subfield code="c">21 cm</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+        </datafield>
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">En Konrad Sejer-krim</subfield>
+            <subfield code="v">[2]</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">1. utg. Oslo : Cappelen, 1996</subfield>
+        </datafield>
+        <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">"Han plystret en tone og følte seg ovenpå, der han tronte bak rattet i den store bilen med den lille jenta baki. Virkelig ovenpå."   En seksårig jente er meldt savnet. Kort tid etter blir liket av tenåringsjenta Annie Holland funnet i utkanten av den lille bygda hvor alle kjenner alle. Førstebetjent Konrad Sejer er i gang med en ny vanskelig sak.</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2021-11-01</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Sejer, Konrad (fiktiv person)</subfield>
+            <subfield code="2">bokbas</subfield>
+        </datafield>
+        <datafield tag="651" ind1=" " ind2="7">
+            <subfield code="a">Austlandet</subfield>
+            <subfield code="2">bokbas</subfield>
+            <subfield code="9">nno</subfield>
+        </datafield>
+        <datafield tag="651" ind1=" " ind2="7">
+            <subfield code="a">Østlandet</subfield>
+            <subfield code="2">bokbas</subfield>
+            <subfield code="9">nob</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Krim</subfield>
+            <subfield code="2">bokbas</subfield>
+            <subfield code="9">nno</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Krim</subfield>
+            <subfield code="2">bokbas</subfield>
+            <subfield code="9">nob</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Politi og detektivar</subfield>
+            <subfield code="2">bokbas</subfield>
+            <subfield code="9">nno</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Politi og detektiver</subfield>
+            <subfield code="2">bokbas</subfield>
+            <subfield code="9">nob</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Romanar</subfield>
+            <subfield code="2">bokbas</subfield>
+            <subfield code="9">nno</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Romaner</subfield>
+            <subfield code="2">bokbas</subfield>
+            <subfield code="9">nob</subfield>
+        </datafield>
+        <datafield tag="800" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="t">En Konrad Sejer-krim;</subfield>
+            <subfield code="v">2</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="4">aut</subfield>
+        </datafield>
+    </record>
+
 </collection>
 

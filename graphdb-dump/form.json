@@ -236,6 +236,21 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Novel"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "https://www.imdb.com/title/tt0188605"
                 },
                 "label": {
@@ -1730,7 +1745,7 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "part"
+                    "value": "part, standalone"
                 }
             },
             {
@@ -1826,21 +1841,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/2949151051818133530003/exp/nob"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "form"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "standalone"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/2949151051818133530003/exp/nob/1013/228782183"
                 },
                 "label": {
@@ -1872,6 +1872,36 @@
                 "entity": {
                     "type": "uri",
                     "value": "https://www.imdb.com/title/tt0188605/exp/1023"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "standalone"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "standalone"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/und/1013"
                 },
                 "label": {
                     "xml:lang": "gden",

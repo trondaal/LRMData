@@ -2083,6 +2083,25 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/und/1013"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CONTENT"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1013"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://example.com/enkeltogdjupt/exp/nno/1020"
                 },
                 "p": {
@@ -4097,25 +4116,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/2949151051818133530003/exp/nob"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "LANGUAGE"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://id.loc.gov/vocabulary/iso639-2/nob"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/2949151051818133530003/exp/nob/1013/228782183"
                 },
                 "p": {
@@ -4168,6 +4168,44 @@
                 "o": {
                     "type": "uri",
                     "value": "http://id.loc.gov/vocabulary/iso639-2/nob"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/nob"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/und/1013"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/datatype/P20006"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "LANGUAGE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/und"
                 }
             },
             {
@@ -5693,6 +5731,25 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-8202201837"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CARRIER"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1018"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-8202228158"
                 },
                 "p": {
@@ -6093,6 +6150,196 @@
                 "s": {
                     "type": "uri",
                     "value": "http://example.org/isbn-9984635589"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CARRIER"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1049"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202158885"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CARRIER"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1049"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167159"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CARRIER"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1049"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167361"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CARRIER"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1049"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202188296"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CARRIER"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1049"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202201233"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CARRIER"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1049"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202228174"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CARRIER"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1049"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202259118"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CARRIER"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1049"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202324247"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CARRIER"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1049"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202478605"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30001"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "CARRIER"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1049"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788252580167"
                 },
                 "p": {
                     "type": "uri",
@@ -7536,6 +7783,25 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-8202201837"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "MEDIATYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1003"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-8202228158"
                 },
                 "p": {
@@ -7955,6 +8221,215 @@
                 "s": {
                     "type": "uri",
                     "value": "http://example.org/isbn-9984635589"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "MEDIATYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1007"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202158885"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "MEDIATYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1007"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167159"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "MEDIATYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1007"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202167361"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "MEDIATYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1007"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202188296"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "MEDIATYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1007"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202201233"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "MEDIATYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1007"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202228174"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "MEDIATYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1007"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202259118"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "MEDIATYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1007"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8278440085"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "MEDIATYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1001"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202324247"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "MEDIATYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1007"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202478605"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/m/datatype/P30002"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "MEDIATYPE"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1007"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788252580167"
                 },
                 "p": {
                     "type": "uri",
