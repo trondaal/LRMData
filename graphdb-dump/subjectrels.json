@@ -8,6 +8,425 @@
         ]
     },
     "results": {
-        "bindings": []
+        "bindings": [
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.com/enkeltogdjupt"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10319"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has subject agent"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/34494041"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.com/gammelmodig"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10257"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has subject work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/1535159478113827990002"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.com/jonfosseiskulen"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10319"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has subject agent"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/34494041"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/fangetifortid"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10257"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has subject work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/1535159478113827990002"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/fangetifortid"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10257"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has subject work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/312484318"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/fangetifortid"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10257"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has subject work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/308067563"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/jonfosseandvaketrilogien"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10257"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has subject work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/1062164661877003390007"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/jonfosseandvaketrilogien"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10257"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has subject work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/7707165326352216290002"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/jonfosseandvaketrilogien"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10257"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has subject work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/1535159478113827990002"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/jonfosseandvaketrilogien"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10257"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has subject work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/3303165326534316290003"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/jonfosseogskriftmystikk"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10257"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has subject work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/7707165326352216290002"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/jonfosseogskriftmystikk"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10257"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has subject work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/1535159478113827990002"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/jonfosseogskriftmystikk"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10257"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has subject work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/3303165326534316290003"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/jonfosseprosivinneris\u00e6rklasse"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10319"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has subject agent"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/34494041"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/jonfosseprosivinneris\u00e6rklasse"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10257"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has subject work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/1062164661877003390007"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/krimromanfrajonfosse"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10257"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has subject work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/7707165326352216290002"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/sv\u00e6vetsestetikk"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10319"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has subject agent"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/34494041"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/sv\u00e6vetsestetikk"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10257"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has subject work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/1062164661877003390007"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/sv\u00e6vetsestetikk"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10257"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has subject work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/7707165326352216290002"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/sv\u00e6vetsestetikk"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10257"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has subject work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/1535159478113827990002"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/sv\u00e6vetsestetikk"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10257"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has subject work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/3303165326534316290003"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/7707165326352216290002/samtale"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10257"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "has subject work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/7707165326352216290002"
+                }
+            }
+        ]
     }
 }

@@ -8,6 +8,45 @@
         ]
     },
     "results": {
-        "bindings": []
+        "bindings": [
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/1062164661877003390007/dramatisering"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10127"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "is dramatization of work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/1062164661877003390007"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.imdb.com/title/tt0188605"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10129"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "is motion picture adaptation of work"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/2949151051818133530003"
+                }
+            }
+        ]
     }
 }
