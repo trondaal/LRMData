@@ -1,0 +1,2 @@
+for $datafield in doc("../xml/vbinf6000-eksempler/karin.fossum.xml")//*:datafield[@tag=("100") and not(*:subfield[@code = "t"]) and not(*:subfield[@code = "1"]) and *:subfield[@code = "a"] = "Fossum, Karin"]
+return (insert nodes (<subfield code="1">http://viaf.org/viaf/120627630</subfield>,<subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>) into $datafield)
