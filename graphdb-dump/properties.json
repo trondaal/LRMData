@@ -431,6 +431,21 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004/tvmanus"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake (tv-manus)"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/86862314"
                 },
                 "label": {
@@ -1761,6 +1776,51 @@
                 "value": {
                     "type": "literal",
                     "value": "\u00d6rnkloo, Ulf"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/315556159"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "name"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Vikene, \u00c5se"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/228991488"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "dates"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1951-"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/228991488"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "name"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Lund, Trini"
                 }
             },
             {
@@ -6176,7 +6236,7 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob"
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/und/1013"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -6191,7 +6251,52 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob"
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/und/1013"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/und/1013"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob/1013/228991488"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlepreferred"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob/1013/228991488"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -6206,7 +6311,7 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob"
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob/1013/228991488"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -6221,22 +6326,7 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/und/1013"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "titlepreferred"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Se deg ikke tilbake"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/und/1013"
+                    "value": "http://viaf.org/viaf/9129151051843933530004/tvmanus/exp/nob/1020"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -6251,7 +6341,7 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/und/1013"
+                    "value": "http://viaf.org/viaf/9129151051843933530004/tvmanus/exp/nob/1020"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -6260,7 +6350,7 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "Se deg ikke tilbake"
+                    "value": "Se deg ikke tilbake (tv-manus)"
                 }
             },
             {

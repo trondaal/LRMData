@@ -2411,6 +2411,21 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://example.org/990308325514702202"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004/tvmanus/exp/nob/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-8202158885"
                 },
                 "l": {
@@ -2540,7 +2555,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob"
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob/1013/228991488"
                 }
             },
             {
@@ -2555,7 +2570,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob"
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob/1013/228991488"
                 }
             },
             {
@@ -2570,7 +2585,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob"
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob/1020"
                 }
             },
             {
@@ -2615,7 +2630,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob"
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob/1020"
                 }
             },
             {
@@ -4271,7 +4286,7 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob"
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/und/1013"
                 },
                 "l": {
                     "xml:lang": "gden",
@@ -4286,7 +4301,7 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/und/1013"
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob/1013/228991488"
                 },
                 "l": {
                     "xml:lang": "gden",
@@ -4296,6 +4311,21 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/9129151051843933530004"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004/tvmanus/exp/nob/1020"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004/tvmanus"
                 }
             }
         ]

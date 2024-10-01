@@ -4080,10 +4080,17 @@
         <datafield tag="100" ind1="1" ind2=" ">
             <subfield code="a">Vikene, Åse</subfield>
             <subfield code="0">(NO-TrBIB)2038291</subfield>
+            <subfield code="1">http://viaf.org/viaf/315556159</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="0">
             <subfield code="a">Se deg ikke tilbake</subfield>
             <subfield code="c">av Karin Fossum ; dramatisert for fjernsyn av Åse Vikene</subfield>
+        </datafield>
+        <datafield tag="240" ind1="0" ind2="0">
+            <subfield code="a">Se deg ikke tilbake (tv-manus)</subfield>
+            <subfield code="k">TV-manus</subfield>
+            <subfield code="1">http://viaf.org/viaf/9129151051843933530004/tvmanus</subfield>
         </datafield>
         <datafield tag="260" ind1=" " ind2=" ">
             <subfield code="a">[Oslo]</subfield>
@@ -4092,6 +4099,21 @@
         </datafield>
         <datafield tag="300" ind1=" " ind2=" ">
             <subfield code="a">208 bl.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">tekst</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">uformidlet</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">bind</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+            <subfield code="2">rdact</subfield>
         </datafield>
         <datafield tag="500" ind1=" " ind2=" ">
             <subfield code="a">Inneholder 4. episoder: Pike savnet, Fedre, Skjulte spor, Møte med en morder</subfield>
@@ -4416,6 +4438,18 @@
             <subfield code="b">digital</subfield>
             <subfield code="c">12 cm, i eske</subfield>
         </datafield>
+        <datafield tag="336" ind1=" " ind2=" " a="t">
+            <subfield code="a">spoken word</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1013</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" " a="t">
+            <subfield code="a">audio</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1001</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" " a="t">
+            <subfield code="a">audio disc</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1004</subfield>
+        </datafield>
         <datafield tag="500" ind1=" " ind2=" ">
             <subfield code="a">Lest av Trini Lund</subfield>
         </datafield>
@@ -4424,6 +4458,9 @@
             <subfield code="d">1951-</subfield>
             <subfield code="e">medarb.</subfield>
             <subfield code="0">(NO-TrBIB)98025238</subfield>
+            <subfield code="1">http://viaf.org/viaf/228991488</subfield>
+            <subfield code="4">nrt</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20022</subfield>
         </datafield>
     </record>
     <record>
@@ -4496,6 +4533,19 @@
             <subfield code="b">digital</subfield>
             <subfield code="c">12 cm, i omslag</subfield>
         </datafield>
+        <datafield tag="336" ind1=" " ind2=" " a="t">
+            <subfield code="a">spoken word</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1013</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" " a="t">
+            <subfield code="a">audio</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1001</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" " a="t">
+            <subfield code="a">audio disc</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1004</subfield>
+        </datafield>
+        
         <datafield tag="500" ind1=" " ind2=" ">
             <subfield code="a">1. lydbokutg. Billingstad : Fono, 1996</subfield>
         </datafield>
@@ -4507,6 +4557,9 @@
             <subfield code="d">1951-</subfield>
             <subfield code="e">medarb.</subfield>
             <subfield code="0">(NO-TrBIB)98025238</subfield>
+            <subfield code="1">http://viaf.org/viaf/228991488</subfield>
+            <subfield code="4">nrt</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20022</subfield>
         </datafield>
     </record>
     <record>
@@ -4778,6 +4831,18 @@
         <datafield tag="300" ind1=" " ind2=" ">
             <subfield code="a">1 fil</subfield>
             <subfield code="b">EPUB</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" " a="t">
+            <subfield code="a">text</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" " a="t">
+            <subfield code="a">computer</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1003</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" " a="t">
+            <subfield code="a">online</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1018</subfield>
         </datafield>
         <datafield tag="500" ind1=" " ind2=" ">
             <subfield code="a">Tittel fra tittelskjermbildet</subfield>
@@ -5413,19 +5478,19 @@
             <subfield code="c">21 cm</subfield>
         </datafield>
         <datafield tag="336" ind1=" " ind2=" ">
-            <subfield code="a">text</subfield>
-            <subfield code="b">txt</subfield>
-            <subfield code="2">rdacontent</subfield>
+            <subfield code="a">tekst</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+            <subfield code="2">rdaco</subfield>
         </datafield>
         <datafield tag="337" ind1=" " ind2=" ">
-            <subfield code="a">unmediated</subfield>
-            <subfield code="b">n</subfield>
-            <subfield code="2">rdamedia</subfield>
+            <subfield code="a">uformidlet</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+            <subfield code="2">rdamt</subfield>
         </datafield>
         <datafield tag="338" ind1=" " ind2=" ">
-            <subfield code="a">volume</subfield>
-            <subfield code="b">nc</subfield>
-            <subfield code="2">rdacarrier</subfield>
+            <subfield code="a">bind</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+            <subfield code="2">rdact</subfield>
         </datafield>
         <datafield tag="490" ind1="1" ind2=" ">
             <subfield code="a">En Konrad Sejer-krim</subfield>
