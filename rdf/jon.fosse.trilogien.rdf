@@ -1,0 +1,2622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:map="http://www.w3.org/2005/xpath-functions/map"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:rdac="http://rdaregistry.info/Elements/c/"
+         xmlns:rdaad="http://rdaregistry.info/Elements/a/datatype/"
+         xmlns:rdaao="http://rdaregistry.info/Elements/a/object/"
+         xmlns:rdawd="http://rdaregistry.info/Elements/w/datatype/"
+         xmlns:rdawo="http://rdaregistry.info/Elements/w/object/"
+         xmlns:rdaed="http://rdaregistry.info/Elements/e/datatype/"
+         xmlns:rdaeo="http://rdaregistry.info/Elements/e/object/"
+         xmlns:rdamd="http://rdaregistry.info/Elements/m/datatype/"
+         xmlns:rdamo="http://rdaregistry.info/Elements/m/object/"
+         xmlns:rdaxd="http://rdaregistry.info/Elements/x/datatype/"
+         xmlns:mads="http://www.loc.gov/mads/rdf/v1#"
+         xmlns:mmmm="http://www.loc.gov/MARC21/slim/"
+         xmlns:rdaco="http://rdaregistry.info/termList/RDAContentType/"
+         xmlns:rdact="http://rdaregistry.info/termList/RDACarrierType/"
+         xmlns:rdamt="http://rdaregistry.info/termList/RDAMediaType/"
+         xmlns:rdat="http://rdaregistry.info/termList/"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:ex="http://www.example.org/">
+   <rdac:C10001 rdf:about="http://example.com/edda">
+      <rdaxd:P00018>http://example.com/edda</rdaxd:P00018>
+      <rdawd:P10088>Edda</rdawd:P10088>
+      <rdfs:label>Edda (Fosse, Jon)</rdfs:label>
+      <rdaxd:P00029>Play</rdaxd:P00029>
+      <rdawd:P10330>Gudedikta i det som i dag vert kalla Den eldre Edda, har levd i folkemunne i uviss tid før dei blei skrivne ned på Island på 1200- og 1300-talet. Samlinga har blitt gjenoppdaga på midten av 1600-talet og sidan, saman med Snorre-Edda (Den yngre Edda), vore det mest sentrale verket i den norrøne mytologien. Den sceniske versjonen til Jon Fosse byggjer på fleire av dei kjende dikta som Voluspå, Vavtrudnesmål, Grimnesmål, Trymskvida, Loketretta og Balders draumar. Fosse har gitt dikta si personlege form. Han har skrive ein dramatisk dialog med sterke musikalske og rytmiske kvalitetar, og han maktar å flytte historiene nær oss, samstundes som han held forteljingane og ideane framande og fjerne. Jon Fosse (f. 1959) kjem frå Strandebarm og er no busett i Grotten, statens æresbustad for kunstnarar i Oslo. Han er ein av Noregs viktigaste, nolevande forfattarar og dramatikarar og har stort renommé både i inn- og utlandet, og hans litterære verk er omsette til over 40 språk. Fosse debuterte som skjønnlitterær forfattar i 1983, og har seinare gitt ut både romanar, diktsamlingar, barnebøker og ei essaysamling. I 1993 debuterte han som dramatikar. Skodespela blei hans store internasjonale gjennombrot og er sette opp over tusen gonger over heile verda. Fosse har motteke ei rekkje nasjonale og internasjonale prisar og er av kritikarar blitt omtalt som det 21. hundreårets Beckett. I 2015 vann han Nordisk Råds Litteraturpris for Andvake-trilogien. Boka Fridtjov &amp; Ingebjørg, illustrert av Oddvar Torsheim og formgitt av Silje Nes, vann i 2015 sølv i kåringa Årets vakreste bøker.</rdawd:P10330>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34494041"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://example.com/enkeltogdjupt">
+      <rdaxd:P00018>http://example.com/enkeltogdjupt</rdaxd:P00018>
+      <rdawd:P10088>Jon Fosse - enkelt og djupt</rdawd:P10088>
+      <rdfs:label>Jon Fosse - enkelt og djupt (Landro, Jan H.)</rdfs:label>
+      <rdawd:P10330>Jon Fosse - enkelt og djupt tek lesaren med inn i det særs fasinerande universet til ein av våre største nolevande forfattarar. For første gong vert alle romanane og dei lengre forteljingane hans presenterte og analyserte, kronologisk ordna frå debutromanen Raudt, svart til og med romansyklusen Septologien. Landro deler kunnskapen sin om korleis kvar enkelt bok er blitt til og knyter dette til andre deler av forfattarskapen. Dramatikken og lyrikken til Fosse blir trekt inn i analysane for å kaste lys over samanhengar og utviklingstrekk. I eit omfattande intervju gir Jon Fosse eit interessant innblikk i skrivinga si. Der fortel han korleis han arbeider og kva som ligg bak forfattarskapen. Han kommenterer sjølv bøkene som er analyserte, og går dels i dialog med analysane.</rdawd:P10330>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/5145531"/>
+      <rdawo:P10319 rdf:resource="http://viaf.org/viaf/34494041"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://example.com/gammelmodig">
+      <rdaxd:P00018>http://example.com/gammelmodig</rdaxd:P00018>
+      <rdawd:P10088>Gammelmodig, men lettlest Jon Fosse</rdawd:P10088>
+      <rdfs:label>Gammelmodig, men lettlest Jon Fosse (Økland, Ingunn)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/227983918"/>
+      <rdawo:P10257 rdf:resource="http://viaf.org/viaf/1535159478113827990002"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://example.com/jonfosseiskulen">
+      <rdaxd:P00018>http://example.com/jonfosseiskulen</rdaxd:P00018>
+      <rdawd:P10088>Jon Fosse i skulen</rdawd:P10088>
+      <rdfs:label>Jon Fosse i skulen</rdfs:label>
+      <rdawd:P10330>Jon Fosse sine tekstar er godt eigna både til konsentrert stillelesing, aktiv utforsking og framføringar på skulescenar. Urøynde lesarar blir fanga av korte tekstar som overraskar, røynde lesarar finn nytt å bryne seg på. Dei relativt små tekstane i ulike sjangrar passar særleg godt til klasseromsbruk og opnar for variert didaktisk tilrettelegging og individuell tilpassing av undervisninga. Lesing av utfordrande tekstar i skulen er eit aktuelt vitskapsfelt i litteraturdidaktikken. Med grunnlag i oppdatert forsking bidrar denne fagfellevurderte antologien med ny innsikt om Jon Fosses ulike sjangrar og bruken av desse i skulen. Boka er skriven for lærarstudentar både på grunn- og vidareutdanninga og har eit gjennomgåande didaktisk perspektiv. Dag Skarstein er førsteamanuensis i norsk og Inger Vederhus er førstelektor i norsk ved OsloMet - Storbyuniversitetet. Dei er begge tilsett ved lærarutdanninga.</rdawd:P10330>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/8145970127732251200"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/1148207730500341681"/>
+      <rdawo:P10319 rdf:resource="http://viaf.org/viaf/34494041"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://example.org/fangetifortid">
+      <rdaxd:P00018>http://example.org/fangetifortid</rdaxd:P00018>
+      <rdawd:P10088>Fanget i fortid</rdawd:P10088>
+      <rdfs:label>Fanget i fortid (Langås, Unni)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/54314374"/>
+      <rdawo:P10257 rdf:resource="http://viaf.org/viaf/312484318"/>
+      <rdawo:P10257 rdf:resource="http://viaf.org/viaf/308067563"/>
+      <rdawo:P10257 rdf:resource="http://viaf.org/viaf/1535159478113827990002"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://example.org/jonfosseandvaketrilogien">
+      <rdaxd:P00018>http://example.org/jonfosseandvaketrilogien</rdaxd:P00018>
+      <rdawd:P10088>Jon Fosse: Andvake-trilogien</rdawd:P10088>
+      <rdfs:label>Jon Fosse: Andvake-trilogien (Bekkelund, Anne Siri Koksrud)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/2163456548504814732"/>
+      <rdawo:P10257 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+      <rdawo:P10257 rdf:resource="http://viaf.org/viaf/3303165326534316290003"/>
+      <rdawo:P10257 rdf:resource="http://viaf.org/viaf/1535159478113827990002"/>
+      <rdawo:P10257 rdf:resource="http://viaf.org/viaf/1062164661877003390007"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://example.org/jonfosseogskriftmystikk">
+      <rdaxd:P00018>http://example.org/jonfosseogskriftmystikk</rdaxd:P00018>
+      <rdawd:P10088>Jon Fosse og skriftmystikk</rdawd:P10088>
+      <rdfs:label>Jon Fosse og skriftmystikk (Tungevåg, Emmy)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/283171191105658030004"/>
+      <rdawo:P10257 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+      <rdawo:P10257 rdf:resource="http://viaf.org/viaf/3303165326534316290003"/>
+      <rdawo:P10257 rdf:resource="http://viaf.org/viaf/1535159478113827990002"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://example.org/jonfosseprosivinnerisærklasse">
+      <rdaxd:P00018>http://example.org/jonfosseprosivinnerisærklasse</rdaxd:P00018>
+      <rdawd:P10088>Jon Fosse - prisvinnar i særklasse</rdawd:P10088>
+      <rdfs:label>Jon Fosse - prisvinnar i særklasse (Skei, Hans H.)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/94400144"/>
+      <rdawo:P10257 rdf:resource="http://viaf.org/viaf/1062164661877003390007"/>
+      <rdawo:P10319 rdf:resource="http://viaf.org/viaf/34494041"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://example.org/krimromanfrajonfosse">
+      <rdaxd:P00018>http://example.org/krimromanfrajonfosse</rdaxd:P00018>
+      <rdawd:P10088>Krimroman fra Jon Fosse</rdawd:P10088>
+      <rdfs:label>Krimroman fra Jon Fosse (Sture, Stefan Andreas)</rdfs:label>
+      <rdaxd:P00029>Review</rdaxd:P00029>
+      <rdawo:P10257 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://example.org/svævetsestetikk">
+      <rdaxd:P00018>http://example.org/svævetsestetikk</rdaxd:P00018>
+      <rdawd:P10088>Svævets æstetik</rdawd:P10088>
+      <rdfs:label>Svævets æstetik (Lehmann, Niels)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://bare.no/90790318"/>
+      <rdawo:P10257 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+      <rdawo:P10257 rdf:resource="http://viaf.org/viaf/3303165326534316290003"/>
+      <rdawo:P10257 rdf:resource="http://viaf.org/viaf/1535159478113827990002"/>
+      <rdawo:P10257 rdf:resource="http://viaf.org/viaf/1062164661877003390007"/>
+      <rdawo:P10319 rdf:resource="http://viaf.org/viaf/34494041"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/1062164661877003390007">
+      <rdaxd:P00018>http://viaf.org/viaf/1062164661877003390007</rdaxd:P00018>
+      <rdawd:P10088>Trilogien</rdawd:P10088>
+      <rdfs:label>Trilogien (Fosse, Jon)</rdfs:label>
+      <rdaxd:P00029>Novel collection</rdaxd:P00029>
+      <rdawd:P10330>Her er kjærleikstrilogien om Asle og Alida samla mellom to permar. I Andvake (2007) møter vi det unge paret medan dei er i Bjørgvin for å finne arbeid. Det hastar, Alida er gravid og treng sårt ein plass å bu saman med kjærasten. I den andre boka, Olavs draumar (2012), er barnet fødd og paret forlét Bjørgvin. Asle har endra namnet sitt til Olav, og vil tilbake for å kjøpe ei gåve til Alida. Men det går ikkje som han har tenkt seg. I Kveldsvævd (2014) følgjer lesaren dotter deira, Ales, og gjennom ho får vi vite korleis det gjekk med Alida og Asle. Kva for konsekvensar har avgjerdslene deira fått for dei som kom etter? Trilogien vant Nordisk råds litteraturpris 2015.</rdawd:P10330>
+      <rdawd:P10330>Her er kjærleikstrilogien om Asle og Alida samla mellom to permar. I Andvake (2007) møter vi det unge paret medan dei er i Bjørgvin for å finne arbeid. Det hastar, Alida er gravid og treng sårt ein plass å bu saman med kjærasten. I den andre boka, Olavs draumar (2012), er barnet fødd og paret forlét Bjørgvin. Asle har endra namnet sitt til Olav, og vil tilbake for å kjøpe ei gåve til Alida. Men det går ikkje som han har tenkt seg. I Kveldsvævd (2014) følgjer lesaren dotter deira, Ales, og gjennom ho får vi vite korleis det gjekk med Alida og Asle. Kva for konsekvensar har avgjerdslene deira fått for dei som kom etter? Trilogien vann Nordisk råds litteraturpris 2015.</rdawd:P10330>
+      <rdawd:P10330>Inneholder tre romaner</rdawd:P10330>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34494041"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/1535159478113827990002"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/3303165326534316290003"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/1062164661877003390007/dramatisering">
+      <rdaxd:P00018>http://viaf.org/viaf/1062164661877003390007/dramatisering</rdaxd:P00018>
+      <rdawd:P10088>Trilogien : dramatisering</rdawd:P10088>
+      <rdfs:label>Trilogien : dramatisering (Fosse, Jon)</rdfs:label>
+      <rdaxd:P00029>Play</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34494041"/>
+      <rdawo:P10127 rdf:resource="http://viaf.org/viaf/1062164661877003390007"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/1535159478113827990002">
+      <rdaxd:P00018>http://viaf.org/viaf/1535159478113827990002</rdaxd:P00018>
+      <rdawd:P10088>Olavs draumar</rdawd:P10088>
+      <rdfs:label>Olavs draumar (Fosse, Jon)</rdfs:label>
+      <rdaxd:P00029>Novel</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34494041"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/1535159478113827990002/musikk">
+      <rdaxd:P00018>http://viaf.org/viaf/1535159478113827990002/musikk</rdaxd:P00018>
+      <rdawd:P10088>Olavs draumar</rdawd:P10088>
+      <rdfs:label>Olavs draumar (Hellstenius, Henrik)</rdfs:label>
+      <rdaxd:P00029>Novel</rdaxd:P00029>
+      <rdawo:P10053 rdf:resource="http://viaf.org/viaf/261626873"/>
+      <rdawo:P10204 rdf:resource="http://viaf.org/viaf/34494041"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/308067563">
+      <rdaxd:P00018>http://viaf.org/viaf/308067563</rdaxd:P00018>
+      <rdawd:P10088>Naustet</rdawd:P10088>
+      <rdfs:label>Naustet (Fosse, Jon)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/312484318">
+      <rdaxd:P00018>http://viaf.org/viaf/312484318</rdaxd:P00018>
+      <rdawd:P10088>Det er Ales</rdawd:P10088>
+      <rdfs:label>Det er Ales (Fosse, Jon)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/3303165326534316290003">
+      <rdaxd:P00018>http://viaf.org/viaf/3303165326534316290003</rdaxd:P00018>
+      <rdawd:P10088>Kveldsvævd</rdawd:P10088>
+      <rdfs:label>Kveldsvævd (Fosse, Jon)</rdfs:label>
+      <rdaxd:P00029>Novel</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34494041"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/7707165326352216290002">
+      <rdaxd:P00018>http://viaf.org/viaf/7707165326352216290002</rdaxd:P00018>
+      <rdawd:P10088>Andvake</rdawd:P10088>
+      <rdfs:label>Andvake (Fosse, Jon)</rdfs:label>
+      <rdaxd:P00029>Novel</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/34494041"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/7707165326352216290002/play/program">
+      <rdaxd:P00018>http://viaf.org/viaf/7707165326352216290002/play/program</rdaxd:P00018>
+      <rdawd:P10088>Andvake</rdawd:P10088>
+      <rdfs:label>Andvake</rdfs:label>
+      <rdaxd:P00029>Theatre program</rdaxd:P00029>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/7707165326352216290002/program">
+      <rdaxd:P00018>http://viaf.org/viaf/7707165326352216290002/program</rdaxd:P00018>
+      <rdawd:P10088>Andvake</rdawd:P10088>
+      <rdfs:label>Andvake</rdfs:label>
+      <rdaxd:P00029>Program</rdaxd:P00029>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/7707165326352216290002/samtale">
+      <rdaxd:P00018>http://viaf.org/viaf/7707165326352216290002/samtale</rdaxd:P00018>
+      <rdawd:P10088>Andvake i eit klasserom</rdawd:P10088>
+      <rdfs:label>Andvake i eit klasserom (Vederhus, Inger)</rdfs:label>
+      <rdaxd:P00029>Non fiction</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/1148207730500341681"/>
+      <rdawo:P10257 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10001>
+   <rdac:C10002 rdf:about="http://example.org/">
+      <rdaxd:P00018>(NO-TrBIB)6011486</rdaxd:P00018>
+      <rdaad:P50385>Andersson, Urban</rdaad:P50385>
+      <rdfs:label>Andersson, Urban</rdfs:label>
+      <rdaad:P50339>1938-2019</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://bare.no/8082914">
+      <rdaxd:P00018>http://bare.no/8082914</rdaxd:P00018>
+      <rdaad:P50385>Brückner, Christian</rdaad:P50385>
+      <rdfs:label>Brückner, Christian</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://bare.no/90790318">
+      <rdaxd:P00018>http://bare.no/90790318</rdaxd:P00018>
+      <rdaad:P50385>Lehmann, Niels</rdaad:P50385>
+      <rdfs:label>Lehmann, Niels</rdfs:label>
+      <rdaad:P50339>1962-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://example.org/abdel">
+      <rdaxd:P00018>http://example.org/abdel</rdaxd:P00018>
+      <rdaad:P50385>Abdel Wahab, Sherin</rdaad:P50385>
+      <rdfs:label>Abdel Wahab, Sherin</rdfs:label>
+      <rdaad:P50339>1968-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://example.org/akerholt">
+      <rdaxd:P00018>http://example.org/akerholt</rdaxd:P00018>
+      <rdaad:P50385>Akerholt, May-Brit</rdaad:P50385>
+      <rdfs:label>Akerholt, May-Brit</rdfs:label>
+      <rdaad:P50339>1943-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://example.org/andersson">
+      <rdaxd:P00018>http://example.org/andersson</rdaxd:P00018>
+      <rdaad:P50385>Andersson, Urban</rdaad:P50385>
+      <rdfs:label>Andersson, Urban</rdfs:label>
+      <rdaad:P50339>1938-2019</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://example.org/braga">
+      <rdaxd:P00018>http://example.org/braga</rdaxd:P00018>
+      <rdaad:P50385>Braga, Guilherme da Silva</rdaad:P50385>
+      <rdfs:label>Braga, Guilherme da Silva</rdfs:label>
+      <rdaad:P50339>1981-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://example.org/dzelepova">
+      <rdaxd:P00018>http://example.org/dzelepova</rdaxd:P00018>
+      <rdaad:P50385>Dželepova, Stela</rdaad:P50385>
+      <rdfs:label>Dželepova, Stela</rdfs:label>
+      <rdaad:P50339>1988-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://example.org/eide">
+      <rdaxd:P00018>http://example.org/eide</rdaxd:P00018>
+      <rdaad:P50385>Eide, Anderz</rdaad:P50385>
+      <rdfs:label>Eide, Anderz</rdfs:label>
+      <rdaad:P50339>1975-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://example.org/falcinella">
+      <rdaxd:P00018>http://example.org/falcinella</rdaxd:P00018>
+      <rdaad:P50385>Falcinella, Cristina</rdaad:P50385>
+      <rdfs:label>Falcinella, Cristina</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://example.org/fedorova">
+      <rdaxd:P00018>http://example.org/fedorova</rdaxd:P00018>
+      <rdaad:P50385>Fedorova, Nina</rdaad:P50385>
+      <rdfs:label>Fedorova, Nina</rdfs:label>
+      <rdaad:P50339>1943-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://example.org/jensen">
+      <rdaxd:P00018>http://example.org/jensen</rdaxd:P00018>
+      <rdaad:P50385>Jensen, Jannie</rdaad:P50385>
+      <rdfs:label>Jensen, Jannie</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://example.org/martins">
+      <rdaxd:P00018>http://example.org/martins</rdaxd:P00018>
+      <rdaad:P50385>Martins, Liliete</rdaad:P50385>
+      <rdfs:label>Martins, Liliete</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://example.org/molenaar">
+      <rdaxd:P00018>http://example.org/molenaar</rdaxd:P00018>
+      <rdaad:P50385>Molenaar, Marianne</rdaad:P50385>
+      <rdfs:label>Molenaar, Marianne</rdfs:label>
+      <rdaad:P50339>1952-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://example.org/syvertsen">
+      <rdaxd:P00018>http://example.org/syvertsen</rdaxd:P00018>
+      <rdaad:P50385>Syvertsen, Banu G.</rdaad:P50385>
+      <rdfs:label>Syvertsen, Banu G.</rdfs:label>
+      <rdaad:P50339>1956-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://example.org/tace">
+      <rdaxd:P00018>http://example.org/tace</rdaxd:P00018>
+      <rdaad:P50385>Taçe, Durim</rdaad:P50385>
+      <rdfs:label>Taçe, Durim</rdfs:label>
+      <rdaad:P50339>1964-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://example.org/vain">
+      <rdaxd:P00018>http://example.org/vain</rdaxd:P00018>
+      <rdaad:P50385>Vain, Eha</rdaad:P50385>
+      <rdfs:label>Vain, Eha</rdfs:label>
+      <rdaad:P50339>1954-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/1148207730500341681">
+      <rdaxd:P00018>http://viaf.org/viaf/1148207730500341681</rdaxd:P00018>
+      <rdaad:P50385>Vederhus, Inger</rdaad:P50385>
+      <rdfs:label>Vederhus, Inger</rdfs:label>
+      <rdaad:P50339>1953-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/2163456548504814732">
+      <rdaxd:P00018>http://viaf.org/viaf/2163456548504814732</rdaxd:P00018>
+      <rdaad:P50385>Bekkelund, Anne Siri Koksrud</rdaad:P50385>
+      <rdfs:label>Bekkelund, Anne Siri Koksrud</rdfs:label>
+      <rdaad:P50339>1983-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/227983918">
+      <rdaxd:P00018>http://viaf.org/viaf/227983918</rdaxd:P00018>
+      <rdaad:P50385>Økland, Ingunn</rdaad:P50385>
+      <rdfs:label>Økland, Ingunn</rdfs:label>
+      <rdaad:P50339>1969-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/261626873">
+      <rdaxd:P00018>http://viaf.org/viaf/261626873</rdaxd:P00018>
+      <rdaad:P50385>Hellstenius, Henrik</rdaad:P50385>
+      <rdfs:label>Hellstenius, Henrik</rdfs:label>
+      <rdaad:P50339>1963-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/27145970323532252301">
+      <rdaxd:P00018>http://viaf.org/viaf/27145970323532252301</rdaxd:P00018>
+      <rdaad:P50385>Hjalti Rögnvaldsson</rdaad:P50385>
+      <rdfs:label>Hjalti Rögnvaldsson</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/283171191105658030004">
+      <rdaxd:P00018>http://viaf.org/viaf/283171191105658030004</rdaxd:P00018>
+      <rdaad:P50385>Tungevåg, Emmy</rdaad:P50385>
+      <rdfs:label>Tungevåg, Emmy</rdfs:label>
+      <rdaad:P50339>1957-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/34494041">
+      <rdaxd:P00018>http://viaf.org/viaf/34494041</rdaxd:P00018>
+      <rdaad:P50385>Fosse, Jon</rdaad:P50385>
+      <rdfs:label>Fosse, Jon</rdfs:label>
+      <rdaad:P50339>1959-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/39404666">
+      <rdaxd:P00018>http://viaf.org/viaf/39404666</rdaxd:P00018>
+      <rdaad:P50385>Sinding, Terje</rdaad:P50385>
+      <rdfs:label>Sinding, Terje</rdfs:label>
+      <rdaad:P50339>1945-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/5145531">
+      <rdaxd:P00018>http://viaf.org/viaf/5145531</rdaxd:P00018>
+      <rdaad:P50385>Landro, Jan H.</rdaad:P50385>
+      <rdfs:label>Landro, Jan H.</rdfs:label>
+      <rdaad:P50339>1948-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/54314374">
+      <rdaxd:P00018>http://viaf.org/viaf/54314374</rdaxd:P00018>
+      <rdaad:P50385>Langås, Unni</rdaad:P50385>
+      <rdfs:label>Langås, Unni</rdfs:label>
+      <rdaad:P50339>1957-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/66455936">
+      <rdaxd:P00018>http://viaf.org/viaf/66455936</rdaxd:P00018>
+      <rdaad:P50385>Sand Iversen, Karsten</rdaad:P50385>
+      <rdfs:label>Sand Iversen, Karsten</rdfs:label>
+      <rdaad:P50339>1944-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/78238585">
+      <rdaxd:P00018>http://viaf.org/viaf/78238585</rdaxd:P00018>
+      <rdaad:P50385>Dobos, Éva</rdaad:P50385>
+      <rdfs:label>Dobos, Éva</rdfs:label>
+      <rdaad:P50339>1955-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/79151651">
+      <rdaxd:P00018>http://viaf.org/viaf/79151651</rdaxd:P00018>
+      <rdaad:P50385>Schmidt-Henkel, Hinrich</rdaad:P50385>
+      <rdfs:label>Schmidt-Henkel, Hinrich</rdfs:label>
+      <rdaad:P50339>1959-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/8145970127732251200">
+      <rdaxd:P00018>http://viaf.org/viaf/8145970127732251200</rdaxd:P00018>
+      <rdaad:P50385>Skarstein, Dag</rdaad:P50385>
+      <rdfs:label>Skarstein, Dag</rdfs:label>
+      <rdaad:P50339>1971-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/82145970324232252454">
+      <rdaxd:P00018>http://viaf.org/viaf/82145970324232252454</rdaxd:P00018>
+      <rdaad:P50385>Fosse, Anna</rdaad:P50385>
+      <rdfs:label>Fosse, Anna</rdfs:label>
+      <rdaad:P50339>1986-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/85552885">
+      <rdaxd:P00018>http://viaf.org/viaf/85552885</rdaxd:P00018>
+      <rdaad:P50385>Vimr, Ondřej</rdaad:P50385>
+      <rdfs:label>Vimr, Ondřej</rdfs:label>
+      <rdaad:P50339>1978-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/86862314">
+      <rdaxd:P00018>http://viaf.org/viaf/86862314</rdaxd:P00018>
+      <rdaad:P50385>Baggethun, Kirsti</rdaad:P50385>
+      <rdfs:label>Baggethun, Kirsti</rdfs:label>
+      <rdaad:P50339>1944-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/94400144">
+      <rdaxd:P00018>http://viaf.org/viaf/94400144</rdaxd:P00018>
+      <rdaad:P50385>Skei, Hans H.</rdaad:P50385>
+      <rdfs:label>Skei, Hans H.</rdfs:label>
+      <rdaad:P50339>1945-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10006 rdf:about="http://example.com/edda/exp/nno">
+      <rdaed:P20316>Edda</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Edda : den eldre Edda i ein scenisk versjon</rdaed:P20312>
+      <rdaed:P20315>Edda</rdaed:P20315>
+      <rdfs:label>Edda (Fosse, Jon)</rdfs:label>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaeo:P20231 rdf:resource="http://example.com/edda"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://example.com/enkeltogdjupt/exp/nno/1020">
+      <rdaed:P20316>Jon Fosse - enkelt og djupt</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Jon Fosse - enkelt og djupt : om romanane og forteljingane hans</rdaed:P20312>
+      <rdfs:label>Jon Fosse - enkelt og djupt (Landro, Jan H.)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaeo:P20231 rdf:resource="http://example.com/enkeltogdjupt"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://example.com/gammelmodig/exp/nob/1020">
+      <rdaed:P20316>Gammelmodig, men lettlest Jon Fosse</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Gammelmodig, men lettlest Jon Fosse</rdaed:P20312>
+      <rdfs:label>Gammelmodig, men lettlest Jon Fosse (Økland, Ingunn)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://example.com/gammelmodig"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://example.com/jonfosseiskulen/exp/nno/1020">
+      <rdaed:P20316>Jon Fosse i skulen</rdaed:P20316>
+      <rdaed:P20312>Jon Fosse i skulen</rdaed:P20312>
+      <rdfs:label>Jon Fosse i skulen</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaeo:P20231 rdf:resource="http://example.com/jonfosseiskulen"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://example.org/fangetifortid/exp/nob/1020">
+      <rdaed:P20316>Fanget i fortid</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Fanget i fortid : tre traumefortellinger av Jon Fosse</rdaed:P20312>
+      <rdfs:label>Fanget i fortid (Langås, Unni)</rdfs:label>
+      <rdaed:P20312>Fanget i fortid : Jon Fosse: Naustet (1989), Det er Ales (2004), Olavs draumar (2012)</rdaed:P20312>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://example.org/fangetifortid"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://example.org/jonfosseandvaketrilogien/exp/nob/1020">
+      <rdaed:P20316>Jon Fosse: Andvake-trilogien</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Jon Fosse: Andvake-trilogien</rdaed:P20312>
+      <rdfs:label>Jon Fosse: Andvake-trilogien (Bekkelund, Anne Siri Koksrud)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://example.org/jonfosseandvaketrilogien"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://example.org/jonfosseogskriftmystikk/exp/nno/1020">
+      <rdaed:P20316>Jon Fosse og skriftmystikk</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Jon Fosse og skriftmystikk : en analyse av Andvake-trilogien med utgangspunkt i omgrepet skriftmystikk</rdaed:P20312>
+      <rdfs:label>Jon Fosse og skriftmystikk (Tungevåg, Emmy)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaeo:P20231 rdf:resource="http://example.org/jonfosseogskriftmystikk"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://example.org/jonfosseprosivinnerisærklasse/exp/nno/1020">
+      <rdaed:P20316>Jon Fosse - prisvinnar i særklasse</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Jon Fosse - prisvinnar i særklasse</rdaed:P20312>
+      <rdfs:label>Jon Fosse - prisvinnar i særklasse (Skei, Hans H.)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaeo:P20231 rdf:resource="http://example.org/jonfosseprosivinnerisærklasse"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://example.org/krimromanfrajonfosse/exp/nob/1020">
+      <rdaed:P20316>Krimroman fra Jon Fosse</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Krimroman fra Jon Fosse</rdaed:P20312>
+      <rdfs:label>Krimroman fra Jon Fosse (Sture, Stefan Andreas)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://example.org/krimromanfrajonfosse"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://example.org/svævetsestetikk/exp/dan/1020">
+      <rdaed:P20316>Svævets æstetik</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Svævets æstetik : Jon Fosse som den bestemte ubestemtheds mester</rdaed:P20312>
+      <rdfs:label>Svævets æstetik (Lehmann, Niels)</rdfs:label>
+      <rdfs:label>Svævets æstetik - Jon Fosse som den bestemte ubestemtheds mester (Lehmann, Niels)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dan"/>
+      <rdaeo:P20231 rdf:resource="http://example.org/svævetsestetikk"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1062164661877003390007/dramatisering/exp/nno/1020">
+      <rdaed:P20316>Trilogien : dramatisering</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Trilogien</rdaed:P20312>
+      <rdfs:label>Trilogien (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1062164661877003390007/dramatisering"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1062164661877003390007/exp/alb/1020/tace">
+      <rdaed:P20316>Trilogien</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Trilogji</rdaed:P20312>
+      <rdaed:P20071>Pagjumësi ; Ëndërr e Olafit ; Rraskapitje</rdaed:P20071>
+      <rdaed:P20315>Trilogji</rdaed:P20315>
+      <rdfs:label>Trilogji (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/alb"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/tace"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/alb/1020/tace"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/alb/1020/tace"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/alb/1020/tace"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1062164661877003390007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1062164661877003390007/exp/ara/1020/abdel">
+      <rdaed:P20316>Trilogien</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Thulāthīyat : riwāyah</rdaed:P20312>
+      <rdaed:P20315>Thulāthīyat</rdaed:P20315>
+      <rdfs:label>Thulāthīyat (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ara"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/abdel"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1062164661877003390007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1062164661877003390007/exp/bul/1020/dzelepova">
+      <rdaed:P20316>Trilogien</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Trilogija : Bdenie, Blenuvanijata na Ulav, Otmala</rdaed:P20312>
+      <rdaed:P20071>Bdenie ; Blenuvanijata na Ulav ; Otmala</rdaed:P20071>
+      <rdaed:P20315>Trilogija</rdaed:P20315>
+      <rdfs:label>Trilogija (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/bul"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/dzelepova"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/bul/1020/dzelepova"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/bul/1020/dzelepova"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/bul/1020/dzelepova"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1062164661877003390007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1062164661877003390007/exp/eng/1020/akerholt">
+      <rdaed:P20316>Trilogien</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Trilogy</rdaed:P20312>
+      <rdaed:P20071>Innhold: Wakefulness ; Olav's dreams ; Weariness. Originaltitler henholdsvis: Andvake ; Olav's draumar ; Kveldsvævd</rdaed:P20071>
+      <rdaed:P20315>Trilogy</rdaed:P20315>
+      <rdfs:label>Trilogy (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/akerholt"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/eng/1020/akerholt"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/eng/1020/akerholt"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/eng/1020/akerholt"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1062164661877003390007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1062164661877003390007/exp/est/1020/vain">
+      <rdaed:P20316>Trilogien</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Triloogia : Unetu, Olavi unenäod, Õhtuväsimus</rdaed:P20312>
+      <rdaed:P20071>Innhold: Unetu ; Olavi unenäod ; Õhtuväsimu. Originaltitler henholdsvis: Andvake ; Olavs draumar ; Kveldsvævd</rdaed:P20071>
+      <rdaed:P20315>Triloogia</rdaed:P20315>
+      <rdfs:label>Triloogia (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/est"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/vain"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/est/1020/vain"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/est/1020/vain"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/est/1020/vain"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1062164661877003390007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1062164661877003390007/exp/ger/1020/79151651">
+      <rdaed:P20316>Trilogien</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Trilogie : Schlaflos, Olavs Träume, Abendmattigkeit</rdaed:P20312>
+      <rdaed:P20071>Innhold: Schlaflos ; Olavs Träume ; Abendmattigkeit. Originaltitler henholdsvis: Andvake ; Olavs draumar ; Kveldsvævd</rdaed:P20071>
+      <rdaed:P20315>Trilogie</rdaed:P20315>
+      <rdfs:label>Trilogie (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/79151651"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/ger/1020/79151651"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/ger/1020/79151651"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/ger/1020/79151651"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1062164661877003390007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1062164661877003390007/exp/hun/1020/78238585">
+      <rdaed:P20316>Trilogien</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Trilógia</rdaed:P20312>
+      <rdaed:P20071>Innhold: Álmatlanság ; Olav álma ; Esti dal. Originaltitler henholdsvis: Andvake ; Olavs draumar ; Kveldsvævd</rdaed:P20071>
+      <rdaed:P20315>Trilógia</rdaed:P20315>
+      <rdfs:label>Trilógia (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/hun"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/78238585"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/hun/1020/78238585"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/hun/1020/78238585"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/hun/1020/78238585"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1062164661877003390007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1062164661877003390007/exp/mac/1020">
+      <rdaed:P20316>Trilogien</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Trilogija : Budnost ; Soništata na Olav ; Zamor</rdaed:P20312>
+      <rdaed:P20315>Trilogija</rdaed:P20315>
+      <rdfs:label>Trilogija (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mac"/>
+      <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/mac/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/mac/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/mac/1020"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1062164661877003390007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1062164661877003390007/exp/nno/1020">
+      <rdaed:P20316>Trilogien</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Trilogien</rdaed:P20312>
+      <rdfs:label>Trilogien (Fosse, Jon)</rdfs:label>
+      <rdaed:P20071>Andvake ; Olavs draumar ; Kveldsvævd. 1. utg. henholdsvis 2007, 2012 og 2014</rdaed:P20071>
+      <rdaed:P20071>Andvake -- Olavs draumar -- Kveldsvævd</rdaed:P20071>
+      <rdaed:P20315>Trilogien</rdaed:P20315>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/nno/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/nno/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/nno/1020"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1062164661877003390007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1062164661877003390007/exp/nno/eide">
+      <rdaed:P20316>Trilogien</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Trilogien</rdaed:P20312>
+      <rdfs:label>Trilogien (Fosse, Jon)</rdfs:label>
+      <rdaed:P20071>Andvake ; Olavs draumar ; Kveldsvævd</rdaed:P20071>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaeo:P20022 rdf:resource="http://example.org/eide"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/nno/eide"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/nno/eide"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/nno/eide"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1062164661877003390007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1062164661877003390007/exp/nor/1020">
+      <rdaed:P20316>Short stories</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20316>Trilogien</rdaed:P20316>
+      <rdaed:P20312>Trilogien</rdaed:P20312>
+      <rdfs:label>Trilogien (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nor"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/nor/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/nor/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/nor/1020"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1062164661877003390007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1062164661877003390007/exp/por/1020/braga">
+      <rdaed:P20316>Trilogien</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Triologia : Vigíla, Os sonhos de Olav e Repouso</rdaed:P20312>
+      <rdaed:P20071>Vigília ; Os sonhos de Olav ; Repouso</rdaed:P20071>
+      <rdaed:P20315>Triologia</rdaed:P20315>
+      <rdfs:label>Triologia (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/por"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/braga"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/por/1020/braga"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/por/1020/braga"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/por/1020/braga"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1062164661877003390007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1062164661877003390007/exp/por/1020/martins">
+      <rdaed:P20316>Trilogien</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Trilogia</rdaed:P20312>
+      <rdaed:P20071>Vigília ; Os sonhos de Olav ; Fadiga</rdaed:P20071>
+      <rdaed:P20315>Trilogia</rdaed:P20315>
+      <rdfs:label>Trilogia (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/por"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/martins"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/por/1020/martins"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/por/1020/martins"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/por/1020/martins"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1062164661877003390007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1062164661877003390007/exp/slo/1020/82145970324232252454">
+      <rdaed:P20316>Trilogien</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Trilógia</rdaed:P20312>
+      <rdaed:P20071>Bdenie ; Na sklonku dňa ; Sny Olavove</rdaed:P20071>
+      <rdaed:P20315>Trilógia</rdaed:P20315>
+      <rdfs:label>Trilógia (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/slo"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/82145970324232252454"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/slo/1020/82145970324232252454"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/slo/1020/82145970324232252454"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/slo/1020/82145970324232252454"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1062164661877003390007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1062164661877003390007/exp/spa/1020/86862314">
+      <rdaed:P20316>Trilogien</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Trilogía</rdaed:P20312>
+      <rdaed:P20071>Vigilia ; Los sueños de Olav ; Desaliento</rdaed:P20071>
+      <rdaed:P20315>Trilogía</rdaed:P20315>
+      <rdfs:label>Trilogía (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/86862314"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/spa/1020/86862314"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/spa/1020/86862314"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/spa/1020/86862314"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1062164661877003390007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1062164661877003390007/exp/swe/1020/andersson">
+      <rdaed:P20316>Trilogien</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Trilogin</rdaed:P20312>
+      <rdaed:P20071>Innhold: Sömnlösa ; Olavs drömmar ; Kvällning</rdaed:P20071>
+      <rdaed:P20315>Trilogin</rdaed:P20315>
+      <rdfs:label>Trilogin (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/swe"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/andersson"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/swe/1020/andersson"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/swe/1020/andersson"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/swe/1020/andersson"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1062164661877003390007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1062164661877003390007/exp/tur/1020/syvertsen">
+      <rdaed:P20316>Trilogien</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Üçleme : Uyanıklık, Olav'ın Hayalleri, Gece Yorgunu</rdaed:P20312>
+      <rdaed:P20071>Uyanıklık ; Olav'ın hayalleri ; Gece yorgunu</rdaed:P20071>
+      <rdaed:P20315>Üçleme</rdaed:P20315>
+      <rdfs:label>Üçleme (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/tur"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/syvertsen"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1062164661877003390007"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1535159478113827990002/exp/alb/1020/tace">
+      <rdaed:P20312>Olavs draumar</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Olavs draumar (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Ëndërr e Olafit</rdaed:P20315>
+      <rdfs:label>Ëndërr e Olafit (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/alb"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/tace"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1535159478113827990002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1535159478113827990002/exp/bul/1020/dzelepova">
+      <rdaed:P20312>Olavs draumar</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Olavs draumar (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Blenuvanijata na Ulav</rdaed:P20315>
+      <rdfs:label>Blenuvanijata na Ulav (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/bul"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/dzelepova"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1535159478113827990002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1535159478113827990002/exp/cze/1020/85552885">
+      <rdaed:P20316>Olavs draumar</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Sny Olavovy : vyprávění</rdaed:P20312>
+      <rdfs:label>Sny Olavovy (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/cze"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/85552885"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1535159478113827990002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1535159478113827990002/exp/dan/1020/66455936">
+      <rdaed:P20316>Olavs draumar</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Olavs drømme : fortælling</rdaed:P20312>
+      <rdaed:P20315>Olavs drømme</rdaed:P20315>
+      <rdfs:label>Olavs drømme (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dan"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/66455936"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1535159478113827990002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1535159478113827990002/exp/eng/1020/akerholt">
+      <rdaed:P20312>Olavs draumar</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Olavs draumar (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Olav's dreams</rdaed:P20315>
+      <rdfs:label>Olav's dreams (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/akerholt"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1535159478113827990002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1535159478113827990002/exp/est/1020/vain">
+      <rdaed:P20312>Olavs draumar</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Olavs draumar (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Olavi unenäod</rdaed:P20315>
+      <rdfs:label>Olavi unenäod (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/est"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/vain"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1535159478113827990002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1535159478113827990002/exp/fre/1020/39404666">
+      <rdaed:P20316>Olavs draumar</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Les rêves d'Olav</rdaed:P20312>
+      <rdaed:P20315>Olavs draumar</rdaed:P20315>
+      <rdfs:label>Olavs draumar (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/fre"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/39404666"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1535159478113827990002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1535159478113827990002/exp/ger/1020/79151651">
+      <rdaed:P20312>Olavs draumar</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Olavs draumar (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Olavs Träume</rdaed:P20315>
+      <rdfs:label>Olavs Träume (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/79151651"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1535159478113827990002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1535159478113827990002/exp/hun/1020/78238585">
+      <rdaed:P20312>Olavs draumar</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Olavs draumar (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Olav álma</rdaed:P20315>
+      <rdfs:label>Olav álma (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/hun"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/78238585"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1535159478113827990002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1535159478113827990002/exp/ice/1020/27145970323532252301">
+      <rdaed:P20316>Olavs draumar</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Draumar Ólafs : frásögn</rdaed:P20312>
+      <rdfs:label>Draumar Ólafs (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ice"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/27145970323532252301"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1535159478113827990002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1535159478113827990002/exp/mac/1020">
+      <rdaed:P20312>Olavs draumar</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Olavs draumar (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Soništata na Olav</rdaed:P20315>
+      <rdfs:label>Soništata na Olav (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mac"/>
+      <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1535159478113827990002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1535159478113827990002/exp/nno/1020">
+      <rdaed:P20316>Olavs draumar</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Olavs draumar : forteljing</rdaed:P20312>
+      <rdfs:label>Olavs draumar (Fosse, Jon)</rdfs:label>
+      <rdaed:P20312>Olavs draumar</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdaed:P20315>Olavs draumar</rdaed:P20315>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1535159478113827990002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1535159478113827990002/exp/nno/eide">
+      <rdaed:P20312>Olavs draumar</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Olavs draumar (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Olavs draumar</rdaed:P20315>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaeo:P20022 rdf:resource="http://example.org/eide"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1535159478113827990002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1535159478113827990002/exp/nor/1020">
+      <rdaed:P20312>Olavs draumar</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Olavs draumar (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Olavs draumar</rdaed:P20315>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nor"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1535159478113827990002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1535159478113827990002/exp/por/1020/braga">
+      <rdaed:P20312>Olavs draumar</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Olavs draumar (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Os sonhos de Olav</rdaed:P20315>
+      <rdfs:label>Os sonhos de Olav (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/por"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/braga"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1535159478113827990002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1535159478113827990002/exp/por/1020/martins">
+      <rdaed:P20312>Olavs draumar</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Olavs draumar (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Os sonhos de Olav</rdaed:P20315>
+      <rdfs:label>Os sonhos de Olav (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/por"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/martins"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1535159478113827990002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1535159478113827990002/exp/slo/1020/82145970324232252454">
+      <rdaed:P20312>Olavs draumar</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Olavs draumar (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Olavs draumar</rdaed:P20315>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/slo"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/82145970324232252454"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1535159478113827990002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1535159478113827990002/exp/spa/1020/86862314">
+      <rdaed:P20312>Olavs draumar</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Olavs draumar (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Los sueños de Olav</rdaed:P20315>
+      <rdfs:label>Los sueños de Olav (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/86862314"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1535159478113827990002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1535159478113827990002/exp/swe/1020/andersson">
+      <rdaed:P20312>Olavs draumar</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Olavs draumar (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Olavs drömmar</rdaed:P20315>
+      <rdfs:label>Olavs drömmar (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/swe"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/andersson"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1535159478113827990002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1535159478113827990002/musikk/exp/nno">
+      <rdaed:P20316>Olavs draumar</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Å synge Olavs draumar</rdaed:P20312>
+      <rdfs:label>Å synge Olavs draumar (Hellstenius, Henrik)</rdfs:label>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1535159478113827990002/musikk"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3303165326534316290003/exp/alb/1020/tace">
+      <rdaed:P20312>Kveldsvævd</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Kveldsvævd (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Rraskapitje</rdaed:P20315>
+      <rdfs:label>Rraskapitje (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/alb"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/tace"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3303165326534316290003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3303165326534316290003/exp/bul/1020/dzelepova">
+      <rdaed:P20312>Kveldsvævd</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Kveldsvævd (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Otmala</rdaed:P20315>
+      <rdfs:label>Otmala (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/bul"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/dzelepova"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3303165326534316290003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3303165326534316290003/exp/cze/1020/85552885">
+      <rdaed:P20316>Kveldsvævd</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Na sklonku dne : vyprávění</rdaed:P20312>
+      <rdaed:P20315>Kveldsvævd</rdaed:P20315>
+      <rdfs:label>Kveldsvævd (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/cze"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/85552885"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3303165326534316290003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3303165326534316290003/exp/dan/1020/jensen">
+      <rdaed:P20316>Kveldsvævd</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Kveldsvævd : fortælling</rdaed:P20312>
+      <rdaed:P20315>Kveldsvævd</rdaed:P20315>
+      <rdfs:label>Kveldsvævd (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dan"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/jensen"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3303165326534316290003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3303165326534316290003/exp/eng/1020/akerholt">
+      <rdaed:P20312>Kveldsvævd</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Kveldsvævd (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Weariness</rdaed:P20315>
+      <rdfs:label>Weariness (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/akerholt"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3303165326534316290003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3303165326534316290003/exp/est/1020/vain">
+      <rdaed:P20312>Kveldsvævd</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Kveldsvævd (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Õhtuväsimu</rdaed:P20315>
+      <rdfs:label>Õhtuväsimu (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/est"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/vain"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3303165326534316290003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3303165326534316290003/exp/fre/1020/39404666">
+      <rdaed:P20316>Kveldsvævd</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Au tomber de la nuit</rdaed:P20312>
+      <rdaed:P20315>Au tomber de la nuit</rdaed:P20315>
+      <rdfs:label>Au tomber de la nuit (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/fre"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/39404666"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3303165326534316290003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3303165326534316290003/exp/ger/1020/79151651">
+      <rdaed:P20312>Kveldsvævd</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Kveldsvævd (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Olavs Träume</rdaed:P20315>
+      <rdfs:label>Olavs Träume (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/79151651"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3303165326534316290003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3303165326534316290003/exp/hun/1020/78238585">
+      <rdaed:P20312>Kveldsvævd</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Kveldsvævd (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Esti dal</rdaed:P20315>
+      <rdfs:label>Esti dal (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/hun"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/78238585"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3303165326534316290003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3303165326534316290003/exp/ice/1020/27145970323532252301">
+      <rdaed:P20316>Kveldsvævd</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Kvöldsyfja : frásögn</rdaed:P20312>
+      <rdfs:label>Kvöldsyfja (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ice"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/27145970323532252301"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3303165326534316290003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3303165326534316290003/exp/mac/1020">
+      <rdaed:P20312>Kveldsvævd</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Kveldsvævd (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Zamor</rdaed:P20315>
+      <rdfs:label>Zamor (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mac"/>
+      <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3303165326534316290003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3303165326534316290003/exp/nno/1020">
+      <rdaed:P20316>Kveldsvævd</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Kveldsvævd : forteljing</rdaed:P20312>
+      <rdfs:label>Kveldsvævd (Fosse, Jon)</rdfs:label>
+      <rdaed:P20312>Kveldsvævd</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdaed:P20315>Kveldsvævd</rdaed:P20315>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3303165326534316290003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3303165326534316290003/exp/nno/eide">
+      <rdaed:P20312>Kveldsvævd</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Kveldsvævd (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Kveldsvævd</rdaed:P20315>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaeo:P20022 rdf:resource="http://example.org/eide"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3303165326534316290003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3303165326534316290003/exp/nor/1020">
+      <rdaed:P20312>Kveldsvævd</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Kveldsvævd (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nor"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3303165326534316290003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3303165326534316290003/exp/por/1020/braga">
+      <rdaed:P20312>Kveldsvævd</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Kveldsvævd (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Os sonhos de Olav</rdaed:P20315>
+      <rdfs:label>Os sonhos de Olav (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/por"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/braga"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3303165326534316290003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3303165326534316290003/exp/por/1020/martins">
+      <rdaed:P20312>Kveldsvævd</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Kveldsvævd (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Fadiga</rdaed:P20315>
+      <rdfs:label>Fadiga (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/por"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/martins"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3303165326534316290003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3303165326534316290003/exp/slo/1020/82145970324232252454">
+      <rdaed:P20312>Kveldsvævd</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Kveldsvævd (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Sny Olavove</rdaed:P20315>
+      <rdfs:label>Sny Olavove (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/slo"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/82145970324232252454"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3303165326534316290003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3303165326534316290003/exp/spa/1020/86862314">
+      <rdaed:P20312>Kveldsvævd</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Kveldsvævd (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Desaliento</rdaed:P20315>
+      <rdfs:label>Desaliento (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/86862314"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3303165326534316290003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/3303165326534316290003/exp/swe/1020/andersson">
+      <rdaed:P20312>Kveldsvævd</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Kveldsvævd (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Kvällning</rdaed:P20315>
+      <rdfs:label>Kvällning (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/swe"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/andersson"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/3303165326534316290003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/exp/alb/1020/tace">
+      <rdaed:P20312>Andvake</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Andvake (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Pagjumësi</rdaed:P20315>
+      <rdfs:label>Pagjumësi (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/alb"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/tace"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/exp/bul/1020/dzelepova">
+      <rdaed:P20312>Andvake</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Andvake (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Bdenie</rdaed:P20315>
+      <rdfs:label>Bdenie (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/bul"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/dzelepova"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/exp/dan/1020/66455936">
+      <rdaed:P20316>Andvake</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Andvake : fortælling</rdaed:P20312>
+      <rdfs:label>Andvake (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dan"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/66455936"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/exp/dut/1020/molenaar">
+      <rdaed:P20316>Andvake</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Slapeloos</rdaed:P20312>
+      <rdfs:label>Slapeloos (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dut"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/molenaar"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/exp/eng/1020/akerholt">
+      <rdaed:P20312>Andvake</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Andvake (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Wakefulness</rdaed:P20315>
+      <rdfs:label>Wakefulness (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/akerholt"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/exp/est/1020/vain">
+      <rdaed:P20312>Andvake</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Andvake (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Unetu</rdaed:P20315>
+      <rdfs:label>Unetu (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/est"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/vain"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/exp/fre/1020/39404666">
+      <rdaed:P20316>Andvake</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Insomnie</rdaed:P20312>
+      <rdfs:label>Insomnie (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/fre"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/39404666"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/exp/ger/1020/79151651">
+      <rdaed:P20316>Andvake</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Schlaflos : Erzählung</rdaed:P20312>
+      <rdaed:P20312>Andvake</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Andvake (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Schlaflos</rdaed:P20315>
+      <rdfs:label>Schlaflos (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/79151651"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/exp/ger/79151651/8082914">
+      <rdaed:P20316>Andvake</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Christian Brückner liest Jon Fosse: Schlaflos</rdaed:P20312>
+      <rdaed:P20315>Schlaflos</rdaed:P20315>
+      <rdfs:label>Schlaflos (Fosse, Jon)</rdfs:label>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
+      <rdaeo:P20022 rdf:resource="http://bare.no/8082914"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/79151651"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/exp/hun/1020/78238585">
+      <rdaed:P20316>Andvake</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Álmatlanság</rdaed:P20312>
+      <rdfs:label>Álmatlanság (Fosse, Jon)</rdfs:label>
+      <rdaed:P20312>Andvake</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Andvake (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Álmatlanság</rdaed:P20315>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/hun"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/78238585"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/exp/ice/1020/27145970323532252301">
+      <rdaed:P20316>Andvake</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Andvaka : frásögn</rdaed:P20312>
+      <rdaed:P20315>Andvaka</rdaed:P20315>
+      <rdfs:label>Andvaka (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ice"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/27145970323532252301"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/exp/ita/1020/falcinella">
+      <rdaed:P20316>Andvake</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Insonni</rdaed:P20312>
+      <rdfs:label>Insonni (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ita"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/falcinella"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/exp/mac/1020">
+      <rdaed:P20312>Andvake</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Andvake (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Budnost</rdaed:P20315>
+      <rdfs:label>Budnost (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/mac"/>
+      <rdaed:P20065 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/exp/nno/1020">
+      <rdaed:P20316>Andvake</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Andvake : forteljing</rdaed:P20312>
+      <rdfs:label>Andvake (Fosse, Jon)</rdfs:label>
+      <rdaed:P20312>Andvake</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdaed:P20315>Andvake</rdaed:P20315>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/exp/nno/eide">
+      <rdaed:P20312>Andvake</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Andvake (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Andvake</rdaed:P20315>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaeo:P20022 rdf:resource="http://example.org/eide"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/exp/nor/1020">
+      <rdaed:P20312>Andvake</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Andvake (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Andvake</rdaed:P20315>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nor"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/exp/pol/1020/85552885">
+      <rdaed:P20316>Andvake</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Mámení : vypráění</rdaed:P20312>
+      <rdfs:label>Mámení (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/pol"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/85552885"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/exp/por/1020/braga">
+      <rdaed:P20312>Andvake</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Andvake (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Vigília</rdaed:P20315>
+      <rdfs:label>Vigília (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/por"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/braga"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/exp/por/1020/martins">
+      <rdaed:P20312>Andvake</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Andvake (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Vigília</rdaed:P20315>
+      <rdfs:label>Vigília (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/por"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/martins"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/exp/rus/1020/fedorova">
+      <rdaed:P20316>Andvake</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Bez sna : roman</rdaed:P20312>
+      <rdaed:P20315>Bez sna</rdaed:P20315>
+      <rdfs:label>Bez sna (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/rus"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/fedorova"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/exp/slo/1020/82145970324232252454">
+      <rdaed:P20312>Andvake</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Andvake (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Bdenie</rdaed:P20315>
+      <rdfs:label>Bdenie (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/slo"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/82145970324232252454"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/exp/spa/1020/86862314">
+      <rdaed:P20312>Andvake</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Andvake (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Vigilia</rdaed:P20315>
+      <rdfs:label>Vigilia (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/86862314"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/exp/swe/1020">
+      <rdaed:P20316>Andvake</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Det är Ales ; och Sömnlösa</rdaed:P20312>
+      <rdfs:label>Det är Ales ; och Sömnlösa (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/swe"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/exp/swe/1020/andersson">
+      <rdaed:P20312>Andvake</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Andvake (Fosse, Jon)</rdfs:label>
+      <rdaed:P20315>Sömnlösa</rdaed:P20315>
+      <rdfs:label>Sömnlösa (Fosse, Jon)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/swe"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/andersson"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/play/program/exp/nno/1020">
+      <rdaed:P20316>Andvake</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Andvake</rdaed:P20312>
+      <rdfs:label>Andvake</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002/play/program"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/program/exp/nno">
+      <rdaed:P20316>Andvake</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Andvake : en triologi av Jon Fosse</rdaed:P20312>
+      <rdfs:label>Andvake</rdfs:label>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002/program"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/7707165326352216290002/samtale/exp/nno/1020">
+      <rdaed:P20316>Andvake i eit klasserom</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Andvake i eit klasserom : utforskande samtale om Jon Fosse på ungdomstrinnet</rdaed:P20312>
+      <rdfs:label>Andvake i eit klasserom (Vederhus, Inger)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nno"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/7707165326352216290002/samtale"/>
+   </rdac:C10006>
+   <rdac:C10007 rdf:about="http://example.org/990904500194702202">
+      <rdamd:P30156>Andvake</rdamd:P30156>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Det norske teatret : Rikskonsertane, [2009]</rdamd:P30111>
+      <rdamd:P30083>Det norske teatret</rdamd:P30083>
+      <rdamd:P30083>Rikskonsertane</rdamd:P30083>
+      <rdamd:P30011>[2009]</rdamd:P30011>
+      <rdamd:P30182>15 s. : ill.</rdamd:P30182>
+      <rdamd:P30137>Premiere 28. januar 2009 på Prøvesalen</rdamd:P30137>
+      <rdamd:P30137>Programredaksjon: Ola E. Bø ... et al.</rdamd:P30137>
+      <rdamd:P30137>Stykket skrevet av Jon Fosse</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/play/program/exp/nno/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/990927381174702202">
+      <rdamd:P30156>Andvake</rdamd:P30156>
+      <rdamd:P30142>forteljing</rdamd:P30142>
+      <rdamd:P30117>av Jon Fosse</rdamd:P30117>
+      <rdamd:P30107>Ny versjon</rdamd:P30107>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Det norske teatret, 2008</rdamd:P30111>
+      <rdamd:P30083>Det norske teatret</rdamd:P30083>
+      <rdamd:P30011>2008</rdamd:P30011>
+      <rdamd:P30182>51 s., 30 cm.</rdamd:P30182>
+      <rdamd:P30137>Inneholder ikke noter</rdamd:P30137>
+      <rdamd:P30137>Premiere: DNT, Prøvesalen 28. jan. 2009</rdamd:P30137>
+      <rdamd:P30137>Produsert i samarbeid med Rikskonsertene</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/nno/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/991127771554702202">
+      <rdamd:P30156>Andvake i eit klasserom</rdamd:P30156>
+      <rdamd:P30142>utforskande samtale om Jon Fosse på ungdomstrinnet</rdamd:P30142>
+      <rdamd:P30117>Inger Vederhus</rdamd:P30117>
+      <rdamd:P30011>2011</rdamd:P30011>
+      <rdamd:P30111>, 2011</rdamd:P30111>
+      <rdamd:P30182>S. 219-244.</rdamd:P30182>
+      <rdamd:P30050>Norsk = nynorsk og bokmål, Oslo : Samlaget, cop. 2011.</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/samtale/exp/nno/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/991302891834702202">
+      <rdamd:P30156>Å synge Olavs draumar</rdamd:P30156>
+      <rdamd:P30117>tekst: Jon Fosse ; komposisjon: Henrik Hellstenius</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : [MIC], [2012]</rdamd:P30111>
+      <rdamd:P30083>[MIC]</rdamd:P30083>
+      <rdamd:P30011>[2012]</rdamd:P30011>
+      <rdamd:P30182>1 partitur (58 s.), 26 x 37 cm.</rdamd:P30182>
+      <rdamd:P30137>For 2 solostemmer og 2 talestemmer</rdamd:P30137>
+      <rdamd:P30137>Manuskriptkopi</rdamd:P30137>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/musikk/exp/nno"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/999919995963802202">
+      <rdamd:P30156>Andvake</rdamd:P30156>
+      <rdamd:P30142>en triologi av Jon Fosse</rdamd:P30142>
+      <rdamd:P30088>Bergen</rdamd:P30088>
+      <rdamd:P30111>Bergen : Hordaland teater, 2018</rdamd:P30111>
+      <rdamd:P30083>Hordaland teater</rdamd:P30083>
+      <rdamd:P30011>2018</rdamd:P30011>
+      <rdamd:P30182>4 sider : illustrasjoner i farger.</rdamd:P30182>
+      <rdamd:P30137>Urpremiere 23. mai 2018</rdamd:P30137>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/program/exp/nno"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/999920016180402202">
+      <rdamd:P30156>Trilogien</rdamd:P30156>
+      <rdamd:P30117>Jon Fosse</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Det norske teatret, 2019</rdamd:P30111>
+      <rdamd:P30083>Det norske teatret</rdamd:P30083>
+      <rdamd:P30011>2019</rdamd:P30011>
+      <rdamd:P30182>151 s., 30 cm.</rdamd:P30182>
+      <rdamd:P30137>"Dramatiseringa er gjort med utgangspunkt i Hinrich Schmidt-Henkel si tyske omsetting av teksten"- Tittelsiden</rdamd:P30137>
+      <rdamd:P30137>Urpremiere: 6. september 2019</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1062164661877003390007/dramatisering/exp/nno/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/999920158894502202">
+      <rdamd:P30156>Fanget i fortid</rdamd:P30156>
+      <rdamd:P30142>tre traumefortellinger av Jon Fosse</rdamd:P30142>
+      <rdamd:P30117>av Unni Langås</rdamd:P30117>
+      <rdamd:P30182>Side [217]-234, 251.</rdamd:P30182>
+      <rdamd:P30137>Vitenskapelig artikkel</rdamd:P30137>
+      <rdamd:P30050>Edda (trykt utg.), Årg. 100, nr. 3 (2013).</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://example.org/fangetifortid/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/999920159797002202">
+      <rdamd:P30156>Svævets æstetik</rdamd:P30156>
+      <rdamd:P30142>Jon Fosse som den bestemte ubestemtheds mester</rdamd:P30142>
+      <rdamd:P30117>Niels Lehmann</rdamd:P30117>
+      <rdamd:P30182>Side 33-34 : illustrasjoner, portrett.</rdamd:P30182>
+      <rdamd:P30137>Om Jon Fosses romantrilogi: Andvake, Olavs draumar, Kveldsvævd</rdamd:P30137>
+      <rdamd:P30050>Norsk Shakespeare tidsskrift (trykt utg.), 2019 nr. 3/4.</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://example.org/svævetsestetikk/exp/dan/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/999920161903902202">
+      <rdamd:P30156>Jon Fosse: Andvake-trilogien</rdamd:P30156>
+      <rdamd:P30117>Anne Siri Koksrud Bekkelund</rdamd:P30117>
+      <rdamd:P30182>Side 99 : illustrasjon.</rdamd:P30182>
+      <rdamd:P30137>Bokanmeldelse av: Trilogien / Jon Fosse (Andvake, Olavs draumar, Kveldsvævd)</rdamd:P30137>
+      <rdamd:P30050>Minerva (Oslo), Årg. 92, nr. 1 (2016).</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://example.org/jonfosseandvaketrilogien/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/999920165104102202">
+      <rdamd:P30156>Jon Fosse - prisvinnar i særklasse</rdamd:P30156>
+      <rdamd:P30117>Hans H. Skei</rdamd:P30117>
+      <rdamd:P30182>Side 501-508 : illustrasjon, portrett.</rdamd:P30182>
+      <rdamd:P30050>Nordisk tidskrift för vetenskap, konst och industri (trykt utg.), Årg. 91, h. 4 (2015).</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://example.org/jonfosseprosivinnerisærklasse/exp/nno/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/999920187098802202">
+      <rdamd:P30156>Fanget i fortid</rdamd:P30156>
+      <rdamd:P30142>Jon Fosse: Naustet (1989), Det er Ales (2004), Olavs draumar (2012)</rdamd:P30142>
+      <rdamd:P30011>2016</rdamd:P30011>
+      <rdamd:P30182>Side [35]-55.</rdamd:P30182>
+      <rdamd:P30050>Traumets betydning i norsk samtidslitteratur, Bergen : Fagbokforlaget, 2016.</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://example.org/fangetifortid/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/999920285964102202">
+      <rdamd:P30156>Jon Fosse - prisvinnar i særklasse</rdamd:P30156>
+      <rdamd:P30182>S. 501-508 : ill., port.</rdamd:P30182>
+      <rdamd:P30137>Om Jon Fosse som fikk Nordisk råds litteraturpris i 2015 for sin bok: Trilogien / Jon Fosse</rdamd:P30137>
+      <rdamd:P30050>Nordisk tidskrift för vetenskap, konst och industri (trykt utg.), Årg. 91, h. 4 (2015).</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://example.org/jonfosseprosivinnerisærklasse/exp/nno/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/999920290650202202">
+      <rdamd:P30156>Svævets æstetik - Jon Fosse som den bestemte ubestemtheds mester</rdamd:P30156>
+      <rdamd:P30182>S. 33-44 : ill., port.</rdamd:P30182>
+      <rdamd:P30137>Om Jon Fosses romantrilogi: Andvake, Olavs draumar, Kveldsvævd</rdamd:P30137>
+      <rdamd:P30050>Norsk Shakespeare tidsskrift (Oslo : 2017), Nr. 2/3 (2019).</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://example.org/svævetsestetikk/exp/dan/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/999920323501802202">
+      <rdamd:P30156>Bez sna</rdamd:P30156>
+      <rdamd:P30142>roman</rdamd:P30142>
+      <rdamd:P30117>Jun Fosse ; perevod s norvežskogo: Niny Fedorovoj</rdamd:P30117>
+      <rdamd:P30088>Mosvka</rdamd:P30088>
+      <rdamd:P30111>Mosvka : Inostrannaja literatura, 2018</rdamd:P30111>
+      <rdamd:P30083>Inostrannaja literatura</rdamd:P30083>
+      <rdamd:P30011>2018</rdamd:P30011>
+      <rdamd:P30182>Side 3-36 : portrett.</rdamd:P30182>
+      <rdamd:P30050>Sever Evropy, Moskva : Inostrannaja literatura, 2018.</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/rus/1020/fedorova"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/999920501502402202">
+      <rdamd:P30156>Jon Fosse og skriftmystikk</rdamd:P30156>
+      <rdamd:P30142>en analyse av Andvake-trilogien med utgangspunkt i omgrepet skriftmystikk</rdamd:P30142>
+      <rdamd:P30117>Emmy Tungevåg</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : [Emmy Tungevåg], [2014]</rdamd:P30111>
+      <rdamd:P30083>[Emmy Tungevåg]</rdamd:P30083>
+      <rdamd:P30011>[2014]</rdamd:P30011>
+      <rdamd:P30182>1 online (nettilkoblet) ressurs (63 sider).</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
+      <rdamo:P30139 rdf:resource="http://example.org/jonfosseogskriftmystikk/exp/nno/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/999920529799602202">
+      <rdamd:P30156>Krimroman fra Jon Fosse</rdamd:P30156>
+      <rdamd:P30117>Stefan Andreas Sture</rdamd:P30117>
+      <rdamd:P30088>Fredrikstad</rdamd:P30088>
+      <rdamd:P30111>Fredrikstad : Fredriksstad blad</rdamd:P30111>
+      <rdamd:P30083>Fredriksstad blad</rdamd:P30083>
+      <rdamd:P30182>Side 18 : illustrasjoner, portrett.</rdamd:P30182>
+      <rdamd:P30137>Bokanmeldelse av: Andvake / Jon Fosse</rdamd:P30137>
+      <rdamd:P30050>Fredriksstad blad (trykt utg.), 2007 nr. 228, 25/8.</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://example.org/krimromanfrajonfosse/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/999920539898802202">
+      <rdamd:P30156>Gammelmodig, men lettlest Jon Fosse</rdamd:P30156>
+      <rdamd:P30117>Ingunn Økland</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Aftenposten A/S</rdamd:P30111>
+      <rdamd:P30083>Aftenposten A/S</rdamd:P30083>
+      <rdamd:P30182>Side 8 : illustrasjoner, portrett.</rdamd:P30182>
+      <rdamd:P30137>Bokanmeldelse av: Olavs draumar / Jon Fosse</rdamd:P30137>
+      <rdamd:P30137>Del: Kultur &amp; meninger</rdamd:P30137>
+      <rdamd:P30050>Aftenposten (trykt utg.), 2012 nr. 33, 3/2.</rdamd:P30050>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://example.com/gammelmodig/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9781628971392">
+      <rdamd:P30004>ISBN 978-1-62897-139-2</rdamd:P30004>
+      <rdaxd:P00018>isbn-9781628971392</rdaxd:P00018>
+      <rdfs:label>ISBN978-1-62897-139-2</rdfs:label>
+      <rdamd:P30156>Trilogy</rdamd:P30156>
+      <rdamd:P30117>Jon Fosse ; translated by May-Brit Akerholt</rdamd:P30117>
+      <rdamd:P30088>Victoria, Tex</rdamd:P30088>
+      <rdamd:P30111>Victoria, Tex. : Dalkey Archive Press, 2016</rdamd:P30111>
+      <rdamd:P30083>Dalkey Archive Press</rdamd:P30083>
+      <rdamd:P30011>2016</rdamd:P30011>
+      <rdamd:P30182>147 s., 22 cm.</rdamd:P30182>
+      <rdamd:P30106>Norwegian literature series</rdamd:P30106>
+      <rdamd:P30033>Innhold: Wakefulness ; Olav's dreams ; Weariness. Originaltitler henholdsvis: Andvake ; Olav's draumar ; Kveldsvævd</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1062164661877003390007/exp/eng/1020/akerholt"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/eng/1020/akerholt"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/eng/1020/akerholt"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/eng/1020/akerholt"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9782842422578">
+      <rdamd:P30004>ISBN 9782842422578</rdamd:P30004>
+      <rdaxd:P00018>isbn-9782842422578</rdaxd:P00018>
+      <rdfs:label>ISBN9782842422578</rdfs:label>
+      <rdamd:P30156>Insomnie</rdamd:P30156>
+      <rdamd:P30117>Jon Fosse ; traduit du norvégien par Terje Sinding</rdamd:P30117>
+      <rdamd:P30088>[Paris]</rdamd:P30088>
+      <rdamd:P30111>[Paris] : Circé, cop. 2009</rdamd:P30111>
+      <rdamd:P30083>Circé</rdamd:P30083>
+      <rdamd:P30011>cop. 2009</rdamd:P30011>
+      <rdamd:P30182>92 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/fre/1020/39404666"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9782842423537">
+      <rdamd:P30004>ISBN 9782842423537</rdamd:P30004>
+      <rdaxd:P00018>isbn-9782842423537</rdaxd:P00018>
+      <rdfs:label>ISBN9782842423537</rdfs:label>
+      <rdamd:P30156>Les rêves d'Olav</rdamd:P30156>
+      <rdamd:P30117>Jon Fosse ; traduit du norvégien par Terje Sinding</rdamd:P30117>
+      <rdamd:P30088>Strasbourg</rdamd:P30088>
+      <rdamd:P30111>Strasbourg : Circé, cop. 2014</rdamd:P30111>
+      <rdamd:P30083>Circé</rdamd:P30083>
+      <rdamd:P30011>cop. 2014</rdamd:P30011>
+      <rdamd:P30182>92 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/fre/1020/39404666"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9782842424176">
+      <rdamd:P30004>ISBN 978-2-84242-417-6</rdamd:P30004>
+      <rdaxd:P00018>isbn-9782842424176</rdaxd:P00018>
+      <rdfs:label>ISBN978-2-84242-417-6</rdfs:label>
+      <rdamd:P30156>Au tomber de la nuit</rdamd:P30156>
+      <rdamd:P30117>Jon Fosse ; traduit du norvégien par Terje Sinding</rdamd:P30117>
+      <rdamd:P30088>Strasbourg</rdamd:P30088>
+      <rdamd:P30111>Strasbourg : Circé, 2016</rdamd:P30111>
+      <rdamd:P30083>Circé</rdamd:P30083>
+      <rdamd:P30011>2016</rdamd:P30011>
+      <rdamd:P30182>92 s., 20 cm.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/fre/1020/39404666"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9783498020651">
+      <rdamd:P30004>ISBN 978-3-498-02065-1</rdamd:P30004>
+      <rdaxd:P00018>isbn-9783498020651</rdaxd:P00018>
+      <rdfs:label>ISBN978-3-498-02065-1</rdfs:label>
+      <rdamd:P30156>Trilogie</rdamd:P30156>
+      <rdamd:P30142>Schlaflos, Olavs Träume, Abendmattigkeit</rdamd:P30142>
+      <rdamd:P30117>Jon Fosse ; aus dem Norwegischen von Hinrich Schmidt-Henkel</rdamd:P30117>
+      <rdamd:P30088>Reinbek bei Hamburg</rdamd:P30088>
+      <rdamd:P30111>Reinbek bei Hamburg : Rowohlt, 2016</rdamd:P30111>
+      <rdamd:P30083>Rowohlt</rdamd:P30083>
+      <rdamd:P30011>2016</rdamd:P30011>
+      <rdamd:P30182>204 s., 21 cm.</rdamd:P30182>
+      <rdamd:P30033>Innhold: Schlaflos ; Olavs Träume ; Abendmattigkeit. Originaltitler henholdsvis: Andvake ; Olavs draumar ; Kveldsvævd</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1062164661877003390007/exp/ger/1020/79151651"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/ger/1020/79151651"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/ger/1020/79151651"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/ger/1020/79151651"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9783498021245">
+      <rdamd:P30004>ISBN 9783498021245</rdamd:P30004>
+      <rdaxd:P00018>isbn-9783498021245</rdaxd:P00018>
+      <rdfs:label>ISBN9783498021245</rdfs:label>
+      <rdamd:P30156>Schlaflos</rdamd:P30156>
+      <rdamd:P30142>Erzählung</rdamd:P30142>
+      <rdamd:P30117>Jon Fosse ; aus dem Norwegischen von Hinrich Schmidt-Henkel</rdamd:P30117>
+      <rdamd:P30088>Reinbek bei Hamburg</rdamd:P30088>
+      <rdamd:P30111>Reinbek bei Hamburg : Rowohlt, 2008</rdamd:P30111>
+      <rdamd:P30083>Rowohlt</rdamd:P30083>
+      <rdamd:P30011>2008</rdamd:P30011>
+      <rdamd:P30182>78 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/ger/1020/79151651"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9783499248078">
+      <rdamd:P30004>ISBN 9783499248078</rdamd:P30004>
+      <rdaxd:P00018>isbn-9783499248078</rdaxd:P00018>
+      <rdfs:label>ISBN9783499248078</rdfs:label>
+      <rdamd:P30156>Schlaflos</rdamd:P30156>
+      <rdamd:P30142>Erzählung</rdamd:P30142>
+      <rdamd:P30117>Jon Fosse ; Deutsch von Hinrich Schmidt-Henkel</rdamd:P30117>
+      <rdamd:P30088>Reinbek bei Hamburg</rdamd:P30088>
+      <rdamd:P30111>Reinbek bei Hamburg : Rowohlt Taschenbuch Verlag, 2009</rdamd:P30111>
+      <rdamd:P30083>Rowohlt Taschenbuch Verlag</rdamd:P30083>
+      <rdamd:P30011>2009</rdamd:P30011>
+      <rdamd:P30182>78 s.</rdamd:P30182>
+      <rdamd:P30106>rororo</rdamd:P30106>
+      <rdamd:P30165>24807</rdamd:P30165>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/ger/1020/79151651"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9783935125949">
+      <rdamd:P30004>ISBN 9783935125949</rdamd:P30004>
+      <rdaxd:P00018>isbn-9783935125949</rdaxd:P00018>
+      <rdfs:label>ISBN9783935125949</rdfs:label>
+      <rdamd:P30156>Christian Brückner liest Jon Fosse: Schlaflos</rdamd:P30156>
+      <rdamd:P30088>[Berlin]</rdamd:P30088>
+      <rdamd:P30111>[Berlin] : Parlando, cop. 2008</rdamd:P30111>
+      <rdamd:P30083>Parlando</rdamd:P30083>
+      <rdamd:P30011>cop. 2008</rdamd:P30011>
+      <rdamd:P30182>2 plater (CD) (1 t, 50 min) : digital, 12 cm, i omslag.</rdamd:P30182>
+      <rdamd:P30137>Tysk oversettelse ved Hinrich Schmidt-Henkel</rdamd:P30137>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/ger/79151651/8082914"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9786050677584">
+      <rdamd:P30004>ISBN 978-605-06775-8-4</rdamd:P30004>
+      <rdaxd:P00018>isbn-9786050677584</rdaxd:P00018>
+      <rdfs:label>ISBN978-605-06775-8-4</rdfs:label>
+      <rdamd:P30156>Üçleme</rdamd:P30156>
+      <rdamd:P30142>Uyanıklık, Olav'ın Hayalleri, Gece Yorgunu</rdamd:P30142>
+      <rdamd:P30117>Jon Fosse ; norveççeden çeviren: Banu Gürsaler Syvertsen</rdamd:P30117>
+      <rdamd:P30107>Birinci basım</rdamd:P30107>
+      <rdamd:P30088>İstanbul</rdamd:P30088>
+      <rdamd:P30111>İstanbul : Monokl edebiyat, şubat 2021</rdamd:P30111>
+      <rdamd:P30083>Monokl edebiyat</rdamd:P30083>
+      <rdamd:P30011>şubat 2021</rdamd:P30011>
+      <rdamd:P30182>159 sider, 21 cm.</rdamd:P30182>
+      <rdamd:P30137>Originaltitler: Andvake ; Olavs draumar ; Kveldsvævd</rdamd:P30137>
+      <rdamd:P30033>Uyanıklık ; Olav'ın hayalleri ; Gece yorgunu</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1062164661877003390007/exp/tur/1020/syvertsen"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9786084865025">
+      <rdamd:P30004>ISBN 978-608-4865-02-5</rdamd:P30004>
+      <rdaxd:P00018>isbn-9786084865025</rdaxd:P00018>
+      <rdfs:label>ISBN978-608-4865-02-5</rdfs:label>
+      <rdamd:P30156>Trilogija</rdamd:P30156>
+      <rdamd:P30142>Budnost ; Soništata na Olav ; Zamor</rdamd:P30142>
+      <rdamd:P30117>Jun Fose ; prevod od angliski jazik Vladimir Jankovski</rdamd:P30117>
+      <rdamd:P30088>Skopje</rdamd:P30088>
+      <rdamd:P30111>Skopje : Goten, 2018</rdamd:P30111>
+      <rdamd:P30083>Goten</rdamd:P30083>
+      <rdamd:P30011>2018</rdamd:P30011>
+      <rdamd:P30182>177 sider, 21 cm.</rdamd:P30182>
+      <rdamd:P30137>Originaltitler: Andvake ; Olavs draumar ; Kveldsvævd</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1062164661877003390007/exp/mac/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/mac/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/mac/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/mac/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9786197596311">
+      <rdamd:P30004>ISBN 978-619-7596-31-1</rdamd:P30004>
+      <rdaxd:P00018>isbn-9786197596311</rdaxd:P00018>
+      <rdfs:label>ISBN978-619-7596-31-1</rdfs:label>
+      <rdamd:P30156>Trilogija</rdamd:P30156>
+      <rdamd:P30142>Bdenie, Blenuvanijata na Ulav, Otmala</rdamd:P30142>
+      <rdamd:P30117>Fosse, Jon ; prevod ot novonorvežki Stela Dželenova</rdamd:P30117>
+      <rdamd:P30107>Pŭrvo izdanie</rdamd:P30107>
+      <rdamd:P30088>Sofija</rdamd:P30088>
+      <rdamd:P30111>Sofija : List, 2021</rdamd:P30111>
+      <rdamd:P30083>List</rdamd:P30083>
+      <rdamd:P30011>2021</rdamd:P30011>
+      <rdamd:P30182>229 sider, 21 cm.</rdamd:P30182>
+      <rdamd:P30137>Originaltitler: Andvake ; Olavs draumar ; Kveldsvævd</rdamd:P30137>
+      <rdamd:P30033>Bdenie ; Blenuvanijata na Ulav ; Otmala</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1062164661877003390007/exp/bul/1020/dzelepova"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/bul/1020/dzelepova"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/bul/1020/dzelepova"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/bul/1020/dzelepova"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788081010835">
+      <rdamd:P30004>ISBN 9788081010835</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788081010835</rdaxd:P00018>
+      <rdfs:label>ISBN9788081010835</rdfs:label>
+      <rdamd:P30156>Álmatlanság</rdamd:P30156>
+      <rdamd:P30117>Jon Fosse ; [fordította Dobos Éva]</rdamd:P30117>
+      <rdamd:P30088>Pozsony</rdamd:P30088>
+      <rdamd:P30111>Pozsony : Kalligram, 2008</rdamd:P30111>
+      <rdamd:P30083>Kalligram</rdamd:P30083>
+      <rdamd:P30011>2008</rdamd:P30011>
+      <rdamd:P30182>67 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/hun/1020/78238585"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788081018886">
+      <rdamd:P30004>ISBN 9788081018886</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788081018886</rdaxd:P00018>
+      <rdfs:label>ISBN9788081018886</rdfs:label>
+      <rdamd:P30156>Trilógia</rdamd:P30156>
+      <rdamd:P30117>Jon Fosse ; A. Dobos Éva fordítása</rdamd:P30117>
+      <rdamd:P30088>Pozsony</rdamd:P30088>
+      <rdamd:P30111>Pozsony : Kalligram, 2015</rdamd:P30111>
+      <rdamd:P30083>Kalligram</rdamd:P30083>
+      <rdamd:P30011>2015</rdamd:P30011>
+      <rdamd:P30182>132 s.</rdamd:P30182>
+      <rdamd:P30033>Innhold: Álmatlanság ; Olav álma ; Esti dal. Originaltitler henholdsvis: Andvake ; Olavs draumar ; Kveldsvævd</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1062164661877003390007/exp/hun/1020/78238585"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/hun/1020/78238585"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/hun/1020/78238585"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/hun/1020/78238585"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788087053317">
+      <rdamd:P30004>ISBN 9788087053317</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788087053317</rdaxd:P00018>
+      <rdfs:label>ISBN9788087053317</rdfs:label>
+      <rdamd:P30156>Mámení</rdamd:P30156>
+      <rdamd:P30142>vypráění</rdamd:P30142>
+      <rdamd:P30117>Jon Fosse ; z norštiny přeložil Ondrẹ̆j Vimr</rdamd:P30117>
+      <rdamd:P30088>Příbram</rdamd:P30088>
+      <rdamd:P30111>Příbram : Pistorius &amp; Olšanská, 2009</rdamd:P30111>
+      <rdamd:P30083>Pistorius &amp; Olšanská</rdamd:P30083>
+      <rdamd:P30011>2009</rdamd:P30011>
+      <rdamd:P30182>62 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/pol/1020/85552885"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788087855331">
+      <rdamd:P30004>ISBN 9788087855331</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788087855331</rdaxd:P00018>
+      <rdfs:label>ISBN9788087855331</rdfs:label>
+      <rdamd:P30156>Sny Olavovy</rdamd:P30156>
+      <rdamd:P30142>vyprávění</rdamd:P30142>
+      <rdamd:P30117>Jon Fosse ; z norštiny přeložil Ondřej Vimr</rdamd:P30117>
+      <rdamd:P30088>Přibram</rdamd:P30088>
+      <rdamd:P30111>Přibram : Pistorius &amp; Olšanská, 2015</rdamd:P30111>
+      <rdamd:P30083>Pistorius &amp; Olšanská</rdamd:P30083>
+      <rdamd:P30011>2015</rdamd:P30011>
+      <rdamd:P30182>69 s., 21 cm.</rdamd:P30182>
+      <rdamd:P30106>Edice scholares</rdamd:P30106>
+      <rdamd:P30165>svazek 46</rdamd:P30165>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/cze/1020/85552885"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788087855614">
+      <rdamd:P30004>ISBN 978-80-87855-61-4</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788087855614</rdaxd:P00018>
+      <rdfs:label>ISBN978-80-87855-61-4</rdfs:label>
+      <rdamd:P30156>Na sklonku dne</rdamd:P30156>
+      <rdamd:P30142>vyprávění</rdamd:P30142>
+      <rdamd:P30117>Jon Fosse ; z norštiny přeložil Ondřej Vimr</rdamd:P30117>
+      <rdamd:P30088>Přibram</rdamd:P30088>
+      <rdamd:P30111>Přibram : Pistorius &amp; Olšanská, 2016</rdamd:P30111>
+      <rdamd:P30083>Pistorius &amp; Olšanská</rdamd:P30083>
+      <rdamd:P30011>2016</rdamd:P30011>
+      <rdamd:P30182>52 s., 21 cm.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/cze/1020/85552885"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788089545339">
+      <rdamd:P30004>ISBN 9788089545339</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788089545339</rdaxd:P00018>
+      <rdfs:label>ISBN9788089545339</rdfs:label>
+      <rdamd:P30156>Trilógia</rdamd:P30156>
+      <rdamd:P30117>Jon Fosse</rdamd:P30117>
+      <rdamd:P30088>Levoča</rdamd:P30088>
+      <rdamd:P30111>Levoča : Modrý Peter, [2015]</rdamd:P30111>
+      <rdamd:P30083>Modrý Peter</rdamd:P30083>
+      <rdamd:P30011>[2015]</rdamd:P30011>
+      <rdamd:P30182>174 s.</rdamd:P30182>
+      <rdamd:P30137>Oversatt av Anna Fosse</rdamd:P30137>
+      <rdamd:P30033>Bdenie ; Na sklonku dňa ; Sny Olavove</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1062164661877003390007/exp/slo/1020/82145970324232252454"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/slo/1020/82145970324232252454"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/slo/1020/82145970324232252454"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/slo/1020/82145970324232252454"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788234001185">
+      <rdamd:P30004>ISBN 978-82-340-0118-5</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788234001185</rdaxd:P00018>
+      <rdfs:label>ISBN978-82-340-0118-5</rdfs:label>
+      <rdamd:P30156>Jon Fosse i skulen</rdamd:P30156>
+      <rdamd:P30117>Dag Skarstein og Inger Vederhus (red.)</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Samlaget, 2020</rdamd:P30111>
+      <rdamd:P30083>Samlaget</rdamd:P30083>
+      <rdamd:P30011>2020</rdamd:P30011>
+      <rdamd:P30182>135 sider : illustrasjoner, 25 cm.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://www.rdaregistry.info/termList/RDACarrierType/#1049"/>
+      <rdamd:P30002 rdf:resource="http://www.rdaregistry.info/termList/RDAMediaType/#1007"/>
+      <rdamo:P30139 rdf:resource="http://example.com/jonfosseiskulen/exp/nno/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788234012587">
+      <rdamd:P30004>ISBN 9788234012587</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788234012587</rdaxd:P00018>
+      <rdfs:label>ISBN9788234012587</rdfs:label>
+      <rdamd:P30156>Trilogien</rdamd:P30156>
+      <rdamd:P30117>Jon Fosse</rdamd:P30117>
+      <rdamd:P30107>3. utgåva</rdamd:P30107>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Samlaget, 2023</rdamd:P30111>
+      <rdamd:P30083>Samlaget</rdamd:P30083>
+      <rdamd:P30011>2023</rdamd:P30011>
+      <rdamd:P30182>238 sider.</rdamd:P30182>
+      <rdamd:P30106>Nobel-serien</rdamd:P30106>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1062164661877003390007/exp/nno/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/nno/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/nno/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/nno/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788234012723">
+      <rdamd:P30004>ISBN 9788234012723</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788234012723</rdaxd:P00018>
+      <rdfs:label>ISBN9788234012723</rdfs:label>
+      <rdamd:P30156>Trilogien</rdamd:P30156>
+      <rdamd:P30117>Jon Fosse</rdamd:P30117>
+      <rdamd:P30107>4. utgåva</rdamd:P30107>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Samlaget, 2023</rdamd:P30111>
+      <rdamd:P30083>Samlaget</rdamd:P30083>
+      <rdamd:P30011>2023</rdamd:P30011>
+      <rdamd:P30182>238 sider.</rdamd:P30182>
+      <rdamd:P30106>Nobel-serien</rdamd:P30106>
+      <rdamd:P30137>1. utgave 2014</rdamd:P30137>
+      <rdamd:P30033>Andvake ; Olavs draumar ; Kveldsvævd</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1062164661877003390007/exp/nno/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/nno/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/nno/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/nno/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788242172006">
+      <rdamd:P30004>ISBN 978-82-421-7200-6</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788242172006</rdaxd:P00018>
+      <rdfs:label>ISBN978-82-421-7200-6</rdfs:label>
+      <rdamd:P30156>Trilogien</rdamd:P30156>
+      <rdamd:P30117>Jon Fosse</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Lydbokforl., 2016</rdamd:P30111>
+      <rdamd:P30083>Lydbokforl</rdamd:P30083>
+      <rdamd:P30011>2016</rdamd:P30011>
+      <rdamd:P30182>4 CD-er (5 t, 6 min), 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30033>Andvake ; Olavs draumar ; Kveldsvævd</rdamd:P30033>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1062164661877003390007/exp/nno/eide"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/nno/eide"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/nno/eide"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/nno/eide"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788252170566">
+      <rdamd:P30004>ISBN 978-82-521-7056-6</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788252170566</rdaxd:P00018>
+      <rdfs:label>ISBN978-82-521-7056-6</rdfs:label>
+      <rdamd:P30156>Andvake</rdamd:P30156>
+      <rdamd:P30142>forteljing</rdamd:P30142>
+      <rdamd:P30117>Jon Fosse</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Samlaget, 2007</rdamd:P30111>
+      <rdamd:P30083>Samlaget</rdamd:P30083>
+      <rdamd:P30011>2007</rdamd:P30011>
+      <rdamd:P30182>74 s.</rdamd:P30182>
+      <rdamd:P30106>[Samlaget forteljing]</rdamd:P30106>
+      <rdamd:P30137>Serietittel fra løst omslag</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/nno/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788252171884">
+      <rdamd:P30004>ISBN 9788252171884</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788252171884</rdaxd:P00018>
+      <rdfs:label>ISBN9788252171884</rdfs:label>
+      <rdamd:P30156>Andvake</rdamd:P30156>
+      <rdamd:P30142>forteljing</rdamd:P30142>
+      <rdamd:P30117>Jon Fosse</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Samlaget, 2008</rdamd:P30111>
+      <rdamd:P30083>Samlaget</rdamd:P30083>
+      <rdamd:P30011>2008</rdamd:P30011>
+      <rdamd:P30182>74 s.</rdamd:P30182>
+      <rdamd:P30106>Samlaget forteljing</rdamd:P30106>
+      <rdamd:P30137>1. utg. 2007</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/nno/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788252180374">
+      <rdamd:P30004>ISBN 978-82-521-8037-4</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788252180374</rdaxd:P00018>
+      <rdfs:label>ISBN978-82-521-8037-4</rdfs:label>
+      <rdamd:P30156>Olavs draumar</rdamd:P30156>
+      <rdamd:P30142>forteljing</rdamd:P30142>
+      <rdamd:P30117>Jon Fosse</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Samlaget, 2012</rdamd:P30111>
+      <rdamd:P30083>Samlaget</rdamd:P30083>
+      <rdamd:P30011>2012</rdamd:P30011>
+      <rdamd:P30182>79 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/nno/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788252184310">
+      <rdamd:P30004>ISBN 9788252184310</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788252184310</rdaxd:P00018>
+      <rdfs:label>ISBN9788252184310</rdfs:label>
+      <rdamd:P30156>Olavs draumar</rdamd:P30156>
+      <rdamd:P30142>forteljing</rdamd:P30142>
+      <rdamd:P30117>Jon Fosse</rdamd:P30117>
+      <rdamd:P30107>3. utg</rdamd:P30107>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Samlaget, 2013</rdamd:P30111>
+      <rdamd:P30083>Samlaget</rdamd:P30083>
+      <rdamd:P30011>2013</rdamd:P30011>
+      <rdamd:P30182>79 s.</rdamd:P30182>
+      <rdamd:P30137>1. utg. 2012</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/nno/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788252185003">
+      <rdamd:P30004>ISBN 978-82-521-8500.3</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788252185003</rdaxd:P00018>
+      <rdfs:label>ISBN978-82-521-8500.3</rdfs:label>
+      <rdamd:P30156>Kveldsvævd</rdamd:P30156>
+      <rdamd:P30142>forteljing</rdamd:P30142>
+      <rdamd:P30117>Jon Fosse</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Samlaget, 2014</rdamd:P30111>
+      <rdamd:P30083>Samlaget</rdamd:P30083>
+      <rdamd:P30011>2014</rdamd:P30011>
+      <rdamd:P30182>58 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/nno/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788252186512">
+      <rdamd:P30004>ISBN 978-82-521-8651-2</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788252186512</rdaxd:P00018>
+      <rdfs:label>ISBN978-82-521-8651-2</rdfs:label>
+      <rdamd:P30156>Trilogien</rdamd:P30156>
+      <rdamd:P30117>Jon Fosse</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Samlaget, 2014</rdamd:P30111>
+      <rdamd:P30083>Samlaget</rdamd:P30083>
+      <rdamd:P30011>2014</rdamd:P30011>
+      <rdamd:P30182>238 s.</rdamd:P30182>
+      <rdamd:P30033>Andvake ; Olavs draumar ; Kveldsvævd. 1. utg. henholdsvis 2007, 2012 og 2014</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1062164661877003390007/exp/nno/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/nno/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/nno/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/nno/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788252189155">
+      <rdamd:P30004>ISBN 9788252189155</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788252189155</rdaxd:P00018>
+      <rdfs:label>ISBN9788252189155</rdfs:label>
+      <rdamd:P30004>ISBN 8252189156</rdamd:P30004>
+      <rdaxd:P00018>isbn-8252189156</rdaxd:P00018>
+      <rdfs:label>ISBN8252189156</rdfs:label>
+      <rdamd:P30004>IAN 9788252189155</rdamd:P30004>
+      <rdaxd:P00018>IAN-9788252189155</rdaxd:P00018>
+      <rdamd:P30156>Trilogien</rdamd:P30156>
+      <rdamd:P30117>Jon Fosse</rdamd:P30117>
+      <rdamd:P30107>2. utg</rdamd:P30107>
+      <rdamd:P30107>2. utgåva</rdamd:P30107>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Samlaget, 2015</rdamd:P30111>
+      <rdamd:P30083>Samlaget</rdamd:P30083>
+      <rdamd:P30011>2015</rdamd:P30011>
+      <rdamd:P30007>©2014</rdamd:P30007>
+      <rdamd:P30182>238 s.</rdamd:P30182>
+      <rdamd:P30182>238 pages, 19 cm.</rdamd:P30182>
+      <rdamd:P30137>1. utg. 2014</rdamd:P30137>
+      <rdamd:P30137>Three stories in one book.</rdamd:P30137>
+      <rdamd:P30033>Andvake ; Olavs draumar ; Kveldsvævd. 1. utg. henholdsvis 2007, 2012 og 2014</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1062164661877003390007/exp/nno/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/nno/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/nno/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/nno/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1062164661877003390007/exp/nor/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/nor/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/nor/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/nor/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788252586107">
+      <rdamd:P30004>ISBN 978-82-525-8610-7</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788252586107</rdaxd:P00018>
+      <rdfs:label>ISBN978-82-525-8610-7</rdfs:label>
+      <rdamd:P30156>Trilogien</rdamd:P30156>
+      <rdamd:P30117>Jon Fosse</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>: Bokklubben, 2016 ; [Oslo]</rdamd:P30111>
+      <rdamd:P30083>Bokklubben</rdamd:P30083>
+      <rdamd:P30011>2016</rdamd:P30011>
+      <rdamd:P30182>238 s., 21 cm.</rdamd:P30182>
+      <rdamd:P30137>1. utg. Oslo : Samlaget henholdsvis 2007, 2012 og 2014</rdamd:P30137>
+      <rdamd:P30033>Andvake -- Olavs draumar -- Kveldsvævd</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1062164661877003390007/exp/nno/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/nno/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/nno/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/nno/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788279592655">
+      <rdamd:P30004>ISBN 9788279592655</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788279592655</rdaxd:P00018>
+      <rdfs:label>ISBN9788279592655</rdfs:label>
+      <rdamd:P30156>Edda</rdamd:P30156>
+      <rdamd:P30142>den eldre Edda i ein scenisk versjon</rdamd:P30142>
+      <rdamd:P30117>ved Jon Fosse</rdamd:P30117>
+      <rdamd:P30088>[Leikanger]</rdamd:P30088>
+      <rdamd:P30111>[Leikanger] : Skald, 2018</rdamd:P30111>
+      <rdamd:P30083>Skald</rdamd:P30083>
+      <rdamd:P30011>2018</rdamd:P30011>
+      <rdamd:P30182>1 fil.</rdamd:P30182>
+      <rdamo:P30139 rdf:resource="http://example.com/edda/exp/nno"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788282401845">
+      <rdamd:P30004>ISBN 978-82-824-0184-5</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788282401845</rdaxd:P00018>
+      <rdfs:label>ISBN978-82-824-0184-5</rdfs:label>
+      <rdamd:P30156>Jon Fosse - enkelt og djupt</rdamd:P30156>
+      <rdamd:P30142>om romanane og forteljingane hans</rdamd:P30142>
+      <rdamd:P30117>Jan H. Landro</rdamd:P30117>
+      <rdamd:P30088>Førde</rdamd:P30088>
+      <rdamd:P30111>Førde : Selja forlag, [2022]</rdamd:P30111>
+      <rdamd:P30083>Selja forlag</rdamd:P30083>
+      <rdamd:P30011>[2022]</rdamd:P30011>
+      <rdamd:P30182>320 sider.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://example.com/enkeltogdjupt/exp/nno/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788417375140">
+      <rdamd:P30004>ISBN 978-84-17375-14-0</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788417375140</rdaxd:P00018>
+      <rdfs:label>ISBN978-84-17375-14-0</rdfs:label>
+      <rdamd:P30156>Trilogía</rdamd:P30156>
+      <rdamd:P30117>Jon Fosse ; traducido del noruego por Cristina Gómez Baggethun y Kirsti Baggethun</rdamd:P30117>
+      <rdamd:P30088>Madrid</rdamd:P30088>
+      <rdamd:P30111>Madrid : De Conatus, 2018</rdamd:P30111>
+      <rdamd:P30083>De Conatus</rdamd:P30083>
+      <rdamd:P30011>2018</rdamd:P30011>
+      <rdamd:P30182>160 sider.</rdamd:P30182>
+      <rdamd:P30106>¿Qué nos contamos hoy?</rdamd:P30106>
+      <rdamd:P30137>Originaltitler: Andvake ; Olavs draumar ; Kveldsvævd</rdamd:P30137>
+      <rdamd:P30033>Vigilia ; Los sueños de Olav ; Desaliento</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1062164661877003390007/exp/spa/1020/86862314"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/spa/1020/86862314"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/spa/1020/86862314"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/spa/1020/86862314"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788535936926">
+      <rdamd:P30004>ISBN 978-85-359-3692-6</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788535936926</rdaxd:P00018>
+      <rdfs:label>ISBN978-85-359-3692-6</rdfs:label>
+      <rdamd:P30156>Triologia</rdamd:P30156>
+      <rdamd:P30142>Vigíla, Os sonhos de Olav e Repouso</rdamd:P30142>
+      <rdamd:P30117>Jon Fosse</rdamd:P30117>
+      <rdamd:P30088>São Paulo</rdamd:P30088>
+      <rdamd:P30111>São Paulo : Companhia das Letras, [2024]</rdamd:P30111>
+      <rdamd:P30083>Companhia das Letras</rdamd:P30083>
+      <rdamd:P30011>[2024]</rdamd:P30011>
+      <rdamd:P30182>193 sider.</rdamd:P30182>
+      <rdamd:P30106>Prêmio nobel</rdamd:P30106>
+      <rdamd:P30137>"Do vencedor do prêmio Nobel de literatura 2023" - Omslaget</rdamd:P30137>
+      <rdamd:P30033>Vigília ; Os sonhos de Olav ; Repouso</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1062164661877003390007/exp/por/1020/braga"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/por/1020/braga"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/por/1020/braga"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/por/1020/braga"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788790524982">
+      <rdamd:P30004>ISBN 9788790524982</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788790524982</rdaxd:P00018>
+      <rdfs:label>ISBN9788790524982</rdfs:label>
+      <rdamd:P30156>Andvake</rdamd:P30156>
+      <rdamd:P30142>fortælling</rdamd:P30142>
+      <rdamd:P30117>Jon Fosse ; oversat af Karsten Sand Iversen</rdamd:P30117>
+      <rdamd:P30088>København</rdamd:P30088>
+      <rdamd:P30111>København : Batzer &amp; Co., 2010</rdamd:P30111>
+      <rdamd:P30083>Batzer &amp; Co</rdamd:P30083>
+      <rdamd:P30011>2010</rdamd:P30011>
+      <rdamd:P30182>74 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/dan/1020/66455936"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788793209251">
+      <rdamd:P30004>ISBN 978-87-93209-25-1</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788793209251</rdaxd:P00018>
+      <rdfs:label>ISBN978-87-93209-25-1</rdfs:label>
+      <rdamd:P30156>Olavs drømme</rdamd:P30156>
+      <rdamd:P30142>fortælling</rdamd:P30142>
+      <rdamd:P30117>Jon Fosse ; oversat af Karsten Sand Iversen</rdamd:P30117>
+      <rdamd:P30088>Roskilde</rdamd:P30088>
+      <rdamd:P30111>Roskilde : Batzer &amp; Co., 2015</rdamd:P30111>
+      <rdamd:P30083>Batzer &amp; Co</rdamd:P30083>
+      <rdamd:P30011>2015</rdamd:P30011>
+      <rdamd:P30182>86 s., 18 cm.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/dan/1020/66455936"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788793209275">
+      <rdamd:P30004>ISBN 978-87-93209-27-5</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788793209275</rdaxd:P00018>
+      <rdfs:label>ISBN978-87-93209-27-5</rdfs:label>
+      <rdamd:P30156>Kveldsvævd</rdamd:P30156>
+      <rdamd:P30142>fortælling</rdamd:P30142>
+      <rdamd:P30117>Jon Fosse ; oversat af Jannie Jensen</rdamd:P30117>
+      <rdamd:P30107>1. udg., 3. opl</rdamd:P30107>
+      <rdamd:P30088>Roskilde</rdamd:P30088>
+      <rdamd:P30111>Roskilde : Batzer &amp; Co., 2016</rdamd:P30111>
+      <rdamd:P30083>Batzer &amp; Co</rdamd:P30083>
+      <rdamd:P30011>2016</rdamd:P30011>
+      <rdamd:P30182>63 s., 18 cm.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/dan/1020/jensen"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788860442130">
+      <rdamd:P30004>ISBN 9788860442130</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788860442130</rdaxd:P00018>
+      <rdfs:label>ISBN9788860442130</rdfs:label>
+      <rdamd:P30156>Insonni</rdamd:P30156>
+      <rdamd:P30117>Jon Fosse ; traduzione di Cristina Falcinella</rdamd:P30117>
+      <rdamd:P30088>Roma</rdamd:P30088>
+      <rdamd:P30111>Roma : Fandango libri, 2011</rdamd:P30111>
+      <rdamd:P30083>Fandango libri</rdamd:P30083>
+      <rdamd:P30011>2011</rdamd:P30011>
+      <rdamd:P30182>70 s.</rdamd:P30182>
+      <rdamd:P30106>Mine vaganti</rdamd:P30106>
+      <rdamd:P30165>41</rdamd:P30165>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/ita/1020/falcinella"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789028423497">
+      <rdamd:P30004>ISBN 9789028423497</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789028423497</rdaxd:P00018>
+      <rdfs:label>ISBN9789028423497</rdfs:label>
+      <rdamd:P30156>Slapeloos</rdamd:P30156>
+      <rdamd:P30117>Jon Fosse ; [uit het Noors vertaald door Marianne Molenaar]</rdamd:P30117>
+      <rdamd:P30088>Amsterdam</rdamd:P30088>
+      <rdamd:P30111>Amsterdam : Wereldbibliotheek, 2010</rdamd:P30111>
+      <rdamd:P30083>Wereldbibliotheek</rdamd:P30083>
+      <rdamd:P30011>2010</rdamd:P30011>
+      <rdamd:P30182>79 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/dut/1020/molenaar"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789100105938">
+      <rdamd:P30004>ISBN 9789100105938</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789100105938</rdaxd:P00018>
+      <rdfs:label>ISBN9789100105938</rdfs:label>
+      <rdamd:P30156>Det är Ales ; och Sömnlösa</rdamd:P30156>
+      <rdamd:P30117>Jon Fosse ; översättning Urban Andersson</rdamd:P30117>
+      <rdamd:P30088>Stockholm</rdamd:P30088>
+      <rdamd:P30111>Stockholm : Bonnier, 2010</rdamd:P30111>
+      <rdamd:P30083>Bonnier</rdamd:P30083>
+      <rdamd:P30011>2010</rdamd:P30011>
+      <rdamd:P30182>174 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/swe/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789100154691">
+      <rdamd:P30004>ISBN 978-91-0-015469-1</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789100154691</rdaxd:P00018>
+      <rdfs:label>ISBN978-91-0-015469-1</rdfs:label>
+      <rdamd:P30156>Trilogin</rdamd:P30156>
+      <rdamd:P30117>Jon Fosse ; översättning av Urban Andersson</rdamd:P30117>
+      <rdamd:P30088>[Stockholm]</rdamd:P30088>
+      <rdamd:P30111>[Stockholm] : Bonnier, 2015</rdamd:P30111>
+      <rdamd:P30083>Bonnier</rdamd:P30083>
+      <rdamd:P30011>2015</rdamd:P30011>
+      <rdamd:P30182>190 s., 21 cm.</rdamd:P30182>
+      <rdamd:P30137>Originaltitler: Andvake ; Olavs draumar ; Kveldsvævd</rdamd:P30137>
+      <rdamd:P30033>Innhold: Sömnlösa ; Olavs drömmar ; Kvällning</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1062164661877003390007/exp/swe/1020/andersson"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/swe/1020/andersson"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/swe/1020/andersson"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/swe/1020/andersson"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789778638042">
+      <rdamd:P30004>ISBN 978-977-86380-4-2</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789778638042</rdaxd:P00018>
+      <rdfs:label>ISBN978-977-86380-4-2</rdfs:label>
+      <rdamd:P30156>Thulāthīyat</rdamd:P30156>
+      <rdamd:P30142>riwāyah</rdamd:P30142>
+      <rdamd:P30117>Yun Fusih</rdamd:P30117>
+      <rdamd:P30107>al-Tab'ah al-ūlá</rdamd:P30107>
+      <rdamd:P30088>al Qāhirah</rdamd:P30088>
+      <rdamd:P30111>al Qāhirah : al-Karmah lil-Nashr, 2023</rdamd:P30111>
+      <rdamd:P30083>al-Karmah lil-Nashr</rdamd:P30083>
+      <rdamd:P30011>2023</rdamd:P30011>
+      <rdamd:P30182>213 sider.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1062164661877003390007/exp/ara/1020/abdel"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789895647613">
+      <rdamd:P30004>ISBN 9789895647613</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789895647613</rdaxd:P00018>
+      <rdfs:label>ISBN9789895647613</rdfs:label>
+      <rdamd:P30156>Trilogia</rdamd:P30156>
+      <rdamd:P30117>Jon Fosse ; trad. Liliete Martins</rdamd:P30117>
+      <rdamd:P30107>2a ed</rdamd:P30107>
+      <rdamd:P30088>Amadora</rdamd:P30088>
+      <rdamd:P30111>Amadora : Cavalo de ferro, 2021</rdamd:P30111>
+      <rdamd:P30083>Cavalo de ferro</rdamd:P30083>
+      <rdamd:P30011>2021</rdamd:P30011>
+      <rdamd:P30182>204 sider.</rdamd:P30182>
+      <rdamd:P30137>Originaltitler: Andvake ; Olavs draumar ; Kveldsvævd</rdamd:P30137>
+      <rdamd:P30033>Vigília ; Os sonhos de Olav ; Fadiga</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1062164661877003390007/exp/por/1020/martins"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/por/1020/martins"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/por/1020/martins"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/por/1020/martins"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789928323439">
+      <rdamd:P30004>ISBN 9789928323439</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789928323439</rdaxd:P00018>
+      <rdfs:label>ISBN9789928323439</rdfs:label>
+      <rdamd:P30156>Trilogji</rdamd:P30156>
+      <rdamd:P30117>Jon Fosse</rdamd:P30117>
+      <rdamd:P30088>Tiranë</rdamd:P30088>
+      <rdamd:P30111>Tiranë : Aleph, nëntor 2023</rdamd:P30111>
+      <rdamd:P30083>Aleph</rdamd:P30083>
+      <rdamd:P30011>nëntor 2023</rdamd:P30011>
+      <rdamd:P30182>215 sider.</rdamd:P30182>
+      <rdamd:P30137>Originaltitler: Andvake ; Olavs draumar ; Kveldsvævd</rdamd:P30137>
+      <rdamd:P30033>Pagjumësi ; Ëndërr e Olafit ; Rraskapitje</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1062164661877003390007/exp/alb/1020/tace"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/alb/1020/tace"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/alb/1020/tace"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/alb/1020/tace"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789935401410">
+      <rdamd:P30004>ISBN 978-9935-401-41-0</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789935401410</rdaxd:P00018>
+      <rdfs:label>ISBN978-9935-401-41-0</rdfs:label>
+      <rdamd:P30156>Andvaka</rdamd:P30156>
+      <rdamd:P30142>frásögn</rdamd:P30142>
+      <rdamd:P30117>Jon Fosse ; Hjalti Rögnvaldsson íslenskaði</rdamd:P30117>
+      <rdamd:P30088>Reykjavík</rdamd:P30088>
+      <rdamd:P30111>Reykjavík : Dimma, 2016</rdamd:P30111>
+      <rdamd:P30083>Dimma</rdamd:P30083>
+      <rdamd:P30011>2016</rdamd:P30011>
+      <rdamd:P30182>72 s., 19 cm.</rdamd:P30182>
+      <rdamd:P30106>[Þrileikur]</rdamd:P30106>
+      <rdamd:P30165>1</rdamd:P30165>
+      <rdamd:P30137>Inngår i en trilogi</rdamd:P30137>
+      <rdamd:P30137>På bandrerole: Þrileikurinn</rdamd:P30137>
+      <rdamd:P30137>På bokryggene når bindene står samlet: Þrileikur</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/ice/1020/27145970323532252301"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789935401427">
+      <rdamd:P30004>ISBN 978-9935-401-42-7</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789935401427</rdaxd:P00018>
+      <rdfs:label>ISBN978-9935-401-42-7</rdfs:label>
+      <rdamd:P30156>Draumar Ólafs</rdamd:P30156>
+      <rdamd:P30142>frásögn</rdamd:P30142>
+      <rdamd:P30117>Jon Fosse ; Hjalti Rögnvaldsson íslenskaði</rdamd:P30117>
+      <rdamd:P30088>Reykjavík</rdamd:P30088>
+      <rdamd:P30111>Reykjavík : Dimma, 2016</rdamd:P30111>
+      <rdamd:P30083>Dimma</rdamd:P30083>
+      <rdamd:P30011>2016</rdamd:P30011>
+      <rdamd:P30182>85 s., 19 cm.</rdamd:P30182>
+      <rdamd:P30106>[Þrileikur]</rdamd:P30106>
+      <rdamd:P30165>2</rdamd:P30165>
+      <rdamd:P30137>Inngår i en trilogi</rdamd:P30137>
+      <rdamd:P30137>På bandrerole: Þrileikurinn</rdamd:P30137>
+      <rdamd:P30137>På bokryggene når bindene står samlet: Þrileikur</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/ice/1020/27145970323532252301"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789935401434">
+      <rdamd:P30004>ISBN 978-9935-401-43-4</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789935401434</rdaxd:P00018>
+      <rdfs:label>ISBN978-9935-401-43-4</rdfs:label>
+      <rdamd:P30156>Kvöldsyfja</rdamd:P30156>
+      <rdamd:P30142>frásögn</rdamd:P30142>
+      <rdamd:P30117>Jon Fosse ; Hjalti Rögnvaldsson íslenskaði</rdamd:P30117>
+      <rdamd:P30088>Reykjavík</rdamd:P30088>
+      <rdamd:P30111>Reykjavík : Dimma, 2016</rdamd:P30111>
+      <rdamd:P30083>Dimma</rdamd:P30083>
+      <rdamd:P30011>2016</rdamd:P30011>
+      <rdamd:P30182>61 s., 19 cm.</rdamd:P30182>
+      <rdamd:P30106>[Þrileikur]</rdamd:P30106>
+      <rdamd:P30165>3</rdamd:P30165>
+      <rdamd:P30137>Inngår i en trilogi</rdamd:P30137>
+      <rdamd:P30137>På bandrerole: Þrileikurinn</rdamd:P30137>
+      <rdamd:P30137>På bokryggene når bindene står samlet: Þrileikur</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/ice/1020/27145970323532252301"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789949596140">
+      <rdamd:P30004>ISBN 978-9949-596-14-0</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789949596140</rdaxd:P00018>
+      <rdfs:label>ISBN978-9949-596-14-0</rdfs:label>
+      <rdamd:P30156>Triloogia</rdamd:P30156>
+      <rdamd:P30142>Unetu, Olavi unenäod, Õhtuväsimus</rdamd:P30142>
+      <rdamd:P30117>Jon Fosse ; norra keelest tõlkinud Eha Vain</rdamd:P30117>
+      <rdamd:P30088>Tallinn</rdamd:P30088>
+      <rdamd:P30111>Tallinn : Eesti Raamat, 2017</rdamd:P30111>
+      <rdamd:P30083>Eesti Raamat</rdamd:P30083>
+      <rdamd:P30011>2017</rdamd:P30011>
+      <rdamd:P30182>157 s., 22 cm.</rdamd:P30182>
+      <rdamd:P30106>Põhjamaade romaan</rdamd:P30106>
+      <rdamd:P30033>Innhold: Unetu ; Olavi unenäod ; Õhtuväsimu. Originaltitler henholdsvis: Andvake ; Olavs draumar ; Kveldsvævd</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1062164661877003390007/exp/est/1020/vain"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/7707165326352216290002/exp/est/1020/vain"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1535159478113827990002/exp/est/1020/vain"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/3303165326534316290003/exp/est/1020/vain"/>
+   </rdac:C10007>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/alb">
+      <rdfs:label>alb</rdfs:label>
+      <skos:subjectIndicator>alb</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/ara">
+      <rdfs:label>ara</rdfs:label>
+      <skos:subjectIndicator>ara</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/bul">
+      <rdfs:label>bul</rdfs:label>
+      <skos:subjectIndicator>bul</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/cze">
+      <rdfs:label>cze</rdfs:label>
+      <skos:subjectIndicator>cze</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/dan">
+      <rdfs:label>dan</rdfs:label>
+      <skos:subjectIndicator>dan</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/dut">
+      <rdfs:label>dut</rdfs:label>
+      <skos:subjectIndicator>dut</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/eng">
+      <rdfs:label>eng</rdfs:label>
+      <skos:subjectIndicator>eng</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/est">
+      <rdfs:label>est</rdfs:label>
+      <skos:subjectIndicator>est</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/fre">
+      <rdfs:label>fre</rdfs:label>
+      <skos:subjectIndicator>fre</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/ger">
+      <rdfs:label>ger</rdfs:label>
+      <skos:subjectIndicator>ger</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/hun">
+      <rdfs:label>hun</rdfs:label>
+      <skos:subjectIndicator>hun</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/ice">
+      <rdfs:label>ice</rdfs:label>
+      <skos:subjectIndicator>ice</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/ita">
+      <rdfs:label>ita</rdfs:label>
+      <skos:subjectIndicator>ita</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/mac">
+      <rdfs:label>mac</rdfs:label>
+      <skos:subjectIndicator>mac</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/nno">
+      <rdfs:label>nno</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/nob">
+      <rdfs:label>nob</rdfs:label>
+      <skos:subjectIndicator>nob</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/nor">
+      <rdfs:label>nor</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/pol">
+      <rdfs:label>pol</rdfs:label>
+      <skos:subjectIndicator>pol</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/por">
+      <rdfs:label>por</rdfs:label>
+      <skos:subjectIndicator>por</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/rus">
+      <rdfs:label>rus</rdfs:label>
+      <skos:subjectIndicator>rus</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/slo">
+      <rdfs:label>slo</rdfs:label>
+      <skos:subjectIndicator>slo</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/spa">
+      <rdfs:label>spa</rdfs:label>
+      <skos:subjectIndicator>spa</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/swe">
+      <rdfs:label>swe</rdfs:label>
+      <skos:subjectIndicator>swe</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/tur">
+      <rdfs:label>tur</rdfs:label>
+      <skos:subjectIndicator>tur</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1018">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1018</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1049">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1049</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1020">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1020</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1003">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1003</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1007">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1007</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://www.rdaregistry.info/termList/RDACarrierType/#1049">
+      <skos:subjectIndicator>http://www.rdaregistry.info/termList/RDACarrierType/#1049</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://www.rdaregistry.info/termList/RDAMediaType/#1007">
+      <skos:subjectIndicator>http://www.rdaregistry.info/termList/RDAMediaType/#1007</skos:subjectIndicator>
+   </skos:Concept>
+</rdf:RDF>
