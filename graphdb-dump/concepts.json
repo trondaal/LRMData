@@ -175,17 +175,6 @@
             {
                 "concept": {
                     "type": "uri",
-                    "value": "http://id.loc.gov/vocabulary/iso639-2/nor"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Norwegian"
-                }
-            },
-            {
-                "concept": {
-                    "type": "uri",
                     "value": "http://id.loc.gov/vocabulary/iso639-2/pol"
                 },
                 "label": {
@@ -252,6 +241,17 @@
             {
                 "concept": {
                     "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1004"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Audio disc"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
                     "value": "http://rdaregistry.info/termList/RDACarrierType/1018"
                 },
                 "label": {
@@ -274,12 +274,45 @@
             {
                 "concept": {
                     "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1010"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Score"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1013"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Audio book"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
                     "value": "http://rdaregistry.info/termList/RDAContentType/1020"
                 },
                 "label": {
                     "xml:lang": "gden",
                     "type": "literal",
                     "value": "Text"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAMediaType/1001"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Audio"
                 }
             },
             {

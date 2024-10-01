@@ -848,82 +848,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/1062164661877003390007/exp/nno/eide"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/object/P20022"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Narrator"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://example.org/eide"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/7707165326352216290002/exp/nno/eide"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/object/P20022"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Narrator"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://example.org/eide"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/1535159478113827990002/exp/nno/eide"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/object/P20022"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Narrator"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://example.org/eide"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/3303165326534316290003/exp/nno/eide"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/object/P20022"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Narrator"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://example.org/eide"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/1062164661877003390007/exp/por/1020/braga"
                 },
                 "p": {
@@ -1532,44 +1456,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/7707165326352216290002/exp/ger/79151651/8082914"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/object/P20022"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Narrator"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://bare.no/8082914"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/7707165326352216290002/exp/ger/79151651/8082914"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/object/P20037"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Translator"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/79151651"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/7707165326352216290002/exp/ice/1020/27145970323532252301"
                 },
                 "p": {
@@ -1641,6 +1527,120 @@
                 "o": {
                     "type": "uri",
                     "value": "http://example.org/fedorova"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/1062164661877003390007/exp/nno/1013/eide"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20022"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Narrator"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://example.org/eide"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/7707165326352216290002/exp/nno/1013/eide"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20022"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Narrator"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://example.org/eide"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/1535159478113827990002/exp/nno/1013/eide"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20022"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Narrator"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://example.org/eide"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/3303165326534316290003/exp/nno/1013/eide"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20022"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Narrator"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://example.org/eide"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/7707165326352216290002/exp/ger/1013/79151651/8082914"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20022"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Narrator"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://bare.no/8082914"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/7707165326352216290002/exp/ger/1013/79151651/8082914"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20037"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Translator"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/79151651"
                 }
             }
         ]

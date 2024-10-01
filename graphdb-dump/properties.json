@@ -311,7 +311,7 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/7707165326352216290002/program"
+                    "value": "http://viaf.org/viaf/7707165326352216290002/hordalandteater/program"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -1301,51 +1301,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://example.com/edda/exp/nno"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "titlepreferred"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Edda"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.com/edda/exp/nno"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Edda : den eldre Edda i ein scenisk versjon"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://example.com/edda/exp/nno"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "titlevariant"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Edda"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "http://example.com/enkeltogdjupt/exp/nno/1020"
                 },
                 "label": {
@@ -1940,6 +1895,21 @@
                 },
                 "value": {
                     "type": "literal",
+                    "value": "Short stories"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/1062164661877003390007/exp/nno/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
+                },
+                "value": {
+                    "type": "literal",
                     "value": "Trilogien"
                 }
             },
@@ -2126,126 +2096,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/1062164661877003390007/exp/nor/1020"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Trilogien"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/1062164661877003390007/exp/nor/1020"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "titlevariant"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Short stories"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/1062164661877003390007/exp/nor/1020"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "titlevariant"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Trilogien"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/7707165326352216290002/exp/nor/1020"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "titlepreferred"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Andvake"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/7707165326352216290002/exp/nor/1020"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Andvake"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/1535159478113827990002/exp/nor/1020"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "titlepreferred"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Olavs draumar"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/1535159478113827990002/exp/nor/1020"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Olavs draumar"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/3303165326534316290003/exp/nor/1020"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Kveldsv\u00e6vd"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/7707165326352216290002/exp/swe/1020"
                 },
                 "label": {
@@ -2271,36 +2121,6 @@
                 "value": {
                     "type": "literal",
                     "value": "Andvake"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/1535159478113827990002/musikk/exp/nno"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "\u00c5 synge Olavs draumar"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/1535159478113827990002/musikk/exp/nno"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "titlevariant"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Olavs draumar"
                 }
             },
             {
@@ -3357,141 +3177,6 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/3303165326534316290003/exp/hun/1020/78238585"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Kveldsv\u00e6vd"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/1062164661877003390007/exp/nno/eide"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "contentsnote"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Andvake ; Olavs draumar ; Kveldsv\u00e6vd"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/1062164661877003390007/exp/nno/eide"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Trilogien"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/1062164661877003390007/exp/nno/eide"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "titlevariant"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Trilogien"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/7707165326352216290002/exp/nno/eide"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "titlepreferred"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Andvake"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/7707165326352216290002/exp/nno/eide"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Andvake"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/1535159478113827990002/exp/nno/eide"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "titlepreferred"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Olavs draumar"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/1535159478113827990002/exp/nno/eide"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Olavs draumar"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/3303165326534316290003/exp/nno/eide"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "titlepreferred"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Kveldsv\u00e6vd"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/3303165326534316290003/exp/nno/eide"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -4721,51 +4406,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/7707165326352216290002/exp/ger/79151651/8082914"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "titlepreferred"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Schlaflos"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/7707165326352216290002/exp/ger/79151651/8082914"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Christian Br\u00fcckner liest Jon Fosse: Schlaflos"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/7707165326352216290002/exp/ger/79151651/8082914"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "titlevariant"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Andvake"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/7707165326352216290002/exp/ice/1020/27145970323532252301"
                 },
                 "label": {
@@ -4916,7 +4556,262 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/7707165326352216290002/program/exp/nno"
+                    "value": "http://example.com/edda/exp/nno/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlepreferred"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Edda"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.com/edda/exp/nno/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Edda : den eldre Edda i ein scenisk versjon"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.com/edda/exp/nno/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Edda"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/1062164661877003390007/exp/nno/1013/eide"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "contentsnote"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Andvake ; Olavs draumar ; Kveldsv\u00e6vd"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/1062164661877003390007/exp/nno/1013/eide"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Trilogien"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/1062164661877003390007/exp/nno/1013/eide"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Trilogien"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/7707165326352216290002/exp/nno/1013/eide"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlepreferred"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Andvake"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/7707165326352216290002/exp/nno/1013/eide"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Andvake"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/1535159478113827990002/exp/nno/1013/eide"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlepreferred"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Olavs draumar"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/1535159478113827990002/exp/nno/1013/eide"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Olavs draumar"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/3303165326534316290003/exp/nno/1013/eide"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlepreferred"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Kveldsv\u00e6vd"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/3303165326534316290003/exp/nno/1013/eide"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Kveldsv\u00e6vd"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/1535159478113827990002/musikk/exp/nno/1010"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "\u00c5 synge Olavs draumar"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/1535159478113827990002/musikk/exp/nno/1010"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Olavs draumar"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/7707165326352216290002/exp/ger/1013/79151651/8082914"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlepreferred"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Schlaflos"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/7707165326352216290002/exp/ger/1013/79151651/8082914"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Christian Br\u00fcckner liest Jon Fosse: Schlaflos"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/7707165326352216290002/exp/ger/1013/79151651/8082914"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Andvake"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/7707165326352216290002/hordalandteater/program/exp/nno/1020"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -4931,7 +4826,7 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/7707165326352216290002/program/exp/nno"
+                    "value": "http://viaf.org/viaf/7707165326352216290002/hordalandteater/program/exp/nno/1020"
                 },
                 "label": {
                     "xml:lang": "gden",
