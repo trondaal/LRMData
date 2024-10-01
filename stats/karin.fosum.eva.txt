@@ -14,6 +14,7 @@ Agenter identifisert med URI
 * http://example.org/armand (700) : Armand, Gisken
 * http://example.org/briedis (700) : Briedis, Sandris
 * http://viaf.org/viaf/120627630 (100) : Fossum, Karin
+* http://viaf.org/viaf/9129151051843933530004 (700) : Fossum, Karin
 * http://viaf.org/viaf/228782183 (700) : Grundvig, Kirsti
 * http://example.org/haefs (700) : Haefs, Gabriele
 * http://example.org/jessen (700) : Jessen, Ida
@@ -32,7 +33,6 @@ Agenter identifisert med URI
 Agent-innførsler som IKKE er identifiser med URI i $1
 men dere velger selv hvilke agenter som skal være med
 -------------------------------------------------------
-* 700  1#  $aFossum, Karin  $d1954-  $0(NO-TrBIB)90608300
 * 710  2#  $aNRK drama  $0(NO-TrBIB)68439
 
 
@@ -48,6 +48,12 @@ Verk identifisert med URI
 * https://www.imdb.com/title/tt0188605 = Evas øye (filmatisering 
 
 
+URIer som brukes til både verk og agent
+kan være fordi dere bruker feil URI, eller pga hvordan subfelt er brukt
+-------------------------------------------------------
+http://viaf.org/viaf/9129151051843933530004 
+
+
 Oversikt over URI relasjonstyper for Agent brukt i samlingen
 verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 -------------------------------------------------------
@@ -56,6 +62,7 @@ verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 * http://rdaregistry.info/Elements/e/object/P20037 (has translator agent) : 21 
 * http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 51 
 * http://rdaregistry.info/Elements/w/object/P10066 (has director agent) : 1 
+* http://rdaregistry.info/Elements/w/object/P10132 (is television adaptation of work) : 1 
 * http://rdaregistry.info/Elements/w/object/P10203 (has screenwriter agent) : 1 
 
 
