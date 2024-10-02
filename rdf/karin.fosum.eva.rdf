@@ -1,0 +1,1408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:map="http://www.w3.org/2005/xpath-functions/map"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:rdac="http://rdaregistry.info/Elements/c/"
+         xmlns:rdaad="http://rdaregistry.info/Elements/a/datatype/"
+         xmlns:rdaao="http://rdaregistry.info/Elements/a/object/"
+         xmlns:rdawd="http://rdaregistry.info/Elements/w/datatype/"
+         xmlns:rdawo="http://rdaregistry.info/Elements/w/object/"
+         xmlns:rdaed="http://rdaregistry.info/Elements/e/datatype/"
+         xmlns:rdaeo="http://rdaregistry.info/Elements/e/object/"
+         xmlns:rdamd="http://rdaregistry.info/Elements/m/datatype/"
+         xmlns:rdamo="http://rdaregistry.info/Elements/m/object/"
+         xmlns:rdaxd="http://rdaregistry.info/Elements/x/datatype/"
+         xmlns:mads="http://www.loc.gov/mads/rdf/v1#"
+         xmlns:mmmm="http://www.loc.gov/MARC21/slim/"
+         xmlns:rdaco="http://rdaregistry.info/termList/RDAContentType/"
+         xmlns:rdact="http://rdaregistry.info/termList/RDACarrierType/"
+         xmlns:rdamt="http://rdaregistry.info/termList/RDAMediaType/"
+         xmlns:rdat="http://rdaregistry.info/termList/"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:ex="http://www.example.org/">
+   <rdac:C10001 rdf:about="http://example.org/fossum/001">
+      <rdaxd:P00018>http://example.org/fossum/001</rdaxd:P00018>
+      <rdawd:P10088>Evas öga ; Se dig inte om! ; Den som fruktar vargen</rdawd:P10088>
+      <rdfs:label>Evas öga ; Se dig inte om! ; Den som fruktar vargen (Fossum, Karin)</rdfs:label>
+      <rdaxd:P00029>Novel collection</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://example.org/fossum/002">
+      <rdaxd:P00018>http://example.org/fossum/002</rdaxd:P00018>
+      <rdawd:P10088>Evas Auge ; Fremde Blicke</rdawd:P10088>
+      <rdfs:label>Evas Auge ; Fremde Blicke (Fossum, Karin)</rdfs:label>
+      <rdaxd:P00029>Novel collection</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://example.org/fossum/003">
+      <rdaxd:P00018>http://example.org/fossum/003</rdaxd:P00018>
+      <rdawd:P10088>Evas øye ; Se deg ikke tilbake!</rdawd:P10088>
+      <rdfs:label>Evas øye ; Se deg ikke tilbake! (Fossum, Karin)</rdfs:label>
+      <rdaxd:P00029>Novel collection</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/2036167764294613890005">
+      <rdaxd:P00018>http://viaf.org/viaf/2036167764294613890005</rdaxd:P00018>
+      <rdawd:P10088>Den som fruktar vargen</rdawd:P10088>
+      <rdfs:label>Den som fruktar vargen (Fossum, Karin)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/2949151051818133530003">
+      <rdaxd:P00018>http://viaf.org/viaf/2949151051818133530003</rdaxd:P00018>
+      <rdawd:P10088>Evas øye</rdawd:P10088>
+      <rdfs:label>Evas øye (Fossum, Karin)</rdfs:label>
+      <rdaxd:P00029>Novel</rdaxd:P00029>
+      <rdawd:P10330>Eva Magnus, idealistisk kunstner og alenemor, er i ferd med å trå over grenser. Barndomsvenninnen, Marie Durban, dukker plutselig opp og forteller at hun livnærer seg som luksusprostituert. Og det akkurat den dagen Eva står foran kjøpesenteret med tom lommebok og en bunke regninger.</rdawd:P10330>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/9129151051843933530004">
+      <rdaxd:P00018>http://viaf.org/viaf/9129151051843933530004</rdaxd:P00018>
+      <rdawd:P10088>Se deg ikke tilbake</rdawd:P10088>
+      <rdfs:label>Se deg ikke tilbake (Fossum, Karin)</rdfs:label>
+      <rdaxd:P00029>Novel</rdaxd:P00029>
+      <rdawd:P10330>"Han plystret en tone og følte seg ovenpå, der han tronte bak rattet i den store bilen med den lille jenta baki. Virkelig ovenpå." En seksårig jente er meldt savnet. Kort tid etter blir liket av tenåringsjenta Annie Holland funnet i utkanten av den lille bygda hvor alle kjenner alle. Førstebetjent Konrad Sejer er i gang med en ny vanskelig sak.</rdawd:P10330>
+      <rdaad:P50385>Fossum, Karin</rdaad:P50385>
+      <rdfs:label>Fossum, Karin</rdfs:label>
+      <rdaad:P50339>1954-</rdaad:P50339>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/9129151051843933530004/tvmanus">
+      <rdaxd:P00018>http://viaf.org/viaf/9129151051843933530004/tvmanus</rdaxd:P00018>
+      <rdawd:P10088>Se deg ikke tilbake (tv-manus)</rdawd:P10088>
+      <rdfs:label>Se deg ikke tilbake (tv-manus) (Vikene, Åse)</rdfs:label>
+      <rdaxd:P00029>TV-manus</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/315556159"/>
+      <rdawo:P10132 rdf:resource="http://viaf.org/viaf/9129151051843933530004"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.imdb.com/title/tt0188605">
+      <rdaxd:P00018>https://www.imdb.com/title/tt0188605</rdaxd:P00018>
+      <rdawd:P10088>Evas øye (filmatisering</rdawd:P10088>
+      <rdfs:label>Evas øye (filmatisering</rdfs:label>
+      <rdaxd:P00029>Movie</rdaxd:P00029>
+      <rdawo:P10066 rdf:resource="http://example.org/nesheim"/>
+      <rdawo:P10129 rdf:resource="http://viaf.org/viaf/2949151051818133530003"/>
+      <rdawo:P10203 rdf:resource="http://example.org/nesheim"/>
+   </rdac:C10001>
+   <rdac:C10002 rdf:about="http://example.org/andeson">
+      <rdaxd:P00018>http://example.org/andeson</rdaxd:P00018>
+      <rdaad:P50385>Anderson, James</rdaad:P50385>
+      <rdfs:label>Anderson, James</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://example.org/armand">
+      <rdaxd:P00018>http://example.org/armand</rdaxd:P00018>
+      <rdaad:P50385>Armand, Gisken</rdaad:P50385>
+      <rdfs:label>Armand, Gisken</rdfs:label>
+      <rdaad:P50339>1962-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://example.org/briedis">
+      <rdaxd:P00018>http://example.org/briedis</rdaxd:P00018>
+      <rdaad:P50385>Briedis, Sandris</rdaad:P50385>
+      <rdfs:label>Briedis, Sandris</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://example.org/haefs">
+      <rdaxd:P00018>http://example.org/haefs</rdaxd:P00018>
+      <rdaad:P50385>Haefs, Gabriele</rdaad:P50385>
+      <rdfs:label>Haefs, Gabriele</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://example.org/jessen">
+      <rdaxd:P00018>http://example.org/jessen</rdaxd:P00018>
+      <rdaad:P50385>Jessen, Ida</rdaad:P50385>
+      <rdfs:label>Jessen, Ida</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://example.org/nesheim">
+      <rdaxd:P00018>http://example.org/nesheim</rdaxd:P00018>
+      <rdaad:P50385>Nesheim, Berit</rdaad:P50385>
+      <rdfs:label>Nesheim, Berit</rdfs:label>
+      <rdaad:P50339>1945-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://example.org/ousdal">
+      <rdaxd:P00018>http://example.org/ousdal</rdaxd:P00018>
+      <rdaad:P50385>Ousdal, Sverre Anker</rdaad:P50385>
+      <rdfs:label>Ousdal, Sverre Anker</rdfs:label>
+      <rdaad:P50339>1944-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://example.org/smit">
+      <rdaxd:P00018>http://example.org/smit</rdaxd:P00018>
+      <rdaad:P50385>Smit, Annemarie</rdaad:P50385>
+      <rdfs:label>Smit, Annemarie</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://example.org/sundquist">
+      <rdaxd:P00018>http://example.org/sundquist</rdaxd:P00018>
+      <rdaad:P50385>Sundquist, Bjørn</rdaad:P50385>
+      <rdfs:label>Sundquist, Bjørn</rdfs:label>
+      <rdaad:P50339>1948-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://example.org/sæter">
+      <rdaxd:P00018>http://example.org/sæter</rdaxd:P00018>
+      <rdaad:P50385>Sæther, Andrine</rdaad:P50385>
+      <rdfs:label>Sæther, Andrine</rdfs:label>
+      <rdaad:P50339>1964-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://example.org/teva">
+      <rdaxd:P00018>http://example.org/teva</rdaxd:P00018>
+      <rdaad:P50385>Teva, Tarja</rdaad:P50385>
+      <rdfs:label>Teva, Tarja</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/120226803">
+      <rdaxd:P00018>http://viaf.org/viaf/120226803</rdaxd:P00018>
+      <rdaad:P50385>Örnkloo, Helena</rdaad:P50385>
+      <rdfs:label>Örnkloo, Helena</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/120627630">
+      <rdaxd:P00018>http://viaf.org/viaf/120627630</rdaxd:P00018>
+      <rdaad:P50385>Fossum, Karin</rdaad:P50385>
+      <rdfs:label>Fossum, Karin</rdfs:label>
+      <rdaad:P50339>1954-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/228782183">
+      <rdaxd:P00018>http://viaf.org/viaf/228782183</rdaxd:P00018>
+      <rdaad:P50385>Grundvig, Kirsti</rdaad:P50385>
+      <rdfs:label>Grundvig, Kirsti</rdfs:label>
+      <rdaad:P50339>1947-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/228991488">
+      <rdaxd:P00018>http://viaf.org/viaf/228991488</rdaxd:P00018>
+      <rdaad:P50385>Lund, Trini</rdaad:P50385>
+      <rdfs:label>Lund, Trini</rdfs:label>
+      <rdaad:P50339>1951-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/315556159">
+      <rdaxd:P00018>http://viaf.org/viaf/315556159</rdaxd:P00018>
+      <rdaad:P50385>Vikene, Åse</rdaad:P50385>
+      <rdfs:label>Vikene, Åse</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/61517877">
+      <rdaxd:P00018>http://viaf.org/viaf/61517877</rdaxd:P00018>
+      <rdaad:P50385>Örnkloo, Ulf</rdaad:P50385>
+      <rdfs:label>Örnkloo, Ulf</rdfs:label>
+      <rdaad:P50385>Haefs, Gabriele</rdaad:P50385>
+      <rdfs:label>Haefs, Gabriele</rdfs:label>
+      <rdaad:P50339>1953-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10006 rdf:about="http://example.org/fossum/001/exp/swe/1020/120226803/61517877">
+      <rdaed:P20316>Evas öga ; Se dig inte om! ; Den som fruktar vargen</rdaed:P20316>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>Evas öga ; Se dig inte om! ; Den som fruktar vargen</rdaed:P20312>
+      <rdaed:P20071>Evas öga -- Se dig inte om! -- Den som fruktar vargen</rdaed:P20071>
+      <rdaed:P20315>Evas öga ; Se dig inte om! ; Den som fruktar vargen</rdaed:P20315>
+      <rdfs:label>Evas öga ; Se dig inte om! ; Den som fruktar vargen (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/swe"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/120226803"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/61517877"/>
+      <rdaeo:P20231 rdf:resource="http://example.org/fossum/001"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/2036167764294613890005/exp/swe/1020/120226803/61517877"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/swe/1020/120226803/61517877"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/9129151051843933530004/exp/swe/1020/120226803/61517877"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://example.org/fossum/002/exp/ger/1020/61517877">
+      <rdaed:P20316>Evas Auge ; Fremde Blicke</rdaed:P20316>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>Evas Auge ; Fremde Blicke : zwei Bestseller in einem Band</rdaed:P20312>
+      <rdaed:P20315>Evas Auge ; Fremde Blicke</rdaed:P20315>
+      <rdfs:label>Evas Auge ; Fremde Blicke (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/61517877"/>
+      <rdaeo:P20231 rdf:resource="http://example.org/fossum/002"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/ger/1020/61517877"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/9129151051843933530004/exp/ger/1020/61517877"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://example.org/fossum/003/exp/nob/1020">
+      <rdaed:P20316>Evas øye ; Se deg ikke tilbake!</rdaed:P20316>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>Evas øye ; Se deg ikke tilbake!</rdaed:P20312>
+      <rdaed:P20071>Evas øye -- Se deg ikke tilbake!</rdaed:P20071>
+      <rdaed:P20315>Evas øye ; Se deg ikke tilbake!</rdaed:P20315>
+      <rdfs:label>Evas øye ; Se deg ikke tilbake! (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://example.org/fossum/003"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/9129151051843933530004/exp/nob/1020"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/2036167764294613890005/exp/swe/1020/120226803/61517877">
+      <rdaed:P20312>Den som fruktar vargen</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Den som fruktar vargen (Fossum, Karin)</rdfs:label>
+      <rdaed:P20315>Den som fruktar vargen</rdaed:P20315>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/swe"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/120226803"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/61517877"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/2036167764294613890005"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/2949151051818133530003/exp/dan/1020/jessen">
+      <rdaed:P20316>Evas øye</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Evas øje</rdaed:P20312>
+      <rdaed:P20315>Evas øye</rdaed:P20315>
+      <rdfs:label>Evas øye (Fossum, Karin)</rdfs:label>
+      <rdaed:P20315>Evas øje</rdaed:P20315>
+      <rdfs:label>Evas øje (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dan"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/jessen"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/2949151051818133530003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/2949151051818133530003/exp/dut/1020/smit">
+      <rdaed:P20316>Evas øye</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Eva's oog</rdaed:P20312>
+      <rdaed:P20315>Eva's oog</rdaed:P20315>
+      <rdfs:label>Eva's oog (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/dut"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/smit"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/2949151051818133530003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/2949151051818133530003/exp/eng/1020/andeson">
+      <rdaed:P20316>Evas øye</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Eva's eye</rdaed:P20312>
+      <rdaed:P20315>Eva's eye</rdaed:P20315>
+      <rdfs:label>Eva's eye (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/andeson"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/2949151051818133530003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/2949151051818133530003/exp/fin/1020/teva">
+      <rdaed:P20316>Evas øye</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Evan katse : romaani</rdaed:P20312>
+      <rdaed:P20315>Evan Katse</rdaed:P20315>
+      <rdfs:label>Evan Katse (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/fin"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/teva"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/2949151051818133530003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/2949151051818133530003/exp/ger/1020/61517877">
+      <rdaed:P20312>Evas øye</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Evas øye (Fossum, Karin)</rdfs:label>
+      <rdaed:P20315>Evas Auge</rdaed:P20315>
+      <rdfs:label>Evas Auge (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/61517877"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/2949151051818133530003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/2949151051818133530003/exp/ger/1020/haefs">
+      <rdaed:P20316>Evas øye</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Evas Auge : Roman</rdaed:P20312>
+      <rdaed:P20315>Evas Auge</rdaed:P20315>
+      <rdfs:label>Evas Auge (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/haefs"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/2949151051818133530003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/2949151051818133530003/exp/lav/1020/briedis">
+      <rdaed:P20316>Evas øye</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Evas acs</rdaed:P20312>
+      <rdaed:P20315>Evas acs</rdaed:P20315>
+      <rdfs:label>Evas acs (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/lav"/>
+      <rdaeo:P20037 rdf:resource="http://example.org/briedis"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/2949151051818133530003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/2949151051818133530003/exp/nob/1013/228782183">
+      <rdaed:P20316>Evas øye</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Evas øye</rdaed:P20312>
+      <rdaed:P20315>Evas øye</rdaed:P20315>
+      <rdfs:label>Evas øye (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20022 rdf:resource="http://viaf.org/viaf/228782183"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/2949151051818133530003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/2949151051818133530003/exp/nob/1020">
+      <rdaed:P20316>Evas øye</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Evas øye : kriminalroman</rdaed:P20312>
+      <rdaed:P20312>Evas øye</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Evas øye (Fossum, Karin)</rdfs:label>
+      <rdaed:P20315>Evas øye</rdaed:P20315>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/2949151051818133530003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/2949151051818133530003/exp/swe/1020/120226803/61517877">
+      <rdaed:P20316>Evas øye</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Evas öga</rdaed:P20312>
+      <rdaed:P20312>Evas øye</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Evas øye (Fossum, Karin)</rdfs:label>
+      <rdaed:P20315>Evas öga</rdaed:P20315>
+      <rdfs:label>Evas öga (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/swe"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/120226803"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/61517877"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/2949151051818133530003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/2949151051818133530003/exp/und/1013">
+      <rdaed:P20316>Evas øye</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Evas øye</rdaed:P20312>
+      <rdaed:P20315>Evas øye</rdaed:P20315>
+      <rdfs:label>Evas øye (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/und"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/2949151051818133530003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/9129151051843933530004/exp/ger/1020/61517877">
+      <rdaed:P20312>Se deg ikke tilbake</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Se deg ikke tilbake (Fossum, Karin)</rdfs:label>
+      <rdaed:P20315>Fremde Blicke</rdaed:P20315>
+      <rdfs:label>Fremde Blicke (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/61517877"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9129151051843933530004"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/9129151051843933530004/exp/nob/1013/228991488">
+      <rdaed:P20316>Se deg ikke tilbake</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Se deg ikke tilbake!</rdaed:P20312>
+      <rdaed:P20315>Se deg ikke tilbake</rdaed:P20315>
+      <rdfs:label>Se deg ikke tilbake (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20022 rdf:resource="http://viaf.org/viaf/228991488"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9129151051843933530004"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/9129151051843933530004/exp/nob/1020">
+      <rdaed:P20316>Se deg ikke tilbake</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Se deg ikke tilbake! : kriminalroman</rdaed:P20312>
+      <rdaed:P20312>Se deg ikke tilbake</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Se deg ikke tilbake (Fossum, Karin)</rdfs:label>
+      <rdaed:P20315>Se deg ikke tilbake</rdaed:P20315>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9129151051843933530004"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/9129151051843933530004/exp/swe/1020/120226803/61517877">
+      <rdaed:P20312>Se deg ikke tilbake</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Se deg ikke tilbake (Fossum, Karin)</rdfs:label>
+      <rdaed:P20315>Se dig inte om!</rdaed:P20315>
+      <rdfs:label>Se dig inte om! (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/swe"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/120226803"/>
+      <rdaeo:P20037 rdf:resource="http://viaf.org/viaf/61517877"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9129151051843933530004"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/9129151051843933530004/exp/und/1013">
+      <rdaed:P20316>Se deg ikke tilbake</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Se deg ikke tilbake</rdaed:P20312>
+      <rdaed:P20315>Se deg ikke tilbake</rdaed:P20315>
+      <rdfs:label>Se deg ikke tilbake (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/und"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9129151051843933530004"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/9129151051843933530004/tvmanus/exp/nob/1020">
+      <rdaed:P20316>Se deg ikke tilbake (tv-manus)</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Se deg ikke tilbake</rdaed:P20312>
+      <rdaed:P20071>Pike savnet -- Fedre -- Skjulte spor -- Møte med en morder</rdaed:P20071>
+      <rdaed:P20315>Se deg ikke tilbake : tv-manus</rdaed:P20315>
+      <rdfs:label>Se deg ikke tilbake : tv-manus (Vikene, Åse)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9129151051843933530004/tvmanus"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.imdb.com/title/tt0188605/exp/1023">
+      <rdaed:P20316>Evas øye (filmatisering</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Evas øye</rdaed:P20312>
+      <rdfs:label>Evas øye</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1023"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20012 rdf:resource="http://example.org/armand"/>
+      <rdaeo:P20012 rdf:resource="http://example.org/ousdal"/>
+      <rdaeo:P20012 rdf:resource="http://example.org/sæter"/>
+      <rdaeo:P20012 rdf:resource="http://example.org/sundquist"/>
+      <rdaeo:P20231 rdf:resource="https://www.imdb.com/title/tt0188605"/>
+   </rdac:C10006>
+   <rdac:C10007 rdf:about="http://example.org/990308325514702202">
+      <rdamd:P30156>Se deg ikke tilbake</rdamd:P30156>
+      <rdamd:P30117>av Karin Fossum ; dramatisert for fjernsyn av Åse Vikene</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : [NRK drama], 1998</rdamd:P30111>
+      <rdamd:P30083>[NRK drama]</rdamd:P30083>
+      <rdamd:P30011>1998</rdamd:P30011>
+      <rdamd:P30182>208 bl.</rdamd:P30182>
+      <rdamd:P30137>Inneholder 4. episoder: Pike savnet, Fedre, Skjulte spor, Møte med en morder</rdamd:P30137>
+      <rdamd:P30137>TV-manus</rdamd:P30137>
+      <rdamd:P30033>Pike savnet -- Fedre -- Skjulte spor -- Møte med en morder</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9129151051843933530004/tvmanus/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/990418967504702202">
+      <rdamd:P30156>Eva's oog</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum ; [vertaling: Annemarie Smit]</rdamd:P30117>
+      <rdamd:P30088>Antwerpen</rdamd:P30088>
+      <rdamd:P30111>Antwerpen : Manteau, cop. 1998</rdamd:P30111>
+      <rdamd:P30083>Manteau</rdamd:P30083>
+      <rdamd:P30011>cop. 1998</rdamd:P30011>
+      <rdamd:P30182>305 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/dut/1020/smit"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/999919985297502202">
+      <rdamd:P30156>Evas øye</rdamd:P30156>
+      <rdamd:P30117>manus og regi: Berit Nesheim</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Nordisk film, 2009</rdamd:P30111>
+      <rdamd:P30083>Nordisk film</rdamd:P30083>
+      <rdamd:P30011>2009</rdamd:P30011>
+      <rdamd:P30182>1 videoplate (DVD-video) (97 min) : lyd, kol.</rdamd:P30182>
+      <rdamd:P30137>Basert på Karin Fossums roman med samme navn</rdamd:P30137>
+      <rdamd:P30137>Medietilsynet : P7661</rdamd:P30137>
+      <rdamd:P30137>Norsk tale, engelske eller norske undertekster valgbare</rdamd:P30137>
+      <rdamd:P30137>Produksjon: Norge : Northern Lights, 1999.</rdamd:P30137>
+      <rdamd:P30137>Rolleliste: Andrine Sæther, Bjørn Sundquist, Gisken Armand, Sverre Anker Ousdal.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1060"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1008"/>
+      <rdamo:P30139 rdf:resource="https://www.imdb.com/title/tt0188605/exp/1023"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-3492039073">
+      <rdamd:P30004>ISBN 3492039073</rdamd:P30004>
+      <rdaxd:P00018>isbn-3492039073</rdaxd:P00018>
+      <rdfs:label>ISBN3492039073</rdfs:label>
+      <rdamd:P30156>Evas Auge</rdamd:P30156>
+      <rdamd:P30142>Roman</rdamd:P30142>
+      <rdamd:P30117>Karin Fossum ; aus dem Norwegischen von Gabriele Haefs</rdamd:P30117>
+      <rdamd:P30088>München</rdamd:P30088>
+      <rdamd:P30111>München : Piper, cop. 1997</rdamd:P30111>
+      <rdamd:P30083>Piper</rdamd:P30083>
+      <rdamd:P30011>cop. 1997</rdamd:P30011>
+      <rdamd:P30182>367 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/ger/1020/haefs"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-3492238599">
+      <rdamd:P30004>ISBN 3492238599</rdamd:P30004>
+      <rdaxd:P00018>isbn-3492238599</rdaxd:P00018>
+      <rdfs:label>ISBN3492238599</rdfs:label>
+      <rdamd:P30156>Evas Auge</rdamd:P30156>
+      <rdamd:P30142>Roman</rdamd:P30142>
+      <rdamd:P30117>Karin Fossum ; aus dem Norwegischen von Gabriele Haefs</rdamd:P30117>
+      <rdamd:P30107>2. Aufl</rdamd:P30107>
+      <rdamd:P30088>München</rdamd:P30088>
+      <rdamd:P30111>München : Piper, 2004</rdamd:P30111>
+      <rdamd:P30083>Piper</rdamd:P30083>
+      <rdamd:P30011>2004</rdamd:P30011>
+      <rdamd:P30182>367 s.</rdamd:P30182>
+      <rdamd:P30106>Serie Piper</rdamd:P30106>
+      <rdamd:P30165>3859</rdamd:P30165>
+      <rdamd:P30137>Denne utg., 1. oppl. 2003</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/ger/1020/haefs"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-3492243223">
+      <rdamd:P30004>ISBN 3492243223</rdamd:P30004>
+      <rdaxd:P00018>isbn-3492243223</rdaxd:P00018>
+      <rdfs:label>ISBN3492243223</rdfs:label>
+      <rdamd:P30156>Evas Auge ; Fremde Blicke</rdamd:P30156>
+      <rdamd:P30142>zwei Bestseller in einem Band</rdamd:P30142>
+      <rdamd:P30117>Karin Fossum ; aus dem Norwegischen von Gabriele Haefs</rdamd:P30117>
+      <rdamd:P30088>München</rdamd:P30088>
+      <rdamd:P30111>München : Piper, 2005</rdamd:P30111>
+      <rdamd:P30083>Piper</rdamd:P30083>
+      <rdamd:P30011>2005</rdamd:P30011>
+      <rdamd:P30182>347 s.</rdamd:P30182>
+      <rdamd:P30106>Serie Piper</rdamd:P30106>
+      <rdamd:P30165>4322</rdamd:P30165>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://example.org/fossum/002/exp/ger/1020/61517877"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/ger/1020/61517877"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9129151051843933530004/exp/ger/1020/61517877"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8202149932">
+      <rdamd:P30004>ISBN 82-02-14993-2</rdamd:P30004>
+      <rdaxd:P00018>isbn-8202149932</rdaxd:P00018>
+      <rdfs:label>ISBN82-02-14993-2</rdfs:label>
+      <rdamd:P30004>ISBN 82-02-15853-2</rdamd:P30004>
+      <rdaxd:P00018>isbn-8202158532</rdaxd:P00018>
+      <rdfs:label>ISBN82-02-15853-2</rdfs:label>
+      <rdamd:P30156>Evas øye</rdamd:P30156>
+      <rdamd:P30142>kriminalroman</rdamd:P30142>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen, 1995</rdamd:P30111>
+      <rdamd:P30083>Cappelen</rdamd:P30083>
+      <rdamd:P30011>1995</rdamd:P30011>
+      <rdamd:P30182>295 s.</rdamd:P30182>
+      <rdamd:P30137>Opplagshistorikk: 2. oppl. 1995</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8202158885">
+      <rdamd:P30004>ISBN 8202158885</rdamd:P30004>
+      <rdaxd:P00018>isbn-8202158885</rdaxd:P00018>
+      <rdfs:label>ISBN8202158885</rdfs:label>
+      <rdamd:P30004>ISBN 8257411418</rdamd:P30004>
+      <rdaxd:P00018>isbn-8257411418</rdaxd:P00018>
+      <rdfs:label>ISBN8257411418</rdfs:label>
+      <rdamd:P30156>Se deg ikke tilbake!</rdamd:P30156>
+      <rdamd:P30142>kriminalroman</rdamd:P30142>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen, 1996</rdamd:P30111>
+      <rdamd:P30083>Cappelen</rdamd:P30083>
+      <rdamd:P30011>1996</rdamd:P30011>
+      <rdamd:P30182>275 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9129151051843933530004/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8202159334">
+      <rdamd:P30004>ISBN 8202159334</rdamd:P30004>
+      <rdaxd:P00018>isbn-8202159334</rdaxd:P00018>
+      <rdfs:label>ISBN8202159334</rdfs:label>
+      <rdamd:P30156>Evas øye</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen, 1996</rdamd:P30111>
+      <rdamd:P30083>Cappelen</rdamd:P30083>
+      <rdamd:P30011>1996</rdamd:P30011>
+      <rdamd:P30182>295 s.</rdamd:P30182>
+      <rdamd:P30106>Cap spenningens mestere</rdamd:P30106>
+      <rdamd:P30137>1. utg. 1995</rdamd:P30137>
+      <rdamd:P30137>Opplagshistorikk: Denne utg., 2.-3. oppl. 1996; 4. oppl. 1997; 5. oppl. 1998 (Nkr 69.00); 6. oppl. 1999; 7. oppl. 2000; 8. oppl. 2002 (Nkr 89.00)</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8202167132">
+      <rdamd:P30004>ISBN 8202167132</rdamd:P30004>
+      <rdaxd:P00018>isbn-8202167132</rdaxd:P00018>
+      <rdfs:label>ISBN8202167132</rdfs:label>
+      <rdamd:P30156>Evas øye ; Se deg ikke tilbake!</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen : I samarbeid med bokhandlerkjeden Interbok, 1997</rdamd:P30111>
+      <rdamd:P30083>Cappelen</rdamd:P30083>
+      <rdamd:P30083>I samarbeid med bokhandlerkjeden Interbok</rdamd:P30083>
+      <rdamd:P30011>1997</rdamd:P30011>
+      <rdamd:P30182>295, 275 s.</rdamd:P30182>
+      <rdamd:P30137>1. utg. henholdsvis 1995 og 1996</rdamd:P30137>
+      <rdamd:P30137>Undertittel: Kriminalromaner</rdamd:P30137>
+      <rdamd:P30033>Evas øye -- Se deg ikke tilbake!</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://example.org/fossum/003/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9129151051843933530004/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8202167159">
+      <rdamd:P30004>ISBN 8202167159</rdamd:P30004>
+      <rdaxd:P00018>isbn-8202167159</rdaxd:P00018>
+      <rdfs:label>ISBN8202167159</rdfs:label>
+      <rdamd:P30156>Se deg ikke tilbake!</rdamd:P30156>
+      <rdamd:P30142>kriminalroman</rdamd:P30142>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen, 1997</rdamd:P30111>
+      <rdamd:P30083>Cappelen</rdamd:P30083>
+      <rdamd:P30011>1997</rdamd:P30011>
+      <rdamd:P30182>275 s.</rdamd:P30182>
+      <rdamd:P30106>Cap spenningens mestere</rdamd:P30106>
+      <rdamd:P30137>1. utg. 1996</rdamd:P30137>
+      <rdamd:P30137>Opplagshistorikk: Denne utg., 2.-3. oppl. 1997; 4. oppl. 1998 (Nkr 69.00) ; 5. oppl. 2000; 6. oppl. 2001 (Nkr 79.00)</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9129151051843933530004/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8202167353">
+      <rdamd:P30004>ISBN 8202167353</rdamd:P30004>
+      <rdaxd:P00018>isbn-8202167353</rdaxd:P00018>
+      <rdfs:label>ISBN8202167353</rdfs:label>
+      <rdamd:P30156>Evas øye</rdamd:P30156>
+      <rdamd:P30142>kriminalroman</rdamd:P30142>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen, 1997</rdamd:P30111>
+      <rdamd:P30083>Cappelen</rdamd:P30083>
+      <rdamd:P30011>1997</rdamd:P30011>
+      <rdamd:P30182>295 s.</rdamd:P30182>
+      <rdamd:P30106>Cappelens storbøker</rdamd:P30106>
+      <rdamd:P30137>1. utg. 1995</rdamd:P30137>
+      <rdamd:P30137>Opplagshistorikk: Storbokutg., 2. oppl. 1998</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8202167361">
+      <rdamd:P30004>ISBN 8202167361</rdamd:P30004>
+      <rdaxd:P00018>isbn-8202167361</rdaxd:P00018>
+      <rdfs:label>ISBN8202167361</rdfs:label>
+      <rdamd:P30156>Se deg ikke tilbake!</rdamd:P30156>
+      <rdamd:P30142>kriminalroman</rdamd:P30142>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen, 1997</rdamd:P30111>
+      <rdamd:P30083>Cappelen</rdamd:P30083>
+      <rdamd:P30011>1997</rdamd:P30011>
+      <rdamd:P30182>275 s.</rdamd:P30182>
+      <rdamd:P30106>Cappelens storbøker</rdamd:P30106>
+      <rdamd:P30137>1. utg. 1996</rdamd:P30137>
+      <rdamd:P30137>Opplagshistorikk: Storbokutg., 2. oppl. 1998; 3. oppl. 2001</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9129151051843933530004/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8202183928">
+      <rdamd:P30004>ISBN 8202183928</rdamd:P30004>
+      <rdaxd:P00018>isbn-8202183928</rdaxd:P00018>
+      <rdfs:label>ISBN8202183928</rdfs:label>
+      <rdamd:P30156>Evas øye</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30107>2. oppl. [i.e. ny utg.]</rdamd:P30107>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen, 2002</rdamd:P30111>
+      <rdamd:P30083>Cappelen</rdamd:P30083>
+      <rdamd:P30011>2002</rdamd:P30011>
+      <rdamd:P30111>[Oslo] : Cappelen, 1999</rdamd:P30111>
+      <rdamd:P30011>1999</rdamd:P30011>
+      <rdamd:P30182>295 s.</rdamd:P30182>
+      <rdamd:P30106>Cappelen spenning</rdamd:P30106>
+      <rdamd:P30106>Cappelen krim</rdamd:P30106>
+      <rdamd:P30165>2</rdamd:P30165>
+      <rdamd:P30137>1. utg. 1995</rdamd:P30137>
+      <rdamd:P30137>2. oppl. i serien Cappelen spenning</rdamd:P30137>
+      <rdamd:P30137>Opplagshistorikk: 2. oppl. 2002 (Nkr 59.00)</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8202188288">
+      <rdamd:P30004>ISBN 8202188288</rdamd:P30004>
+      <rdaxd:P00018>isbn-8202188288</rdaxd:P00018>
+      <rdfs:label>ISBN8202188288</rdfs:label>
+      <rdamd:P30156>Evas øye</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen, 1999</rdamd:P30111>
+      <rdamd:P30083>Cappelen</rdamd:P30083>
+      <rdamd:P30011>1999</rdamd:P30011>
+      <rdamd:P30182>295 s.</rdamd:P30182>
+      <rdamd:P30106>CUB</rdamd:P30106>
+      <rdamd:P30137>1. utg. 1995</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8202188296">
+      <rdamd:P30004>ISBN 8202188296</rdamd:P30004>
+      <rdaxd:P00018>isbn-8202188296</rdaxd:P00018>
+      <rdfs:label>ISBN8202188296</rdfs:label>
+      <rdamd:P30156>Se deg ikke tilbake!</rdamd:P30156>
+      <rdamd:P30142>kriminalroman</rdamd:P30142>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen, 2000</rdamd:P30111>
+      <rdamd:P30083>Cappelen</rdamd:P30083>
+      <rdamd:P30011>2000</rdamd:P30011>
+      <rdamd:P30182>275 s.</rdamd:P30182>
+      <rdamd:P30106>CUB</rdamd:P30106>
+      <rdamd:P30137>1. utg. 1996</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9129151051843933530004/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8202201233">
+      <rdamd:P30004>ISBN 8202201233</rdamd:P30004>
+      <rdaxd:P00018>isbn-8202201233</rdaxd:P00018>
+      <rdfs:label>ISBN8202201233</rdfs:label>
+      <rdamd:P30156>Se deg ikke tilbake</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen, 2000</rdamd:P30111>
+      <rdamd:P30083>Cappelen</rdamd:P30083>
+      <rdamd:P30011>2000</rdamd:P30011>
+      <rdamd:P30182>275 s.</rdamd:P30182>
+      <rdamd:P30106>Cappelen krim</rdamd:P30106>
+      <rdamd:P30165>19</rdamd:P30165>
+      <rdamd:P30137>1. utg. 1996</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9129151051843933530004/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8202201837">
+      <rdamd:P30004>ISBN 8202201837</rdamd:P30004>
+      <rdaxd:P00018>isbn-8202201837</rdaxd:P00018>
+      <rdfs:label>ISBN8202201837</rdfs:label>
+      <rdamd:P30156>Evas øye</rdamd:P30156>
+      <rdamd:P30142>kriminalroman</rdamd:P30142>
+      <rdamd:P30117>Karin Fossum ; tilrettelegging av e-bok: Lisa Yayla</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen, c2000</rdamd:P30111>
+      <rdamd:P30083>Cappelen</rdamd:P30083>
+      <rdamd:P30011>c2000</rdamd:P30011>
+      <rdamd:P30106>Cappelen e-bok</rdamd:P30106>
+      <rdamd:P30137>Tittel fra tittelskjermbildet</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8202228158">
+      <rdamd:P30004>ISBN 8202228158</rdamd:P30004>
+      <rdaxd:P00018>isbn-8202228158</rdaxd:P00018>
+      <rdfs:label>ISBN8202228158</rdfs:label>
+      <rdamd:P30156>Evas øye</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen, 2003</rdamd:P30111>
+      <rdamd:P30083>Cappelen</rdamd:P30083>
+      <rdamd:P30011>2003</rdamd:P30011>
+      <rdamd:P30182>295 s.</rdamd:P30182>
+      <rdamd:P30106>Cap spenningens mestere</rdamd:P30106>
+      <rdamd:P30137>1. utg. 1995</rdamd:P30137>
+      <rdamd:P30137>Opplagshistorikk: Denne utg., 2. oppl. 2004</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8202228174">
+      <rdamd:P30004>ISBN 8202228174</rdamd:P30004>
+      <rdaxd:P00018>isbn-8202228174</rdaxd:P00018>
+      <rdfs:label>ISBN8202228174</rdfs:label>
+      <rdamd:P30156>Se deg ikke tilbake!</rdamd:P30156>
+      <rdamd:P30142>kriminalroman</rdamd:P30142>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Cappelen, 2003</rdamd:P30111>
+      <rdamd:P30083>Cappelen</rdamd:P30083>
+      <rdamd:P30011>2003</rdamd:P30011>
+      <rdamd:P30182>275 s.</rdamd:P30182>
+      <rdamd:P30106>Cap spenningens mestere</rdamd:P30106>
+      <rdamd:P30137>1. utg. 1996</rdamd:P30137>
+      <rdamd:P30137>Opplagshistorikk: Denne utg., 2. oppl. 2004</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9129151051843933530004/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8202259045">
+      <rdamd:P30004>ISBN 8202259045</rdamd:P30004>
+      <rdaxd:P00018>isbn-8202259045</rdaxd:P00018>
+      <rdfs:label>ISBN8202259045</rdfs:label>
+      <rdamd:P30004>ISBN 9788202259044</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788202259044</rdaxd:P00018>
+      <rdfs:label>ISBN9788202259044</rdfs:label>
+      <rdamd:P30156>Evas øye</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen, 2006</rdamd:P30111>
+      <rdamd:P30083>Cappelen</rdamd:P30083>
+      <rdamd:P30011>2006</rdamd:P30011>
+      <rdamd:P30182>295 s.</rdamd:P30182>
+      <rdamd:P30106>En Konrad Sejer-krim</rdamd:P30106>
+      <rdamd:P30137>1. utg. 1995</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8202259118">
+      <rdamd:P30004>ISBN 8202259118</rdamd:P30004>
+      <rdaxd:P00018>isbn-8202259118</rdaxd:P00018>
+      <rdfs:label>ISBN8202259118</rdfs:label>
+      <rdamd:P30004>ISBN 9788202259112</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788202259112</rdaxd:P00018>
+      <rdfs:label>ISBN9788202259112</rdfs:label>
+      <rdamd:P30156>Se deg ikke tilbake!</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen, 2006</rdamd:P30111>
+      <rdamd:P30083>Cappelen</rdamd:P30083>
+      <rdamd:P30011>2006</rdamd:P30011>
+      <rdamd:P30182>275 s.</rdamd:P30182>
+      <rdamd:P30106>En Konrad Sejer-krim</rdamd:P30106>
+      <rdamd:P30137>1. utg. 1996</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9129151051843933530004/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8252538134">
+      <rdamd:P30004>ISBN 8252538134</rdamd:P30004>
+      <rdaxd:P00018>isbn-8252538134</rdaxd:P00018>
+      <rdfs:label>ISBN8252538134</rdfs:label>
+      <rdamd:P30156>Evas øye</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum ; etterord av Nils Nordberg</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Den norske bokklubben, 1998</rdamd:P30111>
+      <rdamd:P30083>Den norske bokklubben</rdamd:P30083>
+      <rdamd:P30011>1998</rdamd:P30011>
+      <rdamd:P30182>235 s.</rdamd:P30182>
+      <rdamd:P30137>1. utg. Oslo : Cappelen, 1995</rdamd:P30137>
+      <rdamd:P30137>Opplagshistorikk: 2. oppl. 1999</rdamd:P30137>
+      <rdamd:P30137>Utgitt som: Månedens bok</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8278440077">
+      <rdamd:P30004>ISBN 8278440077</rdamd:P30004>
+      <rdaxd:P00018>isbn-8278440077</rdaxd:P00018>
+      <rdfs:label>ISBN8278440077</rdfs:label>
+      <rdamd:P30156>Evas øye</rdamd:P30156>
+      <rdamd:P30088>Billingstad</rdamd:P30088>
+      <rdamd:P30111>Billingstad : Fono, 1997</rdamd:P30111>
+      <rdamd:P30083>Fono</rdamd:P30083>
+      <rdamd:P30011>1997</rdamd:P30011>
+      <rdamd:P30182>7 lydkassetter.</rdamd:P30182>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/und/1013"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8278440085">
+      <rdamd:P30004>ISBN 8278440085</rdamd:P30004>
+      <rdaxd:P00018>isbn-8278440085</rdaxd:P00018>
+      <rdfs:label>ISBN8278440085</rdfs:label>
+      <rdamd:P30156>Se deg ikke tilbake</rdamd:P30156>
+      <rdamd:P30088>Billingstad</rdamd:P30088>
+      <rdamd:P30111>Billingstad : Fono, 1996</rdamd:P30111>
+      <rdamd:P30083>Fono</rdamd:P30083>
+      <rdamd:P30011>1996</rdamd:P30011>
+      <rdamd:P30182>6 lydkassetter.</rdamd:P30182>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9129151051843933530004/exp/und/1013"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8278442304">
+      <rdamd:P30004>ISBN 8278442304</rdamd:P30004>
+      <rdaxd:P00018>isbn-8278442304</rdaxd:P00018>
+      <rdfs:label>ISBN8278442304</rdfs:label>
+      <rdamd:P30004>ISBN 9788278442302</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788278442302</rdaxd:P00018>
+      <rdfs:label>ISBN9788278442302</rdfs:label>
+      <rdamd:P30156>Evas øye</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Fono forl., 2006</rdamd:P30111>
+      <rdamd:P30083>Fono forl</rdamd:P30083>
+      <rdamd:P30011>2006</rdamd:P30011>
+      <rdamd:P30182>8 plater (CD) (9 t, 15 min) : digital, 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30137>Lest av Kirsti Grundvig</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/nob/1013/228782183"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8278442444">
+      <rdamd:P30004>ISBN 8278442444</rdamd:P30004>
+      <rdaxd:P00018>isbn-8278442444</rdaxd:P00018>
+      <rdfs:label>ISBN8278442444</rdfs:label>
+      <rdamd:P30004>ISBN 9788278442449</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788278442449</rdaxd:P00018>
+      <rdfs:label>ISBN9788278442449</rdfs:label>
+      <rdamd:P30156>Se deg ikke tilbake!</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Fono forl., 2006</rdamd:P30111>
+      <rdamd:P30083>Fono forl</rdamd:P30083>
+      <rdamd:P30011>2006</rdamd:P30011>
+      <rdamd:P30182>7 plater (CD) (8 t, 25 min) : digital, 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30137>Lest av Trini Lund</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9129151051843933530004/exp/nob/1013/228991488"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8777246594">
+      <rdamd:P30004>ISBN 8777246594</rdamd:P30004>
+      <rdaxd:P00018>isbn-8777246594</rdaxd:P00018>
+      <rdfs:label>ISBN8777246594</rdfs:label>
+      <rdamd:P30156>Evas øje</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum ; oversat af Ida Jessen</rdamd:P30117>
+      <rdamd:P30088>Århus</rdamd:P30088>
+      <rdamd:P30111>Århus : Klim, 1997</rdamd:P30111>
+      <rdamd:P30083>Klim</rdamd:P30083>
+      <rdamd:P30011>1997</rdamd:P30011>
+      <rdamd:P30182>288 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/dan/1020/jessen"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8777249402">
+      <rdamd:P30004>ISBN 8777249402</rdamd:P30004>
+      <rdaxd:P00018>isbn-8777249402</rdaxd:P00018>
+      <rdfs:label>ISBN8777249402</rdfs:label>
+      <rdamd:P30156>Evas øje</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum ; oversat af Ida Jessen</rdamd:P30117>
+      <rdamd:P30107>2. udg</rdamd:P30107>
+      <rdamd:P30088>Århus</rdamd:P30088>
+      <rdamd:P30111>Århus : Klim, 1999</rdamd:P30111>
+      <rdamd:P30083>Klim</rdamd:P30083>
+      <rdamd:P30011>1999</rdamd:P30011>
+      <rdamd:P30182>252 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/dan/1020/jessen"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8779553648">
+      <rdamd:P30004>ISBN 8779553648</rdamd:P30004>
+      <rdaxd:P00018>isbn-8779553648</rdaxd:P00018>
+      <rdfs:label>ISBN8779553648</rdfs:label>
+      <rdamd:P30156>Evas øje</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum ; oversat af Ida Jessen</rdamd:P30117>
+      <rdamd:P30107>3 .udg</rdamd:P30107>
+      <rdamd:P30088>Århus</rdamd:P30088>
+      <rdamd:P30111>Århus : Klim, 2005</rdamd:P30111>
+      <rdamd:P30083>Klim</rdamd:P30083>
+      <rdamd:P30011>2005</rdamd:P30011>
+      <rdamd:P30182>256 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/dan/1020/jessen"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9022315002">
+      <rdamd:P30004>ISBN 9022315002</rdamd:P30004>
+      <rdaxd:P00018>isbn-9022315002</rdaxd:P00018>
+      <rdfs:label>ISBN9022315002</rdfs:label>
+      <rdamd:P30004>ISBN 9056720171</rdamd:P30004>
+      <rdaxd:P00018>isbn-9056720171</rdaxd:P00018>
+      <rdfs:label>ISBN9056720171</rdfs:label>
+      <rdamd:P30156>Eva's oog</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum ; [vertaling: Annemarie Smit]</rdamd:P30117>
+      <rdamd:P30088>Antwerpen</rdamd:P30088>
+      <rdamd:P30088>Nieuwegen</rdamd:P30088>
+      <rdamd:P30111>Antwerpen ; Nieuwegen : Manteau : Signature, cop. 1998</rdamd:P30111>
+      <rdamd:P30083>Manteau</rdamd:P30083>
+      <rdamd:P30083>Signature</rdamd:P30083>
+      <rdamd:P30011>cop. 1998</rdamd:P30011>
+      <rdamd:P30182>305 s.</rdamd:P30182>
+      <rdamd:P30106>Signature Manteau crime</rdamd:P30106>
+      <rdamd:P30137>Undertittel på omslaget: Misdaadroman</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/dut/1020/smit"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9137112457">
+      <rdamd:P30004>ISBN 9137112457</rdamd:P30004>
+      <rdaxd:P00018>isbn-9137112457</rdaxd:P00018>
+      <rdfs:label>ISBN9137112457</rdfs:label>
+      <rdamd:P30156>Evas öga</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum ; översättning Helena och Ulf Örnkloo</rdamd:P30117>
+      <rdamd:P30107>2. tryckningen</rdamd:P30107>
+      <rdamd:P30088>[Stockholm]</rdamd:P30088>
+      <rdamd:P30111>[Stockholm] : Forum, 1998</rdamd:P30111>
+      <rdamd:P30083>Forum</rdamd:P30083>
+      <rdamd:P30011>1998</rdamd:P30011>
+      <rdamd:P30182>220 s.</rdamd:P30182>
+      <rdamd:P30137>Denne utg., 1. oppl. 1998</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/swe/1020/120226803/61517877"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9137121235">
+      <rdamd:P30004>ISBN 9137121235</rdamd:P30004>
+      <rdaxd:P00018>isbn-9137121235</rdaxd:P00018>
+      <rdfs:label>ISBN9137121235</rdfs:label>
+      <rdamd:P30156>Evas öga ; Se dig inte om! ; Den som fruktar vargen</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum ; översättning Helena och Ulf Örnkloo</rdamd:P30117>
+      <rdamd:P30088>Stockholm</rdamd:P30088>
+      <rdamd:P30111>Stockholm : Forum, 2003</rdamd:P30111>
+      <rdamd:P30083>Forum</rdamd:P30083>
+      <rdamd:P30011>2003</rdamd:P30011>
+      <rdamd:P30182>655 s.</rdamd:P30182>
+      <rdamd:P30033>Evas öga -- Se dig inte om! -- Den som fruktar vargen</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://example.org/fossum/001/exp/swe/1020/120226803/61517877"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2036167764294613890005/exp/swe/1020/120226803/61517877"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/swe/1020/120226803/61517877"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9129151051843933530004/exp/swe/1020/120226803/61517877"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9157454248">
+      <rdamd:P30004>ISBN 9157454248</rdamd:P30004>
+      <rdaxd:P00018>isbn-9157454248</rdaxd:P00018>
+      <rdfs:label>ISBN9157454248</rdfs:label>
+      <rdamd:P30156>Evas öga</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum ; översättning Helena och Ulf Örnkloo</rdamd:P30117>
+      <rdamd:P30088>Stockholm</rdamd:P30088>
+      <rdamd:P30111>Stockholm : Utbildningsförlaget Brevskolan, 1998</rdamd:P30111>
+      <rdamd:P30083>Utbildningsförlaget Brevskolan</rdamd:P30083>
+      <rdamd:P30011>1998</rdamd:P30011>
+      <rdamd:P30182>220 s.</rdamd:P30182>
+      <rdamd:P30137>"Denna utgåva är gjord speciellt för Medlemsbokens medlemmar ..." - Tittelbladets bakside</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/swe/1020/120226803/61517877"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9176435059">
+      <rdamd:P30004>ISBN 9176435059</rdamd:P30004>
+      <rdaxd:P00018>isbn-9176435059</rdaxd:P00018>
+      <rdfs:label>ISBN9176435059</rdfs:label>
+      <rdamd:P30156>Evas öga</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum ; översättning Helena och Ulf Örnkloo</rdamd:P30117>
+      <rdamd:P30088>[Stockholm]</rdamd:P30088>
+      <rdamd:P30111>[Stockholm] : Månpocket, 1999</rdamd:P30111>
+      <rdamd:P30083>Månpocket</rdamd:P30083>
+      <rdamd:P30011>1999</rdamd:P30011>
+      <rdamd:P30182>220 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/swe/1020/120226803/61517877"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9515785146">
+      <rdamd:P30004>ISBN 9515785146</rdamd:P30004>
+      <rdaxd:P00018>isbn-9515785146</rdaxd:P00018>
+      <rdfs:label>ISBN9515785146</rdfs:label>
+      <rdamd:P30156>Evan katse</rdamd:P30156>
+      <rdamd:P30142>romaani</rdamd:P30142>
+      <rdamd:P30117>Karin Fossum ; suomennos: Tarja Teva</rdamd:P30117>
+      <rdamd:P30088>Helsinki</rdamd:P30088>
+      <rdamd:P30111>Helsinki : Like, [1997]</rdamd:P30111>
+      <rdamd:P30083>Like</rdamd:P30083>
+      <rdamd:P30011>[1997]</rdamd:P30011>
+      <rdamd:P30182>304 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/fin/1020/teva"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9780547738758">
+      <rdamd:P30004>ISBN 9780547738758</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780547738758</rdaxd:P00018>
+      <rdfs:label>ISBN9780547738758</rdfs:label>
+      <rdamd:P30156>Eva's eye</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum ; translated from the Norwegian by James Anderson</rdamd:P30117>
+      <rdamd:P30088>Boston, Mass</rdamd:P30088>
+      <rdamd:P30111>Boston, Mass. : Houghton Mifflin Harcourt, 2013</rdamd:P30111>
+      <rdamd:P30083>Houghton Mifflin Harcourt</rdamd:P30083>
+      <rdamd:P30011>2013</rdamd:P30011>
+      <rdamd:P30182>292 s.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/eng/1020/andeson"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788202286552">
+      <rdamd:P30004>ISBN 9788202286552</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788202286552</rdaxd:P00018>
+      <rdfs:label>ISBN9788202286552</rdfs:label>
+      <rdamd:P30156>Se deg ikke tilbake!</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Cappelen Damm, 2008</rdamd:P30111>
+      <rdamd:P30083>Cappelen Damm</rdamd:P30083>
+      <rdamd:P30011>2008</rdamd:P30011>
+      <rdamd:P30182>1 plate (MP3-CD) (8 t, 25 min) : digital, 12 cm, i omslag.</rdamd:P30182>
+      <rdamd:P30137>1. lydbokutg. Billingstad : Fono, 1996</rdamd:P30137>
+      <rdamd:P30137>Lest av Trini Lund</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9129151051843933530004/exp/nob/1013/228991488"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788202295783">
+      <rdamd:P30004>ISBN 9788202295783</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788202295783</rdaxd:P00018>
+      <rdfs:label>ISBN9788202295783</rdfs:label>
+      <rdamd:P30156>Evas øye</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen Damm, 2008</rdamd:P30111>
+      <rdamd:P30083>Cappelen Damm</rdamd:P30083>
+      <rdamd:P30011>2008</rdamd:P30011>
+      <rdamd:P30182>1 plate (CD-MP3) (9 t, 9 min) : digital, 12 cm, i omslag.</rdamd:P30182>
+      <rdamd:P30106>Lommelydbok</rdamd:P30106>
+      <rdamd:P30137>1. lydbokutg. Oslo : Fono forl., 2006</rdamd:P30137>
+      <rdamd:P30137>Lest av Kirsti Grundvig</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/nob/1013/228782183"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788202303143">
+      <rdamd:P30004>ISBN 9788202303143</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788202303143</rdaxd:P00018>
+      <rdfs:label>ISBN9788202303143</rdfs:label>
+      <rdamd:P30156>Evas øye</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Cappelen Damm, 2010</rdamd:P30111>
+      <rdamd:P30083>Cappelen Damm</rdamd:P30083>
+      <rdamd:P30011>2010</rdamd:P30011>
+      <rdamd:P30182>1 fil : EPUB.</rdamd:P30182>
+      <rdamd:P30106>En Konrad Sejer-krim</rdamd:P30106>
+      <rdamd:P30165>nr. 1</rdamd:P30165>
+      <rdamd:P30137>Serietittel fra trykt utg.</rdamd:P30137>
+      <rdamd:P30137>Tittel fra tittelskjermbildet</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788202303150">
+      <rdamd:P30004>ISBN 9788202303150</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788202303150</rdaxd:P00018>
+      <rdfs:label>ISBN9788202303150</rdfs:label>
+      <rdamd:P30156>Se deg ikke tilbake!</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>Oslo</rdamd:P30088>
+      <rdamd:P30111>Oslo : Cappelen Damm, 2011</rdamd:P30111>
+      <rdamd:P30083>Cappelen Damm</rdamd:P30083>
+      <rdamd:P30011>2011</rdamd:P30011>
+      <rdamd:P30182>1 fil : EPUB.</rdamd:P30182>
+      <rdamd:P30137>Tittel fra tittelskjermbildet</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1018"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1003"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9129151051843933530004/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788202324230">
+      <rdamd:P30004>ISBN 9788202324230</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788202324230</rdaxd:P00018>
+      <rdfs:label>ISBN9788202324230</rdfs:label>
+      <rdamd:P30156>Evas øye</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen Damm, 2010</rdamd:P30111>
+      <rdamd:P30083>Cappelen Damm</rdamd:P30083>
+      <rdamd:P30011>2010</rdamd:P30011>
+      <rdamd:P30182>303 s.</rdamd:P30182>
+      <rdamd:P30106>En Konrad Sejer-krim</rdamd:P30106>
+      <rdamd:P30165>nr. 1</rdamd:P30165>
+      <rdamd:P30137>1. utg. Oslo : Cappelen, 1995</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788202324247">
+      <rdamd:P30004>ISBN 9788202324247</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788202324247</rdaxd:P00018>
+      <rdfs:label>ISBN9788202324247</rdfs:label>
+      <rdamd:P30156>Se deg ikke tilbake!</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen Damm, 2010</rdamd:P30111>
+      <rdamd:P30083>Cappelen Damm</rdamd:P30083>
+      <rdamd:P30011>2010</rdamd:P30011>
+      <rdamd:P30182>272 s.</rdamd:P30182>
+      <rdamd:P30106>En Konrad Sejer-krim</rdamd:P30106>
+      <rdamd:P30165>nr. 2</rdamd:P30165>
+      <rdamd:P30137>1. utg. Oslo : Cappelen, 1996</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9129151051843933530004/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788202478599">
+      <rdamd:P30004>ISBN 9788202478599</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788202478599</rdaxd:P00018>
+      <rdfs:label>ISBN9788202478599</rdfs:label>
+      <rdamd:P30156>Evas øye</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen Damm, 2015</rdamd:P30111>
+      <rdamd:P30083>Cappelen Damm</rdamd:P30083>
+      <rdamd:P30011>2015</rdamd:P30011>
+      <rdamd:P30182>303 s.</rdamd:P30182>
+      <rdamd:P30106>En Konrad Sejer-krim</rdamd:P30106>
+      <rdamd:P30165>[1]</rdamd:P30165>
+      <rdamd:P30137>1. utg. Oslo : Cappelen, 1995</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788202478605">
+      <rdamd:P30004>ISBN 9788202478605</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788202478605</rdaxd:P00018>
+      <rdfs:label>ISBN9788202478605</rdfs:label>
+      <rdamd:P30156>Se deg ikke tilbake!</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen Damm, 2015</rdamd:P30111>
+      <rdamd:P30083>Cappelen Damm</rdamd:P30083>
+      <rdamd:P30011>2015</rdamd:P30011>
+      <rdamd:P30182>272 s.</rdamd:P30182>
+      <rdamd:P30106>En Konrad Sejer-krim</rdamd:P30106>
+      <rdamd:P30165>[2]</rdamd:P30165>
+      <rdamd:P30137>1. utg. Oslo : Cappelen, 1996</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9129151051843933530004/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788202602574">
+      <rdamd:P30004>ISBN 978-82-02-60257-4</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788202602574</rdaxd:P00018>
+      <rdfs:label>ISBN978-82-02-60257-4</rdfs:label>
+      <rdamd:P30156>Evas øye</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen Damm, 2018</rdamd:P30111>
+      <rdamd:P30083>Cappelen Damm</rdamd:P30083>
+      <rdamd:P30011>2018</rdamd:P30011>
+      <rdamd:P30182>303 s., 21 cm.</rdamd:P30182>
+      <rdamd:P30106>En Konrad Sejer-krim</rdamd:P30106>
+      <rdamd:P30165>[1]</rdamd:P30165>
+      <rdamd:P30137>1. utg. Oslo : Cappelen, 1995</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788202602581">
+      <rdamd:P30004>ISBN 978-82-02-60258-1</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788202602581</rdaxd:P00018>
+      <rdfs:label>ISBN978-82-02-60258-1</rdfs:label>
+      <rdamd:P30156>Se deg ikke tilbake!</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen Damm, 2018</rdamd:P30111>
+      <rdamd:P30083>Cappelen Damm</rdamd:P30083>
+      <rdamd:P30011>2018</rdamd:P30011>
+      <rdamd:P30182>271 s., 21 cm.</rdamd:P30182>
+      <rdamd:P30106>En Konrad Sejer-krim</rdamd:P30106>
+      <rdamd:P30165>[2]</rdamd:P30165>
+      <rdamd:P30137>1. utg. Oslo : Cappelen, 1996</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9129151051843933530004/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788252580167">
+      <rdamd:P30004>ISBN 9788252580167</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788252580167</rdaxd:P00018>
+      <rdfs:label>ISBN9788252580167</rdfs:label>
+      <rdamd:P30156>Se deg ikke tilbake!</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Bokklubben, 2012</rdamd:P30111>
+      <rdamd:P30083>Bokklubben</rdamd:P30083>
+      <rdamd:P30011>2012</rdamd:P30011>
+      <rdamd:P30182>272 s.</rdamd:P30182>
+      <rdamd:P30137>1. utg. Oslo : Cappelen, 1996</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/9129151051843933530004/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788779557512">
+      <rdamd:P30004>ISBN 9788779557512</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788779557512</rdaxd:P00018>
+      <rdfs:label>ISBN9788779557512</rdfs:label>
+      <rdamd:P30156>Evas øje</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum ; oversat af Ida Jessen</rdamd:P30117>
+      <rdamd:P30107>4. udg</rdamd:P30107>
+      <rdamd:P30088>Århus</rdamd:P30088>
+      <rdamd:P30111>Århus : Klim, 2010</rdamd:P30111>
+      <rdamd:P30083>Klim</rdamd:P30083>
+      <rdamd:P30011>2010</rdamd:P30011>
+      <rdamd:P30182>283 s.</rdamd:P30182>
+      <rdamd:P30106>Klim pocket</rdamd:P30106>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/dan/1020/jessen"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9789022320648">
+      <rdamd:P30004>ISBN 9789022320648</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789022320648</rdaxd:P00018>
+      <rdfs:label>ISBN9789022320648</rdfs:label>
+      <rdamd:P30004>ISBN 9789085490166</rdamd:P30004>
+      <rdaxd:P00018>isbn-9789085490166</rdaxd:P00018>
+      <rdfs:label>ISBN9789085490166</rdfs:label>
+      <rdamd:P30156>Eva's oog</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum ; [vertaling: Annemarie Smit]</rdamd:P30117>
+      <rdamd:P30107>2. druk</rdamd:P30107>
+      <rdamd:P30088>Antwerpen</rdamd:P30088>
+      <rdamd:P30088>Amsterdam</rdamd:P30088>
+      <rdamd:P30111>Antwerpen ; Amsterdam : Manteau : Anthos, 2007</rdamd:P30111>
+      <rdamd:P30083>Manteau</rdamd:P30083>
+      <rdamd:P30083>Anthos</rdamd:P30083>
+      <rdamd:P30011>2007</rdamd:P30011>
+      <rdamd:P30182>305 s.</rdamd:P30182>
+      <rdamd:P30137>"Literaire thriller"</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/dut/1020/smit"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9984635589">
+      <rdamd:P30004>ISBN 9984635589</rdamd:P30004>
+      <rdaxd:P00018>isbn-9984635589</rdaxd:P00018>
+      <rdfs:label>ISBN9984635589</rdfs:label>
+      <rdamd:P30156>Evas acs</rdamd:P30156>
+      <rdamd:P30117>Karina Fosuma ; no norvēǵu valodas tulkojis Sandris Briedis</rdamd:P30117>
+      <rdamd:P30088>[Rīgā]</rdamd:P30088>
+      <rdamd:P30111>[Rīgā] : Apgāds Atēna, cop. 2001</rdamd:P30111>
+      <rdamd:P30083>Apgāds Atēna</rdamd:P30083>
+      <rdamd:P30011>cop. 2001</rdamd:P30011>
+      <rdamd:P30182>217 s.</rdamd:P30182>
+      <rdamd:P30106>Atēna detektīvs</rdamd:P30106>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/2949151051818133530003/exp/lav/1020/briedis"/>
+   </rdac:C10007>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/dan">
+      <rdfs:label>dan</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/dut">
+      <rdfs:label>dut</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/eng">
+      <rdfs:label>eng</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/fin">
+      <rdfs:label>fin</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/ger">
+      <rdfs:label>ger</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/lav">
+      <rdfs:label>lav</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/nob">
+      <rdfs:label>nob</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/swe">
+      <rdfs:label>swe</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/und">
+      <rdfs:label>und</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1004">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1004</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1018">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1018</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1049">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1049</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1060">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1060</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1013">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1013</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1020">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1020</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1023">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1023</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1001">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1001</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1003">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1003</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1007">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1007</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1008">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1008</skos:subjectIndicator>
+   </skos:Concept>
+</rdf:RDF>

@@ -1253,7 +1253,7 @@
                               <xsl:call-template name="copy-content">
                                  <xsl:with-param name="type" select="'http://www.w3.org/2000/01/rdf-schema#label'"/>
                                  <xsl:with-param name="select"
-                                                 select="frbrizer:trim(.) || ' (' || $record/*:datafield[@tag='100']/*:subfield[@code='a']/replace(., '[\s,/:=]+$', '') || ')'"/>
+                                                 select="frbrizer:trim(.) || (if ($record/*:datafield[@tag='100']) then ' (' || $record/*:datafield[@tag='100']/*:subfield[@code='a']/replace(., '[\s,/:=]+$', '') || ')' else () )"/>
                               </xsl:call-template>
                            </xsl:copy>
                         </xsl:if>

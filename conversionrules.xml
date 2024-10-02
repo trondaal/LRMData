@@ -209,7 +209,7 @@
                 <subfield code="k" type="http://rdaregistry.info/Elements/x/datatype/P00029"/>
             </datafield>
             <datafield tag="240"  condition=". eq $this_field">
-                <subfield code="a" type="http://www.w3.org/2000/01/rdf-schema#label" select="frbrizer:trim(.) || ' (' || $record/*:datafield[@tag='100']/*:subfield[@code='a']/replace(., '[\s,/:=]+$', '') || ')'" label="rdf label"/>
+                <subfield code="a" type="http://www.w3.org/2000/01/rdf-schema#label" select="frbrizer:trim(.) || (if ($record/*:datafield[@tag='100']) then ' (' || $record/*:datafield[@tag='100']/*:subfield[@code='a']/replace(., '[\s,/:=]+$', '') || ')' else () )" label="rdf label"/>
                 <subfield code="a" type="http://rdaregistry.info/Elements/w/datatype/P10088" select="string-join((frbrizer:trim(.), frbrizer:trim(../*:subfield[@code = 'p'])), ' : ')" label="has title of the work"/>
                 <!--<subfield code="a" type="http://rdaregistry.info/Elements/w/datatype/P10223" select="string-join((frbrizer:trim(.), frbrizer:trim(../*:subfield[@code = 'p'])), ' : ')" label="has preferred title of the work"/>-->
                 <subfield code="f" type="http://rdaregistry.info/Elements/w/datatype/P10219" label="has date of work"/>

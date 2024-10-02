@@ -1,18 +1,18 @@
 
 #Remove array element
-let $doc := "file:/Users/trondaal/GitHub/LRMData/surveydata/2024.01.22.records.xml"
+let $doc := "file:/Users/trondaal/GitHub/LRMData/surveydata/2024.02.28.records.xml"
 for $relevant in doc($doc)//properties/relevant[array]
 let $content := translate(normalize-space($relevant/array), ' ', '')
 return replace node $relevant with <relevant>{$content}</relevant>
 
 #Delete redundant nodes from relevant (introduced by an error in the frontend)
-let $doc := "file:/Users/trondaal/GitHub/LRMData/surveydata/2024.01.22.records.xml"
+let $doc := "file:/Users/trondaal/GitHub/LRMData/surveydata/2024.02.28.records.xml"
 for $reduntant in doc($doc)//properties/relevant[not(. = ../results)]
 return delete node $reduntant
 
 
 #Update results and relevant elements with title and form
-let $doc := "file:/Users/trondaal/GitHub/LRMData/surveydata/2024.01.22.records.xml"
+let $doc := "file:/Users/trondaal/GitHub/LRMData/surveydata/2024.02.28.records.xml"
 let $records := "file:/Users/trondaal/GitHub/LRMData/surveydata/categorized.xml"
 for $relevant in doc($doc)//properties/(relevant, results)
 let $uri := $relevant
@@ -41,7 +41,7 @@ return ('&#xa;' || $q || '&#9;' || '&#9;' || '&#9;',
     let $score := format-number(sum($relevant/@score), "##0.0")
     let $bib_e := format-number(avg($relevant/../bibliographicExpertise), "##0.0")
     let $search_e := format-number(avg($relevant/../searchExpertise), "##0.0")
-    let $task_e := format-number(avg($relevant/../searchExpertise), "##0.0")
+    let $task_e := format-number(avg($relevant/../taskConfidence), "##0.0")
     order by count($relevant) descending
     return '&#xa;' || $title  || '&#9;' || $c_t1|| '&#9;' || $c_t2 || '&#9;' || $c_all || '&#9;' || $bib_e || '&#9;' || $search_e|| '&#9;' || $task_e|| '&#9;' || $relevant[1]/@form ),
     for $results in //properties[query = $q]/results[not(. = //properties[query = $q]/relevant)]
@@ -60,7 +60,7 @@ return ('&#xa;' || $q || '&#9;' || '&#9;' || '&#9;',
     let $c_all := count($relevant)
     let $bib_e := format-number(avg($relevant/../bibliographicExpertise), "##0.0")
     let $search_e := format-number(avg($relevant/../searchExpertise), "##0.0")
-    let $task_e := format-number(avg($relevant/../searchExpertise), "##0.0")
+    let $task_e := format-number(avg($relevant/../taskConfidence), "##0.0")
     order by count($relevant) descending
     return '&#xa;' || $title  || '&#9;' || $c_all || '&#9;' || '&#9;' || $bib_e || '&#9;' || $search_e|| '&#9;' || $task_e|| '&#9;' || $relevant[1]/@form ),
     for $results in //properties[query = $q]/results[not(. = //properties[query = $q]/relevant)]
@@ -81,7 +81,7 @@ return ('&#xa;' || $q || '&#9;' || '&#9;' || '&#9;',
     let $score := format-number(sum($relevant/@score), "##0.0")
     let $bib_e := format-number(avg($relevant/../bibliographicExpertise), "##0.0")
     let $search_e := format-number(avg($relevant/../searchExpertise), "##0.0")
-    let $task_e := format-number(avg($relevant/../searchExpertise), "##0.0")
+    let $task_e := format-number(avg($relevant/../taskConfidence), "##0.0")
     order by count($relevant) descending
     return '&#xa;' || $title  || '&#9;' ||$c_all || '&#9;' || $bib_e || '&#9;' || $search_e|| '&#9;' || $task_e|| '&#9;' || $relevant[1]/@form ),
     for $results in //properties[query = $q]/results[not(. = //properties[query = $q]/relevant)]
@@ -96,3 +96,26 @@ for $task in //properties[task = ('3', '4')]
 group by $q := $task/query
 let $participants := count(distinct-values($task/respondent ))
 return '&#xa;' || $q || " : " || $participants
+
+
+User stats:
+declare namespace output = 'http://www.w3.org/2010/xslt-xquery-serialization';
+declare option output:method 'text';
+
+let $task := ('1')
+
+return
+(for $response in //properties[task = $task]
+group by $at := $response/searchExpertise
+order by $at descending
+return count($response), 
+'&#xa;',
+for $response in //properties[task = $task]
+group by $at := $response/bibliographicExpertise
+order by $at descending
+return count($response), 
+'&#xa;',
+for $response in //properties[task = $task]
+group by $at := $response/taskConfidence
+order by $at descending
+return count($response))

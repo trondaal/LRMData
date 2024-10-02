@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+    <marc:record>
+        <marc:leader>01148pam a2200361 i 4500</marc:leader>
+        <marc:controlfield tag="001">019072421</marc:controlfield>
+        <marc:controlfield tag="003">Uk</marc:controlfield>
+        <marc:controlfield tag="005">20210310175155.0</marc:controlfield>
+        <marc:controlfield tag="008">180801t20182018enk           000|f|eng|d</marc:controlfield>
+        <marc:datafield tag="015" ind1=" " ind2=" ">
+            <marc:subfield code="a">GBB8I1218</marc:subfield>
+            <marc:subfield code="2">bnb</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="016" ind1="7" ind2=" ">
+            <marc:subfield code="a">019072421</marc:subfield>
+            <marc:subfield code="2">Uk</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">9781787300941</marc:subfield>
+            <marc:subfield code="q">paperback</marc:subfield>
+            <marc:subfield code="c">£12.99</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="z">9781473561090</marc:subfield>
+            <marc:subfield code="q">ePub ebook</marc:subfield>
+            <marc:subfield code="c">£12.98</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">StDuBDS</marc:subfield>
+            <marc:subfield code="b">eng</marc:subfield>
+            <marc:subfield code="c">StDuBDS</marc:subfield>
+            <marc:subfield code="d">Uk</marc:subfield>
+            <marc:subfield code="e">rda</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="1" ind2=" ">
+            <marc:subfield code="a">eng</marc:subfield>
+            <marc:subfield code="h">nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">ukblcatcopy</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="0" ind2="4">
+            <marc:subfield code="a">839.8238</marc:subfield>
+            <marc:subfield code="2">23</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Fossum, Karin,</marc:subfield>
+            <marc:subfield code="d">1954-</marc:subfield>
+            <marc:subfield code="e">author.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="1" ind2="0">
+            <marc:subfield code="a">Hviskeren.</marc:subfield>
+            <marc:subfield code="l">English</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="4">
+            <marc:subfield code="a">The whisperer /</marc:subfield>
+            <marc:subfield code="c">Karin Fossum ; translated from the Norwegian by Kari Dickson.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="264" ind1=" " ind2="1">
+            <marc:subfield code="a">London :</marc:subfield>
+            <marc:subfield code="b">Harvill Secker,</marc:subfield>
+            <marc:subfield code="c">[2018]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="264" ind1=" " ind2="4">
+            <marc:subfield code="c">©2018</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">373 pages ;</marc:subfield>
+            <marc:subfield code="c">24 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
+            <marc:subfield code="2">rdacontent</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">unmediated</marc:subfield>
+            <marc:subfield code="2">rdamedia</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">volume</marc:subfield>
+            <marc:subfield code="2">rdacarrier</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="0" ind2=" ">
+            <marc:subfield code="a">The Inspector Sejer series</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Formerly CIP.</marc:subfield>
+            <marc:subfield code="5">Uk</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="0">
+            <marc:subfield code="a">Sejer, Konrad</marc:subfield>
+            <marc:subfield code="c">(Fictitious character)</marc:subfield>
+            <marc:subfield code="v">Fiction.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Police</marc:subfield>
+            <marc:subfield code="z">Norway</marc:subfield>
+            <marc:subfield code="v">Fiction.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="0">
+            <marc:subfield code="a">Detective and mystery stories.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Dickson, Kari,</marc:subfield>
+            <marc:subfield code="e">translator.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="776" ind1="0" ind2="8">
+            <marc:subfield code="i">ebook version :</marc:subfield>
+            <marc:subfield code="z">9781473561090</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01230pam a22003731i 4500</marc:leader>
+        <marc:controlfield tag="001">017798001</marc:controlfield>
+        <marc:controlfield tag="003">Uk</marc:controlfield>
+        <marc:controlfield tag="005">20170911024332.0</marc:controlfield>
+        <marc:controlfield tag="006">m    ||  d |      </marc:controlfield>
+        <marc:controlfield tag="007">cr |||||||||||</marc:controlfield>
+        <marc:controlfield tag="008">160211s2016    enk     o     000|f|eng|d</marc:controlfield>
+        <marc:datafield tag="015" ind1=" " ind2=" ">
+            <marc:subfield code="a">GBB649428</marc:subfield>
+            <marc:subfield code="2">bnb</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">9781473520387 (ePub ebook) :</marc:subfield>
+            <marc:subfield code="c">£13.56</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="z">9781846559402 (pbk.) :</marc:subfield>
+            <marc:subfield code="c">£12.99</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="037" ind1=" " ind2=" ">
+            <marc:subfield code="a">TheRandomHouseGroup226265</marc:subfield>
+            <marc:subfield code="b">Ingram Content Group</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">StDuBDS</marc:subfield>
+            <marc:subfield code="b">eng</marc:subfield>
+            <marc:subfield code="c">StDuBDS</marc:subfield>
+            <marc:subfield code="d">Uk</marc:subfield>
+            <marc:subfield code="e">rda</marc:subfield>
+            <marc:subfield code="e">pn</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="1" ind2=" ">
+            <marc:subfield code="a">eng</marc:subfield>
+            <marc:subfield code="h">nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">ukblsr</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="0" ind2="4">
+            <marc:subfield code="a">839.8238</marc:subfield>
+            <marc:subfield code="2">23</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Fossum, Karin,</marc:subfield>
+            <marc:subfield code="d">1954-</marc:subfield>
+            <marc:subfield code="e">author.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Hell fire /</marc:subfield>
+            <marc:subfield code="c">Karin Fossum ; translated by Kari Dickson.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="264" ind1=" " ind2="1">
+            <marc:subfield code="a">London :</marc:subfield>
+            <marc:subfield code="b">Vintage Digital,</marc:subfield>
+            <marc:subfield code="c">2016.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 online resource.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
+            <marc:subfield code="2">rdacontent</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">computer</marc:subfield>
+            <marc:subfield code="2">rdamedia</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">online resource</marc:subfield>
+            <marc:subfield code="2">rdacarrier</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="1" ind2=" ">
+            <marc:subfield code="a">Inspector Sejer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Translated from the Norwegian.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="588" ind1=" " ind2=" ">
+            <marc:subfield code="a">Description based on CIP data; item not viewed.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="0">
+            <marc:subfield code="a">Sejer, Konrad</marc:subfield>
+            <marc:subfield code="c">(Fictitious character)</marc:subfield>
+            <marc:subfield code="v">Fiction.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Police</marc:subfield>
+            <marc:subfield code="z">Norway</marc:subfield>
+            <marc:subfield code="v">Fiction.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="0">
+            <marc:subfield code="a">Detective and mystery stories.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Dickson, Kari,</marc:subfield>
+            <marc:subfield code="e">translator.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="776" ind1="0" ind2="8">
+            <marc:subfield code="i">Print version :</marc:subfield>
+            <marc:subfield code="z">9781846559402</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01129pam a2200349 i 4500</marc:leader>
+        <marc:controlfield tag="001">017796199</marc:controlfield>
+        <marc:controlfield tag="003">Uk</marc:controlfield>
+        <marc:controlfield tag="005">20170713122649.0</marc:controlfield>
+        <marc:controlfield tag="008">160211s2016    enk           000|1|eng|d</marc:controlfield>
+        <marc:datafield tag="015" ind1=" " ind2=" ">
+            <marc:subfield code="a">GBB647629</marc:subfield>
+            <marc:subfield code="2">bnb</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="016" ind1="7" ind2=" ">
+            <marc:subfield code="a">017796199</marc:subfield>
+            <marc:subfield code="2">Uk</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">9781846559402 (paperback) :</marc:subfield>
+            <marc:subfield code="c">£12.99</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="z">9781473520387 (ePub ebook) :</marc:subfield>
+            <marc:subfield code="c">£13.56</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">StDuBDS</marc:subfield>
+            <marc:subfield code="b">eng</marc:subfield>
+            <marc:subfield code="c">StDuBDS</marc:subfield>
+            <marc:subfield code="d">Uk</marc:subfield>
+            <marc:subfield code="e">rda</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="1" ind2=" ">
+            <marc:subfield code="a">eng</marc:subfield>
+            <marc:subfield code="h">nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">ukblcatcopy</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="0" ind2="4">
+            <marc:subfield code="a">839.8238</marc:subfield>
+            <marc:subfield code="2">23</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Fossum, Karin,</marc:subfield>
+            <marc:subfield code="d">1954-</marc:subfield>
+            <marc:subfield code="e">author.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Hellfire /</marc:subfield>
+            <marc:subfield code="c">Karin Fossum ; translated from the Norwegian by Kari Dickson.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="264" ind1=" " ind2="1">
+            <marc:subfield code="a">London :</marc:subfield>
+            <marc:subfield code="b">Harvill Secker,</marc:subfield>
+            <marc:subfield code="c">[2016]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">276 pages ;</marc:subfield>
+            <marc:subfield code="c">24 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
+            <marc:subfield code="2">rdacontent</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">unmediated</marc:subfield>
+            <marc:subfield code="2">rdamedia</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">volume</marc:subfield>
+            <marc:subfield code="2">rdacarrier</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Translated from the Norwegian.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Formerly CIP.</marc:subfield>
+            <marc:subfield code="5">Uk</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="530" ind1=" " ind2=" ">
+            <marc:subfield code="a">Also issued online.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="0">
+            <marc:subfield code="a">Sejer, Konrad</marc:subfield>
+            <marc:subfield code="c">(Fictitious character)</marc:subfield>
+            <marc:subfield code="v">Fiction.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Police</marc:subfield>
+            <marc:subfield code="z">Norway</marc:subfield>
+            <marc:subfield code="v">Fiction.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="0">
+            <marc:subfield code="a">Detective and mystery stories.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Dickson, Kari,</marc:subfield>
+            <marc:subfield code="e">translator.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="776" ind1="0" ind2="8">
+            <marc:subfield code="i">ebook version :</marc:subfield>
+            <marc:subfield code="z">9781473520387</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01234pam a22003731i 4500</marc:leader>
+        <marc:controlfield tag="001">017157497</marc:controlfield>
+        <marc:controlfield tag="003">Uk</marc:controlfield>
+        <marc:controlfield tag="005">20171031024135.0</marc:controlfield>
+        <marc:controlfield tag="006">m    ||  d |      </marc:controlfield>
+        <marc:controlfield tag="007">cr |||||||||||</marc:controlfield>
+        <marc:controlfield tag="008">150211s2015    enk     o|    000|f|eng|d</marc:controlfield>
+        <marc:datafield tag="015" ind1=" " ind2=" ">
+            <marc:subfield code="a">GBB548683</marc:subfield>
+            <marc:subfield code="2">bnb</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">9781448192311 (ePub ebook) :</marc:subfield>
+            <marc:subfield code="c">£13.56</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="z">9781846558542 (pbk.) :</marc:subfield>
+            <marc:subfield code="c">£12.99</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="037" ind1=" " ind2=" ">
+            <marc:subfield code="a">TheRandomHouseGroup213797</marc:subfield>
+            <marc:subfield code="b">Ingram Content Group</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">StDuBDS</marc:subfield>
+            <marc:subfield code="b">eng</marc:subfield>
+            <marc:subfield code="c">StDuBDS</marc:subfield>
+            <marc:subfield code="d">Uk</marc:subfield>
+            <marc:subfield code="e">rda</marc:subfield>
+            <marc:subfield code="e">pn</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="1" ind2=" ">
+            <marc:subfield code="a">eng</marc:subfield>
+            <marc:subfield code="h">nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">ukblsr</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="0" ind2="4">
+            <marc:subfield code="a">839.8238</marc:subfield>
+            <marc:subfield code="2">23</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Fossum, Karin,</marc:subfield>
+            <marc:subfield code="d">1954-</marc:subfield>
+            <marc:subfield code="e">author.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="4">
+            <marc:subfield code="a">The drowned boy /</marc:subfield>
+            <marc:subfield code="c">Karin Fossum ; translated by Kari Dickson.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="264" ind1=" " ind2="1">
+            <marc:subfield code="a">London :</marc:subfield>
+            <marc:subfield code="b">Vintage Digital,</marc:subfield>
+            <marc:subfield code="c">2015.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 online resource.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
+            <marc:subfield code="2">rdacontent</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">computer</marc:subfield>
+            <marc:subfield code="2">rdamedia</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">online resource</marc:subfield>
+            <marc:subfield code="2">rdacarrier</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="1" ind2=" ">
+            <marc:subfield code="a">Inspector Sejer</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Translated from the Norwegian.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="588" ind1=" " ind2=" ">
+            <marc:subfield code="a">Description based on CIP data; item not viewed.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Sejer, Konrad (Fictitious character)</marc:subfield>
+            <marc:subfield code="v">Fiction.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Police</marc:subfield>
+            <marc:subfield code="z">Norway</marc:subfield>
+            <marc:subfield code="v">Fiction.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="0">
+            <marc:subfield code="a">Detective and mystery stories.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Dickson, Kari,</marc:subfield>
+            <marc:subfield code="e">translator.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="776" ind1="0" ind2="8">
+            <marc:subfield code="i">Print version:</marc:subfield>
+            <marc:subfield code="z">9781846558542</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>01110pam a2200349 i 4500</marc:leader>
+        <marc:controlfield tag="001">017155813</marc:controlfield>
+        <marc:controlfield tag="003">Uk</marc:controlfield>
+        <marc:controlfield tag="005">20161114103550.0</marc:controlfield>
+        <marc:controlfield tag="008">150211s2015    enk           000|1|eng|d</marc:controlfield>
+        <marc:datafield tag="015" ind1=" " ind2=" ">
+            <marc:subfield code="a">GBB547003</marc:subfield>
+            <marc:subfield code="2">bnb</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="016" ind1="7" ind2=" ">
+            <marc:subfield code="a">017155813</marc:subfield>
+            <marc:subfield code="2">Uk</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">9781846558542 (pbk.) :</marc:subfield>
+            <marc:subfield code="c">£12.99</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="z">9781448192311 (ePub ebook) :</marc:subfield>
+            <marc:subfield code="c">£13.56</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">StDuBDS</marc:subfield>
+            <marc:subfield code="b">eng</marc:subfield>
+            <marc:subfield code="c">StDuBDS</marc:subfield>
+            <marc:subfield code="d">Uk</marc:subfield>
+            <marc:subfield code="e">rda</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="1" ind2=" ">
+            <marc:subfield code="a">eng</marc:subfield>
+            <marc:subfield code="h">nor</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">ukblcatcopy</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="0" ind2="4">
+            <marc:subfield code="a">839.8238</marc:subfield>
+            <marc:subfield code="2">23</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Fossum, Karin,</marc:subfield>
+            <marc:subfield code="d">1954-</marc:subfield>
+            <marc:subfield code="e">author.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="4">
+            <marc:subfield code="a">The drowned boy /</marc:subfield>
+            <marc:subfield code="c">Karin Fossum ; translated by Kari Dickson.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="264" ind1=" " ind2="1">
+            <marc:subfield code="a">London :</marc:subfield>
+            <marc:subfield code="b">Harvill Secker,</marc:subfield>
+            <marc:subfield code="c">[2015]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">243 pages ;</marc:subfield>
+            <marc:subfield code="c">24 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
+            <marc:subfield code="2">rdacontent</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">unmediated</marc:subfield>
+            <marc:subfield code="2">rdamedia</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">volume</marc:subfield>
+            <marc:subfield code="2">rdacarrier</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Translated from the Norwegian.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Formerly CIP.</marc:subfield>
+            <marc:subfield code="5">Uk</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="530" ind1=" " ind2=" ">
+            <marc:subfield code="a">Also issued online.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Sejer, Konrad (Fictitious character)</marc:subfield>
+            <marc:subfield code="v">Fiction.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Police</marc:subfield>
+            <marc:subfield code="z">Norway</marc:subfield>
+            <marc:subfield code="v">Fiction.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="0">
+            <marc:subfield code="a">Detective and mystery stories.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Dickson, Kari,</marc:subfield>
+            <marc:subfield code="e">translator.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="776" ind1="0" ind2="8">
+            <marc:subfield code="i">ebook version:</marc:subfield>
+            <marc:subfield code="z">9781448192311</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>
