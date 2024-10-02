@@ -55,11 +55,14 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/175761003">
       <rdaxd:P00018>http://viaf.org/viaf/175761003</rdaxd:P00018>
-      <rdawd:P10088>The martian chronicles</rdawd:P10088>
+      <rdawd:P10088>The Martian chronicles</rdawd:P10088>
+      <rdfs:label>The Martian chronicles</rdfs:label>
+      <rdaxd:P00029>Hørespill</rdaxd:P00029>
       <rdfs:label>The martian chronicles (Bradbury, Ray)</rdfs:label>
       <rdaxd:P00029>Roman</rdaxd:P00029>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+      <rdawo:P10131 rdf:resource="http://viaf.org/viaf/175761003"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/181334419">
       <rdaxd:P00018>http://viaf.org/viaf/181334419</rdaxd:P00018>
@@ -85,8 +88,6 @@
       <rdawd:P10330>Presents two novellas, including "Somewhere a Band Is Playing," in which a young writer discovers that all is not as it seems in a nostalgic community, and "Leviathan '99," in which Ishmael Hunnicut Jones prepares for a first interstellar hunt.</rdawd:P10330>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/1066162985524886300002"/>
-      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/181334419"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?28559">
       <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?28559</rdaxd:P00018>
@@ -339,8 +340,8 @@
       <rdaed:P20312>The fog horn</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
       <rdfs:label>The fog horn (Bradbury, Ray)</rdfs:label>
-      <rdaed:P20315>https://www.isfdb.org/cgi-bin/title.cgi?2853232</rdaed:P20315>
-      <rdfs:label>https://www.isfdb.org/cgi-bin/title.cgi?2853232 (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20315>La sirena</rdaed:P20315>
+      <rdfs:label>La sirena (Bradbury, Ray)</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/cat"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1542159477729527990004"/>
@@ -354,12 +355,20 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1542159477729527990004"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/175761003/exp/1013">
+      <rdaed:P20316>The Martian chronicles</rdaed:P20316>
+      <rdaed:P20312>[The Martian chronicles] [Sound recording]</rdaed:P20312>
+      <rdfs:label>[The Martian chronicles] [Sound recording]</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/175761003"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/175761003/exp/eng/1020">
       <rdaed:P20316>The martian chronicles</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>The Martian chronicles</rdaed:P20312>
       <rdfs:label>The Martian chronicles (Bradbury, Ray)</rdfs:label>
       <rdaed:P20312>The Martian chronicles : the fortieth anniversary edition</rdaed:P20312>
+      <rdaed:P20315>The martian chronicles</rdaed:P20315>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/175761003"/>
@@ -383,15 +392,15 @@
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/5196155286593787180009/exp/eng/1020">
       <rdaed:P20316>Now and forever</rdaed:P20316>
-      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>Now and forever</rdaed:P20312>
       <rdfs:label>Now and forever (Bradbury, Ray)</rdfs:label>
       <rdaed:P20071>Somewhere a band is playing -- Leviathan '99</rdaed:P20071>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/1066162985524886300002/exp/eng/1020"/>
-      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/181334419/exp/eng/1020"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/5196155286593787180009"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/1066162985524886300002/exp/eng/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/181334419/exp/eng/1020"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?28559/exp/eng/1020">
       <rdaed:P20312>Fever dream</rdaed:P20312>
@@ -627,6 +636,7 @@
       <rdamd:P30137>With: Ira Cook 3711 F.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/175761003/exp/1013"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/9299273">
       <rdamd:P30156>The Martian chronicles</rdamd:P30156>

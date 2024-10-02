@@ -50,7 +50,7 @@ Verk identifisert med URI
 * http://viaf.org/viaf/12305881/illustratedbradbury = The illustrated Bradbury 
 * http://viaf.org/viaf/12305881/talesoffantasy = Tales of fantasy (Language-based work)
 * http://viaf.org/viaf/1542159477729527990004 = The fog horn (Language-based work)
-* http://viaf.org/viaf/175761003 = The martian chronicles / The Martian chronicles (Language-based work)
+* http://viaf.org/viaf/175761003 = The Martian chronicles / The martian chronicles (Language-based work)
 * http://viaf.org/viaf/181334419 = Somewhere a Band Is Playing (Language-based work)
 * http://viaf.org/viaf/37037319/frostandfire = Frost and fire (Language-based work)
 * http://viaf.org/viaf/5196155286593787180009 = Now and forever (Language-based work)
@@ -77,12 +77,6 @@ Verk identifisert med URI
 * https://www.isfdb.org/cgi-bin/title.cgi?64869 = Frost and fire 
 
 
-Poster hvor vi ikke finner noe verk identifisert med URI
-hverken som hovedinnførsel i 130/240 eller som analytt i 700
--------------------------------------------------------
-001 = 6224190 / 245$a =  [The Martian chronicles] [Sound recording] 
-
-
 Oversikt over URI relasjonstyper for Agent brukt i samlingen
 verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 -------------------------------------------------------
@@ -96,8 +90,8 @@ verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
 
 Verk til verk RDA relasjonstyper i 700 og 758 $4-subfelt + label fra RDA registry
 -------------------------------------------------------
-* http://rdaregistry.info/Elements/w/P10189 () : 1 
 * http://rdaregistry.info/Elements/w/object/P10131 (is radio adaptation of work) : 1 
+* http://rdaregistry.info/Elements/w/object/P10189 (is libretto based on work) : 1 
 * http://rdaregistry.info/Elements/w/object/P10252 (is graphic novelization of work) : 1 
 
 
@@ -105,5 +99,7 @@ Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke an
 -------------------------------------------------------
 001 = 4772994, Frost and fire / Janson, Klaus. / Language-based work 
 * http://rdaregistry.info/Elements/w/object/P10252 (is graphic novelization of work) -> Frost and fire / Bradbury, Ray, (700)
+001 = 6224190, The Martian chronicles / Language-based work 
+* http://rdaregistry.info/Elements/w/object/P10131 (is radio adaptation of work) -> The Martian chronicles / Bradbury, Ray, (700)
 001 = 12066141, The lifework of Juan Diaz /  
-* http://rdaregistry.info/Elements/w/P10189 () -> Lifework of Juan Diaz / Bradbury, Ray, (700)
+* http://rdaregistry.info/Elements/w/object/P10189 (is libretto based on work) -> Lifework of Juan Diaz / Bradbury, Ray, (700)

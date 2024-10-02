@@ -1,0 +1,72 @@
+
+
+VBINF6000 rapport over datasamling - oppdatert 24/10 2023
+-------------------------------------------------------
+
+
+Antall poster i samlingen:52
+-------------------------------------------------------
+
+
+Agenter identifisert med URI
+-------------------------------------------------------
+* http://example.org/andeson (700) : Anderson, James
+* http://example.org/armand (700) : Armand, Gisken
+* http://example.org/briedis (700) : Briedis, Sandris
+* http://viaf.org/viaf/120627630 (100) : Fossum, Karin
+* http://viaf.org/viaf/2036167764294613890005 (700) : Fossum, Karin
+* http://viaf.org/viaf/228782183 (700) : Grundvig, Kirsti
+* http://example.org/haefs (700) : Haefs, Gabriele
+* http://example.org/jessen (700) : Jessen, Ida
+* http://viaf.org/viaf/228991488 (700) : Lund, Trini
+* http://example.org/nesheim (700) : Nesheim, Berit
+* http://example.org/ousdal (700) : Ousdal, Sverre Anker
+* http://example.org/smit (700) : Smit, Annemarie
+* http://example.org/sundquist (700) : Sundquist, Bjørn
+* http://example.org/sæter (700) : Sæther, Andrine
+* http://example.org/teva (700) : Teva, Tarja
+* http://viaf.org/viaf/315556159 (100) : Vikene, Åse
+* http://viaf.org/viaf/120226803 (700) : Örnkloo, Helena
+* http://viaf.org/viaf/61517877 (700) : Örnkloo, Ulf / Haefs, Gabriele
+
+
+Agent-innførsler som IKKE er identifiser med URI i $1
+men dere velger selv hvilke agenter som skal være med
+-------------------------------------------------------
+* 710  2#  $aNRK drama  $0(NO-TrBIB)68439
+
+
+Verk identifisert med URI
+-------------------------------------------------------
+* http://example.org/fossum/001 = Evas öga ; Se dig inte om! ; Den som fruktar vargen 
+* http://example.org/fossum/002 = Evas Auge ; Fremde Blicke 
+* http://example.org/fossum/003 = Evas øye ; Se deg ikke tilbake! 
+* http://viaf.org/viaf/2949151051818133530003 = Evas øye 
+* http://viaf.org/viaf/9129151051843933530004 = Se deg ikke tilbake 
+* http://viaf.org/viaf/9129151051843933530004/tvmanus = Se deg ikke tilbake 
+* https://www.imdb.com/title/tt0188605 = Evas øye (filmatisering 
+
+
+Oversikt over URI relasjonstyper for Agent brukt i samlingen
+verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
+-------------------------------------------------------
+* http://rdaregistry.info/Elements/e/object/P20012 (has actor agent) : 4 
+* http://rdaregistry.info/Elements/e/object/P20022 (has narrator agent) : 4 
+* http://rdaregistry.info/Elements/e/object/P20037 (has translator agent) : 21 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 51 
+* http://rdaregistry.info/Elements/w/object/P10066 (has director agent) : 1 
+* http://rdaregistry.info/Elements/w/object/P10203 (has screenwriter agent) : 1 
+
+
+Verk til verk RDA relasjonstyper i 700 og 758 $4-subfelt + label fra RDA registry
+-------------------------------------------------------
+* http://rdaregistry.info/Elements/w/object/P10129 (is motion picture adaptation of work) : 1 
+* http://rdaregistry.info/Elements/w/object/P10132 (is television adaptation of work) : 1 
+
+
+Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke analytter)
+-------------------------------------------------------
+001 = 999919985297502202, Evas øye (filmatisering /  /  
+* http://rdaregistry.info/Elements/w/object/P10129 (is motion picture adaptation of work) -> Evas øye / Fossum, Karin (700)
+001 = 990308325514702202, Se deg ikke tilbake / Vikene, Åse /  
+* http://rdaregistry.info/Elements/w/object/P10132 (is television adaptation of work) -> Se deg ikke tilbake / Fossum, Karin (700)
