@@ -882,11 +882,14 @@
             <subfield code="a">Janson, Klaus.</subfield>
             <subfield code="1">http://viaf.org/viaf/37037319</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/w/object/P10058</subfield>
+            <subfield code="8">0</subfield>
         </datafield>
         <datafield tag="240" ind1="1" ind2="0">
             <subfield code="a">Frost and fire</subfield>
             <subfield code="k">Tegneserie</subfield>
-            <subfield code="1">http://viaf.org/viaf/37037319/frostandfire</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?64869/frostandfire</subfield>
+            <subfield code="8">0</subfield>
+            <subfield code="8">1</subfield>
         </datafield>
         <datafield tag="245" ind1="1" ind2="0">
             <subfield code="a">Frost and fire :</subfield>
@@ -1446,6 +1449,363 @@
             <subfield code="1">http://www.example.org/chamberoperachicago</subfield>
             <subfield code="4">prf</subfield>
             <subfield code="4">http://rdaregistry.info/Elements/e/object/P20039</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>03563cam a2200481 i 4500</leader>
+        <controlfield tag="001">22303065</controlfield>
+        <controlfield tag="005">20230726103149.0</controlfield>
+        <controlfield tag="008">211108s2022    nyua     b    000 1 eng d</controlfield>
+        <datafield tag="906" ind1=" " ind2=" ">
+            <subfield code="a">7</subfield>
+            <subfield code="b">cbc</subfield>
+            <subfield code="c">copycat</subfield>
+            <subfield code="d">2</subfield>
+            <subfield code="e">ncip</subfield>
+            <subfield code="f">20</subfield>
+            <subfield code="g">y-gencatlg</subfield>
+        </datafield>
+        <datafield tag="925" ind1="0" ind2=" ">
+            <subfield code="a">acquire</subfield>
+            <subfield code="b">1 shelf copy</subfield>
+            <subfield code="x">policy default</subfield>
+        </datafield>
+        <datafield tag="955" ind1=" " ind2=" ">
+            <subfield code="b">xd07 2021-11-08</subfield>
+            <subfield code="a">xn11 2022-12-20 1 copy rec'd., to USPRLL</subfield>
+            <subfield code="i">xk14 2023-01-31</subfield>
+            <subfield code="w">xk14 2023-01-31 to CMD</subfield>
+        </datafield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2021950350</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9781598537284</subfield>
+            <subfield code="q">(hardcover)</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">1598537288</subfield>
+            <subfield code="q">(hardcover)</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)on1291876855</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">YDX</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="c">YDX</subfield>
+            <subfield code="d">IBV</subfield>
+            <subfield code="d">TOH</subfield>
+            <subfield code="d">ZGX</subfield>
+            <subfield code="d">OQX</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">HDC</subfield>
+            <subfield code="d">IBI</subfield>
+            <subfield code="d">IAI</subfield>
+            <subfield code="d">CPG</subfield>
+            <subfield code="d">DLC</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+        </datafield>
+        <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">PS3503.R167</subfield>
+            <subfield code="b">I45 2022</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">813/.54</subfield>
+            <subfield code="2">23/eng/20230131</subfield>
+        </datafield>
+        <!--<datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Bradbury, Ray,</subfield>
+            <subfield code="d">1920-2012,</subfield>
+            <subfield code="e">author.</subfield>
+        </datafield>-->
+        <datafield tag="240" ind1="0" ind2="4">
+            <subfield code="a">The illustrated man ; The October country ; other stories /</subfield>
+            <subfield code="k">Novellesamling</subfield>
+            <subfield code="1">http://viaf.org/viaf/12305881/variouscollections</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The illustrated man ;</subfield>
+            <subfield code="b">The October country ; other stories /</subfield>
+            <subfield code="c">Ray Bradbury ; Jonathan R. Eller, editor.</subfield>
+        </datafield>
+        <datafield tag="246" ind1="3" ind2="0">
+            <subfield code="a">October country</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">New York, N.Y. :</subfield>
+            <subfield code="b">The Library of America,</subfield>
+            <subfield code="c">[2022]</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">x, 979 pages :</subfield>
+            <subfield code="b">illustrations ;</subfield>
+            <subfield code="c">21 cm.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+        </datafield>
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">The library of America ;</subfield>
+            <subfield code="v">360</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2="0">
+            <subfield code="g">The</subfield>
+            <subfield code="t">Illustrated Man --</subfield>
+            <subfield code="g">The</subfield>
+            <subfield code="t">October Country --</subfield>
+            <subfield code="t">Other Stories.</subfield>
+            <subfield code="t">R Is for Rocket --</subfield>
+            <subfield code="t">Chrysalis --</subfield>
+            <subfield code="t">Frost and Fire --</subfield>
+            <subfield code="t">Powerhouse --</subfield>
+            <subfield code="t">Pillar of Fire --</subfield>
+            <subfield code="t">Asleep in Armageddon --</subfield>
+            <subfield code="t">Dark They Were, and Golden-eyed --</subfield>
+            <subfield code="g">A</subfield>
+            <subfield code="t">Touch of Petulance --</subfield>
+            <subfield code="g">The</subfield>
+            <subfield code="t">Screaming Woman --</subfield>
+            <subfield code="g">The</subfield>
+            <subfield code="t">Fog Horn --</subfield>
+            <subfield code="g">The</subfield>
+            <subfield code="t">Pedestrian --</subfield>
+            <subfield code="g">The</subfield>
+            <subfield code="t">Playground --</subfield>
+            <subfield code="g">A</subfield>
+            <subfield code="t">Sound of Thunder --</subfield>
+            <subfield code="g">The</subfield>
+            <subfield code="t">Great Wide World Over There --</subfield>
+            <subfield code="g">The</subfield>
+            <subfield code="t">Golden Apples of the Sun --</subfield>
+            <subfield code="t">And the Rock Cried Out --</subfield>
+            <subfield code="t">All Summer in a Day --</subfield>
+            <subfield code="t">Interval in Sunlight --</subfield>
+            <subfield code="t">At Midnight, in the Month of June --</subfield>
+            <subfield code="g">The</subfield>
+            <subfield code="t">Strawberry Window --</subfield>
+            <subfield code="t">Icarus Montgolfier Wright --</subfield>
+            <subfield code="g">The</subfield>
+            <subfield code="t">End of the Beginning --</subfield>
+            <subfield code="g">The</subfield>
+            <subfield code="t">Day It Rained Forever --</subfield>
+            <subfield code="g">A</subfield>
+            <subfield code="t">Miracle of Rare Device --</subfield>
+            <subfield code="g">The</subfield>
+            <subfield code="t">Kilimanjaro Device --</subfield>
+            <subfield code="g">The</subfield>
+            <subfield code="t">Lost City of Mars --</subfield>
+            <subfield code="t">I Sing the Body Electric!</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2="0">
+            <subfield code="a">The Illustrated Man -- The October Country -- Other Stories. -- R Is for Rocket -- Chrysalis -- Frost and Fire -- Powerhouse -- Pillar of Fire -- Asleep in Armageddon -- Dark They Were, and Golden-eyed --
+            A Touch of Petulance -- The Screaming Woman -- The Fog Horn -- The Pedestrian -- The Playground -- A Sound of Thunder -- The Great Wide World Over There -- The Golden Apples of the Sun -- And the Rock Cried Out -- 
+            All Summer in a Day -- Interval in Sunlight -- At Midnight, in the Month of June -- The Strawberry Window -- Icarus Montgolfier Wright -- The End of the Beginning --The Day It Rained Forever -- A Miracle of Rare Device -- 
+            The Kilimanjaro Device -- The Lost City of Mars -- I Sing the Body Electric!</subfield>
+        </datafield>
+        <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">&quot;This volume in the Library of America Bradbury edition brings together the complete texts of his two most acclaimed story collections, plus twenty-seven other tales from the 1940s, '50s, and '60s--one of America's greatest storytellers at his very best. Bound together by the mysterious figure of an elaborately tattooed outcast, the eighteen stories in The Illustrated Man explore the dehumanizing possibilities of technology and plumb the dark heart of human brutality. The October Country collects nineteen tales: macabre carnival stories, chilling horror, and fantasy light and dark, with the original artwork by Joseph Mugnaini beautifully restored for this edition. Twenty-seven additional stories include such classics as 'Frost and Fire,' 'The Pedestrian,' 'I Sing the Body Electric!,' and hard-to-find wonders like 'Asleep in Armageddon' and 'The Lost City of Mars.'&quot;--Dust jacket.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Science fiction, American</subfield>
+            <subfield code="y">20th century.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Science fiction, American.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01108635</subfield>
+        </datafield>
+        <datafield tag="648" ind1=" " ind2="7">
+            <subfield code="a">1900-1999</subfield>
+            <subfield code="2">fast</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Novels.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01921742</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Science fiction.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01726489</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Short stories.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01726740</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Science fiction.</subfield>
+            <subfield code="2">lcgft</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Short stories.</subfield>
+            <subfield code="2">lcgft</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Novels.</subfield>
+            <subfield code="2">lcgft</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray,</subfield>
+            <subfield code="d">1920-2012.</subfield>
+            <subfield code="t">Frost and fire</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?64869</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Eller, Jonathan R.,</subfield>
+            <subfield code="d">1952-</subfield>
+            <subfield code="e">editor.</subfield>
+            <subfield code="1">editor.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="i">Container of (work):</subfield>
+            <subfield code="a">Bradbury, Ray,</subfield>
+            <subfield code="d">1920-2012.</subfield>
+            <subfield code="t">Illustrated man.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="i">Container of (work):</subfield>
+            <subfield code="a">Bradbury, Ray,</subfield>
+            <subfield code="d">1920-2012.</subfield>
+            <subfield code="t">October country.</subfield>
+        </datafield>
+        <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Library of America ;</subfield>
+            <subfield code="v">360.</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00734nam a2200253 a 4500</leader>
+        <controlfield tag="001">990102292570107026</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20001107174652.0</controlfield>
+        <controlfield tag="008">900103s1971    sw            000 1 swe d</controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">LC 51-1140</subfield>
+        </datafield>
+        <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="a">swe</subfield>
+            <subfield code="h">eng</subfield>
+        </datafield>
+        <datafield tag="092" ind1=" " ind2=" ">
+            <subfield code="a">D0400515180</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Bradbury, Ray,</subfield>
+            <subfield code="d">1920-2012.</subfield>
+            <subfield code="1">http://viaf.org/viaf/12305881</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="4">
+            <subfield code="a">The illustrated man</subfield>
+            <subfield code="1">http://viaf.org/viaf/2146095153500370503</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">Den illustrerade mannen /</subfield>
+            <subfield code="c">Ray Bradbury ;[översättning av Torsten Blomkvist]</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">214 ;</subfield>
+            <subfield code="c">19 cm</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Language-based work</subfield>
+            <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
+        </datafield>
+        <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Panbok</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Original title: The Illustrated Man</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Short stories</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>00583nam a2200217   4500</leader>
+        <controlfield tag="001">990106421890107026</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">19960516164615.0</controlfield>
+        <controlfield tag="008">920914r19901952enk           000 1 eng d</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0586043594</subfield>
+        </datafield>
+        <datafield tag="082" ind1=" " ind2=" ">
+            <subfield code="a">813.54</subfield>
+            <subfield code="d">F</subfield>
+            <subfield code="2">20</subfield>
+        </datafield>
+        <datafield tag="092" ind1=" " ind2=" ">
+            <subfield code="a">D0500697033</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Bradbury, Ray,</subfield>
+            <subfield code="d">1920-2012.</subfield>
+            <subfield code="1">http://viaf.org/viaf/12305881</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="4">
+            <subfield code="a">The illustrated man</subfield>
+            <subfield code="1">http://viaf.org/viaf/2146095153500370503</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">The illustrated man</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Grafton,</subfield>
+            <subfield code="c">[1990?]</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">239 p</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Language-based work</subfield>
+            <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">First published: London : Rupert Hart-Davis, 1952</subfield>
         </datafield>
     </record>
 </collection>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record>
+        <marc:leader>03563cam a2200481 i 4500</marc:leader>
+        <marc:controlfield tag="001">22303065</marc:controlfield>
+        <marc:controlfield tag="005">20230726103149.0</marc:controlfield>
+        <marc:controlfield tag="008">211108s2022    nyua     b    000 1 eng d</marc:controlfield>
+        <marc:datafield tag="906" ind1=" " ind2=" ">
+            <marc:subfield code="a">7</marc:subfield>
+            <marc:subfield code="b">cbc</marc:subfield>
+            <marc:subfield code="c">copycat</marc:subfield>
+            <marc:subfield code="d">2</marc:subfield>
+            <marc:subfield code="e">ncip</marc:subfield>
+            <marc:subfield code="f">20</marc:subfield>
+            <marc:subfield code="g">y-gencatlg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="925" ind1="0" ind2=" ">
+            <marc:subfield code="a">acquire</marc:subfield>
+            <marc:subfield code="b">1 shelf copy</marc:subfield>
+            <marc:subfield code="x">policy default</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="955" ind1=" " ind2=" ">
+            <marc:subfield code="b">xd07 2021-11-08</marc:subfield>
+            <marc:subfield code="a">xn11 2022-12-20 1 copy rec'd., to USPRLL</marc:subfield>
+            <marc:subfield code="i">xk14 2023-01-31</marc:subfield>
+            <marc:subfield code="w">xk14 2023-01-31 to CMD</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="010" ind1=" " ind2=" ">
+            <marc:subfield code="a">  2021950350</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">9781598537284</marc:subfield>
+            <marc:subfield code="q">(hardcover)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">1598537288</marc:subfield>
+            <marc:subfield code="q">(hardcover)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)on1291876855</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">YDX</marc:subfield>
+            <marc:subfield code="b">eng</marc:subfield>
+            <marc:subfield code="e">rda</marc:subfield>
+            <marc:subfield code="c">YDX</marc:subfield>
+            <marc:subfield code="d">IBV</marc:subfield>
+            <marc:subfield code="d">TOH</marc:subfield>
+            <marc:subfield code="d">ZGX</marc:subfield>
+            <marc:subfield code="d">OQX</marc:subfield>
+            <marc:subfield code="d">OCLCF</marc:subfield>
+            <marc:subfield code="d">HDC</marc:subfield>
+            <marc:subfield code="d">IBI</marc:subfield>
+            <marc:subfield code="d">IAI</marc:subfield>
+            <marc:subfield code="d">CPG</marc:subfield>
+            <marc:subfield code="d">DLC</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="042" ind1=" " ind2=" ">
+            <marc:subfield code="a">lccopycat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="050" ind1="0" ind2="0">
+            <marc:subfield code="a">PS3503.R167</marc:subfield>
+            <marc:subfield code="b">I45 2022</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="0" ind2="0">
+            <marc:subfield code="a">813/.54</marc:subfield>
+            <marc:subfield code="2">23/eng/20230131</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Bradbury, Ray,</marc:subfield>
+            <marc:subfield code="d">1920-2012,</marc:subfield>
+            <marc:subfield code="e">author.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="4">
+            <marc:subfield code="a">The illustrated man ;</marc:subfield>
+            <marc:subfield code="b">The October country ; other stories /</marc:subfield>
+            <marc:subfield code="c">Ray Bradbury ; Jonathan R. Eller, editor.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="3" ind2="0">
+            <marc:subfield code="a">October country</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="264" ind1=" " ind2="1">
+            <marc:subfield code="a">New York, N.Y. :</marc:subfield>
+            <marc:subfield code="b">The Library of America,</marc:subfield>
+            <marc:subfield code="c">[2022]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">x, 979 pages :</marc:subfield>
+            <marc:subfield code="b">illustrations ;</marc:subfield>
+            <marc:subfield code="c">21 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
+            <marc:subfield code="b">txt</marc:subfield>
+            <marc:subfield code="2">rdacontent</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">unmediated</marc:subfield>
+            <marc:subfield code="b">n</marc:subfield>
+            <marc:subfield code="2">rdamedia</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">volume</marc:subfield>
+            <marc:subfield code="b">nc</marc:subfield>
+            <marc:subfield code="2">rdacarrier</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="1" ind2=" ">
+            <marc:subfield code="a">The library of America ;</marc:subfield>
+            <marc:subfield code="v">360</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="505" ind1="0" ind2="0">
+            <marc:subfield code="g">The</marc:subfield>
+            <marc:subfield code="t">Illustrated Man --</marc:subfield>
+            <marc:subfield code="g">The</marc:subfield>
+            <marc:subfield code="t">October Country --</marc:subfield>
+            <marc:subfield code="t">Other Stories.</marc:subfield>
+            <marc:subfield code="t">R Is for Rocket --</marc:subfield>
+            <marc:subfield code="t">Chrysalis --</marc:subfield>
+            <marc:subfield code="t">Frost and Fire --</marc:subfield>
+            <marc:subfield code="t">Powerhouse --</marc:subfield>
+            <marc:subfield code="t">Pillar of Fire --</marc:subfield>
+            <marc:subfield code="t">Asleep in Armageddon --</marc:subfield>
+            <marc:subfield code="t">Dark They Were, and Golden-eyed --</marc:subfield>
+            <marc:subfield code="g">A</marc:subfield>
+            <marc:subfield code="t">Touch of Petulance --</marc:subfield>
+            <marc:subfield code="g">The</marc:subfield>
+            <marc:subfield code="t">Screaming Woman --</marc:subfield>
+            <marc:subfield code="g">The</marc:subfield>
+            <marc:subfield code="t">Fog Horn --</marc:subfield>
+            <marc:subfield code="g">The</marc:subfield>
+            <marc:subfield code="t">Pedestrian --</marc:subfield>
+            <marc:subfield code="g">The</marc:subfield>
+            <marc:subfield code="t">Playground --</marc:subfield>
+            <marc:subfield code="g">A</marc:subfield>
+            <marc:subfield code="t">Sound of Thunder --</marc:subfield>
+            <marc:subfield code="g">The</marc:subfield>
+            <marc:subfield code="t">Great Wide World Over There --</marc:subfield>
+            <marc:subfield code="g">The</marc:subfield>
+            <marc:subfield code="t">Golden Apples of the Sun --</marc:subfield>
+            <marc:subfield code="t">And the Rock Cried Out --</marc:subfield>
+            <marc:subfield code="t">All Summer in a Day --</marc:subfield>
+            <marc:subfield code="t">Interval in Sunlight --</marc:subfield>
+            <marc:subfield code="t">At Midnight, in the Month of June --</marc:subfield>
+            <marc:subfield code="g">The</marc:subfield>
+            <marc:subfield code="t">Strawberry Window --</marc:subfield>
+            <marc:subfield code="t">Icarus Montgolfier Wright --</marc:subfield>
+            <marc:subfield code="g">The</marc:subfield>
+            <marc:subfield code="t">End of the Beginning --</marc:subfield>
+            <marc:subfield code="g">The</marc:subfield>
+            <marc:subfield code="t">Day It Rained Forever --</marc:subfield>
+            <marc:subfield code="g">A</marc:subfield>
+            <marc:subfield code="t">Miracle of Rare Device --</marc:subfield>
+            <marc:subfield code="g">The</marc:subfield>
+            <marc:subfield code="t">Kilimanjaro Device --</marc:subfield>
+            <marc:subfield code="g">The</marc:subfield>
+            <marc:subfield code="t">Lost City of Mars --</marc:subfield>
+            <marc:subfield code="t">I Sing the Body Electric!</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">&quot;This volume in the Library of America Bradbury edition brings together the complete texts of his two most acclaimed story collections, plus twenty-seven other tales from the 1940s, '50s, and '60s--one of America's greatest storytellers at his very best. Bound together by the mysterious figure of an elaborately tattooed outcast, the eighteen stories in The Illustrated Man explore the dehumanizing possibilities of technology and plumb the dark heart of human brutality. The October Country collects nineteen tales: macabre carnival stories, chilling horror, and fantasy light and dark, with the original artwork by Joseph Mugnaini beautifully restored for this edition. Twenty-seven additional stories include such classics as 'Frost and Fire,' 'The Pedestrian,' 'I Sing the Body Electric!,' and hard-to-find wonders like 'Asleep in Armageddon' and 'The Lost City of Mars.'&quot;--Dust jacket.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Science fiction, American</marc:subfield>
+            <marc:subfield code="y">20th century.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="7">
+            <marc:subfield code="a">Science fiction, American.</marc:subfield>
+            <marc:subfield code="2">fast</marc:subfield>
+            <marc:subfield code="0">(OCoLC)fst01108635</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="648" ind1=" " ind2="7">
+            <marc:subfield code="a">1900-1999</marc:subfield>
+            <marc:subfield code="2">fast</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Novels.</marc:subfield>
+            <marc:subfield code="2">fast</marc:subfield>
+            <marc:subfield code="0">(OCoLC)fst01921742</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Science fiction.</marc:subfield>
+            <marc:subfield code="2">fast</marc:subfield>
+            <marc:subfield code="0">(OCoLC)fst01726489</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Short stories.</marc:subfield>
+            <marc:subfield code="2">fast</marc:subfield>
+            <marc:subfield code="0">(OCoLC)fst01726740</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Science fiction.</marc:subfield>
+            <marc:subfield code="2">lcgft</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Short stories.</marc:subfield>
+            <marc:subfield code="2">lcgft</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Novels.</marc:subfield>
+            <marc:subfield code="2">lcgft</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Eller, Jonathan R.,</marc:subfield>
+            <marc:subfield code="d">1952-</marc:subfield>
+            <marc:subfield code="e">editor.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2="2">
+            <marc:subfield code="i">Container of (work):</marc:subfield>
+            <marc:subfield code="a">Bradbury, Ray,</marc:subfield>
+            <marc:subfield code="d">1920-2012.</marc:subfield>
+            <marc:subfield code="t">Illustrated man.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2="2">
+            <marc:subfield code="i">Container of (work):</marc:subfield>
+            <marc:subfield code="a">Bradbury, Ray,</marc:subfield>
+            <marc:subfield code="d">1920-2012.</marc:subfield>
+            <marc:subfield code="t">October country.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="830" ind1=" " ind2="0">
+            <marc:subfield code="a">Library of America ;</marc:subfield>
+            <marc:subfield code="v">360.</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record>
+        <marc:leader>00872cam a2200253 a 4500</marc:leader>
+        <marc:controlfield tag="001">4772994</marc:controlfield>
+        <marc:controlfield tag="005">20120606120414.0</marc:controlfield>
+        <marc:controlfield tag="008">860116s1985    nyua          000 0 eng  </marc:controlfield>
+        <marc:datafield tag="906" ind1=" " ind2=" ">
+            <marc:subfield code="a">7</marc:subfield>
+            <marc:subfield code="b">cbc</marc:subfield>
+            <marc:subfield code="c">orignew</marc:subfield>
+            <marc:subfield code="d">3</marc:subfield>
+            <marc:subfield code="e">ncip</marc:subfield>
+            <marc:subfield code="f">19</marc:subfield>
+            <marc:subfield code="g">y-gencatlg</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="010" ind1=" " ind2=" ">
+            <marc:subfield code="a">   86105742 </marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="020" ind1=" " ind2=" ">
+            <marc:subfield code="a">0930289072 (pbk.) :</marc:subfield>
+            <marc:subfield code="c">$5.95 ($7.95 Can.)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="9">(DLC)   86105742</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">DLC</marc:subfield>
+            <marc:subfield code="c">DLC</marc:subfield>
+            <marc:subfield code="d">DLC</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="050" ind1="0" ind2="0">
+            <marc:subfield code="a">PN6727.J36</marc:subfield>
+            <marc:subfield code="b">F76 1985</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="0" ind2="0">
+            <marc:subfield code="a">741.5/973</marc:subfield>
+            <marc:subfield code="2">19</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Janson, Klaus.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Frost and fire :</marc:subfield>
+            <marc:subfield code="b">a story /</marc:subfield>
+            <marc:subfield code="c">by Ray Bradbury ; adapted by Klaus Janson.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">New York, NY :</marc:subfield>
+            <marc:subfield code="b">DC Comics,</marc:subfield>
+            <marc:subfield code="c">c1985.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">[48] p. :</marc:subfield>
+            <marc:subfield code="b">col. ill. ;</marc:subfield>
+            <marc:subfield code="c">28 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="440" ind1=" " ind2="0">
+            <marc:subfield code="a">Science fiction graphic novel ;</marc:subfield>
+            <marc:subfield code="v">SF 3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Graphic novels.</marc:subfield>
+            <marc:subfield code="2">lcsh</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Science fiction.</marc:subfield>
+            <marc:subfield code="2">gsafd</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Bradbury, Ray,</marc:subfield>
+            <marc:subfield code="d">1920-2012.</marc:subfield>
+            <marc:subfield code="t">Frost and fire.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="991" ind1=" " ind2=" ">
+            <marc:subfield code="b">c-GenColl</marc:subfield>
+            <marc:subfield code="h">PN6727.J36</marc:subfield>
+            <marc:subfield code="i">F76 1985</marc:subfield>
+            <marc:subfield code="t">Copy 1</marc:subfield>
+            <marc:subfield code="w">BOOKS</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>
