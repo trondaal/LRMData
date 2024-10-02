@@ -571,6 +571,17 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/2146095153500370503"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Work"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/1066162985524886300002"
                 },
                 "label": {
@@ -1143,17 +1154,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/37037319/frostandfire"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Work"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "https://www.isfdb.org/cgi-bin/title.cgi?64848"
                 },
                 "label": {
@@ -1188,6 +1188,28 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/175761003/radioplay"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Work"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881/variouscollections"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Work"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869/frostandfire"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -2936,7 +2958,29 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/2146095153500370503/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/175761003/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/2146095153500370503/exp/swe/1020"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -4487,17 +4531,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/37037319/frostandfire/exp/eng/1020"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Expression"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "https://www.isfdb.org/cgi-bin/title.cgi?64848/musikk/exp/eng/1011"
                 },
                 "label": {
@@ -4521,6 +4554,39 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/175761003/radioplay/exp/1013"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881/variouscollections/exp/eng"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869/exp/eng"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869/frostandfire/exp/eng/1020"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -6027,6 +6093,17 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://example.org/990102292570107026"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Manifestation"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://example.org/UPC-034061009122"
                 },
                 "label": {
@@ -6061,6 +6138,17 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://example.org/isbn-0385050607"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Manifestation"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0586043594"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -7392,6 +7480,17 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://example.org/isbn-9788252580167"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Manifestation"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9781598537284"
                 },
                 "label": {
                     "xml:lang": "gden",

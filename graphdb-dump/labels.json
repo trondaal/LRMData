@@ -830,6 +830,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-0586043594"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN0586043594"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-0679423907"
                 },
                 "label": {
@@ -1725,6 +1735,16 @@
                 "label": {
                     "type": "literal",
                     "value": "ISBN9781583429518 (pbk.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9781598537284"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN1598537288"
                 }
             },
             {
@@ -3100,6 +3120,26 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881/variouscollections"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "The illustrated man ; The October country ; other stories (Bradbury, Ray)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881/variouscollections/exp/eng"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "The illustrated man (Bradbury, Ray)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/1535159478113827990002"
                 },
                 "label": {
@@ -3605,6 +3645,36 @@
                 "label": {
                     "type": "literal",
                     "value": "Ikke et land for gamle menn (McCarthy, Cormac)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/2146095153500370503"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "The illustrated man (Bradbury, Ray)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/2146095153500370503/exp/eng/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "The illustrated man (Bradbury, Ray)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/2146095153500370503/exp/swe/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Den illustrerade mannen (Bradbury, Ray)"
                 }
             },
             {
@@ -4245,26 +4315,6 @@
                 "label": {
                     "type": "literal",
                     "value": "Janson, Klaus"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/37037319/frostandfire"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Frost and fire (Janson, Klaus.)"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/37037319/frostandfire/exp/eng/1020"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Frost and fire (Janson, Klaus.)"
                 }
             },
             {
@@ -5554,7 +5604,7 @@
                 },
                 "label": {
                     "type": "literal",
-                    "value": "Counselor (Motion picture : 2013)"
+                    "value": "Counselor"
                 }
             },
             {
@@ -5894,7 +5944,7 @@
                 },
                 "label": {
                     "type": "literal",
-                    "value": "Road (Motion picture : 2009)"
+                    "value": "Road"
                 }
             },
             {
@@ -6355,6 +6405,36 @@
                 "label": {
                     "type": "literal",
                     "value": "Frost and fire (Bradbury, Ray)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869/exp/eng"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Frost and fire (Bradbury, Ray)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869/frostandfire"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Frost and fire (Janson, Klaus.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869/frostandfire/exp/eng/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Frost and fire (Janson, Klaus.)"
                 }
             }
         ]

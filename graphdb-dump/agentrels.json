@@ -1323,6 +1323,25 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/2146095153500370503"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/1066162985524886300002"
                 },
                 "p": {
@@ -2273,7 +2292,64 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/37037319/frostandfire"
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64848/musikk"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10205"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Librettist"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://www.example.org/ratnercarl"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881/variouscollections"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869/frostandfire"
                 },
                 "p": {
                     "type": "uri",
@@ -2292,20 +2368,20 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64848/musikk"
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869/frostandfire"
                 },
                 "p": {
                     "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/w/object/P10205"
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
                 },
                 "l": {
                     "xml:lang": "gden",
                     "type": "literal",
-                    "value": "Librettist"
+                    "value": "Author"
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://www.example.org/ratnercarl"
+                    "value": "http://viaf.org/viaf/12305881"
                 }
             },
             {

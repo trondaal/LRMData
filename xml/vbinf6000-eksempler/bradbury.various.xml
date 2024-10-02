@@ -1517,11 +1517,13 @@
             <subfield code="a">813/.54</subfield>
             <subfield code="2">23/eng/20230131</subfield>
         </datafield>
-        <!--<datafield tag="100" ind1="1" ind2=" ">
+        <datafield tag="100" ind1="1" ind2=" ">
             <subfield code="a">Bradbury, Ray,</subfield>
             <subfield code="d">1920-2012,</subfield>
             <subfield code="e">author.</subfield>
-        </datafield>-->
+            <subfield code="1">http://viaf.org/viaf/12305881</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
         <datafield tag="240" ind1="0" ind2="4">
             <subfield code="a">The illustrated man ; The October country ; other stories /</subfield>
             <subfield code="k">Novellesamling</subfield>
@@ -1666,6 +1668,14 @@
             <subfield code="d">1920-2012.</subfield>
             <subfield code="t">Frost and fire</subfield>
             <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?64869</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Bradbury, Ray,</subfield>
+            <subfield code="d">1920-2012.</subfield>
+            <subfield code="1">http://viaf.org/viaf/12305881</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+            <subfield code="8">1</subfield>
         </datafield>
         <datafield tag="700" ind1="1" ind2=" ">
             <subfield code="a">Eller, Jonathan R.,</subfield>
