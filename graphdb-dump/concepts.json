@@ -43,6 +43,17 @@
             {
                 "concept": {
                     "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/cat"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Catalan"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
                     "value": "http://id.loc.gov/vocabulary/iso639-2/cze"
                 },
                 "label": {
@@ -175,6 +186,17 @@
             {
                 "concept": {
                     "type": "uri",
+                    "value": "http://id.loc.gov/vocabulary/iso639-2/mul"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Multiple"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
                     "value": "http://id.loc.gov/vocabulary/iso639-2/nno"
                 },
                 "label": {
@@ -285,6 +307,17 @@
             {
                 "concept": {
                     "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1007"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Audiocassette"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
                     "value": "http://rdaregistry.info/termList/RDACarrierType/1018"
                 },
                 "label": {
@@ -313,6 +346,17 @@
                     "xml:lang": "gden",
                     "type": "literal",
                     "value": "Videodisc"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1069"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Film roll"
                 }
             },
             {
@@ -401,6 +445,17 @@
                     "xml:lang": "gden",
                     "type": "literal",
                     "value": "Video"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "https://schema.nb.no/Bibliographic/Values/V1000"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Language-based"
                 }
             }
         ]

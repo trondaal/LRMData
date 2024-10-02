@@ -1,0 +1,71 @@
+
+
+VBINF6000 rapport over datasamling - oppdatert 24/10 2023
+-------------------------------------------------------
+
+
+Antall poster i samlingen:6
+-------------------------------------------------------
+
+
+Agenter identifisert med URI
+-------------------------------------------------------
+* http://example.org/adamsanthony (100) : Adams, Anthony
+* http://viaf.org/viaf/12305881 (100, 700) : Bradbury, Ray
+
+
+Agent-innførsler som IKKE er identifiser med URI i $1
+men dere velger selv hvilke agenter som skal være med
+-------------------------------------------------------
+* 700  1#  $aAdams, Anthony.
+* 700  1#  $aAntolín Rato, Mariano  $d1943-
+* 700  1#  $aDearden, Carmen Diana  $d1942-  $eautor del comentario adicional  $etraductor  $4wac  $4trl
+* 700  1#  $aKelley, Gary
+* 700  1#  $aLarragibel, Pablo  $etraductor  $4trl
+* 700  1#  $aMas i Fontcuberta, Martí
+* 700  1#  $aPalomar, Mercedes  $etraductor  $4trl
+* 700  1#  $aSánchez Gómez, Eva  $d1986-  $eilustrador  $4ill
+
+
+Verk identifisert med URI
+-------------------------------------------------------
+* http://viaf.org/viaf/1066162985524886300002 = Leviathan '99. (Language-based work)
+* http://viaf.org/viaf/12305881/talesoffantasy = Tales of fantasy (Language-based work)
+* http://viaf.org/viaf/1542159477729527990004 = The fog horn (Language-based work)
+* http://viaf.org/viaf/181334419 = Somewhere a Band Is Playing (Language-based work)
+* http://viaf.org/viaf/5196155286593787180009 = Now and forever (Language-based work)
+* https://www.isfdb.org/cgi-bin/title.cgi?28559 = Fever dream (Language-based work)
+* https://www.isfdb.org/cgi-bin/title.cgi?40876 = There will come soft rains (Language-based work)
+* https://www.isfdb.org/cgi-bin/title.cgi?44806 = The other foot (Language-based work)
+* https://www.isfdb.org/cgi-bin/title.cgi?44809 = The last night of the world (Language-based work)
+* https://www.isfdb.org/cgi-bin/title.cgi?44813 = Marionettes Inc. (Language-based work)
+* https://www.isfdb.org/cgi-bin/title.cgi?56011 = The pedestrian (Language-based work)
+* https://www.isfdb.org/cgi-bin/title.cgi?58366 = April's witch (Language-based work)
+* https://www.isfdb.org/cgi-bin/title.cgi?58392 = The illustrated woman (Language-based work)
+* https://www.isfdb.org/cgi-bin/title.cgi?58428 = The scythe (Language-based work)
+* https://www.isfdb.org/cgi-bin/title.cgi?61488 = A sound of thunder (Language-based work)
+* https://www.isfdb.org/cgi-bin/title.cgi?62753 = The wind (Language-based work)
+* https://www.isfdb.org/cgi-bin/title.cgi?62961 = The gift (Language-based work)
+* https://www.isfdb.org/cgi-bin/title.cgi?63000 = The smile (Language-based work)
+* https://www.isfdb.org/cgi-bin/title.cgi?63001 = The trolley (Language-based work)
+* https://www.isfdb.org/cgi-bin/title.cgi?64798 = The Foghorn / The foghorn (Language-based work)
+* https://www.isfdb.org/cgi-bin/title.cgi?64815 = The illustrated man (Language-based work)
+* https://www.isfdb.org/cgi-bin/title.cgi?64827 = The veldt (Language-based work)
+* https://www.isfdb.org/cgi-bin/title.cgi?64830 = Let's play poison (Language-based work)
+
+
+Oversikt over URI relasjonstyper for Agent brukt i samlingen
+verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
+-------------------------------------------------------
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 6 
+* http://rdaregistry.info/Elements/w/object/P10393 (has aggregator agent) : 1 
+
+
+Verk til verk RDA relasjonstyper i 700 og 758 $4-subfelt + label fra RDA registry
+-------------------------------------------------------
+Ser ut som dere mangler verk-til-verk relasjoner? 
+
+
+Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke analytter)
+-------------------------------------------------------
+Ser ut som dere mangler slike relasjoner? 

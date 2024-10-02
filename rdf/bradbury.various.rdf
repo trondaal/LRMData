@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:map="http://www.w3.org/2005/xpath-functions/map"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:rdac="http://rdaregistry.info/Elements/c/"
+         xmlns:rdaad="http://rdaregistry.info/Elements/a/datatype/"
+         xmlns:rdaao="http://rdaregistry.info/Elements/a/object/"
+         xmlns:rdawd="http://rdaregistry.info/Elements/w/datatype/"
+         xmlns:rdawo="http://rdaregistry.info/Elements/w/object/"
+         xmlns:rdaed="http://rdaregistry.info/Elements/e/datatype/"
+         xmlns:rdaeo="http://rdaregistry.info/Elements/e/object/"
+         xmlns:rdamd="http://rdaregistry.info/Elements/m/datatype/"
+         xmlns:rdamo="http://rdaregistry.info/Elements/m/object/"
+         xmlns:rdaxd="http://rdaregistry.info/Elements/x/datatype/"
+         xmlns:mads="http://www.loc.gov/mads/rdf/v1#"
+         xmlns:mmmm="http://www.loc.gov/MARC21/slim/"
+         xmlns:rdaco="http://rdaregistry.info/termList/RDAContentType/"
+         xmlns:rdact="http://rdaregistry.info/termList/RDACarrierType/"
+         xmlns:rdamt="http://rdaregistry.info/termList/RDAMediaType/"
+         xmlns:rdat="http://rdaregistry.info/termList/"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:ex="http://www.example.org/">
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/1066162985524886300002">
+      <rdaxd:P00018>http://viaf.org/viaf/1066162985524886300002</rdaxd:P00018>
+      <rdawd:P10088>Leviathan '99</rdawd:P10088>
+      <rdfs:label>Leviathan '99 (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/12305881/talesoffantasy">
+      <rdaxd:P00018>http://viaf.org/viaf/12305881/talesoffantasy</rdaxd:P00018>
+      <rdawd:P10088>Tales of fantasy</rdawd:P10088>
+      <rdfs:label>Tales of fantasy</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/1542159477729527990004">
+      <rdaxd:P00018>http://viaf.org/viaf/1542159477729527990004</rdaxd:P00018>
+      <rdawd:P10088>The fog horn</rdawd:P10088>
+      <rdfs:label>The fog horn (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/181334419">
+      <rdaxd:P00018>http://viaf.org/viaf/181334419</rdaxd:P00018>
+      <rdawd:P10088>Somewhere a Band Is Playing</rdawd:P10088>
+      <rdfs:label>Somewhere a Band Is Playing (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/5196155286593787180009">
+      <rdaxd:P00018>http://viaf.org/viaf/5196155286593787180009</rdaxd:P00018>
+      <rdawd:P10088>Now and forever</rdawd:P10088>
+      <rdfs:label>Now and forever (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10330>Presents two novellas, including "Somewhere a Band Is Playing," in which a young writer discovers that all is not as it seems in a nostalgic community, and "Leviathan '99," in which Ishmael Hunnicut Jones prepares for a first interstellar hunt.</rdawd:P10330>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/1066162985524886300002"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/181334419"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?28559">
+      <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?28559</rdaxd:P00018>
+      <rdawd:P10088>Fever dream</rdawd:P10088>
+      <rdfs:label>Fever dream (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?40876">
+      <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?40876</rdaxd:P00018>
+      <rdawd:P10088>There will come soft rains</rdawd:P10088>
+      <rdfs:label>There will come soft rains (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?44806">
+      <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?44806</rdaxd:P00018>
+      <rdawd:P10088>The other foot</rdawd:P10088>
+      <rdfs:label>The other foot (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?44809">
+      <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?44809</rdaxd:P00018>
+      <rdawd:P10088>The last night of the world</rdawd:P10088>
+      <rdfs:label>The last night of the world (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?44813">
+      <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?44813</rdaxd:P00018>
+      <rdawd:P10088>Marionettes Inc</rdawd:P10088>
+      <rdfs:label>Marionettes Inc (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?56011">
+      <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?56011</rdaxd:P00018>
+      <rdawd:P10088>The pedestrian</rdawd:P10088>
+      <rdfs:label>The pedestrian (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?58366">
+      <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?58366</rdaxd:P00018>
+      <rdawd:P10088>April's witch</rdawd:P10088>
+      <rdfs:label>April's witch (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?58392">
+      <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?58392</rdaxd:P00018>
+      <rdawd:P10088>The illustrated woman</rdawd:P10088>
+      <rdfs:label>The illustrated woman (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?58428">
+      <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?58428</rdaxd:P00018>
+      <rdawd:P10088>The scythe</rdawd:P10088>
+      <rdfs:label>The scythe (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?61488">
+      <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?61488</rdaxd:P00018>
+      <rdawd:P10088>A sound of thunder</rdawd:P10088>
+      <rdfs:label>A sound of thunder (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?62753">
+      <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?62753</rdaxd:P00018>
+      <rdawd:P10088>The wind</rdawd:P10088>
+      <rdfs:label>The wind (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?62961">
+      <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?62961</rdaxd:P00018>
+      <rdawd:P10088>The gift</rdawd:P10088>
+      <rdfs:label>The gift (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?63000">
+      <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?63000</rdaxd:P00018>
+      <rdawd:P10088>The smile</rdawd:P10088>
+      <rdfs:label>The smile (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?63001">
+      <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?63001</rdaxd:P00018>
+      <rdawd:P10088>The trolley</rdawd:P10088>
+      <rdfs:label>The trolley (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?64798">
+      <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?64798</rdaxd:P00018>
+      <rdawd:P10088>The Foghorn</rdawd:P10088>
+      <rdfs:label>The Foghorn (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?64815">
+      <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?64815</rdaxd:P00018>
+      <rdawd:P10088>The illustrated man</rdawd:P10088>
+      <rdfs:label>The illustrated man (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?64827">
+      <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?64827</rdaxd:P00018>
+      <rdawd:P10088>The veldt</rdawd:P10088>
+      <rdfs:label>The veldt (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?64830">
+      <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?64830</rdaxd:P00018>
+      <rdawd:P10088>Let's play poison</rdawd:P10088>
+      <rdfs:label>Let's play poison (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10002 rdf:about="http://example.org/adamsanthony">
+      <rdaxd:P00018>http://example.org/adamsanthony</rdaxd:P00018>
+      <rdaad:P50385>Adams, Anthony</rdaad:P50385>
+      <rdfs:label>Adams, Anthony</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/12305881">
+      <rdaxd:P00018>http://viaf.org/viaf/12305881</rdaxd:P00018>
+      <rdaad:P50385>Bradbury, Ray</rdaad:P50385>
+      <rdfs:label>Bradbury, Ray</rdfs:label>
+      <rdaad:P50339>1920-2012</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1066162985524886300002/exp/eng/1020">
+      <rdaed:P20312>Leviathan '99</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Leviathan '99 (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1066162985524886300002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/12305881/talesoffantasy/exp/eng/1013">
+      <rdaed:P20316>Tales of fantasy</rdaed:P20316>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>Tales of fantasy</rdaed:P20312>
+      <rdfs:label>Tales of fantasy</rdfs:label>
+      <rdaed:P20071>The illustrated man -- The veldt -- The foghorn -- The smile -- There will come soft rains -- The pedestrian.</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/12305881/talesoffantasy"/>
+      <rdaeo:P20319 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?64815/exp/eng/1013"/>
+      <rdaeo:P20319 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?64827/exp/eng/1013"/>
+      <rdaeo:P20319 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?64798/exp/eng/1013"/>
+      <rdaeo:P20319 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?63000/exp/eng/1013"/>
+      <rdaeo:P20319 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?40876/exp/eng/1013"/>
+      <rdaeo:P20319 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?56011/exp/eng/1013"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1542159477729527990004/exp/cat/1020">
+      <rdaed:P20006>español</rdaed:P20006>
+      <rdaed:P20312>The fog horn</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The fog horn (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20315>https://www.isfdb.org/cgi-bin/title.cgi?2853232</rdaed:P20315>
+      <rdfs:label>https://www.isfdb.org/cgi-bin/title.cgi?2853232 (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/cat"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1542159477729527990004"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/1542159477729527990004/exp/spa/1020">
+      <rdaed:P20006>español</rdaed:P20006>
+      <rdaed:P20312>The fog horn</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The fog horn (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1542159477729527990004"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/181334419/exp/eng/1020">
+      <rdaed:P20312>Somewhere a Band Is Playing</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Somewhere a Band Is Playing (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/181334419"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/5196155286593787180009/exp/eng/1020">
+      <rdaed:P20316>Now and forever</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Now and forever</rdaed:P20312>
+      <rdfs:label>Now and forever (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20071>Somewhere a band is playing -- Leviathan '99</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/1066162985524886300002/exp/eng/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/181334419/exp/eng/1020"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/5196155286593787180009"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?28559/exp/eng/1020">
+      <rdaed:P20312>Fever dream</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Fever dream (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?28559"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?40876/exp/eng/1013">
+      <rdaed:P20312>There will come soft rains</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>There will come soft rains (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?40876"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?44806/exp/eng/1020">
+      <rdaed:P20312>The other foot</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The other foot (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?44806"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?44809/exp/eng/1020">
+      <rdaed:P20312>The last night of the world</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The last night of the world (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?44809"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?44813/exp/eng/1020">
+      <rdaed:P20312>Marionettes Inc</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Marionettes Inc (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?44813"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?56011/exp/eng/1013">
+      <rdaed:P20312>The pedestrian</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The pedestrian (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?56011"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?56011/exp/eng/1020">
+      <rdaed:P20312>The pedestrian</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The pedestrian (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?56011"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?58366/exp/cat/1020">
+      <rdaed:P20006>español</rdaed:P20006>
+      <rdaed:P20312>April's witch</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>April's witch (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20315>La bruja de abril</rdaed:P20315>
+      <rdfs:label>La bruja de abril (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/cat"/>
+      <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?58366"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?58366/exp/spa/1020">
+      <rdaed:P20006>español</rdaed:P20006>
+      <rdaed:P20312>April's witch</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>April's witch (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?58366"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?58392/exp/spa/1020">
+      <rdaed:P20006>español</rdaed:P20006>
+      <rdaed:P20312>The illustrated woman</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The illustrated woman (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?58392"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?58428/exp/eng/1020">
+      <rdaed:P20312>The scythe</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The scythe (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?58428"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?61488/exp/eng/1020">
+      <rdaed:P20312>A sound of thunder</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>A sound of thunder (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?61488"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?62753/exp/eng/1020">
+      <rdaed:P20312>The wind</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The wind (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?62753"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?62961/exp/eng/1020">
+      <rdaed:P20312>The gift</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The gift (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?62961"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?63000/exp/eng/1013">
+      <rdaed:P20312>The smile</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The smile (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?63000"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?63000/exp/eng/1020">
+      <rdaed:P20312>The smile</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The smile (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?63000"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?63001/exp/eng/1020">
+      <rdaed:P20312>The trolley</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The trolley (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?63001"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?64798/exp/eng/1013">
+      <rdaed:P20312>The foghorn</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The foghorn (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?64798"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?64798/exp/eng/1020">
+      <rdaed:P20312>The Foghorn</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The Foghorn (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?64798"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?64815/exp/eng/1013">
+      <rdaed:P20312>The illustrated man</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The illustrated man (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?64815"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?64827/exp/eng/1013">
+      <rdaed:P20312>The veldt</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The veldt (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?64827"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?64827/exp/eng/1020">
+      <rdaed:P20312>The veldt</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>The veldt (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?64827"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?64830/exp/eng/1020">
+      <rdaed:P20312>Let's play poison</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Let's play poison (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?64830"/>
+   </rdac:C10006>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0061131563">
+      <rdamd:P30004>ISBN 0061131563</rdamd:P30004>
+      <rdaxd:P00018>isbn-0061131563</rdaxd:P00018>
+      <rdfs:label>ISBN0061131563</rdfs:label>
+      <rdamd:P30004>ISBN 9780061131561</rdamd:P30004>
+      <rdaxd:P00018>isbn-9780061131561</rdaxd:P00018>
+      <rdfs:label>ISBN9780061131561</rdfs:label>
+      <rdamd:P30156>Now and forever</rdamd:P30156>
+      <rdamd:P30117>Ray Bradbury</rdamd:P30117>
+      <rdamd:P30088>New York</rdamd:P30088>
+      <rdamd:P30111>New York : W. Morrow, c2007</rdamd:P30111>
+      <rdamd:P30083>W. Morrow</rdamd:P30083>
+      <rdamd:P30011>c2007</rdamd:P30011>
+      <rdamd:P30182>209 p., 22 cm.</rdamd:P30182>
+      <rdamd:P30137>"An imprint of HarperCollins Publishers".</rdamd:P30137>
+      <rdamd:P30033>Somewhere a band is playing -- Leviathan '99</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/5196155286593787180009/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1066162985524886300002/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/181334419/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-024552746">
+      <rdamd:P30004>ISBN 024552746X</rdamd:P30004>
+      <rdaxd:P00018>isbn-024552746</rdaxd:P00018>
+      <rdfs:label>ISBN024552746X</rdfs:label>
+      <rdamd:P30156>Ray Bradbury</rdamd:P30156>
+      <rdamd:P30117>edited by Anthony Adams</rdamd:P30117>
+      <rdamd:P30088>London</rdamd:P30088>
+      <rdamd:P30111>London : Harrap, 1975</rdamd:P30111>
+      <rdamd:P30083>Harrap</rdamd:P30083>
+      <rdamd:P30011>1975</rdamd:P30011>
+      <rdamd:P30182>188 p. : port., 19 cm.</rdamd:P30182>
+      <rdamd:P30106>The Pegasus library</rdamd:P30106>
+      <rdamd:P30033>The veldt -- Let's play poison -- Fever dream -- Zero hour -- The Foghorn -- A sound of thunder -- The wind --The scythe -- Marionettes Inc. -- The other foot -- The pedestrian -- The trolley -- The smile -- The gift -- The last night of the world</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?64827/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?64830/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?28559/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?64798/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?61488/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?62753/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?58428/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?63001/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?63000/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?62961/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?44813/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?44809/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?44806/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?56011/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0807234214">
+      <rdamd:P30004>ISBN 0807234214</rdamd:P30004>
+      <rdaxd:P00018>isbn-0807234214</rdaxd:P00018>
+      <rdfs:label>ISBN0807234214</rdfs:label>
+      <rdamd:P30156>Tales of fantasy</rdamd:P30156>
+      <rdamd:P30117>Ray Bradbury</rdamd:P30117>
+      <rdamd:P30088>Old Greenwich, CT</rdamd:P30088>
+      <rdamd:P30111>Old Greenwich, CT : Listening Library, c1991</rdamd:P30111>
+      <rdamd:P30083>Listening Library</rdamd:P30083>
+      <rdamd:P30011>c1991</rdamd:P30011>
+      <rdamd:P30182>2 sound cassettes : analog.</rdamd:P30182>
+      <rdamd:P30106>Cassette bookshelf</rdamd:P30106>
+      <rdamd:P30033>The illustrated man -- The veldt -- The foghorn -- The smile -- There will come soft rains -- The pedestrian.</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1007"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/12305881/talesoffantasy/exp/eng/1013"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?64815/exp/eng/1013"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?64827/exp/eng/1013"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?64798/exp/eng/1013"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?63000/exp/eng/1013"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?40876/exp/eng/1013"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?56011/exp/eng/1013"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8434842734">
+      <rdamd:P30004>ISBN 84-348-4273-4</rdamd:P30004>
+      <rdaxd:P00018>isbn-8434842734</rdaxd:P00018>
+      <rdfs:label>ISBN84-348-4273-4</rdfs:label>
+      <rdamd:P30156>La bruja de abril y otros cuentos</rdamd:P30156>
+      <rdamd:P30117>Ray Bradbury ; ilustraciones, Gary Kelley ; [traducción del inglés, Mariano Antolín Rato]</rdamd:P30117>
+      <rdamd:P30088>Madrid</rdamd:P30088>
+      <rdamd:P30111>Madrid : SM, D.L. 1994</rdamd:P30111>
+      <rdamd:P30083>SM</rdamd:P30083>
+      <rdamd:P30011>D.L. 1994</rdamd:P30011>
+      <rdamd:P30182>153 p. : il. col., 21 cm.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?58366/exp/spa/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1542159477729527990004/exp/spa/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8476299117">
+      <rdamd:P30004>ISBN 84-7629-911-7</rdamd:P30004>
+      <rdaxd:P00018>isbn-8476299117</rdaxd:P00018>
+      <rdfs:label>ISBN84-7629-911-7</rdfs:label>
+      <rdamd:P30156>Relats inquietants</rdamd:P30156>
+      <rdamd:P30117>Ray Bradbury ; [traducció de l'anglès, Martí Mas i Fontcuberta]</rdamd:P30117>
+      <rdamd:P30107>1ª ed</rdamd:P30107>
+      <rdamd:P30088>Barcelona</rdamd:P30088>
+      <rdamd:P30111>Barcelona : Cruïlla, 1994</rdamd:P30111>
+      <rdamd:P30083>Cruïlla</rdamd:P30083>
+      <rdamd:P30011>1994</rdamd:P30011>
+      <rdamd:P30182>110 p., 21 cm.</rdamd:P30182>
+      <rdamd:P30106>Gran angular. Club</rdamd:P30106>
+      <rdamd:P30165>6</rdamd:P30165>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?58366/exp/cat/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1542159477729527990004/exp/cat/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788494573606">
+      <rdamd:P30004>ISBN 978-84-945736-0-6</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788494573606</rdaxd:P00018>
+      <rdfs:label>ISBN978-84-945736-0-6</rdfs:label>
+      <rdamd:P30156>La mujer tatuada y otros cuentos de amor</rdamd:P30156>
+      <rdamd:P30117>Ray Bradbury ; ilustrado por Eva Sánchez Gómez ; traducción, Carmen Diana Dearden con la colaboración de Mercedes Palomar y Pablo Larragibel</rdamd:P30117>
+      <rdamd:P30088>Barcelona, España</rdamd:P30088>
+      <rdamd:P30111>Barcelona, España : Ediciones Ekaré, [2018]</rdamd:P30111>
+      <rdamd:P30083>Ediciones Ekaré</rdamd:P30083>
+      <rdamd:P30011>[2018]</rdamd:P30011>
+      <rdamd:P30007>©2018</rdamd:P30007>
+      <rdamd:P30182>93 páginas : ilustraciones (blanco y negro), 18 cm.</rdamd:P30182>
+      <rdamd:P30106>Amor y susto. Clásicos</rdamd:P30106>
+      <rdamd:P30033>La bruja de abril -- La sirena del faro -- La mujer taturada</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?58366/exp/spa/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1542159477729527990004/exp/spa/1020"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?58392/exp/spa/1020"/>
+   </rdac:C10007>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/cat">
+      <rdfs:label>cat</rdfs:label>
+      <skos:subjectIndicator>cat</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/eng">
+      <rdfs:label>eng</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/spa">
+      <rdfs:label>spa</rdfs:label>
+      <skos:subjectIndicator>spa</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1007">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1007</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1049">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1049</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1013">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1013</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1020">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1020</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1001">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1001</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1007">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1007</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="https://schema.nb.no/Bibliographic/Values/V1000">
+      <skos:subjectIndicator>https://schema.nb.no/Bibliographic/Values/V1000</skos:subjectIndicator>
+   </skos:Concept>
+</rdf:RDF>

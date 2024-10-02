@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+    <record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <leader>01832cam a2200409 a 4500</leader>
+        <controlfield tag="001">15290476</controlfield>
+        <controlfield tag="005">20140922083429.0</controlfield>
+        <controlfield tag="008">080506s2007    nyu           000 1 eng d</controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">  2008299154</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0061131563</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9780061131561</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">813/.54</subfield>
+            <subfield code="2">22</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Bradbury, Ray,</subfield>
+            <subfield code="d">1920-2012.</subfield>
+            <subfield code="1">http://viaf.org/viaf/12305881</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Now and forever</subfield>
+            <subfield code="1">http://viaf.org/viaf/5196155286593787180009</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Now and forever /</subfield>
+            <subfield code="c">Ray Bradbury.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York :</subfield>
+            <subfield code="b">W. Morrow,</subfield>
+            <subfield code="c">c2007.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">209 p. ;</subfield>
+            <subfield code="c">22 cm.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+            <subfield code="2">rdacarrier</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Language-based work</subfield>
+            <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"An imprint of HarperCollins Publishers".</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Somewhere a band is playing -- Leviathan '99</subfield>
+        </datafield>
+        <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">Presents two novellas, including "Somewhere a Band Is Playing," in which a young writer discovers that all is not as it seems in a nostalgic community, and "Leviathan '99," in which Ishmael Hunnicut Jones prepares for a first interstellar hunt.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray,</subfield>
+            <subfield code="d">1920-2012.</subfield>
+            <subfield code="t">Leviathan '99.</subfield>
+            <subfield code="1">http://viaf.org/viaf/1066162985524886300002</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray,</subfield>
+            <subfield code="d">1920-2012.</subfield>
+            <subfield code="t">Somewhere a Band Is Playing</subfield>
+            <subfield code="1">http://viaf.org/viaf/181334419</subfield>
+        </datafield>
+        <datafield tag="740" ind1="0" ind2="2">
+            <subfield code="a">Leviathan '99.</subfield>
+        </datafield>
+    </record>
+    <record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <leader>01054cam a2200277 i 4500</leader>
+        <controlfield tag="001">1765606</controlfield>
+        <controlfield tag="005">20120606120224.0</controlfield>
+        <controlfield tag="008">760308s1975    enkc     b    000 1 eng  </controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   76355159 </subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">024552746X :</subfield>
+            <subfield code="c">£1.30</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">813/.5/4</subfield>
+        </datafield>
+        <!--<datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Bradbury, Ray,</subfield>
+            <subfield code="d">1920-2012.</subfield>
+            <subfield code="1">http://viaf.org/viaf/12305881</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>-->
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Adams, Anthony</subfield>
+            <subfield code="1">http://example.org/adamsanthony</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10393</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="240" ind1="0" ind2="0">
+            <subfield code="a">Ray Bradbury</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Ray Bradbury /</subfield>
+            <subfield code="c">edited by Anthony Adams.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Harrap,</subfield>
+            <subfield code="c">1975.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">188 p. :</subfield>
+            <subfield code="b">port. ;</subfield>
+            <subfield code="c">19 cm.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Language-based work</subfield>
+            <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
+        </datafield>
+        <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">The Pegasus library</subfield>
+        </datafield>
+        <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliography: p. 188.</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">The veldt -- Let's play poison -- Fever dream -- Zero hour -- The Foghorn -- A sound of thunder -- The wind --The scythe -- Marionettes Inc. -- The other foot -- The pedestrian -- The trolley -- The smile -- The gift -- The last night of the world</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Adams, Anthony.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="t">The veldt</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?64827</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="t">Let's play poison</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?64830</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="t">Fever dream</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?28559</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="t">The Foghorn</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?64798</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="t">A sound of thunder</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?61488</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="t">The wind</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?62753</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="t">The scythe</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?58428</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="t">The trolley</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?63001</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="t">The smile</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?63000</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="t">The gift</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?62961</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="t">Marionettes Inc.</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?44813</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="t">The last night of the world</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?44809</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="t">The other foot</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?44806</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="t">The pedestrian</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?56011</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Bradbury, Ray,</subfield>
+            <subfield code="d">1920-2012.</subfield>
+            <subfield code="1">http://viaf.org/viaf/12305881</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+    </record>
+    <record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <leader>00846cim a22002531a 4500</leader>
+        <controlfield tag="001">12061299</controlfield>
+        <controlfield tag="005">20120606120326.0</controlfield>
+        <controlfield tag="007">ssulunjlc---ce</controlfield>
+        <controlfield tag="008">921123s1991    nyunnn         f    eng  </controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">   99583709 </subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0807234214</subfield>
+        </datafield>
+        <datafield tag="028" ind1="0" ind2="2">
+            <subfield code="a">CB-107</subfield>
+            <subfield code="b">Listening Library</subfield>
+        </datafield>
+        <datafield tag="130" ind1="0" ind2="0">
+            <subfield code="a">Tales of fantasy</subfield>
+            <subfield code="1">http://viaf.org/viaf/12305881/talesoffantasy</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Tales of fantasy</subfield>
+            <subfield code="h">sound recording /</subfield>
+            <subfield code="c">Ray Bradbury.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Old Greenwich, CT :</subfield>
+            <subfield code="b">Listening Library,</subfield>
+            <subfield code="c">c1991.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">2 sound cassettes :</subfield>
+            <subfield code="b">analog.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">spoken word</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1013</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">audio</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1001</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">audiocassette</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1007</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Language-based work</subfield>
+            <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
+        </datafield>
+        <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Cassette bookshelf</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">The illustrated man -- The veldt -- The foghorn -- The smile -- There will come soft rains -- The pedestrian.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="t">The illustrated man</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?64815</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="t">The veldt</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?64827</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="t">The foghorn</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?64798</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="t">The smile</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?63000</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="t">There will come soft rains</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?40876</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="t">The pedestrian</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?56011</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Bradbury, Ray,</subfield>
+            <subfield code="d">1920-2012.</subfield>
+            <subfield code="1">http://viaf.org/viaf/12305881</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+    </record>
+<!--    <record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <leader>01063nam a22003012i 4500</leader>
+        <controlfield tag="001">990112293800107026</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20060413133957.0</controlfield>
+        <controlfield tag="008">500101s1975    enkc     b    000 1 eng d</controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a">GB75-21725</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">024552746X</subfield>
+        </datafield>
+        <datafield tag="082" ind1=" " ind2=" ">
+            <subfield code="a">813/.5/4</subfield>
+        </datafield>
+        <datafield tag="092" ind1=" " ind2=" ">
+            <subfield code="a">D0502291996</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Bradbury, Ray,</subfield>
+            <subfield code="d">1920-2012.</subfield>
+            <subfield code="1">http://viaf.org/viaf/12305881</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Ray Bradbury /</subfield>
+            <subfield code="c">edited by Anthony Adams</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">London :</subfield>
+            <subfield code="b">Harrap,</subfield>
+            <subfield code="c">1975</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">188 p. :</subfield>
+            <subfield code="b">port. ;</subfield>
+            <subfield code="c">19 cm</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Language-based work</subfield>
+            <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
+        </datafield>
+        <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Bibliography: p. 188</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">The veldt. - Let's play poison.- -Fever dream.- -Zero hour.- -The Foghorn.- -A sound of thunder.- -The wind.- -The scythe.- -Marionettes Inc.- -The other foot.- -The pedestrian.- -The trolley.- -The smile.- -The gift.- -The last night of the world</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Adams, Anthony,</subfield>
+            <subfield code="d">1933-</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="t">The Foghorn</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?64798</subfield>
+        </datafield>
+        <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Pegasus library (Harrap)</subfield>
+        </datafield>
+    </record>-->
+    <!--<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <leader>00559nam a2200169 a 4500</leader>
+        <controlfield tag="001">990158163150107026</controlfield>
+        <controlfield tag="003">UkOxU</controlfield>
+        <controlfield tag="005">20050308114234.0</controlfield>
+        <controlfield tag="008">930128s1975    cn            000 0 eng  </controlfield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Bradbury, Ray,</subfield>
+            <subfield code="d">1920-2012.</subfield>
+            <subfield code="1">http://viaf.org/viaf/12305881</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Pillar of fire and other plays for today, tomorrow, and beyond tomorrow /</subfield>
+            <subfield code="c">by Ray Bradbury.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">New York :</subfield>
+            <subfield code="b">Bantam Books,</subfield>
+            <subfield code="c">1975.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">113p. ;</subfield>
+            <subfield code="c">18 cm.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Language-based work</subfield>
+            <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
+        </datafield>
+        <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Bantam drama</subfield>
+        </datafield>
+        <datafield tag="505" ind1="8" ind2=" ">
+            <subfield code="a">Pillar of fire - - Kaleidoscope - - The foghorn</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="t">Pillar of fire</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?58422/subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="t">Kaleidoscope</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?41244</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="t">The foghorn</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?64798/play</subfield>
+        </datafield>
+    </record>-->
+    <record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <leader>01866nam a2200481 c 4500</leader>
+        <controlfield tag="001">a6304111</controlfield>
+        <controlfield tag="003">SpMaBN</controlfield>
+        <controlfield tag="005">20210415013916.5</controlfield>
+        <controlfield tag="008">180831s2018    sp a   | |||| 000 jdspa  </controlfield>
+        <datafield tag="017" ind1=" " ind2=" ">
+            <subfield code="a">B 3041-2018</subfield>
+            <subfield code="b">Oficina Depósito Legal Barcelona</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">978-84-945736-0-6</subfield>
+        </datafield>
+        <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="a">spa</subfield>
+            <subfield code="h">eng</subfield>
+        </datafield>
+        <datafield tag="080" ind1=" " ind2=" ">
+            <subfield code="a">821.111(73)-32"19"</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="d">1920-2012</subfield>
+            <subfield code="e">autor</subfield>
+            <subfield code="1">http://viaf.org/viaf/12305881</subfield>
+            <subfield code="4">aut</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="243" ind1="1" ind2="0">
+            <subfield code="a">Cuentos</subfield>
+            <subfield code="l">Español</subfield>
+            <subfield code="k">Selección</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="3">
+            <subfield code="a">La mujer tatuada y otros cuentos de amor</subfield>
+            <subfield code="c">Ray Bradbury ; ilustrado por Eva Sánchez Gómez ; traducción, Carmen Diana Dearden con la colaboración de Mercedes Palomar y Pablo Larragibel</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="1">
+            <subfield code="a">Barcelona, España</subfield>
+            <subfield code="b">Ediciones Ekaré,</subfield>
+            <subfield code="c">[2018]</subfield>
+        </datafield>
+        <datafield tag="264" ind1=" " ind2="4">
+            <subfield code="c">©2018</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">93 páginas</subfield>
+            <subfield code="b">ilustraciones (blanco y negro)</subfield>
+            <subfield code="c">18 cm</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+            <subfield code="2">rdacarrier</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Language-based work</subfield>
+            <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">Texto</subfield>
+            <subfield code="2">rdacontent</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">sin mediación</subfield>
+            <subfield code="2">rdamedia</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volumen</subfield>
+            <subfield code="2">rdacarrier</subfield>
+        </datafield>
+        <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Amor y susto. Clásicos</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">La bruja de abril -- La sirena del faro -- La mujer taturada</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Dearden, Carmen Diana</subfield>
+            <subfield code="d">1942-</subfield>
+            <subfield code="e">autor del comentario adicional</subfield>
+            <subfield code="e">traductor</subfield>
+            <subfield code="4">wac </subfield>
+            <subfield code="4">trl</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Larragibel, Pablo</subfield>
+            <subfield code="e">traductor</subfield>
+            <subfield code="4">trl</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Palomar, Mercedes</subfield>
+            <subfield code="e">traductor</subfield>
+            <subfield code="4">trl</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Sánchez Gómez, Eva</subfield>
+            <subfield code="d">1986-</subfield>
+            <subfield code="e">ilustrador</subfield>
+            <subfield code="4">ill</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="d">1920-2012</subfield>
+            <subfield code="t">April's witch</subfield>
+            <subfield code="l">Español</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?58366</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="d">1920-2012</subfield>
+            <subfield code="t">The fog horn</subfield>
+            <subfield code="l">Español</subfield>
+            <subfield code="1">http://viaf.org/viaf/1542159477729527990004</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="d">1920-2012</subfield>
+            <subfield code="t">The illustrated woman</subfield>
+            <subfield code="l">Español</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?58392</subfield>
+        </datafield>
+        <datafield tag="740" ind1="3" ind2="2">
+            <subfield code="a">La bruja de abril</subfield>
+        </datafield>
+        <datafield tag="740" ind1="3" ind2="2">
+            <subfield code="a">La mujer tatuada</subfield>
+        </datafield>
+        <datafield tag="740" ind1="3" ind2="2">
+            <subfield code="a">La sirena del faro</subfield>
+        </datafield>
+    </record>
+    <record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <leader>01982nam a22004455  4500</leader>
+        <controlfield tag="001">bimo0000438254</controlfield>
+        <controlfield tag="003">SpMaBN</controlfield>
+        <controlfield tag="005">20210831005620.3</controlfield>
+        <controlfield tag="008">950412s1994    sp |         |||| ||cat  </controlfield>
+        <datafield tag="016" ind1="7" ind2=" ">
+            <subfield code="a">bimoBNE19950125783</subfield>
+            <subfield code="2">SpMaBN</subfield>
+        </datafield>
+        <datafield tag="017" ind1=" " ind2=" ">
+            <subfield code="a">M 34322-1994</subfield>
+            <subfield code="b">Oficina Depósito Legal Madrid</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">84-7629-911-7</subfield>
+        </datafield>
+        <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="a">cat</subfield>
+            <subfield code="h">eng</subfield>
+        </datafield>
+        <datafield tag="080" ind1=" " ind2=" ">
+            <subfield code="a">087.5:82</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="d">1920-2012</subfield>
+            <subfield code="0">XX1641453</subfield>
+            <subfield code="1">http://viaf.org/viaf/12305881</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="243" ind1="1" ind2="0">
+            <subfield code="a">Cuentos</subfield>
+            <subfield code="l">Catalán</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Relats inquietants</subfield>
+            <subfield code="h">[Texto impreso]</subfield>
+            <subfield code="c">Ray Bradbury ; [traducció de l'anglès, Martí Mas i Fontcuberta]</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">1ª ed.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Barcelona</subfield>
+            <subfield code="b">Cruïlla</subfield>
+            <subfield code="c">1994</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">110 p.</subfield>
+            <subfield code="c">21 cm</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+            <subfield code="2">rdacarrier</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Language-based work</subfield>
+            <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
+        </datafield>
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">Gran angular. Club</subfield>
+            <subfield code="v">6</subfield>
+        </datafield>
+        <datafield tag="594" ind1=" " ind2=" ">
+            <subfield code="a">Traducción de: The veldt ; The other foot ; The april witch ; The fog horn</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Mas i Fontcuberta, Martí</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="d">1920-2012</subfield>
+            <subfield code="t">April's witch</subfield>
+            <subfield code="l">Español</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?58366</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="740">
+            <subfield code="a">La bruja de abril</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="d">1920-2012</subfield>
+            <subfield code="t">The fog horn</subfield>
+            <subfield code="l">Español</subfield>
+            <subfield code="1">http://viaf.org/viaf/1542159477729527990004</subfield>
+            <subfield code="8">2</subfield>
+        </datafield>
+        <datafield tag="740">
+            <subfield code="a">https://www.isfdb.org/cgi-bin/title.cgi?2853232</subfield>
+            <subfield code="8">2</subfield>
+        </datafield>
+        <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Gran angular (Editorial Cruïlla).</subfield>
+            <subfield code="p">Club</subfield>
+            <subfield code="v">6</subfield>
+        </datafield>
+    </record>
+    <record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <leader>01471nam a22003615  4500</leader>
+        <controlfield tag="001">bimo0002375674</controlfield>
+        <controlfield tag="003">SpMaBN</controlfield>
+        <controlfield tag="005">20201202014527.4</controlfield>
+        <controlfield tag="008">940906s1994    sp |          ||| ||spa  </controlfield>
+        <datafield tag="016" ind1="7" ind2=" ">
+            <subfield code="a">bimoBNE19940231387</subfield>
+            <subfield code="2">SpMaBN</subfield>
+        </datafield>
+        <datafield tag="017" ind1=" " ind2=" ">
+            <subfield code="a">M 13298-1994</subfield>
+            <subfield code="b">Oficina Depósito Legal Madrid</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">84-348-4273-4</subfield>
+        </datafield>
+        <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="a">spa</subfield>
+            <subfield code="h">eng</subfield>
+        </datafield>
+        <datafield tag="080" ind1=" " ind2=" ">
+            <subfield code="a">087.5:82</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="d">1920-2012</subfield>
+            <subfield code="0">XX1641453</subfield>
+            <subfield code="1">http://viaf.org/viaf/12305881</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="243" ind1="1" ind2="0">
+            <subfield code="a">Cuentos</subfield>
+            <subfield code="l">Español</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="3">
+            <subfield code="a">La bruja de abril y otros cuentos</subfield>
+            <subfield code="h">[Texto impreso]</subfield>
+            <subfield code="c">Ray Bradbury ; ilustraciones, Gary Kelley ; [traducción del inglés, Mariano Antolín Rato]</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Madrid</subfield>
+            <subfield code="b">SM</subfield>
+            <subfield code="c">D.L. 1994</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">153 p.</subfield>
+            <subfield code="b">il. col.</subfield>
+            <subfield code="c">21 cm</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">text</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+            <subfield code="2">rdacarrier</subfield>
+        </datafield>
+        <datafield tag="380" ind1=" " ind2=" ">
+            <subfield code="a">Language-based work</subfield>
+            <subfield code="0">https://schema.nb.no/Bibliographic/Values/V1000</subfield>
+        </datafield>
+        <datafield tag="440" ind1=" " ind2="3">
+            <subfield code="a">El barco de vapor.</subfield>
+            <subfield code="p">Serie Oro.</subfield>
+            <subfield code="p">Roja</subfield>
+            <subfield code="v">7</subfield>
+        </datafield>
+        <datafield tag="594" ind1=" " ind2=" ">
+            <subfield code="a">Traducción de: The veldt ; The other foot ; The april witch ; The fog horn</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="d">1920-2012</subfield>
+            <subfield code="t">April's witch</subfield>
+            <subfield code="l">Español</subfield>
+            <subfield code="1">https://www.isfdb.org/cgi-bin/title.cgi?58366</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Bradbury, Ray</subfield>
+            <subfield code="d">1920-2012</subfield>
+            <subfield code="t">The fog horn</subfield>
+            <subfield code="l">Español</subfield>
+            <subfield code="1">http://viaf.org/viaf/1542159477729527990004</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Antolín Rato, Mariano</subfield>
+            <subfield code="d">1943-</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Kelley, Gary</subfield>
+        </datafield>
+    </record>
+</collection>
+
