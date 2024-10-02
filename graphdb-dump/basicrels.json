@@ -2681,6 +2681,21 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://example.org/6224190"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/175761003/radioplay/exp/1013"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://example.org/9299273"
                 },
                 "l": {
@@ -8961,6 +8976,21 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/9129151051843933530004"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/175761003/radioplay/exp/1013"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/175761003/radioplay"
                 }
             }
         ]

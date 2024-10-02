@@ -1556,6 +1556,21 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/175761003/radioplay"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "form"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "H\u00f8respill"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/175871715/exp/eng/1020"
                 },
                 "label": {
@@ -2525,7 +2540,7 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "parent"
+                    "value": "aggregate"
                 }
             },
             {

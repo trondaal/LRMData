@@ -1676,6 +1676,21 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/175761003/radioplay"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The Martian chronicles"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/86862314"
                 },
                 "label": {
@@ -6036,6 +6051,21 @@
                 "value": {
                     "type": "literal",
                     "value": "The crossing"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/175761003/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlepreferred"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The martian chronicles"
                 }
             },
             {
@@ -10790,7 +10820,7 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?2853232"
+                    "value": "La sirena"
                 }
             },
             {
@@ -11226,6 +11256,36 @@
                 "value": {
                     "type": "literal",
                     "value": "Se deg ikke tilbake"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/175761003/radioplay/exp/1013"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[The Martian chronicles] [Sound recording]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/175761003/radioplay/exp/1013"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The Martian chronicles"
                 }
             },
             {

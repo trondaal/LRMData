@@ -55,13 +55,18 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/175761003">
       <rdaxd:P00018>http://viaf.org/viaf/175761003</rdaxd:P00018>
-      <rdawd:P10088>The Martian chronicles</rdawd:P10088>
-      <rdfs:label>The Martian chronicles</rdfs:label>
-      <rdaxd:P00029>Hørespill</rdaxd:P00029>
+      <rdawd:P10088>The martian chronicles</rdawd:P10088>
       <rdfs:label>The martian chronicles (Bradbury, Ray)</rdfs:label>
       <rdaxd:P00029>Roman</rdaxd:P00029>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/175761003/radioplay">
+      <rdaxd:P00018>http://viaf.org/viaf/175761003/radioplay</rdaxd:P00018>
+      <rdawd:P10088>The Martian chronicles</rdawd:P10088>
+      <rdfs:label>The Martian chronicles</rdfs:label>
+      <rdaxd:P00029>Hørespill</rdaxd:P00029>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10131 rdf:resource="http://viaf.org/viaf/175761003"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/181334419">
@@ -355,13 +360,6 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1542159477729527990004"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="http://viaf.org/viaf/175761003/exp/1013">
-      <rdaed:P20316>The Martian chronicles</rdaed:P20316>
-      <rdaed:P20312>[The Martian chronicles] [Sound recording]</rdaed:P20312>
-      <rdfs:label>[The Martian chronicles] [Sound recording]</rdfs:label>
-      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
-      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/175761003"/>
-   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/175761003/exp/eng/1020">
       <rdaed:P20316>The martian chronicles</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
@@ -372,6 +370,13 @@
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/175761003"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/175761003/radioplay/exp/1013">
+      <rdaed:P20316>The Martian chronicles</rdaed:P20316>
+      <rdaed:P20312>[The Martian chronicles] [Sound recording]</rdaed:P20312>
+      <rdfs:label>[The Martian chronicles] [Sound recording]</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/175761003/radioplay"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/181334419/exp/eng/1020">
       <rdaed:P20312>Somewhere a Band Is Playing</rdaed:P20312>
@@ -636,7 +641,7 @@
       <rdamd:P30137>With: Ira Cook 3711 F.</rdamd:P30137>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/175761003/exp/1013"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/175761003/radioplay/exp/1013"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/9299273">
       <rdamd:P30156>The Martian chronicles</rdamd:P30156>
