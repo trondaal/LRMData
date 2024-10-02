@@ -1304,6 +1304,25 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/175761003"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/1066162985524886300002"
                 },
                 "p": {
@@ -1742,25 +1761,6 @@
                 "s": {
                     "type": "uri",
                     "value": "http://example.org/fossum/003"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Author"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/120627630"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/2036167764294613890005"
                 },
                 "p": {
                     "type": "uri",
@@ -2230,6 +2230,82 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/12305881"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881/illustratedbradbury"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881/illustratedbradbury"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10061"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Author"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://example.org/andersentobias"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/37037319/frostandfire"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10058"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Artist"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/37037319"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64848/musikk"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/w/object/P10205"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Librettist"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://www.example.org/ratnercarl"
                 }
             },
             {
@@ -4154,44 +4230,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/2036167764294613890005/exp/swe/1020/120226803/61517877"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/object/P20037"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Translator"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/120226803"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/2036167764294613890005/exp/swe/1020/120226803/61517877"
-                },
-                "p": {
-                    "type": "uri",
-                    "value": "http://rdaregistry.info/Elements/e/object/P20037"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Translator"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/61517877"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/2949151051818133530003/exp/swe/1020/120226803/61517877"
                 },
                 "p": {
@@ -4548,6 +4586,101 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/228991488"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64848/musikk/exp/eng/1011"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20011"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Conductor"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://www.example.org/rapchaklawrence"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64848/musikk/exp/eng/1011"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20039"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Performer"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://www.example.org/chamberoperachicago"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64848/musikk/exp/eng/1011"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20039"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Performer"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://www.example.org/hovencamprobert"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64848/musikk/exp/eng/1011"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20039"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Performer"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://www.example.org/loverdecarol"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64848/musikk/exp/eng/1011"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20039"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Performer"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://www.example.org/rowaderdarrell"
                 }
             }
         ]

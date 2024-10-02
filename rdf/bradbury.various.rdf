@@ -24,35 +24,64 @@
          xmlns:ex="http://www.example.org/">
    <rdac:C10001 rdf:about="http://viaf.org/viaf/1066162985524886300002">
       <rdaxd:P00018>http://viaf.org/viaf/1066162985524886300002</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
       <rdawd:P10088>Leviathan '99</rdawd:P10088>
       <rdfs:label>Leviathan '99 (Bradbury, Ray)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/12305881/illustratedbradbury">
+      <rdaxd:P00018>http://viaf.org/viaf/12305881/illustratedbradbury</rdaxd:P00018>
+      <rdawd:P10088>The illustrated Bradbury</rdawd:P10088>
+      <rdfs:label>The illustrated Bradbury (Bradbury, Ray)</rdfs:label>
+      <rdaxd:P00029>Dramatikk</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+      <rdawo:P10061 rdf:resource="http://example.org/andersentobias"/>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/12305881/talesoffantasy">
       <rdaxd:P00018>http://viaf.org/viaf/12305881/talesoffantasy</rdaxd:P00018>
       <rdawd:P10088>Tales of fantasy</rdawd:P10088>
       <rdfs:label>Tales of fantasy</rdfs:label>
+      <rdaxd:P00029>Novellesamling</rdaxd:P00029>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/1542159477729527990004">
       <rdaxd:P00018>http://viaf.org/viaf/1542159477729527990004</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
       <rdawd:P10088>The fog horn</rdawd:P10088>
       <rdfs:label>The fog horn (Bradbury, Ray)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/175761003">
+      <rdaxd:P00018>http://viaf.org/viaf/175761003</rdaxd:P00018>
+      <rdawd:P10088>The martian chronicles</rdawd:P10088>
+      <rdfs:label>The martian chronicles (Bradbury, Ray)</rdfs:label>
+      <rdaxd:P00029>Roman</rdaxd:P00029>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/181334419">
       <rdaxd:P00018>http://viaf.org/viaf/181334419</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
       <rdawd:P10088>Somewhere a Band Is Playing</rdawd:P10088>
       <rdfs:label>Somewhere a Band Is Playing (Bradbury, Ray)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/37037319/frostandfire">
+      <rdaxd:P00018>http://viaf.org/viaf/37037319/frostandfire</rdaxd:P00018>
+      <rdawd:P10088>Frost and fire</rdawd:P10088>
+      <rdfs:label>Frost and fire (Janson, Klaus.)</rdfs:label>
+      <rdaxd:P00029>Tegneserie</rdaxd:P00029>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10058 rdf:resource="http://viaf.org/viaf/37037319"/>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/5196155286593787180009">
       <rdaxd:P00018>http://viaf.org/viaf/5196155286593787180009</rdaxd:P00018>
       <rdawd:P10088>Now and forever</rdawd:P10088>
       <rdfs:label>Now and forever (Bradbury, Ray)</rdfs:label>
+      <rdaxd:P00029>Novellesamling</rdaxd:P00029>
       <rdawd:P10330>Presents two novellas, including "Somewhere a Band Is Playing," in which a young writer discovers that all is not as it seems in a nostalgic community, and "Leviathan '99," in which Ishmael Hunnicut Jones prepares for a first interstellar hunt.</rdawd:P10330>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
@@ -61,6 +90,7 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?28559">
       <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?28559</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
       <rdawd:P10088>Fever dream</rdawd:P10088>
       <rdfs:label>Fever dream (Bradbury, Ray)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
@@ -68,6 +98,7 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?40876">
       <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?40876</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
       <rdawd:P10088>There will come soft rains</rdawd:P10088>
       <rdfs:label>There will come soft rains (Bradbury, Ray)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
@@ -75,6 +106,7 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?44806">
       <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?44806</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
       <rdawd:P10088>The other foot</rdawd:P10088>
       <rdfs:label>The other foot (Bradbury, Ray)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
@@ -82,6 +114,7 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?44809">
       <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?44809</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
       <rdawd:P10088>The last night of the world</rdawd:P10088>
       <rdfs:label>The last night of the world (Bradbury, Ray)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
@@ -89,6 +122,7 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?44813">
       <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?44813</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
       <rdawd:P10088>Marionettes Inc</rdawd:P10088>
       <rdfs:label>Marionettes Inc (Bradbury, Ray)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
@@ -96,6 +130,7 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?56011">
       <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?56011</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
       <rdawd:P10088>The pedestrian</rdawd:P10088>
       <rdfs:label>The pedestrian (Bradbury, Ray)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
@@ -103,6 +138,7 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?58366">
       <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?58366</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
       <rdawd:P10088>April's witch</rdawd:P10088>
       <rdfs:label>April's witch (Bradbury, Ray)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
@@ -110,6 +146,7 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?58392">
       <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?58392</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
       <rdawd:P10088>The illustrated woman</rdawd:P10088>
       <rdfs:label>The illustrated woman (Bradbury, Ray)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
@@ -117,6 +154,7 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?58428">
       <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?58428</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
       <rdawd:P10088>The scythe</rdawd:P10088>
       <rdfs:label>The scythe (Bradbury, Ray)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
@@ -124,6 +162,7 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?61488">
       <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?61488</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
       <rdawd:P10088>A sound of thunder</rdawd:P10088>
       <rdfs:label>A sound of thunder (Bradbury, Ray)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
@@ -131,6 +170,7 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?62753">
       <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?62753</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
       <rdawd:P10088>The wind</rdawd:P10088>
       <rdfs:label>The wind (Bradbury, Ray)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
@@ -138,6 +178,7 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?62961">
       <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?62961</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
       <rdawd:P10088>The gift</rdawd:P10088>
       <rdfs:label>The gift (Bradbury, Ray)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
@@ -145,6 +186,7 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?63000">
       <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?63000</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
       <rdawd:P10088>The smile</rdawd:P10088>
       <rdfs:label>The smile (Bradbury, Ray)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
@@ -152,6 +194,7 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?63001">
       <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?63001</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
       <rdawd:P10088>The trolley</rdawd:P10088>
       <rdfs:label>The trolley (Bradbury, Ray)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
@@ -159,6 +202,7 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?64798">
       <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?64798</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
       <rdawd:P10088>The Foghorn</rdawd:P10088>
       <rdfs:label>The Foghorn (Bradbury, Ray)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
@@ -166,6 +210,7 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?64815">
       <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?64815</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
       <rdawd:P10088>The illustrated man</rdawd:P10088>
       <rdfs:label>The illustrated man (Bradbury, Ray)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
@@ -173,6 +218,7 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?64827">
       <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?64827</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
       <rdawd:P10088>The veldt</rdawd:P10088>
       <rdfs:label>The veldt (Bradbury, Ray)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
@@ -180,21 +226,80 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?64830">
       <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?64830</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
       <rdawd:P10088>Let's play poison</rdawd:P10088>
       <rdfs:label>Let's play poison (Bradbury, Ray)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?64848">
+      <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?64848</rdaxd:P00018>
+      <rdawd:P10088>Lifework of Juan Diaz</rdawd:P10088>
+      <rdfs:label>Lifework of Juan Diaz (Bradbury, Ray)</rdfs:label>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?64848/musikk">
+      <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?64848/musikk</rdaxd:P00018>
+      <rdawd:P10088>The lifework of Juan Diaz</rdawd:P10088>
+      <rdfs:label>The lifework of Juan Diaz</rdfs:label>
+      <rdaxd:P00029>Musikk</rdaxd:P00029>
+      <rdawo:P10205 rdf:resource="http://www.example.org/ratnercarl"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?64869">
+      <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?64869</rdaxd:P00018>
+      <rdawd:P10088>Frost and fire</rdawd:P10088>
+      <rdfs:label>Frost and fire (Bradbury, Ray)</rdfs:label>
    </rdac:C10001>
    <rdac:C10002 rdf:about="http://example.org/adamsanthony">
       <rdaxd:P00018>http://example.org/adamsanthony</rdaxd:P00018>
       <rdaad:P50385>Adams, Anthony</rdaad:P50385>
       <rdfs:label>Adams, Anthony</rdfs:label>
    </rdac:C10002>
+   <rdac:C10002 rdf:about="http://example.org/andersentobias">
+      <rdaxd:P00018>http://example.org/andersentobias</rdaxd:P00018>
+      <rdaad:P50385>Andersen, Tobias</rdaad:P50385>
+      <rdfs:label>Andersen, Tobias</rdfs:label>
+   </rdac:C10002>
    <rdac:C10002 rdf:about="http://viaf.org/viaf/12305881">
       <rdaxd:P00018>http://viaf.org/viaf/12305881</rdaxd:P00018>
       <rdaad:P50385>Bradbury, Ray</rdaad:P50385>
       <rdfs:label>Bradbury, Ray</rdfs:label>
       <rdaad:P50339>1920-2012</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/37037319">
+      <rdaxd:P00018>http://viaf.org/viaf/37037319</rdaxd:P00018>
+      <rdaad:P50385>Janson, Klaus</rdaad:P50385>
+      <rdfs:label>Janson, Klaus</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://www.example.org/chamberoperachicago">
+      <rdaxd:P00018>http://www.example.org/chamberoperachicago</rdaxd:P00018>
+      <rdaad:P50385>Chamber Opera Chicago</rdaad:P50385>
+      <rdfs:label>Chamber Opera Chicago</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://www.example.org/hovencamprobert">
+      <rdaxd:P00018>http://www.example.org/hovencamprobert</rdaxd:P00018>
+      <rdaad:P50385>Hovencamp, Robert</rdaad:P50385>
+      <rdfs:label>Hovencamp, Robert</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://www.example.org/loverdecarol">
+      <rdaxd:P00018>http://www.example.org/loverdecarol</rdaxd:P00018>
+      <rdaad:P50385>Loverde, Carol</rdaad:P50385>
+      <rdfs:label>Loverde, Carol</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://www.example.org/rapchaklawrence">
+      <rdaxd:P00018>http://www.example.org/rapchaklawrence</rdaxd:P00018>
+      <rdaad:P50385>Rapchak, Lawrence</rdaad:P50385>
+      <rdfs:label>Rapchak, Lawrence</rdfs:label>
+      <rdaad:P50339>1951-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://www.example.org/ratnercarl">
+      <rdaxd:P00018>http://www.example.org/ratnercarl</rdaxd:P00018>
+      <rdaad:P50385>Ratner, Carl</rdaad:P50385>
+      <rdfs:label>Ratner, Carl</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://www.example.org/rowaderdarrell">
+      <rdaxd:P00018>http://www.example.org/rowaderdarrell</rdaxd:P00018>
+      <rdaad:P50385>Rowader, Darrell</rdaad:P50385>
+      <rdfs:label>Rowader, Darrell</rdfs:label>
    </rdac:C10002>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/1066162985524886300002/exp/eng/1020">
       <rdaed:P20312>Leviathan '99</rdaed:P20312>
@@ -203,6 +308,15 @@
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1066162985524886300002"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/12305881/illustratedbradbury/exp/eng/1020">
+      <rdaed:P20316>The illustrated Bradbury</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>The illustrated Bradbury</rdaed:P20312>
+      <rdfs:label>The illustrated Bradbury (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/12305881/illustratedbradbury"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/12305881/talesoffantasy/exp/eng/1013">
       <rdaed:P20316>Tales of fantasy</rdaed:P20316>
@@ -240,6 +354,16 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1542159477729527990004"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/175761003/exp/eng/1020">
+      <rdaed:P20316>The martian chronicles</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>The Martian chronicles</rdaed:P20312>
+      <rdfs:label>The Martian chronicles (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20312>The Martian chronicles : the fortieth anniversary edition</rdaed:P20312>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/175761003"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/181334419/exp/eng/1020">
       <rdaed:P20312>Somewhere a Band Is Playing</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
@@ -247,6 +371,15 @@
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/181334419"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/37037319/frostandfire/exp/eng/1020">
+      <rdaed:P20316>Frost and fire</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>Frost and fire : a story</rdaed:P20312>
+      <rdfs:label>Frost and fire (Janson, Klaus.)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/37037319/frostandfire"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/5196155286593787180009/exp/eng/1020">
       <rdaed:P20316>Now and forever</rdaed:P20316>
@@ -449,6 +582,82 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?64830"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?64848/musikk/exp/eng/1011">
+      <rdaed:P20316>The lifework of Juan Diaz</rdaed:P20316>
+      <rdaed:P20312>The lifework of Juan Diaz</rdaed:P20312>
+      <rdfs:label>The lifework of Juan Diaz (Rapchak, Lawrence)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1011"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20011 rdf:resource="http://www.example.org/rapchaklawrence"/>
+      <rdaeo:P20039 rdf:resource="http://www.example.org/hovencamprobert"/>
+      <rdaeo:P20039 rdf:resource="http://www.example.org/loverdecarol"/>
+      <rdaeo:P20039 rdf:resource="http://www.example.org/rowaderdarrell"/>
+      <rdaeo:P20039 rdf:resource="http://www.example.org/chamberoperachicago"/>
+      <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?64848/musikk"/>
+   </rdac:C10006>
+   <rdac:C10007 rdf:about="http://example.org/2221389">
+      <rdamd:P30156>The Martian chronicles</rdamd:P30156>
+      <rdamd:P30117>by Ray Bradbury ; with an introduction by Martin Gardner and illustrations by Joseph Mugnaini</rdamd:P30117>
+      <rdamd:P30088>Avon, Conn</rdamd:P30088>
+      <rdamd:P30111>Avon, Conn. : Limited Editions Club, 1974</rdamd:P30111>
+      <rdamd:P30083>Limited Editions Club</rdamd:P30083>
+      <rdamd:P30011>1974</rdamd:P30011>
+      <rdamd:P30087>(Bloomfield</rdamd:P30087>
+      <rdamd:P30175>Connecticut Printers)</rdamd:P30175>
+      <rdamd:P30182>xviii, 309 p., [12] leaves of plates : ill. (some col.), 28 cm.</rdamd:P30182>
+      <rdamd:P30137>Issued in slipcase.</rdamd:P30137>
+      <rdamd:P30137>LC has copyright deposit copy, with embossed stamp below colophon: This is one of 15 presentation copies 'out of series.'</rdamd:P30137>
+      <rdamd:P30137>Limited ed. of 2,000, designed by Ernst Reichl, and signed by author and illustrator.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/175761003/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/6224190">
+      <rdamd:P30156>[The Martian chronicles] [Sound recording]</rdamd:P30156>
+      <rdamd:P30088>[n.p.] American Forces Radio and Television Service RU 44-5, 5B [1975]</rdamd:P30088>
+      <rdamd:P30111>[n.p.] American Forces Radio and Television Service RU 44-5, 5B [1975]</rdamd:P30111>
+      <rdamd:P30182>p. on side 2 of 1 disc. 33 1/3 rpm. mono. 12 in.</rdamd:P30182>
+      <rdamd:P30182>on side 2 of 1 disc. 33 1/3 rpm. mono., 12 in.</rdamd:P30182>
+      <rdamd:P30137>Duration: 25 min.</rdamd:P30137>
+      <rdamd:P30137>Mystery theater, 234.</rdamd:P30137>
+      <rdamd:P30137>Radio drama.</rdamd:P30137>
+      <rdamd:P30137>Recorded from a broadcast of the NBC program Dimension X.</rdamd:P30137>
+      <rdamd:P30137>Recordings made for the use of the American Armed Forces only.</rdamd:P30137>
+      <rdamd:P30137>SUMMARY: Presents dramatized highlights adapted for radio from the novel of the same title by Ray Bradbury.</rdamd:P30137>
+      <rdamd:P30137>With: Ira Cook 3711 F.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/9299273">
+      <rdamd:P30156>The Martian chronicles</rdamd:P30156>
+      <rdamd:P30107>[1st ed.]</rdamd:P30107>
+      <rdamd:P30088>Garden City, N.Y</rdamd:P30088>
+      <rdamd:P30111>Garden City, N.Y. : Doubleday, 1950</rdamd:P30111>
+      <rdamd:P30083>Doubleday</rdamd:P30083>
+      <rdamd:P30011>1950</rdamd:P30011>
+      <rdamd:P30182>222 p., 21 cm.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/175761003/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/UPC-034061009122">
+      <rdamd:P30004>UPC 034061009122</rdamd:P30004>
+      <rdaxd:P00018>UPC-034061009122</rdaxd:P00018>
+      <rdamd:P30156>The lifework of Juan Diaz</rdamd:P30156>
+      <rdamd:P30088>Albany, NY</rdamd:P30088>
+      <rdamd:P30111>Albany, NY : Albany Records, [1993]</rdamd:P30111>
+      <rdamd:P30083>Albany Records</rdamd:P30083>
+      <rdamd:P30011>[1993]</rdamd:P30011>
+      <rdamd:P30182>1 sound disc (77 min., 10 sec.) : digital, 4 3/4 in.</rdamd:P30182>
+      <rdamd:P30137>Albany Records: TROY091.</rdamd:P30137>
+      <rdamd:P30137>Chamber opera in one act.</rdamd:P30137>
+      <rdamd:P30137>Compact disc.</rdamd:P30137>
+      <rdamd:P30137>Libretto adapted by Carl Ratner.</rdamd:P30137>
+      <rdamd:P30137>Program notes and libretto inserted in container.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1013"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?64848/musikk/exp/eng/1011"/>
+   </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0061131563">
       <rdamd:P30004>ISBN 0061131563</rdamd:P30004>
       <rdaxd:P00018>isbn-0061131563</rdaxd:P00018>
@@ -501,6 +710,23 @@
       <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?44806/exp/eng/1020"/>
       <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?56011/exp/eng/1020"/>
    </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0385050607">
+      <rdamd:P30004>ISBN 0385050607</rdamd:P30004>
+      <rdaxd:P00018>isbn-0385050607</rdaxd:P00018>
+      <rdfs:label>ISBN0385050607</rdfs:label>
+      <rdamd:P30156>The Martian chronicles</rdamd:P30156>
+      <rdamd:P30142>the fortieth anniversary edition</rdamd:P30142>
+      <rdamd:P30117>Ray Bradbury</rdamd:P30117>
+      <rdamd:P30107>1st ed</rdamd:P30107>
+      <rdamd:P30088>New York</rdamd:P30088>
+      <rdamd:P30111>New York : Doubleday, c1990</rdamd:P30111>
+      <rdamd:P30083>Doubleday</rdamd:P30083>
+      <rdamd:P30011>c1990</rdamd:P30011>
+      <rdamd:P30182>xi, 205 p., 25 cm.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/175761003/exp/eng/1020"/>
+   </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-0807234214">
       <rdamd:P30004>ISBN 0807234214</rdamd:P30004>
       <rdaxd:P00018>isbn-0807234214</rdaxd:P00018>
@@ -523,6 +749,22 @@
       <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?63000/exp/eng/1013"/>
       <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?40876/exp/eng/1013"/>
       <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?56011/exp/eng/1013"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-0930289072">
+      <rdamd:P30004>ISBN 0930289072 (pbk.)</rdamd:P30004>
+      <rdaxd:P00018>isbn-0930289072</rdaxd:P00018>
+      <rdfs:label>ISBN0930289072 (pbk.)</rdfs:label>
+      <rdamd:P30156>Frost and fire</rdamd:P30156>
+      <rdamd:P30142>a story</rdamd:P30142>
+      <rdamd:P30117>by Ray Bradbury ; adapted by Klaus Janson</rdamd:P30117>
+      <rdamd:P30088>New York, NY</rdamd:P30088>
+      <rdamd:P30111>New York, NY : DC Comics, c1985</rdamd:P30111>
+      <rdamd:P30083>DC Comics</rdamd:P30083>
+      <rdamd:P30011>c1985</rdamd:P30011>
+      <rdamd:P30182>[48] p. : col. ill., 28 cm.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/37037319/frostandfire/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-8434842734">
       <rdamd:P30004>ISBN 84-348-4273-4</rdamd:P30004>
@@ -559,6 +801,21 @@
       <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?58366/exp/cat/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1542159477729527990004/exp/cat/1020"/>
    </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9781583429518">
+      <rdamd:P30004>ISBN 9781583429518 (pbk.)</rdamd:P30004>
+      <rdaxd:P00018>isbn-9781583429518</rdaxd:P00018>
+      <rdfs:label>ISBN9781583429518 (pbk.)</rdfs:label>
+      <rdamd:P30156>The illustrated Bradbury</rdamd:P30156>
+      <rdamd:P30117>written and adapted for the stage by Ray Bradbury with Tobias Andersen</rdamd:P30117>
+      <rdamd:P30088>Woodstock, Illinois</rdamd:P30088>
+      <rdamd:P30111>Woodstock, Illinois : Dramatic Publishing Company, [2014]</rdamd:P30111>
+      <rdamd:P30083>Dramatic Publishing Company</rdamd:P30083>
+      <rdamd:P30011>[2014]</rdamd:P30011>
+      <rdamd:P30182>53 pages, 19 cm.</rdamd:P30182>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/12305881/illustratedbradbury/exp/eng/1020"/>
+   </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788494573606">
       <rdamd:P30004>ISBN 978-84-945736-0-6</rdamd:P30004>
       <rdaxd:P00018>isbn-9788494573606</rdaxd:P00018>
@@ -590,11 +847,20 @@
       <rdfs:label>spa</rdfs:label>
       <skos:subjectIndicator>spa</skos:subjectIndicator>
    </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1004">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1004</skos:subjectIndicator>
+   </skos:Concept>
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1007">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1007</skos:subjectIndicator>
    </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1013">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1013</skos:subjectIndicator>
+   </skos:Concept>
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1049">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1049</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1011">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1011</skos:subjectIndicator>
    </skos:Concept>
    <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1013">
       <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1013</skos:subjectIndicator>

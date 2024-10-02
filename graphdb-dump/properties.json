@@ -821,6 +821,21 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/175761003"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The martian chronicles"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/1066162985524886300002"
                 },
                 "label": {
@@ -1226,21 +1241,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/2036167764294613890005"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Den som fruktar vargen"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/2949151051818133530003"
                 },
                 "label": {
@@ -1251,36 +1251,6 @@
                 "value": {
                     "type": "literal",
                     "value": "Evas \u00f8ye"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/9129151051843933530004"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "dates"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "1954-"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/9129151051843933530004"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "name"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Fossum, Karin"
                 }
             },
             {
@@ -1325,7 +1295,7 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "Se deg ikke tilbake (tv-manus)"
+                    "value": "Se deg ikke tilbake"
                 }
             },
             {
@@ -1626,6 +1596,81 @@
                 "value": {
                     "type": "literal",
                     "value": "Let's play poison"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881/illustratedbradbury"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The illustrated Bradbury"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/37037319/frostandfire"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Frost and fire"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64848"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Lifework of Juan Diaz"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64848/musikk"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The lifework of Juan Diaz"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Frost and fire"
                 }
             },
             {
@@ -3866,6 +3911,141 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://example.org/andersentobias"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "name"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Andersen, Tobias"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/37037319"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "name"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Janson, Klaus"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.example.org/ratnercarl"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "name"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Ratner, Carl"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.example.org/chamberoperachicago"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "name"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Chamber Opera Chicago"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.example.org/hovencamprobert"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "name"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Hovencamp, Robert"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.example.org/loverdecarol"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "name"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Loverde, Carol"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.example.org/rapchaklawrence"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "dates"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1951-"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.example.org/rapchaklawrence"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "name"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Rapchak, Lawrence"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://www.example.org/rowaderdarrell"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "name"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Rowader, Darrell"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/175871715/exp/eng/1020"
                 },
                 "label": {
@@ -5856,6 +6036,51 @@
                 "value": {
                     "type": "literal",
                     "value": "The crossing"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/175761003/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The Martian chronicles"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/175761003/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The Martian chronicles : the fortieth anniversary edition"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/175761003/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The martian chronicles"
                 }
             },
             {
@@ -9536,36 +9761,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/2036167764294613890005/exp/swe/1020/120226803/61517877"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "titlepreferred"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Den som fruktar vargen"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/2036167764294613890005/exp/swe/1020/120226803/61517877"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Den som fruktar vargen"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/2949151051818133530003/exp/swe/1020/120226803/61517877"
                 },
                 "label": {
@@ -10346,51 +10541,6 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/und/1013"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "titlepreferred"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Se deg ikke tilbake"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/und/1013"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "title"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Se deg ikke tilbake"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/und/1013"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "titlevariant"
-                },
-                "value": {
-                    "type": "literal",
-                    "value": "Se deg ikke tilbake"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob/1013/228991488"
                 },
                 "label": {
@@ -10490,7 +10640,7 @@
                 },
                 "value": {
                     "type": "literal",
-                    "value": "Se deg ikke tilbake (tv-manus)"
+                    "value": "Se deg ikke tilbake"
                 }
             },
             {
@@ -10941,6 +11091,141 @@
                 "value": {
                     "type": "literal",
                     "value": "Let's play poison"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881/illustratedbradbury/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The illustrated Bradbury"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881/illustratedbradbury/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The illustrated Bradbury"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/37037319/frostandfire/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Frost and fire : a story"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/37037319/frostandfire/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Frost and fire"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64848/musikk/exp/eng/1011"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The lifework of Juan Diaz"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64848/musikk/exp/eng/1011"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The lifework of Juan Diaz"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob/1013"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlepreferred"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob/1013"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob/1013"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "titlevariant"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake"
                 }
             },
             {
@@ -31526,6 +31811,651 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://example.org/2221389"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The Martian chronicles"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/2221389"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "by Ray Bradbury ; with an introduction by Martin Gardner and illustrations by Joseph Mugnaini"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/2221389"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "xviii, 309 p., [12] leaves of plates : ill. (some col.), 28 cm."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/2221389"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Avon, Conn. : Limited Editions Club, 1974"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/2221389"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Avon, Conn"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/2221389"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Limited Editions Club"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/2221389"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1974"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/2221389"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "manufactureplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "(Bloomfield"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/2221389"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "manufacturer"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Connecticut Printers)"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/2221389"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Issued in slipcase."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/2221389"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "LC has copyright deposit copy, with embossed stamp below colophon: This is one of 15 presentation copies 'out of series.'"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/2221389"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Limited ed. of 2,000, designed by Ernst Reichl, and signed by author and illustrator."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/6224190"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[The Martian chronicles] [Sound recording]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/6224190"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "p. on side 2 of 1 disc. 33 1/3 rpm. mono. 12 in."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/6224190"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "on side 2 of 1 disc. 33 1/3 rpm. mono., 12 in."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/6224190"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[n.p.] American Forces Radio and Television Service RU 44-5, 5B [1975]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/6224190"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[n.p.] American Forces Radio and Television Service RU 44-5, 5B [1975]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/6224190"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Duration: 25 min."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/6224190"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Radio drama."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/6224190"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Recordings made for the use of the American Armed Forces only."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/6224190"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Mystery theater, 234."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/6224190"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Recorded from a broadcast of the NBC program Dimension X."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/6224190"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "SUMMARY: Presents dramatized highlights adapted for radio from the novel of the same title by Ray Bradbury."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/6224190"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "With: Ira Cook 3711 F."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/9299273"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The Martian chronicles"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/9299273"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "edition"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[1st ed.]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/9299273"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "222 p., 21 cm."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/9299273"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Garden City, N.Y. : Doubleday, 1950"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/9299273"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Garden City, N.Y"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/9299273"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Doubleday"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/9299273"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1950"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/UPC-034061009122"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "UPC 034061009122"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/UPC-034061009122"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The lifework of Juan Diaz"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/UPC-034061009122"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1 sound disc (77 min., 10 sec.) : digital, 4 3/4 in."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/UPC-034061009122"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Albany, NY : Albany Records, [1993]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/UPC-034061009122"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Albany, NY"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/UPC-034061009122"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Albany Records"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/UPC-034061009122"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[1993]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/UPC-034061009122"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Compact disc."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/UPC-034061009122"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Albany Records: TROY091."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/UPC-034061009122"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Chamber opera in one act."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/UPC-034061009122"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Libretto adapted by Carl Ratner."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/UPC-034061009122"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "note"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Program notes and libretto inserted in container."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-0061131563"
                 },
                 "label": {
@@ -31841,6 +32771,156 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-0385050607"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 0385050607"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0385050607"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The Martian chronicles"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0385050607"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "subtitle"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "the fortieth anniversary edition"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0385050607"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Ray Bradbury"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0385050607"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "edition"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "1st ed"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0385050607"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "xi, 205 p., 25 cm."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0385050607"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "New York : Doubleday, c1990"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0385050607"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "New York"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0385050607"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Doubleday"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0385050607"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "c1990"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-0807234214"
                 },
                 "label": {
@@ -31986,6 +33066,141 @@
                 "value": {
                     "type": "literal",
                     "value": "The illustrated man -- The veldt -- The foghorn -- The smile -- There will come soft rains -- The pedestrian."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0930289072"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 0930289072 (pbk.)"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0930289072"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Frost and fire"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0930289072"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "subtitle"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "a story"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0930289072"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "by Ray Bradbury ; adapted by Klaus Janson"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0930289072"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[48] p. : col. ill., 28 cm."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0930289072"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "New York, NY : DC Comics, c1985"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0930289072"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "New York, NY"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0930289072"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "DC Comics"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0930289072"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "c1985"
                 }
             },
             {
@@ -32271,6 +33486,126 @@
                 "value": {
                     "type": "literal",
                     "value": "6"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9781583429518"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "identifier"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "ISBN 9781583429518 (pbk.)"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9781583429518"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "title"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "The illustrated Bradbury"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9781583429518"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "responsibility"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "written and adapted for the stage by Ray Bradbury with Tobias Andersen"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9781583429518"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "extent"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "53 pages, 19 cm."
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9781583429518"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publication"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Woodstock, Illinois : Dramatic Publishing Company, [2014]"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9781583429518"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationplace"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Woodstock, Illinois"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9781583429518"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publisher"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "Dramatic Publishing Company"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9781583429518"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "publicationdate"
+                },
+                "value": {
+                    "type": "literal",
+                    "value": "[2014]"
                 }
             },
             {

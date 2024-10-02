@@ -2666,6 +2666,51 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://example.org/2221389"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/175761003/exp/eng/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/9299273"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/175761003/exp/eng/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/UPC-034061009122"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64848/musikk/exp/eng/1011"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-0061131563"
                 },
                 "l": {
@@ -2921,6 +2966,21 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-0385050607"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/175761003/exp/eng/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-0807234214"
                 },
                 "l": {
@@ -3026,6 +3086,21 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-0930289072"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/37037319/frostandfire/exp/eng/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-8434842734"
                 },
                 "l": {
@@ -3081,6 +3156,21 @@
                 "o": {
                     "type": "uri",
                     "value": "https://www.isfdb.org/cgi-bin/title.cgi?58366/exp/cat/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9781583429518"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881/illustratedbradbury/exp/eng/1020"
                 }
             },
             {
@@ -5315,21 +5405,6 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/2036167764294613890005/exp/swe/1020/120226803/61517877"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://example.org/isbn-9137121235"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "EMBODIES"
-                },
-                "o": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/2949151051818133530003/exp/swe/1020/120226803/61517877"
                 }
             },
@@ -5660,7 +5735,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/und/1013"
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob/1013"
                 }
             },
             {
@@ -6726,6 +6801,21 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/309357400"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/175761003/exp/eng/1020"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/175761003"
                 }
             },
             {
@@ -8141,21 +8231,6 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/2036167764294613890005/exp/swe/1020/120226803/61517877"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "REALIZES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/2036167764294613890005"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/2949151051818133530003/exp/swe/1020/120226803/61517877"
                 },
                 "l": {
@@ -8406,21 +8481,6 @@
                 "o": {
                     "type": "uri",
                     "value": "https://www.imdb.com/title/tt0188605"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/und/1013"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "REALIZES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/9129151051843933530004"
                 }
             },
             {
@@ -8841,6 +8901,66 @@
                 "o": {
                     "type": "uri",
                     "value": "https://www.isfdb.org/cgi-bin/title.cgi?64830"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881/illustratedbradbury/exp/eng/1020"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881/illustratedbradbury"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/37037319/frostandfire/exp/eng/1020"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/37037319/frostandfire"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64848/musikk/exp/eng/1011"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64848/musikk"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob/1013"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004"
                 }
             }
         ]

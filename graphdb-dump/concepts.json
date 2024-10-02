@@ -318,6 +318,17 @@
             {
                 "concept": {
                     "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDACarrierType/1013"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Computer disc"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
                     "value": "http://rdaregistry.info/termList/RDACarrierType/1018"
                 },
                 "label": {
@@ -368,6 +379,17 @@
                     "xml:lang": "gden",
                     "type": "literal",
                     "value": "Score"
+                }
+            },
+            {
+                "concept": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/termList/RDAContentType/1011"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Music"
                 }
             },
             {

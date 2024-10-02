@@ -150,6 +150,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://example.org/andersentobias"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Andersen, Tobias"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://example.org/andersson"
                 },
                 "label": {
@@ -750,6 +760,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-0385050607"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN0385050607"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-0394400275"
                 },
                 "label": {
@@ -1005,6 +1025,16 @@
                 "label": {
                     "type": "literal",
                     "value": "ISBN0880014814 (case)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-0930289072"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN0930289072 (pbk.)"
                 }
             },
             {
@@ -1685,6 +1715,16 @@
                 "label": {
                     "type": "literal",
                     "value": "ISBN9781529014587 (ebook)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9781583429518"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN9781583429518 (pbk.)"
                 }
             },
             {
@@ -3020,6 +3060,26 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881/illustratedbradbury"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "The illustrated Bradbury (Bradbury, Ray)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881/illustratedbradbury/exp/eng/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "The illustrated Bradbury (Bradbury, Ray)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/12305881/talesoffantasy"
                 },
                 "label": {
@@ -3280,6 +3340,26 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/175761003"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "The martian chronicles (Bradbury, Ray)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/175761003/exp/eng/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "The Martian chronicles (Bradbury, Ray)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/175871715"
                 },
                 "label": {
@@ -3435,26 +3515,6 @@
                 "label": {
                     "type": "literal",
                     "value": "Frukthagen (McCarthy, Cormac)"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/2036167764294613890005"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Den som fruktar vargen (Fossum, Karin)"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
-                    "value": "http://viaf.org/viaf/2036167764294613890005/exp/swe/1020/120226803/61517877"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Den som fruktar vargen (Fossum, Karin)"
                 }
             },
             {
@@ -4160,6 +4220,36 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/37037319"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Janson, Klaus"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/37037319/frostandfire"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Frost and fire (Janson, Klaus.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/37037319/frostandfire/exp/eng/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Frost and fire (Janson, Klaus.)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/39404666"
                 },
                 "label": {
@@ -4724,7 +4814,7 @@
                 },
                 "label": {
                     "type": "literal",
-                    "value": "Fossum, Karin"
+                    "value": "Se deg ikke tilbake (Fossum, Karin)"
                 }
             },
             {
@@ -4735,6 +4825,16 @@
                 "label": {
                     "type": "literal",
                     "value": "Fremde Blicke (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/nob/1013"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Se deg ikke tilbake (Fossum, Karin)"
                 }
             },
             {
@@ -4770,21 +4870,11 @@
             {
                 "subject": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/9129151051843933530004/exp/und/1013"
-                },
-                "label": {
-                    "type": "literal",
-                    "value": "Se deg ikke tilbake (Fossum, Karin)"
-                }
-            },
-            {
-                "subject": {
-                    "type": "uri",
                     "value": "http://viaf.org/viaf/9129151051843933530004/tvmanus"
                 },
                 "label": {
                     "type": "literal",
-                    "value": "Se deg ikke tilbake (tv-manus) (Vikene, \u00c5se)"
+                    "value": "Se deg ikke tilbake (Vikene, \u00c5se)"
                 }
             },
             {
@@ -5375,6 +5465,66 @@
                 "label": {
                     "type": "literal",
                     "value": "Skei, Hans H."
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://www.example.org/chamberoperachicago"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Chamber Opera Chicago"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://www.example.org/hovencamprobert"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Hovencamp, Robert"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://www.example.org/loverdecarol"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Loverde, Carol"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://www.example.org/rapchaklawrence"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Rapchak, Lawrence"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://www.example.org/ratnercarl"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Ratner, Carl"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://www.example.org/rowaderdarrell"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Rowader, Darrell"
                 }
             },
             {
@@ -6145,6 +6295,46 @@
                 "label": {
                     "type": "literal",
                     "value": "Let's play poison (Bradbury, Ray)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64848"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Lifework of Juan Diaz (Bradbury, Ray)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64848/musikk"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "The lifework of Juan Diaz"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64848/musikk/exp/eng/1011"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "The lifework of Juan Diaz (Rapchak, Lawrence)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Frost and fire (Bradbury, Ray)"
                 }
             }
         ]
