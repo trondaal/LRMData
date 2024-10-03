@@ -791,7 +791,7 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/12305881/variouscollections/exp/eng"
+                    "value": "http://viaf.org/viaf/12305881/lamujertatuadayotroscuentosdeamor/exp/spa/1020"
                 },
                 "p": {
                     "type": "uri",
@@ -804,7 +804,64 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869/exp/eng"
+                    "value": "http://viaf.org/viaf/1542159477729527990004/exp/spa/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881/lamujertatuadayotroscuentosdeamor/exp/spa/1020"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20319"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "aggregates"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?58366/exp/spa/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881/lamujertatuadayotroscuentosdeamor/exp/spa/1020"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20319"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "aggregates"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?58392/exp/spa/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881/variouscollections/exp/eng/1020"
+                },
+                "p": {
+                    "type": "uri",
+                    "value": "http://rdaregistry.info/Elements/e/object/P20319"
+                },
+                "l": {
+                    "xml:lang": "en",
+                    "type": "literal",
+                    "value": "aggregates"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869/exp/eng/1020"
                 }
             }
         ]

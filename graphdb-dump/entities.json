@@ -604,6 +604,17 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/209899296"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Work"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/5196155286593787180009"
                 },
                 "label": {
@@ -1210,6 +1221,17 @@
                 "entity": {
                     "type": "uri",
                     "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869/frostandfire"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Work"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881/lamujertatuadayotroscuentosdeamor"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -3013,6 +3035,17 @@
             {
                 "entity": {
                     "type": "uri",
+                    "value": "http://viaf.org/viaf/209899296/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
                     "value": "http://viaf.org/viaf/5196155286593787180009/exp/eng/1020"
                 },
                 "label": {
@@ -4564,29 +4597,40 @@
             {
                 "entity": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/12305881/variouscollections/exp/eng"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Expression"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
-                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869/exp/eng"
-                },
-                "label": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "Expression"
-                }
-            },
-            {
-                "entity": {
-                    "type": "uri",
                     "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869/frostandfire/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881/lamujertatuadayotroscuentosdeamor/exp/spa/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881/variouscollections/exp/eng/1020"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Expression"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869/exp/eng/1020"
                 },
                 "label": {
                     "xml:lang": "gden",
@@ -6061,6 +6105,17 @@
                 "entity": {
                     "type": "uri",
                     "value": "http://example.org/2221389"
+                },
+                "label": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "Manifestation"
+                }
+            },
+            {
+                "entity": {
+                    "type": "uri",
+                    "value": "http://example.org/4530044"
                 },
                 "label": {
                     "xml:lang": "gden",

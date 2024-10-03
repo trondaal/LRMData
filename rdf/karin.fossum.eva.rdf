@@ -69,8 +69,8 @@
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://www.imdb.com/title/tt0188605">
       <rdaxd:P00018>https://www.imdb.com/title/tt0188605</rdaxd:P00018>
-      <rdawd:P10088>Evas øye (filmatisering</rdawd:P10088>
-      <rdfs:label>Evas øye (filmatisering</rdfs:label>
+      <rdawd:P10088>Evas øye</rdawd:P10088>
+      <rdfs:label>Evas øye</rdfs:label>
       <rdaxd:P00029>Film</rdaxd:P00029>
       <rdawo:P10066 rdf:resource="http://example.org/nesheim"/>
       <rdawo:P10129 rdf:resource="http://viaf.org/viaf/2949151051818133530003"/>
@@ -191,6 +191,7 @@
       <rdaed:P20316>Evas Auge ; Fremde Blicke</rdaed:P20316>
       <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>Evas Auge ; Fremde Blicke : zwei Bestseller in einem Band</rdaed:P20312>
+      <rdaed:P20071>Evas Auge -- Fremde Blicke</rdaed:P20071>
       <rdaed:P20315>Evas Auge ; Fremde Blicke</rdaed:P20315>
       <rdfs:label>Evas Auge ; Fremde Blicke (Fossum, Karin)</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
@@ -408,7 +409,7 @@
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/9129151051843933530004/tvmanus"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="https://www.imdb.com/title/tt0188605/exp/1023">
-      <rdaed:P20316>Evas øye (filmatisering</rdaed:P20316>
+      <rdaed:P20316>Evas øye</rdaed:P20316>
       <rdaxd:P00029>standalone</rdaxd:P00029>
       <rdaed:P20312>Evas øye</rdaed:P20312>
       <rdfs:label>Evas øye</rdfs:label>
@@ -514,6 +515,7 @@
       <rdamd:P30182>347 s.</rdamd:P30182>
       <rdamd:P30106>Serie Piper</rdamd:P30106>
       <rdamd:P30165>4322</rdamd:P30165>
+      <rdamd:P30033>Evas Auge -- Fremde Blicke</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://example.org/fossum/002/exp/ger/1020/61517877"/>

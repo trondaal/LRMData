@@ -2681,6 +2681,21 @@
             {
                 "s": {
                     "type": "uri",
+                    "value": "http://example.org/4530044"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/209899296/exp/eng/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
                     "value": "http://example.org/6224190"
                 },
                 "l": {
@@ -3261,6 +3276,21 @@
                 "o": {
                     "type": "uri",
                     "value": "https://www.isfdb.org/cgi-bin/title.cgi?58392/exp/spa/1020"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788494573606"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "EMBODIES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881/lamujertatuadayotroscuentosdeamor/exp/spa/1020"
                 }
             },
             {
@@ -5900,7 +5930,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/12305881/variouscollections/exp/eng"
+                    "value": "http://viaf.org/viaf/12305881/variouscollections/exp/eng/1020"
                 }
             },
             {
@@ -5915,7 +5945,7 @@
                 },
                 "o": {
                     "type": "uri",
-                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869/exp/eng"
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869/exp/eng/1020"
                 }
             },
             {
@@ -6951,6 +6981,21 @@
                 "o": {
                     "type": "uri",
                     "value": "http://viaf.org/viaf/181334419"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/209899296/exp/eng/1020"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/209899296"
                 }
             },
             {
@@ -9071,7 +9116,37 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "http://viaf.org/viaf/12305881/variouscollections/exp/eng"
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869/frostandfire/exp/eng/1020"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869/frostandfire"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881/lamujertatuadayotroscuentosdeamor/exp/spa/1020"
+                },
+                "l": {
+                    "xml:lang": "gden",
+                    "type": "literal",
+                    "value": "REALIZES"
+                },
+                "o": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881/lamujertatuadayotroscuentosdeamor"
+                }
+            },
+            {
+                "s": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/12305881/variouscollections/exp/eng/1020"
                 },
                 "l": {
                     "xml:lang": "gden",
@@ -9086,7 +9161,7 @@
             {
                 "s": {
                     "type": "uri",
-                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869/exp/eng"
+                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869/exp/eng/1020"
                 },
                 "l": {
                     "xml:lang": "gden",
@@ -9096,21 +9171,6 @@
                 "o": {
                     "type": "uri",
                     "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869"
-                }
-            },
-            {
-                "s": {
-                    "type": "uri",
-                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869/frostandfire/exp/eng/1020"
-                },
-                "l": {
-                    "xml:lang": "gden",
-                    "type": "literal",
-                    "value": "REALIZES"
-                },
-                "o": {
-                    "type": "uri",
-                    "value": "https://www.isfdb.org/cgi-bin/title.cgi?64869/frostandfire"
                 }
             }
         ]

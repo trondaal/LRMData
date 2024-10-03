@@ -38,6 +38,12 @@
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
       <rdawo:P10061 rdf:resource="http://example.org/andersentobias"/>
    </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/12305881/lamujertatuadayotroscuentosdeamor">
+      <rdaxd:P00018>http://viaf.org/viaf/12305881/lamujertatuadayotroscuentosdeamor</rdaxd:P00018>
+      <rdawd:P10088>La mujer tatuada y otros cuentos de amor</rdawd:P10088>
+      <rdfs:label>La mujer tatuada y otros cuentos de amor</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+   </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/12305881/talesoffantasy">
       <rdaxd:P00018>http://viaf.org/viaf/12305881/talesoffantasy</rdaxd:P00018>
       <rdawd:P10088>Tales of fantasy</rdawd:P10088>
@@ -51,6 +57,7 @@
       <rdfs:label>The illustrated man ; The October country ; other stories (Bradbury, Ray)</rdfs:label>
       <rdaxd:P00029>Novellesamling</rdaxd:P00029>
       <rdawd:P10330>"This volume in the Library of America Bradbury edition brings together the complete texts of his two most acclaimed story collections, plus twenty-seven other tales from the 1940s, '50s, and '60s--one of America's greatest storytellers at his very best. Bound together by the mysterious figure of an elaborately tattooed outcast, the eighteen stories in The Illustrated Man explore the dehumanizing possibilities of technology and plumb the dark heart of human brutality. The October Country collects nineteen tales: macabre carnival stories, chilling horror, and fantasy light and dark, with the original artwork by Joseph Mugnaini beautifully restored for this edition. Twenty-seven additional stories include such classics as 'Frost and Fire,' 'The Pedestrian,' 'I Sing the Body Electric!,' and hard-to-find wonders like 'Asleep in Armageddon' and 'The Lost City of Mars.'"--Dust jacket.</rdawd:P10330>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="http://viaf.org/viaf/1542159477729527990004">
@@ -82,6 +89,13 @@
       <rdaxd:P00029>Novelle</rdaxd:P00029>
       <rdawd:P10088>Somewhere a Band Is Playing</rdawd:P10088>
       <rdfs:label>Somewhere a Band Is Playing (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/209899296">
+      <rdaxd:P00018>http://viaf.org/viaf/209899296</rdaxd:P00018>
+      <rdawd:P10088>A medicine for melancholy</rdawd:P10088>
+      <rdfs:label>A medicine for melancholy (Bradbury, Ray)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
    </rdac:C10001>
@@ -163,7 +177,6 @@
       <rdawd:P10088>The illustrated woman</rdawd:P10088>
       <rdfs:label>The illustrated woman (Bradbury, Ray)</rdfs:label>
       <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
-      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?58428">
       <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?58428</rdaxd:P00018>
@@ -261,6 +274,7 @@
       <rdaxd:P00018>https://www.isfdb.org/cgi-bin/title.cgi?64869</rdaxd:P00018>
       <rdawd:P10088>Frost and fire</rdawd:P10088>
       <rdfs:label>Frost and fire (Bradbury, Ray)</rdfs:label>
+      <rdawd:P10004 rdf:resource="https://schema.nb.no/Bibliographic/Values/V1000"/>
       <rdawo:P10061 rdf:resource="http://viaf.org/viaf/12305881"/>
    </rdac:C10001>
    <rdac:C10001 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?64869/frostandfire">
@@ -342,6 +356,19 @@
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/12305881/illustratedbradbury"/>
    </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/12305881/lamujertatuadayotroscuentosdeamor/exp/spa/1020">
+      <rdaed:P20316>La mujer tatuada y otros cuentos de amor</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>La mujer tatuada y otros cuentos de amor</rdaed:P20312>
+      <rdfs:label>La mujer tatuada y otros cuentos de amor (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20071>La bruja de abril -- La sirena del faro -- La mujer taturada</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/12305881/lamujertatuadayotroscuentosdeamor"/>
+      <rdaeo:P20319 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?58366/exp/spa/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/1542159477729527990004/exp/spa/1020"/>
+      <rdaeo:P20319 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?58392/exp/spa/1020"/>
+   </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/12305881/talesoffantasy/exp/eng/1013">
       <rdaed:P20316>Tales of fantasy</rdaed:P20316>
       <rdaxd:P00029>aggregate</rdaxd:P00029>
@@ -358,15 +385,16 @@
       <rdaeo:P20319 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?40876/exp/eng/1013"/>
       <rdaeo:P20319 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?56011/exp/eng/1013"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="http://viaf.org/viaf/12305881/variouscollections/exp/eng">
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/12305881/variouscollections/exp/eng/1020">
       <rdaed:P20316>The illustrated man ; The October country ; other stories</rdaed:P20316>
       <rdaxd:P00029>aggregate</rdaxd:P00029>
       <rdaed:P20312>The illustrated man : The October country ; other stories</rdaed:P20312>
       <rdfs:label>The illustrated man (Bradbury, Ray)</rdfs:label>
       <rdaed:P20071>The Illustrated Man -- The October Country -- Other Stories. -- R Is for Rocket -- Chrysalis -- Frost and Fire -- Powerhouse -- Pillar of Fire -- Asleep in Armageddon -- Dark They Were, and Golden-eyed -- A Touch of Petulance -- The Screaming Woman -- The Fog Horn -- The Pedestrian -- The Playground -- A Sound of Thunder -- The Great Wide World Over There -- The Golden Apples of the Sun -- And the Rock Cried Out -- All Summer in a Day -- Interval in Sunlight -- At Midnight, in the Month of June -- The Strawberry Window -- Icarus Montgolfier Wright -- The End of the Beginning --The Day It Rained Forever -- A Miracle of Rare Device -- The Kilimanjaro Device -- The Lost City of Mars -- I Sing the Body Electric!</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/12305881/variouscollections"/>
-      <rdaeo:P20319 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?64869/exp/eng"/>
+      <rdaeo:P20319 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?64869/exp/eng/1020"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/1542159477729527990004/exp/cat/1020">
       <rdaed:P20006>español</rdaed:P20006>
@@ -384,6 +412,8 @@
       <rdaed:P20312>The fog horn</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
       <rdfs:label>The fog horn (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20315>La sirena del faro</rdaed:P20315>
+      <rdfs:label>La sirena del faro (Bradbury, Ray)</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/1542159477729527990004"/>
@@ -413,6 +443,15 @@
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/181334419"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/209899296/exp/eng/1020">
+      <rdaed:P20316>A medicine for melancholy</rdaed:P20316>
+      <rdaxd:P00029>standalone</rdaxd:P00029>
+      <rdaed:P20312>A medicine for melancholy</rdaed:P20312>
+      <rdfs:label>A medicine for melancholy (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/209899296"/>
    </rdac:C10006>
    <rdac:C10006 rdf:about="http://viaf.org/viaf/2146095153500370503/exp/eng/1020">
       <rdaed:P20316>The illustrated man</rdaed:P20316>
@@ -516,6 +555,8 @@
       <rdaed:P20312>April's witch</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
       <rdfs:label>April's witch (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20315>La bruja de abril</rdaed:P20315>
+      <rdfs:label>La bruja de abril (Bradbury, Ray)</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
       <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?58366"/>
@@ -525,6 +566,8 @@
       <rdaed:P20312>The illustrated woman</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
       <rdfs:label>The illustrated woman (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20315>La mujer tatuada</rdaed:P20315>
+      <rdfs:label>La mujer tatuada (Bradbury, Ray)</rdfs:label>
       <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/spa"/>
       <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?58392"/>
@@ -646,10 +689,11 @@
       <rdaeo:P20039 rdf:resource="http://www.example.org/chamberoperachicago"/>
       <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?64848/musikk"/>
    </rdac:C10006>
-   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?64869/exp/eng">
+   <rdac:C10006 rdf:about="https://www.isfdb.org/cgi-bin/title.cgi?64869/exp/eng/1020">
       <rdaed:P20312>Frost and fire</rdaed:P20312>
       <rdaxd:P00029>part</rdaxd:P00029>
       <rdfs:label>Frost and fire (Bradbury, Ray)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
       <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
       <rdaeo:P20231 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?64869"/>
    </rdac:C10006>
@@ -678,6 +722,19 @@
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/175761003/exp/eng/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/4530044">
+      <rdamd:P30156>A medicine for melancholy</rdamd:P30156>
+      <rdamd:P30107>[1st ed.]</rdamd:P30107>
+      <rdamd:P30088>Garden City, N.Y</rdamd:P30088>
+      <rdamd:P30111>Garden City, N.Y. : Doubleday, 1959</rdamd:P30111>
+      <rdamd:P30083>Doubleday</rdamd:P30083>
+      <rdamd:P30011>1959</rdamd:P30011>
+      <rdamd:P30182>240 p., 22 cm.</rdamd:P30182>
+      <rdamd:P30137>Short stories.</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/209899296/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/6224190">
       <rdamd:P30156>[The Martian chronicles] [Sound recording]</rdamd:P30156>
@@ -928,8 +985,10 @@
       <rdamd:P30106>The library of America</rdamd:P30106>
       <rdamd:P30165>360</rdamd:P30165>
       <rdamd:P30033>The Illustrated Man -- The October Country -- Other Stories. -- R Is for Rocket -- Chrysalis -- Frost and Fire -- Powerhouse -- Pillar of Fire -- Asleep in Armageddon -- Dark They Were, and Golden-eyed -- A Touch of Petulance -- The Screaming Woman -- The Fog Horn -- The Pedestrian -- The Playground -- A Sound of Thunder -- The Great Wide World Over There -- The Golden Apples of the Sun -- And the Rock Cried Out -- All Summer in a Day -- Interval in Sunlight -- At Midnight, in the Month of June -- The Strawberry Window -- Icarus Montgolfier Wright -- The End of the Beginning --The Day It Rained Forever -- A Miracle of Rare Device -- The Kilimanjaro Device -- The Lost City of Mars -- I Sing the Body Electric!</rdamd:P30033>
-      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/12305881/variouscollections/exp/eng"/>
-      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?64869/exp/eng"/>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/12305881/variouscollections/exp/eng/1020"/>
+      <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?64869/exp/eng/1020"/>
    </rdac:C10007>
    <rdac:C10007 rdf:about="http://example.org/isbn-9788494573606">
       <rdamd:P30004>ISBN 978-84-945736-0-6</rdamd:P30004>
@@ -947,6 +1006,7 @@
       <rdamd:P30033>La bruja de abril -- La sirena del faro -- La mujer taturada</rdamd:P30033>
       <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
       <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/12305881/lamujertatuadayotroscuentosdeamor/exp/spa/1020"/>
       <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?58366/exp/spa/1020"/>
       <rdamo:P30139 rdf:resource="http://viaf.org/viaf/1542159477729527990004/exp/spa/1020"/>
       <rdamo:P30139 rdf:resource="https://www.isfdb.org/cgi-bin/title.cgi?58392/exp/spa/1020"/>
