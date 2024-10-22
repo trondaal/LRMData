@@ -10,6 +10,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://bare.no/2030682"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Winther-Larsen, Helge"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://bare.no/8082914"
                 },
                 "label": {
@@ -20,11 +30,41 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://bare.no/90174225"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Nordberg, Nils"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://bare.no/90214573"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Lindell, Unni"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://bare.no/90790318"
                 },
                 "label": {
                     "type": "literal",
                     "value": "Lehmann, Niels"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://bare.no/98012201"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Armand, Gisken"
                 }
             },
             {
@@ -115,6 +155,46 @@
                 "label": {
                     "type": "literal",
                     "value": "Andersson, Urban"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/8202152259"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Noveller"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/8202152259/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Noveller"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/8292496025"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "N\u00e5r du minst aner"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/8292496025/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "N\u00e5r du minst aner"
                 }
             },
             {
@@ -1160,11 +1240,41 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-8202137276"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN8202137276"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202147921"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN8202147921"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-8202149932"
                 },
                 "label": {
                     "type": "literal",
                     "value": "ISBN82-02-14993-2"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8202152259"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN8202152259"
                 }
             },
             {
@@ -1300,6 +1410,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-8202243211"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN8202243211"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-8202259045"
                 },
                 "label": {
@@ -1410,6 +1530,16 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://example.org/isbn-8242115311"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN8242115311"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://example.org/isbn-8252538134"
                 },
                 "label": {
@@ -1455,6 +1585,16 @@
                 "label": {
                     "type": "literal",
                     "value": "ISBN8278442444"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-8292496025"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN8292496025"
                 }
             },
             {
@@ -1985,6 +2125,36 @@
                 "label": {
                     "type": "literal",
                     "value": "ISBN9788202324247"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202379070"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN9788202379070"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202386535"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN9788202386535"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/isbn-9788202386689"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "ISBN9788202386689"
                 }
             },
             {
@@ -2750,6 +2920,26 @@
             {
                 "subject": {
                     "type": "uri",
+                    "value": "http://example.org/sovirom\u00e5ttefandentadeg"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Utvalgte krimnoveller"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/sovirom\u00e5ttefandentadeg/exp/nob/1013"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Sov i ro"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
                     "value": "http://example.org/sundquist"
                 },
                 "label": {
@@ -2825,6 +3015,36 @@
                 "label": {
                     "type": "literal",
                     "value": "Vain, Eha"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/\u00e5retsp\u00e5skekrim"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "\u00c5rets p\u00e5skekrim"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/\u00e5retsp\u00e5skekrim/exp/nob/1013"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "\u00c5rets p\u00e5skekrim"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://example.org/\u00e5retsp\u00e5skekrim/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "\u00c5rets p\u00e5skekrim"
                 }
             },
             {
@@ -3065,6 +3285,476 @@
                 "label": {
                     "type": "literal",
                     "value": "Fossum, Karin"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/dengalemannenifirenze"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Den gale mannen i Firenze (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/dengalemannenifirenze/exp/nob/1013/2030682"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Den gale mannen i Firenze (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/dengalemannenifirenze/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Den gale mannen i Firenze (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/idetbl\u00e5lyset"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "I det bl\u00e5 lyset (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/idetbl\u00e5lyset/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "I det bl\u00e5 lyset (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/ietannetlys"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "I et annet lys (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/ietannetlys/detvidunderligelivet"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Det vidunderlige livet (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/ietannetlys/detvidunderligelivet/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Det vidunderlige livet (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/ietannetlys/engnistim\u00f8rket"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "En gnist i m\u00f8rket (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/ietannetlys/engnistim\u00f8rket/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "En gnist i m\u00f8rket (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/ietannetlys/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "I et annet lys (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/ietannetlys/gudsyttersten\u00e5de"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Guds ytterste n\u00e5de (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/ietannetlys/gudsyttersten\u00e5de/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Guds ytterste n\u00e5de (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/ietannetlys/ietannetlys"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "I et annet lys (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/ietannetlys/ietannetlys/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "I et annet lys (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/ietannetlys/ivirvelensmakt"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "I virvelens makt (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/ietannetlys/ivirvelensmakt/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "I virvelens makt (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/ietannetlys/signaler"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Signaler (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/ietannetlys/signaler/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Signaler (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/ietannetlys/utenforsynsfeltet"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Utenfor synsfeltet (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/ietannetlys/utenforsynsfeltet/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Utenfor synsfeltet (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/m\u00e5ttefandentadeg"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "M\u00e5tte fanden ta deg! (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/m\u00e5ttefandentadeg/exp/nob/1013/98012201"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "M\u00e5tte fanden ta deg! (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/novelleriutvalg"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Noveller i utvalg"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/novelleriutvalg/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Noveller i utvalg"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/s\u00f8ylen"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "S\u00f8ylen (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/s\u00f8ylen/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "S\u00f8ylen (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/s\u00f8ylen/grisehalen"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Grisehalen (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/s\u00f8ylen/grisehalen/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Grisehalen (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/s\u00f8ylen/ingebaldogjeg"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Ingevald og jeg (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/s\u00f8ylen/ingebaldogjeg/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Ingevald og jeg (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/s\u00f8ylen/ingentingvarerforbestandig"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Ingen ting varer for bestandig (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/s\u00f8ylen/ingentingvarerforbestandig/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Ingen ting varer for bestandig (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/s\u00f8ylen/insektet"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Insektet (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/s\u00f8ylen/insektet/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Insektet (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/s\u00f8ylen/jentungen"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Jentungen (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/s\u00f8ylen/jentungen/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Jentungen (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/s\u00f8ylen/nancy"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Nancy (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/s\u00f8ylen/nancy/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Nancy (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/s\u00f8ylen/syttenminus"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Sytten minus (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/s\u00f8ylen/syttenminus/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Sytten minus (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/s\u00f8ylen/s\u00f8nnes\u00f8nnen"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "S\u00f8nnes\u00f8nnen (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/s\u00f8ylen/s\u00f8nnes\u00f8nnen/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "S\u00f8nnes\u00f8nnen (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/s\u00f8ylen/s\u00f8ylen"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "S\u00f8ylen (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/s\u00f8ylen/s\u00f8ylen/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "S\u00f8ylen (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/s\u00f8ylen/visomskalstyreverden"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Vi som skal styre verden (Fossum, Karin)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/120627630/s\u00f8ylen/visomskalstyreverden/exp/nob/1020"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Vi som skal styre verden (Fossum, Karin)"
                 }
             },
             {
@@ -4045,6 +4735,16 @@
                 "label": {
                     "type": "literal",
                     "value": "The gardener's son (McCarthy, Cormac)"
+                }
+            },
+            {
+                "subject": {
+                    "type": "uri",
+                    "value": "http://viaf.org/viaf/305058383"
+                },
+                "label": {
+                    "type": "literal",
+                    "value": "Henriksen, Ginni Schulstock"
                 }
             },
             {

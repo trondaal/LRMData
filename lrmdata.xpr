@@ -10,7 +10,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>xqueries/selectrecords.xquery</String>
+                                    <String>xqueries/deletefields.xquery</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -30,7 +30,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>xqueries/deletefields.xquery</String>
+                                    <String>xqueries/selectrecords.xquery</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>

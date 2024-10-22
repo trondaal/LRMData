@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:map="http://www.w3.org/2005/xpath-functions/map"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:rdac="http://rdaregistry.info/Elements/c/"
+         xmlns:rdaad="http://rdaregistry.info/Elements/a/datatype/"
+         xmlns:rdaao="http://rdaregistry.info/Elements/a/object/"
+         xmlns:rdawd="http://rdaregistry.info/Elements/w/datatype/"
+         xmlns:rdawo="http://rdaregistry.info/Elements/w/object/"
+         xmlns:rdaed="http://rdaregistry.info/Elements/e/datatype/"
+         xmlns:rdaeo="http://rdaregistry.info/Elements/e/object/"
+         xmlns:rdamd="http://rdaregistry.info/Elements/m/datatype/"
+         xmlns:rdamo="http://rdaregistry.info/Elements/m/object/"
+         xmlns:rdaxd="http://rdaregistry.info/Elements/x/datatype/"
+         xmlns:mads="http://www.loc.gov/mads/rdf/v1#"
+         xmlns:mmmm="http://www.loc.gov/MARC21/slim/"
+         xmlns:rdaco="http://rdaregistry.info/termList/RDAContentType/"
+         xmlns:rdact="http://rdaregistry.info/termList/RDACarrierType/"
+         xmlns:rdamt="http://rdaregistry.info/termList/RDAMediaType/"
+         xmlns:rdat="http://rdaregistry.info/termList/"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:ex="http://www.example.org/">
+   <rdac:C10001 rdf:about="http://example.org/8202152259">
+      <rdaxd:P00018>http://example.org/8202152259</rdaxd:P00018>
+      <rdawd:P10088>Noveller</rdawd:P10088>
+      <rdfs:label>Noveller</rdfs:label>
+      <rdaxd:P00029>Novellesamling</rdaxd:P00029>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://example.org/8292496025">
+      <rdaxd:P00018>http://example.org/8292496025</rdaxd:P00018>
+      <rdawd:P10088>Når du minst aner</rdawd:P10088>
+      <rdfs:label>Når du minst aner</rdfs:label>
+      <rdaxd:P00029>Novellesamling</rdaxd:P00029>
+      <rdawo:P10393 rdf:resource="http://viaf.org/viaf/305058383"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://example.org/soviromåttefandentadeg">
+      <rdaxd:P00018>http://example.org/soviromåttefandentadeg</rdaxd:P00018>
+      <rdawd:P10088>Utvalgte krimnoveller</rdawd:P10088>
+      <rdfs:label>Utvalgte krimnoveller</rdfs:label>
+      <rdaxd:P00029>Novellesamling</rdaxd:P00029>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/120627630/måttefandentadeg"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://example.org/åretspåskekrim">
+      <rdaxd:P00018>http://example.org/åretspåskekrim</rdaxd:P00018>
+      <rdawd:P10088>Årets påskekrim</rdawd:P10088>
+      <rdfs:label>Årets påskekrim</rdfs:label>
+      <rdaxd:P00029>Novellesamling</rdaxd:P00029>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/120627630/dengalemannenifirenze">
+      <rdaxd:P00018>http://viaf.org/viaf/120627630/dengalemannenifirenze</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
+      <rdawd:P10088>Den gale mannen i Firenze</rdawd:P10088>
+      <rdfs:label>Den gale mannen i Firenze (Fossum, Karin)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/120627630/idetblålyset">
+      <rdaxd:P00018>http://viaf.org/viaf/120627630/idetblålyset</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
+      <rdawd:P10088>I det blå lyset</rdawd:P10088>
+      <rdfs:label>I det blå lyset (Fossum, Karin)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/120627630/ietannetlys">
+      <rdaxd:P00018>http://viaf.org/viaf/120627630/ietannetlys</rdaxd:P00018>
+      <rdawd:P10088>I et annet lys</rdawd:P10088>
+      <rdfs:label>I et annet lys (Fossum, Karin)</rdfs:label>
+      <rdaxd:P00029>Novellesamling</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/detvidunderligelivet"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/engnistimørket"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/gudsytterstenåde"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/ietannetlys"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/ivirvelensmakt"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/signaler"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/utenforsynsfeltet"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/120627630/ietannetlys/detvidunderligelivet">
+      <rdaxd:P00018>http://viaf.org/viaf/120627630/ietannetlys/detvidunderligelivet</rdaxd:P00018>
+      <rdawd:P10088>Det vidunderlige livet</rdawd:P10088>
+      <rdfs:label>Det vidunderlige livet (Fossum, Karin)</rdfs:label>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/120627630/ietannetlys/engnistimørket">
+      <rdaxd:P00018>http://viaf.org/viaf/120627630/ietannetlys/engnistimørket</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
+      <rdawd:P10088>En gnist i mørket</rdawd:P10088>
+      <rdfs:label>En gnist i mørket (Fossum, Karin)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/120627630/ietannetlys/gudsytterstenåde">
+      <rdaxd:P00018>http://viaf.org/viaf/120627630/ietannetlys/gudsytterstenåde</rdaxd:P00018>
+      <rdawd:P10088>Guds ytterste nåde</rdawd:P10088>
+      <rdfs:label>Guds ytterste nåde (Fossum, Karin)</rdfs:label>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/120627630/ietannetlys/ietannetlys">
+      <rdaxd:P00018>http://viaf.org/viaf/120627630/ietannetlys/ietannetlys</rdaxd:P00018>
+      <rdawd:P10088>I et annet lys</rdawd:P10088>
+      <rdfs:label>I et annet lys (Fossum, Karin)</rdfs:label>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/120627630/ietannetlys/ivirvelensmakt">
+      <rdaxd:P00018>http://viaf.org/viaf/120627630/ietannetlys/ivirvelensmakt</rdaxd:P00018>
+      <rdawd:P10088>I virvelens makt</rdawd:P10088>
+      <rdfs:label>I virvelens makt (Fossum, Karin)</rdfs:label>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/120627630/ietannetlys/signaler">
+      <rdaxd:P00018>http://viaf.org/viaf/120627630/ietannetlys/signaler</rdaxd:P00018>
+      <rdawd:P10088>Signaler</rdawd:P10088>
+      <rdfs:label>Signaler (Fossum, Karin)</rdfs:label>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/120627630/ietannetlys/utenforsynsfeltet">
+      <rdaxd:P00018>http://viaf.org/viaf/120627630/ietannetlys/utenforsynsfeltet</rdaxd:P00018>
+      <rdawd:P10088>Utenfor synsfeltet</rdawd:P10088>
+      <rdfs:label>Utenfor synsfeltet (Fossum, Karin)</rdfs:label>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/120627630/måttefandentadeg">
+      <rdaxd:P00018>http://viaf.org/viaf/120627630/måttefandentadeg</rdaxd:P00018>
+      <rdawd:P10088>Måtte fanden ta deg!</rdawd:P10088>
+      <rdfs:label>Måtte fanden ta deg! (Fossum, Karin)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/120627630/novelleriutvalg">
+      <rdaxd:P00018>http://viaf.org/viaf/120627630/novelleriutvalg</rdaxd:P00018>
+      <rdawd:P10088>Noveller i utvalg</rdawd:P10088>
+      <rdfs:label>Noveller i utvalg</rdfs:label>
+      <rdaxd:P00029>Noveller</rdaxd:P00029>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/120627630/søylen">
+      <rdaxd:P00018>http://viaf.org/viaf/120627630/søylen</rdaxd:P00018>
+      <rdawd:P10088>Søylen</rdawd:P10088>
+      <rdfs:label>Søylen (Fossum, Karin)</rdfs:label>
+      <rdaxd:P00029>Novellesamling</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/120627630/søylen/grisehalen"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/120627630/søylen/ingentingvarerforbestandig"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/120627630/søylen/ingebaldogjeg"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/120627630/søylen/insektet"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/120627630/søylen/jentungen"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/120627630/søylen/nancy"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/120627630/søylen/syttenminus"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/120627630/søylen/sønnesønnen"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/120627630/søylen/søylen"/>
+      <rdawo:P10147 rdf:resource="http://viaf.org/viaf/120627630/søylen/visomskalstyreverden"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/120627630/søylen/grisehalen">
+      <rdaxd:P00018>http://viaf.org/viaf/120627630/søylen/grisehalen</rdaxd:P00018>
+      <rdawd:P10088>Grisehalen</rdawd:P10088>
+      <rdfs:label>Grisehalen (Fossum, Karin)</rdfs:label>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/120627630/søylen/ingebaldogjeg">
+      <rdaxd:P00018>http://viaf.org/viaf/120627630/søylen/ingebaldogjeg</rdaxd:P00018>
+      <rdawd:P10088>Ingevald og jeg</rdawd:P10088>
+      <rdfs:label>Ingevald og jeg (Fossum, Karin)</rdfs:label>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/120627630/søylen/ingentingvarerforbestandig">
+      <rdaxd:P00018>http://viaf.org/viaf/120627630/søylen/ingentingvarerforbestandig</rdaxd:P00018>
+      <rdawd:P10088>Ingen ting varer for bestandig</rdawd:P10088>
+      <rdfs:label>Ingen ting varer for bestandig (Fossum, Karin)</rdfs:label>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/120627630/søylen/insektet">
+      <rdaxd:P00018>http://viaf.org/viaf/120627630/søylen/insektet</rdaxd:P00018>
+      <rdawd:P10088>Insektet</rdawd:P10088>
+      <rdfs:label>Insektet (Fossum, Karin)</rdfs:label>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/120627630/søylen/jentungen">
+      <rdaxd:P00018>http://viaf.org/viaf/120627630/søylen/jentungen</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
+      <rdawd:P10088>Jentungen</rdawd:P10088>
+      <rdfs:label>Jentungen (Fossum, Karin)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/120627630/søylen/nancy">
+      <rdaxd:P00018>http://viaf.org/viaf/120627630/søylen/nancy</rdaxd:P00018>
+      <rdawd:P10088>Nancy</rdawd:P10088>
+      <rdfs:label>Nancy (Fossum, Karin)</rdfs:label>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/120627630/søylen/syttenminus">
+      <rdaxd:P00018>http://viaf.org/viaf/120627630/søylen/syttenminus</rdaxd:P00018>
+      <rdawd:P10088>Sytten minus</rdawd:P10088>
+      <rdfs:label>Sytten minus (Fossum, Karin)</rdfs:label>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/120627630/søylen/sønnesønnen">
+      <rdaxd:P00018>http://viaf.org/viaf/120627630/søylen/sønnesønnen</rdaxd:P00018>
+      <rdawd:P10088>Sønnesønnen</rdawd:P10088>
+      <rdfs:label>Sønnesønnen (Fossum, Karin)</rdfs:label>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/120627630/søylen/søylen">
+      <rdaxd:P00018>http://viaf.org/viaf/120627630/søylen/søylen</rdaxd:P00018>
+      <rdawd:P10088>Søylen</rdawd:P10088>
+      <rdfs:label>Søylen (Fossum, Karin)</rdfs:label>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10001 rdf:about="http://viaf.org/viaf/120627630/søylen/visomskalstyreverden">
+      <rdaxd:P00018>http://viaf.org/viaf/120627630/søylen/visomskalstyreverden</rdaxd:P00018>
+      <rdaxd:P00029>Novelle</rdaxd:P00029>
+      <rdawd:P10088>Vi som skal styre verden</rdawd:P10088>
+      <rdfs:label>Vi som skal styre verden (Fossum, Karin)</rdfs:label>
+      <rdawo:P10061 rdf:resource="http://viaf.org/viaf/120627630"/>
+   </rdac:C10001>
+   <rdac:C10002 rdf:about="http://bare.no/2030682">
+      <rdaxd:P00018>http://bare.no/2030682</rdaxd:P00018>
+      <rdaad:P50385>Winther-Larsen, Helge</rdaad:P50385>
+      <rdfs:label>Winther-Larsen, Helge</rdfs:label>
+      <rdaad:P50339>1953-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://bare.no/90174225">
+      <rdaxd:P00018>http://bare.no/90174225</rdaxd:P00018>
+      <rdaad:P50385>Nordberg, Nils</rdaad:P50385>
+      <rdfs:label>Nordberg, Nils</rdfs:label>
+      <rdaad:P50339>1942-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://bare.no/90214573">
+      <rdaxd:P00018>http://bare.no/90214573</rdaxd:P00018>
+      <rdaad:P50385>Lindell, Unni</rdaad:P50385>
+      <rdfs:label>Lindell, Unni</rdfs:label>
+      <rdaad:P50339>1957-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://bare.no/98012201">
+      <rdaxd:P00018>http://bare.no/98012201</rdaxd:P00018>
+      <rdaad:P50385>Armand, Gisken</rdaad:P50385>
+      <rdfs:label>Armand, Gisken</rdfs:label>
+      <rdaad:P50339>1962-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/120627630">
+      <rdaxd:P00018>http://viaf.org/viaf/120627630</rdaxd:P00018>
+      <rdaad:P50385>Fossum, Karin</rdaad:P50385>
+      <rdfs:label>Fossum, Karin</rdfs:label>
+      <rdaad:P50339>1954-</rdaad:P50339>
+   </rdac:C10002>
+   <rdac:C10002 rdf:about="http://viaf.org/viaf/305058383">
+      <rdaxd:P00018>http://viaf.org/viaf/305058383</rdaxd:P00018>
+      <rdaad:P50385>Henriksen, Ginni Schulstock</rdaad:P50385>
+      <rdfs:label>Henriksen, Ginni Schulstock</rdfs:label>
+   </rdac:C10002>
+   <rdac:C10006 rdf:about="http://example.org/8202152259/exp/nob/1020">
+      <rdaed:P20316>Noveller</rdaed:P20316>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>Noveller</rdaed:P20312>
+      <rdfs:label>Noveller</rdfs:label>
+      <rdaed:P20071>Skallene / Ingvar Ambjørnsen. Søylen / Karin Fossum. Fødselen / Nils Horvei. Oversettelsen / Roy Jacobsen</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://example.org/8202152259"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/120627630/søylen/søylen/exp/nob/1020"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://example.org/8292496025/exp/nob/1020">
+      <rdaed:P20316>Når du minst aner</rdaed:P20316>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>Når du minst aner</rdaed:P20312>
+      <rdfs:label>Når du minst aner</rdfs:label>
+      <rdaed:P20071>Den fjerde dødssynd / Ingebjørg S. Folegrød -- Det farlige yrket / Lawrence Block -- En pistol fra eller til / Anne B. Ragde -- I det blå lyset / Karin Fossum -- Liket på loftet / Gunnar Staalesen -- Mannen fra i morgen / Tor Åge Bringsværd -- Mannen i telefonen / Tor Edvin Dahl -- Når du minst aner / Lijane Rodar -- Sjokk for lekto Lien / Richard Macker -- To alen av samme stykke / Fredrik Skagen -- Tranene / Mona Lyngar -- Vinduet tvers over gaten / Unni Lindell -- Vinneren / Kim Småge</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://example.org/8292496025"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/120627630/idetblålyset/exp/nob/1020"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://example.org/soviromåttefandentadeg/exp/nob/1013">
+      <rdaed:P20316>Utvalgte krimnoveller</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Sov i ro</rdaed:P20312>
+      <rdfs:label>Sov i ro</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/120627630/måttefandentadeg/exp/nob/1013/98012201"/>
+      <rdaeo:P20231 rdf:resource="http://example.org/soviromåttefandentadeg"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://example.org/åretspåskekrim/exp/nob/1013">
+      <rdaed:P20316>Årets påskekrim</rdaed:P20316>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>Årets påskekrim : 13 kriminalnoveller fra spenningens mestere</rdaed:P20312>
+      <rdfs:label>Årets påskekrim</rdfs:label>
+      <rdaed:P20071>Den gale mannen i Firenze / Karin Fossum -- Den siste historien / Chris Tvedt -- Det nesten perfekte / Torkil Damhaug -- En faks fra evigheten / Jens Lapidus -- Et perfekt bankran / Gert Nygårdshaug -- Haikere / Kjell Ola Dahl -- Ingenting her, ingenting der / Knut Nærum -- Liket i myra / Tom Egeland -- Notene / John Ajvide Lindqvist -- Nøklene / Tor Edvin Dahl -- Pistolen på plenen / Hans Olav Lahlum -- Tatt av strømmen / Gunnar Staalesen -- Å drepe en sangfugl / Fredrik Skagen</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://example.org/åretspåskekrim"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/120627630/dengalemannenifirenze/exp/nob/1013/2030682"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://example.org/åretspåskekrim/exp/nob/1020">
+      <rdaed:P20316>Årets påskekrim</rdaed:P20316>
+      <rdaxd:P00029>aggregate</rdaxd:P00029>
+      <rdaed:P20312>Årets påskekrim : 13 kriminalnoveller fra spenningens mestere</rdaed:P20312>
+      <rdfs:label>Årets påskekrim</rdfs:label>
+      <rdaed:P20071>Den gale mannen i Firenze / Karin Fossum -- Den siste historien / Chris Tvedt -- Det nesten perfekte / Torkil Damhaug -- En faks fra evigheten / Jens Lapidus -- Et perfekt bankran / Gert Nygårdshaug -- Haikere / Kjell Ola Dahl -- Ingenting her, ingenting der / Knut Nærum -- Liket i myra / Tom Egeland -- Notene / John Ajvide Lindqvist -- Nøklene / Tor Edvin Dahl -- Pistolen på plenen / Hans Olav Lahlum -- Tatt av strømmen / Gunnar Staalesen -- Å drepe en sangfugl / Fredrik Skagen</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://example.org/åretspåskekrim"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/120627630/dengalemannenifirenze/exp/nob/1020"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/120627630/dengalemannenifirenze/exp/nob/1013/2030682">
+      <rdaed:P20312>Den gale mannen i Firenze</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Den gale mannen i Firenze (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20022 rdf:resource="http://bare.no/2030682"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/120627630/dengalemannenifirenze"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/120627630/dengalemannenifirenze/exp/nob/1020">
+      <rdaed:P20312>Den gale mannen i Firenze</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Den gale mannen i Firenze (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/120627630/dengalemannenifirenze"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/120627630/idetblålyset/exp/nob/1020">
+      <rdaed:P20312>I det blå lyset</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>I det blå lyset (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/120627630/idetblålyset"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/120627630/ietannetlys/detvidunderligelivet/exp/nob/1020">
+      <rdaed:P20312>Det vidunderlige livet</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Det vidunderlige livet (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/detvidunderligelivet"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/120627630/ietannetlys/engnistimørket/exp/nob/1020">
+      <rdaed:P20312>En gnist i mørket</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>En gnist i mørket (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/engnistimørket"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/120627630/ietannetlys/exp/nob/1020">
+      <rdaed:P20316>I et annet lys</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>I et annet lys : noveller</rdaed:P20312>
+      <rdfs:label>I et annet lys (Fossum, Karin)</rdfs:label>
+      <rdaed:P20071>Det vidunderlige livet -- En gnist i mørket -- Guds ytterste nåde -- I et annet lys -- I virvelens makt -- Signaler -- Utenfor synsfeltet</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/detvidunderligelivet/exp/nob/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/engnistimørket/exp/nob/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/gudsytterstenåde/exp/nob/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/ietannetlys/exp/nob/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/ivirvelensmakt/exp/nob/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/signaler/exp/nob/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/utenforsynsfeltet/exp/nob/1020"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/120627630/ietannetlys/gudsytterstenåde/exp/nob/1020">
+      <rdaed:P20312>Guds ytterste nåde</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Guds ytterste nåde (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/gudsytterstenåde"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/120627630/ietannetlys/ietannetlys/exp/nob/1020">
+      <rdaed:P20312>I et annet lys</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>I et annet lys (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/ietannetlys"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/120627630/ietannetlys/ivirvelensmakt/exp/nob/1020">
+      <rdaed:P20312>I virvelens makt</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>I virvelens makt (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/ivirvelensmakt"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/120627630/ietannetlys/signaler/exp/nob/1020">
+      <rdaed:P20312>Signaler</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Signaler (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/signaler"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/120627630/ietannetlys/utenforsynsfeltet/exp/nob/1020">
+      <rdaed:P20312>Utenfor synsfeltet</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Utenfor synsfeltet (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/utenforsynsfeltet"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/120627630/måttefandentadeg/exp/nob/1013/98012201">
+      <rdaed:P20312>Måtte fanden ta deg!</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Måtte fanden ta deg! (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1013"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20022 rdf:resource="http://bare.no/98012201"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/120627630/måttefandentadeg"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/120627630/novelleriutvalg/exp/nob/1020">
+      <rdaed:P20316>Noveller i utvalg</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Noveller i utvalg</rdaed:P20312>
+      <rdfs:label>Noveller i utvalg</rdfs:label>
+      <rdaed:P20071>Det vidunderlive livet -- Grisehalen -- Guds ytterste nåde -- I et annet lys -- I virvelens makt -- Ingen ting varer for bestandig -- Ingevald og jeg -- Insektet -- Nancy -- Signaler -- Sytten minus -- Sønnesønnen -- Søylen -- Utenfor synsfeltet</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/120627630/novelleriutvalg"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/detvidunderligelivet/exp/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/120627630/søylen/grisehalen/exp/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/gudsytterstenåde/exp/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/ietannetlys/exp/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/ivirvelensmakt/exp/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/120627630/søylen/ingentingvarerforbestandig/exp/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/120627630/søylen/ingebaldogjeg/exp/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/120627630/søylen/insektet/exp/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/120627630/søylen/nancy/exp/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/signaler/exp/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/120627630/søylen/syttenminus/exp/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/120627630/søylen/sønnesønnen/exp/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/120627630/søylen/søylen/exp/nob/1020"/>
+      <rdaeo:P20319 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/utenforsynsfeltet/exp/nob/1020"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/120627630/søylen/exp/nob/1020">
+      <rdaed:P20316>Søylen</rdaed:P20316>
+      <rdaxd:P00029>parent</rdaxd:P00029>
+      <rdaed:P20312>Søylen : noveller</rdaed:P20312>
+      <rdfs:label>Søylen (Fossum, Karin)</rdfs:label>
+      <rdaed:P20071>Grisehalen -- Ingen ting varer for bestandig -- Ingevald og jeg -- Insektet -- Jentungen -- Nancy -- Sytten minus -- Sønnesønnen -- Søylen -- Vi som skal styre verden</rdaed:P20071>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/120627630/søylen/grisehalen/exp/nob/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/120627630/søylen/ingentingvarerforbestandig/exp/nob/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/120627630/søylen/ingebaldogjeg/exp/nob/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/120627630/søylen/insektet/exp/nob/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/120627630/søylen/jentungen/exp/nob/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/120627630/søylen/nancy/exp/nob/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/120627630/søylen/syttenminus/exp/nob/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/120627630/søylen/sønnesønnen/exp/nob/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/120627630/søylen/søylen/exp/nob/1020"/>
+      <rdaeo:P20145 rdf:resource="http://viaf.org/viaf/120627630/søylen/visomskalstyreverden/exp/nob/1020"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/120627630/søylen"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/120627630/søylen/grisehalen/exp/nob/1020">
+      <rdaed:P20312>Grisehalen</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Grisehalen (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/120627630/søylen/grisehalen"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/120627630/søylen/ingebaldogjeg/exp/nob/1020">
+      <rdaed:P20312>Ingevald og jeg</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Ingevald og jeg (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/120627630/søylen/ingebaldogjeg"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/120627630/søylen/ingentingvarerforbestandig/exp/nob/1020">
+      <rdaed:P20312>Ingen ting varer for bestandig</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Ingen ting varer for bestandig (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/120627630/søylen/ingentingvarerforbestandig"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/120627630/søylen/insektet/exp/nob/1020">
+      <rdaed:P20312>Insektet</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Insektet (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/120627630/søylen/insektet"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/120627630/søylen/jentungen/exp/nob/1020">
+      <rdaed:P20312>Jentungen</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Jentungen (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/120627630/søylen/jentungen"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/120627630/søylen/nancy/exp/nob/1020">
+      <rdaed:P20312>Nancy</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Nancy (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/120627630/søylen/nancy"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/120627630/søylen/syttenminus/exp/nob/1020">
+      <rdaed:P20312>Sytten minus</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Sytten minus (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/120627630/søylen/syttenminus"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/120627630/søylen/sønnesønnen/exp/nob/1020">
+      <rdaed:P20312>Sønnesønnen</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Sønnesønnen (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/120627630/søylen/sønnesønnen"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/120627630/søylen/søylen/exp/nob/1020">
+      <rdaed:P20312>Søylen</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Søylen (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/120627630/søylen/søylen"/>
+   </rdac:C10006>
+   <rdac:C10006 rdf:about="http://viaf.org/viaf/120627630/søylen/visomskalstyreverden/exp/nob/1020">
+      <rdaed:P20312>Vi som skal styre verden</rdaed:P20312>
+      <rdaxd:P00029>part</rdaxd:P00029>
+      <rdfs:label>Vi som skal styre verden (Fossum, Karin)</rdfs:label>
+      <rdaed:P20001 rdf:resource="http://rdaregistry.info/termList/RDAContentType/1020"/>
+      <rdaed:P20006 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/nob"/>
+      <rdaeo:P20231 rdf:resource="http://viaf.org/viaf/120627630/søylen/visomskalstyreverden"/>
+   </rdac:C10006>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8202137276">
+      <rdamd:P30004>ISBN 8202137276</rdamd:P30004>
+      <rdaxd:P00018>isbn-8202137276</rdaxd:P00018>
+      <rdfs:label>ISBN8202137276</rdfs:label>
+      <rdamd:P30156>I et annet lys</rdamd:P30156>
+      <rdamd:P30142>noveller</rdamd:P30142>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen, 1992</rdamd:P30111>
+      <rdamd:P30083>Cappelen</rdamd:P30083>
+      <rdamd:P30011>1992</rdamd:P30011>
+      <rdamd:P30182>105 s., 22 cm.</rdamd:P30182>
+      <rdamd:P30033>Det vidunderlige livet -- En gnist i mørket -- Guds ytterste nåde -- I et annet lys -- I virvelens makt -- Signaler -- Utenfor synsfeltet</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/detvidunderligelivet/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/engnistimørket/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/gudsytterstenåde/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/ietannetlys/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/ivirvelensmakt/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/signaler/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/utenforsynsfeltet/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8202147921">
+      <rdamd:P30004>ISBN 8202147921</rdamd:P30004>
+      <rdaxd:P00018>isbn-8202147921</rdaxd:P00018>
+      <rdfs:label>ISBN8202147921</rdfs:label>
+      <rdamd:P30156>Søylen</rdamd:P30156>
+      <rdamd:P30142>noveller</rdamd:P30142>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen, 1994</rdamd:P30111>
+      <rdamd:P30083>Cappelen</rdamd:P30083>
+      <rdamd:P30011>1994</rdamd:P30011>
+      <rdamd:P30182>112 s.</rdamd:P30182>
+      <rdamd:P30033>Grisehalen -- Ingen ting varer for bestandig -- Ingevald og jeg -- Insektet -- Jentungen -- Nancy -- Sytten minus -- Sønnesønnen -- Søylen -- Vi som skal styre verden</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/søylen/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/søylen/grisehalen/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/søylen/ingentingvarerforbestandig/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/søylen/ingebaldogjeg/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/søylen/insektet/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/søylen/jentungen/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/søylen/nancy/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/søylen/syttenminus/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/søylen/sønnesønnen/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/søylen/søylen/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/søylen/visomskalstyreverden/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8202152259">
+      <rdamd:P30004>ISBN 8202152259</rdamd:P30004>
+      <rdaxd:P00018>isbn-8202152259</rdaxd:P00018>
+      <rdfs:label>ISBN8202152259</rdfs:label>
+      <rdamd:P30156>Noveller</rdamd:P30156>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen, 1994</rdamd:P30111>
+      <rdamd:P30083>Cappelen</rdamd:P30083>
+      <rdamd:P30011>1994</rdamd:P30011>
+      <rdamd:P30182>69 s. : ill.</rdamd:P30182>
+      <rdamd:P30033>Skallene / Ingvar Ambjørnsen. Søylen / Karin Fossum. Fødselen / Nils Horvei. Oversettelsen / Roy Jacobsen</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://example.org/8202152259/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/søylen/søylen/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8202243211">
+      <rdamd:P30004>ISBN 8202243211</rdamd:P30004>
+      <rdaxd:P00018>isbn-8202243211</rdaxd:P00018>
+      <rdfs:label>ISBN8202243211</rdfs:label>
+      <rdamd:P30156>Noveller i utvalg</rdamd:P30156>
+      <rdamd:P30117>Karin Fossum</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen, 2004</rdamd:P30111>
+      <rdamd:P30083>Cappelen</rdamd:P30083>
+      <rdamd:P30011>2004</rdamd:P30011>
+      <rdamd:P30182>151 s.</rdamd:P30182>
+      <rdamd:P30137>Hentet fra samlingene I et annet lys og Søylen, henholdsvis 1992 og 1994</rdamd:P30137>
+      <rdamd:P30033>Det vidunderlive livet -- Grisehalen -- Guds ytterste nåde -- I et annet lys -- I virvelens makt -- Ingen ting varer for bestandig -- Ingevald og jeg -- Insektet -- Nancy -- Signaler -- Sytten minus -- Sønnesønnen -- Søylen -- Utenfor synsfeltet</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/novelleriutvalg/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/detvidunderligelivet/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/søylen/grisehalen/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/gudsytterstenåde/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/ietannetlys/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/ivirvelensmakt/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/søylen/ingentingvarerforbestandig/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/søylen/ingebaldogjeg/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/søylen/insektet/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/søylen/nancy/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/signaler/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/søylen/syttenminus/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/søylen/sønnesønnen/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/søylen/søylen/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/ietannetlys/utenforsynsfeltet/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8242115311">
+      <rdamd:P30004>ISBN 8242115311</rdamd:P30004>
+      <rdaxd:P00018>isbn-8242115311</rdaxd:P00018>
+      <rdfs:label>ISBN8242115311</rdfs:label>
+      <rdamd:P30156>Sov i ro</rdamd:P30156>
+      <rdamd:P30117>Unni Lindell ; lest av Nils Nordberg. Måtte Fanden ta deg!/ Karin Fossum ; lest av Gisken Armand</rdamd:P30117>
+      <rdamd:P30088>[Melhus]</rdamd:P30088>
+      <rdamd:P30111>[Melhus] : Lydbokforl., 2004</rdamd:P30111>
+      <rdamd:P30083>Lydbokforl</rdamd:P30083>
+      <rdamd:P30011>2004</rdamd:P30011>
+      <rdamd:P30182>1 plate (CD)(1 t, 12 min) : digital.</rdamd:P30182>
+      <rdamd:P30137>Bilag til: KK, 2004 nr 26</rdamd:P30137>
+      <rdamd:P30137>Tittel på emballasjen: Utvalgte krimnoveller</rdamd:P30137>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://example.org/soviromåttefandentadeg/exp/nob/1013"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/måttefandentadeg/exp/nob/1013/98012201"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-8292496025">
+      <rdamd:P30004>ISBN 8292496025</rdamd:P30004>
+      <rdaxd:P00018>isbn-8292496025</rdaxd:P00018>
+      <rdfs:label>ISBN8292496025</rdfs:label>
+      <rdamd:P30156>Når du minst aner</rdamd:P30156>
+      <rdamd:P30117>redaktør: Ginni Schulstock Henriksen ; [Unni Lindell ... [et al.]]</rdamd:P30117>
+      <rdamd:P30107>2. utg</rdamd:P30107>
+      <rdamd:P30088>[Kristiansund]</rdamd:P30088>
+      <rdamd:P30111>[Kristiansund] : Kom forl., 2004</rdamd:P30111>
+      <rdamd:P30083>Kom forl</rdamd:P30083>
+      <rdamd:P30011>2004</rdamd:P30011>
+      <rdamd:P30182>125 s.</rdamd:P30182>
+      <rdamd:P30137>1. utg. 1998</rdamd:P30137>
+      <rdamd:P30137>På omslaget: 13 krimnoveller</rdamd:P30137>
+      <rdamd:P30033>Den fjerde dødssynd / Ingebjørg S. Folegrød -- Det farlige yrket / Lawrence Block -- En pistol fra eller til / Anne B. Ragde -- I det blå lyset / Karin Fossum -- Liket på loftet / Gunnar Staalesen -- Mannen fra i morgen / Tor Åge Bringsværd -- Mannen i telefonen / Tor Edvin Dahl -- Når du minst aner / Lijane Rodar -- Sjokk for lekto Lien / Richard Macker -- To alen av samme stykke / Fredrik Skagen -- Tranene / Mona Lyngar -- Vinduet tvers over gaten / Unni Lindell -- Vinneren / Kim Småge</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://example.org/8292496025/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/idetblålyset/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788202379070">
+      <rdamd:P30004>ISBN 9788202379070</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788202379070</rdaxd:P00018>
+      <rdfs:label>ISBN9788202379070</rdfs:label>
+      <rdamd:P30156>Årets påskekrim</rdamd:P30156>
+      <rdamd:P30142>13 kriminalnoveller fra spenningens mestere</rdamd:P30142>
+      <rdamd:P30117>Karin Fossum ... [et al.]</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen Damm, 2012</rdamd:P30111>
+      <rdamd:P30083>Cappelen Damm</rdamd:P30083>
+      <rdamd:P30011>2012</rdamd:P30011>
+      <rdamd:P30182>286 s.</rdamd:P30182>
+      <rdamd:P30106>Kaliber</rdamd:P30106>
+      <rdamd:P30137>På omslaget: Ditt sikreste kort i påskeferien</rdamd:P30137>
+      <rdamd:P30033>Den gale mannen i Firenze / Karin Fossum -- Den siste historien / Chris Tvedt -- Det nesten perfekte / Torkil Damhaug -- En faks fra evigheten / Jens Lapidus -- Et perfekt bankran / Gert Nygårdshaug -- Haikere / Kjell Ola Dahl -- Ingenting her, ingenting der / Knut Nærum -- Liket i myra / Tom Egeland -- Notene / John Ajvide Lindqvist -- Nøklene / Tor Edvin Dahl -- Pistolen på plenen / Hans Olav Lahlum -- Tatt av strømmen / Gunnar Staalesen -- Å drepe en sangfugl / Fredrik Skagen</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1049"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1007"/>
+      <rdamo:P30139 rdf:resource="http://example.org/åretspåskekrim/exp/nob/1020"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/dengalemannenifirenze/exp/nob/1020"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788202386535">
+      <rdamd:P30004>ISBN 9788202386535</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788202386535</rdaxd:P00018>
+      <rdfs:label>ISBN9788202386535</rdfs:label>
+      <rdamd:P30156>Årets påskekrim</rdamd:P30156>
+      <rdamd:P30142>13 kriminalnoveller fra spenningens mestere</rdamd:P30142>
+      <rdamd:P30117>Karin Fossum ... [et al.]</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen Damm, 2012</rdamd:P30111>
+      <rdamd:P30083>Cappelen Damm</rdamd:P30083>
+      <rdamd:P30011>2012</rdamd:P30011>
+      <rdamd:P30182>7 CD-er (8 t, 47 min), 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30137>Lest av Helge Winther-Larsen</rdamd:P30137>
+      <rdamd:P30137>På esken: Ditt sikreste kort i påskeferien</rdamd:P30137>
+      <rdamd:P30033>Den gale mannen i Firenze / Karin Fossum -- Den siste historien / Chris Tvedt -- Det nesten perfekte / Torkil Damhaug -- En faks fra evigheten / Jens Lapidus -- Et perfekt bankran / Gert Nygårdshaug -- Haikere / Kjell Ola Dahl -- Ingenting her, ingenting der / Knut Nærum -- Liket i myra / Tom Egeland -- Notene / John Ajvide Lindqvist -- Nøklene / Tor Edvin Dahl -- Pistolen på plenen / Hans Olav Lahlum -- Tatt av strømmen / Gunnar Staalesen -- Å drepe en sangfugl / Fredrik Skagen</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://example.org/åretspåskekrim/exp/nob/1013"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/dengalemannenifirenze/exp/nob/1013/2030682"/>
+   </rdac:C10007>
+   <rdac:C10007 rdf:about="http://example.org/isbn-9788202386689">
+      <rdamd:P30004>ISBN 9788202386689</rdamd:P30004>
+      <rdaxd:P00018>isbn-9788202386689</rdaxd:P00018>
+      <rdfs:label>ISBN9788202386689</rdfs:label>
+      <rdamd:P30156>Årets påskekrim</rdamd:P30156>
+      <rdamd:P30142>13 kriminalnoveller fra spenningens mestere</rdamd:P30142>
+      <rdamd:P30117>Karin Fossum ... [et al.]</rdamd:P30117>
+      <rdamd:P30088>[Oslo]</rdamd:P30088>
+      <rdamd:P30111>[Oslo] : Cappelen Damm, 2012</rdamd:P30111>
+      <rdamd:P30083>Cappelen Damm</rdamd:P30083>
+      <rdamd:P30011>2012</rdamd:P30011>
+      <rdamd:P30182>1 CD-MP3 (8 t, 47 min), 12 cm, i eske.</rdamd:P30182>
+      <rdamd:P30137>Lest av Helge Winther-Larsen</rdamd:P30137>
+      <rdamd:P30137>På esken: Ditt sikreste kort i påskeferien</rdamd:P30137>
+      <rdamd:P30033>Den gale mannen i Firenze / Karin Fossum -- Den siste historien / Chris Tvedt -- Det nesten perfekte / Torkil Damhaug -- En faks fra evigheten / Jens Lapidus -- Et perfekt bankran / Gert Nygårdshaug -- Haikere / Kjell Ola Dahl -- Ingenting her, ingenting der / Knut Nærum -- Liket i myra / Tom Egeland -- Notene / John Ajvide Lindqvist -- Nøklene / Tor Edvin Dahl -- Pistolen på plenen / Hans Olav Lahlum -- Tatt av strømmen / Gunnar Staalesen -- Å drepe en sangfugl / Fredrik Skagen</rdamd:P30033>
+      <rdamd:P30001 rdf:resource="http://rdaregistry.info/termList/RDACarrierType/1004"/>
+      <rdamd:P30002 rdf:resource="http://rdaregistry.info/termList/RDAMediaType/1001"/>
+      <rdamo:P30139 rdf:resource="http://example.org/åretspåskekrim/exp/nob/1013"/>
+      <rdamo:P30139 rdf:resource="http://viaf.org/viaf/120627630/dengalemannenifirenze/exp/nob/1013/2030682"/>
+   </rdac:C10007>
+   <skos:Concept rdf:about="http://id.loc.gov/vocabulary/iso639-2/nob">
+      <rdfs:label>nob</rdfs:label>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1004">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1004</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDACarrierType/1049">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDACarrierType/1049</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1013">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1013</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAContentType/1020">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAContentType/1020</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1001">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1001</skos:subjectIndicator>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://rdaregistry.info/termList/RDAMediaType/1007">
+      <skos:subjectIndicator>http://rdaregistry.info/termList/RDAMediaType/1007</skos:subjectIndicator>
+   </skos:Concept>
+</rdf:RDF>

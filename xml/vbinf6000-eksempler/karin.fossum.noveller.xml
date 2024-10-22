@@ -1,0 +1,1181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <!-- Når du minst aner (bok) -->
+    <record>
+        <leader>03277cam a2200697 c 4500</leader>
+        <controlfield tag="001">990403198734702202</controlfield>
+        <controlfield tag="005">20230303093041.0</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">150702s2004    no#|||||||||||000|1|nob| </controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8292496025</subfield>
+            <subfield code="q">h.</subfield>
+            <subfield code="c">Nkr 99.00</subfield>
+        </datafield>
+        <datafield tag="130" ind1="0" ind2="0">
+            <subfield code="a">Når du minst aner</subfield>
+            <subfield code="k">Novellesamling</subfield>
+            <subfield code="1">http://example.org/8292496025</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Når du minst aner</subfield>
+            <subfield code="c">redaktør: Ginni Schulstock Henriksen ; [Unni Lindell ... [et al.]]</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">2. utg.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Kristiansund]</subfield>
+            <subfield code="b">Kom forl.</subfield>
+            <subfield code="c">2004</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">125 s.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">tekst</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">uformidlet</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">bind</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">1. utg. 1998</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">På omslaget: 13 krimnoveller</subfield>
+        </datafield>
+        <datafield tag="505" ind1=" " ind2=" ">
+            <subfield code="a"> 
+                Den fjerde dødssynd / Ingebjørg S. Folegrød --
+                Det farlige yrket / Lawrence Block -- 
+                En pistol fra eller til / Anne B. Ragde -- 
+                I det blå lyset / Karin Fossum -- 
+                Liket på loftet / Gunnar Staalesen -- 
+                Mannen fra i morgen / Tor Åge Bringsværd -- 
+                Mannen i telefonen / Tor Edvin Dahl -- 
+                Når du minst aner / Lijane Rodar -- 
+                Sjokk for lekto Lien / Richard Macker -- 
+                To alen av samme stykke / Fredrik Skagen -- 
+                Tranene / Mona Lyngar -- 
+                Vinduet tvers over gaten / Unni Lindell -- 
+                Vinneren / Kim Småge</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2016-08-17</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">norsk</subfield>
+            <subfield code="a">litteratur</subfield>
+            <subfield code="a">antologier</subfield>
+            <subfield code="a">noveller</subfield>
+            <subfield code="a">kriminallitteratur</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Block, Lawrence</subfield>
+            <subfield code="d">1938-</subfield>
+            <subfield code="0">(NO-TrBIB)90172061</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Dahl, Tor Edvin</subfield>
+            <subfield code="d">1943-</subfield>
+            <subfield code="0">(NO-TrBIB)90053783</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Folgerød, Ingebjørg</subfield>
+            <subfield code="0">(NO-TrBIB)4023419</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="k">Novelle</subfield>
+            <subfield code="t">I det blå lyset</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/idetblålyset</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Henriksen, Ginni Schulstock</subfield>
+            <subfield code="e">red.</subfield>
+            <subfield code="0">(NO-TrBIB)90869425</subfield>
+            <subfield code="1">http://viaf.org/viaf/305058383</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10393</subfield>
+            <subfield code="8">0</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lindell, Unni</subfield>
+            <subfield code="d">1957-</subfield>
+            <subfield code="e">medarb.</subfield>
+            <subfield code="0">(NO-TrBIB)90214573</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Lyngar, Mona</subfield>
+            <subfield code="d">1944-</subfield>
+            <subfield code="0">(NO-TrBIB)90080625</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Macker, Richard</subfield>
+            <subfield code="d">1936-2024</subfield>
+            <subfield code="0">(NO-TrBIB)90132305</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Ragde, Anne B.</subfield>
+            <subfield code="d">1957-</subfield>
+            <subfield code="0">(NO-TrBIB)90097114</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Rodar, Lijane</subfield>
+            <subfield code="0">(NO-TrBIB)4023420</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Skagen, Fredrik</subfield>
+            <subfield code="d">1936-2017</subfield>
+            <subfield code="0">(NO-TrBIB)90067553</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Småge, Kim</subfield>
+            <subfield code="d">1945-</subfield>
+            <subfield code="0">(NO-TrBIB)90084859</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Staalesen, Gunnar</subfield>
+            <subfield code="d">1947-</subfield>
+            <subfield code="0">(NO-TrBIB)90087965</subfield>
+        </datafield>
+    </record>
+    <!-- Sov i ro (lydbok) -->
+    <record>
+        <leader>01266cim a2200325 c 4500</leader>
+        <controlfield tag="001">990415974004702202</controlfield>
+        <controlfield tag="005">20110826164444.0</controlfield>
+        <controlfield tag="007">sd f||||||||||</controlfield>
+        <controlfield tag="008">110826s2004    xx#|||| ||||||||||||nob| </controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8242115311</subfield>
+        </datafield>
+        <!--<datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Lindell, Unni</subfield>
+            <subfield code="d">1957-</subfield>
+            <subfield code="0">(NO-TrBIB)90214573</subfield>
+        </datafield>-->
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Utvalgte krimnoveller</subfield>
+            <subfield code="k">Novellesamling</subfield>
+            <subfield code="1">http://example.org/soviromåttefandentadeg</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Sov i ro</subfield>
+            <subfield code="c">Unni Lindell ; lest av Nils Nordberg. Måtte Fanden ta deg!/ Karin Fossum ; lest av Gisken Armand</subfield>
+            <subfield code="h">[lydopptak]</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Melhus]</subfield>
+            <subfield code="b">Lydbokforl.</subfield>
+            <subfield code="c">2004</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 plate (CD)(1 t, 12 min)</subfield>
+            <subfield code="b">digital</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">spoken word</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1013</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">audio</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1001</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">audio disc</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1004</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Bilag til: KK, 2004 nr 26</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Tittel på emballasjen: Utvalgte krimnoveller</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Nordberg, Nils</subfield>
+            <subfield code="d">1942-</subfield>
+            <subfield code="0">(NO-TrBIB)90174225</subfield>
+            <subfield code="1">http://bare.no/90174225</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20022</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="0">
+            <subfield code="a">Lindell, Unni</subfield>
+            <subfield code="d">1957-</subfield>
+            <subfield code="0">(NO-TrBIB)90214573</subfield>
+            <subfield code="1">http://bare.no/90214573</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Lindell, Unni</subfield>
+            <subfield code="d">1957-</subfield>
+            <subfield code="t">Sov i ro</subfield>
+            <subfield code="0">http://bare.no/90214573/soviro</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Armand, Gisken</subfield>
+            <subfield code="d">1962-</subfield>
+            <subfield code="0">(NO-TrBIB)98012201</subfield>
+            <subfield code="1">http://bare.no/98012201</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20022</subfield>
+            <subfield code="8">2</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+            <subfield code="8">2</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="t">Måtte fanden ta deg!</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/måttefandentadeg</subfield>
+            <subfield code="8">2</subfield>
+        </datafield>
+        <datafield tag="740" ind1="0" ind2=" ">
+            <subfield code="a">Utvalgte krimnoveller</subfield>
+        </datafield>
+    </record>
+    <!-- Noveller i utvalg (bok) -->
+    <record>
+        <leader>02284cam a2200529 c 4500</leader>
+        <controlfield tag="001">990422880294702202</controlfield>
+        <controlfield tag="005">20230308122656.0</controlfield>
+        <controlfield tag="007">cr||||||||||||</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">150901s2004    no#||||| |||||000|j|nob| </controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8202243211</subfield>
+            <subfield code="q">h.</subfield>
+            <subfield code="c">Nkr 249.00</subfield>
+        </datafield>
+        <!--<datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>-->
+        <datafield tag="130" ind1="0" ind2="1">
+            <subfield code="a">Noveller i utvalg</subfield>
+            <subfield code="k">Noveller</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/novelleriutvalg</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Noveller i utvalg</subfield>
+            <subfield code="c">Karin Fossum</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Oslo]</subfield>
+            <subfield code="b">Cappelen</subfield>
+            <subfield code="c">2004</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">151 s.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">tekst</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">uformidlet</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">bind</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Hentet fra samlingene I et annet lys og Søylen, henholdsvis 1992 og 1994</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2014-05-19</subfield>
+        </datafield>
+        <datafield tag="505" ind1=" " ind2=" ">
+            <subfield code="a">Det vidunderlive livet -- Grisehalen -- Guds ytterste nåde -- I et annet lys -- 
+                               I virvelens makt -- Ingen ting varer for bestandig -- Ingevald og jeg -- Insektet -- 
+                               Nancy -- Signaler -- Sytten minus -- Sønnesønnen -- Søylen -- Utenfor synsfeltet</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="t">Det vidunderlige livet</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/ietannetlys/detvidunderligelivet</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="t">Grisehalen</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/søylen/grisehalen</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="t">Guds ytterste nåde</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/ietannetlys/gudsytterstenåde</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="t">I et annet lys</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/ietannetlys/ietannetlys</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="t">I virvelens makt</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/ietannetlys/ivirvelensmakt</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="t">Ingen ting varer for bestandig</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/søylen/ingentingvarerforbestandig</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="t">Ingevald og jeg</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/søylen/ingebaldogjeg</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="t">Insektet</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/søylen/insektet</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="t">Nancy</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/søylen/nancy</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="t">Signaler</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/ietannetlys/signaler</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="t">Sytten minus</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/søylen/syttenminus</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="t">Sønnesønnen</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/søylen/sønnesønnen</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="t">Søylen</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/søylen/søylen</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="t">Utenfor synsfeltet</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/ietannetlys/utenforsynsfeltet</subfield>
+        </datafield>
+        <!--
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="t">En gnist i mørket</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/ietannetlys/engnistimørket</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="t">Jentungen</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/søylen/jentungen</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="t">Vi som skal styre verden</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/søylen/visomskalstyreverden</subfield>
+        </datafield>-->
+    </record>
+    <!-- Årets påskekrim (bok) -->
+    <record>
+        <leader>02475cam a2200553 c 4500</leader>
+        <controlfield tag="001">991204223014702202</controlfield>
+        <controlfield tag="005">20230309120344.0</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">150317s2012    no#|||||||||||000|j|nob| </controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9788202379070</subfield>
+            <subfield code="q">h.</subfield>
+            <subfield code="c">Nkr 129.00</subfield>
+        </datafield>
+        <datafield tag="083" ind1="7" ind2=" ">
+            <subfield code="a">839.823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">5/nor</subfield>
+        </datafield>
+        <datafield tag="130" ind1="0" ind2="0">
+            <subfield code="a">Årets påskekrim</subfield>
+            <subfield code="k">Novellesamling</subfield>
+            <subfield code="1">http://example.org/åretspåskekrim</subfield>
+        </datafield>
+        <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Årets påskekrim :</subfield>
+            <subfield code="b">13 kriminalnoveller fra spenningens mestere</subfield>
+            <subfield code="c">Karin Fossum ... [et al.]</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Oslo]</subfield>
+            <subfield code="b">Cappelen Damm</subfield>
+            <subfield code="c">2012</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">286 s.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">tekst</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">uformidlet</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">bind</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">Kaliber</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">På omslaget: Ditt sikreste kort i påskeferien</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2021-02-26</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="e">medarb.</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="k">Novelle</subfield>
+            <subfield code="t">Den gale mannen i Firenze</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/dengalemannenifirenze</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Kaliber</subfield>
+        </datafield>
+        <datafield tag="505" ind1=" " ind2="0">
+            <subfield code="a">Den gale mannen i Firenze / Karin Fossum --
+                Den siste historien / Chris Tvedt --
+                Det nesten perfekte / Torkil Damhaug --
+                En faks fra evigheten / Jens Lapidus --
+                Et perfekt bankran / Gert Nygårdshaug --
+                Haikere / Kjell Ola Dahl --
+                Ingenting her, ingenting der / Knut Nærum --
+                Liket i myra / Tom Egeland --
+                Notene / John Ajvide Lindqvist --
+                Nøklene / Tor Edvin Dahl --
+                Pistolen på plenen / Hans Olav Lahlum --
+                Tatt av strømmen / Gunnar Staalesen --
+                Å drepe en sangfugl / Fredrik Skagen</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>02475cam a2200553 c 4500</leader>
+        <controlfield tag="001">991204223014702202</controlfield>
+        <controlfield tag="005">20230309120344.0</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">150317s2012    no#|||||||||||000|j|nob| </controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9788202379070</subfield>
+            <subfield code="q">h.</subfield>
+            <subfield code="c">Nkr 129.00</subfield>
+        </datafield>
+        <datafield tag="083" ind1="7" ind2=" ">
+            <subfield code="a">839.823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">5/nor</subfield>
+        </datafield>
+        <datafield tag="130" ind1="0" ind2="0">
+            <subfield code="a">Årets påskekrim</subfield>
+            <subfield code="k">Novellesamling</subfield>
+            <subfield code="1">http://example.org/åretspåskekrim</subfield>
+        </datafield>
+        <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Årets påskekrim :</subfield>
+            <subfield code="b">13 kriminalnoveller fra spenningens mestere</subfield>
+            <subfield code="c">Karin Fossum ... [et al.]</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Oslo]</subfield>
+            <subfield code="b">Cappelen Damm</subfield>
+            <subfield code="c">2012</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">286 s.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">tekst</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">uformidlet</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">bind</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
+        <datafield tag="490" ind1="1" ind2=" ">
+            <subfield code="a">Kaliber</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">På omslaget: Ditt sikreste kort i påskeferien</subfield>
+        </datafield>
+        <datafield tag="505" ind1=" " ind2="0">
+            <subfield code="a">Den gale mannen i Firenze / Karin Fossum --
+                Den siste historien / Chris Tvedt --
+                Det nesten perfekte / Torkil Damhaug --
+                En faks fra evigheten / Jens Lapidus --
+                Et perfekt bankran / Gert Nygårdshaug --
+                Haikere / Kjell Ola Dahl --
+                Ingenting her, ingenting der / Knut Nærum --
+                Liket i myra / Tom Egeland --
+                Notene / John Ajvide Lindqvist --
+                Nøklene / Tor Edvin Dahl --
+                Pistolen på plenen / Hans Olav Lahlum --
+                Tatt av strømmen / Gunnar Staalesen --
+                Å drepe en sangfugl / Fredrik Skagen</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2021-02-26</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="e">medarb.</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="k">Novelle</subfield>
+            <subfield code="t">Den gale mannen i Firenze</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/dengalemannenifirenze</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="830" ind1=" " ind2="0">
+            <subfield code="a">Kaliber</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>02299cim a2200505 c 4500</leader>
+        <controlfield tag="001">991209068134702202</controlfield>
+        <controlfield tag="005">20230313131509.0</controlfield>
+        <controlfield tag="007">sd f||||||||||</controlfield>
+        <controlfield tag="008">121012s2012    no#|||| |||||||f#|||nob| </controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9788202386535</subfield>
+            <subfield code="c">Nkr 299.00</subfield>
+        </datafield>
+        <datafield tag="083" ind1="7" ind2=" ">
+            <subfield code="a">839.823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">5/nor</subfield>
+        </datafield>
+        <datafield tag="130" ind1="0" ind2="0">
+            <subfield code="a">Årets påskekrim</subfield>
+            <subfield code="k">Novellesamling</subfield>
+            <subfield code="1">http://example.org/åretspåskekrim</subfield>
+        </datafield>
+        <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Årets påskekrim :</subfield>
+            <subfield code="b">13 kriminalnoveller fra spenningens mestere</subfield>
+            <subfield code="c">Karin Fossum ... [et al.]</subfield>
+            <subfield code="h">[lydopptak]</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Oslo]</subfield>
+            <subfield code="b">Cappelen Damm</subfield>
+            <subfield code="c">2012</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">7 CD-er (8 t, 47 min)</subfield>
+            <subfield code="c">12 cm, i eske</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">spoken word</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1013</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">audio</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1001</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">audio disc</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1004</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Lest av Helge Winther-Larsen</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">På esken: Ditt sikreste kort i påskeferien</subfield>
+        </datafield>
+        <datafield tag="505" ind1=" " ind2="0">
+            <subfield code="a">Den gale mannen i Firenze / Karin Fossum --
+                Den siste historien / Chris Tvedt --
+                Det nesten perfekte / Torkil Damhaug --
+                En faks fra evigheten / Jens Lapidus --
+                Et perfekt bankran / Gert Nygårdshaug --
+                Haikere / Kjell Ola Dahl --
+                Ingenting her, ingenting der / Knut Nærum --
+                Liket i myra / Tom Egeland --
+                Notene / John Ajvide Lindqvist --
+                Nøklene / Tor Edvin Dahl --
+                Pistolen på plenen / Hans Olav Lahlum --
+                Tatt av strømmen / Gunnar Staalesen --
+                Å drepe en sangfugl / Fredrik Skagen</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="e">medarb.</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="k">Novelle</subfield>
+            <subfield code="t">Den gale mannen i Firenze</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/dengalemannenifirenze</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Winther-Larsen, Helge</subfield>
+            <subfield code="d">1953-</subfield>
+            <subfield code="e">medarb.</subfield>
+            <subfield code="0">(NO-TrBIB)2030682</subfield>
+            <subfield code="1">http://bare.no/2030682</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20022</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>02264cim a2200493 c 4500</leader>
+        <controlfield tag="001">991213204804702202</controlfield>
+        <controlfield tag="005">20230315134129.0</controlfield>
+        <controlfield tag="007">sd f||||||||||</controlfield>
+        <controlfield tag="008">120525s2012    no#|||| |||||||f#|||nob| </controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9788202386689</subfield>
+            <subfield code="c">Nkr 299.00</subfield>
+        </datafield>
+        <datafield tag="083" ind1="7" ind2=" ">
+            <subfield code="a">839.823</subfield>
+            <subfield code="q">NO-OsNB</subfield>
+            <subfield code="2">5/nor</subfield>
+        </datafield>
+        <datafield tag="130" ind1="0" ind2="0">
+            <subfield code="a">Årets påskekrim</subfield>
+            <subfield code="k">Novellesamling</subfield>
+            <subfield code="1">http://example.org/åretspåskekrim</subfield>
+        </datafield>
+        <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Årets påskekrim :</subfield>
+            <subfield code="b">13 kriminalnoveller fra spenningens mestere</subfield>
+            <subfield code="c">Karin Fossum ... [et al.]</subfield>
+            <subfield code="h">[lydopptak]</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Oslo]</subfield>
+            <subfield code="b">Cappelen Damm</subfield>
+            <subfield code="c">2012</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 CD-MP3 (8 t, 47 min)</subfield>
+            <subfield code="c">12 cm, i eske</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">spoken word</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1013</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">audio</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1001</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">audio disc</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1004</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Lest av Helge Winther-Larsen</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">På esken: Ditt sikreste kort i påskeferien</subfield>
+        </datafield>
+        <datafield tag="505" ind1=" " ind2="0">
+            <subfield code="a">Den gale mannen i Firenze / Karin Fossum --
+                Den siste historien / Chris Tvedt --
+                Det nesten perfekte / Torkil Damhaug --
+                En faks fra evigheten / Jens Lapidus --
+                Et perfekt bankran / Gert Nygårdshaug --
+                Haikere / Kjell Ola Dahl --
+                Ingenting her, ingenting der / Knut Nærum --
+                Liket i myra / Tom Egeland --
+                Notene / John Ajvide Lindqvist --
+                Nøklene / Tor Edvin Dahl --
+                Pistolen på plenen / Hans Olav Lahlum --
+                Tatt av strømmen / Gunnar Staalesen --
+                Å drepe en sangfugl / Fredrik Skagen</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="k">Novelle</subfield>
+            <subfield code="t">Den gale mannen i Firenze</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/dengalemannenifirenze</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Winther-Larsen, Helge</subfield>
+            <subfield code="d">1953-</subfield>
+            <subfield code="e">medarb.</subfield>
+            <subfield code="0">(NO-TrBIB)2030682</subfield>
+            <subfield code="1">http://bare.no/2030682</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/e/object/P20022</subfield>
+            <subfield code="8">1</subfield>
+        </datafield>
+    </record>
+    <!-- I et annet lys -->
+    <record>
+        <leader>02122cam a2200529 c 4500</leader>
+        <controlfield tag="001">999214155834702202</controlfield>
+        <controlfield tag="005">20231202055436.0</controlfield>
+        <controlfield tag="007">cr||||||||||||</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">141120s1992    no#||||| |||||000|1|nob|d</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8202137276</subfield>
+            <subfield code="q">ib.</subfield>
+            <subfield code="c">Nkr 198.00</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="1">
+            <subfield code="a">I et annet lys</subfield>
+            <subfield code="k">Novellesamling</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/ietannetlys</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">I et annet lys :</subfield>
+            <subfield code="b">noveller</subfield>
+            <subfield code="c">Karin Fossum</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Oslo]</subfield>
+            <subfield code="b">Cappelen</subfield>
+            <subfield code="c">1992</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">105 s.</subfield>
+            <subfield code="c">22 cm</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">tekst</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">uformidlet</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">bind</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
+        <datafield tag="505" ind1=" " ind2=" ">
+            <subfield code="a">Det vidunderlige livet -- En gnist i mørket -- Guds ytterste nåde -- I et annet lys -- I virvelens makt -- Signaler -- Utenfor synsfeltet</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2007-09-17</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">skjønnlitteratur/voksen</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="k">Novelle</subfield>
+            <subfield code="t">Det vidunderlige livet</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/ietannetlys/detvidunderligelivet</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="k">Novelle</subfield>
+            <subfield code="t">En gnist i mørket</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/ietannetlys/engnistimørket</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="k">Novelle</subfield>
+            <subfield code="t">Guds ytterste nåde</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/ietannetlys/gudsytterstenåde</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="k">Novelle</subfield>
+            <subfield code="t">I et annet lys</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/ietannetlys/ietannetlys</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="k">Novelle</subfield>
+            <subfield code="t">I virvelens makt</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/ietannetlys/ivirvelensmakt</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="k">Novelle</subfield>
+            <subfield code="t">Signaler</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/ietannetlys/signaler</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="k">Novelle</subfield>
+            <subfield code="t">Utenfor synsfeltet</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/ietannetlys/utenforsynsfeltet</subfield>
+        </datafield>
+    </record>
+    <!-- Søylen -->
+    <record>
+        <leader>01877cam a2200493 c 4500</leader>
+        <controlfield tag="001">999424013014702202</controlfield>
+        <controlfield tag="005">20231203055249.0</controlfield>
+        <controlfield tag="007">cr||||||||||||</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">150605s1994    no#||||| |||||000|1|nob| </controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8202147921</subfield>
+            <subfield code="q">ib.</subfield>
+            <subfield code="c">Nkr 198.00</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630</subfield>
+            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="1">
+            <subfield code="a">Søylen</subfield>
+            <subfield code="k">Novellesamling</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/søylen</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Søylen :</subfield>
+            <subfield code="b">noveller</subfield>
+            <subfield code="c">Karin Fossum</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Oslo]</subfield>
+            <subfield code="b">Cappelen</subfield>
+            <subfield code="c">1994</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">112 s.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">tekst</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">uformidlet</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">bind</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2008-02-08</subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">skjønnlitteratur/voksen</subfield>
+        </datafield>
+        <datafield tag="505" ind1=" " ind2=" ">
+            <subfield code="a">Grisehalen -- Ingen ting varer for bestandig -- Ingevald og jeg -- Insektet -- 
+                               Jentungen -- Nancy -- Sytten minus -- Sønnesønnen -- Søylen -- Vi som skal styre verden</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="k">Novelle</subfield>
+            <subfield code="t">Grisehalen</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/søylen/grisehalen</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="k">Novelle</subfield>
+            <subfield code="t">Ingen ting varer for bestandig</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/søylen/ingentingvarerforbestandig</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="k">Novelle</subfield>
+            <subfield code="t">Ingevald og jeg</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/søylen/ingebaldogjeg</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="k">Novelle</subfield>
+            <subfield code="t">Insektet</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/søylen/insektet</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="k">Novelle</subfield>
+            <subfield code="t">Jentungen</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/søylen/jentungen</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="k">Novelle</subfield>
+            <subfield code="t">Nancy</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/søylen/nancy</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="k">Novelle</subfield>
+            <subfield code="t">Sytten minus</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/søylen/syttenminus</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="k">Novelle</subfield>
+            <subfield code="t">Sønnesønnen</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/søylen/sønnesønnen</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="k">Novelle</subfield>
+            <subfield code="t">Søylen</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/søylen/søylen</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="k">Novelle</subfield>
+            <subfield code="t">Vi som skal styre verden</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/søylen/visomskalstyreverden</subfield>
+        </datafield>
+    </record>
+    <!-- Noveller -->
+    <record>
+        <leader>01911cam a2200481 c 4500</leader>
+        <controlfield tag="001">999431948904702202</controlfield>
+        <controlfield tag="005">20230331101658.0</controlfield>
+        <controlfield tag="007">cr||||||||||||</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">140315s1994    no#||||| |||||000|1|nob| </controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">8202152259</subfield>
+            <subfield code="q">h.</subfield>
+        </datafield>
+        <datafield tag="130" ind1="0" ind2="0">
+            <subfield code="a">Noveller</subfield>
+            <subfield code="k">Novellesamling</subfield>
+            <subfield code="1">http://example.org/8202152259</subfield>
+        </datafield>
+        <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Noveller</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">[Oslo]</subfield>
+            <subfield code="b">Cappelen</subfield>
+            <subfield code="c">1994</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">69 s.</subfield>
+            <subfield code="b">ill.</subfield>
+        </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+            <subfield code="a">tekst</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
+            <subfield code="2">rdaco</subfield>
+        </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+            <subfield code="a">uformidlet</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
+            <subfield code="2">rdamt</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">bind</subfield>
+            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
+            <subfield code="2">rdact</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Skallene / Ingvar Ambjørnsen. Søylen / Karin Fossum. Fødselen / Nils Horvei. Oversettelsen / Roy Jacobsen</subfield>
+        </datafield>
+        <datafield tag="533" ind1=" " ind2=" ">
+            <subfield code="a">Elektronisk reproduksjon</subfield>
+            <subfield code="b">[Norge]</subfield>
+            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
+            <subfield code="d">2015-11-05</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Ambjørnsen, Ingvar</subfield>
+            <subfield code="d">1956-</subfield>
+            <subfield code="t">Skallene</subfield>
+            <subfield code="0">(NO-TrBIB)90091643</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="t">Søylen</subfield>
+            <subfield code="1">http://viaf.org/viaf/120627630/søylen/søylen</subfield>
+        </datafield>
+        <!--<datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Fossum, Karin</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="t">Søylen</subfield>
+            <subfield code="0">(NO-TrBIB)90608300</subfield>
+        </datafield>-->
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Horvei, Nils</subfield>
+            <subfield code="d">1956-</subfield>
+            <subfield code="t">Fødselen</subfield>
+            <subfield code="0">(NO-TrBIB)90396484</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+            <subfield code="a">Jacobsen, Roy</subfield>
+            <subfield code="d">1954-</subfield>
+            <subfield code="t">Oversettelsen</subfield>
+            <subfield code="0">(NO-TrBIB)90114443</subfield>
+        </datafield>
+    </record>
+</collection>

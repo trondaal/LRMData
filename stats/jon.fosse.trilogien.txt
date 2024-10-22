@@ -74,7 +74,7 @@ Verk identifisert med URI
 * http://example.org/krimromanfrajonfosse = Krimroman fra Jon Fosse 
 * http://example.org/svævetsestetikk = Svævets æstetik 
 * http://viaf.org/viaf/1062164661877003390007 = Trilogien 
-* http://viaf.org/viaf/1062164661877003390007/dramatisering = Trilogien : dramatisering 
+* http://viaf.org/viaf/1062164661877003390007/dramatisering = Trilogien 
 * http://viaf.org/viaf/1535159478113827990002 = Olavs draumar 
 * http://viaf.org/viaf/1535159478113827990002/musikk = Olavs draumar 
 * http://viaf.org/viaf/308067563 = Naustet 
@@ -105,7 +105,7 @@ Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke an
 -------------------------------------------------------
 001 = 991127771554702202, Andvake i eit klasserom / Vederhus, Inger /  
 * http://rdaregistry.info/Elements/w/P10257 (has subject work) -> Andvake / Fosse, Jon (600)
-001 = 999920016180402202, Trilogien : dramatisering / Fosse, Jon /  
+001 = 999920016180402202, Trilogien / Fosse, Jon /  
 * http://rdaregistry.info/Elements/w/object/P10127 (is dramatization of work) -> Trilogien / Fosse, Jon (700)
 001 = 999920062186902202, Jon Fosse i skulen /  
 * http://rdaregistry.info/Elements/w/object/P10319 (has subject agent) -> Fosse, Jon (600)

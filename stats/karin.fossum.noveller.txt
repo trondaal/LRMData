@@ -1,0 +1,86 @@
+
+
+VBINF6000 rapport over datasamling - oppdatert 24/10 2023
+-------------------------------------------------------
+
+
+Antall poster i samlingen:10
+-------------------------------------------------------
+
+
+Agenter identifisert med URI
+-------------------------------------------------------
+* http://bare.no/98012201 (700) : Armand, Gisken
+* http://viaf.org/viaf/120627630 (700, 100) : Fossum, Karin
+* http://viaf.org/viaf/305058383 (700) : Henriksen, Ginni Schulstock
+* http://bare.no/90214573 (700) : Lindell, Unni
+* http://bare.no/90174225 (700) : Nordberg, Nils
+* http://bare.no/2030682 (700) : Winther-Larsen, Helge
+
+
+Agent-innførsler som IKKE er identifiser med URI i $1
+men dere velger selv hvilke agenter som skal være med
+-------------------------------------------------------
+* 700  1#  $aBlock, Lawrence  $d1938-  $0(NO-TrBIB)90172061
+* 700  1#  $aDahl, Tor Edvin  $d1943-  $0(NO-TrBIB)90053783
+* 700  1#  $aFolgerød, Ingebjørg  $0(NO-TrBIB)4023419
+* 700  1#  $aFossum, Karin  $d1954-  $emedarb.  $0(NO-TrBIB)90608300
+* 700  1#  $aFossum, Karin  $d1954-  $emedarb.  $0(NO-TrBIB)90608300
+* 700  1#  $aFossum, Karin  $d1954-  $emedarb.  $0(NO-TrBIB)90608300
+* 700  1#  $aLindell, Unni  $d1957-  $emedarb.  $0(NO-TrBIB)90214573
+* 700  1#  $aLyngar, Mona  $d1944-  $0(NO-TrBIB)90080625
+* 700  1#  $aMacker, Richard  $d1936-2024  $0(NO-TrBIB)90132305
+* 700  1#  $aRagde, Anne B.  $d1957-  $0(NO-TrBIB)90097114
+* 700  1#  $aRodar, Lijane  $0(NO-TrBIB)4023420
+* 700  1#  $aSkagen, Fredrik  $d1936-2017  $0(NO-TrBIB)90067553
+* 700  1#  $aSmåge, Kim  $d1945-  $0(NO-TrBIB)90084859
+* 700  1#  $aStaalesen, Gunnar  $d1947-  $0(NO-TrBIB)90087965
+
+
+Verk identifisert med URI
+-------------------------------------------------------
+* http://example.org/8202152259 = Noveller 
+* http://example.org/8292496025 = Når du minst aner 
+* http://example.org/soviromåttefandentadeg = Utvalgte krimnoveller 
+* http://example.org/åretspåskekrim = Årets påskekrim 
+* http://viaf.org/viaf/120627630/dengalemannenifirenze = Den gale mannen i Firenze 
+* http://viaf.org/viaf/120627630/idetblålyset = I det blå lyset 
+* http://viaf.org/viaf/120627630/ietannetlys = I et annet lys 
+* http://viaf.org/viaf/120627630/ietannetlys/detvidunderligelivet = Det vidunderlige livet 
+* http://viaf.org/viaf/120627630/ietannetlys/engnistimørket = En gnist i mørket 
+* http://viaf.org/viaf/120627630/ietannetlys/gudsytterstenåde = Guds ytterste nåde 
+* http://viaf.org/viaf/120627630/ietannetlys/ietannetlys = I et annet lys 
+* http://viaf.org/viaf/120627630/ietannetlys/ivirvelensmakt = I virvelens makt 
+* http://viaf.org/viaf/120627630/ietannetlys/signaler = Signaler 
+* http://viaf.org/viaf/120627630/ietannetlys/utenforsynsfeltet = Utenfor synsfeltet 
+* http://viaf.org/viaf/120627630/måttefandentadeg = Måtte fanden ta deg! 
+* http://viaf.org/viaf/120627630/novelleriutvalg = Noveller i utvalg 
+* http://viaf.org/viaf/120627630/søylen = Søylen 
+* http://viaf.org/viaf/120627630/søylen/grisehalen = Grisehalen 
+* http://viaf.org/viaf/120627630/søylen/ingebaldogjeg = Ingevald og jeg 
+* http://viaf.org/viaf/120627630/søylen/ingentingvarerforbestandig = Ingen ting varer for bestandig 
+* http://viaf.org/viaf/120627630/søylen/insektet = Insektet 
+* http://viaf.org/viaf/120627630/søylen/jentungen = Jentungen 
+* http://viaf.org/viaf/120627630/søylen/nancy = Nancy 
+* http://viaf.org/viaf/120627630/søylen/syttenminus = Sytten minus 
+* http://viaf.org/viaf/120627630/søylen/sønnesønnen = Sønnesønnen 
+* http://viaf.org/viaf/120627630/søylen/søylen = Søylen 
+* http://viaf.org/viaf/120627630/søylen/visomskalstyreverden = Vi som skal styre verden 
+
+
+Oversikt over URI relasjonstyper for Agent brukt i samlingen
+verdier som starter på http - sjekker feltene 100, 110, 111, 700, 710, 711
+-------------------------------------------------------
+* http://rdaregistry.info/Elements/e/object/P20022 (has narrator agent) : 4 
+* http://rdaregistry.info/Elements/w/object/P10061 (has author agent) : 9 
+* http://rdaregistry.info/Elements/w/object/P10393 (has aggregator agent) : 1 
+
+
+Verk til verk RDA relasjonstyper i 700 og 758 $4-subfelt + label fra RDA registry
+-------------------------------------------------------
+Ser ut som dere mangler verk-til-verk relasjoner? 
+
+
+Lister alle verk til verk relasjoner i samlingen, inkl emne, serier (men ikke analytter)
+-------------------------------------------------------
+Ser ut som dere mangler slike relasjoner? 
