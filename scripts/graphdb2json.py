@@ -2,7 +2,6 @@ import os
 import json
 from SPARQLWrapper import SPARQLWrapper, JSON
 
-
 def query_graphdb(sparql_endpoint, query):
     sparql = SPARQLWrapper(sparql_endpoint)
     sparql.setQuery(query)

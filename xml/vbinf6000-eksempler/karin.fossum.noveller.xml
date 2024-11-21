@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<collection xmlns="http://www.loc.gov/MARC21/slim"
-            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-            xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<collection xmlns="http://www.loc.gov/MARC21/slim">
     <!-- Når du minst aner (bok) -->
     <record>
         <leader>03277cam a2200697 c 4500</leader>
@@ -540,109 +538,6 @@
                 Pistolen på plenen / Hans Olav Lahlum --
                 Tatt av strømmen / Gunnar Staalesen --
                 Å drepe en sangfugl / Fredrik Skagen</subfield>
-        </datafield>
-    </record>
-    <record>
-        <leader>02475cam a2200553 c 4500</leader>
-        <controlfield tag="001">991204223014702202</controlfield>
-        <controlfield tag="005">20230309120344.0</controlfield>
-        <controlfield tag="007">ta</controlfield>
-        <controlfield tag="008">150317s2012    no#|||||||||||000|j|nob| </controlfield>
-        <datafield tag="020" ind1=" " ind2=" ">
-            <subfield code="a">9788202379070</subfield>
-            <subfield code="q">h.</subfield>
-            <subfield code="c">Nkr 129.00</subfield>
-        </datafield>
-        <datafield tag="083" ind1="7" ind2=" ">
-            <subfield code="a">839.823</subfield>
-            <subfield code="q">NO-OsNB</subfield>
-            <subfield code="2">5/nor</subfield>
-        </datafield>
-        <datafield tag="130" ind1="0" ind2="0">
-            <subfield code="a">Årets påskekrim</subfield>
-            <subfield code="k">Novellesamling</subfield>
-            <subfield code="1">http://example.org/åretspåskekrim</subfield>
-        </datafield>
-        <datafield tag="245" ind1="0" ind2="0">
-            <subfield code="a">Årets påskekrim :</subfield>
-            <subfield code="b">13 kriminalnoveller fra spenningens mestere</subfield>
-            <subfield code="c">Karin Fossum ... [et al.]</subfield>
-        </datafield>
-        <datafield tag="260" ind1=" " ind2=" ">
-            <subfield code="a">[Oslo]</subfield>
-            <subfield code="b">Cappelen Damm</subfield>
-            <subfield code="c">2012</subfield>
-        </datafield>
-        <datafield tag="300" ind1=" " ind2=" ">
-            <subfield code="a">286 s.</subfield>
-        </datafield>
-        <datafield tag="336" ind1=" " ind2=" ">
-            <subfield code="a">tekst</subfield>
-            <subfield code="0">http://rdaregistry.info/termList/RDAContentType/1020</subfield>
-            <subfield code="2">rdaco</subfield>
-        </datafield>
-        <datafield tag="337" ind1=" " ind2=" ">
-            <subfield code="a">uformidlet</subfield>
-            <subfield code="0">http://rdaregistry.info/termList/RDAMediaType/1007</subfield>
-            <subfield code="2">rdamt</subfield>
-        </datafield>
-        <datafield tag="338" ind1=" " ind2=" ">
-            <subfield code="a">bind</subfield>
-            <subfield code="0">http://rdaregistry.info/termList/RDACarrierType/1049</subfield>
-            <subfield code="2">rdact</subfield>
-        </datafield>
-        <datafield tag="490" ind1="1" ind2=" ">
-            <subfield code="a">Kaliber</subfield>
-        </datafield>
-        <datafield tag="500" ind1=" " ind2=" ">
-            <subfield code="a">På omslaget: Ditt sikreste kort i påskeferien</subfield>
-        </datafield>
-        <datafield tag="505" ind1=" " ind2="0">
-            <subfield code="a">Den gale mannen i Firenze / Karin Fossum --
-                Den siste historien / Chris Tvedt --
-                Det nesten perfekte / Torkil Damhaug --
-                En faks fra evigheten / Jens Lapidus --
-                Et perfekt bankran / Gert Nygårdshaug --
-                Haikere / Kjell Ola Dahl --
-                Ingenting her, ingenting der / Knut Nærum --
-                Liket i myra / Tom Egeland --
-                Notene / John Ajvide Lindqvist --
-                Nøklene / Tor Edvin Dahl --
-                Pistolen på plenen / Hans Olav Lahlum --
-                Tatt av strømmen / Gunnar Staalesen --
-                Å drepe en sangfugl / Fredrik Skagen</subfield>
-        </datafield>
-        <datafield tag="533" ind1=" " ind2=" ">
-            <subfield code="a">Elektronisk reproduksjon</subfield>
-            <subfield code="b">[Norge]</subfield>
-            <subfield code="c">Nasjonalbiblioteket Digital</subfield>
-            <subfield code="d">2021-02-26</subfield>
-        </datafield>
-        <datafield tag="700" ind1="1" ind2=" ">
-            <subfield code="a">Fossum, Karin</subfield>
-            <subfield code="d">1954-</subfield>
-            <subfield code="e">medarb.</subfield>
-            <subfield code="0">(NO-TrBIB)90608300</subfield>
-        </datafield>
-        <datafield tag="700" ind1="1" ind2=" ">
-            <subfield code="a">Fossum, Karin</subfield>
-            <subfield code="d">1954-</subfield>
-            <subfield code="0">(NO-TrBIB)90608300</subfield>
-            <subfield code="1">http://viaf.org/viaf/120627630</subfield>
-            <subfield code="4">http://rdaregistry.info/Elements/w/object/P10061</subfield>
-            <subfield code="8">1</subfield>
-        </datafield>
-        <datafield tag="700" ind1="1" ind2="2">
-            <subfield code="a">Fossum, Karin</subfield>
-            <subfield code="d">1954-</subfield>
-            <subfield code="k">Novelle</subfield>
-            <subfield code="t">Den gale mannen i Firenze</subfield>
-            <subfield code="0">(NO-TrBIB)90608300</subfield>
-            <subfield code="1">http://viaf.org/viaf/120627630/dengalemannenifirenze</subfield>
-            <subfield code="8">1</subfield>
-        </datafield>
-        <datafield tag="830" ind1=" " ind2="0">
-            <subfield code="a">Kaliber</subfield>
         </datafield>
     </record>
     <record>
